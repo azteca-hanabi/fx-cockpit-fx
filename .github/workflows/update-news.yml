@@ -1,0 +1,132 @@
+name: Update News
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS and write news.json
+        run: |
+          pip install -q feedparser
+          python3 << 'PYEOF'
+          import feedparser, json, os, calendar
+          from datetime import datetime, timezone
+
+          GOLD_SOURCES = [
+              ('Investing.com 商品先物', 'https://jp.investing.com/rss/news_11.rss', True),
+          ]
+
+          USDJPY_SOURCES = [
+              ('Investing.com 外為', 'https://jp.investing.com/rss/news_285.rss', True),
+          ]
+
+          BTC_SOURCES = [
+              ('Investing.com 暗号資産', 'https://jp.investing.com/rss/302.rss',      False),
+              ('CoinPost',               'https://coinpost.jp/?feed=rss2',            False),
+          ]
+
+          GOLD_EXCLUSIONS = ['ゴールドマン', 'ゴールデン', 'Goldman', '年金', '相続', 'マンション', '不動産', '保険', '節税']
+
+          GOLD_KEYWORDS = [
+              'XAU', 'ゴールド', '金価格', '金相場', '原油', 'WTI',
+              'インフレ', '貴金属', 'XAUUSD', 'コモディティ', '商品市場',
+              'gold', 'GOLD', '金融緩和', 'リスク回避',
+              'トランプ', 'Trump', '関税', '地政学', '停戦', '紛争',
+              '安全資産', '避難通貨', 'リスクオフ', 'リスクオン', '貿易摩擦', 'FOMC',
+          ]
+
+          USDJPY_KEYWORDS = [
+              'ドル円', 'USD/JPY', 'USDJPY', 'FRB', 'Fed', '日銀',
+              '為替', '利上げ', '利下げ', '金利', '円安', '円高',
+              '為替介入', 'ドル', '円相場', '通貨',
+              'トランプ', 'Trump', '関税', '地政学', '停戦', '紛争',
+              '安全資産', '避難通貨', 'リスクオフ', 'リスクオン', '貿易摩擦', 'FOMC',
+          ]
+
+          BTC_KEYWORDS = [
+              'BTC', 'ビットコイン', '仮想通貨', '暗号資産', 'BTCUSD', '半減期',
+              '暗号通貨', 'Bitcoin', 'ビットコインETF', '暗号資産ETF',
+              'トランプ', 'Trump', '関税', '地政学', '停戦', '紛争',
+              '安全資産', '避難通貨', 'リスクオフ', 'リスクオン', '貿易摩擦', 'FOMC',
+          ]
+
+          LIMIT_72H = 72 * 3600
+
+          def get_iso_date(entry):
+              for attr in ('published_parsed', 'updated_parsed'):
+                  parsed = getattr(entry, attr, None)
+                  if parsed:
+                      ts = calendar.timegm(parsed)
+                      return datetime.fromtimestamp(ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+              return ''
+
+          def fetch_items(sources, keywords, exclusions=None):
+              items = []
+              seen = set()
+              now = datetime.now(timezone.utc).timestamp()
+              for source_name, url, pre_filtered in sources:
+                  try:
+                      feed = feedparser.parse(url)
+                      count = len(feed.entries)
+                      print(f'{source_name}: {count} entries at {url}')
+                      if count == 0:
+                          print(f'  WARNING: no entries')
+                      for entry in feed.entries[:30]:
+                          title = entry.get('title', '')
+                          link  = entry.get('link',  '')
+                          if not link or link in seen:
+                              continue
+                          iso = get_iso_date(entry)
+                          if iso:
+                              age = now - datetime.fromisoformat(iso.replace('Z', '+00:00')).timestamp()
+                              if age > LIMIT_72H:
+                                  continue
+                          text = title + ' ' + entry.get('summary', '')
+                          if exclusions and any(excl in text for excl in exclusions):
+                              continue
+                          if pre_filtered or any(kw in text for kw in keywords):
+                              seen.add(link)
+                              items.append({
+                                  'source':    source_name,
+                                  'title':     title,
+                                  'link':      link,
+                                  'published': entry.get('published', ''),
+                                  'isoDate':   iso,
+                              })
+                  except Exception as e:
+                      print(f'SKIP {source_name}: {e}')
+              items.sort(key=lambda x: x['isoDate'] or '', reverse=True)
+              return items[:30]
+
+          gold_items   = fetch_items(GOLD_SOURCES,   GOLD_KEYWORDS,   GOLD_EXCLUSIONS)
+          usdjpy_items = fetch_items(USDJPY_SOURCES, USDJPY_KEYWORDS)
+          btc_items    = fetch_items(BTC_SOURCES,    BTC_KEYWORDS)
+
+          out = {
+              'updated':      datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'last_checked': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+              'gold_items':   gold_items,
+              'usdjpy_items': usdjpy_items,
+              'btc_items':    btc_items,
+          }
+          os.makedirs('public/data', exist_ok=True)
+          with open('public/data/news.json', 'w', encoding='utf-8') as f:
+              json.dump(out, f, ensure_ascii=False, indent=2)
+          print(f'Saved gold={len(gold_items)}, usdjpy={len(usdjpy_items)}, btc={len(btc_items)}, updated={out["updated"]}')
+          PYEOF
+
+      - name: Commit and push news.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json
+          git commit -m "chore: update news.json $(date -u +%Y-%m-%d)"
+          git push
