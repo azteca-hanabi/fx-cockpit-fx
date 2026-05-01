@@ -349,10 +349,11 @@ const PRICE_INTERVAL     = 5000;
 const MARKET_STALE_MS    = 6 * 60 * 60 * 1000;
 
 const DEFAULT_CHARTS = [
-  {id:'xyz:GOLD', symbol:'GOLD', name:'Gold',    source:'xyz'},
-  {id:'xyz:CL',   symbol:'CL',   name:'WTI Oil', source:'xyz'},
-  {id:'xyz:EUR',  symbol:'EUR',   name:'EUR/USD', source:'xyz'},
-  null, null, null, null, null,
+  {id:'xyz:XYZ100', symbol:'XYZ100', name:'US100',  source:'xyz'},
+  {id:'xyz:CL',     symbol:'CL',     name:'WTI Oil', source:'xyz'},
+  {id:'xyz:EUR',    symbol:'EUR',     name:'EUR/USD', source:'xyz'},
+  {id:'xyz:JP225',  symbol:'JP225',   name:'Nikkei 225', source:'xyz'},
+  null, null, null, null,
 ];
 
 // ─── STATE ───────────────────────────────────────────
@@ -839,8 +840,8 @@ function initTVWidgets() {
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 150);
-  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', 115);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 180);
+  createWidget('tv-dxy-wrap',    'OANDA:XAUUSD', 180);
 }
 
 // ─── THEME ────────────────────────────────────────────
