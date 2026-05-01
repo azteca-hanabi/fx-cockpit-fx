@@ -442,35 +442,52 @@ function initTVWidgets() {
   create('tv-dxy-wrap', 'OANDA:XAUUSD');
 }
 
+// ─── COIN SOURCE ───
+function coinSource(coin) {
+  if (coin.source) return coin.source;
+  return coin.id.startsWith('xyz:') ? 'xyz' : 'pyth';
+}
+
 // ─── PRICE UPDATE ───
 async function updatePrices() {
-  try {
-    const [xyzRes, pythRes] = await Promise.allSettled([
-      fetch('https://api.hyperliquid.xyz/info', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({type:'allMids', dex:'xyz'})}).then(r => r.json()),
-      // 主要ペア＋登録済みPythペアを一括取得
-      fetch(`https://hermes.pyth.network/v2/updates/price/latest?ids[]=0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace&ids[]=0x765d2ba906cba6297237063d91ca0a90ca921103b41716dae0c6e86477bb3009`).then(r => r.json())
-    ]);
+  const activeCharts = _data.charts.filter(Boolean);
+  const pythCharts = activeCharts.filter(c => coinSource(c) === 'pyth');
 
-    if (xyzRes.status === 'fulfilled') {
-      const mids = xyzRes.value.mids || xyzRes.value;
-      for (const [k, v] of Object.entries(mids)) { _prices['xyz:'+k] = v; }
+  const [xyzRes] = await Promise.allSettled([
+    fetch('https://api.hyperliquid.xyz/info', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({type: 'allMids', dex: 'xyz'})
+    }).then(r => r.json())
+  ]);
+
+  if (xyzRes.status === 'fulfilled') {
+    const mids = xyzRes.value.mids || xyzRes.value;
+    for (const [k, v] of Object.entries(mids)) {
+      _prices['xyz:' + k] = v;
     }
-    if (pythRes.status === 'fulfilled') {
-      pythRes.value.parsed.forEach(p => {
-        const val = p.price.price * Math.pow(10, p.price.expo);
-        _pythPrices[p.id] = val;
+  }
+
+  if (pythCharts.length > 0) {
+    try {
+      const params = pythCharts.map(c => 'ids[]=' + encodeURIComponent(c.id)).join('&');
+      const pythRes = await fetch('https://hermes.pyth.network/v2/updates/price/latest?' + params).then(r => r.json());
+      (pythRes.parsed || []).forEach(p => {
+        _pythPrices[p.id] = p.price.price * Math.pow(10, p.price.expo);
+        if (_pythPublishTimes) _pythPublishTimes[p.id] = p.price.publish_time;
       });
-    }
+    } catch(e) { console.warn('Pyth price fetch failed:', e); }
+  }
 
-    // メイン価格の反映
-    const usdjpy = _prices['xyz:USDJPY'] || _pythPrices['0x765d2ba906cba6297237063d91ca0a90ca921103b41716dae0c6e86477bb3009'];
-    const gold = _prices['xyz:GOLD'] || _pythPrices['0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace'];
-    
-    if(document.getElementById('main-price-usdjpy')) document.getElementById('main-price-usdjpy').textContent = fmtPrice(usdjpy);
-    if(document.getElementById('main-price-gold')) document.getElementById('main-price-gold').textContent = fmtPrice(gold);
-    
-    renderChartSlots();
-  } catch(e) { console.warn('Price update failed', e); }
+  // メイン価格表示（要素が存在する場合のみ）
+  const usdjpy = _prices['xyz:JPY'];
+  const gold   = _prices['xyz:GOLD'];
+  const uEl = document.getElementById('main-price-usdjpy');
+  const gEl = document.getElementById('main-price-gold');
+  if (uEl) uEl.textContent = fmtPrice(usdjpy);
+  if (gEl) gEl.textContent = fmtPrice(gold);
+
+  renderChartSlots();
 }
 
 // ─── OTHER LIBS (FnG, News, etc.) ───
