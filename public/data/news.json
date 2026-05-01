@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T22:27:14Z",
-  "last_checked": "2026-05-01T22:27:14Z",
+  "updated": "2026-05-01T23:30:07Z",
+  "last_checked": "2026-05-01T23:30:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、ハイテクが支える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1515575",
+      "published": "2026-05-01 23:00:06",
+      "isoDate": "2026-05-01T23:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "1日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが支える",
       "link": "https://jp.investing.com/news/forex-news/article-1515553",
       "published": "2026-05-01 22:00:05",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1515542",
       "published": "2026-05-01 21:45:04",
       "isoDate": "2026-05-01T21:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY原油：続落、一時100ドルを下回る",
-      "link": "https://jp.investing.com/news/forex-news/article-1515502",
-      "published": "2026-05-01 21:00:05",
-      "isoDate": "2026-05-01T21:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,55 +145,5 @@
       "isoDate": "2026-04-30T21:53:13Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
-      "link": "https://coinpost.jp/?p=706560",
-      "published": "Sat, 02 May 2026 05:55:38 +0900",
-      "isoDate": "2026-05-01T20:55:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBI決算発表｜仮想通貨事業が過去最高益、JPYSCローンチや貸金業参入など2026年のWeb3戦略を総括",
-      "link": "https://coinpost.jp/?p=706446",
-      "published": "Fri, 01 May 2026 16:59:34 +0900",
-      "isoDate": "2026-05-01T07:59:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、短期保有者の損益が6カ月ぶりプラス転換　強気・弱気の分岐点か＝アナリスト",
-      "link": "https://coinpost.jp/?p=706435",
-      "published": "Fri, 01 May 2026 16:16:11 +0900",
-      "isoDate": "2026-05-01T07:16:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マラソン、オハイオ州ガス発電所を約2400億円で買収　AI・HPC事業の基盤強化へ",
-      "link": "https://coinpost.jp/?p=706312",
-      "published": "Fri, 01 May 2026 11:30:35 +0900",
-      "isoDate": "2026-05-01T02:30:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国防長官、ビットコインの安保活用を認める　機密扱いの取り組みも進行中と証言",
-      "link": "https://coinpost.jp/?p=706324",
-      "published": "Fri, 01 May 2026 11:07:38 +0900",
-      "isoDate": "2026-05-01T02:07:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIホールディングス、ビットバンク子会社化に向けた資本業務提携協議へ",
-      "link": "https://coinpost.jp/?p=706300",
-      "published": "Fri, 01 May 2026 10:44:32 +0900",
-      "isoDate": "2026-05-01T01:44:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "2026年4月は仮想通貨の不正流出件数が過去最高に、被害額は計980億円超",
-      "link": "https://coinpost.jp/?p=706267",
-      "published": "Fri, 01 May 2026 10:34:39 +0900",
-      "isoDate": "2026-05-01T01:34:39Z"
-    }
-  ]
+  "btc_items": []
 }
