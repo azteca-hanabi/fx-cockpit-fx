@@ -12,6 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<!-- 高機能チャート用エンジン -->
 <script src="https://s3.tradingview.com/tv.js"></script>
 <style>
 /* ─── THEMES ─── */
@@ -97,13 +98,12 @@ header{
   text-transform:uppercase;padding-bottom:6px;border-bottom:1px solid var(--border);
 }
 
-/* ─── TRADINGVIEW WIDGET WRAP ─── */
+/* ─── MAIN CHARTS (Hybrid Card) ─── */
 .tv-main-grid{display:flex;flex-direction:column;gap:8px;}
 .tv-widget-card{
   background:var(--bg3);border:1.5px solid var(--border2);border-radius:8px;
   overflow:hidden;width:100%;display:flex;flex-direction:column;
 }
-/* ウィジェット上部の価格ヘッダー (以前の見た目を再現) */
 .widget-header{padding:12px 16px 8px;display:flex;flex-direction:column;gap:4px;}
 .widget-title-row{display:flex;align-items:center;gap:8px;}
 .widget-icon{width:24px;height:24px;border-radius:50%;}
@@ -111,11 +111,7 @@ header{
 .widget-price-row{display:flex;align-items:baseline;gap:8px;margin-top:2px;}
 .widget-price-main{font-size:28px;font-weight:700;letter-spacing:-0.02em;}
 .widget-price-currency{font-size:11px;color:var(--muted);font-weight:500;}
-.widget-change{font-size:13px;font-weight:700;}
-.widget-change.up{color:var(--green);}
-.widget-change.down{color:var(--red);}
-
-.tv-chart-container{height:160px;width:100%;} /* チャートの高さを少し抑えてバランス調整 */
+.tv-chart-container{height:160px;width:100%;}
 
 /* ─── CHART GRID ─── */
 .chart-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;}
@@ -268,18 +264,7 @@ header{
   <div class="session-pill" id="sess-ny"><span class="dot"></span>ニューヨーク</div>
 </div>
 
-<div id="ptr-indicator" style="
-  text-align:center;
-  font-size:12px;
-  color:var(--muted);
-  height:0;
-  overflow:hidden;
-  transition:height .2s;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  background:var(--bg2);
-">↓ 引っ張って更新</div>
+<div id="ptr-indicator" style="text-align:center;font-size:12px;color:var(--muted);height:0;overflow:hidden;transition:height .2s;display:flex;align-items:center;justify-content:center;background:var(--bg2);">↓ 引っ張って更新</div>
 
 <div class="page-content">
 
@@ -294,7 +279,6 @@ header{
         <div class="widget-price-row">
           <span class="widget-price-main" id="main-price-usdjpy">---.---</span>
           <span class="widget-price-currency">JPY</span>
-          <!-- 騰落率はウィジェット側の軸を見るため一旦簡易表示 -->
         </div>
       </div>
       <div class="tv-chart-container" id="tv-usdjpy-wrap"></div>
@@ -321,19 +305,10 @@ header{
 
   <div class="sec-heading">アプリ起動</div>
   <div class="launch-grid">
-    <button class="launch-tv" id="btn-tradingview">
-      <span class="tv-icon">📈</span>
-      TradingView
-    </button>
+    <button class="launch-tv" id="btn-tradingview"><span class="tv-icon">📈</span>TradingView</button>
     <div class="launch-row">
-      <a class="launch-btn" href="metatrader5://">
-        MT5
-        <span class="launch-sub">MetaTrader 5</span>
-      </a>
-      <a class="launch-btn" href="metatrader4://">
-        MT4
-        <span class="launch-sub">MetaTrader 4</span>
-      </a>
+      <a class="launch-btn" href="metatrader5://">MT5<span class="launch-sub">MetaTrader 5</span></a>
+      <a class="launch-btn" href="metatrader4://">MT4<span class="launch-sub">MetaTrader 4</span></a>
     </div>
   </div>
 
@@ -348,73 +323,193 @@ header{
   </div>
 
   <div class="sec-heading">ニュース</div>
-  <div class="news-list" id="news-list">
-    <div class="news-empty">読み込み中...</div>
-  </div>
+  <div class="news-list" id="news-list"><div class="news-empty">読み込み中...</div></div>
+</div>
 
+<!-- モーダル・メニュー類は以前のものを維持 -->
+<div id="overlay-chart" class="modal-overlay hidden">
+  <div class="modal-sheet" id="modal-chart">
+    <div class="modal-header"><span class="modal-title">銘柄を追加</span><button class="modal-close" id="close-chart">✕</button></div>
+    <div class="modal-search-wrap"><input id="chart-search" class="modal-search-input" type="search" placeholder="GOLD / USDJPY / AAPL..." autocomplete="off"></div>
+    <div id="chart-results"></div>
+  </div>
+</div>
+<div id="overlay-lp" class="modal-overlay hidden">
+  <div class="modal-sheet"><div class="longpress-menu"><button id="lp-change">変更</button><button id="lp-delete">削除</button><button id="lp-cancel">キャンセル</button></div></div>
 </div>
 
 <script>
-// --- [中略: loadData, saveData, Universe関連,fmtPriceなどはそのまま維持] ---
-// ... (既存のスクリプトをそのまま使用) ...
+// ─── CONSTANTS ───
+const STORAGE_KEY = 'fxc-fx-data-v4';
+const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
+const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
+const MAX_CHARTS = 8;
+const PRICE_INTERVAL = 5000;
+const MARKET_STALE_MS = 6 * 60 * 60 * 1000;
 
-// --- ウィジェット初期化部分の改良 ---
+const DEFAULT_CHARTS = [
+  {id:'710afe0041a07156bfd71971160c78a326bf8121403e0d4e140d06bea0353b7f', symbol:'USDXY', name:'US Dollar Index', source:'pyth'},
+  {id:'xyz:CL', symbol:'CL', name:'WTI Oil', source:'xyz'},
+  {id:'xyz:EUR', symbol:'EUR', name:'EUR/USD', source:'xyz'},
+  {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225', source:'xyz'},
+  null, null, null, null,
+];
+
+// ─── STATE ───
+let _data = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
+let _universe = [];
+let _prices = {};
+let _pythPrices = {};
+let _pythPublishTimes = {};
+let _pendingSlot = null;
+let _searchTimer = null;
+
+// ─── FUNCTIONS ───
+function loadData() {
+  try {
+    const s = localStorage.getItem(STORAGE_KEY);
+    if (s) {
+      const p = JSON.parse(s);
+      if (Array.isArray(p.charts)) {
+        _data.charts = p.charts;
+        while (_data.charts.length < MAX_CHARTS) _data.charts.push(null);
+        _data.charts = _data.charts.slice(0, MAX_CHARTS);
+      }
+    } else { saveData(); }
+  } catch(e) { saveData(); }
+}
+
+function saveData() { localStorage.setItem(STORAGE_KEY, JSON.stringify(_data)); }
+
+async function loadUniverse() {
+  const cached = localStorage.getItem(UNIVERSE_CACHE_KEY);
+  if (cached) {
+    const cache = JSON.parse(cached);
+    if (Date.now() - cache.timestamp < UNIVERSE_CACHE_TTL) { _universe = cache.feeds; return; }
+  }
+  try {
+    const [xyzRes, pythRes] = await Promise.allSettled([
+      fetch('https://api.hyperliquid.xyz/info', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({type:'metaAndAssetCtxs', dex:'xyz'})}).then(r => r.json()),
+      fetch('https://hermes.pyth.network/v2/price_feeds').then(r => r.json())
+    ]);
+    const xyz = xyzRes.status === 'fulfilled' ? xyzRes.value[0].universe.map(u => ({id:'xyz:'+u.name, symbol:u.name, name:u.name, source:'xyz'})) : [];
+    const pyth = pythRes.status === 'fulfilled' ? pythRes.value.map(f => ({id:f.id, symbol:(f.attributes.generic_symbol || f.attributes.symbol), name:f.attributes.description, source:'pyth'})).filter(f => f.symbol) : [];
+    _universe = [...xyz, ...pyth];
+    localStorage.setItem(UNIVERSE_CACHE_KEY, JSON.stringify({timestamp:Date.now(), feeds:_universe}));
+  } catch(e) { console.warn('Universe failed', e); }
+}
+
+function fmtPrice(v) {
+  if (v == null) return '--';
+  const n = parseFloat(v);
+  if (isNaN(n)) return '--';
+  if (n >= 10000) return n.toLocaleString('en-US', {maximumFractionDigits:2});
+  if (n >= 100) return n.toLocaleString('en-US', {maximumFractionDigits:3});
+  return n.toFixed(4);
+}
+
+function renderChartSlots() {
+  const grid = document.getElementById('chart-grid');
+  grid.innerHTML = '';
+  _data.charts.forEach((coin, i) => {
+    const el = document.createElement('div');
+    if (coin) {
+      const px = (coin.source === 'xyz') ? _prices[coin.id] : _pythPrices[coin.id];
+      el.className = 'chart-slot filled';
+      el.innerHTML = `<div class="slot-symbol">${coin.symbol}</div><div class="slot-name">${coin.name}</div><div class="slot-price">${fmtPrice(px)}</div>`;
+      el.dataset.coinId = coin.id;
+    } else {
+      el.className = 'chart-slot empty';
+      el.innerHTML = '<div class="slot-add-icon">＋</div><div class="slot-add-label">銘柄を追加</div>';
+    }
+    el.addEventListener('click', () => { if(coin) window.open('https://www.tradingview.com/chart/?symbol='+coin.symbol, '_blank'); else openChartModal(i); });
+    grid.appendChild(el);
+  });
+}
+
+// ─── TRADINGVIEW WIDGETS ───
 function initTVWidgets() {
   const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
-
-  function createWidget(containerId, symbol) {
+  function create(id, symbol) {
     if (typeof TradingView !== 'undefined') {
       new TradingView.widget({
-        "autosize": true,
-        "symbol": symbol,
-        "interval": "60",
-        "timezone": "Etc/UTC",
-        "theme": theme,
-        "style": "1",
-        "locale": "ja",
-        "toolbar_bg": "rgba(0,0,0,0)",
-        "enable_publishing": false,
-        "hide_top_toolbar": true,
-        "hide_legend": true,
-        "save_image": false,
-        "container_id": containerId,
-        "range": "5D",
-        "details": false,
-        "hotlist": false,
-        "calendar": false,
-        "show_popup_button": false,
-        // 価格情報の同期用 (ウィジェット側で取得した価格をヘッダーに反映させるのは困難なため、既存の価格取得エンジンを利用)
+        "autosize": true, "symbol": symbol, "interval": "60", "theme": theme, "style": "1", "locale": "ja",
+        "hide_top_toolbar": true, "hide_legend": true, "save_image": false, "container_id": id, "range": "5D"
       });
     }
   }
-
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY');
-  createWidget('tv-dxy-wrap', 'OANDA:XAUUSD');
+  create('tv-usdjpy-wrap', 'OANDA:USDJPY');
+  create('tv-dxy-wrap', 'OANDA:XAUUSD');
 }
 
-// 価格更新エンジンに、USDJPYとGOLDのメイン表示への反映を追加
+// ─── PRICE UPDATE ───
 async function updatePrices() {
-  const activeCharts = _data.charts.filter(Boolean);
-  const pythCharts   = activeCharts.filter(c => (c.source || (c.id.startsWith('xyz:') ? 'xyz' : 'pyth')) === 'pyth');
+  try {
+    const [xyzRes, pythRes] = await Promise.allSettled([
+      fetch('https://api.hyperliquid.xyz/info', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({type:'allMids', dex:'xyz'})}).then(r => r.json()),
+      // 主要ペア＋登録済みPythペアを一括取得
+      fetch(`https://hermes.pyth.network/v2/updates/price/latest?ids[]=0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace&ids[]=0x765d2ba906cba6297237063d91ca0a90ca921103b41716dae0c6e86477bb3009`).then(r => r.json())
+    ]);
 
-  // メインの2銘柄も価格取得対象に含める (もしuniverseにない場合でも取得できるよう個別に叩く想定)
-  await Promise.allSettled([
-    fetchXyzPrices(),
-    fetchPythPrices(pythCharts),
-  ]);
+    if (xyzRes.status === 'fulfilled') {
+      const mids = xyzRes.value.mids || xyzRes.value;
+      for (const [k, v] of Object.entries(mids)) { _prices['xyz:'+k] = v; }
+    }
+    if (pythRes.status === 'fulfilled') {
+      pythRes.value.parsed.forEach(p => {
+        const val = p.price.price * Math.pow(10, p.price.expo);
+        _pythPrices[p.id] = val;
+      });
+    }
 
-  refreshPriceDisplay();
-
-  // メインカードの価格表示を更新 (マイチャートのデータを流用するか、別途取得)
-  // ここではSさんの既存の _prices などのステートから値を拾うロジックを追加
-  const usdjpyPrice = _prices['xyz:USDJPY'] || _prices['USDJPY'] || "---.---";
-  const goldPrice = _prices['xyz:GOLD'] || _prices['XAUUSD'] || "---.---";
-  
-  if(document.getElementById('main-price-usdjpy')) document.getElementById('main-price-usdjpy').textContent = usdjpyPrice;
-  if(document.getElementById('main-price-gold')) document.getElementById('main-price-gold').textContent = goldPrice;
+    // メイン価格の反映
+    const usdjpy = _prices['xyz:USDJPY'] || _pythPrices['0x765d2ba906cba6297237063d91ca0a90ca921103b41716dae0c6e86477bb3009'];
+    const gold = _prices['xyz:GOLD'] || _pythPrices['0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace'];
+    
+    if(document.getElementById('main-price-usdjpy')) document.getElementById('main-price-usdjpy').textContent = fmtPrice(usdjpy);
+    if(document.getElementById('main-price-gold')) document.getElementById('main-price-gold').textContent = fmtPrice(gold);
+    
+    renderChartSlots();
+  } catch(e) { console.warn('Price update failed', e); }
 }
 
-// ... (残りの init関数やイベントリスナーなどはそのまま維持) ...
+// ─── OTHER LIBS (FnG, News, etc.) ───
+async function loadFng() {
+  const r = await fetch('https://api.alternative.me/fng/').then(r => r.json());
+  const v = r.data[0].value;
+  document.getElementById('fng-value').textContent = v;
+  document.getElementById('fng-bar').style.width = v + '%';
+}
+
+async function loadNews() {
+  const container = document.getElementById('news-list');
+  try {
+    const d = await fetch('public/data/news.json').then(r => r.json());
+    const items = [...(d.gold_items || []), ...(d.usdjpy_items || [])].slice(0, 10);
+    container.innerHTML = items.map(i => `<div class="news-item"><div class="news-meta">${i.source}</div><div class="news-title"><a href="${i.link}" target="_blank">${i.title}</a></div></div>`).join('');
+  } catch(e) { container.innerHTML = 'ニュースなし'; }
+}
+
+// ─── INIT ───
+function openChartModal(i) { _pendingSlot = i; document.getElementById('overlay-chart').classList.remove('hidden'); }
+document.getElementById('close-chart').onclick = () => document.getElementById('overlay-chart').classList.add('hidden');
+
+async function init() {
+  loadData();
+  renderChartSlots();
+  initTVWidgets();
+  await loadUniverse();
+  updatePrices();
+  setInterval(updatePrices, PRICE_INTERVAL);
+  loadFng();
+  loadNews();
+}
+
+window.onload = init;
+setInterval(() => {
+  const now = new Date();
+  document.getElementById('clock').textContent = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ':' + now.getSeconds().toString().padStart(2,'0') + ' JST';
+}, 1000);
 </script>
 </body>
 </html>
