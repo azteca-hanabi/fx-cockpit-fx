@@ -398,11 +398,10 @@ function searchSymbols(raw) {
   const q = raw.trim().toLowerCase();
   if (!q) return [];
   return _symbols
-    .filter(s =>
-      s.id.toLowerCase().includes(q) ||
-      s.symbol.toLowerCase().includes(q) ||
-      s.name.toLowerCase().includes(q)
-    )
+    .filter(s => {
+      const normalizedName = s.name.replace('xyz:', '').toLowerCase();
+      return normalizedName.includes(q);
+    })
     .slice(0, 20);
 }
 
