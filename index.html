@@ -15,21 +15,21 @@
 <style>
 /* ─── THEMES ─── */
 :root,[data-theme="dark"]{
-  --bg:#0a0a0f;--bg2:#0f0f18;--bg3:#1a1a2e;
-  --border:#1e1e2e;--border2:#5a5a7a;
-  --text:#e8e8f8;--muted:#9a9aba;
-  --cyan:#38c9c9;--cyan-dim:#0e4040;
-  --green:#2ecc71;--red:#e74c3c;
-  --gold:#f0b429;--btc:#f7931a;
+  --bg:#061a18;--bg2:#041210;--bg3:#041210;
+  --border:#0e2e2a;--border2:#1a4840;
+  --text:#d0f0e8;--muted:#1a4840;
+  --cyan:#00e09a;--cyan-dim:#0a3028;
+  --green:#00e09a;--red:#e06060;
+  --header-bg:#041210;--header-accent:#00e09a;
   --scanline:1;
 }
 [data-theme="light"]{
-  --bg:#f0f0f8;--bg2:#e4e4f0;--bg3:#ffffff;
-  --border:#d0d0e0;--border2:#b8b8cc;
-  --text:#1a1a30;--muted:#7878a0;
-  --cyan:#006888;--cyan-dim:#c0e8f4;
-  --green:#1a7a3a;--red:#c01818;
-  --gold:#a86e00;--btc:#a05000;
+  --bg:#f0faf6;--bg2:#e8f6f0;--bg3:#ffffff;
+  --border:#c8e8d8;--border2:#a0d0b8;
+  --text:#041a10;--muted:#1a6040;
+  --cyan:#008855;--cyan-dim:#c0e8d0;
+  --green:#008855;--red:#cc3300;
+  --header-bg:#063a28;--header-accent:#00c880;
   --scanline:0;
 }
 
@@ -53,10 +53,10 @@ button{font-family:'Noto Sans JP',sans-serif;}
 header{
   display:flex;align-items:center;justify-content:space-between;
   padding:0 12px;height:52px;
-  border-bottom:1px solid var(--border);background:var(--bg2);
+  border-bottom:2px solid var(--header-accent);background:var(--header-bg);
   flex-shrink:0;gap:8px;min-width:0;
 }
-.logo{font-size:14px;font-weight:700;letter-spacing:.06em;color:var(--cyan);white-space:nowrap;}
+.logo{font-size:14px;font-weight:700;letter-spacing:.06em;color:var(--header-accent);white-space:nowrap;}
 .logo span{color:var(--muted);font-size:11px;font-weight:400;margin-left:6px;}
 .header-right{display:flex;align-items:center;gap:6px;flex-shrink:0;}
 #clock{font-size:13px;font-weight:500;color:var(--muted);white-space:nowrap;letter-spacing:.03em;}
@@ -341,7 +341,7 @@ header{
 
 <script>
 // ─── CONSTANTS ───────────────────────────────────────
-const STORAGE_KEY        = 'fxc-fx-data-v3';
+const STORAGE_KEY        = 'fxc-fx-data-v4';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
 const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
 const MAX_CHARTS         = 8;
@@ -835,13 +835,13 @@ function initTVWidgets() {
       noTimeScale:      true,
       valuesTracking:   '1',
       changeMode:       'price-and-percent',
-      chartType:        'line',
+      chartType:        'candlesticks',
     });
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 180);
-  createWidget('tv-dxy-wrap',    'OANDA:XAUUSD', 180);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 205);
+  createWidget('tv-dxy-wrap',    'OANDA:XAUUSD', 205);
 }
 
 // ─── THEME ────────────────────────────────────────────
