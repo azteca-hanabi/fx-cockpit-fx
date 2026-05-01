@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-01T14:01:13Z",
-  "last_checked": "2026-05-01T14:01:13Z",
+  "updated": "2026-05-01T15:33:27Z",
+  "last_checked": "2026-05-01T15:33:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ブレント原油価格が急騰していない理由、ヤーデニが解説",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515110",
+      "published": "2026-05-01 14:56:34",
+      "isoDate": "2026-05-01T14:56:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ベネズエラの石油輸出が14%増加、7年超ぶりの高水準に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515095",
+      "published": "2026-05-01 14:56:05",
+      "isoDate": "2026-05-01T14:56:05Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "日本、通貨変動を受けて原油先物市場への介入準備を表明",
@@ -57,36 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1512585",
       "published": "2026-04-30 13:20:57",
       "isoDate": "2026-04-30T13:20:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBS、銀価格予想を引き下げ。新たな目標値を公表",
-      "link": "https://jp.investing.com/news/commodities-news/article-1512245",
-      "published": "2026-04-30 11:33:02",
-      "isoDate": "2026-04-30T11:33:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が1カ月ぶり安値から反発、市場はFRB見通しとイラン懸念を考量",
-      "link": "https://jp.investing.com/news/commodities-news/article-1511485",
-      "published": "2026-04-30 06:33:22",
-      "isoDate": "2026-04-30T06:33:22Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イラン戦争は今年後半に再び激化する可能性が高いとBCAが警告",
-      "link": "https://jp.investing.com/news/politics-news/article-1514816",
-      "published": "2026-05-01 13:29:54",
-      "isoDate": "2026-05-01T13:29:54Z"
+      "title": "政府による2度目の介入の可能性はどの程度か",
+      "link": "https://jp.investing.com/news/forex-news/article-1515045",
+      "published": "2026-05-01 14:30:48",
+      "isoDate": "2026-05-01T14:30:48Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル一段安、原油価格の下落で、イランが米国に新提案を提示したとの報",
-      "link": "https://jp.investing.com/news/forex-news/article-1514781",
-      "published": "2026-05-01 13:15:05",
-      "isoDate": "2026-05-01T13:15:05Z"
+      "title": "エネルギー価格の変動続く中、TSXは下落して取引開始",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1514938",
+      "published": "2026-05-01 13:58:09",
+      "isoDate": "2026-05-01T13:58:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,17 +118,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "この閾値突破で市場に「破滅への扉」が開く可能性、バンク・オブ・アメリカのハートネット氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514448",
-      "published": "2026-05-01 10:23:51",
-      "isoDate": "2026-05-01T10:23:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップルCEO、メモリ制約の深刻化を警告",
       "link": "https://jp.investing.com/news/stock-market-news/article-1514388",
       "published": "2026-05-01 10:19:15",
       "isoDate": "2026-05-01T10:19:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが株式市場の上昇で7万8000ドル台を回復、イランリスクが上値を抑制",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1514068",
+      "published": "2026-05-01 06:32:05",
+      "isoDate": "2026-05-01T06:32:05Z"
     },
     {
       "source": "Investing.com 外為",
