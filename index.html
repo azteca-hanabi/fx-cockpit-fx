@@ -582,17 +582,19 @@ async function updatePrices() {
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({type: 'allMids', dex: 'xyz'}),
     });
-    if (!res.ok) return;
+    if (!res.ok) { console.warn('Price fetch HTTP error:', res.status); return; }
     const d = await res.json();
-    // Normalize keys: store both as-is and with "xyz:" prefix so coin.id always matches
-    const rawMids = d.mids || {};
+    // allMids may return {"mids":{...}} or a flat {"GOLD":"4538.65",...} directly
+    const rawMids = (d && d.mids && typeof d.mids === 'object') ? d.mids : (d || {});
     _prices = {};
     for (const [key, val] of Object.entries(rawMids)) {
+      if (typeof val !== 'string' && typeof val !== 'number') continue;
       _prices[key] = val;
+      // Index with and without "xyz:" prefix so coin.id always matches
       if (!key.startsWith('xyz:')) _prices['xyz:' + key] = val;
     }
     refreshPriceDisplay();
-  } catch(e) { console.warn('Price update failed:', e); }
+  } catch(e) { console.warn('Price update failed (CORS?):', e); }
 }
 
 function fetchPricesNow() { updatePrices(); }
