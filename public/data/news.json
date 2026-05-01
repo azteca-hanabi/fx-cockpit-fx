@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T15:33:27Z",
-  "last_checked": "2026-05-01T15:33:27Z",
+  "updated": "2026-05-01T17:02:13Z",
+  "last_checked": "2026-05-01T17:02:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル売り一服、3名のFRB高官がガイダンス反対票を巡る声明",
+      "link": "https://jp.investing.com/news/forex-news/article-1515169",
+      "published": "2026-05-01 15:30:04",
+      "isoDate": "2026-05-01T15:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "政府による2度目の介入の可能性はどの程度か",
       "link": "https://jp.investing.com/news/forex-news/article-1515045",
       "published": "2026-05-01 14:30:48",
       "isoDate": "2026-05-01T14:30:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エネルギー価格の変動続く中、TSXは下落して取引開始",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514938",
-      "published": "2026-05-01 13:58:09",
-      "isoDate": "2026-05-01T13:58:09Z"
     },
     {
       "source": "Investing.com 外為",
