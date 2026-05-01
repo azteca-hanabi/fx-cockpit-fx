@@ -341,7 +341,7 @@ header{
 
 <script>
 // ─── CONSTANTS ───────────────────────────────────────
-const STORAGE_KEY        = 'fxc-fx-data';
+const STORAGE_KEY        = 'fxc-fx-data-v2';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
 const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
 const MAX_CHARTS         = 8;
@@ -349,10 +349,10 @@ const PRICE_INTERVAL     = 5000;
 const MARKET_STALE_MS    = 6 * 60 * 60 * 1000;
 
 const DEFAULT_CHARTS = [
-  {id:'xyz:XYZ100', symbol:'XYZ100', name:'US100',  source:'xyz'},
-  {id:'xyz:CL',     symbol:'CL',     name:'WTI Oil', source:'xyz'},
-  {id:'xyz:EUR',    symbol:'EUR',     name:'EUR/USD', source:'xyz'},
-  {id:'xyz:JP225',  symbol:'JP225',   name:'Nikkei 225', source:'xyz'},
+  {id:'710afe0041a07156bfd71971160c78a326bf8121403e0d4e140d06bea0353b7f', symbol:'USDXY', name:'US Dollar Index', source:'pyth'},
+  {id:'xyz:CL',     symbol:'CL',    name:'WTI Oil',     source:'xyz'},
+  {id:'xyz:EUR',    symbol:'EUR',   name:'EUR/USD',     source:'xyz'},
+  {id:'xyz:JP225',  symbol:'JP225', name:'Nikkei 225',  source:'xyz'},
   null, null, null, null,
 ];
 
