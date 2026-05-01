@@ -12,6 +12,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<!-- TradingView 高度なチャート用ライブラリ -->
+<script src="https://s3.tradingview.com/tv.js"></script>
 <style>
 /* ─── THEMES ─── */
 :root,[data-theme="dark"]{
@@ -98,9 +100,11 @@ header{
 
 /* ─── TRADINGVIEW WIDGET ─── */
 .tv-main-grid{display:flex;flex-direction:column;gap:8px;}
-.tv-widget-wrap{border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);width:100%;}
-.tradingview-widget-copyright{padding:2px 8px 4px;background:transparent;font-size:11px;line-height:1.4;text-align:right;}
-.tradingview-widget-copyright .blue-text{color:var(--muted)!important;text-decoration:underline;}
+.tv-widget-wrap{
+  border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);
+  width:100%;height:205px; /* 高さを固定 */
+  background:var(--bg3);
+}
 
 /* ─── CHART GRID ─── */
 .chart-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;}
@@ -268,12 +272,10 @@ header{
 
 <div class="page-content">
 
-  <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
   <div class="tv-main-grid">
     <div class="tv-widget-wrap" id="tv-usdjpy-wrap"></div>
     <div class="tv-widget-wrap" id="tv-dxy-wrap"></div>
   </div>
-  <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
 
   <div class="sec-heading">マイチャート</div>
   <div class="chart-grid" id="chart-grid"></div>
@@ -359,7 +361,7 @@ const DEFAULT_CHARTS = [
 // ─── STATE ───────────────────────────────────────────
 let _data             = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
 let _universe         = [];
-let _prices           = {};
+let _prices            = {};
 let _pythPrices       = {};
 let _pythPublishTimes = {};
 let _pendingSlot      = null;
@@ -677,7 +679,7 @@ document.getElementById('chart-results').addEventListener('click', e => {
   if (!item || _pendingSlot == null) return;
   const idx = _pendingSlot;
   _data.charts[idx] = {
-    id:     item.dataset.id,
+    id:      item.dataset.id,
     symbol: item.dataset.symbol,
     name:   item.dataset.name,
     source: item.dataset.source,
@@ -697,7 +699,7 @@ async function fetchXyzPrices() {
       body: JSON.stringify({type: 'allMids', dex: 'xyz'}),
     });
     if (!res.ok) { console.warn('xyz price HTTP error:', res.status); return; }
-    const d       = await res.json();
+    const d        = await res.json();
     const rawMids = (d && d.mids && typeof d.mids === 'object') ? d.mids : (d || {});
     for (const [key, val] of Object.entries(rawMids)) {
       if (typeof val !== 'string' && typeof val !== 'number') continue;
@@ -796,53 +798,40 @@ async function loadNews() {
   }
 }
 
-// ─── TRADINGVIEW WIDGETS ──────────────────────────────
+// ─── TRADINGVIEW WIDGETS (高度なチャート版) ──────────────────
 function initTVWidgets() {
   const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
 
-  function createWidget(wrapId, symbol, height = 150) {
+  function createWidget(wrapId, symbol, height = 205) {
     const wrap = document.getElementById(wrapId);
     if (!wrap) return;
-    wrap.innerHTML =
-      `<div class="tradingview-widget-container">` +
-        `<div class="tradingview-widget-container__widget"></div>` +
-        `<div class="tradingview-widget-copyright">` +
-          `<a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">` +
-            `<span class="blue-text">Track all markets on TradingView</span>` +
-          `</a>` +
-        `</div>` +
-      `</div>`;
-    const s = document.createElement('script');
-    s.type  = 'text/javascript';
-    s.src   = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js';
-    s.async = true;
-    s.innerHTML = JSON.stringify({
-      symbols:          [[symbol + '|1H']],
-      chartOnly:        false,
-      width:            '100%',
-      height:           height,
-      locale:           'ja',
-      colorTheme:       theme,
-      autosize:         false,
-      showVolume:       false,
-      showMA:           false,
-      hideDateRanges:   true,
-      hideMarketStatus: false,
-      scalePosition:    'right',
-      scaleMode:        'Normal',
-      fontFamily:       '-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif',
-      fontSize:         '10',
-      noTimeScale:      true,
-      valuesTracking:   '1',
-      changeMode:       'price-and-percent',
-      chartType:        'candlesticks',
-      dateRange:        '5D',
-    });
-    wrap.querySelector('.tradingview-widget-container').appendChild(s);
+
+    // 前回のウィジェットをクリアしてIDを付与
+    const innerId = `${wrapId}-inner`;
+    wrap.innerHTML = `<div id="${innerId}" style="height:${height}px; width:100%;"></div>`;
+
+    if (typeof TradingView !== 'undefined') {
+      new TradingView.widget({
+        "autosize": true,
+        "symbol": symbol,
+        "interval": "60",        // 1時間足
+        "timezone": "Etc/UTC",
+        "theme": theme,
+        "style": "1",           // 1 = ローソク足
+        "locale": "ja",
+        "toolbar_bg": "rgba(0,0,0,0)",
+        "enable_publishing": false,
+        "hide_top_toolbar": true,      // 上部メニューを隠してスッキリさせる
+        "hide_legend": true,           // 左上の銘柄名表示を隠す
+        "save_image": false,
+        "container_id": innerId,
+        "range": "5D"                  // 5日間に固定
+      });
+    }
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 205);
-  createWidget('tv-dxy-wrap',    'OANDA:XAUUSD', 205);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY');
+  createWidget('tv-dxy-wrap', 'OANDA:XAUUSD');
 }
 
 // ─── THEME ────────────────────────────────────────────
@@ -875,7 +864,7 @@ function updateSessions() {
   function active(s, e) { return e <= 24 ? h >= s && h < e : h >= s || h < (e - 24); }
   document.getElementById('sess-tokyo').classList.toggle('active',  active(8,  15));
   document.getElementById('sess-london').classList.toggle('active', active(16, 25));
-  document.getElementById('sess-ny').classList.toggle('active',     active(21, 30));
+  document.getElementById('sess-ny').classList.toggle('active',      active(21, 30));
 }
 setInterval(updateSessions, 10000);
 updateSessions();
