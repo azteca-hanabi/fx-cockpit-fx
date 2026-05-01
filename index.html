@@ -542,7 +542,7 @@ async function updatePrices() {
     const mids = xyzRes.value.mids || xyzRes.value;
     for (const [k, v] of Object.entries(mids)) {
       _prices[k] = v;
-      _prices['xyz:'+k] = v;
+      _prices[k.replace('xyz:', '')] = v;
     }
   }
 
