@@ -469,7 +469,7 @@ async function updatePrices() {
   if (xyzRes.status === 'fulfilled') {
     const mids = xyzRes.value.mids || xyzRes.value;
     for (const [k, v] of Object.entries(mids)) {
-      _prices['xyz:' + k] = v;
+      _prices[k] = v;
     }
   }
 
