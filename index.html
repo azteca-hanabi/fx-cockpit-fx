@@ -290,7 +290,6 @@ header{
     <div class="tv-widget-card">
       <div class="widget-header">
         <div class="widget-title-row">
-          <img class="widget-icon" src="https://s3-symbol-logo.tradingview.com/metals/gold.svg" alt="Gold">
           <span class="widget-symbol-name">金／米ドル</span>
         </div>
         <div class="widget-price-row">
@@ -343,31 +342,30 @@ header{
 
 <script>
 // ─── CONSTANTS ───
-const STORAGE_KEY = 'fxc-fx-data-v4';
+const STORAGE_KEY        = 'fxc-fx-data-v4';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
 const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
-const MAX_CHARTS = 8;
-const PRICE_INTERVAL = 5000;
-const MARKET_STALE_MS = 6 * 60 * 60 * 1000;
+const MAX_CHARTS         = 8;
+const PRICE_INTERVAL     = 5000;
+const MARKET_STALE_MS    = 6 * 60 * 60 * 1000;
 
 const DEFAULT_CHARTS = [
   {id:'710afe0041a07156bfd71971160c78a326bf8121403e0d4e140d06bea0353b7f', symbol:'USDXY', name:'US Dollar Index', source:'pyth'},
-  {id:'xyz:CL', symbol:'CL', name:'WTI Oil', source:'xyz'},
-  {id:'xyz:EUR', symbol:'EUR', name:'EUR/USD', source:'xyz'},
-  {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225', source:'xyz'},
+  {id:'xyz:CL',    symbol:'CL',    name:'WTI Oil',     source:'xyz'},
+  {id:'xyz:EUR',   symbol:'EUR',   name:'EUR/USD',     source:'xyz'},
+  {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225',  source:'xyz'},
   null, null, null, null,
 ];
 
-// ─── STATE ───
-let _data = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
-let _universe = [];
-let _prices = {};
-let _pythPrices = {};
+let _data             = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
+let _universe         = [];
+let _prices           = {};
+let _pythPrices       = {};
 let _pythPublishTimes = {};
-let _pendingSlot = null;
-let _searchTimer = null;
+let _pendingSlot      = null;
+let _searchTimer      = null;
 
-// ─── FUNCTIONS ───
+// ─── STORAGE ───
 function loadData() {
   try {
     const s = localStorage.getItem(STORAGE_KEY);
@@ -381,42 +379,51 @@ function loadData() {
     } else { saveData(); }
   } catch(e) { saveData(); }
 }
-
 function saveData() { localStorage.setItem(STORAGE_KEY, JSON.stringify(_data)); }
 
+// ─── UNIVERSE ───
 async function loadUniverse() {
-  const cached = localStorage.getItem(UNIVERSE_CACHE_KEY);
-  if (cached) {
-    const cache = JSON.parse(cached);
-    if (Date.now() - cache.timestamp < UNIVERSE_CACHE_TTL) { _universe = cache.feeds; return; }
-  }
   try {
+    const cached = localStorage.getItem(UNIVERSE_CACHE_KEY);
+    if (cached) {
+      const cache = JSON.parse(cached);
+      if (Date.now() - cache.timestamp < UNIVERSE_CACHE_TTL) { _universe = cache.feeds; return; }
+    }
     const [xyzRes, pythRes] = await Promise.allSettled([
       fetch('https://api.hyperliquid.xyz/info', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({type:'metaAndAssetCtxs', dex:'xyz'})}).then(r => r.json()),
       fetch('https://hermes.pyth.network/v2/price_feeds').then(r => r.json())
     ]);
-    const xyz = xyzRes.status === 'fulfilled' ? xyzRes.value[0].universe.map(u => ({id:'xyz:'+u.name, symbol:u.name, name:u.name, source:'xyz'})) : [];
-    const pyth = pythRes.status === 'fulfilled' ? pythRes.value.map(f => ({id:f.id, symbol:(f.attributes.generic_symbol || f.attributes.symbol), name:f.attributes.description, source:'pyth'})).filter(f => f.symbol) : [];
-    _universe = [...xyz, ...pyth];
+    const xyz  = xyzRes.status  === 'fulfilled' ? xyzRes.value[0].universe.map(u => ({id:'xyz:'+u.name, symbol:u.name, name:u.name, source:'xyz'})) : [];
+    const pyth = pythRes.status === 'fulfilled' ? pythRes.value.map(f => ({id:f.id, symbol:(f.attributes.generic_symbol||f.attributes.symbol), name:f.attributes.description, source:'pyth'})).filter(f=>f.symbol) : [];
+    const xyzSyms = new Set(xyz.map(f => f.symbol.toUpperCase()));
+    _universe = [...xyz, ...pyth.filter(f => !xyzSyms.has(f.symbol.toUpperCase()))];
     localStorage.setItem(UNIVERSE_CACHE_KEY, JSON.stringify({timestamp:Date.now(), feeds:_universe}));
   } catch(e) { console.warn('Universe failed', e); }
 }
 
+// ─── FORMAT ───
 function fmtPrice(v) {
   if (v == null) return '--';
   const n = parseFloat(v);
   if (isNaN(n)) return '--';
   if (n >= 10000) return n.toLocaleString('en-US', {maximumFractionDigits:2});
-  if (n >= 100) return n.toLocaleString('en-US', {maximumFractionDigits:3});
+  if (n >= 100)   return n.toLocaleString('en-US', {maximumFractionDigits:3});
   return n.toFixed(4);
 }
-
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function coinSource(coin) {
+  if (coin.source) return coin.source;
+  return coin.id.startsWith('xyz:') ? 'xyz' : 'pyth';
+}
 function getPriceText(coin) {
   if (!coin) return '--';
-  if (coin.source === 'xyz') return fmtPrice(_prices[coin.id]);
+  if (coinSource(coin) === 'xyz') return fmtPrice(_prices[coin.id]);
   return fmtPrice(_pythPrices[coin.id]);
 }
 
+// ─── RENDER SLOTS ───
 function renderChartSlots() {
   const grid = document.getElementById('chart-grid');
   grid.innerHTML = '';
@@ -424,101 +431,294 @@ function renderChartSlots() {
     const el = document.createElement('div');
     if (coin) {
       el.className = 'chart-slot filled';
-      el.innerHTML = `<div class="slot-symbol">${coin.symbol}</div><div class="slot-name">${coin.name}</div><div class="slot-price">${getPriceText(coin)}</div>`;
+      el.innerHTML = `<div class="slot-symbol">${escHtml(coin.symbol)}</div><div class="slot-name">${escHtml(coin.name)}</div><div class="slot-price">${getPriceText(coin)}</div>`;
       el.dataset.coinId = coin.id;
     } else {
       el.className = 'chart-slot empty';
       el.innerHTML = '<div class="slot-add-icon">＋</div><div class="slot-add-label">銘柄を追加</div>';
     }
-    el.addEventListener('click', () => { if(coin) window.open('https://www.tradingview.com/chart/?symbol='+coin.symbol, '_blank'); else openChartModal(i); });
+    attachSlotHandlers(el, i);
     grid.appendChild(el);
   });
 }
 
-// ─── TRADINGVIEW WIDGETS ───
-function initTVWidgets() {
-  const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
-  function create(id, symbol) {
-    if (typeof TradingView !== 'undefined') {
-      new TradingView.widget({
-        "autosize": true, "symbol": symbol, "interval": "60", "theme": theme, "style": "1", "locale": "ja",
-        "hide_top_toolbar": true, "hide_legend": true, "save_image": false, "container_id": id, "range": "5D"
-      });
-    }
-  }
-  create('tv-usdjpy-wrap', 'OANDA:USDJPY');
-  create('tv-dxy-wrap', 'OANDA:XAUUSD');
+function refreshPriceDisplay() {
+  document.querySelectorAll('.chart-slot.filled').forEach(el => {
+    const coin = _data.charts.find(c => c && c.id === el.dataset.coinId);
+    if (!coin) return;
+    const priceEl = el.querySelector('.slot-price');
+    if (priceEl) priceEl.textContent = getPriceText(coin);
+  });
 }
 
-// ─── COIN SOURCE ───
-function coinSource(coin) {
-  if (coin.source) return coin.source;
-  return coin.id.startsWith('xyz:') ? 'xyz' : 'pyth';
+// ─── SLOT HANDLERS ───
+function attachSlotHandlers(el, index) {
+  let lpTimer = null, lpFired = false, startX = 0, startY = 0;
+  el.addEventListener('touchstart', e => {
+    lpFired = false;
+    startX = e.touches[0].clientX;
+    startY = e.touches[0].clientY;
+    lpTimer = setTimeout(() => { lpFired = true; showLpMenu(index); }, 600);
+  }, {passive:true});
+  el.addEventListener('touchmove', e => {
+    if (!lpTimer) return;
+    if (Math.abs(e.touches[0].clientX-startX)>10 || Math.abs(e.touches[0].clientY-startY)>10) { clearTimeout(lpTimer); lpTimer=null; }
+  }, {passive:true});
+  el.addEventListener('touchend',    () => { clearTimeout(lpTimer); lpTimer=null; }, {passive:true});
+  el.addEventListener('touchcancel', () => { clearTimeout(lpTimer); lpTimer=null; }, {passive:true});
+  el.addEventListener('contextmenu', e => e.preventDefault());
+  el.addEventListener('click', () => {
+    if (lpFired) { lpFired=false; return; }
+    const coin = _data.charts[index];
+    if (coin) window.open('https://www.tradingview.com/chart/?symbol='+encodeURIComponent(coin.symbol), '_blank', 'noopener');
+    else openChartModal(index);
+  });
 }
 
-// ─── PRICE UPDATE ───
+// ─── LONGPRESS MENU ───
+function showLpMenu(index) { _pendingSlot=index; document.getElementById('overlay-lp').classList.remove('hidden'); }
+function hideLpMenu()       { document.getElementById('overlay-lp').classList.add('hidden'); }
+document.getElementById('lp-change').addEventListener('click', () => { hideLpMenu(); if(_pendingSlot==null) return; openChartModal(_pendingSlot); });
+document.getElementById('lp-delete').addEventListener('click', () => { if(_pendingSlot==null) return; _data.charts[_pendingSlot]=null; saveData(); renderChartSlots(); hideLpMenu(); });
+document.getElementById('lp-cancel').addEventListener('click', hideLpMenu);
+document.getElementById('overlay-lp').addEventListener('click', e => { if(e.target===document.getElementById('overlay-lp')) hideLpMenu(); });
+
+// ─── CHART MODAL ───
+function openChartModal(index) {
+  _pendingSlot = index;
+  document.getElementById('chart-search').value = '';
+  document.getElementById('chart-results').innerHTML = '';
+  document.getElementById('overlay-chart').classList.remove('hidden');
+  setTimeout(() => document.getElementById('chart-search').focus(), 280);
+}
+function closeChartModal() { document.getElementById('overlay-chart').classList.add('hidden'); }
+document.getElementById('close-chart').addEventListener('click', closeChartModal);
+document.getElementById('overlay-chart').addEventListener('click', e => { if(e.target===document.getElementById('overlay-chart')) closeChartModal(); });
+
+document.getElementById('chart-search').addEventListener('input', e => {
+  clearTimeout(_searchTimer);
+  const q = e.target.value;
+  _searchTimer = setTimeout(() => {
+    const container = document.getElementById('chart-results');
+    if (!q.trim()) { container.innerHTML=''; return; }
+    const query = q.trim().toLowerCase();
+    const results = _universe.filter(s => {
+      const sym  = s.symbol.toLowerCase();
+      const name = s.name.toLowerCase();
+      return sym.includes(query) || name.includes(query);
+    }).slice(0, 30);
+    if (!results.length) { container.innerHTML='<div class="results-empty">該当銘柄なし</div>'; return; }
+    container.innerHTML = results.map(s => {
+      const bc = s.source==='xyz' ? 'result-badge-xyz' : 'result-badge-pyth';
+      const bl = s.source==='xyz' ? 'HYP' : 'PYTH';
+      return `<div class="result-item" data-id="${escHtml(s.id)}" data-symbol="${escHtml(s.symbol)}" data-name="${escHtml(s.name)}" data-source="${escHtml(s.source)}">
+        <span class="result-symbol">${escHtml(s.symbol)}</span>
+        <span class="result-name">${escHtml(s.name)}</span>
+        <span class="result-badge ${bc}">${bl}</span>
+      </div>`;
+    }).join('');
+  }, 200);
+});
+
+document.getElementById('chart-results').addEventListener('click', e => {
+  const item = e.target.closest('.result-item');
+  if (!item || _pendingSlot==null) return;
+  _data.charts[_pendingSlot] = {id:item.dataset.id, symbol:item.dataset.symbol, name:item.dataset.name, source:item.dataset.source};
+  saveData();
+  closeChartModal();
+  renderChartSlots();
+  updatePrices();
+});
+
+// ─── PRICE FETCH ───
 async function updatePrices() {
   const activeCharts = _data.charts.filter(Boolean);
-  const pythCharts = activeCharts.filter(c => coinSource(c) === 'pyth');
+  const pythCharts   = activeCharts.filter(c => coinSource(c) === 'pyth');
 
   const [xyzRes] = await Promise.allSettled([
-    fetch('https://api.hyperliquid.xyz/info', {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({type: 'allMids', dex: 'xyz'})
-    }).then(r => r.json())
+    fetch('https://api.hyperliquid.xyz/info', {method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({type:'allMids', dex:'xyz'})}).then(r => r.json())
   ]);
-
   if (xyzRes.status === 'fulfilled') {
     const mids = xyzRes.value.mids || xyzRes.value;
-    for (const [k, v] of Object.entries(mids)) {
-      _prices[k] = v;
-    }
+    for (const [k, v] of Object.entries(mids)) { _prices[k] = v; }
   }
 
   if (pythCharts.length > 0) {
     try {
-      const params = pythCharts.map(c => 'ids[]=' + encodeURIComponent(c.id)).join('&');
-      const pythRes = await fetch('https://hermes.pyth.network/v2/updates/price/latest?' + params).then(r => r.json());
+      const params = pythCharts.map(c => 'ids[]='+encodeURIComponent(c.id)).join('&');
+      const pythRes = await fetch('https://hermes.pyth.network/v2/updates/price/latest?'+params).then(r => r.json());
       (pythRes.parsed || []).forEach(p => {
-        _pythPrices[p.id] = p.price.price * Math.pow(10, p.price.expo);
-        if (_pythPublishTimes) _pythPublishTimes[p.id] = p.price.publish_time;
+        _pythPrices[p.id]       = p.price.price * Math.pow(10, p.price.expo);
+        _pythPublishTimes[p.id] = p.price.publish_time;
       });
-    } catch(e) { console.warn('Pyth price fetch failed:', e); }
+    } catch(e) { console.warn('Pyth fetch failed:', e); }
   }
 
-  // メイン価格表示（要素が存在する場合のみ）
-  const usdjpy = _prices['xyz:JPY'] || _prices['xyz:USDJPY'];
-  const gold   = _prices['xyz:GOLD'];
+  const usdjpy = _prices['JPY'] || _prices['USDJPY'];
+  const gold   = _prices['GOLD'];
   const uEl = document.getElementById('main-price-usdjpy');
   const gEl = document.getElementById('main-price-gold');
   if (uEl) uEl.textContent = fmtPrice(usdjpy);
   if (gEl) gEl.textContent = fmtPrice(gold);
 
-  renderChartSlots();
+  refreshPriceDisplay();
 }
 
-// ─── OTHER LIBS (FnG, News, etc.) ───
+// ─── TRADINGVIEW WIDGETS ───
+function initTVWidgets() {
+  const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+  ['tv-usdjpy-wrap','tv-dxy-wrap'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.innerHTML = '';
+  });
+  function create(id, symbol) {
+    if (typeof TradingView !== 'undefined') {
+      new TradingView.widget({
+        autosize:true, symbol:symbol, interval:'60', theme:theme, style:'1', locale:'ja',
+        hide_top_toolbar:true, hide_legend:true, save_image:false, container_id:id, range:'5D'
+      });
+    }
+  }
+  create('tv-usdjpy-wrap', 'OANDA:USDJPY');
+  create('tv-dxy-wrap',    'OANDA:XAUUSD');
+}
+
+// ─── THEME ───
+(function(){
+  const saved = localStorage.getItem('fx-theme') || 'light';
+  document.documentElement.dataset.theme = saved;
+  document.querySelectorAll('.theme-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.theme === saved));
+})();
+document.querySelectorAll('.theme-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const t = btn.dataset.theme;
+    document.documentElement.dataset.theme = t;
+    localStorage.setItem('fx-theme', t);
+    document.querySelectorAll('.theme-btn').forEach(b => b.classList.toggle('active', b.dataset.theme === t));
+    initTVWidgets();
+  });
+});
+
+// ─── CLOCK ───
+function updateClock() {
+  const now = new Date();
+  document.getElementById('clock').textContent =
+    String(now.getHours()).padStart(2,'0')+':'+String(now.getMinutes()).padStart(2,'0')+':'+String(now.getSeconds()).padStart(2,'0')+' JST';
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// ─── SESSIONS ───
+function updateSessions() {
+  const now = new Date();
+  const h = now.getHours() + now.getMinutes()/60;
+  function active(s,e) { return e<=24 ? h>=s&&h<e : h>=s||h<(e-24); }
+  document.getElementById('sess-tokyo').classList.toggle('active',  active(8,15));
+  document.getElementById('sess-london').classList.toggle('active', active(16,25));
+  document.getElementById('sess-ny').classList.toggle('active',     active(21,30));
+}
+setInterval(updateSessions, 10000);
+updateSessions();
+
+// ─── TRADINGVIEW APP LAUNCH ───
+document.getElementById('btn-tradingview').addEventListener('click', function() {
+  const webUrl = 'https://jp.tradingview.com';
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+  if (!isMobile) { window.open(webUrl, '_blank', 'noopener,noreferrer'); return; }
+  let appOpened = false;
+  const onHide = () => { if(document.hidden){ appOpened=true; clearTimeout(timer); document.removeEventListener('visibilitychange',onHide); } };
+  document.addEventListener('visibilitychange', onHide);
+  const timer = setTimeout(() => { document.removeEventListener('visibilitychange',onHide); if(!appOpened) window.open(webUrl,'_blank','noopener,noreferrer'); }, 1500);
+  window.location.href = 'tradingview://';
+});
+
+// ─── MT5/MT4 LAUNCH ───
+document.querySelectorAll('.launch-btn').forEach(btn => {
+  btn.addEventListener('click', function(e) {
+    e.preventDefault();
+    const scheme = this.getAttribute('href');
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    if (!isMobile) return;
+    let appOpened = false;
+    const onHide = () => { if(document.hidden){ appOpened=true; clearTimeout(timer); document.removeEventListener('visibilitychange',onHide); } };
+    document.addEventListener('visibilitychange', onHide);
+    const timer = setTimeout(() => { document.removeEventListener('visibilitychange',onHide); }, 1500);
+    window.location.href = scheme;
+  });
+});
+
+// ─── FEAR & GREED ───
 async function loadFng() {
-  const r = await fetch('https://api.alternative.me/fng/').then(r => r.json());
-  const v = r.data[0].value;
-  document.getElementById('fng-value').textContent = v;
-  document.getElementById('fng-bar').style.width = v + '%';
+  try {
+    const r = await fetch('https://api.alternative.me/fng/').then(r => r.json());
+    const item = r.data && r.data[0];
+    if (!item) return;
+    const val = parseInt(item.value, 10);
+    const label = item.value_classification || '';
+    const ts = new Date(parseInt(item.timestamp,10)*1000);
+    const color = val<=25?'var(--red)':val<=46?'#e67e22':val<=54?'var(--muted)':val<=75?'var(--green)':'#27ae60';
+    const vEl=document.getElementById('fng-value'), lEl=document.getElementById('fng-label');
+    const uEl=document.getElementById('fng-updated'), bEl=document.getElementById('fng-bar');
+    if(vEl){vEl.textContent=val;vEl.style.color=color;}
+    if(lEl){lEl.textContent=label;lEl.style.color=color;}
+    if(uEl) uEl.textContent='更新: '+(ts.getMonth()+1)+'/'+(ts.getDate());
+    if(bEl){bEl.style.width=val+'%';bEl.style.background=color;}
+    document.querySelector('.fng-wrap').addEventListener('click',()=>window.open('https://edition.cnn.com/markets/fear-and-greed','_blank','noopener'));
+  } catch(e) { console.warn('FnG failed:', e); }
 }
 
+// ─── NEWS ───
 async function loadNews() {
   const container = document.getElementById('news-list');
   try {
-    const d = await fetch('public/data/news.json').then(r => r.json());
-    const items = [...(d.gold_items || []), ...(d.usdjpy_items || [])].slice(0, 10);
-    container.innerHTML = items.map(i => `<div class="news-item"><div class="news-meta">${i.source}</div><div class="news-title"><a href="${i.link}" target="_blank">${i.title}</a></div></div>`).join('');
-  } catch(e) { container.innerHTML = 'ニュースなし'; }
+    const d = await fetch('public/data/news.json?t='+Date.now()).then(r => r.json());
+    function toJST(iso) {
+      if (!iso) return '';
+      const jst = new Date(new Date(iso).getTime()+9*3600000);
+      return (jst.getUTCMonth()+1)+'/'+(String(jst.getUTCDate()).padStart(2,'0'))+' '+(String(jst.getUTCHours()).padStart(2,'0'))+':'+(String(jst.getUTCMinutes()).padStart(2,'0'));
+    }
+    const items = [...(d.gold_items||[]),...(d.usdjpy_items||[])].sort((a,b)=>(b.isoDate||'').localeCompare(a.isoDate||'')).slice(0,15);
+    if (!items.length) { container.innerHTML='<div class="news-empty">ニュースなし</div>'; return; }
+    container.innerHTML = items.map(i =>
+      `<div class="news-item"><div class="news-meta">${escHtml(i.source||'')} · ${escHtml(toJST(i.isoDate))} JST</div><div class="news-title"><a href="${escHtml(i.link||'#')}" target="_blank" rel="noopener">${escHtml(i.title||'')}</a></div></div>`
+    ).join('');
+  } catch(e) { container.innerHTML='<div class="news-empty">ニュース取得エラー</div>'; }
 }
 
-// ─── INIT ───
-function openChartModal(i) { _pendingSlot = i; document.getElementById('overlay-chart').classList.remove('hidden'); }
-document.getElementById('close-chart').onclick = () => document.getElementById('overlay-chart').classList.add('hidden');
+// ─── PULL TO REFRESH ───
+(function(){
+  const content   = document.querySelector('.page-content');
+  const indicator = document.getElementById('ptr-indicator');
+  let startY=0, pulling=false;
+  const THRESHOLD=80;
+  content.addEventListener('touchstart', e => { if(content.scrollTop===0){startY=e.touches[0].clientY;pulling=true;} }, {passive:true});
+  content.addEventListener('touchmove',  e => {
+    if(!pulling) return;
+    const dy = e.touches[0].clientY-startY;
+    if(dy>0&&content.scrollTop===0){
+      indicator.style.height = Math.min(dy*0.5,44)+'px';
+      indicator.textContent  = dy>=THRESHOLD?'離して更新':'↓ 引っ張って更新';
+    }
+  }, {passive:true});
+  content.addEventListener('touchend', e => {
+    if(!pulling) return;
+    pulling=false;
+    const dy=e.changedTouches[0].clientY-startY;
+    indicator.style.height='0';
+    indicator.textContent='↓ 引っ張って更新';
+    if(dy>=THRESHOLD&&content.scrollTop===0){ updatePrices(); loadFng(); }
+  }, {passive:true});
+})();
 
+// ─── SERVICE WORKER ───
+if ('serviceWorker' in navigator) {
+  let refreshing=false;
+  navigator.serviceWorker.addEventListener('controllerchange',()=>{ if(!refreshing){refreshing=true;window.location.reload();} });
+  window.addEventListener('load',()=>{ navigator.serviceWorker.register('./sw.js').catch(e=>console.warn('SW:',e)); });
+}
+window.addEventListener('pageshow', e => { if(e.persisted) initTVWidgets(); });
+
+// ─── INIT ───
 async function init() {
   loadData();
   renderChartSlots();
@@ -529,12 +729,7 @@ async function init() {
   loadFng();
   loadNews();
 }
-
-window.onload = init;
-setInterval(() => {
-  const now = new Date();
-  document.getElementById('clock').textContent = now.getHours().toString().padStart(2,'0') + ':' + now.getMinutes().toString().padStart(2,'0') + ':' + now.getSeconds().toString().padStart(2,'0') + ' JST';
-}, 1000);
+init();
 </script>
 </body>
 </html>
