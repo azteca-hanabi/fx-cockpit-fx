@@ -584,7 +584,13 @@ async function updatePrices() {
     });
     if (!res.ok) return;
     const d = await res.json();
-    _prices = d.mids || {};
+    // Normalize keys: store both as-is and with "xyz:" prefix so coin.id always matches
+    const rawMids = d.mids || {};
+    _prices = {};
+    for (const [key, val] of Object.entries(rawMids)) {
+      _prices[key] = val;
+      if (!key.startsWith('xyz:')) _prices['xyz:' + key] = val;
+    }
     refreshPriceDisplay();
   } catch(e) { console.warn('Price update failed:', e); }
 }
@@ -700,8 +706,8 @@ function initTVWidgets() {
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', false);
-  createWidget('tv-dxy-wrap',    'TVC:DXY',      true);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY',    false);
+  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', true);
 }
 
 // ─── THEME ────────────────────────────────────────────
