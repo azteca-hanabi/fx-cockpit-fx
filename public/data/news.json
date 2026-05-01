@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T04:04:19Z",
-  "last_checked": "2026-05-01T04:04:19Z",
+  "updated": "2026-05-01T07:14:16Z",
+  "last_checked": "2026-05-01T07:14:16Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は堅調、前日急落から値を戻す展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1513986",
-      "published": "2026-05-01 03:30:11",
-      "isoDate": "2026-05-01T03:30:11Z"
+      "title": "ビットコインが7万7000ドル超に反発、株式市場の上昇を受けて、イラン情勢リスクが上値を抑制",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1514068",
+      "published": "2026-05-01 06:32:05",
+      "isoDate": "2026-05-01T06:32:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反発、大型連休控え積極的に買い進む動きは乏しい",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1513981",
-      "published": "2026-05-01 03:15:12",
-      "isoDate": "2026-05-01T03:15:12Z"
+      "title": "東京為替：ドル・円は底堅い、ドル買い継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1514062",
+      "published": "2026-05-01 06:30:12",
+      "isoDate": "2026-05-01T06:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小高い、日本株は堅調維持",
+      "link": "https://jp.investing.com/news/forex-news/article-1514061",
+      "published": "2026-05-01 06:30:11",
+      "isoDate": "2026-05-01T06:30:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は動意薄、大型連休控え動きづらい",
+      "link": "https://jp.investing.com/news/forex-news/article-1514019",
+      "published": "2026-05-01 05:15:13",
+      "isoDate": "2026-05-01T05:15:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1513984",
       "published": "2026-05-01 03:12:13",
       "isoDate": "2026-05-01T03:12:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金価格は2カ月連続の下落から安定、イラン情勢と金利不透明感が継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-1513972",
-      "published": "2026-05-01 02:35:13",
-      "isoDate": "2026-05-01T02:35:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街先物は最高値更新後に上昇、アップル決算とイラン紛争に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1513936",
-      "published": "2026-05-01 00:48:23",
-      "isoDate": "2026-05-01T00:48:23Z"
     },
     {
       "source": "Investing.com 外為",
