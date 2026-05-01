@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-01T20:08:12Z",
-  "last_checked": "2026-05-01T20:08:12Z",
+  "updated": "2026-05-01T21:26:40Z",
+  "last_checked": "2026-05-01T21:26:40Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧州のガソリンマージンが2023年8月以来の高水準に急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515393",
+      "published": "2026-05-01 19:45:52",
+      "isoDate": "2026-05-01T19:45:52Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国の石油・ガス掘削リグ、2週連続増加で4月上旬以来の高水準",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1512929",
       "published": "2026-04-30 15:17:07",
       "isoDate": "2026-04-30T15:17:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア産ウラル原油、1バレル100ドル超に反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1512927",
-      "published": "2026-04-30 15:16:45",
-      "isoDate": "2026-04-30T15:16:45Z"
     }
   ],
   "usdjpy_items": [
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
+      "link": "https://coinpost.jp/?p=706560",
+      "published": "Sat, 02 May 2026 05:55:38 +0900",
+      "isoDate": "2026-05-01T20:55:38Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "SBI決算発表｜仮想通貨事業が過去最高益、JPYSCローンチや貸金業参入など2026年のWeb3戦略を総括",
       "link": "https://coinpost.jp/?p=706446",
       "published": "Fri, 01 May 2026 16:59:34 +0900",
@@ -187,27 +194,6 @@
       "link": "https://coinpost.jp/?p=706267",
       "published": "Fri, 01 May 2026 10:34:39 +0900",
       "isoDate": "2026-05-01T01:34:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "4月のビットコイン上昇は投機が牽引、現物需要縮小で下落リスク＝クリプトクアント週次分析",
-      "link": "https://coinpost.jp/?p=706255",
-      "published": "Fri, 01 May 2026 09:34:39 +0900",
-      "isoDate": "2026-05-01T00:34:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "日本暗号資産ビジネス協会、ステーキング運営指針を策定＝日経報道",
-      "link": "https://coinpost.jp/?p=706227",
-      "published": "Fri, 01 May 2026 08:45:13 +0900",
-      "isoDate": "2026-04-30T23:45:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ワサビ・プロトコルから約7.8億円が不正流出か、イーサリアムなど複数チェーンに影響",
-      "link": "https://coinpost.jp/?p=706242",
-      "published": "Fri, 01 May 2026 07:50:54 +0900",
-      "isoDate": "2026-04-30T22:50:54Z"
     }
   ]
 }
