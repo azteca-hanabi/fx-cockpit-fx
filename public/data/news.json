@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-01T00:48:39Z",
-  "last_checked": "2026-05-01T00:48:39Z",
+  "updated": "2026-05-01T04:04:19Z",
+  "last_checked": "2026-05-01T04:04:19Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は2カ月連続の下落から安定、イラン情勢と金利不透明感が継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1513972",
+      "published": "2026-05-01 02:35:13",
+      "isoDate": "2026-05-01T02:35:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イラン緊張とホルムズ海峡混乱継続で原油価格1%上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1513945",
+      "published": "2026-05-01 01:03:01",
+      "isoDate": "2026-05-01T01:03:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インド、軽油と航空燃料の輸出関税を引き下げ",
@@ -57,29 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510779",
       "published": "2026-04-29 19:53:01",
       "isoDate": "2026-04-29T19:53:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物が1年ぶり高値、輸出需要と天候懸念で",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510777",
-      "published": "2026-04-29 19:52:35",
-      "isoDate": "2026-04-29T19:52:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油急騰を受けてキャノーラ先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1510754",
-      "published": "2026-04-29 19:37:03",
-      "isoDate": "2026-04-29T19:37:03Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "30日の米国市場ダイジェスト：米国株式市場は上昇、原油や金利安を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1513804",
-      "published": "2026-04-30 22:00:05",
-      "isoDate": "2026-04-30T22:00:05Z"
+      "title": "東京為替：ドル・円は堅調、前日急落から値を戻す展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1513986",
+      "published": "2026-05-01 03:30:11",
+      "isoDate": "2026-05-01T03:30:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は反発、大型連休控え積極的に買い進む動きは乏しい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1513981",
+      "published": "2026-05-01 03:15:12",
+      "isoDate": "2026-05-01T03:15:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジア株は米国市場の最高値更新を受けて上昇、イラン懸念が上昇幅を抑制",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1513984",
+      "published": "2026-05-01 03:12:13",
+      "isoDate": "2026-05-01T03:12:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格は2カ月連続の下落から安定、イラン情勢と金利不透明感が継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1513972",
+      "published": "2026-05-01 02:35:13",
+      "isoDate": "2026-05-01T02:35:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォール街先物は最高値更新後に上昇、アップル決算とイラン紛争に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1513936",
+      "published": "2026-05-01 00:48:23",
+      "isoDate": "2026-05-01T00:48:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株の上昇を背景に買い戻し先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1513911",
+      "published": "2026-04-30 23:30:07",
+      "isoDate": "2026-04-30T23:30:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,38 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：日本政府・日銀円買い介入との報道で円は大幅反発",
-      "link": "https://jp.investing.com/news/forex-news/article-1513762",
-      "published": "2026-04-30 21:45:05",
-      "isoDate": "2026-04-30T21:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは790.33ドル高、原油や金利安を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1513705",
-      "published": "2026-04-30 21:15:04",
-      "isoDate": "2026-04-30T21:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "時間外取引の値動き：AAPL、ROKU、RBLX、TEAM、SNDK、RDDT、TWLO、CLX、WDC",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1513677",
       "published": "2026-04-30 20:51:03",
       "isoDate": "2026-04-30T20:51:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、四半期決算で予想上回る、1000億ドルの自社株買い追加承認",
-      "link": "https://jp.investing.com/news/earnings/article-1513626",
-      "published": "2026-04-30 20:35:28",
-      "isoDate": "2026-04-30T20:35:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、四半期配当を3.8%増の0.27ドルに引き上げ、1000億ドルの自社株買いを承認",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1513615",
-      "published": "2026-04-30 20:33:08",
-      "isoDate": "2026-04-30T20:33:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,37 @@
       "link": "https://jp.investing.com/news/earnings/article-93CH-1513176",
       "published": "2026-04-30 17:18:09",
       "isoDate": "2026-04-30T17:18:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー、好調な決算と通期見通し引き上げで株価急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1512069",
-      "published": "2026-04-30 10:55:21",
-      "isoDate": "2026-04-30T10:55:21Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "マラソン、オハイオ州ガス発電所を約2400億円で買収　AI・HPC事業の基盤強化へ",
+      "link": "https://coinpost.jp/?p=706312",
+      "published": "Fri, 01 May 2026 11:30:35 +0900",
+      "isoDate": "2026-05-01T02:30:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国防長官、ビットコインの安保活用を認める　機密扱いの取り組みも進行中と証言",
+      "link": "https://coinpost.jp/?p=706324",
+      "published": "Fri, 01 May 2026 11:07:38 +0900",
+      "isoDate": "2026-05-01T02:07:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SBIホールディングス、ビットバンク子会社化に向けた資本業務提携協議へ",
+      "link": "https://coinpost.jp/?p=706300",
+      "published": "Fri, 01 May 2026 10:44:32 +0900",
+      "isoDate": "2026-05-01T01:44:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "2026年4月は仮想通貨の不正流出件数が過去最高に、被害額は計980億円超",
+      "link": "https://coinpost.jp/?p=706267",
+      "published": "Fri, 01 May 2026 10:34:39 +0900",
+      "isoDate": "2026-05-01T01:34:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "4月のビットコイン上昇は投機が牽引、現物需要縮小で下落リスク＝クリプトクアント週次分析",
@@ -187,111 +215,6 @@
       "link": "https://coinpost.jp/?p=706231",
       "published": "Fri, 01 May 2026 05:55:17 +0900",
       "isoDate": "2026-04-30T20:55:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国大手取引所ビッサム、量子耐性暗号をウォレット・認証システムに導入",
-      "link": "https://coinpost.jp/?p=706127",
-      "published": "Thu, 30 Apr 2026 17:24:29 +0900",
-      "isoDate": "2026-04-30T08:24:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FBI・ドバイ警察・中国公安が連携、仮想通貨詐欺拠点を一斉摘発　276人超を逮捕",
-      "link": "https://coinpost.jp/?p=706105",
-      "published": "Thu, 30 Apr 2026 16:40:34 +0900",
-      "isoDate": "2026-04-30T07:40:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SECがビットコインETF『IBIT』建玉上限を4倍の100万枚に承認",
-      "link": "https://coinpost.jp/?p=706087",
-      "published": "Thu, 30 Apr 2026 15:45:43 +0900",
-      "isoDate": "2026-04-30T06:45:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Xの一時非表示機能で仮想通貨が1位、政治やAIを上回る",
-      "link": "https://coinpost.jp/?p=706051",
-      "published": "Thu, 30 Apr 2026 14:42:29 +0900",
-      "isoDate": "2026-04-30T05:42:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、真の市場平均価格に阻まれレンジ相場継続＝Glassnode分析",
-      "link": "https://coinpost.jp/?p=706025",
-      "published": "Thu, 30 Apr 2026 13:35:49 +0900",
-      "isoDate": "2026-04-30T04:35:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「カルティエ」子孫、違法仮想通貨取引所で750億円以上の資金洗浄",
-      "link": "https://coinpost.jp/?p=705972",
-      "published": "Thu, 30 Apr 2026 13:30:43 +0900",
-      "isoDate": "2026-04-30T04:30:43Z"
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "Robinhoodが暗号資産ウォレットを展開：暗号資産と株式に対する代替先となるか",
-      "link": "https://jp.investing.com/analysis/article-200203808",
-      "published": "Apr 18, 2022 10:59 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産は米ドルの役割の変化から恩恵を受ける可能性",
-      "link": "https://jp.investing.com/analysis/article-200203734",
-      "published": "Apr 05, 2022 01:07 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産のパイオニア、コインシェアーズの成長で買収候補",
-      "link": "https://jp.investing.com/analysis/article-200203658",
-      "published": "Mar 22, 2022 10:38 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産が「まだ」急上昇しない3つの理由",
-      "link": "https://jp.investing.com/analysis/article-200203570",
-      "published": "Mar 07, 2022 13:44 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "バイナンスの成長とともに、取引所は暗号資産以外にもその力を発揮",
-      "link": "https://jp.investing.com/analysis/article-200203509",
-      "published": "Feb 24, 2022 13:23 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "ウクライナにおける地政学的リスクが暗号資産に与える影響",
-      "link": "https://jp.investing.com/analysis/article-200203489",
-      "published": "Feb 21, 2022 14:14 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産の強気なセンチメントが戻る中、注目すべき4つの主要な投資リスク",
-      "link": "https://jp.investing.com/analysis/article-200203474",
-      "published": "Feb 17, 2022 14:30 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "暗号資産の下落は一服。ビットコイン、イーサリアムの新高値をつけるか",
-      "link": "https://jp.investing.com/analysis/article-200203448",
-      "published": "Feb 14, 2022 12:59 GMT",
-      "isoDate": ""
-    },
-    {
-      "source": "Investing.com 暗号資産",
-      "title": "Dogecoin：おふざけから始まった暗号資産は、今や冗談の粋を超える時価総額200億ドル",
-      "link": "https://jp.investing.com/analysis/article-200203417",
-      "published": "Feb 09, 2022 13:23 GMT",
-      "isoDate": ""
     }
   ]
 }
