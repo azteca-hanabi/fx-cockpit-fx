@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja" data-theme="dark">
+<html lang="ja" data-theme="light">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -8,7 +8,7 @@
 <meta name="theme-color" content="#0a0a0f">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<script>(function(){var t=localStorage.getItem('fx-theme')||'dark';document.documentElement.dataset.theme=t;})()</script>
+<script>(function(){var t=localStorage.getItem('fx-theme')||'light';document.documentElement.dataset.theme=t;})()</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
@@ -99,7 +99,6 @@ header{
 /* ─── TRADINGVIEW WIDGET ─── */
 .tv-main-grid{display:flex;flex-direction:column;gap:8px;}
 .tv-widget-wrap{border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);width:100%;}
-#tv-dxy-wrap{max-height:80px;}
 .tradingview-widget-copyright{padding:2px 8px 4px;background:transparent;font-size:11px;line-height:1.4;text-align:right;}
 .tradingview-widget-copyright .blue-text{color:var(--muted)!important;text-decoration:underline;}
 
@@ -798,7 +797,7 @@ async function loadNews() {
 
 // ─── TRADINGVIEW WIDGETS ──────────────────────────────
 function initTVWidgets() {
-  const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
+  const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
 
   function createWidget(wrapId, symbol, height = 150) {
     const wrap = document.getElementById(wrapId);
@@ -840,13 +839,13 @@ function initTVWidgets() {
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 150);
-  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', 75);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 200);
+  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', 200);
 }
 
 // ─── THEME ────────────────────────────────────────────
 document.querySelectorAll('.theme-btn').forEach(btn => {
-  btn.classList.toggle('active', btn.dataset.theme === (localStorage.getItem('fx-theme') || 'dark'));
+  btn.classList.toggle('active', btn.dataset.theme === (localStorage.getItem('fx-theme') || 'light'));
   btn.addEventListener('click', () => {
     const t = btn.dataset.theme;
     document.documentElement.dataset.theme = t;
