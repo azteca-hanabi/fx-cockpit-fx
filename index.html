@@ -817,7 +817,7 @@ function initTVWidgets() {
     s.src   = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js';
     s.async = true;
     s.innerHTML = JSON.stringify({
-      symbols:          [[symbol + '|1D']],
+      symbols:          [[symbol + '|1H']],
       chartOnly:        false,
       width:            '100%',
       height:           height,
@@ -836,6 +836,7 @@ function initTVWidgets() {
       valuesTracking:   '1',
       changeMode:       'price-and-percent',
       chartType:        'candlesticks',
+      dateRange:        '5D',
     });
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
