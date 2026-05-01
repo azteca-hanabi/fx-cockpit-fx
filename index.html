@@ -97,8 +97,9 @@ header{
 }
 
 /* ─── TRADINGVIEW WIDGET ─── */
-.tv-main-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
-.tv-widget-wrap{border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);min-width:0;width:100%;}
+.tv-main-grid{display:flex;flex-direction:column;gap:8px;}
+.tv-widget-wrap{border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);width:100%;}
+#tv-dxy-wrap{max-height:80px;}
 .tradingview-widget-copyright{padding:2px 8px 4px;background:transparent;font-size:11px;line-height:1.4;text-align:right;}
 .tradingview-widget-copyright .blue-text{color:var(--muted)!important;text-decoration:underline;}
 
@@ -799,7 +800,7 @@ async function loadNews() {
 function initTVWidgets() {
   const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
 
-  function createWidget(wrapId, symbol) {
+  function createWidget(wrapId, symbol, height = 150) {
     const wrap = document.getElementById(wrapId);
     if (!wrap) return;
     wrap.innerHTML =
@@ -819,7 +820,7 @@ function initTVWidgets() {
       symbols:          [[symbol + '|1D']],
       chartOnly:        false,
       width:            '100%',
-      height:           150,
+      height:           height,
       locale:           'ja',
       colorTheme:       theme,
       autosize:         false,
@@ -839,8 +840,8 @@ function initTVWidgets() {
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY');
-  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY');
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', 150);
+  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', 75);
 }
 
 // ─── THEME ────────────────────────────────────────────
