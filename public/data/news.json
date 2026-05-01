@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-01T18:39:33Z",
-  "last_checked": "2026-05-01T18:39:33Z",
+  "updated": "2026-05-01T20:08:12Z",
+  "last_checked": "2026-05-01T20:08:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の石油・ガス掘削リグ、2週連続増加で4月上旬以来の高水準",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515353",
+      "published": "2026-05-01 18:42:27",
+      "isoDate": "2026-05-01T18:42:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ブレント原油価格が急騰していない理由、ヤーデニが解説",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1512927",
       "published": "2026-04-30 15:16:45",
       "isoDate": "2026-04-30T15:16:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBS:金価格は2026年後半に5,900ドル/オンスに向かう可能性",
-      "link": "https://jp.investing.com/news/commodities-news/article-1512585",
-      "published": "2026-04-30 13:20:57",
-      "isoDate": "2026-04-30T13:20:57Z"
     }
   ],
   "usdjpy_items": [
@@ -208,13 +208,6 @@
       "link": "https://coinpost.jp/?p=706242",
       "published": "Fri, 01 May 2026 07:50:54 +0900",
       "isoDate": "2026-04-30T22:50:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米民主党議員、テザー社から米商務長官親族への融資を問題視",
-      "link": "https://coinpost.jp/?p=706229",
-      "published": "Fri, 01 May 2026 07:45:52 +0900",
-      "isoDate": "2026-04-30T22:45:52Z"
     }
   ]
 }
