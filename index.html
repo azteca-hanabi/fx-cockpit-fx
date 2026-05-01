@@ -382,7 +382,7 @@ async function loadSymbols() {
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({type: 'metaAndAssetCtxs', dex: 'xyz'}),
     });
-    if (!res.ok) return;
+    if (!res.ok) { console.warn('Symbols fetch HTTP error:', res.status); return; }
     const d = await res.json();
     const universe = Array.isArray(d) && d[0] && Array.isArray(d[0].universe) ? d[0].universe : [];
     _symbols = universe.map(u => ({
@@ -390,6 +390,7 @@ async function loadSymbols() {
       symbol: u.name,
       name:   u.name,
     }));
+    console.log('Hyperliquid symbols loaded:', _symbols.length);
   } catch(e) { console.warn('Symbols load failed:', e); }
 }
 
@@ -397,7 +398,11 @@ function searchSymbols(raw) {
   const q = raw.trim().toLowerCase();
   if (!q) return [];
   return _symbols
-    .filter(s => s.symbol.toLowerCase().includes(q) || s.name.toLowerCase().includes(q))
+    .filter(s =>
+      s.id.toLowerCase().includes(q) ||
+      s.symbol.toLowerCase().includes(q) ||
+      s.name.toLowerCase().includes(q)
+    )
     .slice(0, 20);
 }
 
@@ -547,7 +552,7 @@ document.getElementById('chart-search').addEventListener('input', e => {
     const container = document.getElementById('chart-results');
     if (!q.trim()) { container.innerHTML = ''; return; }
     if (!results.length) {
-      container.innerHTML = '<div class="results-empty">該当なし</div>';
+      container.innerHTML = '<div class="results-empty">この銘柄はHyperliquidに対応していません</div>';
       return;
     }
     container.innerHTML = results.map(s =>
