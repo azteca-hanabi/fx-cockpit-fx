@@ -341,6 +341,26 @@ header{
 </div>
 
 <script>
+// ─── TV SYMBOL MAP ───
+const TV_SYMBOL_MAP = new Map([
+  ['EURUSD','OANDA:EURUSD'],['USDJPY','OANDA:USDJPY'],['GBPUSD','OANDA:GBPUSD'],
+  ['AUDUSD','OANDA:AUDUSD'],['USDCAD','OANDA:USDCAD'],['USDCHF','OANDA:USDCHF'],
+  ['NZDUSD','OANDA:NZDUSD'],['EURJPY','OANDA:EURJPY'],['GBPJPY','OANDA:GBPJPY'],
+  ['AUDJPY','OANDA:AUDJPY'],['EURGBP','OANDA:EURGBP'],['EURAUD','OANDA:EURAUD'],
+  ['EURCAD','OANDA:EURCAD'],['EURCHF','OANDA:EURCHF'],['EURNZD','OANDA:EURNZD'],
+  ['EURNOK','OANDA:EURNOK'],['EURSEK','OANDA:EURSEK'],['GBPAUD','OANDA:GBPAUD'],
+  ['GBPCAD','OANDA:GBPCAD'],['GBPCHF','OANDA:GBPCHF'],['GBPNZD','OANDA:GBPNZD'],
+  ['AUDCAD','OANDA:AUDCAD'],['AUDCHF','OANDA:AUDCHF'],['AUDNZD','OANDA:AUDNZD'],
+  ['CADJPY','OANDA:CADJPY'],['CHFJPY','OANDA:CHFJPY'],['NZDJPY','OANDA:NZDJPY'],
+  ['NZDCAD','OANDA:NZDCAD'],
+  ['EUR','OANDA:EURUSD'],['JPY','OANDA:USDJPY'],['GBP','OANDA:GBPUSD'],
+  ['AUD','OANDA:AUDUSD'],
+  ['GOLD','OANDA:XAUUSD'],['SILVER','OANDA:XAGUSD'],
+  ['CL','TVC:USOIL'],['BRENTOIL','TVC:UKOIL'],
+  ['JP225','OANDA:JP225USD'],['SP500','OANDA:SPX500USD'],
+  ['USDXY','TVC:DXY'],['DXY','TVC:DXY'],
+]);
+
 // ─── CONSTANTS ───
 const STORAGE_KEY        = 'fxc-fx-data-v4';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
@@ -470,8 +490,17 @@ function attachSlotHandlers(el, index) {
   el.addEventListener('click', () => {
     if (lpFired) { lpFired=false; return; }
     const coin = _data.charts[index];
-    if (coin) window.open('https://www.tradingview.com/chart/?symbol='+encodeURIComponent(coin.symbol), '_blank', 'noopener');
-    else openChartModal(index);
+    if (coin) {
+      const sym = coin.symbol.replace('xyz:','').toUpperCase();
+      const tvSym = TV_SYMBOL_MAP.get(sym);
+      if (tvSym) {
+        window.open('https://www.tradingview.com/chart/?symbol='+encodeURIComponent(tvSym), '_blank', 'noopener');
+      } else {
+        window.open('https://jp.tradingview.com', '_blank', 'noopener');
+      }
+    } else {
+      openChartModal(index);
+    }
   });
 }
 
