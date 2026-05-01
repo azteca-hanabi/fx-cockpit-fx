@@ -408,15 +408,20 @@ function fmtPrice(v) {
   return n.toFixed(4);
 }
 
+function getPriceText(coin) {
+  if (!coin) return '--';
+  if (coin.source === 'xyz') return fmtPrice(_prices[coin.id]);
+  return fmtPrice(_pythPrices[coin.id]);
+}
+
 function renderChartSlots() {
   const grid = document.getElementById('chart-grid');
   grid.innerHTML = '';
   _data.charts.forEach((coin, i) => {
     const el = document.createElement('div');
     if (coin) {
-      const px = (coin.source === 'xyz') ? _prices[coin.id] : _pythPrices[coin.id];
       el.className = 'chart-slot filled';
-      el.innerHTML = `<div class="slot-symbol">${coin.symbol}</div><div class="slot-name">${coin.name}</div><div class="slot-price">${fmtPrice(px)}</div>`;
+      el.innerHTML = `<div class="slot-symbol">${coin.symbol}</div><div class="slot-name">${coin.name}</div><div class="slot-price">${getPriceText(coin)}</div>`;
       el.dataset.coinId = coin.id;
     } else {
       el.className = 'chart-slot empty';
@@ -480,7 +485,7 @@ async function updatePrices() {
   }
 
   // メイン価格表示（要素が存在する場合のみ）
-  const usdjpy = _prices['xyz:JPY'];
+  const usdjpy = _prices['xyz:JPY'] || _prices['xyz:USDJPY'];
   const gold   = _prices['xyz:GOLD'];
   const uEl = document.getElementById('main-price-usdjpy');
   const gEl = document.getElementById('main-price-gold');
