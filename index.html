@@ -115,6 +115,8 @@ header{
 .slot-symbol{font-size:13px;font-weight:700;color:var(--text);}
 .slot-name{font-size:10px;color:var(--muted);margin-top:2px;}
 .slot-price{font-size:13px;font-weight:700;color:var(--cyan);margin-top:6px;}
+.slot-price.stale{color:var(--muted);}
+.closed-tag{font-size:10px;font-weight:400;color:var(--muted);}
 .slot-add-icon{font-size:22px;color:var(--muted);}
 .slot-add-label{font-size:10px;color:#8a8aaa;font-weight:700;margin-top:4px;}
 
@@ -203,7 +205,13 @@ header{
 .result-item:hover{border-color:var(--cyan-dim);}
 .result-item:active{opacity:.7;}
 .result-symbol{font-size:13px;font-weight:700;color:var(--text);min-width:52px;}
-.result-name{font-size:12px;color:var(--muted);}
+.result-name{font-size:12px;color:var(--muted);flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.result-badge{
+  font-size:9px;font-weight:700;padding:2px 5px;border-radius:3px;
+  flex-shrink:0;letter-spacing:.04em;
+}
+.result-badge-xyz{background:rgba(56,201,201,.15);color:var(--cyan);border:1px solid rgba(56,201,201,.3);}
+.result-badge-pyth{background:rgba(130,80,255,.15);color:#a080ff;border:1px solid rgba(130,80,255,.3);}
 .results-empty{padding:24px 0;text-align:center;color:var(--muted);font-size:13px;}
 
 /* ─── LONGPRESS MENU ─── */
@@ -314,7 +322,7 @@ header{
     </div>
     <div class="modal-search-wrap">
       <input id="chart-search" class="modal-search-input" type="search"
-             placeholder="GOLD / EUR / CL..." autocomplete="off" spellcheck="false">
+             placeholder="GOLD / USDJPY / AAPL..." autocomplete="off" spellcheck="false">
     </div>
     <div id="chart-results"></div>
   </div>
@@ -333,25 +341,28 @@ header{
 
 <script>
 // ─── CONSTANTS ───────────────────────────────────────
-const STORAGE_KEY    = 'fxc-fx-data';
-const MAX_CHARTS     = 8;
-const PRICE_INTERVAL = 5000;
+const STORAGE_KEY        = 'fxc-fx-data';
+const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
+const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
+const MAX_CHARTS         = 8;
+const PRICE_INTERVAL     = 5000;
+const MARKET_STALE_MS    = 6 * 60 * 60 * 1000;
 
 const DEFAULT_CHARTS = [
-  {id:'xyz:GOLD', symbol:'GOLD', name:'Gold'},
-  {id:'xyz:CL',   symbol:'CL',   name:'WTI Oil'},
-  {id:'xyz:EUR',  symbol:'EUR',   name:'EUR/USD'},
+  {id:'xyz:GOLD', symbol:'GOLD', name:'Gold',    source:'xyz'},
+  {id:'xyz:CL',   symbol:'CL',   name:'WTI Oil', source:'xyz'},
+  {id:'xyz:EUR',  symbol:'EUR',   name:'EUR/USD', source:'xyz'},
   null, null, null, null, null,
 ];
 
 // ─── STATE ───────────────────────────────────────────
-let _data = {
-  charts: DEFAULT_CHARTS.map(c => c ? {...c} : null),
-};
-let _symbols     = [];
-let _prices      = {};
-let _pendingSlot = null;
-let _searchTimer = null;
+let _data             = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
+let _universe         = [];
+let _prices           = {};
+let _pythPrices       = {};
+let _pythPublishTimes = {};
+let _pendingSlot      = null;
+let _searchTimer      = null;
 
 // ─── STORAGE ─────────────────────────────────────────
 function loadData() {
@@ -374,35 +385,98 @@ function saveData() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(_data));
 }
 
-// ─── SYMBOLS (Hyperliquid metaAndAssetCtxs) ──────────
-async function loadSymbols() {
+// ─── UNIVERSE CACHE ───────────────────────────────────
+function getCachedUniverse() {
   try {
-    const res = await fetch('https://api.hyperliquid.xyz/info', {
-      method: 'POST',
-      headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({type: 'metaAndAssetCtxs', dex: 'xyz'}),
-    });
-    if (!res.ok) { console.warn('Symbols fetch HTTP error:', res.status); return; }
-    const d = await res.json();
-    const universe = Array.isArray(d) && d[0] && Array.isArray(d[0].universe) ? d[0].universe : [];
-    _symbols = universe.map(u => ({
-      id:     'xyz:' + u.name,
-      symbol: u.name,
-      name:   u.name,
-    }));
-    console.log('Hyperliquid symbols loaded:', _symbols.length);
-  } catch(e) { console.warn('Symbols load failed:', e); }
+    const raw = localStorage.getItem(UNIVERSE_CACHE_KEY);
+    if (!raw) return null;
+    const cache = JSON.parse(raw);
+    if (!cache.timestamp || Date.now() - cache.timestamp > UNIVERSE_CACHE_TTL) return null;
+    return Array.isArray(cache.feeds) ? cache.feeds : null;
+  } catch(e) { return null; }
 }
 
+function setCachedUniverse(feeds) {
+  try {
+    localStorage.setItem(UNIVERSE_CACHE_KEY, JSON.stringify({ timestamp: Date.now(), feeds }));
+  } catch(e) {}
+}
+
+// ─── UNIVERSE FETCH ───────────────────────────────────
+async function fetchXyzUniverse() {
+  const res = await fetch('https://api.hyperliquid.xyz/info', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({type: 'metaAndAssetCtxs', dex: 'xyz'}),
+  });
+  if (!res.ok) throw new Error('xyz universe HTTP ' + res.status);
+  const d = await res.json();
+  const universe = Array.isArray(d) && d[0] && Array.isArray(d[0].universe) ? d[0].universe : [];
+  return universe.map(u => ({
+    id:     'xyz:' + u.name,
+    symbol: u.name,
+    name:   u.name,
+    source: 'xyz',
+  }));
+}
+
+async function fetchPythUniverse() {
+  const res = await fetch('https://hermes.pyth.network/v2/price_feeds');
+  if (!res.ok) throw new Error('pyth universe HTTP ' + res.status);
+  const feeds = await res.json();
+  return feeds
+    .map(f => ({
+      id:     f.id,
+      symbol: (f.attributes && (f.attributes.generic_symbol || f.attributes.symbol)) || '',
+      name:   (f.attributes && f.attributes.description) || '',
+      source: 'pyth',
+    }))
+    .filter(f => f.symbol);
+}
+
+async function loadUniverse() {
+  const cached = getCachedUniverse();
+  if (cached) {
+    _universe = cached;
+    console.log('Universe from cache:', _universe.length);
+    return;
+  }
+
+  const [xyzResult, pythResult] = await Promise.allSettled([
+    fetchXyzUniverse(),
+    fetchPythUniverse(),
+  ]);
+
+  const xyz  = xyzResult.status  === 'fulfilled' ? xyzResult.value  : [];
+  const pyth = pythResult.status === 'fulfilled' ? pythResult.value : [];
+
+  if (xyzResult.status !== 'fulfilled')  console.warn('xyz universe failed:', xyzResult.reason);
+  if (pythResult.status !== 'fulfilled') console.warn('pyth universe failed:', pythResult.reason);
+
+  const xyzSymbols = new Set(xyz.map(f => f.symbol.toUpperCase()));
+  const pythFiltered = pyth.filter(f => !xyzSymbols.has(f.symbol.toUpperCase()));
+
+  _universe = [...xyz, ...pythFiltered];
+  setCachedUniverse(_universe);
+  console.log('Universe built: xyz=%d pyth=%d total=%d', xyz.length, pythFiltered.length, _universe.length);
+}
+
+// ─── SEARCH ──────────────────────────────────────────
 function searchSymbols(raw) {
   const q = raw.trim().toLowerCase();
   if (!q) return [];
-  return _symbols
+  return _universe
     .filter(s => {
-      const normalizedName = s.name.replace('xyz:', '').toLowerCase();
-      return normalizedName.includes(q);
+      const sym  = s.symbol.toLowerCase();
+      const name = s.name.toLowerCase();
+      return sym.includes(q) || name.includes(q);
     })
-    .slice(0, 20);
+    .slice(0, 30);
+}
+
+function coinSource(coin) {
+  if (coin.source) return coin.source;
+  return coin.id.startsWith('xyz:') ? 'xyz' : 'pyth';
 }
 
 // ─── FORMAT ──────────────────────────────────────────
@@ -423,14 +497,26 @@ function escHtml(s) {
 function toJST(isoDate) {
   if (!isoDate) return '';
   try {
-    const d = new Date(isoDate);
+    const d   = new Date(isoDate);
     const jst = new Date(d.getTime() + 9 * 60 * 60 * 1000);
-    const mm = String(jst.getUTCMonth() + 1).padStart(2, '0');
-    const dd = String(jst.getUTCDate()).padStart(2, '0');
-    const hh = String(jst.getUTCHours()).padStart(2, '0');
-    const mn = String(jst.getUTCMinutes()).padStart(2, '0');
+    const mm  = String(jst.getUTCMonth() + 1).padStart(2, '0');
+    const dd  = String(jst.getUTCDate()).padStart(2, '0');
+    const hh  = String(jst.getUTCHours()).padStart(2, '0');
+    const mn  = String(jst.getUTCMinutes()).padStart(2, '0');
     return `${mm}/${dd} ${hh}:${mn}`;
   } catch(e) { return ''; }
+}
+
+// ─── PRICE INFO ───────────────────────────────────────
+function getPriceInfo(coin) {
+  const src = coinSource(coin);
+  if (src === 'xyz') {
+    return { priceText: fmtPrice(_prices[coin.id]), stale: false };
+  }
+  const px  = _pythPrices[coin.id];
+  const pt  = _pythPublishTimes[coin.id];
+  const stale = pt != null && (Date.now() / 1000 - pt) > MARKET_STALE_MS / 1000;
+  return { priceText: fmtPrice(px), stale };
 }
 
 // ─── RENDER CHART SLOTS ──────────────────────────────
@@ -440,13 +526,17 @@ function renderChartSlots() {
   _data.charts.forEach((coin, i) => {
     const el = document.createElement('div');
     if (coin) {
-      const px = fmtPrice(_prices[coin.id]);
+      const { priceText, stale } = getPriceInfo(coin);
       el.className = 'chart-slot filled';
       el.innerHTML =
         `<div class="slot-symbol">${escHtml(coin.symbol)}</div>` +
         `<div class="slot-name">${escHtml(coin.name)}</div>` +
-        `<div class="slot-price">${escHtml(px)}</div>`;
-      el.dataset.coinId = coin.id;
+        `<div class="slot-price${stale ? ' stale' : ''}">` +
+          escHtml(priceText) +
+          (stale ? ' <span class="closed-tag">(休場)</span>' : '') +
+        `</div>`;
+      el.dataset.coinId  = coin.id;
+      el.dataset.coinSrc = coinSource(coin);
     } else {
       el.className = 'chart-slot empty';
       el.innerHTML = '<div class="slot-add-icon">＋</div><div class="slot-add-label">銘柄を追加</div>';
@@ -454,6 +544,19 @@ function renderChartSlots() {
     el.dataset.slot = i;
     attachSlotHandlers(el, i);
     grid.appendChild(el);
+  });
+}
+
+function refreshPriceDisplay() {
+  document.querySelectorAll('.chart-slot.filled').forEach(el => {
+    const coinId = el.dataset.coinId;
+    const coin   = _data.charts.find(c => c && c.id === coinId);
+    if (!coin) return;
+    const priceEl = el.querySelector('.slot-price');
+    if (!priceEl) return;
+    const { priceText, stale } = getPriceInfo(coin);
+    priceEl.className = 'slot-price' + (stale ? ' stale' : '');
+    priceEl.innerHTML = escHtml(priceText) + (stale ? ' <span class="closed-tag">(休場)</span>' : '');
   });
 }
 
@@ -481,8 +584,8 @@ function attachSlotHandlers(el, index) {
     if (dx > 10 || dy > 10) { clearTimeout(lpTimer); lpTimer = null; }
   }, { passive: true });
 
-  el.addEventListener('touchend', () => { clearTimeout(lpTimer); lpTimer = null; });
-  el.addEventListener('touchcancel', () => { clearTimeout(lpTimer); lpTimer = null; });
+  el.addEventListener('touchend',   () => { clearTimeout(lpTimer); lpTimer = null; });
+  el.addEventListener('touchcancel',() => { clearTimeout(lpTimer); lpTimer = null; });
   el.addEventListener('contextmenu', e => e.preventDefault());
 
   el.addEventListener('click', () => {
@@ -547,19 +650,24 @@ document.getElementById('chart-search').addEventListener('input', e => {
   clearTimeout(_searchTimer);
   const q = e.target.value;
   _searchTimer = setTimeout(() => {
-    const results = searchSymbols(q);
     const container = document.getElementById('chart-results');
     if (!q.trim()) { container.innerHTML = ''; return; }
+    const results = searchSymbols(q);
     if (!results.length) {
-      container.innerHTML = '<div class="results-empty">この銘柄はHyperliquidに対応していません</div>';
+      container.innerHTML = '<div class="results-empty">該当銘柄なし</div>';
       return;
     }
-    container.innerHTML = results.map(s =>
-      `<div class="result-item" data-id="${escHtml(s.id)}" data-symbol="${escHtml(s.symbol)}" data-name="${escHtml(s.name)}">` +
-        `<span class="result-symbol">${escHtml(s.symbol)}</span>` +
-        `<span class="result-name">${escHtml(s.name)}</span>` +
-      `</div>`
-    ).join('');
+    container.innerHTML = results.map(s => {
+      const badgeClass = s.source === 'xyz' ? 'result-badge-xyz' : 'result-badge-pyth';
+      const badgeLabel = s.source === 'xyz' ? 'HYP' : 'PYTH';
+      return (
+        `<div class="result-item" data-id="${escHtml(s.id)}" data-symbol="${escHtml(s.symbol)}" data-name="${escHtml(s.name)}" data-source="${escHtml(s.source)}">` +
+          `<span class="result-symbol">${escHtml(s.symbol)}</span>` +
+          `<span class="result-name">${escHtml(s.name)}</span>` +
+          `<span class="result-badge ${badgeClass}">${badgeLabel}</span>` +
+        `</div>`
+      );
+    }).join('');
   }, 200);
 });
 
@@ -571,6 +679,7 @@ document.getElementById('chart-results').addEventListener('click', e => {
     id:     item.dataset.id,
     symbol: item.dataset.symbol,
     name:   item.dataset.name,
+    source: item.dataset.source,
   };
   saveData();
   closeChartModal();
@@ -578,38 +687,56 @@ document.getElementById('chart-results').addEventListener('click', e => {
   fetchPricesNow();
 });
 
-// ─── PRICES (Hyperliquid allMids) ────────────────────
-async function updatePrices() {
+// ─── PRICE FETCH: xyz ─────────────────────────────────
+async function fetchXyzPrices() {
   try {
     const res = await fetch('https://api.hyperliquid.xyz/info', {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({type: 'allMids', dex: 'xyz'}),
     });
-    if (!res.ok) { console.warn('Price fetch HTTP error:', res.status); return; }
-    const d = await res.json();
-    // allMids may return {"mids":{...}} or a flat {"GOLD":"4538.65",...} directly
+    if (!res.ok) { console.warn('xyz price HTTP error:', res.status); return; }
+    const d       = await res.json();
     const rawMids = (d && d.mids && typeof d.mids === 'object') ? d.mids : (d || {});
-    _prices = {};
     for (const [key, val] of Object.entries(rawMids)) {
       if (typeof val !== 'string' && typeof val !== 'number') continue;
       _prices[key] = val;
-      // Index with and without "xyz:" prefix so coin.id always matches
       if (!key.startsWith('xyz:')) _prices['xyz:' + key] = val;
     }
-    refreshPriceDisplay();
-  } catch(e) { console.warn('Price update failed (CORS?):', e); }
+  } catch(e) { console.warn('xyz price fetch failed:', e); }
+}
+
+// ─── PRICE FETCH: Pyth (batched) ──────────────────────
+async function fetchPythPrices(pythCharts) {
+  if (!pythCharts.length) return;
+  try {
+    const params = pythCharts.map(c => 'ids[]=' + encodeURIComponent(c.id)).join('&');
+    const res    = await fetch('https://hermes.pyth.network/v2/updates/price/latest?' + params);
+    if (!res.ok) { console.warn('Pyth price HTTP error:', res.status); return; }
+    const d      = await res.json();
+    const parsed = Array.isArray(d.parsed) ? d.parsed : [];
+    for (const entry of parsed) {
+      const id    = entry.id;
+      const price = entry.price.price * Math.pow(10, entry.price.expo);
+      _pythPrices[id]       = price;
+      _pythPublishTimes[id] = entry.price.publish_time;
+    }
+  } catch(e) { console.warn('Pyth price fetch failed (prev values retained):', e); }
+}
+
+// ─── PRICE UPDATE (5s poll) ───────────────────────────
+async function updatePrices() {
+  const activeCharts = _data.charts.filter(Boolean);
+  const pythCharts   = activeCharts.filter(c => coinSource(c) === 'pyth');
+
+  await Promise.allSettled([
+    fetchXyzPrices(),
+    fetchPythPrices(pythCharts),
+  ]);
+  refreshPriceDisplay();
 }
 
 function fetchPricesNow() { updatePrices(); }
-
-function refreshPriceDisplay() {
-  document.querySelectorAll('.chart-slot.filled').forEach(el => {
-    const id = el.dataset.coinId;
-    const px = el.querySelector('.slot-price');
-    if (px) px.textContent = fmtPrice(_prices[id]);
-  });
-}
 
 // ─── FEAR & GREED ─────────────────────────────────────
 async function loadFng() {
@@ -672,7 +799,7 @@ async function loadNews() {
 function initTVWidgets() {
   const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
 
-  function createWidget(wrapId, symbol, chartOnly) {
+  function createWidget(wrapId, symbol) {
     const wrap = document.getElementById(wrapId);
     if (!wrap) return;
     wrap.innerHTML =
@@ -690,7 +817,7 @@ function initTVWidgets() {
     s.async = true;
     s.innerHTML = JSON.stringify({
       symbols:          [[symbol + '|1D']],
-      chartOnly:        chartOnly,
+      chartOnly:        false,
       width:            '100%',
       height:           150,
       locale:           'ja',
@@ -712,8 +839,8 @@ function initTVWidgets() {
     wrap.querySelector('.tradingview-widget-container').appendChild(s);
   }
 
-  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY',    false);
-  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY', false);
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY');
+  createWidget('tv-dxy-wrap',    'CAPITALCOM:DXY');
 }
 
 // ─── THEME ────────────────────────────────────────────
@@ -753,7 +880,7 @@ updateSessions();
 
 // ─── TRADINGVIEW APP LAUNCH ───────────────────────────
 document.getElementById('btn-tradingview').addEventListener('click', function() {
-  const webUrl  = 'https://jp.tradingview.com';
+  const webUrl   = 'https://jp.tradingview.com';
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   if (!isMobile) {
     window.open(webUrl, '_blank', 'noopener,noreferrer');
@@ -832,11 +959,11 @@ if ('serviceWorker' in navigator) {
 window.addEventListener('pageshow', e => { if (e.persisted) initTVWidgets(); });
 
 // ─── INIT ────────────────────────────────────────────
-function init() {
+async function init() {
   loadData();
   renderChartSlots();
   initTVWidgets();
-  loadSymbols();
+  await loadUniverse();
   updatePrices();
   setInterval(updatePrices, PRICE_INTERVAL);
   loadFng();
