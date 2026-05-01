@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>FX COCKPIT 2 CRYPTO</title>
+<title>FX COCKPIT FX</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#0a0a0f">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -84,7 +84,6 @@ header{
 .session-pill.active .dot{animation:blink 1.4s ease-in-out infinite;}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
 
-
 /* ─── PAGE CONTENT ─── */
 .page-content{
   flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;
@@ -98,6 +97,7 @@ header{
 }
 
 /* ─── TRADINGVIEW WIDGET ─── */
+.tv-main-grid{display:grid;grid-template-columns:3fr 1fr;gap:8px;}
 .tv-widget-wrap{border-radius:8px;overflow:hidden;border:1.5px solid var(--border2);}
 .tradingview-widget-copyright{padding:2px 8px 4px;background:transparent;font-size:11px;line-height:1.4;text-align:right;}
 .tradingview-widget-copyright .blue-text{color:var(--muted)!important;text-decoration:underline;}
@@ -113,11 +113,8 @@ header{
 .chart-slot.empty{border-style:dashed;}
 .chart-slot.empty:active,.chart-slot.filled:active{opacity:.7;}
 .slot-symbol{font-size:13px;font-weight:700;color:var(--text);}
-.slot-price{font-size:13px;font-weight:700;color:var(--cyan);margin-top:4px;}
-.slot-change{font-size:11px;margin-top:2px;}
-.slot-change.positive{color:var(--green);}
-.slot-change.negative{color:var(--red);}
-.slot-change.neutral{color:var(--muted);}
+.slot-name{font-size:10px;color:var(--muted);margin-top:2px;}
+.slot-price{font-size:13px;font-weight:700;color:var(--cyan);margin-top:6px;}
 .slot-add-icon{font-size:22px;color:var(--muted);}
 .slot-add-label{font-size:10px;color:#8a8aaa;font-weight:700;margin-top:4px;}
 
@@ -155,15 +152,19 @@ header{
 }
 .fng-meter-bar{height:100%;border-radius:4px;transition:width .5s;}
 
-/* ─── NEWS LINKS ─── */
-.news-links{display:flex;flex-direction:column;gap:6px;}
-.news-link-btn{
-  display:block;padding:12px 14px;background:var(--bg3);
+/* ─── NEWS ─── */
+.news-list{display:flex;flex-direction:column;gap:6px;}
+.news-item{
+  padding:10px 12px;background:var(--bg3);
   border:1.5px solid var(--border2);border-radius:6px;
-  color:var(--text);font-size:13px;font-weight:700;
-  transition:border-color .15s,color .15s;
 }
-.news-link-btn:hover{border-color:var(--cyan-dim);color:var(--cyan);}
+.news-meta{font-size:11px;color:var(--muted);margin-bottom:4px;}
+.news-title a{
+  font-size:13px;color:var(--text);line-height:1.5;
+  text-decoration:none;display:block;
+}
+.news-title a:hover{color:var(--cyan);}
+.news-empty{padding:24px 0;text-align:center;color:var(--muted);font-size:13px;}
 
 /* ─── MODAL OVERLAY ─── */
 .modal-overlay{
@@ -183,7 +184,6 @@ header{
 .modal-close{background:none;border:none;color:var(--muted);font-size:18px;cursor:pointer;padding:4px 8px;line-height:1;}
 .modal-close:hover{color:var(--text);}
 
-/* search input */
 .modal-search-wrap{margin-bottom:12px;}
 .modal-search-input{
   width:100%;background:var(--bg3);border:1.5px solid var(--border2);
@@ -195,7 +195,6 @@ header{
 .modal-search-input::placeholder{color:var(--muted);}
 .modal-search-input::-webkit-search-cancel-button{display:none;}
 
-/* result items */
 .result-item{
   padding:10px 12px;background:var(--bg3);border:1.5px solid var(--border2);
   border-radius:6px;margin-bottom:4px;cursor:pointer;
@@ -205,7 +204,6 @@ header{
 .result-item:active{opacity:.7;}
 .result-symbol{font-size:13px;font-weight:700;color:var(--text);min-width:52px;}
 .result-name{font-size:12px;color:var(--muted);}
-.result-rank{font-size:11px;color:var(--cyan);flex-shrink:0;min-width:36px;}
 .results-empty{padding:24px 0;text-align:center;color:var(--muted);font-size:13px;}
 
 /* ─── LONGPRESS MENU ─── */
@@ -231,7 +229,7 @@ header{
 <body>
 
 <header>
-  <div class="logo">FX COCKPIT 2 <span>CRYPTO by azteca</span></div>
+  <div class="logo">FX COCKPIT FX <span>by azteca</span></div>
   <div class="header-right">
     <div id="clock">--:--:--</div>
     <div class="theme-switcher">
@@ -263,7 +261,10 @@ header{
 <div class="page-content">
 
   <!-- ⚠️ TradingViewウィジェット: 帰属表示（ロゴ・リンク）をCSSで隠したり削除したりしないこと -->
-  <div class="tv-widget-wrap" id="tv-btc-wrap"></div>
+  <div class="tv-main-grid">
+    <div class="tv-widget-wrap" id="tv-usdjpy-wrap"></div>
+    <div class="tv-widget-wrap" id="tv-dxy-wrap"></div>
+  </div>
   <!-- ⚠️ TradingViewウィジェット終了: 上記帰属表示を削除・非表示にしないこと -->
 
   <div class="sec-heading">マイチャート</div>
@@ -297,13 +298,9 @@ header{
     </div>
   </div>
 
-  <div class="sec-heading">クリプトニュース</div>
-  <div class="news-links">
-    <a class="news-link-btn" href="https://coinpost.jp" target="_blank" rel="noopener">CoinPost</a>
-    <a class="news-link-btn" href="https://cointelegraph.jp/" target="_blank" rel="noopener">Cointelegraph Japan</a>
-    <a class="news-link-btn" href="https://www.nadanews.com" target="_blank" rel="noopener">NADA NEWS</a>
-    <a class="news-link-btn" href="https://cryptonews.com/jp/" target="_blank" rel="noopener">CryptoNews Japan</a>
-    <a class="news-link-btn" href="https://www.neweconomy.jp" target="_blank" rel="noopener">あたらしい経済</a>
+  <div class="sec-heading">ニュース</div>
+  <div class="news-list" id="news-list">
+    <div class="news-empty">読み込み中...</div>
   </div>
 
 </div>
@@ -317,7 +314,7 @@ header{
     </div>
     <div class="modal-search-wrap">
       <input id="chart-search" class="modal-search-input" type="search"
-             placeholder="BTC / ビットコイン / bitcoin..." autocomplete="off" spellcheck="false">
+             placeholder="GOLD / EUR / CL..." autocomplete="off" spellcheck="false">
     </div>
     <div id="chart-results"></div>
   </div>
@@ -336,23 +333,22 @@ header{
 
 <script>
 // ─── CONSTANTS ───────────────────────────────────────
-const STORAGE_KEY    = 'fxc2-crypto-data';
+const STORAGE_KEY    = 'fxc-fx-data';
 const MAX_CHARTS     = 8;
-const PRICE_INTERVAL = 30000;
+const PRICE_INTERVAL = 5000;
 
-const CRYPTO_ALIAS = {
-  'ビットコイン':'BTC','bitcoin':'BTC',
-  'イーサリアム':'ETH','ethereum':'ETH',
-  'リップル':'XRP',
-  'ソラナ':'SOL',
-  'ドージ':'DOGE','dogecoin':'DOGE',
-};
+const DEFAULT_CHARTS = [
+  {id:'xyz:GOLD', symbol:'GOLD', name:'Gold'},
+  {id:'xyz:CL',   symbol:'CL',   name:'WTI Oil'},
+  {id:'xyz:EUR',  symbol:'EUR',   name:'EUR/USD'},
+  null, null, null, null, null,
+];
 
 // ─── STATE ───────────────────────────────────────────
 let _data = {
-  charts: Array(MAX_CHARTS).fill(null),
+  charts: DEFAULT_CHARTS.map(c => c ? {...c} : null),
 };
-let _coins       = [];
+let _symbols     = [];
 let _prices      = {};
 let _pendingSlot = null;
 let _searchTimer = null;
@@ -378,64 +374,59 @@ function saveData() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(_data));
 }
 
-// ─── COINS ───────────────────────────────────────────
-async function loadCoins() {
+// ─── SYMBOLS (Hyperliquid metaAndAssetCtxs) ──────────
+async function loadSymbols() {
   try {
-    const res = await fetch('public/data/coins.json');
-    const d   = await res.json();
-    _coins = Array.isArray(d.coins) ? d.coins : [];
-  } catch(e) { console.warn('coins.json load failed:', e); }
+    const res = await fetch('https://api.hyperliquid.xyz/info', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({type: 'metaAndAssetCtxs', dex: 'xyz'}),
+    });
+    if (!res.ok) return;
+    const d = await res.json();
+    const universe = Array.isArray(d) && d[0] && Array.isArray(d[0].universe) ? d[0].universe : [];
+    _symbols = universe.map(u => ({
+      id:     'xyz:' + u.name,
+      symbol: u.name,
+      name:   u.name,
+    }));
+  } catch(e) { console.warn('Symbols load failed:', e); }
 }
 
-function searchCoins(raw) {
-  const q    = raw.trim();
+function searchSymbols(raw) {
+  const q = raw.trim().toLowerCase();
   if (!q) return [];
-  const qLow = q.toLowerCase();
-  const mapped = (CRYPTO_ALIAS[q] || CRYPTO_ALIAS[qLow] || '').toLowerCase();
-
-  function score(c) {
-    const sym  = (c.symbol || '').toLowerCase();
-    const name = (c.name   || '').toLowerCase();
-    // 完全一致を最優先
-    if (sym === qLow)                    return 200;
-    if (mapped && sym === mapped)        return 190;
-    if (sym.startsWith(qLow))           return 150;
-    if (name === qLow)                   return 120;
-    if (name.startsWith(qLow))          return 100;
-    if (name.includes(qLow))            return 80;
-    if (mapped && name.includes(mapped)) return 60;
-    return 0;
-  }
-
-  return _coins
-    .map(c => ({ c, s: score(c) }))
-    .filter(x => x.s > 0)
-    .sort((a, b) => {
-      // まずスコア順、同スコアならrank順（時価総額優先）
-      if (b.s !== a.s) return b.s - a.s;
-      return (a.c.rank || 9999) - (b.c.rank || 9999);
-    })
-    .slice(0, 15)
-    .map(x => x.c);
+  return _symbols
+    .filter(s => s.symbol.toLowerCase().includes(q) || s.name.toLowerCase().includes(q))
+    .slice(0, 20);
 }
 
 // ─── FORMAT ──────────────────────────────────────────
 function fmtPrice(v) {
   if (v == null) return '--';
-  if (v >= 10000) return '$' + Math.round(v).toLocaleString('en-US');
-  if (v >= 100)   return '$' + v.toLocaleString('en-US', { maximumFractionDigits: 2 });
-  if (v >= 1)     return '$' + v.toFixed(2);
-  if (v >= 0.01)  return '$' + v.toFixed(4);
-  return '$' + v.toFixed(6);
-}
-
-function fmtChange(v) {
-  if (v == null) return '--';
-  return (v >= 0 ? '+' : '') + v.toFixed(2) + '%';
+  const n = parseFloat(v);
+  if (isNaN(n)) return '--';
+  if (n >= 10000) return n.toLocaleString('en-US', {maximumFractionDigits: 2});
+  if (n >= 100)   return n.toLocaleString('en-US', {maximumFractionDigits: 3});
+  if (n >= 1)     return n.toFixed(4);
+  return n.toFixed(6);
 }
 
 function escHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function toJST(isoDate) {
+  if (!isoDate) return '';
+  try {
+    const d = new Date(isoDate);
+    const jst = new Date(d.getTime() + 9 * 60 * 60 * 1000);
+    const mm = String(jst.getUTCMonth() + 1).padStart(2, '0');
+    const dd = String(jst.getUTCDate()).padStart(2, '0');
+    const hh = String(jst.getUTCHours()).padStart(2, '0');
+    const mn = String(jst.getUTCMinutes()).padStart(2, '0');
+    return `${mm}/${dd} ${hh}:${mn}`;
+  } catch(e) { return ''; }
 }
 
 // ─── RENDER CHART SLOTS ──────────────────────────────
@@ -445,15 +436,12 @@ function renderChartSlots() {
   _data.charts.forEach((coin, i) => {
     const el = document.createElement('div');
     if (coin) {
-      const p   = _prices[coin.id];
-      const px  = p ? fmtPrice(p.usd) : '--';
-      const ch  = p ? p.usd_24h_change : null;
-      const cls = ch == null ? 'neutral' : ch >= 0 ? 'positive' : 'negative';
+      const px = fmtPrice(_prices[coin.id]);
       el.className = 'chart-slot filled';
       el.innerHTML =
         `<div class="slot-symbol">${escHtml(coin.symbol)}</div>` +
-        `<div class="slot-price">${escHtml(px)}</div>` +
-        `<div class="slot-change ${cls}">${escHtml(fmtChange(ch))}</div>`;
+        `<div class="slot-name">${escHtml(coin.name)}</div>` +
+        `<div class="slot-price">${escHtml(px)}</div>`;
       el.dataset.coinId = coin.id;
     } else {
       el.className = 'chart-slot empty';
@@ -497,7 +485,7 @@ function attachSlotHandlers(el, index) {
     if (lpFired) { lpFired = false; return; }
     const coin = _data.charts[index];
     if (coin) {
-      window.open(`https://www.coingecko.com/en/coins/${coin.id}`, '_blank', 'noopener');
+      window.open('https://www.tradingview.com/chart/?symbol=' + encodeURIComponent(coin.symbol), '_blank', 'noopener');
     } else {
       openChartModal(index);
     }
@@ -555,18 +543,17 @@ document.getElementById('chart-search').addEventListener('input', e => {
   clearTimeout(_searchTimer);
   const q = e.target.value;
   _searchTimer = setTimeout(() => {
-    const results = searchCoins(q);
+    const results = searchSymbols(q);
     const container = document.getElementById('chart-results');
     if (!q.trim()) { container.innerHTML = ''; return; }
     if (!results.length) {
       container.innerHTML = '<div class="results-empty">該当なし</div>';
       return;
     }
-    container.innerHTML = results.map(c =>
-      `<div class="result-item" data-id="${escHtml(c.id)}" data-symbol="${escHtml((c.symbol||'').toUpperCase())}" data-name="${escHtml(c.name||'')}">` +
-        (c.rank && c.rank < 9999 ? `<span class="result-rank">#${c.rank}</span>` : '<span class="result-rank"></span>') +
-        `<span class="result-symbol">${escHtml((c.symbol||'').toUpperCase())}</span>` +
-        `<span class="result-name">${escHtml(c.name||'')}</span>` +
+    container.innerHTML = results.map(s =>
+      `<div class="result-item" data-id="${escHtml(s.id)}" data-symbol="${escHtml(s.symbol)}" data-name="${escHtml(s.name)}">` +
+        `<span class="result-symbol">${escHtml(s.symbol)}</span>` +
+        `<span class="result-name">${escHtml(s.name)}</span>` +
       `</div>`
     ).join('');
   }, 200);
@@ -577,7 +564,6 @@ document.getElementById('chart-results').addEventListener('click', e => {
   if (!item || _pendingSlot == null) return;
   const idx = _pendingSlot;
   _data.charts[idx] = {
-    slot:   idx,
     id:     item.dataset.id,
     symbol: item.dataset.symbol,
     name:   item.dataset.name,
@@ -588,22 +574,17 @@ document.getElementById('chart-results').addEventListener('click', e => {
   fetchPricesNow();
 });
 
-// ─── PRICES ──────────────────────────────────────────
-function getRegisteredIds() {
-  return _data.charts.filter(Boolean).map(c => c.id);
-}
-
+// ─── PRICES (Hyperliquid allMids) ────────────────────
 async function updatePrices() {
-  const ids = getRegisteredIds();
-  if (!ids.length) return;
   try {
-    const url = `https://api.coingecko.com/api/v3/simple/price?ids=${encodeURIComponent(ids.join(','))}&vs_currencies=usd&include_24hr_change=true`;
-    const res = await fetch(url);
+    const res = await fetch('https://api.hyperliquid.xyz/info', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({type: 'allMids', dex: 'xyz'}),
+    });
     if (!res.ok) return;
-    const data = await res.json();
-    for (const [id, vals] of Object.entries(data)) {
-      _prices[id] = { usd: vals.usd, usd_24h_change: vals.usd_24h_change };
-    }
+    const d = await res.json();
+    _prices = d.mids || {};
     refreshPriceDisplay();
   } catch(e) { console.warn('Price update failed:', e); }
 }
@@ -613,15 +594,8 @@ function fetchPricesNow() { updatePrices(); }
 function refreshPriceDisplay() {
   document.querySelectorAll('.chart-slot.filled').forEach(el => {
     const id = el.dataset.coinId;
-    const p  = _prices[id];
-    if (!p) return;
-    const px  = el.querySelector('.slot-price');
-    const ch  = el.querySelector('.slot-change');
-    if (px) px.textContent = fmtPrice(p.usd);
-    if (ch) {
-      ch.textContent = fmtChange(p.usd_24h_change);
-      ch.className = 'slot-change ' + (p.usd_24h_change >= 0 ? 'positive' : 'negative');
-    }
+    const px = el.querySelector('.slot-price');
+    if (px) px.textContent = fmtPrice(_prices[id]);
   });
 }
 
@@ -654,46 +628,80 @@ async function loadFng() {
   } catch(e) { console.warn('FnG load failed:', e); }
 }
 
-// ─── TRADINGVIEW WIDGET ───────────────────────────────
-function initTVWidget() {
-  const wrap  = document.getElementById('tv-btc-wrap');
-  if (!wrap) return;
+// ─── NEWS ─────────────────────────────────────────────
+async function loadNews() {
+  const container = document.getElementById('news-list');
+  try {
+    const res = await fetch('public/data/news.json');
+    if (!res.ok) throw new Error('fetch failed');
+    const d      = await res.json();
+    const gold   = Array.isArray(d.gold_items)   ? d.gold_items   : [];
+    const usdjpy = Array.isArray(d.usdjpy_items) ? d.usdjpy_items : [];
+    const all    = [...gold, ...usdjpy]
+      .sort((a, b) => (b.isoDate || '').localeCompare(a.isoDate || ''))
+      .slice(0, 15);
+    if (!all.length) {
+      container.innerHTML = '<div class="news-empty">ニュースなし</div>';
+      return;
+    }
+    container.innerHTML = all.map(item =>
+      `<div class="news-item">` +
+        `<div class="news-meta">${escHtml(item.source || '')} · ${escHtml(toJST(item.isoDate))} JST</div>` +
+        `<div class="news-title"><a href="${escHtml(item.link || '#')}" target="_blank" rel="noopener">${escHtml(item.title || '')}</a></div>` +
+      `</div>`
+    ).join('');
+  } catch(e) {
+    container.innerHTML = '<div class="news-empty">ニュース取得エラー</div>';
+    console.warn('News load failed:', e);
+  }
+}
+
+// ─── TRADINGVIEW WIDGETS ──────────────────────────────
+function initTVWidgets() {
   const theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';
-  wrap.innerHTML =
-    `<div class="tradingview-widget-container">` +
-      `<div class="tradingview-widget-container__widget"></div>` +
-      `<div class="tradingview-widget-copyright">` +
-        `<a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">` +
-          `<span class="blue-text">Track all markets on TradingView</span>` +
-        `</a>` +
-      `</div>` +
-    `</div>`;
-  const s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.src  = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js';
-  s.async = true;
-  s.innerHTML = JSON.stringify({
-    symbols:          [['COINBASE:BTCUSD|1D']],
-    chartOnly:        false,
-    width:            '100%',
-    height:           195,
-    locale:           'ja',
-    colorTheme:       theme,
-    autosize:         false,
-    showVolume:       false,
-    showMA:           false,
-    hideDateRanges:   true,
-    hideMarketStatus: false,
-    scalePosition:    'right',
-    scaleMode:        'Normal',
-    fontFamily:       '-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif',
-    fontSize:         '10',
-    noTimeScale:      true,
-    valuesTracking:   '1',
-    changeMode:       'price-and-percent',
-    chartType:        'line',
-  });
-  wrap.querySelector('.tradingview-widget-container').appendChild(s);
+
+  function createWidget(wrapId, symbol, chartOnly) {
+    const wrap = document.getElementById(wrapId);
+    if (!wrap) return;
+    wrap.innerHTML =
+      `<div class="tradingview-widget-container">` +
+        `<div class="tradingview-widget-container__widget"></div>` +
+        `<div class="tradingview-widget-copyright">` +
+          `<a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">` +
+            `<span class="blue-text">Track all markets on TradingView</span>` +
+          `</a>` +
+        `</div>` +
+      `</div>`;
+    const s = document.createElement('script');
+    s.type  = 'text/javascript';
+    s.src   = 'https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js';
+    s.async = true;
+    s.innerHTML = JSON.stringify({
+      symbols:          [[symbol + '|1D']],
+      chartOnly:        chartOnly,
+      width:            '100%',
+      height:           150,
+      locale:           'ja',
+      colorTheme:       theme,
+      autosize:         false,
+      showVolume:       false,
+      showMA:           false,
+      hideDateRanges:   true,
+      hideMarketStatus: false,
+      scalePosition:    'right',
+      scaleMode:        'Normal',
+      fontFamily:       '-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif',
+      fontSize:         '10',
+      noTimeScale:      true,
+      valuesTracking:   '1',
+      changeMode:       'price-and-percent',
+      chartType:        'line',
+    });
+    wrap.querySelector('.tradingview-widget-container').appendChild(s);
+  }
+
+  createWidget('tv-usdjpy-wrap', 'OANDA:USDJPY', false);
+  createWidget('tv-dxy-wrap',    'TVC:DXY',      true);
 }
 
 // ─── THEME ────────────────────────────────────────────
@@ -704,7 +712,7 @@ document.querySelectorAll('.theme-btn').forEach(btn => {
     document.documentElement.dataset.theme = t;
     localStorage.setItem('fx-theme', t);
     document.querySelectorAll('.theme-btn').forEach(b => b.classList.toggle('active', b.dataset.theme === t));
-    initTVWidget();
+    initTVWidgets();
   });
 });
 
@@ -733,7 +741,7 @@ updateSessions();
 
 // ─── TRADINGVIEW APP LAUNCH ───────────────────────────
 document.getElementById('btn-tradingview').addEventListener('click', function() {
-  const webUrl = 'https://jp.tradingview.com';
+  const webUrl  = 'https://jp.tradingview.com';
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
   if (!isMobile) {
     window.open(webUrl, '_blank', 'noopener,noreferrer');
@@ -762,15 +770,15 @@ document.querySelector('.fng-wrap').addEventListener('click', function() {
 
 // ─── PULL TO REFRESH ─────────────────────────────────
 (function() {
-  const content = document.querySelector('.page-content');
+  const content   = document.querySelector('.page-content');
   const indicator = document.getElementById('ptr-indicator');
-  let startY = 0;
+  let startY  = 0;
   let pulling = false;
   const THRESHOLD = 80;
 
   content.addEventListener('touchstart', e => {
     if (content.scrollTop === 0) {
-      startY = e.touches[0].clientY;
+      startY  = e.touches[0].clientY;
       pulling = true;
     }
   }, { passive: true });
@@ -781,7 +789,7 @@ document.querySelector('.fng-wrap').addEventListener('click', function() {
     if (dy > 0 && content.scrollTop === 0) {
       const progress = Math.min(dy, THRESHOLD * 1.5);
       indicator.style.height = Math.min(progress * 0.5, 44) + 'px';
-      indicator.textContent = dy >= THRESHOLD ? '離して更新' : '↓ 引っ張って更新';
+      indicator.textContent  = dy >= THRESHOLD ? '離して更新' : '↓ 引っ張って更新';
     }
   }, { passive: true });
 
@@ -790,7 +798,7 @@ document.querySelector('.fng-wrap').addEventListener('click', function() {
     pulling = false;
     const dy = e.changedTouches[0].clientY - startY;
     indicator.style.height = '0';
-    indicator.textContent = '↓ 引っ張って更新';
+    indicator.textContent  = '↓ 引っ張って更新';
     if (dy >= THRESHOLD && content.scrollTop === 0) {
       updatePrices();
       loadFng();
@@ -809,17 +817,18 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-window.addEventListener('pageshow', e => { if (e.persisted) initTVWidget(); });
+window.addEventListener('pageshow', e => { if (e.persisted) initTVWidgets(); });
 
 // ─── INIT ────────────────────────────────────────────
 function init() {
   loadData();
   renderChartSlots();
-  initTVWidget();
-  loadCoins();
+  initTVWidgets();
+  loadSymbols();
   updatePrices();
   setInterval(updatePrices, PRICE_INTERVAL);
   loadFng();
+  loadNews();
 }
 
 init();
