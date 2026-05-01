@@ -458,7 +458,7 @@ function attachSlotHandlers(el, index) {
     lpFired = false;
     startX = e.touches[0].clientX;
     startY = e.touches[0].clientY;
-    lpTimer = setTimeout(() => { lpFired = true; showLpMenu(index); }, 600);
+    lpTimer = setTimeout(() => { lpFired = true; showLpMenu(index); }, 400);
   }, {passive:true});
   el.addEventListener('touchmove', e => {
     if (!lpTimer) return;
@@ -540,7 +540,10 @@ async function updatePrices() {
   ]);
   if (xyzRes.status === 'fulfilled') {
     const mids = xyzRes.value.mids || xyzRes.value;
-    for (const [k, v] of Object.entries(mids)) { _prices[k] = v; }
+    for (const [k, v] of Object.entries(mids)) {
+      _prices[k] = v;
+      _prices['xyz:'+k] = v;
+    }
   }
 
   if (pythCharts.length > 0) {
