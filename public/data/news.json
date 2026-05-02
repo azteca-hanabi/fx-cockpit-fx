@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-02T10:01:34Z",
-  "last_checked": "2026-05-02T10:01:34Z",
+  "updated": "2026-05-02T11:24:09Z",
+  "last_checked": "2026-05-02T11:24:09Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAE離脱にもかかわらずOPECプラスは6月の増産を推進へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515639",
+      "published": "2026-05-02 11:00:12",
+      "isoDate": "2026-05-02T11:00:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAEのOPEC離脱:石油市場への潜在的影響とは",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515635",
+      "published": "2026-05-02 09:47:22",
+      "isoDate": "2026-05-02T09:47:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧州のガソリンマージンが2023年8月以来の高水準に急騰",
@@ -57,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1513945",
       "published": "2026-05-01 01:03:01",
       "isoDate": "2026-05-01T01:03:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インド、軽油と航空燃料の輸出関税を引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1513415",
-      "published": "2026-04-30 19:28:50",
-      "isoDate": "2026-04-30T19:28:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ARA地域のジェット燃料在庫、2020年3月以来の最低水準に低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1512929",
-      "published": "2026-04-30 15:17:07",
-      "isoDate": "2026-04-30T15:17:07Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国、イランの石油ルート遮断へ中国の「ティーポット」精製業者を標的に",
-      "link": "https://jp.investing.com/news/economy-news/article-1515624",
-      "published": "2026-05-02 06:44:56",
-      "isoDate": "2026-05-02T06:44:56Z"
+      "title": "CTA資金がポジション再構築で株式ラリーが拡大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1515637",
+      "published": "2026-05-02 10:47:56",
+      "isoDate": "2026-05-02T10:47:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "UAEのOPEC離脱:石油市場への潜在的影響とは",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515635",
+      "published": "2026-05-02 09:47:22",
+      "isoDate": "2026-05-02T09:47:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1514580",
       "published": "2026-05-01 11:30:05",
       "isoDate": "2026-05-01T11:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルCEO、メモリ制約の深刻化を警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514388",
-      "published": "2026-05-01 10:19:15",
-      "isoDate": "2026-05-01T10:19:15Z"
     }
   ],
   "btc_items": [
