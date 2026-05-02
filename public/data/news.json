@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T01:14:55Z",
-  "last_checked": "2026-05-02T01:14:55Z",
+  "updated": "2026-05-02T04:43:13Z",
+  "last_checked": "2026-05-02T04:43:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,14 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "コインベース、ステーブルコイン利回りで妥協案確保、米国暗号資産法案への道開く",
+      "title": "トランプ大統領、イラン船舶拿捕の収益性を強調し米海軍を「海賊」に例える",
+      "link": "https://jp.investing.com/news/economy-news/article-1515609",
+      "published": "2026-05-02 02:57:50",
+      "isoDate": "2026-05-02T02:57:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コインベース、ステーブルコイン利回りで妥協案を確保し米国暗号資産法案への道を開く",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515589",
       "published": "2026-05-02 00:05:09",
       "isoDate": "2026-05-02T00:05:09Z"
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "政府による2度目の介入の可能性はどの程度か",
-      "link": "https://jp.investing.com/news/forex-news/article-1515045",
-      "published": "2026-05-01 14:30:48",
-      "isoDate": "2026-05-01T14:30:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AI半導体とメモリー株の上昇継続をウルフが予想",
       "link": "https://jp.investing.com/news/stock-market-news/article-1514706",
       "published": "2026-05-01 12:29:21",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案が重要局面に、マークアップに向け前進",
+      "link": "https://coinpost.jp/?p=706600",
+      "published": "Sat, 02 May 2026 13:25:36 +0900",
+      "isoDate": "2026-05-02T04:25:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "カナダ年金基金AIMCo、約267億円でマイクストラテジー株を購入",
+      "link": "https://coinpost.jp/?p=706598",
+      "published": "Sat, 02 May 2026 11:44:48 +0900",
+      "isoDate": "2026-05-02T02:44:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースら、6月末までの仮想通貨市場の回復を予測　BTC・ETH分析も",
+      "link": "https://coinpost.jp/?p=706587",
+      "published": "Sat, 02 May 2026 11:02:19 +0900",
+      "isoDate": "2026-05-02T02:02:19Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン採掘企業ライオットQ1決算、AIデータセンター事業が収益の20%へ急成長",
@@ -180,13 +201,6 @@
       "link": "https://coinpost.jp/?p=706435",
       "published": "Fri, 01 May 2026 16:16:11 +0900",
       "isoDate": "2026-05-01T07:16:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マラソン、オハイオ州ガス発電所を約2400億円で買収　AI・HPC事業の基盤強化へ",
-      "link": "https://coinpost.jp/?p=706312",
-      "published": "Fri, 01 May 2026 11:30:35 +0900",
-      "isoDate": "2026-05-01T02:30:35Z"
     }
   ]
 }
