@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-01T23:30:07Z",
-  "last_checked": "2026-05-01T23:30:07Z",
+  "updated": "2026-05-02T01:14:55Z",
+  "last_checked": "2026-05-02T01:14:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "コインベース、ステーブルコイン利回りで妥協案確保、米国暗号資産法案への道開く",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515589",
+      "published": "2026-05-02 00:05:09",
+      "isoDate": "2026-05-02T00:05:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株式市場はまちまち、ハイテクが支える",
       "link": "https://jp.investing.com/news/stock-market-news/article-1515575",
       "published": "2026-05-01 23:00:06",
@@ -104,17 +111,17 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "政府による2度目の介入の可能性はどの程度か",
+      "link": "https://jp.investing.com/news/forex-news/article-1515045",
+      "published": "2026-05-01 14:30:48",
+      "isoDate": "2026-05-01T14:30:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AI半導体とメモリー株の上昇継続をウルフが予想",
       "link": "https://jp.investing.com/news/stock-market-news/article-1514706",
       "published": "2026-05-01 12:29:21",
       "isoDate": "2026-05-01T12:29:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI投資ブームが続く中、BCAが株式を格上げ、現金を格下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514691",
-      "published": "2026-05-01 12:20:20",
-      "isoDate": "2026-05-01T12:20:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +143,50 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1514068",
       "published": "2026-05-01 06:32:05",
       "isoDate": "2026-05-01T06:32:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスク、2026年第3四半期で好調な業績を発表し株価急騰",
-      "link": "https://jp.investing.com/news/transcripts/article-93CH-1513786",
-      "published": "2026-04-30 21:53:13",
-      "isoDate": "2026-04-30T21:53:13Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン採掘企業ライオットQ1決算、AIデータセンター事業が収益の20%へ急成長",
+      "link": "https://coinpost.jp/?p=706557",
+      "published": "Sat, 02 May 2026 09:55:07 +0900",
+      "isoDate": "2026-05-02T00:55:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブラジル中央銀行、規制下の国際決済での仮想通貨利用を禁止へ",
+      "link": "https://coinpost.jp/?p=706572",
+      "published": "Sat, 02 May 2026 07:40:57 +0900",
+      "isoDate": "2026-05-01T22:40:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
+      "link": "https://coinpost.jp/?p=706560",
+      "published": "Sat, 02 May 2026 05:55:38 +0900",
+      "isoDate": "2026-05-01T20:55:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SBI決算発表｜仮想通貨事業が過去最高益、JPYSCローンチや貸金業参入など2026年のWeb3戦略を総括",
+      "link": "https://coinpost.jp/?p=706446",
+      "published": "Fri, 01 May 2026 16:59:34 +0900",
+      "isoDate": "2026-05-01T07:59:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、短期保有者の損益が6カ月ぶりプラス転換　強気・弱気の分岐点か＝アナリスト",
+      "link": "https://coinpost.jp/?p=706435",
+      "published": "Fri, 01 May 2026 16:16:11 +0900",
+      "isoDate": "2026-05-01T07:16:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "マラソン、オハイオ州ガス発電所を約2400億円で買収　AI・HPC事業の基盤強化へ",
+      "link": "https://coinpost.jp/?p=706312",
+      "published": "Fri, 01 May 2026 11:30:35 +0900",
+      "isoDate": "2026-05-01T02:30:35Z"
+    }
+  ]
 }
