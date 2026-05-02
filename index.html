@@ -123,12 +123,14 @@ header{
   transition:all .15s;text-align:center;user-select:none;
 }
 .chart-slot.empty{border-style:dashed;}
+.chart-slot.filled{padding:0;align-items:stretch;justify-content:flex-start;min-height:170px;overflow:hidden;}
 .chart-slot.empty:active,.chart-slot.filled:active{opacity:.7;}
+.slot-header{display:flex;align-items:baseline;justify-content:space-between;padding:7px 10px 4px;flex-shrink:0;}
 .slot-symbol{font-size:13px;font-weight:700;color:var(--text);}
-.slot-name{font-size:10px;color:var(--muted);margin-top:2px;}
-.slot-price{font-size:13px;font-weight:700;color:var(--cyan);margin-top:6px;}
+.slot-price{font-size:12px;font-weight:700;color:var(--cyan);}
 .slot-price.stale{color:var(--muted);}
-.closed-tag{font-size:10px;font-weight:400;color:var(--muted);}
+.slot-chart{flex:1;min-height:0;}
+.slot-chart-none{display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--muted);}
 .slot-add-icon{font-size:22px;color:var(--muted);}
 .slot-add-label{font-size:10px;color:#8a8aaa;font-weight:700;margin-top:4px;}
 
@@ -455,7 +457,8 @@ function renderChartSlots() {
     const el = document.createElement('div');
     if (coin) {
       el.className = 'chart-slot filled';
-      el.innerHTML = `<div class="slot-symbol">${escHtml(coin.symbol)}</div><div class="slot-name">${escHtml(coin.name)}</div><div class="slot-price">${getPriceText(coin)}</div>`;
+      const tvSym = TV_SYMBOL_MAP.get(coin.symbol.toUpperCase());
+      el.innerHTML = `<div class="slot-header"><span class="slot-symbol">${escHtml(coin.symbol)}</span><span class="slot-price">${getPriceText(coin)}</span></div><div class="${tvSym ? 'slot-chart' : 'slot-chart slot-chart-none'}" id="slot-chart-${i}">${tvSym ? '' : 'N/A'}</div>`;
       el.dataset.coinId = coin.id;
     } else {
       el.className = 'chart-slot empty';
@@ -464,6 +467,7 @@ function renderChartSlots() {
     attachSlotHandlers(el, i);
     grid.appendChild(el);
   });
+  initSlotCharts();
 }
 
 function refreshPriceDisplay() {
@@ -472,6 +476,24 @@ function refreshPriceDisplay() {
     if (!coin) return;
     const priceEl = el.querySelector('.slot-price');
     if (priceEl) priceEl.textContent = getPriceText(coin);
+  });
+}
+
+function initSlotCharts() {
+  if (typeof TradingView === 'undefined') return;
+  const theme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+  _data.charts.forEach((coin, i) => {
+    if (!coin) return;
+    const tvSym = TV_SYMBOL_MAP.get(coin.symbol.toUpperCase());
+    if (!tvSym) return;
+    const el = document.getElementById('slot-chart-' + i);
+    if (!el) return;
+    el.innerHTML = '';
+    new TradingView.widget({
+      autosize:true, symbol:tvSym, interval:'60', theme:theme, style:'1', locale:'ja',
+      hide_top_toolbar:true, hide_legend:true, save_image:false,
+      container_id:'slot-chart-'+i, range:'1D'
+    });
   });
 }
 
@@ -620,6 +642,7 @@ function initTVWidgets() {
   }
   create('tv-usdjpy-wrap', 'OANDA:USDJPY');
   create('tv-dxy-wrap',    'OANDA:XAUUSD');
+  initSlotCharts();
 }
 
 // ─── THEME ───
