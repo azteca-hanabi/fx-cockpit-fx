@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T13:54:11Z",
-  "last_checked": "2026-05-02T13:54:11Z",
+  "updated": "2026-05-02T14:53:47Z",
+  "last_checked": "2026-05-02T14:53:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "トランプ大統領、イラン船舶拿捕の収益性を強調し米海軍を「海賊」に例える",
+      "link": "https://jp.investing.com/news/economy-news/article-1515609",
+      "published": "2026-05-02 02:57:50",
+      "isoDate": "2026-05-02T02:57:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "コインベース、ステーブルコイン利回りで妥協案を確保し米国暗号資産法案への道を開く",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515589",
       "published": "2026-05-02 00:05:09",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1515045",
       "published": "2026-05-01 14:30:48",
       "isoDate": "2026-05-01T14:30:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI半導体とメモリー株の上昇継続をウルフが予想",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514706",
-      "published": "2026-05-01 12:29:21",
-      "isoDate": "2026-05-01T12:29:21Z"
     }
   ],
   "btc_items": [
