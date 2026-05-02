@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T04:43:13Z",
-  "last_checked": "2026-05-02T04:43:13Z",
+  "updated": "2026-05-02T07:02:52Z",
+  "last_checked": "2026-05-02T07:02:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "カリフォルニア州、50億ドル超富裕層への5%資産課税案を11月に採決",
+      "link": "https://jp.investing.com/news/economy-news/article-1515621",
+      "published": "2026-05-02 06:04:36",
+      "isoDate": "2026-05-02T06:04:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "トランプ大統領、イラン船舶拿捕の収益性を強調し米海軍を「海賊」に例える",
       "link": "https://jp.investing.com/news/economy-news/article-1515609",
       "published": "2026-05-02 02:57:50",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1514388",
       "published": "2026-05-01 10:19:15",
       "isoDate": "2026-05-01T10:19:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインが株式市場の上昇で7万8000ドル台を回復、イランリスクが上値を抑制",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1514068",
-      "published": "2026-05-01 06:32:05",
-      "isoDate": "2026-05-01T06:32:05Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "台湾でビットコイン「国家戦略資産化」の動き、外貨準備への組み入れを提言",
+      "link": "https://coinpost.jp/?p=706613",
+      "published": "Sat, 02 May 2026 14:30:06 +0900",
+      "isoDate": "2026-05-02T05:30:06Z"
+    },
     {
       "source": "CoinPost",
       "title": "米クラリティー法案が重要局面に、マークアップに向け前進",
