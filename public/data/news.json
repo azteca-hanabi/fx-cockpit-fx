@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T08:50:04Z",
-  "last_checked": "2026-05-02T08:50:04Z",
+  "updated": "2026-05-02T10:01:34Z",
+  "last_checked": "2026-05-02T10:01:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、ETF流入により2025年4月以来最高の月間成績で78,000ドル超で取引",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515627",
-      "published": "2026-05-02 07:35:53",
-      "isoDate": "2026-05-02T07:35:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国、イランの石油ルート遮断へ中国の「ティーポット」精製業者を標的に",
       "link": "https://jp.investing.com/news/economy-news/article-1515624",
       "published": "2026-05-02 06:44:56",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1515553",
       "published": "2026-05-01 22:00:05",
       "isoDate": "2026-05-01T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "政府による2度目の介入の可能性はどの程度か",
+      "link": "https://jp.investing.com/news/forex-news/article-1515045",
+      "published": "2026-05-01 14:30:48",
+      "isoDate": "2026-05-01T14:30:48Z"
     },
     {
       "source": "Investing.com 外為",
