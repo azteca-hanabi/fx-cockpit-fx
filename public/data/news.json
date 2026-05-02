@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T12:09:06Z",
-  "last_checked": "2026-05-02T12:09:06Z",
+  "updated": "2026-05-02T13:54:11Z",
+  "last_checked": "2026-05-02T13:54:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "バークシャー・ハサウェイ、第1四半期利益が18%増加、現金残高は4000億ドルに迫る",
+      "link": "https://jp.investing.com/news/earnings/article-1515645",
+      "published": "2026-05-02 12:10:18",
+      "isoDate": "2026-05-02T12:10:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "CTA資金がポジション再構築で株式ラリーが拡大",
       "link": "https://jp.investing.com/news/stock-market-news/article-1515637",
       "published": "2026-05-02 10:47:56",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1515621",
       "published": "2026-05-02 06:04:36",
       "isoDate": "2026-05-02T06:04:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、イラン船舶拿捕の収益性を強調し米海軍を「海賊」に例える",
-      "link": "https://jp.investing.com/news/economy-news/article-1515609",
-      "published": "2026-05-02 02:57:50",
-      "isoDate": "2026-05-02T02:57:50Z"
     },
     {
       "source": "Investing.com 外為",
