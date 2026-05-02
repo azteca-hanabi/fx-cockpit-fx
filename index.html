@@ -353,28 +353,29 @@ const TV_SYMBOL_MAP = new Map([
   ['AUDCAD','OANDA:AUDCAD'],['AUDCHF','OANDA:AUDCHF'],['AUDNZD','OANDA:AUDNZD'],
   ['CADJPY','OANDA:CADJPY'],['CHFJPY','OANDA:CHFJPY'],['NZDJPY','OANDA:NZDJPY'],
   ['NZDCAD','OANDA:NZDCAD'],
-  ['EUR','OANDA:EURUSD'],['JPY','OANDA:USDJPY'],['GBP','OANDA:GBPUSD'],
-  ['AUD','OANDA:AUDUSD'],
   ['GOLD','OANDA:XAUUSD'],['SILVER','OANDA:XAGUSD'],
   ['CL','TVC:USOIL'],['BRENTOIL','TVC:UKOIL'],
   ['JP225','OANDA:JP225USD'],['SP500','OANDA:SPX500USD'],
-  ['USDXY','TVC:DXY'],['DXY','TVC:DXY'],
+  ['NAS100','OANDA:NAS100USD'],['US30','OANDA:US30USD'],
+  ['USDXY','TVC:DXY'],
+  ['JPYX','PEPPERSTONE:JPYX'],
+  ['US02Y','TVC:US02Y'],['US10Y','TVC:US10Y'],['US30Y','TVC:US30Y'],
 ]);
 
 // ─── CONSTANTS ───
-const STORAGE_KEY        = 'fxc-fx-data-v4';
+const STORAGE_KEY        = 'fxc-fx-data-v5';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
 const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
-const MAX_CHARTS         = 8;
+const MAX_CHARTS         = 6;
 const PRICE_INTERVAL     = 5000;
 const MARKET_STALE_MS    = 6 * 60 * 60 * 1000;
 
 const DEFAULT_CHARTS = [
   {id:'710afe0041a07156bfd71971160c78a326bf8121403e0d4e140d06bea0353b7f', symbol:'USDXY', name:'US Dollar Index', source:'pyth'},
-  {id:'xyz:CL',    symbol:'CL',    name:'WTI Oil',     source:'xyz'},
-  {id:'xyz:EUR',   symbol:'EUR',   name:'EUR/USD',     source:'xyz'},
-  {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225',  source:'xyz'},
-  null, null, null, null,
+  {id:'xyz:CL',    symbol:'CL',    name:'WTI Oil',    source:'xyz'},
+  {id:'xyz:EUR',   symbol:'EUR',   name:'EUR/USD',    source:'xyz'},
+  {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225', source:'xyz'},
+  null, null,
 ];
 
 let _data             = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
@@ -514,18 +515,31 @@ function closeChartModal() { document.getElementById('overlay-chart').classList.
 document.getElementById('close-chart').addEventListener('click', closeChartModal);
 document.getElementById('overlay-chart').addEventListener('click', e => { if(e.target===document.getElementById('overlay-chart')) closeChartModal(); });
 
+function searchSymbols(raw) {
+  const q = raw.trim().toLowerCase();
+  if (!q) return [];
+  if (!_universe.length) return null; // ロード中
+  return _universe
+    .filter(s => {
+      const sym = s.symbol.toLowerCase();
+      const name = s.name.toLowerCase();
+      if (!sym.includes(q) && !name.includes(q)) return false;
+      return TV_SYMBOL_MAP.has(s.symbol.toUpperCase());
+    })
+    .slice(0, 30);
+}
+
 document.getElementById('chart-search').addEventListener('input', e => {
   clearTimeout(_searchTimer);
   const q = e.target.value;
   _searchTimer = setTimeout(() => {
     const container = document.getElementById('chart-results');
     if (!q.trim()) { container.innerHTML=''; return; }
-    const query = q.trim().toLowerCase();
-    const results = _universe.filter(s => {
-      const sym  = s.symbol.toLowerCase();
-      const name = s.name.toLowerCase();
-      return sym.includes(query) || name.includes(query);
-    }).slice(0, 30);
+    const results = searchSymbols(q);
+    if (results === null) {
+      container.innerHTML = '<div class="results-empty">銘柄リスト読み込み中...</div>';
+      return;
+    }
     if (!results.length) { container.innerHTML='<div class="results-empty">該当銘柄なし</div>'; return; }
     container.innerHTML = results.map(s => {
       const bc = s.source==='xyz' ? 'result-badge-xyz' : 'result-badge-pyth';
