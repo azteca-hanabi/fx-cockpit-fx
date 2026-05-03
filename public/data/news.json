@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T07:07:10Z",
-  "last_checked": "2026-05-03T07:07:10Z",
+  "updated": "2026-05-03T09:05:06Z",
+  "last_checked": "2026-05-03T09:05:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日本、中国の供給リスクに対抗すべく豪州の重要鉱物を標的に",
+      "link": "https://jp.investing.com/news/economy-news/article-1515680",
+      "published": "2026-05-03 08:16:42",
+      "isoDate": "2026-05-03T08:16:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "航空会社は燃料価格上昇分を単純に消費者に転嫁できるのか",
+      "link": "https://jp.investing.com/news/economy-news/article-1515677",
+      "published": "2026-05-03 07:43:37",
+      "isoDate": "2026-05-03T07:43:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIブームと石油輸出が戦争リスクを相殺、新興市場が過去最高値を記録",
+      "link": "https://jp.investing.com/news/economy-news/article-1515675",
+      "published": "2026-05-03 07:00:29",
+      "isoDate": "2026-05-03T07:00:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ジェット燃料価格高騰で航空業界は40億ドルの利益圧迫に直面",
       "link": "https://jp.investing.com/news/economy-news/article-1515666",
       "published": "2026-05-03 04:47:39",
@@ -122,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1515637",
       "published": "2026-05-02 10:47:56",
       "isoDate": "2026-05-02T10:47:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UAEのOPEC離脱:石油市場への潜在的影響とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-1515635",
-      "published": "2026-05-02 09:47:22",
-      "isoDate": "2026-05-02T09:47:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "カリフォルニア州、50億ドル超富裕層への5%資産課税案を11月に採決",
-      "link": "https://jp.investing.com/news/economy-news/article-1515621",
-      "published": "2026-05-02 06:04:36",
-      "isoDate": "2026-05-02T06:04:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI半導体とメモリー株の上昇継続をウルフが予想",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1514706",
-      "published": "2026-05-01 12:29:21",
-      "isoDate": "2026-05-01T12:29:21Z"
     }
   ],
   "btc_items": [
