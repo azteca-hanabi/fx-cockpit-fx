@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T11:49:29Z",
-  "last_checked": "2026-05-03T11:49:29Z",
+  "updated": "2026-05-03T13:21:58Z",
+  "last_checked": "2026-05-03T13:21:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "S&P 500の上昇が弱い市場の広がりを隠す中、小型株が注目を集める",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1515695",
+      "published": "2026-05-03 12:43:28",
+      "isoDate": "2026-05-03T12:43:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIへの投資が2027年度には設備投資を1兆ドルに押し上げる可能性",
       "link": "https://jp.investing.com/news/economy-news/article-1515687",
       "published": "2026-05-03 09:55:09",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1515659",
       "published": "2026-05-03 01:47:33",
       "isoDate": "2026-05-03T01:47:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バークシャー・ハサウェイ、第1四半期利益が18%増加、現金保有高は4000億ドルに迫る",
-      "link": "https://jp.investing.com/news/earnings/article-1515645",
-      "published": "2026-05-02 12:10:18",
-      "isoDate": "2026-05-02T12:10:18Z"
     }
   ],
   "btc_items": [
