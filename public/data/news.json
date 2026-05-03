@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-03T14:30:11Z",
-  "last_checked": "2026-05-03T14:30:11Z",
+  "updated": "2026-05-03T15:26:08Z",
+  "last_checked": "2026-05-03T15:26:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "クウェートの石油生産量、6月に日量262.8万バレルに達する見通し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515719",
+      "published": "2026-05-03 14:55:16",
+      "isoDate": "2026-05-03T14:55:16Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UAE離脱にもかかわらず、OPEC+は6月の増産を推進へ―ロイター",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1513972",
       "published": "2026-05-01 02:35:13",
       "isoDate": "2026-05-01T02:35:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン緊張とホルムズ海峡混乱継続で原油価格1%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1513945",
-      "published": "2026-05-01 01:03:01",
-      "isoDate": "2026-05-01T01:03:01Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ベセント財務長官、エネルギー価格は年内に下落すると発言",
+      "link": "https://jp.investing.com/news/economy-news/article-1515718",
+      "published": "2026-05-03 14:50:44",
+      "isoDate": "2026-05-03T14:50:44Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "S&P 500の上昇が弱い市場の広がりを隠す中、小型株が注目を集める",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1515683",
       "published": "2026-05-03 09:00:02",
       "isoDate": "2026-05-03T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OPEC+、UAE離脱後の安定性を示すため日量18.8万バレル増産を目標に",
-      "link": "https://jp.investing.com/news/economy-news/article-1515682",
-      "published": "2026-05-03 08:42:39",
-      "isoDate": "2026-05-03T08:42:39Z"
     },
     {
       "source": "Investing.com 外為",
