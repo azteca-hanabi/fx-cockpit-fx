@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T23:11:27Z",
-  "last_checked": "2026-05-02T23:11:27Z",
+  "updated": "2026-05-03T00:09:39Z",
+  "last_checked": "2026-05-03T00:09:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国、イランの石油ルート遮断へ中国の「ティーポット」精製業者を標的に",
+      "link": "https://jp.investing.com/news/economy-news/article-1515624",
+      "published": "2026-05-02 06:44:56",
+      "isoDate": "2026-05-02T06:44:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "カリフォルニア州、50億ドル超富裕層への5%資産課税案を11月に採決",
       "link": "https://jp.investing.com/news/economy-news/article-1515621",
       "published": "2026-05-02 06:04:36",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1515575",
       "published": "2026-05-01 23:00:06",
       "isoDate": "2026-05-01T23:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "1日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが支える",
-      "link": "https://jp.investing.com/news/forex-news/article-1515553",
-      "published": "2026-05-01 22:00:05",
-      "isoDate": "2026-05-01T22:00:05Z"
     },
     {
       "source": "Investing.com 外為",
