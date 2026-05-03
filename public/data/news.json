@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T19:55:51Z",
-  "last_checked": "2026-05-03T19:55:51Z",
+  "updated": "2026-05-03T20:54:09Z",
+  "last_checked": "2026-05-03T20:54:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UAEがOPEC脱退に続きアラブ産油国機構OAPECからも離脱",
+      "link": "https://jp.investing.com/news/world-news/article-1515744",
+      "published": "2026-05-03 19:35:04",
+      "isoDate": "2026-05-03T19:35:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ベセント財務長官、エネルギー価格は年内に下落すると発言",
       "link": "https://jp.investing.com/news/economy-news/article-1515718",
       "published": "2026-05-03 14:50:44",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1515687",
       "published": "2026-05-03 09:55:09",
       "isoDate": "2026-05-03T09:55:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、規制進展とS&P500最高値更新で8万ドルを目指す",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515684",
-      "published": "2026-05-03 09:17:15",
-      "isoDate": "2026-05-03T09:17:15Z"
     },
     {
       "source": "Investing.com 外為",
