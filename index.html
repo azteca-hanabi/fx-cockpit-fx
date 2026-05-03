@@ -115,7 +115,7 @@ header{
 .tv-chart-container{height:145px;width:100%;}
 
 /* ─── CHART GRID ─── */
-.chart-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;}
+.chart-grid{display:flex;flex-direction:column;gap:8px;}
 .chart-slot{
   background:var(--bg3);border:1.5px solid var(--border2);border-radius:8px;
   padding:12px;min-height:80px;display:flex;flex-direction:column;
@@ -123,13 +123,13 @@ header{
   transition:all .15s;text-align:center;user-select:none;
 }
 .chart-slot.empty{border-style:dashed;}
-.chart-slot.filled{padding:0;align-items:stretch;justify-content:flex-start;min-height:170px;overflow:hidden;}
+.chart-slot.filled{padding:0;align-items:stretch;justify-content:flex-start;min-height:200px;overflow:hidden;}
 .chart-slot.empty:active,.chart-slot.filled:active{opacity:.7;}
 .slot-header{display:flex;align-items:baseline;justify-content:space-between;padding:7px 10px 4px;flex-shrink:0;}
 .slot-symbol{font-size:13px;font-weight:700;color:var(--text);}
 .slot-price{font-size:12px;font-weight:700;color:var(--cyan);}
 .slot-price.stale{color:var(--muted);}
-.slot-chart{flex:1;min-height:0;}
+.slot-chart{flex:1;min-height:0;height:145px;}
 .slot-chart-none{display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--muted);}
 .slot-add-icon{font-size:22px;color:var(--muted);}
 .slot-add-label{font-size:10px;color:#8a8aaa;font-weight:700;margin-top:4px;}
@@ -271,6 +271,15 @@ header{
 
 <div class="page-content">
 
+  <div class="sec-heading">アプリ起動</div>
+  <div class="launch-grid">
+    <button class="launch-tv" id="btn-tradingview"><span class="tv-icon">📈</span>TradingView</button>
+    <div class="launch-row">
+      <a class="launch-btn" href="metatrader5://">MT5<span class="launch-sub">MetaTrader 5</span></a>
+      <a class="launch-btn" href="metatrader4://">MT4<span class="launch-sub">MetaTrader 4</span></a>
+    </div>
+  </div>
+
   <div class="tv-main-grid">
     <!-- 米ドル/円 カード -->
     <div class="tv-widget-card">
@@ -306,15 +315,6 @@ header{
 
   <div class="sec-heading">マイチャート</div>
   <div class="chart-grid" id="chart-grid"></div>
-
-  <div class="sec-heading">アプリ起動</div>
-  <div class="launch-grid">
-    <button class="launch-tv" id="btn-tradingview"><span class="tv-icon">📈</span>TradingView</button>
-    <div class="launch-row">
-      <a class="launch-btn" href="metatrader5://">MT5<span class="launch-sub">MetaTrader 5</span></a>
-      <a class="launch-btn" href="metatrader4://">MT4<span class="launch-sub">MetaTrader 4</span></a>
-    </div>
-  </div>
 
   <div class="sec-heading">恐怖強欲指数</div>
   <div class="fng-wrap">
@@ -359,16 +359,15 @@ const TV_SYMBOL_MAP = new Map([
   ['CL','TVC:USOIL'],['BRENTOIL','TVC:UKOIL'],
   ['JP225','OANDA:JP225USD'],['SP500','OANDA:SPX500USD'],
   ['NAS100','OANDA:NAS100USD'],['US30','OANDA:US30USD'],
-  ['USDXY','TVC:DXY'],
+  ['USDXY','ICEUS:DX1!'],
   ['JPYX','PEPPERSTONE:JPYX'],
   ['US02Y','TVC:US02Y'],['US10Y','TVC:US10Y'],['US30Y','TVC:US30Y'],
   ['EUR','OANDA:EURUSD'],
-  ['CL','TVC:USOIL'],
-  ['JP225','OANDA:JP225USD'],
+  ['BTC','BINANCE:BTCUSDT'],['BTCUSD','BINANCE:BTCUSDT'],
 ]);
 
 // ─── CONSTANTS ───
-const STORAGE_KEY        = 'fxc-fx-data-v5';
+const STORAGE_KEY        = 'fxc-fx-data-v6';
 const UNIVERSE_CACHE_KEY = 'pyth_xyz_universe_cache';
 const UNIVERSE_CACHE_TTL = 24 * 60 * 60 * 1000;
 const MAX_CHARTS         = 6;
@@ -380,7 +379,8 @@ const DEFAULT_CHARTS = [
   {id:'xyz:CL',    symbol:'CL',    name:'WTI Oil',    source:'xyz'},
   {id:'xyz:EUR',   symbol:'EUR',   name:'EUR/USD',    source:'xyz'},
   {id:'xyz:JP225', symbol:'JP225', name:'Nikkei 225', source:'xyz'},
-  null, null,
+  {id:'xyz:BTC',   symbol:'BTC',   name:'Bitcoin',    source:'xyz'},
+  null,
 ];
 
 let _data             = { charts: DEFAULT_CHARTS.map(c => c ? {...c} : null) };
@@ -739,7 +739,7 @@ async function loadNews() {
       const jst = new Date(new Date(iso).getTime()+9*3600000);
       return (jst.getUTCMonth()+1)+'/'+(String(jst.getUTCDate()).padStart(2,'0'))+' '+(String(jst.getUTCHours()).padStart(2,'0'))+':'+(String(jst.getUTCMinutes()).padStart(2,'0'));
     }
-    const items = [...(d.gold_items||[]),...(d.usdjpy_items||[])].sort((a,b)=>(b.isoDate||'').localeCompare(a.isoDate||'')).slice(0,15);
+    const items = [...(d.gold_items||[]),...(d.usdjpy_items||[])].sort((a,b)=>(b.isoDate||'').localeCompare(a.isoDate||'')).slice(0,5);
     if (!items.length) { container.innerHTML='<div class="news-empty">ニュースなし</div>'; return; }
     container.innerHTML = items.map(i =>
       `<div class="news-item"><div class="news-meta">${escHtml(i.source||'')} · ${escHtml(toJST(i.isoDate))} JST</div><div class="news-title"><a href="${escHtml(i.link||'#')}" target="_blank" rel="noopener">${escHtml(i.title||'')}</a></div></div>`
