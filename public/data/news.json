@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-04T17:45:26Z",
-  "last_checked": "2026-05-04T17:45:26Z",
+  "updated": "2026-05-04T19:47:02Z",
+  "last_checked": "2026-05-04T19:47:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油高と作付け遅延でCBOTトウモロコシ先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1517134",
+      "published": "2026-05-04 19:29:56",
+      "isoDate": "2026-05-04T19:29:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物が7週間ぶり高値、原油高と堅調な需要で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1517096",
+      "published": "2026-05-04 19:05:30",
+      "isoDate": "2026-05-04T19:05:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インド石油天然ガス、中東情勢安定後にカタールからの全量供給を期待",
@@ -50,27 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1515639",
       "published": "2026-05-02 11:00:12",
       "isoDate": "2026-05-02T11:00:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UAEのOPEC離脱:石油市場への潜在的影響とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-1515635",
-      "published": "2026-05-02 09:47:22",
-      "isoDate": "2026-05-02T09:47:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧州のガソリンマージンが2023年8月以来の高水準に急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515393",
-      "published": "2026-05-01 19:45:52",
-      "isoDate": "2026-05-01T19:45:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国の石油・ガス掘削リグ、2週連続増加で4月上旬以来の高水準",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515353",
-      "published": "2026-05-01 18:42:27",
-      "isoDate": "2026-05-01T18:42:27Z"
     }
   ],
   "usdjpy_items": [
