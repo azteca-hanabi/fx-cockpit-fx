@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-04T03:41:00Z",
-  "last_checked": "2026-05-04T03:41:00Z",
+  "updated": "2026-05-04T06:43:48Z",
+  "last_checked": "2026-05-04T06:43:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は横ばい、イラン情勢と金利の不透明感で市場は様子見",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515785",
+      "published": "2026-05-04 04:39:53",
+      "isoDate": "2026-05-04T04:39:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ大統領、ホルムズ海峡で立ち往生する船舶への支援を表明し原油価格がわずかに下落",
@@ -64,36 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515095",
       "published": "2026-05-01 14:56:05",
       "isoDate": "2026-05-01T14:56:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "日本、通貨変動を受けて原油先物市場への介入準備を表明",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1514573",
-      "published": "2026-05-01 11:27:15",
-      "isoDate": "2026-05-01T11:27:15Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：戻りが鈍いか、ハイテクに調整も",
+      "link": "https://jp.investing.com/news/forex-news/article-1515796",
+      "published": "2026-05-04 06:15:02",
+      "isoDate": "2026-05-04T06:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小動き、材料難で様子見",
+      "link": "https://jp.investing.com/news/forex-news/article-1515793",
+      "published": "2026-05-04 06:00:02",
+      "isoDate": "2026-05-04T06:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は持ち直し、ドルに買戻し",
+      "link": "https://jp.investing.com/news/forex-news/article-1515789",
+      "published": "2026-05-04 05:30:03",
+      "isoDate": "2026-05-04T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、ETF流入で8万ドル突破 Strategy決算に注目",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515788",
+      "published": "2026-05-04 05:20:42",
+      "isoDate": "2026-05-04T05:20:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格は横ばい、イラン情勢と金利の不透明感で市場は様子見",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515785",
+      "published": "2026-05-04 04:39:53",
+      "isoDate": "2026-05-04T04:39:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は急落、156円台に下落",
+      "link": "https://jp.investing.com/news/forex-news/article-1515783",
+      "published": "2026-05-04 04:30:02",
+      "isoDate": "2026-05-04T04:30:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "東京為替：ドル・円はしっかり、中東情勢にらみ",
       "link": "https://jp.investing.com/news/forex-news/article-1515776",
       "published": "2026-05-04 03:15:02",
       "isoDate": "2026-05-04T03:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "RBA5月会合プレビュー:インフレ懸念が続く中、25bpの利上げを予想",
-      "link": "https://jp.investing.com/news/economy-news/article-1515775",
-      "published": "2026-05-04 03:07:04",
-      "isoDate": "2026-05-04T03:07:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株上昇、韓国は最高値更新、香港はハイテク株上昇で高い",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1515772",
-      "published": "2026-05-04 02:06:12",
-      "isoDate": "2026-05-04T02:06:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,34 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1515766",
       "published": "2026-05-04 00:27:41",
       "isoDate": "2026-05-04T00:27:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の為替市場コメント：リスク回避的な米ドル売りは抑制される可能性",
-      "link": "https://jp.investing.com/news/forex-news/article-1515757",
-      "published": "2026-05-03 23:45:02",
-      "isoDate": "2026-05-03T23:45:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UAEがOPEC脱退に続きアラブ産油国機構OAPECからも離脱",
-      "link": "https://jp.investing.com/news/world-news/article-1515744",
-      "published": "2026-05-03 19:35:04",
-      "isoDate": "2026-05-03T19:35:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500の上昇が弱い市場の広がりを隠す中、小型株が注目を集める",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1515695",
-      "published": "2026-05-03 12:43:28",
-      "isoDate": "2026-05-03T12:43:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIへの投資が2027年度には設備投資を1兆ドルに押し上げる可能性",
-      "link": "https://jp.investing.com/news/economy-news/article-1515687",
-      "published": "2026-05-03 09:55:09",
-      "isoDate": "2026-05-03T09:55:09Z"
     },
     {
       "source": "Investing.com 外為",
