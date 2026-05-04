@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-03T23:53:54Z",
-  "last_checked": "2026-05-03T23:53:54Z",
+  "updated": "2026-05-04T03:41:00Z",
+  "last_checked": "2026-05-04T03:41:00Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領、ホルムズ海峡で立ち往生する船舶への支援を表明し原油価格がわずかに下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1515759",
+      "published": "2026-05-03 23:57:45",
+      "isoDate": "2026-05-03T23:57:45Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東紛争の中でアルミニウム市場は動揺するも回復力を示す",
@@ -64,29 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1514573",
       "published": "2026-05-01 11:27:15",
       "isoDate": "2026-05-01T11:27:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン紛争長期化で欧州ガス価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1514335",
-      "published": "2026-05-01 10:00:45",
-      "isoDate": "2026-05-01T10:00:45Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円はしっかり、中東情勢にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1515776",
+      "published": "2026-05-04 03:15:02",
+      "isoDate": "2026-05-04T03:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "RBA5月会合プレビュー:インフレ懸念が続く中、25bpの利上げを予想",
+      "link": "https://jp.investing.com/news/economy-news/article-1515775",
+      "published": "2026-05-04 03:07:04",
+      "isoDate": "2026-05-04T03:07:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジア株上昇、韓国は最高値更新、香港はハイテク株上昇で高い",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1515772",
+      "published": "2026-05-04 02:06:12",
+      "isoDate": "2026-05-04T02:06:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：米ドル・円は底堅い動き、原油先物の高止まりを意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1515769",
+      "published": "2026-05-04 01:15:02",
+      "isoDate": "2026-05-04T01:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物は横ばい、決算発表と雇用統計を控える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1515766",
+      "published": "2026-05-04 00:27:41",
+      "isoDate": "2026-05-04T00:27:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場コメント：リスク回避的な米ドル売りは抑制される可能性",
+      "link": "https://jp.investing.com/news/forex-news/article-1515757",
+      "published": "2026-05-03 23:45:02",
+      "isoDate": "2026-05-03T23:45:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "UAEがOPEC脱退に続きアラブ産油国機構OAPECからも離脱",
       "link": "https://jp.investing.com/news/world-news/article-1515744",
       "published": "2026-05-03 19:35:04",
       "isoDate": "2026-05-03T19:35:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベセント財務長官、エネルギー価格は年内に下落すると発言",
-      "link": "https://jp.investing.com/news/economy-news/article-1515718",
-      "published": "2026-05-03 14:50:44",
-      "isoDate": "2026-05-03T14:50:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,44 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1515683",
       "published": "2026-05-03 09:00:02",
       "isoDate": "2026-05-03T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本、中国の供給リスクに対抗すべく豪州の重要鉱物を標的に",
-      "link": "https://jp.investing.com/news/economy-news/article-1515680",
-      "published": "2026-05-03 08:16:42",
-      "isoDate": "2026-05-03T08:16:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIブームと石油輸出が戦争リスクを相殺、新興市場が過去最高値を記録",
-      "link": "https://jp.investing.com/news/economy-news/article-1515675",
-      "published": "2026-05-03 07:00:29",
-      "isoDate": "2026-05-03T07:00:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "世界株式は高値圏にあるが、なぜポジショニングは依然として遅れているのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1515665",
-      "published": "2026-05-03 03:40:56",
-      "isoDate": "2026-05-03T03:40:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaのフィジカル AI への転換がアジアのサプライチェーン全体で上昇相場を引き起こす",
-      "link": "https://jp.investing.com/news/economy-news/article-1515662",
-      "published": "2026-05-03 02:34:51",
-      "isoDate": "2026-05-03T02:34:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールデンウィーク中の為替介入疑惑について片山財務相がコメント拒否",
-      "link": "https://jp.investing.com/news/economy-news/article-1515659",
-      "published": "2026-05-03 01:47:33",
-      "isoDate": "2026-05-03T01:47:33Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "サトシ・ナカモト保有の初期ビットコインを量子脅威からどう守るか、凍結案巡り議論",
+      "link": "https://coinpost.jp/?p=706667",
+      "published": "Mon, 04 May 2026 12:06:32 +0900",
+      "isoDate": "2026-05-04T03:06:32Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインFOMC通過後も1200万円台で推移、来週の米雇用統計に注目｜bitbankアナリスト寄稿",
