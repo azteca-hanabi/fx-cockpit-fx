@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-04T11:23:09Z",
-  "last_checked": "2026-05-04T11:23:09Z",
+  "updated": "2026-05-04T13:09:32Z",
+  "last_checked": "2026-05-04T13:09:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：欧州通貨に対するドル買い強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1516045",
-      "published": "2026-05-04 11:00:03",
-      "isoDate": "2026-05-04T11:00:03Z"
+      "title": "イーライリリー・アンド・カンパニー株が本日3%下落した理由：FDA有害事象データを解説",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1516381",
+      "published": "2026-05-04 12:32:19",
+      "isoDate": "2026-05-04T12:32:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "イラン、ホルムズ海峡への米軍艦進入を阻止と報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1516036",
-      "published": "2026-05-04 10:52:39",
-      "isoDate": "2026-05-04T10:52:39Z"
+      "title": "HSBCがアドバンスト・マイクロ・デバイセズを上昇余地限定的として決算前にホールドに格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1516371",
+      "published": "2026-05-04 12:21:38",
+      "isoDate": "2026-05-04T12:21:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQ、ミリメートル精度の自動衛星監視サービスを開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1516302",
+      "published": "2026-05-04 12:06:29",
+      "isoDate": "2026-05-04T12:06:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「例外的に強い」米国企業決算が株式市場上昇の原動力",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1516306",
+      "published": "2026-05-04 12:04:49",
+      "isoDate": "2026-05-04T12:04:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ストラテジー、先週はビットコインを購入せず",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-432SI-1516283",
+      "published": "2026-05-04 12:03:37",
+      "isoDate": "2026-05-04T12:03:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ダウ、ナスダック、S&P500プレビュー:決算と雇用統計が目白押しの週",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1516248",
+      "published": "2026-05-04 11:42:02",
+      "isoDate": "2026-05-04T11:42:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は下げ渋り、午後は一時155円台",
-      "link": "https://jp.investing.com/news/forex-news/article-1515857",
-      "published": "2026-05-04 08:30:03",
-      "isoDate": "2026-05-04T08:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国がホルムズ海峡再開を推進、GameStopがeBay買収提案―市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1515853",
       "published": "2026-05-04 08:14:47",
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は値を戻す展開、157円付近",
-      "link": "https://jp.investing.com/news/forex-news/article-1515834",
-      "published": "2026-05-04 07:30:03",
-      "isoDate": "2026-05-04T07:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株見通し：戻りが鈍いか、ハイテクに調整も",
       "link": "https://jp.investing.com/news/forex-news/article-1515796",
       "published": "2026-05-04 06:15:02",
       "isoDate": "2026-05-04T06:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、ETF流入で8万ドル突破 Strategy決算に注目",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1515788",
-      "published": "2026-05-04 05:20:42",
-      "isoDate": "2026-05-04T05:20:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は急落、156円台に下落",
-      "link": "https://jp.investing.com/news/forex-news/article-1515783",
-      "published": "2026-05-04 04:30:02",
-      "isoDate": "2026-05-04T04:30:02Z"
     }
   ],
   "btc_items": [
