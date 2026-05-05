@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05T21:11:24Z",
-  "last_checked": "2026-05-05T21:11:24Z",
+  "updated": "2026-05-05T22:31:36Z",
+  "last_checked": "2026-05-05T22:31:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,17 +69,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "5日の米国市場ダイジェスト：米国株式市場は反発、イラン停戦維持を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1519679",
+      "published": "2026-05-05 21:30:03",
+      "isoDate": "2026-05-05T21:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは356.35ドル高、イラン停戦維持を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1519678",
+      "published": "2026-05-05 21:30:03",
+      "isoDate": "2026-05-05T21:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：AMD、SMCI、GOOGL、AVTX、ANET、UPST、TEM",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1519606",
+      "published": "2026-05-05 21:01:02",
+      "isoDate": "2026-05-05T21:01:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アルファベット株が2%上昇、アンソロピックとの大型契約報道を受けて",
       "link": "https://jp.investing.com/news/stock-market-news/article-1519552",
       "published": "2026-05-05 20:34:20",
       "isoDate": "2026-05-05T20:34:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Super Microが第4四半期の強気見通しを発表、時間外取引で株価急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1519520",
-      "published": "2026-05-05 20:27:19",
-      "isoDate": "2026-05-05T20:27:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1517754",
       "published": "2026-05-05 08:16:51",
       "isoDate": "2026-05-05T08:16:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Palantir株、少なくとも2020年以降で最速の売上高成長を受けて急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1517278",
-      "published": "2026-05-04 20:30:55",
-      "isoDate": "2026-05-04T20:30:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テイクツー・インタラクティブ・ソフトウエアCEO、グランド・セフト・オートVI発売は刺激的で恐ろしいと語る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1517154",
-      "published": "2026-05-04 19:42:06",
-      "isoDate": "2026-05-04T19:42:06Z"
     }
   ],
   "btc_items": [
