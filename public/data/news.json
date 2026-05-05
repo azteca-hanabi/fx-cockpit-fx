@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05T14:32:54Z",
-  "last_checked": "2026-05-05T14:32:54Z",
+  "updated": "2026-05-05T16:27:53Z",
+  "last_checked": "2026-05-05T16:27:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Amazon Business、米国2,300都市以上で生鮮食品配送を開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1518460",
-      "published": "2026-05-05 13:06:09",
-      "isoDate": "2026-05-05T13:06:09Z"
+      "title": "イラン石油タンカーが米国の封鎖を回避した可能性",
+      "link": "https://jp.investing.com/news/economy-news/article-1518805",
+      "published": "2026-05-05 14:41:41",
+      "isoDate": "2026-05-05T14:41:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アマゾンがTransaeraと提携、ヒートポンプ技術の拡大へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1518701",
+      "published": "2026-05-05 14:09:15",
+      "isoDate": "2026-05-05T14:09:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米3月貿易赤字は予想下回る、ドル底堅い",
-      "link": "https://jp.investing.com/news/forex-news/article-1518421",
-      "published": "2026-05-05 13:00:03",
-      "isoDate": "2026-05-05T13:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Palantir時間外取引で下落、ServiceNow、ペイパル・ホールディングスは上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1518281",
       "published": "2026-05-05 12:10:36",
       "isoDate": "2026-05-05T12:10:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ペイパル・ホールディングス、業績予想上回るも株価下落",
-      "link": "https://jp.investing.com/news/earnings/article-1518108",
-      "published": "2026-05-05 11:17:23",
-      "isoDate": "2026-05-05T11:17:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1517754",
       "published": "2026-05-05 08:16:51",
       "isoDate": "2026-05-05T08:16:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は伸び悩み、上値で介入に警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1517616",
+      "published": "2026-05-05 06:00:03",
+      "isoDate": "2026-05-05T06:00:03Z"
     },
     {
       "source": "Investing.com 外為",
