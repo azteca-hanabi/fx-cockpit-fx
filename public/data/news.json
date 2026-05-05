@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05T19:57:56Z",
-  "last_checked": "2026-05-05T19:57:56Z",
+  "updated": "2026-05-05T21:11:24Z",
+  "last_checked": "2026-05-05T21:11:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,24 +69,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "エージェンティックAIの台頭、サーバーCPU市場の大幅拡大を示唆＝UBS",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519375",
-      "published": "2026-05-05 19:25:28",
-      "isoDate": "2026-05-05T19:25:28Z"
+      "title": "アルファベット株が2%上昇、アンソロピックとの大型契約報道を受けて",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519552",
+      "published": "2026-05-05 20:34:20",
+      "isoDate": "2026-05-05T20:34:20Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "5月5日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1519346",
-      "published": "2026-05-05 19:15:03",
-      "isoDate": "2026-05-05T19:15:03Z"
+      "title": "Super Microが第4四半期の強気見通しを発表、時間外取引で株価急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1519520",
+      "published": "2026-05-05 20:27:19",
+      "isoDate": "2026-05-05T20:27:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ServiceNowがエヌビディアのセキュリティ技術を活用したエンタープライズ向けデスクトップAIエージェントを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1519155",
-      "published": "2026-05-05 17:00:09",
-      "isoDate": "2026-05-05T17:00:09Z"
+      "title": "アドバンスト・マイクロ・デバイセズ株、好決算と見通しが予想上回り時間外取引で上昇",
+      "link": "https://jp.investing.com/news/earnings/article-1519488",
+      "published": "2026-05-05 20:20:40",
+      "isoDate": "2026-05-05T20:20:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ルメンタム株、好決算・好ガイダンスにもかかわらず急落",
+      "link": "https://jp.investing.com/news/earnings/article-1519481",
+      "published": "2026-05-05 20:18:01",
+      "isoDate": "2026-05-05T20:18:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1518281",
       "published": "2026-05-05 12:10:36",
       "isoDate": "2026-05-05T12:10:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Ouster、REV8デジタルライダーセンサーをエヌビディアJetsonプラットフォームと統合",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1517903",
-      "published": "2026-05-05 10:03:14",
-      "isoDate": "2026-05-05T10:03:14Z"
     },
     {
       "source": "Investing.com 外為",
