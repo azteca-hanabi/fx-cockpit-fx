@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-05T18:00:55Z",
-  "last_checked": "2026-05-05T18:00:55Z",
+  "updated": "2026-05-05T19:57:56Z",
+  "last_checked": "2026-05-05T19:57:56Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "カナダ産原油パイプライン、米国向け輸送契約が最低基準に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1519348",
+      "published": "2026-05-05 19:16:23",
+      "isoDate": "2026-05-05T19:16:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シカゴ小麦・トウモロコシ・大豆先物、利益確定売りと農家の売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1519267",
+      "published": "2026-05-05 18:11:02",
+      "isoDate": "2026-05-05T18:11:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡再開の見通し不透明で欧州天然ガス価格は小動き",
@@ -50,29 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1516584",
       "published": "2026-05-04 13:41:34",
       "isoDate": "2026-05-04T13:41:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の不透明感続き欧州天然ガス価格が急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1515997",
-      "published": "2026-05-04 10:29:27",
-      "isoDate": "2026-05-04T10:29:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は横ばい、イラン情勢と金利の不透明感で市場は様子見",
-      "link": "https://jp.investing.com/news/commodities-news/article-1515785",
-      "published": "2026-05-04 04:39:53",
-      "isoDate": "2026-05-04T04:39:53Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "サービスナウ、AIエージェント管理でマイクロソフトとの提携を強化",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1519156",
-      "published": "2026-05-05 17:00:12",
-      "isoDate": "2026-05-05T17:00:12Z"
+      "title": "エージェンティックAIの台頭、サーバーCPU市場の大幅拡大を示唆＝UBS",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519375",
+      "published": "2026-05-05 19:25:28",
+      "isoDate": "2026-05-05T19:25:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "5月5日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1519346",
+      "published": "2026-05-05 19:15:03",
+      "isoDate": "2026-05-05T19:15:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1519120",
       "published": "2026-05-05 16:44:16",
       "isoDate": "2026-05-05T16:44:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SECが上場企業の半期報告への大幅な移行を提案",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519030",
-      "published": "2026-05-05 16:12:12",
-      "isoDate": "2026-05-05T16:12:12Z"
     },
     {
       "source": "Investing.com 外為",
