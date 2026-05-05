@@ -492,7 +492,7 @@ function initSlotCharts() {
     new TradingView.widget({
       autosize:true, symbol:tvSym, interval:'15', theme:theme, style:'1', locale:'ja',
       hide_top_toolbar:true, hide_legend:true, save_image:false,
-      container_id:'slot-chart-'+i, range:'1D'
+      container_id:'slot-chart-'+i
     });
   });
 }
@@ -636,7 +636,7 @@ function initTVWidgets() {
     if (typeof TradingView !== 'undefined') {
       new TradingView.widget({
         autosize:true, symbol:symbol, interval:'15', theme:theme, style:'1', locale:'ja',
-        hide_top_toolbar:true, hide_legend:true, save_image:false, container_id:id, range:'5D'
+        hide_top_toolbar:true, hide_legend:true, save_image:false, container_id:id
       });
     }
   }
