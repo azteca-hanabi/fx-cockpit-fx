@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-04T23:58:40Z",
-  "last_checked": "2026-05-04T23:58:40Z",
+  "updated": "2026-05-05T03:41:31Z",
+  "last_checked": "2026-05-05T03:41:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の緊張激化で金価格が1カ月ぶり安値から反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1517575",
+      "published": "2026-05-05 02:19:39",
+      "isoDate": "2026-05-05T02:19:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡での米イラン衝突を受けて急騰した原油価格が反落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1517541",
+      "published": "2026-05-05 00:04:26",
+      "isoDate": "2026-05-05T00:04:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油高と作付け遅延でCBOTトウモロコシ先物が上昇",
@@ -50,36 +64,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1515735",
       "published": "2026-05-03 16:33:56",
       "isoDate": "2026-05-03T16:33:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "クウェートの石油生産量、6月に日量262.8万バレルに達する見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1515719",
-      "published": "2026-05-03 14:55:16",
-      "isoDate": "2026-05-03T14:55:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UAE離脱にもかかわらず、OPEC+は6月の増産を推進へ―ロイター",
-      "link": "https://jp.investing.com/news/commodities-news/article-1515639",
-      "published": "2026-05-02 11:00:12",
-      "isoDate": "2026-05-02T11:00:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "4日のNY市場は下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1517520",
-      "published": "2026-05-04 23:00:04",
-      "isoDate": "2026-05-04T23:00:04Z"
+      "title": "ホルムズ海峡の緊張激化で金価格が1カ月ぶり安値から反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1517575",
+      "published": "2026-05-05 02:19:39",
+      "isoDate": "2026-05-05T02:19:39Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は下落、イラン情勢の悪化を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1517519",
-      "published": "2026-05-04 23:00:03",
-      "isoDate": "2026-05-04T23:00:03Z"
+      "title": "ホルムズ海峡の緊張激化で米国株先物は低調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1517556",
+      "published": "2026-05-05 00:58:27",
+      "isoDate": "2026-05-05T00:58:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比70円高の59490円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1517544",
+      "published": "2026-05-05 00:15:03",
+      "isoDate": "2026-05-05T00:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Palantir 2026年第1四半期決算、米国売上高が100%超成長、ルール・オブ・40は145%に到達",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1517512",
+      "published": "2026-05-04 22:42:27",
+      "isoDate": "2026-05-04T22:42:27Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,27 +132,48 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル高値更新、中東情勢悪化を警戒、UAEがミサイル警告",
-      "link": "https://jp.investing.com/news/forex-news/article-1516910",
-      "published": "2026-05-04 17:00:02",
-      "isoDate": "2026-05-04T17:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "+187%超の上昇を記録、AIが選定した5月の新銘柄リストが公開 - 詳細はこちら",
       "link": "https://jp.investing.com/news/stock-market-news/article-1515886",
       "published": "2026-05-04 09:04:25",
       "isoDate": "2026-05-04T09:04:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：戻りが鈍いか、ハイテクに調整も",
-      "link": "https://jp.investing.com/news/forex-news/article-1515796",
-      "published": "2026-05-04 06:15:02",
-      "isoDate": "2026-05-04T06:15:02Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、保有イーサリアムが518万枚に到達　強気姿勢を維持",
+      "link": "https://coinpost.jp/?p=706722",
+      "published": "Tue, 05 May 2026 11:31:44 +0900",
+      "isoDate": "2026-05-05T02:31:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン・オンチェーン活動が2年ぶり低水準、価格回復との乖離が鮮明＝Santiment",
+      "link": "https://coinpost.jp/?p=706724",
+      "published": "Tue, 05 May 2026 11:07:03 +0900",
+      "isoDate": "2026-05-05T02:07:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン3カ月ぶり8万ドル回復、クラリティー法案進展期待で市場心理回復｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=706703",
+      "published": "Tue, 05 May 2026 10:02:06 +0900",
+      "isoDate": "2026-05-05T01:02:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "送金大手ウエスタン・ユニオンがステーブルコイン「USDPT」をソラナ基盤でローンチへ",
+      "link": "https://coinpost.jp/?p=706694",
+      "published": "Tue, 05 May 2026 09:45:19 +0900",
+      "isoDate": "2026-05-05T00:45:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スコットランドの私立校、ビットコイン奨学金を創設　BTC準備金の構築も計画",
+      "link": "https://coinpost.jp/?p=706698",
+      "published": "Tue, 05 May 2026 09:17:11 +0900",
+      "isoDate": "2026-05-05T00:17:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストライブ、ビットコイン保有数が1万5000BTCを突破、444BTCを追加取得",
@@ -187,27 +222,6 @@
       "link": "https://coinpost.jp/?p=706600",
       "published": "Sat, 02 May 2026 13:25:36 +0900",
       "isoDate": "2026-05-02T04:25:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "カナダ年金基金AIMCo、約267億円でマイクストラテジー株を購入",
-      "link": "https://coinpost.jp/?p=706598",
-      "published": "Sat, 02 May 2026 11:44:48 +0900",
-      "isoDate": "2026-05-02T02:44:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースら、6月末までの仮想通貨市場の回復を予測　BTC・ETH分析も",
-      "link": "https://coinpost.jp/?p=706587",
-      "published": "Sat, 02 May 2026 11:02:19 +0900",
-      "isoDate": "2026-05-02T02:02:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘企業ライオットQ1決算、AIデータセンター事業が収益の20%へ急成長",
-      "link": "https://coinpost.jp/?p=706557",
-      "published": "Sat, 02 May 2026 09:55:07 +0900",
-      "isoDate": "2026-05-02T00:55:07Z"
     }
   ]
 }
