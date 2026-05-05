@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-05T16:27:53Z",
-  "last_checked": "2026-05-05T16:27:53Z",
+  "updated": "2026-05-05T18:00:55Z",
+  "last_checked": "2026-05-05T18:00:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,24 +69,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イラン石油タンカーが米国の封鎖を回避した可能性",
-      "link": "https://jp.investing.com/news/economy-news/article-1518805",
-      "published": "2026-05-05 14:41:41",
-      "isoDate": "2026-05-05T14:41:41Z"
+      "title": "サービスナウ、AIエージェント管理でマイクロソフトとの提携を強化",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1519156",
+      "published": "2026-05-05 17:00:12",
+      "isoDate": "2026-05-05T17:00:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アマゾンがTransaeraと提携、ヒートポンプ技術の拡大へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1518701",
-      "published": "2026-05-05 14:09:15",
-      "isoDate": "2026-05-05T14:09:15Z"
+      "title": "ServiceNowがエヌビディアのセキュリティ技術を活用したエンタープライズ向けデスクトップAIエージェントを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1519155",
+      "published": "2026-05-05 17:00:09",
+      "isoDate": "2026-05-05T17:00:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコム、AI向けVMware Cloud Foundation 9.1を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1518453",
-      "published": "2026-05-05 13:04:15",
-      "isoDate": "2026-05-05T13:04:15Z"
+      "title": "トランプ政権、チップ不足解消に向けアジア同盟国と連携",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519120",
+      "published": "2026-05-05 16:44:16",
+      "isoDate": "2026-05-05T16:44:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SECが上場企業の半期報告への大幅な移行を提案",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519030",
+      "published": "2026-05-05 16:12:12",
+      "isoDate": "2026-05-05T16:12:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1517754",
       "published": "2026-05-05 08:16:51",
       "isoDate": "2026-05-05T08:16:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、上値で介入に警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1517616",
-      "published": "2026-05-05 06:00:03",
-      "isoDate": "2026-05-05T06:00:03Z"
     },
     {
       "source": "Investing.com 外為",
