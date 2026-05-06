@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T21:14:54Z",
-  "last_checked": "2026-05-06T21:14:54Z",
+  "updated": "2026-05-06T22:25:39Z",
+  "last_checked": "2026-05-06T22:25:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "6日の米国市場ダイジェスト：米国株式市場は続伸、ハイテクやイラン和平合意期待が主導",
+      "link": "https://jp.investing.com/news/forex-news/article-1522179",
+      "published": "2026-05-06 21:30:03",
+      "isoDate": "2026-05-06T21:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AppLovinの株価、好決算と旺盛な広告需要を受けて急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1522158",
+      "published": "2026-05-06 21:25:19",
+      "isoDate": "2026-05-06T21:25:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "CoherentのQ3売上高、AIデータセンター需要急増でウォール街予測を上回る",
+      "link": "https://jp.investing.com/news/earnings/article-1522117",
+      "published": "2026-05-06 21:12:39",
+      "isoDate": "2026-05-06T21:12:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "オセアナゴールド、第1四半期売上高7億1500万ドル・フリーキャッシュフロー2億5500万ドルを計上",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1522092",
+      "published": "2026-05-06 21:05:08",
+      "isoDate": "2026-05-06T21:05:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは612.34ドル高、ハイテクやイラン和平合意期待が主導",
+      "link": "https://jp.investing.com/news/forex-news/article-1522076",
+      "published": "2026-05-06 21:00:03",
+      "isoDate": "2026-05-06T21:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "時間外取引の注目銘柄：FTNT、DASH、ARM、スナップ、BROS、COHR、FSLY、AOSL、APP",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1522026",
       "published": "2026-05-06 20:39:02",
@@ -97,45 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1521667",
-      "published": "2026-05-06 17:15:23",
-      "isoDate": "2026-05-06T17:15:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エクソン・モービルとシェブロンが下落、アドバンスト・マイクロ・デバイセズは急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1520771",
-      "published": "2026-05-06 11:54:51",
-      "isoDate": "2026-05-06T11:54:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "コーニング株が14%急騰、エヌビディアとのAI光ファイバー増強パートナーシップ発表で",
       "link": "https://jp.investing.com/news/stock-market-news/article-1520747",
       "published": "2026-05-06 11:41:51",
       "isoDate": "2026-05-06T11:41:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "+187%超の上昇を記録、AIが選定した5月の新銘柄リストが公開 - 詳細はこちら",
-      "link": "https://jp.investing.com/news/investment-ideas/article-1520330",
-      "published": "2026-05-06 09:11:12",
-      "isoDate": "2026-05-06T09:11:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズの好決算でCPU株が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1520302",
-      "published": "2026-05-06 08:51:44",
-      "isoDate": "2026-05-06T08:51:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ氏がホルムズ海峡再開作戦を一時停止、アドバンスト・マイクロ・デバイセズが急騰",
-      "link": "https://jp.investing.com/news/economy-news/article-1520222",
-      "published": "2026-05-06 08:13:59",
-      "isoDate": "2026-05-06T08:13:59Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,7 +148,21 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "VanEck予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
+      "title": "トランプ政権の仮想通貨顧問、ビットコイン準備金の詳細を今後数週間以内に公表すると発言",
+      "link": "https://coinpost.jp/?p=706830",
+      "published": "Thu, 07 May 2026 07:16:18 +0900",
+      "isoDate": "2026-05-06T22:16:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ホワイトハウスがクラリティー法案の7月4日成立を目標設定、来週にも上院委員会の採決へ",
+      "link": "https://coinpost.jp/?p=706832",
+      "published": "Thu, 07 May 2026 06:20:47 +0900",
+      "isoDate": "2026-05-06T21:20:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "VanEckが強気予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
       "link": "https://coinpost.jp/?p=706834",
       "published": "Thu, 07 May 2026 05:40:01 +0900",
       "isoDate": "2026-05-06T20:40:01Z"
@@ -222,20 +236,6 @@
       "link": "https://coinpost.jp/?p=706724",
       "published": "Tue, 05 May 2026 11:07:03 +0900",
       "isoDate": "2026-05-05T02:07:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン3カ月ぶり8万ドル回復、クラリティー法案進展期待で市場心理回復｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=706703",
-      "published": "Tue, 05 May 2026 10:02:06 +0900",
-      "isoDate": "2026-05-05T01:02:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "送金大手ウエスタン・ユニオンがステーブルコイン「USDPT」をソラナ基盤でローンチへ",
-      "link": "https://coinpost.jp/?p=706694",
-      "published": "Tue, 05 May 2026 09:45:19 +0900",
-      "isoDate": "2026-05-05T00:45:19Z"
     }
   ]
 }
