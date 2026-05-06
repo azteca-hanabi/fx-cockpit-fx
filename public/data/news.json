@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T17:45:36Z",
-  "last_checked": "2026-05-06T17:45:36Z",
+  "updated": "2026-05-06T19:52:29Z",
+  "last_checked": "2026-05-06T19:52:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "5月6日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1521847",
+      "published": "2026-05-06 19:15:04",
+      "isoDate": "2026-05-06T19:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1521667",
+      "published": "2026-05-06 17:15:23",
+      "isoDate": "2026-05-06T17:15:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アンソロピック、AIスーパーコンピューターアクセスでスペースXと契約締結",
       "link": "https://jp.investing.com/news/stock-market-news/article-1521555",
       "published": "2026-05-06 16:23:42",
       "isoDate": "2026-05-06T16:23:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コインベースグローバル、米国外トレーダー向けに金・銀の無期限先物を開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1521230",
-      "published": "2026-05-06 14:01:16",
-      "isoDate": "2026-05-06T14:01:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1520747",
       "published": "2026-05-06 11:41:51",
       "isoDate": "2026-05-06T11:41:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアとコーニング、米国内の光学製造拡大に向けてパートナーシップを締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1520706",
-      "published": "2026-05-06 11:31:30",
-      "isoDate": "2026-05-06T11:31:30Z"
     },
     {
       "source": "Investing.com 外為",
