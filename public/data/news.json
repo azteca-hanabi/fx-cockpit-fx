@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T19:52:29Z",
-  "last_checked": "2026-05-06T19:52:29Z",
+  "updated": "2026-05-06T21:14:54Z",
+  "last_checked": "2026-05-06T21:14:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "5月6日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1521847",
-      "published": "2026-05-06 19:15:04",
-      "isoDate": "2026-05-06T19:15:04Z"
+      "title": "時間外取引の注目銘柄：FTNT、DASH、ARM、スナップ、BROS、COHR、FSLY、AOSL、APP",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1522026",
+      "published": "2026-05-06 20:39:02",
+      "isoDate": "2026-05-06T20:39:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Armの株価、決算と業績見通しが予想を上回り時間外取引で急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1521948",
+      "published": "2026-05-06 20:16:23",
+      "isoDate": "2026-05-06T20:16:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Palantirが米陸軍のハッカソンに参加、防衛システム統合を推進",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1521886",
+      "published": "2026-05-06 20:02:12",
+      "isoDate": "2026-05-06T20:02:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アンソロピック、AIスーパーコンピューターアクセスでスペースXと契約締結",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1521555",
-      "published": "2026-05-06 16:23:42",
-      "isoDate": "2026-05-06T16:23:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "エクソン・モービルとシェブロンが下落、アドバンスト・マイクロ・デバイセズは急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1520771",
       "published": "2026-05-06 11:54:51",
       "isoDate": "2026-05-06T11:54:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コーニング、エヌビディアに5億ドル相当のワラントを発行——長期提携契約の一環",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1520758",
-      "published": "2026-05-06 11:51:10",
-      "isoDate": "2026-05-06T11:51:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "VanEck予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
+      "link": "https://coinpost.jp/?p=706834",
+      "published": "Thu, 07 May 2026 05:40:01 +0900",
+      "isoDate": "2026-05-06T20:40:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "モルガン・スタンレー、E*Tradeで仮想通貨現物取引を開始　860万顧客に拡大へ",
+      "link": "https://coinpost.jp/?p=706813",
+      "published": "Thu, 07 May 2026 05:00:00 +0900",
+      "isoDate": "2026-05-06T20:00:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "リップル、北朝鮮脅威インテリジェンスをCrypto ISACで共有開始　仮想通貨業界の集団防衛強化",
@@ -222,27 +236,6 @@
       "link": "https://coinpost.jp/?p=706694",
       "published": "Tue, 05 May 2026 09:45:19 +0900",
       "isoDate": "2026-05-05T00:45:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スコットランドの私立校、ビットコイン奨学金を創設　BTC準備金の構築も計画",
-      "link": "https://coinpost.jp/?p=706698",
-      "published": "Tue, 05 May 2026 09:17:11 +0900",
-      "isoDate": "2026-05-05T00:17:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライブ、ビットコイン保有数が1万5000BTCを突破、444BTCを追加取得",
-      "link": "https://coinpost.jp/?p=706688",
-      "published": "Tue, 05 May 2026 08:37:19 +0900",
-      "isoDate": "2026-05-04T23:37:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "サトシ・ナカモト保有の初期ビットコインを量子脅威からどう守るか、凍結案巡り議論",
-      "link": "https://coinpost.jp/?p=706667",
-      "published": "Mon, 04 May 2026 12:06:32 +0900",
-      "isoDate": "2026-05-04T03:06:32Z"
     }
   ]
 }
