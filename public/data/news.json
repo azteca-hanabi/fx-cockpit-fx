@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T03:38:30Z",
-  "last_checked": "2026-05-06T03:38:30Z",
+  "updated": "2026-05-06T06:34:19Z",
+  "last_checked": "2026-05-06T06:34:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は続落、高値から3円弱下落",
+      "link": "https://jp.investing.com/news/forex-news/article-1520028",
+      "published": "2026-05-06 05:15:03",
+      "isoDate": "2026-05-06T05:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は急落、約2円安で155円台へ",
+      "link": "https://jp.investing.com/news/forex-news/article-1520004",
+      "published": "2026-05-06 04:45:02",
+      "isoDate": "2026-05-06T04:45:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は伸び悩み、介入に警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1520000",
+      "published": "2026-05-06 04:30:03",
+      "isoDate": "2026-05-06T04:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "中東緊張緩和とドル安を背景に金価格が上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1519985",
       "published": "2026-05-06 02:51:55",
@@ -83,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：米ドル・円は157円台半ばで下げ止まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1519981",
-      "published": "2026-05-06 02:15:03",
-      "isoDate": "2026-05-06T02:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サムスン、AI向けメモリー需要急増で時価総額1兆ドル突破",
       "link": "https://jp.investing.com/news/stock-market-news/article-1519961",
       "published": "2026-05-06 00:59:45",
       "isoDate": "2026-05-06T00:59:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領がホルムズ作戦を一時停止、イラン合意に期待高まる中、原油価格が続落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1519954",
-      "published": "2026-05-06 00:31:00",
-      "isoDate": "2026-05-06T00:31:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,17 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目銘柄：AMD、SMCI、GOOGL、AVTX、ANET、UPST、TEM",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1519606",
-      "published": "2026-05-05 21:01:02",
-      "isoDate": "2026-05-05T21:01:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ株、好決算と見通しが予想上回り時間外取引で上昇",
-      "link": "https://jp.investing.com/news/earnings/article-1519488",
-      "published": "2026-05-05 20:20:40",
-      "isoDate": "2026-05-05T20:20:40Z"
+      "title": "トランプ政権、チップ不足解消に向けアジア同盟国と連携",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519120",
+      "published": "2026-05-05 16:44:16",
+      "isoDate": "2026-05-05T16:44:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,104 @@
       "isoDate": "2026-05-05T12:10:36Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "リップル、北朝鮮脅威インテリジェンスをCrypto ISACで共有開始　仮想通貨業界の集団防衛強化",
+      "link": "https://coinpost.jp/?p=706780",
+      "published": "Wed, 06 May 2026 13:47:34 +0900",
+      "isoDate": "2026-05-06T04:47:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、2026年1～3月期決算　ビットコイン含み損で2兆円の損失計上",
+      "link": "https://coinpost.jp/?p=706768",
+      "published": "Wed, 06 May 2026 12:22:09 +0900",
+      "isoDate": "2026-05-06T03:22:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場セカンス、転換社債償還でビットコインを売却　昨年末の約半分に減少",
+      "link": "https://coinpost.jp/?p=706764",
+      "published": "Wed, 06 May 2026 10:46:15 +0900",
+      "isoDate": "2026-05-06T01:46:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「量子コンピュータのリスクはビットコイン価格下落の主因ではない可能性」グレースケール見解",
+      "link": "https://coinpost.jp/?p=706751",
+      "published": "Wed, 06 May 2026 09:52:08 +0900",
+      "isoDate": "2026-05-06T00:52:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "HYPEのDAT保有比率が流通量の約9%に、BTCやETHなどを上回る＝レポート",
+      "link": "https://coinpost.jp/?p=706758",
+      "published": "Wed, 06 May 2026 09:37:22 +0900",
+      "isoDate": "2026-05-06T00:37:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米CME、ビットコイン・ボラティリティ先物を6月1日に上場へ",
+      "link": "https://coinpost.jp/?p=706746",
+      "published": "Wed, 06 May 2026 08:56:19 +0900",
+      "isoDate": "2026-05-05T23:56:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "TDコーウェン「銀行と仮想通貨企業に妥協点なし」　クラリティ法案成立リスクが高まる",
+      "link": "https://coinpost.jp/?p=706742",
+      "published": "Wed, 06 May 2026 08:25:44 +0900",
+      "isoDate": "2026-05-05T23:25:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、保有イーサリアムが518万枚に到達　強気姿勢を維持",
+      "link": "https://coinpost.jp/?p=706722",
+      "published": "Tue, 05 May 2026 11:31:44 +0900",
+      "isoDate": "2026-05-05T02:31:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン・オンチェーン活動が2年ぶり低水準、価格回復との乖離が鮮明＝Santiment",
+      "link": "https://coinpost.jp/?p=706724",
+      "published": "Tue, 05 May 2026 11:07:03 +0900",
+      "isoDate": "2026-05-05T02:07:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン3カ月ぶり8万ドル回復、クラリティー法案進展期待で市場心理回復｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=706703",
+      "published": "Tue, 05 May 2026 10:02:06 +0900",
+      "isoDate": "2026-05-05T01:02:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "送金大手ウエスタン・ユニオンがステーブルコイン「USDPT」をソラナ基盤でローンチへ",
+      "link": "https://coinpost.jp/?p=706694",
+      "published": "Tue, 05 May 2026 09:45:19 +0900",
+      "isoDate": "2026-05-05T00:45:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スコットランドの私立校、ビットコイン奨学金を創設　BTC準備金の構築も計画",
+      "link": "https://coinpost.jp/?p=706698",
+      "published": "Tue, 05 May 2026 09:17:11 +0900",
+      "isoDate": "2026-05-05T00:17:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストライブ、ビットコイン保有数が1万5000BTCを突破、444BTCを追加取得",
+      "link": "https://coinpost.jp/?p=706688",
+      "published": "Tue, 05 May 2026 08:37:19 +0900",
+      "isoDate": "2026-05-04T23:37:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "サトシ・ナカモト保有の初期ビットコインを量子脅威からどう守るか、凍結案巡り議論",
+      "link": "https://coinpost.jp/?p=706667",
+      "published": "Mon, 04 May 2026 12:06:32 +0900",
+      "isoDate": "2026-05-04T03:06:32Z"
+    }
+  ]
 }
