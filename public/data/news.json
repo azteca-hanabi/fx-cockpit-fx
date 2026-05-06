@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T15:41:40Z",
-  "last_checked": "2026-05-06T15:41:40Z",
+  "updated": "2026-05-06T17:45:36Z",
+  "last_checked": "2026-05-06T17:45:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アンソロピック、AIスーパーコンピューターアクセスでスペースXと契約締結",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1521555",
+      "published": "2026-05-06 16:23:42",
+      "isoDate": "2026-05-06T16:23:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "コインベースグローバル、米国外トレーダー向けに金・銀の無期限先物を開始",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1521230",
       "published": "2026-05-06 14:01:16",
       "isoDate": "2026-05-06T14:01:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX先物、中東和平合意への期待で上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1521033",
-      "published": "2026-05-06 13:12:08",
-      "isoDate": "2026-05-06T13:12:08Z"
     },
     {
       "source": "Investing.com 外為",
