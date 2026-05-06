@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-05T23:54:12Z",
-  "last_checked": "2026-05-05T23:54:12Z",
+  "updated": "2026-05-06T03:38:30Z",
+  "last_checked": "2026-05-06T03:38:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東緊張緩和とドル安を背景に金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1519985",
+      "published": "2026-05-06 02:51:55",
+      "isoDate": "2026-05-06T02:51:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がホルムズ作戦を一時停止、イラン合意に期待高まる中、原油価格が続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1519954",
+      "published": "2026-05-06 00:31:00",
+      "isoDate": "2026-05-06T00:31:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "カナダ産原油パイプライン、米国向け輸送契約が最低基準に接近",
@@ -57,36 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1517096",
       "published": "2026-05-04 19:05:30",
       "isoDate": "2026-05-04T19:05:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インド石油天然ガス、中東情勢安定後にカタールからの全量供給を期待",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1516584",
-      "published": "2026-05-04 13:41:34",
-      "isoDate": "2026-05-04T13:41:34Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "中東緊張緩和とドル安を背景に金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1519985",
+      "published": "2026-05-06 02:51:55",
+      "isoDate": "2026-05-06T02:51:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：米ドル・円は157円台半ばで下げ止まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1519981",
+      "published": "2026-05-06 02:15:03",
+      "isoDate": "2026-05-06T02:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスン、AI向けメモリー需要急増で時価総額1兆ドル突破",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519961",
+      "published": "2026-05-06 00:59:45",
+      "isoDate": "2026-05-06T00:59:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領がホルムズ作戦を一時停止、イラン合意に期待高まる中、原油価格が続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1519954",
+      "published": "2026-05-06 00:31:00",
+      "isoDate": "2026-05-06T00:31:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領がホルムズ海峡作戦の一時停止を発表、米株先物が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519951",
+      "published": "2026-05-06 00:24:31",
+      "isoDate": "2026-05-06T00:24:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比1200円高の60620円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1519930",
+      "published": "2026-05-05 23:45:03",
+      "isoDate": "2026-05-05T23:45:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国株式市場は反発、イラン停戦維持を好感",
       "link": "https://jp.investing.com/news/stock-market-news/article-1519870",
       "published": "2026-05-05 23:00:03",
       "isoDate": "2026-05-05T23:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "5日のNY市場は反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519871",
-      "published": "2026-05-05 23:00:03",
-      "isoDate": "2026-05-05T23:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "5日の米国市場ダイジェスト：米国株式市場は反発、イラン停戦維持を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1519679",
-      "published": "2026-05-05 21:30:03",
-      "isoDate": "2026-05-05T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アルファベット株が2%上昇、アンソロピックとの大型契約報道を受けて",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519552",
-      "published": "2026-05-05 20:34:20",
-      "isoDate": "2026-05-05T20:34:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アドバンスト・マイクロ・デバイセズ株、好決算と見通しが予想上回り時間外取引で上昇",
       "link": "https://jp.investing.com/news/earnings/article-1519488",
       "published": "2026-05-05 20:20:40",
@@ -111,110 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ルメンタム株、好決算・好ガイダンスにもかかわらず急落",
-      "link": "https://jp.investing.com/news/earnings/article-1519481",
-      "published": "2026-05-05 20:18:01",
-      "isoDate": "2026-05-05T20:18:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ政権、チップ不足解消に向けアジア同盟国と連携",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519120",
-      "published": "2026-05-05 16:44:16",
-      "isoDate": "2026-05-05T16:44:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Palantir時間外取引で下落、ServiceNow、ペイパル・ホールディングスは上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1518281",
       "published": "2026-05-05 12:10:36",
       "isoDate": "2026-05-05T12:10:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国・イラン停戦に動揺、AMD決算発表へ―市場を動かす要因",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1517754",
-      "published": "2026-05-05 08:16:51",
-      "isoDate": "2026-05-05T08:16:51Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "TDコーウェン「銀行と仮想通貨に妥協点なし」　クラリティ法案成立リスクが高まる",
-      "link": "https://coinpost.jp/?p=706742",
-      "published": "Wed, 06 May 2026 08:25:44 +0900",
-      "isoDate": "2026-05-05T23:25:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットマイン、保有イーサリアムが518万枚に到達　強気姿勢を維持",
-      "link": "https://coinpost.jp/?p=706722",
-      "published": "Tue, 05 May 2026 11:31:44 +0900",
-      "isoDate": "2026-05-05T02:31:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・オンチェーン活動が2年ぶり低水準、価格回復との乖離が鮮明＝Santiment",
-      "link": "https://coinpost.jp/?p=706724",
-      "published": "Tue, 05 May 2026 11:07:03 +0900",
-      "isoDate": "2026-05-05T02:07:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン3カ月ぶり8万ドル回復、クラリティー法案進展期待で市場心理回復｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=706703",
-      "published": "Tue, 05 May 2026 10:02:06 +0900",
-      "isoDate": "2026-05-05T01:02:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "送金大手ウエスタン・ユニオンがステーブルコイン「USDPT」をソラナ基盤でローンチへ",
-      "link": "https://coinpost.jp/?p=706694",
-      "published": "Tue, 05 May 2026 09:45:19 +0900",
-      "isoDate": "2026-05-05T00:45:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スコットランドの私立校、ビットコイン奨学金を創設　BTC準備金の構築も計画",
-      "link": "https://coinpost.jp/?p=706698",
-      "published": "Tue, 05 May 2026 09:17:11 +0900",
-      "isoDate": "2026-05-05T00:17:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライブ、ビットコイン保有数が1万5000BTCを突破、444BTCを追加取得",
-      "link": "https://coinpost.jp/?p=706688",
-      "published": "Tue, 05 May 2026 08:37:19 +0900",
-      "isoDate": "2026-05-04T23:37:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "サトシ・ナカモト保有の初期ビットコインを量子脅威からどう守るか、凍結案巡り議論",
-      "link": "https://coinpost.jp/?p=706667",
-      "published": "Mon, 04 May 2026 12:06:32 +0900",
-      "isoDate": "2026-05-04T03:06:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインFOMC通過後も1200万円台で推移、来週の米雇用統計に注目｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=706431",
-      "published": "Sun, 03 May 2026 11:30:02 +0900",
-      "isoDate": "2026-05-03T02:30:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "今週の主要仮想通貨材料まとめ、チューダー・ジョーンズのBTC評価やリップル幹部のXRPLの展望など",
-      "link": "https://coinpost.jp/?p=706296",
-      "published": "Sun, 03 May 2026 09:30:06 +0900",
-      "isoDate": "2026-05-03T00:30:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース｜米ビットコイン準備金の重大発表予告や米クラリティー法案の進展に高い関心",
-      "link": "https://coinpost.jp/?p=706326",
-      "published": "Sun, 03 May 2026 09:25:41 +0900",
-      "isoDate": "2026-05-03T00:25:41Z"
-    }
-  ]
+  "btc_items": []
 }
