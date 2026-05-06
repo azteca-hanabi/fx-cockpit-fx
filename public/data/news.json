@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T09:28:04Z",
-  "last_checked": "2026-05-06T09:28:04Z",
+  "updated": "2026-05-06T11:26:33Z",
+  "last_checked": "2026-05-06T11:26:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,14 +11,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "中東緊張緩和とドル安を受け、金価格が2%超上昇",
+      "title": "金価格が3%超上昇、中東和平交渉の進展とドル軟化が支援",
       "link": "https://jp.investing.com/news/commodities-news/article-1519985",
       "published": "2026-05-06 02:51:55",
       "isoDate": "2026-05-06T02:51:55Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がホルムズ作戦を一時停止、イラン合意に期待",
+      "title": "ブレント原油が1バレル100ドル割れ、米国とイランの停戦合意報道を受け",
       "link": "https://jp.investing.com/news/commodities-news/article-1519954",
       "published": "2026-05-06 00:31:00",
       "isoDate": "2026-05-06T00:31:00Z"
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXがテキサス州に550億ドルの半導体施設建設を計画",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1520516",
+      "published": "2026-05-06 10:24:29",
+      "isoDate": "2026-05-06T10:24:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIへの強い需要でアドバンスト・マイクロ・デバイセズに相次ぐ格上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1520478",
+      "published": "2026-05-06 09:59:12",
+      "isoDate": "2026-05-06T09:59:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "+187%超の上昇を記録、AIが選定した5月の新銘柄リストが公開 - 詳細はこちら",
+      "link": "https://jp.investing.com/news/investment-ideas/article-1520330",
+      "published": "2026-05-06 09:11:12",
+      "isoDate": "2026-05-06T09:11:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アドバンスト・マイクロ・デバイセズの好決算でCPU株が急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1520302",
       "published": "2026-05-06 08:51:44",
@@ -94,13 +115,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1520222",
       "published": "2026-05-06 08:13:59",
       "isoDate": "2026-05-06T08:13:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、8万1000ドル超で安定推移――Strategyの売却示唆で上げ幅縮小",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1520125",
-      "published": "2026-05-06 06:56:14",
-      "isoDate": "2026-05-06T06:56:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1520004",
       "published": "2026-05-06 04:45:02",
       "isoDate": "2026-05-06T04:45:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、介入に警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1520000",
-      "published": "2026-05-06 04:30:03",
-      "isoDate": "2026-05-06T04:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスン、AI向けメモリー需要急増で時価総額1兆ドル突破",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1519961",
-      "published": "2026-05-06 00:59:45",
-      "isoDate": "2026-05-06T00:59:45Z"
     }
   ],
   "btc_items": [
