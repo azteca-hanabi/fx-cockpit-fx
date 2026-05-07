@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07T17:17:53Z",
-  "last_checked": "2026-05-07T17:17:53Z",
+  "updated": "2026-05-07T19:15:49Z",
+  "last_checked": "2026-05-07T19:15:49Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ブロードコム株が急落、OpenAIとの180億ドルチップ契約が資金調達で難航",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1524465",
+      "published": "2026-05-07 18:23:53",
+      "isoDate": "2026-05-07T18:23:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "DRAMとNAND価格上昇を受け、バーンスタインがメモリ株に強気姿勢",
       "link": "https://jp.investing.com/news/stock-market-news/article-1524086",
       "published": "2026-05-07 15:09:07",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1522919",
       "published": "2026-05-07 07:00:17",
       "isoDate": "2026-05-07T07:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "注目銘柄ダイジェスト（前場）:キオクシアHD、DMG森精機、ネクセラなど",
-      "link": "https://jp.investing.com/news/forex-news/article-1522766",
-      "published": "2026-05-07 03:15:14",
-      "isoDate": "2026-05-07T03:15:14Z"
     },
     {
       "source": "Investing.com 外為",
