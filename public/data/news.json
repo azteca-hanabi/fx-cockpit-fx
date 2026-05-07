@@ -1,10 +1,17 @@
 {
-  "updated": "2026-05-07T10:29:28Z",
-  "last_checked": "2026-05-07T10:29:28Z",
+  "updated": "2026-05-07T12:19:20Z",
+  "last_checked": "2026-05-07T12:19:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、イラン和平期待とドル安を背景に3日続伸",
+      "title": "中国、4月も金準備を増加―18カ月連続の買い増し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1523242",
+      "published": "2026-05-07 10:25:21",
+      "isoDate": "2026-05-07T10:25:21Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が2週間ぶり高値、イラン和平期待が原油安・ドル安を誘発",
       "link": "https://jp.investing.com/news/commodities-news/article-1522716",
       "published": "2026-05-07 02:32:55",
       "isoDate": "2026-05-07T02:32:55Z"
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1517983",
       "published": "2026-05-05 10:35:58",
       "isoDate": "2026-05-05T10:35:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロンドン銅価格、3週間ぶり安値を付けた後に安定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1517716",
-      "published": "2026-05-05 07:50:19",
-      "isoDate": "2026-05-05T07:50:19Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は底堅い、原油相場は小高い",
-      "link": "https://jp.investing.com/news/forex-news/article-1523136",
-      "published": "2026-05-07 09:30:12",
-      "isoDate": "2026-05-07T09:30:12Z"
+      "title": "アマゾン・ファーマシー、オゼンピック経口薬の当日配送サービスを開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1523360",
+      "published": "2026-05-07 11:05:11",
+      "isoDate": "2026-05-07T11:05:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本の円買い介入、2022年以来最大規模の可能性＝バンク・オブ・アメリカ",
+      "link": "https://jp.investing.com/news/forex-news/article-1523234",
+      "published": "2026-05-07 10:18:41",
+      "isoDate": "2026-05-07T10:18:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/earnings/article-1521948",
       "published": "2026-05-06 20:16:23",
       "isoDate": "2026-05-06T20:16:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コーニング株が14%急騰、エヌビディアとのAI光ファイバー増強パートナーシップ発表で",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1520747",
-      "published": "2026-05-06 11:41:51",
-      "isoDate": "2026-05-06T11:41:51Z"
     }
   ],
   "btc_items": [
