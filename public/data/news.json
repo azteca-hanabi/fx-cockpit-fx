@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-07T04:59:37Z",
-  "last_checked": "2026-05-07T04:59:37Z",
+  "updated": "2026-05-07T07:49:37Z",
+  "last_checked": "2026-05-07T07:49:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金、イラン和平合意への期待と ドル安を背景に上昇継続",
+      "title": "金価格、イラン和平期待とドル安を背景に3日続伸",
       "link": "https://jp.investing.com/news/commodities-news/article-1522716",
       "published": "2026-05-07 02:32:55",
       "isoDate": "2026-05-07T02:32:55Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン和平交渉への期待後、原油価格がアジア市場で小幅反発",
+      "title": "原油価格、米・イラン和平交渉への期待で大幅安続く",
       "link": "https://jp.investing.com/news/commodities-news/article-1522574",
       "published": "2026-05-07 00:44:00",
       "isoDate": "2026-05-07T00:44:00Z"
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は下げ渋り、原油相場は底堅い",
-      "link": "https://jp.investing.com/news/forex-news/article-1522809",
-      "published": "2026-05-07 04:30:20",
-      "isoDate": "2026-05-07T04:30:20Z"
+      "title": "キオクシアHD、DMG森精機、ネクセラなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1522919",
+      "published": "2026-05-07 07:00:17",
+      "isoDate": "2026-05-07T07:00:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は3230円高でスタート、イビデンやソフトバンクGなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1522800",
-      "published": "2026-05-07 04:15:19",
-      "isoDate": "2026-05-07T04:15:19Z"
+      "title": "日経平均は急伸、半導体関連中心に指数を大きく押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1522918",
+      "published": "2026-05-07 07:00:16",
+      "isoDate": "2026-05-07T07:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は膠着、円売りは後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1522852",
+      "published": "2026-05-07 06:00:20",
+      "isoDate": "2026-05-07T06:00:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AMDの好決算がAI楽観論を呼び、日本の半導体・テクノロジー株が急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1522826",
+      "published": "2026-05-07 05:10:33",
+      "isoDate": "2026-05-07T05:10:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1522793",
       "published": "2026-05-07 04:00:19",
       "isoDate": "2026-05-07T04:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～中東情勢の収束期待で買い優勢の展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1522790",
-      "published": "2026-05-07 03:45:16",
-      "isoDate": "2026-05-07T03:45:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は急伸、中東情勢の収束期待で買い優勢の展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1522783",
-      "published": "2026-05-07 03:30:15",
-      "isoDate": "2026-05-07T03:30:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "世界最大級のカストディアン銀行BNY、アブダビでBTC・ETH機関向けカストディ参入へ",
+      "link": "https://coinpost.jp/?p=707065",
+      "published": "Thu, 07 May 2026 15:50:18 +0900",
+      "isoDate": "2026-05-07T06:50:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DeFiリゾルバー「TrustedVolumes」でエクスプロイト、約9.2億円相当が流出か＝Blockaid",
+      "link": "https://coinpost.jp/?p=707049",
+      "published": "Thu, 07 May 2026 14:58:44 +0900",
+      "isoDate": "2026-05-07T05:58:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「Q-Dayの基本シナリオは2033年」、ブロックチェーンの量子脅威対策は今すぐ始めるべき＝Project Elevenレポート",
+      "link": "https://coinpost.jp/?p=707018",
+      "published": "Thu, 07 May 2026 14:30:03 +0900",
+      "isoDate": "2026-05-07T05:30:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン強気センチメント、4カ月ぶり高水準　Santimentが指摘",
+      "link": "https://coinpost.jp/?p=707028",
+      "published": "Thu, 07 May 2026 14:02:31 +0900",
+      "isoDate": "2026-05-07T05:02:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハット8、1.5兆円規模のAIデータセンター長期リース契約を締結",
@@ -201,34 +229,6 @@
       "link": "https://coinpost.jp/?p=706832",
       "published": "Thu, 07 May 2026 06:20:47 +0900",
       "isoDate": "2026-05-06T21:20:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "VanEckが強気予測、「ビットコインが5年以内に100万ドルに」　根拠は？",
-      "link": "https://coinpost.jp/?p=706834",
-      "published": "Thu, 07 May 2026 05:40:01 +0900",
-      "isoDate": "2026-05-06T20:40:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "モルガン・スタンレー、E*Tradeで仮想通貨現物取引を開始　860万顧客に拡大へ",
-      "link": "https://coinpost.jp/?p=706813",
-      "published": "Thu, 07 May 2026 05:00:00 +0900",
-      "isoDate": "2026-05-06T20:00:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップル、北朝鮮脅威インテリジェンスをCrypto ISACで共有開始　仮想通貨業界の集団防衛強化",
-      "link": "https://coinpost.jp/?p=706780",
-      "published": "Wed, 06 May 2026 13:47:34 +0900",
-      "isoDate": "2026-05-06T04:47:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、2026年1～3月期決算　ビットコイン含み損で2兆円の損失計上",
-      "link": "https://coinpost.jp/?p=706768",
-      "published": "Wed, 06 May 2026 12:22:09 +0900",
-      "isoDate": "2026-05-06T03:22:09Z"
     }
   ]
 }
