@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-07T12:19:20Z",
-  "last_checked": "2026-05-07T12:19:20Z",
+  "updated": "2026-05-07T15:15:06Z",
+  "last_checked": "2026-05-07T15:15:06Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イランの和平交渉への期待から欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1523610",
+      "published": "2026-05-07 12:26:22",
+      "isoDate": "2026-05-07T12:26:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中国、4月も金準備を増加―18カ月連続の買い増し",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が2週間ぶり高値、イラン和平期待が原油安・ドル安を誘発",
+      "title": "金価格が2週間ぶり高値、イラン和平期待が原油安・ドル安を招く",
       "link": "https://jp.investing.com/news/commodities-news/article-1522716",
       "published": "2026-05-07 02:32:55",
       "isoDate": "2026-05-07T02:32:55Z"
@@ -64,22 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1519267",
       "published": "2026-05-05 18:11:02",
       "isoDate": "2026-05-05T18:11:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡再開の見通し不透明で欧州天然ガス価格は小動き",
-      "link": "https://jp.investing.com/news/commodities-news/article-1517983",
-      "published": "2026-05-05 10:35:58",
-      "isoDate": "2026-05-05T10:35:58Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アマゾン・ファーマシー、オゼンピック経口薬の当日配送サービスを開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1523360",
-      "published": "2026-05-07 11:05:11",
-      "isoDate": "2026-05-07T11:05:11Z"
+      "title": "グーグル、Fitbit Airを99.99ドルで発売",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1523937",
+      "published": "2026-05-07 14:08:10",
+      "isoDate": "2026-05-07T14:08:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "WNBAがAWSとAI活用のファン向けプラットフォームで複数年契約を締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1523924",
+      "published": "2026-05-07 14:01:08",
+      "isoDate": "2026-05-07T14:01:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物が小幅上昇、中東和平合意への期待が支える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1523766",
+      "published": "2026-05-07 13:10:21",
+      "isoDate": "2026-05-07T13:10:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "プラネット・ラボズ、ギリシャの衛星プロジェクトで7桁規模の契約を獲得",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1523745",
+      "published": "2026-05-07 13:06:09",
+      "isoDate": "2026-05-07T13:06:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ラックスペース・テクノロジーとアドバンスト・マイクロ・デバイセズ、企業向けAIインフラで提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1523540",
+      "published": "2026-05-07 12:06:22",
+      "isoDate": "2026-05-07T12:06:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,38 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "中東紛争終結期待や米半導体企業の好決算を背景に買われ史上最高値【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1523007",
-      "published": "2026-05-07 08:15:17",
-      "isoDate": "2026-05-07T08:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、ソフトバンクGやアドバンテストが2銘柄で約1263円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1522961",
-      "published": "2026-05-07 07:30:20",
-      "isoDate": "2026-05-07T07:30:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシアHD、DMG森精機、ネクセラなど",
       "link": "https://jp.investing.com/news/stock-market-news/article-1522919",
       "published": "2026-05-07 07:00:17",
       "isoDate": "2026-05-07T07:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続伸、ソフトバンクGが1銘柄で約717円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1522793",
-      "published": "2026-05-07 04:00:19",
-      "isoDate": "2026-05-07T04:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "注目銘柄ダイジェスト（前場）:キオクシアHD、DMG森精機、ネクセラなど",
-      "link": "https://jp.investing.com/news/forex-news/article-1522766",
-      "published": "2026-05-07 03:15:14",
-      "isoDate": "2026-05-07T03:15:14Z"
     },
     {
       "source": "Investing.com 外為",
