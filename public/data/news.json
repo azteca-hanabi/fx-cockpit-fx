@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T17:40:54Z",
-  "last_checked": "2026-05-08T17:40:54Z",
+  "updated": "2026-05-08T19:26:10Z",
+  "last_checked": "2026-05-08T19:26:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今週の注目株：チップ株急騰、エヌビディアが最高値更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1526978",
+      "published": "2026-05-08 18:13:11",
+      "isoDate": "2026-05-08T18:13:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SkyWater Technologyの株主、IonQとの合併契約を承認",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1526895",
       "published": "2026-05-08 17:05:08",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1526674",
       "published": "2026-05-08 15:00:06",
       "isoDate": "2026-05-08T15:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "独占：GXO CEOケレハー氏、アマゾンは脅威でなく地政学的緊張は追い風",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1526647",
-      "published": "2026-05-08 14:45:49",
-      "isoDate": "2026-05-08T14:45:49Z"
     },
     {
       "source": "Investing.com 外為",
