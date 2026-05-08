@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T06:54:10Z",
-  "last_checked": "2026-05-08T06:54:10Z",
+  "updated": "2026-05-08T08:23:45Z",
+  "last_checked": "2026-05-08T08:23:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米・イラン、ホルムズ海峡付近で交戦――原油価格が2%超上昇",
+      "title": "ホルムズ海峡での米イラン衝突後も原油は横ばい、週間では下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1525190",
       "published": "2026-05-08 00:14:26",
       "isoDate": "2026-05-08T00:14:26Z"
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小安い、原油相場の失速で",
+      "link": "https://jp.investing.com/news/forex-news/article-1525770",
+      "published": "2026-05-08 07:30:16",
+      "isoDate": "2026-05-08T07:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "任天堂、コスト上昇でSwitch 2を世界的に値上げ――株価上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1525742",
+      "published": "2026-05-08 07:01:58",
+      "isoDate": "2026-05-08T07:01:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は一進一退、ドル売り地合い",
       "link": "https://jp.investing.com/news/forex-news/article-1525676",
       "published": "2026-05-08 06:15:16",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1525644",
       "published": "2026-05-08 05:24:05",
       "isoDate": "2026-05-08T05:24:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は動意薄、原油相場にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1525639",
-      "published": "2026-05-08 05:15:16",
-      "isoDate": "2026-05-08T05:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トヨタ自動車、米関税が重荷となり通期利益が減少――業績見通しも市場予想を下回る",
-      "link": "https://jp.investing.com/news/earnings/article-1525635",
-      "published": "2026-05-08 05:12:41",
-      "isoDate": "2026-05-08T05:12:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアHD、DMG森精機、ネクセラなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1522919",
-      "published": "2026-05-07 07:00:17",
-      "isoDate": "2026-05-07T07:00:17Z"
+      "title": "CoreWeaveの第1四半期売上高が2倍超、AI拡大で損失も拡大",
+      "link": "https://jp.investing.com/news/earnings/article-1524715",
+      "published": "2026-05-07 20:23:43",
+      "isoDate": "2026-05-07T20:23:43Z"
     }
   ],
   "btc_items": [
