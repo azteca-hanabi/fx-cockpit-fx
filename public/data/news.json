@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T01:20:11Z",
-  "last_checked": "2026-05-08T01:20:11Z",
+  "updated": "2026-05-08T04:39:26Z",
+  "last_checked": "2026-05-08T04:39:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,31 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米・イラン、ホルムズ海峡付近で交戦――原油価格が2%超上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1525190",
-      "published": "2026-05-08 00:14:26",
-      "isoDate": "2026-05-08T00:14:26Z"
+      "title": "後場の日経平均は567円安でスタート、MARUWAや日東紡などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1525557",
+      "published": "2026-05-08 04:00:17",
+      "isoDate": "2026-05-08T04:00:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 5/8",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1525158",
-      "published": "2026-05-08 00:00:09",
-      "isoDate": "2026-05-08T00:00:09Z"
+      "title": "後場に注目すべき3つのポイント～前日の上昇に対する利食い売り優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1525518",
+      "published": "2026-05-08 03:45:15",
+      "isoDate": "2026-05-08T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "利食い優勢から押し目狙いのスタンスに",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1525142",
-      "published": "2026-05-07 23:45:08",
-      "isoDate": "2026-05-07T23:45:08Z"
+      "title": "日本、ゴールデンウィーク中に為替介入を実施＝ロイター",
+      "link": "https://jp.investing.com/news/forex-news/article-1525502",
+      "published": "2026-05-08 03:22:54",
+      "isoDate": "2026-05-08T03:22:54Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、イラン戦争終了期待が後退",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1525107",
-      "published": "2026-05-07 23:15:07",
-      "isoDate": "2026-05-07T23:15:07Z"
+      "title": "米国・イランの軍事衝突でアジア株が下落、和平期待に影",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1525464",
+      "published": "2026-05-08 03:02:10",
+      "isoDate": "2026-05-08T03:02:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,34 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "日本JCBAがステーキング事業の運営指針を策定、業界の健全化と利用者保護を推進",
+      "link": "https://coinpost.jp/?p=707339",
+      "published": "Fri, 08 May 2026 12:00:29 +0900",
+      "isoDate": "2026-05-08T03:00:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ氏一族関与のアメリカン・ビットコイン、26年1Qは約128億円の純損失　BTC採掘量は最高水準に",
+      "link": "https://coinpost.jp/?p=707291",
+      "published": "Fri, 08 May 2026 11:45:12 +0900",
+      "isoDate": "2026-05-08T02:45:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場企業HSI、仮想通貨HYPE保有でQ3に1.5億ドルの純利益　アーサー・ヘイズの150ドル強気予測も",
+      "link": "https://coinpost.jp/?p=707295",
+      "published": "Fri, 08 May 2026 11:15:35 +0900",
+      "isoDate": "2026-05-08T02:15:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、3か月ぶり高値も弱気相場の反発である可能性＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=707257",
+      "published": "Fri, 08 May 2026 10:50:02 +0900",
+      "isoDate": "2026-05-08T01:50:02Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "クラーケン親会社ペイワード、ステーブルコイン決済企業リープの買収契約を締結",
       "link": "https://coinpost.jp/?p=707238",
       "published": "Fri, 08 May 2026 08:06:05 +0900",
@@ -173,41 +201,6 @@
       "link": "https://coinpost.jp/?p=707209",
       "published": "Fri, 08 May 2026 05:00:56 +0900",
       "isoDate": "2026-05-07T20:00:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "世界最大級のカストディアン銀行BNY、アブダビでBTC・ETH機関向けカストディ参入へ",
-      "link": "https://coinpost.jp/?p=707065",
-      "published": "Thu, 07 May 2026 15:50:18 +0900",
-      "isoDate": "2026-05-07T06:50:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "DeFiリゾルバー「TrustedVolumes」でエクスプロイト、約9.2億円相当が流出か＝Blockaid",
-      "link": "https://coinpost.jp/?p=707049",
-      "published": "Thu, 07 May 2026 14:58:44 +0900",
-      "isoDate": "2026-05-07T05:58:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「Q-Dayの基本シナリオは2033年」、ブロックチェーンの量子脅威対策は今すぐ始めるべき＝Project Elevenレポート",
-      "link": "https://coinpost.jp/?p=707018",
-      "published": "Thu, 07 May 2026 14:30:03 +0900",
-      "isoDate": "2026-05-07T05:30:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン強気センチメント、4カ月ぶり高水準　Santimentが指摘",
-      "link": "https://coinpost.jp/?p=707028",
-      "published": "Thu, 07 May 2026 14:02:31 +0900",
-      "isoDate": "2026-05-07T05:02:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハット8、1.5兆円規模のAIデータセンター長期リース契約を締結",
-      "link": "https://coinpost.jp/?p=706926",
-      "published": "Thu, 07 May 2026 13:12:51 +0900",
-      "isoDate": "2026-05-07T04:12:51Z"
     }
   ]
 }
