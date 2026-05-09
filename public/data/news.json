@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08T23:30:02Z",
-  "last_checked": "2026-05-08T23:30:02Z",
+  "updated": "2026-05-09T01:18:13Z",
+  "last_checked": "2026-05-09T01:18:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "8日のNY市場は反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527254",
-      "published": "2026-05-08 23:00:08",
-      "isoDate": "2026-05-08T23:00:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株式市場は反発、雇用統計を好感",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527253",
       "published": "2026-05-08 23:00:07",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1526707",
       "published": "2026-05-08 15:13:50",
       "isoDate": "2026-05-08T15:13:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDisk株が過去最高値を更新、その理由とは？",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1526573",
+      "published": "2026-05-08 14:14:38",
+      "isoDate": "2026-05-08T14:14:38Z"
     },
     {
       "source": "Investing.com 外為",
