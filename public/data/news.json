@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T22:53:14Z",
-  "last_checked": "2026-05-09T22:53:14Z",
+  "updated": "2026-05-09T23:54:54Z",
+  "last_checked": "2026-05-09T23:54:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "中東の脆弱な停戦が続く中、米国はイランの戦争への対応を待つ",
+      "link": "https://jp.investing.com/news/economy-news/article-1527461",
+      "published": "2026-05-09 22:58:33",
+      "isoDate": "2026-05-09T22:58:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サイバーセキュリティ株はAIリスクの恩恵を受ける見通し",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527459",
       "published": "2026-05-09 21:46:47",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1527289",
       "published": "2026-05-09 01:24:35",
       "isoDate": "2026-05-09T01:24:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は反発、雇用統計を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527253",
-      "published": "2026-05-08 23:00:07",
-      "isoDate": "2026-05-08T23:00:07Z"
     },
     {
       "source": "Investing.com 外為",
