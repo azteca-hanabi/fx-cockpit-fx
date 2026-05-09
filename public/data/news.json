@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T21:55:18Z",
-  "last_checked": "2026-05-09T21:55:18Z",
+  "updated": "2026-05-09T22:53:14Z",
+  "last_checked": "2026-05-09T22:53:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "サイバーセキュリティ株はAIリスクの恩恵を受ける見通し",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527459",
+      "published": "2026-05-09 21:46:47",
+      "isoDate": "2026-05-09T21:46:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "UAEのOPEC脱退は「反OPECクラブ」誕生の始まりか",
       "link": "https://jp.investing.com/news/commodities-news/article-1527403",
       "published": "2026-05-09 19:16:56",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1527253",
       "published": "2026-05-08 23:00:07",
       "isoDate": "2026-05-08T23:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "8日の米国市場ダイジェスト：米国株式市場は反発、雇用統計を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1527208",
-      "published": "2026-05-08 22:00:05",
-      "isoDate": "2026-05-08T22:00:05Z"
     },
     {
       "source": "Investing.com 外為",
