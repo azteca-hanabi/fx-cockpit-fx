@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-09T11:26:32Z",
-  "last_checked": "2026-05-09T11:26:32Z",
+  "updated": "2026-05-09T12:34:20Z",
+  "last_checked": "2026-05-09T12:34:20Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティグループが分析：原油価格がさらに上昇しなかった理由",
+      "link": "https://jp.investing.com/news/commodities-news/article-1527358",
+      "published": "2026-05-09 11:48:23",
+      "isoDate": "2026-05-09T11:48:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中国の第1四半期金産出量が減少、投資需要は過去最高水準に",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1523610",
       "published": "2026-05-07 12:26:22",
       "isoDate": "2026-05-07T12:26:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中国、4月も金準備を増加―18カ月連続の買い増し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1523242",
-      "published": "2026-05-07 10:25:21",
-      "isoDate": "2026-05-07T10:25:21Z"
     }
   ],
   "usdjpy_items": [
