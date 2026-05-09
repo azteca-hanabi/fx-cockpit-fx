@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T10:15:21Z",
-  "last_checked": "2026-05-09T10:15:21Z",
+  "updated": "2026-05-09T11:26:32Z",
+  "last_checked": "2026-05-09T11:26:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "世界の石油は枯渇するのか？ゴールドマン・サックスが見解を示す",
+      "link": "https://jp.investing.com/news/economy-news/article-1527339",
+      "published": "2026-05-09 09:44:38",
+      "isoDate": "2026-05-09T09:44:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "バイトダンス、チップコスト上昇の中でAIインフラ予算を25%増額",
       "link": "https://jp.investing.com/news/company-news/article-1527334",
       "published": "2026-05-09 08:23:36",
@@ -90,24 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国、イランへの軍事支援をめぐり中国の衛星企業に制裁を発動",
-      "link": "https://jp.investing.com/news/economy-news/article-1527317",
-      "published": "2026-05-09 06:37:10",
-      "isoDate": "2026-05-09T06:37:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：短期的な過熱感意識、国内AI関連の決算や米中首脳会談など注目イベント",
       "link": "https://jp.investing.com/news/forex-news/article-1527313",
       "published": "2026-05-09 06:00:05",
       "isoDate": "2026-05-09T06:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国の輸出が14.1%急増、AIブームが戦争による混乱を上回る",
-      "link": "https://jp.investing.com/news/economy-news/article-1527301",
-      "published": "2026-05-09 05:14:27",
-      "isoDate": "2026-05-09T05:14:27Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1526707",
       "published": "2026-05-08 15:13:50",
       "isoDate": "2026-05-08T15:13:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDisk株が過去最高値を更新、その理由とは？",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1526573",
+      "published": "2026-05-08 14:14:38",
+      "isoDate": "2026-05-08T14:14:38Z"
     },
     {
       "source": "Investing.com 外為",
