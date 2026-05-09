@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-09T18:32:16Z",
-  "last_checked": "2026-05-09T18:32:16Z",
+  "updated": "2026-05-09T19:58:23Z",
+  "last_checked": "2026-05-09T19:58:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAEのOPEC脱退は「反OPECクラブ」誕生の始まりか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1527403",
+      "published": "2026-05-09 19:16:56",
+      "isoDate": "2026-05-09T19:16:56Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "シティグループが分析：原油価格がさらに上昇しなかった理由",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1524211",
       "published": "2026-05-07 16:15:59",
       "isoDate": "2026-05-07T16:15:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イランの和平交渉への期待から欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1523610",
-      "published": "2026-05-07 12:26:22",
-      "isoDate": "2026-05-07T12:26:22Z"
     }
   ],
   "usdjpy_items": [
