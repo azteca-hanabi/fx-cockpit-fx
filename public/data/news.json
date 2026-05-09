@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T12:34:20Z",
-  "last_checked": "2026-05-09T12:34:20Z",
+  "updated": "2026-05-09T14:18:15Z",
+  "last_checked": "2026-05-09T14:18:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "英国、ホルムズ海峡作戦に向け軍艦を中東に派遣",
+      "link": "https://jp.investing.com/news/economy-news/article-1527362",
+      "published": "2026-05-09 12:43:35",
+      "isoDate": "2026-05-09T12:43:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "世界の石油は枯渇するのか？ゴールドマン・サックスが見解を示す",
       "link": "https://jp.investing.com/news/economy-news/article-1527339",
       "published": "2026-05-09 09:44:38",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1527323",
       "published": "2026-05-09 07:30:05",
       "isoDate": "2026-05-09T07:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：短期的な過熱感意識、国内AI関連の決算や米中首脳会談など注目イベント",
-      "link": "https://jp.investing.com/news/forex-news/article-1527313",
-      "published": "2026-05-09 06:00:05",
-      "isoDate": "2026-05-09T06:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,83 @@
       "isoDate": "2026-05-08T14:11:38Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ・メディア1〜3月期決算、仮想通貨下落などで大幅損失　キャッシュフローは黒字維持",
+      "link": "https://coinpost.jp/?p=707576",
+      "published": "Sat, 09 May 2026 13:15:18 +0900",
+      "isoDate": "2026-05-09T04:15:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジーキャッシュ、量子コンピュータ耐性ロードマップを公表　クロスチェーン流入も好調",
+      "link": "https://coinpost.jp/?p=707564",
+      "published": "Sat, 09 May 2026 11:00:31 +0900",
+      "isoDate": "2026-05-09T02:00:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院銀行委員会、クラリティー法案を5月14日にマークアップ予定",
+      "link": "https://coinpost.jp/?p=707533",
+      "published": "Sat, 09 May 2026 10:20:37 +0900",
+      "isoDate": "2026-05-09T01:20:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベース、サービス障害発生後に取引再開　AWSデータセンターの過熱が原因と説明",
+      "link": "https://coinpost.jp/?p=707552",
+      "published": "Sat, 09 May 2026 08:10:38 +0900",
+      "isoDate": "2026-05-08T23:10:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "IRENがエヌビディアと戦略的提携、最大5GW規模の次世代AIインフラ構築へ",
+      "link": "https://coinpost.jp/?p=707537",
+      "published": "Sat, 09 May 2026 07:10:05 +0900",
+      "isoDate": "2026-05-08T22:10:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テラウルフ、HPC事業がBTCマイニング売上を初逆転",
+      "link": "https://coinpost.jp/?p=707538",
+      "published": "Sat, 09 May 2026 06:35:16 +0900",
+      "isoDate": "2026-05-08T21:35:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC委員長、オンチェーン金融に「規制の道筋」明示",
+      "link": "https://coinpost.jp/?p=707540",
+      "published": "Sat, 09 May 2026 05:45:32 +0900",
+      "isoDate": "2026-05-08T20:45:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国、2027年1月から仮想通貨課税を開始へ　税務当局が方針を正式確認",
+      "link": "https://coinpost.jp/?p=707494",
+      "published": "Fri, 08 May 2026 17:47:49 +0900",
+      "isoDate": "2026-05-08T08:47:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、来週にも上院銀行委でマークアップか　コインベース政策担当者が予想",
+      "link": "https://coinpost.jp/?p=707416",
+      "published": "Fri, 08 May 2026 13:45:31 +0900",
+      "isoDate": "2026-05-08T04:45:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "日本JCBAがステーキング事業の運営指針を策定、業界の健全化と利用者保護を推進",
+      "link": "https://coinpost.jp/?p=707339",
+      "published": "Fri, 08 May 2026 12:00:29 +0900",
+      "isoDate": "2026-05-08T03:00:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ氏一族関与のアメリカン・ビットコイン、26年1Qは約128億円の純損失　BTC採掘量は最高水準に",
+      "link": "https://coinpost.jp/?p=707291",
+      "published": "Fri, 08 May 2026 11:45:12 +0900",
+      "isoDate": "2026-05-08T02:45:12Z"
+    }
+  ]
 }
