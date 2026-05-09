@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T19:58:23Z",
-  "last_checked": "2026-05-09T19:58:23Z",
+  "updated": "2026-05-09T20:56:42Z",
+  "last_checked": "2026-05-09T20:56:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UAEのOPEC脱退は「反OPECクラブ」誕生の始まりか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1527403",
+      "published": "2026-05-09 19:16:56",
+      "isoDate": "2026-05-09T19:16:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "S&P 500が最高値を更新するも、バンク・オブ・アメリカはCTA買いの勢い鈍化を警告",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527385",
       "published": "2026-05-09 15:48:46",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1527208",
       "published": "2026-05-08 22:00:05",
       "isoDate": "2026-05-08T22:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週の注目株：チップ株急騰、エヌビディアが最高値更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1526978",
-      "published": "2026-05-08 18:13:11",
-      "isoDate": "2026-05-08T18:13:11Z"
     },
     {
       "source": "Investing.com 外為",
