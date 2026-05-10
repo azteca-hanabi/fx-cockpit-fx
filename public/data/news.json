@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-10T06:37:16Z",
-  "last_checked": "2026-05-10T06:37:16Z",
+  "updated": "2026-05-10T08:58:06Z",
+  "last_checked": "2026-05-10T08:58:06Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "マレーシア、イラン紛争で石油供給継続計画を発表へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1527486",
+      "published": "2026-05-10 06:33:53",
+      "isoDate": "2026-05-10T06:33:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UAEのOPEC脱退は「反OPECクラブ」誕生の始まりか",
@@ -64,16 +71,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1525190",
       "published": "2026-05-08 00:14:26",
       "isoDate": "2026-05-08T00:14:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランが貯蔵施設の満杯により日量40万バレルの石油生産を削減＝米エネルギー長官",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1524211",
-      "published": "2026-05-07 16:15:59",
-      "isoDate": "2026-05-07T16:15:59Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "今週のウォール街アナリスト注目コール",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527493",
+      "published": "2026-05-10 07:55:34",
+      "isoDate": "2026-05-10T07:55:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが8万ドルを突破――法整備の進展と銀行機能のシフトが追い風",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1527491",
+      "published": "2026-05-10 07:36:36",
+      "isoDate": "2026-05-10T07:36:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マレーシア、イラン紛争で石油供給継続計画を発表へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1527486",
+      "published": "2026-05-10 06:33:53",
+      "isoDate": "2026-05-10T06:33:53Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AI需要拡大で半導体セクターの時価総額が3.8兆ドル増加",
@@ -111,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "中東の脆弱な停戦が続く中、米国はイランの戦争への対応を待つ",
-      "link": "https://jp.investing.com/news/economy-news/article-1527461",
-      "published": "2026-05-09 22:58:33",
-      "isoDate": "2026-05-09T22:58:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "S&P 500が最高値を更新するも、バンク・オブ・アメリカはCTA買いの勢い鈍化を警告",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527385",
       "published": "2026-05-09 15:48:46",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "英国、ホルムズ海峡作戦に向け軍艦を中東に派遣",
-      "link": "https://jp.investing.com/news/economy-news/article-1527362",
-      "published": "2026-05-09 12:43:35",
-      "isoDate": "2026-05-09T12:43:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "バイトダンス、チップコスト上昇の中でAIインフラ予算を25%増額",
       "link": "https://jp.investing.com/news/company-news/article-1527334",
       "published": "2026-05-09 08:23:36",
       "isoDate": "2026-05-09T08:23:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：イラン和平協議の行方、米中首脳会談、国内外主要企業決算発表",
-      "link": "https://jp.investing.com/news/forex-news/article-1527323",
-      "published": "2026-05-09 07:30:05",
-      "isoDate": "2026-05-09T07:30:05Z"
     }
   ],
   "btc_items": [
