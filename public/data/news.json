@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T20:00:14Z",
-  "last_checked": "2026-05-10T20:00:14Z",
+  "updated": "2026-05-10T21:24:40Z",
+  "last_checked": "2026-05-10T21:24:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "エネルギーインフレがK字型経済の不確実性を高める",
+      "link": "https://jp.investing.com/news/economy-news/article-1527583",
+      "published": "2026-05-10 19:48:32",
+      "isoDate": "2026-05-10T19:48:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "エヌビディアのファン氏、AIが知性を誰もが使えるものにすると語る",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527576",
       "published": "2026-05-10 16:55:40",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1527474",
       "published": "2026-05-10 03:26:50",
       "isoDate": "2026-05-10T03:26:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "銀行業界とクリプト業界、上院法案のステーブルコイン報酬を巡り対立",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1527470",
-      "published": "2026-05-10 02:01:56",
-      "isoDate": "2026-05-10T02:01:56Z"
     },
     {
       "source": "Investing.com 外為",
