@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T11:28:02Z",
-  "last_checked": "2026-05-10T11:28:02Z",
+  "updated": "2026-05-10T12:10:47Z",
+  "last_checked": "2026-05-10T12:10:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アルマーニ、L’Oréal・EssilorLuxottica・LVMHに15%株式を均等分割か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527512",
+      "published": "2026-05-10 10:44:43",
+      "isoDate": "2026-05-10T10:44:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "5大アナリストAI動向：好決算受けウォール街がアドバンスト・マイクロ・デバイセズを格上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527500",
       "published": "2026-05-10 09:00:02",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1527385",
       "published": "2026-05-09 15:48:46",
       "isoDate": "2026-05-09T15:48:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "英国、ホルムズ海峡作戦に向け軍艦を中東に派遣",
-      "link": "https://jp.investing.com/news/economy-news/article-1527362",
-      "published": "2026-05-09 12:43:35",
-      "isoDate": "2026-05-09T12:43:35Z"
     }
   ],
   "btc_items": [
