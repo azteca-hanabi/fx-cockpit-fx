@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T03:47:16Z",
-  "last_checked": "2026-05-10T03:47:16Z",
+  "updated": "2026-05-10T06:37:16Z",
+  "last_checked": "2026-05-10T06:37:16Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AI需要拡大で半導体セクターの時価総額が3.8兆ドル増加",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527483",
+      "published": "2026-05-10 05:22:57",
+      "isoDate": "2026-05-10T05:22:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "トランプ・習近平首脳会談：知っておくべきすべてのこと",
       "link": "https://jp.investing.com/news/economy-news/article-1527474",
       "published": "2026-05-10 03:26:50",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1527461",
       "published": "2026-05-09 22:58:33",
       "isoDate": "2026-05-09T22:58:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サイバーセキュリティ株はAIリスクの恩恵を受ける見通し",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527459",
-      "published": "2026-05-09 21:46:47",
-      "isoDate": "2026-05-09T21:46:47Z"
     },
     {
       "source": "Investing.com 外為",
