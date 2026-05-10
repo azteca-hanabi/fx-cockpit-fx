@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T22:11:46Z",
-  "last_checked": "2026-05-10T22:11:46Z",
+  "updated": "2026-05-10T23:28:07Z",
+  "last_checked": "2026-05-10T23:28:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：中東情勢を巡る不透明感は払しょくされず",
+      "link": "https://jp.investing.com/news/forex-news/article-1527592",
+      "published": "2026-05-10 23:00:04",
+      "isoDate": "2026-05-10T23:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目イベント】米中首脳会談、イラン回答、パウエルFRB議長任期満了、米CPI",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527591",
+      "published": "2026-05-10 22:45:04",
+      "isoDate": "2026-05-10T22:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "エネルギーインフレがK字型経済の不確実性を高める",
       "link": "https://jp.investing.com/news/economy-news/article-1527583",
       "published": "2026-05-10 19:48:32",
@@ -111,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコインが8万ドルの節目を突破――法整備の進展と銀行シフトが追い風",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1527491",
-      "published": "2026-05-10 07:36:36",
-      "isoDate": "2026-05-10T07:36:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マレーシア、イラン紛争で石油供給継続計画を発表へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1527486",
       "published": "2026-05-10 06:33:53",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ・習近平首脳会談：知っておくべきすべてのこと",
-      "link": "https://jp.investing.com/news/economy-news/article-1527474",
-      "published": "2026-05-10 03:26:50",
-      "isoDate": "2026-05-10T03:26:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アジア市場、世界株式強気派の次なる成長エンジンとして浮上",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527466",
       "published": "2026-05-10 00:53:12",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "韓国の仮想通貨保有額、1年余りで半減　株式市場好調が資金吸収",
+      "link": "https://coinpost.jp/?p=707590",
+      "published": "Mon, 11 May 2026 08:13:31 +0900",
+      "isoDate": "2026-05-10T23:13:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "今週の主要仮想通貨材料まとめ、ETHのグラムステルダム集中作業やソラナとグーグルのAI決済発表など",
