@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T14:00:44Z",
-  "last_checked": "2026-05-10T14:00:44Z",
+  "updated": "2026-05-10T15:31:55Z",
+  "last_checked": "2026-05-10T15:31:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,13 +83,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "連邦準備制度の利上げがドル上昇の鍵となるか？バンク・オブ・アメリカが分析",
-      "link": "https://jp.investing.com/news/economy-news/article-1527521",
-      "published": "2026-05-10 11:33:55",
-      "isoDate": "2026-05-10T11:33:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "5大アナリストAI動向：好決算受けウォール街がアドバンスト・マイクロ・デバイセズを格上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1527500",
       "published": "2026-05-10 09:00:02",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1527474",
       "published": "2026-05-10 03:26:50",
       "isoDate": "2026-05-10T03:26:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "銀行業界とクリプト業界、上院法案のステーブルコイン報酬を巡り対立",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1527470",
+      "published": "2026-05-10 02:01:56",
+      "isoDate": "2026-05-10T02:01:56Z"
     },
     {
       "source": "Investing.com 外為",
