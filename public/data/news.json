@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-10T17:00:48Z",
-  "last_checked": "2026-05-10T17:00:48Z",
+  "updated": "2026-05-10T18:32:12Z",
+  "last_checked": "2026-05-10T18:32:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "エヌビディアのファン氏、AIが知性を誰もが使えるものにすると語る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527576",
+      "published": "2026-05-10 16:55:40",
+      "isoDate": "2026-05-10T16:55:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "新興国市場における一貫性の役割とは",
       "link": "https://jp.investing.com/news/economy-news/article-1527529",
       "published": "2026-05-10 12:47:57",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1527466",
       "published": "2026-05-10 00:53:12",
       "isoDate": "2026-05-10T00:53:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "本物の「キング」【フィスコ・コラム】",
-      "link": "https://jp.investing.com/news/forex-news/article-1527464",
-      "published": "2026-05-10 00:15:03",
-      "isoDate": "2026-05-10T00:15:03Z"
     }
   ],
   "btc_items": [
