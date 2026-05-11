@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-11T20:18:10Z",
-  "last_checked": "2026-05-11T20:18:10Z",
+  "updated": "2026-05-11T21:50:08Z",
+  "last_checked": "2026-05-11T21:50:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの紛争でアメリカが戦略石油備蓄から5330万バレルを貸し出し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1529627",
+      "published": "2026-05-11 20:38:02",
+      "isoDate": "2026-05-11T20:38:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ブレント原油100ドル超：JPモルガン・チェース・アンド・カンパニー、2026年も需給逼迫が続くと予測",
@@ -64,16 +71,37 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1527486",
       "published": "2026-05-10 06:33:53",
       "isoDate": "2026-05-10T06:33:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UAEのOPEC脱退は「反OPECクラブ」誕生の始まりか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1527403",
-      "published": "2026-05-09 19:16:56",
-      "isoDate": "2026-05-09T19:16:56Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは95.31ドル高、イラン緊張長期化を警戒もハイテクが押し上げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1529692",
+      "published": "2026-05-11 21:00:04",
+      "isoDate": "2026-05-11T21:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：HIMS、ACHR、HLIT、ABCL、PLUG、BZH、PSIX、ASTS",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1529622",
+      "published": "2026-05-11 20:37:02",
+      "isoDate": "2026-05-11T20:37:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "リゲッティ・コンピューティング、英国に最大1億ドルの量子技術投資を計画",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1529552",
+      "published": "2026-05-11 20:23:07",
+      "isoDate": "2026-05-11T20:23:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "プラグ・パワー、2026年第1四半期の売上高が22%増の1億6,350万ドルに",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1529459",
+      "published": "2026-05-11 20:03:08",
+      "isoDate": "2026-05-11T20:03:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AIチップ株の大規模な上昇は続くか？バーンスタインが見解を示す",
@@ -87,20 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1528601",
       "published": "2026-05-11 13:05:12",
       "isoDate": "2026-05-11T13:05:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アプライド・マテリアルズとTSMC、次世代AIチップ開発で提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1528576",
-      "published": "2026-05-11 13:04:45",
-      "isoDate": "2026-05-11T13:04:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ドイツ銀行、AI需要の強さを背景にマイクロンテクノロジーの目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1528443",
-      "published": "2026-05-11 12:33:55",
-      "isoDate": "2026-05-11T12:33:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ダウ・ナスダック・S&P500週間展望：インフレ指標に注目、第1四半期決算シーズン終盤へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1528289",
-      "published": "2026-05-11 11:46:48",
-      "isoDate": "2026-05-11T11:46:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "インテル株、アップルとのチップ供給契約報道で上昇続く",
       "link": "https://jp.investing.com/news/stock-market-news/article-1528232",
       "published": "2026-05-11 11:35:35",
       "isoDate": "2026-05-11T11:35:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル株の上昇継続にもかかわらず、バンク・オブ・アメリカが慎重姿勢を維持する理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527825",
-      "published": "2026-05-11 07:32:38",
-      "isoDate": "2026-05-11T07:32:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、先週イーサリアム購入ペースを大幅減速　従来の約4分の1に",
+      "link": "https://coinpost.jp/?p=707959",
+      "published": "Tue, 12 May 2026 05:55:33 +0900",
+      "isoDate": "2026-05-11T20:55:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン現物ETF、6週連続の純流入　先週は約975億円の資金流入",
@@ -215,20 +222,6 @@
       "link": "https://coinpost.jp/?p=707564",
       "published": "Sat, 09 May 2026 11:00:31 +0900",
       "isoDate": "2026-05-09T02:00:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院銀行委員会、クラリティー法案を5月14日にマークアップ予定",
-      "link": "https://coinpost.jp/?p=707533",
-      "published": "Sat, 09 May 2026 10:20:37 +0900",
-      "isoDate": "2026-05-09T01:20:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、サービス障害発生後に取引再開　AWSデータセンターの過熱が原因と説明",
-      "link": "https://coinpost.jp/?p=707552",
-      "published": "Sat, 09 May 2026 08:10:38 +0900",
-      "isoDate": "2026-05-08T23:10:38Z"
     }
   ]
 }
