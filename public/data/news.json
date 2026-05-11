@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T15:59:18Z",
-  "last_checked": "2026-05-11T15:59:18Z",
+  "updated": "2026-05-11T18:01:41Z",
+  "last_checked": "2026-05-11T18:01:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、核合意に向け主要要求を軟化させる可能性＝ストラテジスト",
-      "link": "https://jp.investing.com/news/politics-news/article-1528907",
-      "published": "2026-05-11 14:27:44",
-      "isoDate": "2026-05-11T14:27:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIチップ株の大規模な上昇は続くか？バーンスタインが見解を示す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1528770",
       "published": "2026-05-11 13:39:15",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1528232",
       "published": "2026-05-11 11:35:35",
       "isoDate": "2026-05-11T11:35:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株の上昇継続にもかかわらず、バンク・オブ・アメリカが慎重姿勢を維持する理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527825",
+      "published": "2026-05-11 07:32:38",
+      "isoDate": "2026-05-11T07:32:38Z"
     },
     {
       "source": "Investing.com 外為",
