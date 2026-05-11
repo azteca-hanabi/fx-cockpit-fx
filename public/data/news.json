@@ -1,17 +1,17 @@
 {
-  "updated": "2026-05-11T05:38:21Z",
-  "last_checked": "2026-05-11T05:38:21Z",
+  "updated": "2026-05-11T09:50:35Z",
+  "last_checked": "2026-05-11T09:50:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領のイラン発言が原油高を招き、金価格は下落",
+      "title": "金価格下落、トランプ氏のイラン発言が原油高とインフレ懸念を招く",
       "link": "https://jp.investing.com/news/commodities-news/article-1527626",
       "published": "2026-05-11 01:14:28",
       "isoDate": "2026-05-11T01:14:28Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国とイランの和平交渉決裂で原油価格が3%超急騰",
+      "title": "米国・イラン和平交渉が決裂、原油価格が5%急騰",
       "link": "https://jp.investing.com/news/commodities-news/article-1527607",
       "published": "2026-05-11 00:04:50",
       "isoDate": "2026-05-11T00:04:50Z"
@@ -76,49 +76,56 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小動き、ドルは上値が重い",
-      "link": "https://jp.investing.com/news/forex-news/article-1527719",
-      "published": "2026-05-11 05:00:12",
-      "isoDate": "2026-05-11T05:00:12Z"
+      "title": "日経平均テクニカル：続落、最高値更新し4日連続で下値切り上げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1527904",
+      "published": "2026-05-11 09:30:11",
+      "isoDate": "2026-05-11T09:30:11Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、売り一巡後は様子見",
-      "link": "https://jp.investing.com/news/forex-news/article-1527713",
-      "published": "2026-05-11 04:45:11",
-      "isoDate": "2026-05-11T04:45:11Z"
+      "title": "欧州為替：ドル・円は下げ渋り、原油相場にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1527893",
+      "published": "2026-05-11 09:15:17",
+      "isoDate": "2026-05-11T09:15:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は147円安でスタート、ソフトバンクGや任天堂などが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527703",
-      "published": "2026-05-11 04:15:11",
-      "isoDate": "2026-05-11T04:15:11Z"
+      "title": "トランプ大統領がイランの和平案を拒否、原油急騰で米航空株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527898",
+      "published": "2026-05-11 09:10:25",
+      "isoDate": "2026-05-11T09:10:25Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は続落、ソフトバンクGとアドバンテの2銘柄で約400円押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527689",
-      "published": "2026-05-11 03:45:12",
-      "isoDate": "2026-05-11T03:45:12Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は続落、ソフトバンクGとアドバンテの2銘柄で約578円押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527864",
+      "published": "2026-05-11 08:45:12",
+      "isoDate": "2026-05-11T08:45:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い先行もマイナス圏に転落",
-      "link": "https://jp.investing.com/news/forex-news/article-1527688",
-      "published": "2026-05-11 03:45:11",
-      "isoDate": "2026-05-11T03:45:11Z"
+      "title": "米株高を受け買い先行スタートも原油高や中東懸念から次第に利食い売りが優勢に【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1527838",
+      "published": "2026-05-11 08:15:12",
+      "isoDate": "2026-05-11T08:15:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "買い先行もマイナス圏に転落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527683",
-      "published": "2026-05-11 03:30:11",
-      "isoDate": "2026-05-11T03:30:11Z"
+      "title": "インテル株の上昇継続にもかかわらず、バンク・オブ・アメリカが慎重姿勢を維持する理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1527825",
+      "published": "2026-05-11 07:32:38",
+      "isoDate": "2026-05-11T07:32:38Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン発言が原油高を招き、金価格は下落",
+      "title": "東京為替：ドル・円は一進一退、ドル買いは継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1527772",
+      "published": "2026-05-11 06:30:12",
+      "isoDate": "2026-05-11T06:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格下落、トランプ氏のイラン発言が原油高とインフレ懸念を招く",
       "link": "https://jp.investing.com/news/commodities-news/article-1527626",
       "published": "2026-05-11 01:14:28",
       "isoDate": "2026-05-11T01:14:28Z"
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1527596",
       "published": "2026-05-10 23:30:04",
       "isoDate": "2026-05-10T23:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアのファン氏、AIが知性を誰もが使えるものにすると語る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1527576",
-      "published": "2026-05-10 16:55:40",
-      "isoDate": "2026-05-10T16:55:40Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF、6週連続の純流入　先週は約975億円の資金流入",
+      "link": "https://coinpost.jp/?p=707737",
+      "published": "Mon, 11 May 2026 14:54:33 +0900",
+      "isoDate": "2026-05-11T05:54:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "ブラックロック、トークン化MMF関連商品2件をSECに申請",
@@ -229,13 +236,6 @@
       "link": "https://coinpost.jp/?p=707537",
       "published": "Sat, 09 May 2026 07:10:05 +0900",
       "isoDate": "2026-05-08T22:10:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テラウルフ、HPC事業がBTCマイニング売上を初逆転",
-      "link": "https://coinpost.jp/?p=707538",
-      "published": "Sat, 09 May 2026 06:35:16 +0900",
-      "isoDate": "2026-05-08T21:35:16Z"
     }
   ]
 }
