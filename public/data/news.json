@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-12T19:59:50Z",
-  "last_checked": "2026-05-12T19:59:50Z",
+  "updated": "2026-05-12T21:36:47Z",
+  "last_checked": "2026-05-12T21:36:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "コートジボワール、カカオ農家の抗議を受け当局者を派遣",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1532000",
+      "published": "2026-05-12 20:00:38",
+      "isoDate": "2026-05-12T20:00:38Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イラン・ハルク島付近の原油流出、タンカーの廃水投棄が原因か",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1530484",
       "published": "2026-05-12 10:14:14",
       "isoDate": "2026-05-12T10:14:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ノルウェーの石油収入、イラン戦争によるエネルギー価格高騰で約180億ドル増加へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1530429",
-      "published": "2026-05-12 09:57:42",
-      "isoDate": "2026-05-12T09:57:42Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SanDiskの株価が本日急落している理由とは",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1531585",
-      "published": "2026-05-12 15:40:28",
-      "isoDate": "2026-05-12T15:40:28Z"
+      "title": "オクロ、商業化の進展が見えない中、第1四半期の赤字が拡大",
+      "link": "https://jp.investing.com/news/earnings/article-1532198",
+      "published": "2026-05-12 20:46:27",
+      "isoDate": "2026-05-12T20:46:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "5月12日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1531951",
+      "published": "2026-05-12 19:15:04",
+      "isoDate": "2026-05-12T19:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1531075",
       "published": "2026-05-12 13:02:19",
       "isoDate": "2026-05-12T13:02:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フォーティネット、AIセキュリティ強化でエヌビディアプラットフォームとFortiAIGateを統合",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1531071",
-      "published": "2026-05-12 13:01:24",
-      "isoDate": "2026-05-12T13:01:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バックト、ステーブルコイン事業へ全面転換",
+      "link": "https://coinpost.jp/?p=708235",
+      "published": "Wed, 13 May 2026 06:05:11 +0900",
+      "isoDate": "2026-05-12T21:05:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "KDDIがCoincheck Groupと資本提携を締結　合弁設立し仮想通貨ウォレット事業へ参入",
@@ -208,20 +215,6 @@
       "link": "https://coinpost.jp/?p=707984",
       "published": "Tue, 12 May 2026 09:50:21 +0900",
       "isoDate": "2026-05-12T00:50:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ETFなど、先週は1300億円超が純流入　BTC・ETH・XRP・ソラナなどの商品で需要増",
-      "link": "https://coinpost.jp/?p=707965",
-      "published": "Tue, 12 May 2026 07:22:11 +0900",
-      "isoDate": "2026-05-11T22:22:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップル・プライム、ニューバーガー・バーマンから2億ドル融資枠を確保",
-      "link": "https://coinpost.jp/?p=707957",
-      "published": "Tue, 12 May 2026 06:50:17 +0900",
-      "isoDate": "2026-05-11T21:50:17Z"
     }
   ]
 }
