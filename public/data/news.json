@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-12T07:23:49Z",
-  "last_checked": "2026-05-12T07:23:49Z",
+  "updated": "2026-05-12T10:05:19Z",
+  "last_checked": "2026-05-12T10:05:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランとの停戦を「瀕死状態」と発言、原油高が続く",
+      "title": "トランプ大統領、イランとの停戦は「生命維持装置」と発言——原油相場が続伸",
       "link": "https://jp.investing.com/news/commodities-news/article-1529936",
       "published": "2026-05-12 00:24:30",
       "isoDate": "2026-05-12T00:24:30Z"
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は小高い、原油高・ドル高",
+      "link": "https://jp.investing.com/news/forex-news/article-1530334",
+      "published": "2026-05-12 09:15:12",
+      "isoDate": "2026-05-12T09:15:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は下げ渋り、午後は一時156円台",
+      "link": "https://jp.investing.com/news/forex-news/article-1530278",
+      "published": "2026-05-12 08:30:16",
+      "isoDate": "2026-05-12T08:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "JX金属、扶桑化学、丸文など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1530187",
+      "published": "2026-05-12 07:30:13",
+      "isoDate": "2026-05-12T07:30:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は約1円安、為替介入に警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1530110",
       "published": "2026-05-12 06:30:15",
       "isoDate": "2026-05-12T06:30:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小動き、日本株高も円売り縮小",
-      "link": "https://jp.investing.com/news/forex-news/article-1530087",
-      "published": "2026-05-12 06:00:14",
-      "isoDate": "2026-05-12T06:00:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は高値もみ合い、様子見ムードで",
-      "link": "https://jp.investing.com/news/forex-news/article-1530069",
-      "published": "2026-05-12 05:15:14",
-      "isoDate": "2026-05-12T05:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "イビデン株が急騰、好決算と業績見通し引き上げが好感される",
       "link": "https://jp.investing.com/news/stock-market-news/article-1530048",
       "published": "2026-05-12 03:59:19",
       "isoDate": "2026-05-12T03:59:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "買い優勢でプラス圏で推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1530043",
-      "published": "2026-05-12 03:45:13",
-      "isoDate": "2026-05-12T03:45:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,83 @@
       "isoDate": "2026-05-11T11:48:40Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ブータン、100BTCを売却　保有残高は9月末に枯渇の可能性＝アーカム",
+      "link": "https://coinpost.jp/?p=708197",
+      "published": "Tue, 12 May 2026 17:41:29 +0900",
+      "isoDate": "2026-05-12T08:41:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、オンチェーン活動・収益性が同時改善　グラスノードが指摘",
+      "link": "https://coinpost.jp/?p=708152",
+      "published": "Tue, 12 May 2026 16:19:38 +0900",
+      "isoDate": "2026-05-12T07:19:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院銀行委、「クラリティ法案」草案を公開　ステーブルコイン利回り禁止など盛り込み",
+      "link": "https://coinpost.jp/?p=708137",
+      "published": "Tue, 12 May 2026 15:35:32 +0900",
+      "isoDate": "2026-05-12T06:35:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "マラソン決算、AIインフラ開発もビットコイン採掘は「基盤事業」",
+      "link": "https://coinpost.jp/?p=708032",
+      "published": "Tue, 12 May 2026 13:05:47 +0900",
+      "isoDate": "2026-05-12T04:05:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アーサー・ヘイズ、AI投資とドル流動性拡大でビットコインに追い風と分析",
+      "link": "https://coinpost.jp/?p=708080",
+      "published": "Tue, 12 May 2026 12:44:42 +0900",
+      "isoDate": "2026-05-12T03:44:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メルカリ第3四半期決算、営業利益70%増　メルコインの仮想通貨収益は横ばい",
+      "link": "https://coinpost.jp/?p=707954",
+      "published": "Tue, 12 May 2026 11:45:50 +0900",
+      "isoDate": "2026-05-12T02:45:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスがユーザー保護にAI活用、15カ月間で計約1.7兆円の潜在的被害を阻止",
+      "link": "https://coinpost.jp/?p=707989",
+      "published": "Tue, 12 May 2026 10:44:55 +0900",
+      "isoDate": "2026-05-12T01:44:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クリーンスパーク、1～3月期に590億円超の損失　保有ビットコインが大きく影響",
+      "link": "https://coinpost.jp/?p=707984",
+      "published": "Tue, 12 May 2026 09:50:21 +0900",
+      "isoDate": "2026-05-12T00:50:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、先週は1300億円超が純流入　BTC・ETH・XRP・ソラナなどの商品で需要増",
+      "link": "https://coinpost.jp/?p=707965",
+      "published": "Tue, 12 May 2026 07:22:11 +0900",
+      "isoDate": "2026-05-11T22:22:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リップル・プライム、ニューバーガー・バーマンから2億ドル融資枠を確保",
+      "link": "https://coinpost.jp/?p=707957",
+      "published": "Tue, 12 May 2026 06:50:17 +0900",
+      "isoDate": "2026-05-11T21:50:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、先週イーサリアム購入ペースを大幅減速　従来の約4分の1に",
+      "link": "https://coinpost.jp/?p=707959",
+      "published": "Tue, 12 May 2026 05:55:33 +0900",
+      "isoDate": "2026-05-11T20:55:33Z"
+    }
+  ]
 }
