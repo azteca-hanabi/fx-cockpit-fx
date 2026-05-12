@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-11T22:58:58Z",
-  "last_checked": "2026-05-11T22:58:58Z",
+  "updated": "2026-05-12T00:06:50Z",
+  "last_checked": "2026-05-12T00:06:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1物語コーポレーション、コナミグループ、サンワテクノスなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1529853",
-      "published": "2026-05-11 22:30:06",
-      "isoDate": "2026-05-11T22:30:06Z"
+      "title": "前場に注目すべき3つのポイント～いったん利益を確定しておきたいとのムードも高まりやすい～",
+      "link": "https://jp.investing.com/news/forex-news/article-1529915",
+      "published": "2026-05-11 23:45:09",
+      "isoDate": "2026-05-11T23:45:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SupermicroがVik Malyalaを最高事業責任者に任命",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1529796",
-      "published": "2026-05-11 21:48:08",
-      "isoDate": "2026-05-11T21:48:08Z"
+      "title": "いったん利益を確定しておきたいとのムードも高まりやすい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1529914",
+      "published": "2026-05-11 23:45:08",
+      "isoDate": "2026-05-11T23:45:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米イラン交渉行き詰まりで原油や金利が上昇、ドル・円は底堅く推移",
-      "link": "https://jp.investing.com/news/forex-news/article-1529788",
-      "published": "2026-05-11 21:45:05",
-      "isoDate": "2026-05-11T21:45:05Z"
+      "title": "米国株高を映して買い先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1529907",
+      "published": "2026-05-11 23:30:07",
+      "isoDate": "2026-05-11T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は続伸、イラン緊張長期化を警戒もハイテクが押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1529899",
+      "published": "2026-05-11 23:15:07",
+      "isoDate": "2026-05-11T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：原油高を警戒して米ドル買い・円売りは強まる可能性",
+      "link": "https://jp.investing.com/news/forex-news/article-1529879",
+      "published": "2026-05-11 23:00:07",
+      "isoDate": "2026-05-11T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "11日の米国市場ダイジェスト：米国株式市場は続伸、イラン緊張長期化を警戒もハイテクが押し上げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1529877",
+      "published": "2026-05-11 23:00:06",
+      "isoDate": "2026-05-11T23:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,20 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目銘柄：HIMS、ACHR、HLIT、ABCL、PLUG、BZH、PSIX、ASTS",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1529622",
-      "published": "2026-05-11 20:37:02",
-      "isoDate": "2026-05-11T20:37:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "リゲッティ・コンピューティング、英国に最大1億ドルの量子技術投資を計画",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1529552",
-      "published": "2026-05-11 20:23:07",
-      "isoDate": "2026-05-11T20:23:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "インテルとマイクロンテクノロジーが時間外取引で上昇、サータラは下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1528393",
       "published": "2026-05-11 12:20:10",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1528336",
       "published": "2026-05-11 11:48:40",
       "isoDate": "2026-05-11T11:48:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル株、アップルとのチップ供給契約報道で上昇続く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1528232",
-      "published": "2026-05-11 11:35:35",
-      "isoDate": "2026-05-11T11:35:35Z"
     }
   ],
   "btc_items": []
