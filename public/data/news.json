@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-12T17:33:54Z",
-  "last_checked": "2026-05-12T17:33:54Z",
+  "updated": "2026-05-12T19:59:50Z",
+  "last_checked": "2026-05-12T19:59:50Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イラン・ハルク島付近の原油流出、タンカーの廃水投棄が原因か",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531961",
+      "published": "2026-05-12 19:21:36",
+      "isoDate": "2026-05-12T19:21:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦が4%急騰、米国の作物生産量が54年ぶりの低水準へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531957",
+      "published": "2026-05-12 19:17:34",
+      "isoDate": "2026-05-12T19:17:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡封鎖でメキシコ産原油を3年ぶりに購入した日本の精油会社",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531852",
+      "published": "2026-05-12 17:47:28",
+      "isoDate": "2026-05-12T17:47:28Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "銅先物が本日急騰している理由とは",
@@ -50,36 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1530429",
       "published": "2026-05-12 09:57:42",
       "isoDate": "2026-05-12T09:57:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格下落、米イラン停戦の不安定化と米インフレ指標に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1530019",
-      "published": "2026-05-12 02:24:52",
-      "isoDate": "2026-05-12T02:24:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランとの停戦を「生命維持装置」と発言、原油続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-1529936",
-      "published": "2026-05-12 00:24:30",
-      "isoDate": "2026-05-12T00:24:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランとの紛争でアメリカが戦略石油備蓄から5330万バレルを貸し出し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1529627",
-      "published": "2026-05-11 20:38:02",
-      "isoDate": "2026-05-11T20:38:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米4月コアCPIは予想以上に加速、ドル買い優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1531163",
-      "published": "2026-05-12 13:15:05",
-      "isoDate": "2026-05-12T13:15:05Z"
+      "title": "SanDiskの株価が本日急落している理由とは",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1531585",
+      "published": "2026-05-12 15:40:28",
+      "isoDate": "2026-05-12T15:40:28Z"
     },
     {
       "source": "Investing.com 外為",
