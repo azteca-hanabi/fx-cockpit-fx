@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-13T13:36:56Z",
-  "last_checked": "2026-05-13T13:36:56Z",
+  "updated": "2026-05-13T16:23:46Z",
+  "last_checked": "2026-05-13T16:23:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "投資ファンド、ユーロネクスト取引所での小麦ポジションを削減",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534062",
+      "published": "2026-05-13 15:43:41",
+      "isoDate": "2026-05-13T15:43:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の輸送再開報道とトランプ氏の訪中で欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1533847",
+      "published": "2026-05-13 14:03:33",
+      "isoDate": "2026-05-13T14:03:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPECがイランとの戦争を受け2026年の石油需要見通しを下方修正",
@@ -32,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、イランとの和平交渉の後退とトランプ・習会談を前に小幅下落",
+      "title": "金価格、イランとの和平交渉の先行き不透明感とトランプ・習会談を前に小幅下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1532550",
       "published": "2026-05-13 01:44:25",
       "isoDate": "2026-05-13T01:44:25Z"
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531961",
       "published": "2026-05-12 19:21:36",
       "isoDate": "2026-05-12T19:21:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦が4%急騰、米国の作物生産量が54年ぶりの低水準へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531957",
-      "published": "2026-05-12 19:17:34",
-      "isoDate": "2026-05-12T19:17:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡封鎖でメキシコ産原油を3年ぶりに購入した日本の精油会社",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531852",
-      "published": "2026-05-12 17:47:28",
-      "isoDate": "2026-05-12T17:47:28Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "TSXフューチャーズ下落、トランプ大統領の中国訪問とインフレデータに注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1533678",
+      "published": "2026-05-13 13:30:13",
+      "isoDate": "2026-05-13T13:30:13Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米PPIは22年来で最高、ドル続伸",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1533550",
       "published": "2026-05-13 13:05:08",
       "isoDate": "2026-05-13T13:05:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ワークデイ、SanaエージェントをMicrosoft 365 Copilotに統合",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1533546",
-      "published": "2026-05-13 13:04:22",
-      "isoDate": "2026-05-13T13:04:22Z"
     },
     {
       "source": "Investing.com 外為",
