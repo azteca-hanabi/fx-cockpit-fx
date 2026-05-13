@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-13T16:23:46Z",
-  "last_checked": "2026-05-13T16:23:46Z",
+  "updated": "2026-05-13T18:24:47Z",
+  "last_checked": "2026-05-13T18:24:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "TSXフューチャーズ下落、トランプ大統領の中国訪問とインフレデータに注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1533678",
-      "published": "2026-05-13 13:30:13",
-      "isoDate": "2026-05-13T13:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【市場反応】米PPIは22年来で最高、ドル続伸",
       "link": "https://jp.investing.com/news/forex-news/article-1533596",
       "published": "2026-05-13 13:15:05",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1533176",
       "published": "2026-05-13 11:12:49",
       "isoDate": "2026-05-13T11:12:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は続伸、キオクシアHDやダイキンが2銘柄で約159円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1532799",
+      "published": "2026-05-13 08:00:19",
+      "isoDate": "2026-05-13T08:00:19Z"
     },
     {
       "source": "Investing.com 外為",
