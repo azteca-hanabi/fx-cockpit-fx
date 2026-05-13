@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-13T11:09:14Z",
-  "last_checked": "2026-05-13T11:09:14Z",
+  "updated": "2026-05-13T13:36:56Z",
+  "last_checked": "2026-05-13T13:36:56Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "OPECがイランとの戦争を受け2026年の石油需要見通しを下方修正",
+      "link": "https://jp.investing.com/news/commodities-news/article-1533349",
+      "published": "2026-05-13 12:12:11",
+      "isoDate": "2026-05-13T12:12:11Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "銅が史上最高値を更新、英国鉱業株が上昇",
@@ -25,7 +32,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、イランとの和平交渉の暗雲とトランプ・習会談を前に小幅下落",
+      "title": "金価格、イランとの和平交渉の後退とトランプ・習会談を前に小幅下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1532550",
       "published": "2026-05-13 01:44:25",
       "isoDate": "2026-05-13T01:44:25Z"
@@ -64,57 +71,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531852",
       "published": "2026-05-12 17:47:28",
       "isoDate": "2026-05-12T17:47:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅先物が本日急騰している理由とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531420",
-      "published": "2026-05-12 14:25:28",
-      "isoDate": "2026-05-12T14:25:28Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円はじり高、158円に接近",
-      "link": "https://jp.investing.com/news/forex-news/article-1533041",
-      "published": "2026-05-13 10:30:10",
-      "isoDate": "2026-05-13T10:30:10Z"
+      "title": "【市場反応】米PPIは22年来で最高、ドル続伸",
+      "link": "https://jp.investing.com/news/forex-news/article-1533596",
+      "published": "2026-05-13 13:15:05",
+      "isoDate": "2026-05-13T13:15:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "モルガン・スタンレー、堅調な企業業績を背景にS&P 500の目標株価を8300に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532930",
-      "published": "2026-05-13 09:28:55",
-      "isoDate": "2026-05-13T09:28:55Z"
+      "title": "エヌビディア、強化学習分野でIneffable Intelligenceと提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1533550",
+      "published": "2026-05-13 13:05:08",
+      "isoDate": "2026-05-13T13:05:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "13%超の上昇、AIが選んだ高確信銘柄が急騰している理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532858",
-      "published": "2026-05-13 08:35:36",
-      "isoDate": "2026-05-13T08:35:36Z"
+      "title": "ワークデイ、SanaエージェントをMicrosoft 365 Copilotに統合",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1533546",
+      "published": "2026-05-13 13:04:22",
+      "isoDate": "2026-05-13T13:04:22Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領が中国訪問、シスコ・システムズが決算発表へ――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1532827",
-      "published": "2026-05-13 08:19:56",
-      "isoDate": "2026-05-13T08:19:56Z"
+      "title": "大幅な株価上昇を受け、大和がアドバンスト・マイクロ・デバイセズを格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1533519",
+      "published": "2026-05-13 12:59:22",
+      "isoDate": "2026-05-13T12:59:22Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は続伸、キオクシアHDやダイキンが2銘柄で約159円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532799",
-      "published": "2026-05-13 08:00:19",
-      "isoDate": "2026-05-13T08:00:19Z"
+      "title": "ネビウス、好決算と売上高の予想超えで株価急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1533249",
+      "published": "2026-05-13 11:39:29",
+      "isoDate": "2026-05-13T11:39:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AI関連株などが買い直され、史上最高値更新【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1532798",
-      "published": "2026-05-13 08:00:17",
-      "isoDate": "2026-05-13T08:00:17Z"
+      "title": "ネビウス株が決算好調と強気見通しで約15%急騰",
+      "link": "https://jp.investing.com/news/earnings/article-93CH-1533185",
+      "published": "2026-05-13 11:18:04",
+      "isoDate": "2026-05-13T11:18:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネビウス・グループ、Q1株主書簡の主要ハイライト",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1533178",
+      "published": "2026-05-13 11:14:07",
+      "isoDate": "2026-05-13T11:14:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaのファンCEOがトランプ大統領と訪中、AIチップ株が再び急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1533176",
+      "published": "2026-05-13 11:12:49",
+      "isoDate": "2026-05-13T11:12:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、米中首脳会談で習主席に中国市場の「開放」を要求へ",
+      "title": "トランプ大統領、首脳会談前に北京入り――米中協議が本格化",
       "link": "https://jp.investing.com/news/economy-news/article-1532608",
       "published": "2026-05-13 04:28:53",
       "isoDate": "2026-05-13T04:28:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーの急騰を見逃した理由：MUが90%上昇した「見えない」触媒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1530922",
-      "published": "2026-05-12 12:13:28",
-      "isoDate": "2026-05-12T12:13:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIへの課税懸念で約300億ドル消失：サムスン、Nvidia、半導体株が下落した理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1530685",
-      "published": "2026-05-12 11:04:35",
-      "isoDate": "2026-05-12T11:04:35Z"
     }
   ],
   "btc_items": [
