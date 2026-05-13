@@ -1,10 +1,17 @@
 {
-  "updated": "2026-05-13T01:23:43Z",
-  "last_checked": "2026-05-13T01:23:43Z",
+  "updated": "2026-05-13T05:13:06Z",
+  "last_checked": "2026-05-13T05:13:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格、3日続伸後に小反落―ホルムズ封鎖と米在庫を注視",
+      "title": "金価格、イラン和平交渉の後退とトランプ・習会談を前に横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-1532550",
+      "published": "2026-05-13 01:44:25",
+      "isoDate": "2026-05-13T01:44:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、3日続伸後に小幅下落——ホルムズ封鎖とトランプ・習会談を注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1532508",
       "published": "2026-05-13 00:30:09",
       "isoDate": "2026-05-13T00:30:09Z"
@@ -64,57 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1531051",
       "published": "2026-05-12 12:59:10",
       "isoDate": "2026-05-12T12:59:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドでロシア産ウラル原油のプレミアムが低下、製油所が購入を削減",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1530815",
-      "published": "2026-05-12 11:51:43",
-      "isoDate": "2026-05-12T11:51:43Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物が小幅下落、イランとの緊張とCPI上振れが重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532495",
-      "published": "2026-05-13 00:10:39",
-      "isoDate": "2026-05-13T00:10:39Z"
+      "title": "米国株見通し：下げ渋りか、インフレ意識も中国関連に期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1532610",
+      "published": "2026-05-13 04:45:16",
+      "isoDate": "2026-05-13T04:45:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 5/13",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532489",
-      "published": "2026-05-13 00:00:09",
-      "isoDate": "2026-05-13T00:00:09Z"
+      "title": "トランプ大統領、習近平主席に中国市場の「開放」を要求へ",
+      "link": "https://jp.investing.com/news/economy-news/article-1532608",
+      "published": "2026-05-13 04:28:53",
+      "isoDate": "2026-05-13T04:28:53Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンクグループにらみの相場展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532476",
-      "published": "2026-05-12 23:30:08",
-      "isoDate": "2026-05-12T23:30:08Z"
+      "title": "東京為替：ドル・円は底堅い、ドル買い継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1532597",
+      "published": "2026-05-13 04:15:15",
+      "isoDate": "2026-05-13T04:15:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米ハイテク株安を映して利食い売り先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532475",
-      "published": "2026-05-12 23:30:07",
-      "isoDate": "2026-05-12T23:30:07Z"
+      "title": "後場に注目すべき3つのポイント～売り先行も切り返してプラス圏に浮上",
+      "link": "https://jp.investing.com/news/forex-news/article-1532589",
+      "published": "2026-05-13 03:45:15",
+      "isoDate": "2026-05-13T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AnthropicがStainlessを3億ドルで買収交渉中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532473",
-      "published": "2026-05-12 23:25:19",
-      "isoDate": "2026-05-12T23:25:19Z"
+      "title": "日経平均は続伸、キオクシアHDが1銘柄で約59円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1532588",
+      "published": "2026-05-13 03:30:16",
+      "isoDate": "2026-05-13T03:30:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場はまちまち、CPI加速と原油高でインフレ懸念高まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532461",
-      "published": "2026-05-12 23:15:07",
-      "isoDate": "2026-05-12T23:15:07Z"
+      "title": "売り先行も切り返してプラス圏に浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1532581",
+      "published": "2026-05-13 03:15:13",
+      "isoDate": "2026-05-13T03:15:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イラン戦争は一時的な停戦、金はレンジ相場が続く　サンワード証券の陳氏",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1532529",
+      "published": "2026-05-13 01:00:11",
+      "isoDate": "2026-05-13T01:00:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1532406",
       "published": "2026-05-12 22:15:06",
       "isoDate": "2026-05-12T22:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピック、新たな資金調達で評価額9000億ドル超を目指す―ブルームバーグ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1532331",
-      "published": "2026-05-12 21:30:05",
-      "isoDate": "2026-05-12T21:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米控訴裁が審理、最古の仮想通貨ミキサー「ビットコインフォグ」に米国法は適用可能か",
+      "link": "https://coinpost.jp/?p=708297",
+      "published": "Wed, 13 May 2026 13:50:08 +0900",
+      "isoDate": "2026-05-13T04:50:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブロックチェーン分析企業エリプティック、ナスダック・ベンチャーズやドイツ銀行などから約188億円を調達",
+      "link": "https://coinpost.jp/?p=708306",
+      "published": "Wed, 13 May 2026 12:46:13 +0900",
+      "isoDate": "2026-05-13T03:46:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "日本ブロックチェーン基盤、信託型ステーブルコイン「EJPY」を発行へ",
+      "link": "https://coinpost.jp/?p=708261",
+      "published": "Wed, 13 May 2026 11:02:21 +0900",
+      "isoDate": "2026-05-13T02:02:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "米国でハイパーリキッド現物ETF取引開始、上場初日に好調な取引高を記録",
@@ -187,27 +208,6 @@
       "link": "https://coinpost.jp/?p=708197",
       "published": "Tue, 12 May 2026 17:41:29 +0900",
       "isoDate": "2026-05-12T08:41:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、オンチェーン活動・収益性が同時改善　グラスノードが指摘",
-      "link": "https://coinpost.jp/?p=708152",
-      "published": "Tue, 12 May 2026 16:19:38 +0900",
-      "isoDate": "2026-05-12T07:19:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院銀行委、「クラリティー法案」草案を公開　ステーブルコイン利回り禁止など盛り込み",
-      "link": "https://coinpost.jp/?p=708137",
-      "published": "Tue, 12 May 2026 15:35:32 +0900",
-      "isoDate": "2026-05-12T06:35:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マラソン決算、AIインフラ開発もビットコイン採掘は「基盤事業」",
-      "link": "https://coinpost.jp/?p=708032",
-      "published": "Tue, 12 May 2026 13:05:47 +0900",
-      "isoDate": "2026-05-12T04:05:47Z"
     }
   ]
 }
