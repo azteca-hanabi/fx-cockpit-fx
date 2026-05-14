@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-14T15:41:55Z",
-  "last_checked": "2026-05-14T15:41:55Z",
+  "updated": "2026-05-14T17:57:39Z",
+  "last_checked": "2026-05-14T17:57:39Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドが宝飾品輸出業者への無税金輸入を100キログラムに上限設定",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536379",
+      "published": "2026-05-14 15:26:49",
+      "isoDate": "2026-05-14T15:26:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "韓国、4月のイラン産原油輸入ゼロ―総輸入量も減少",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534062",
       "published": "2026-05-13 15:43:41",
       "isoDate": "2026-05-13T15:43:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の輸送再開報道とトランプ氏の訪中で欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1533847",
-      "published": "2026-05-13 14:03:33",
-      "isoDate": "2026-05-13T14:03:33Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "キーバンク、割高感を理由にアップル株に慎重姿勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1536242",
-      "published": "2026-05-14 14:20:42",
-      "isoDate": "2026-05-14T14:20:42Z"
+      "title": "セレブラス、ナスダック上場初日に89%急騰――時価総額1000億ドルに",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1536513",
+      "published": "2026-05-14 17:11:22",
+      "isoDate": "2026-05-14T17:11:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、ポートフォリオを刷新——エヌビディアなどAI関連銘柄を新規取得",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1536445",
+      "published": "2026-05-14 16:15:48",
+      "isoDate": "2026-05-14T16:15:48Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,7 +97,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ・習会談を受け、TSX先物が上昇",
+      "title": "トランプ・習会談を受け、TSX（トロント証券取引所）が上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1536029",
       "published": "2026-05-14 13:16:12",
       "isoDate": "2026-05-14T13:16:12Z"
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1535254",
       "published": "2026-05-14 09:17:31",
       "isoDate": "2026-05-14T09:17:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フジクラの決算をきっかけに利食いが膨らむ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1535149",
-      "published": "2026-05-14 08:15:24",
-      "isoDate": "2026-05-14T08:15:24Z"
     },
     {
       "source": "Investing.com 外為",
