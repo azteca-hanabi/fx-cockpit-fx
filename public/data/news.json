@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-14T17:57:39Z",
-  "last_checked": "2026-05-14T17:57:39Z",
+  "updated": "2026-05-14T19:57:24Z",
+  "last_checked": "2026-05-14T19:57:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル・円157円台前半、円急反発、神経質な展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1536184",
-      "published": "2026-05-14 14:00:07",
-      "isoDate": "2026-05-14T14:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "トランプ・習会談を受け、TSX（トロント証券取引所）が上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1536029",
       "published": "2026-05-14 13:16:12",
@@ -104,7 +97,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIチップメーカーCerebras SystemsのIPO、新規AI銘柄への需要を試す",
+      "title": "チップメーカーCerebrasのIPOが急騰、AIへの強い投資需要を示す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1535981",
       "published": "2026-05-14 13:08:20",
       "isoDate": "2026-05-14T13:08:20Z"
@@ -139,6 +132,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "フジクラの決算をきっかけに利食いが膨らむ【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1535149",
+      "published": "2026-05-14 08:15:24",
+      "isoDate": "2026-05-14T08:15:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "セレブラス・システムズ、IPO価格を1株185ドルに設定しナスダックに上場へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1534789",
       "published": "2026-05-13 23:46:08",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法案が米上院銀行委員会を通過、異例な超党派採決も本会議は不透明",
+      "link": "https://coinpost.jp/?p=708443",
+      "published": "Fri, 15 May 2026 03:30:33 +0900",
+      "isoDate": "2026-05-14T18:30:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "フィスコが仮想通貨事業から撤退　FSCC施策を全終了へ",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=708446",
       "published": "Thu, 14 May 2026 07:25:45 +0900",
       "isoDate": "2026-05-13T22:25:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法、委員会採決前夜に100本超の修正案が乱立　倫理条項の合意が焦点に",
-      "link": "https://coinpost.jp/?p=708447",
-      "published": "Thu, 14 May 2026 07:00:50 +0900",
-      "isoDate": "2026-05-13T22:00:50Z"
     }
   ]
 }
