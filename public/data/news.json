@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-13T23:09:29Z",
-  "last_checked": "2026-05-13T23:09:29Z",
+  "updated": "2026-05-14T01:26:52Z",
+  "last_checked": "2026-05-14T01:26:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格は横ばい――トランプ・習会談とイラン情勢を市場が注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-1534830",
+      "published": "2026-05-14 00:39:56",
+      "isoDate": "2026-05-14T00:39:56Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油と植物油の下落でキャノーラ先物が値下がり",
@@ -64,22 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1532828",
       "published": "2026-05-13 08:22:49",
       "isoDate": "2026-05-13T08:22:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、イランとの和平交渉の先行き不透明感とトランプ・習会談を前に小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1532550",
-      "published": "2026-05-13 01:44:25",
-      "isoDate": "2026-05-13T01:44:25Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：小幅高で4706.70ドル、原油先物の値下がりを意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1534750",
-      "published": "2026-05-13 22:45:07",
-      "isoDate": "2026-05-13T22:45:07Z"
+      "title": "個別銘柄戦略: ソフトバンクGやハーモニックに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1534800",
+      "published": "2026-05-14 00:15:10",
+      "isoDate": "2026-05-14T00:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比920円高の63420円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1534801",
+      "published": "2026-05-14 00:15:10",
+      "isoDate": "2026-05-14T00:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "セレブラス・システムズ、IPO価格を1株185ドルに設定しナスダックに上場へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1534789",
+      "published": "2026-05-13 23:46:08",
+      "isoDate": "2026-05-13T23:46:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 5/14",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1534784",
+      "published": "2026-05-13 23:45:09",
+      "isoDate": "2026-05-13T23:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米テック株高を受け買い先行スタートか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1534779",
+      "published": "2026-05-13 23:30:08",
+      "isoDate": "2026-05-13T23:30:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、インフレ加速もハイテクが支援",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1534774",
+      "published": "2026-05-13 23:15:07",
+      "isoDate": "2026-05-13T23:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,34 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "5月13日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1534272",
-      "published": "2026-05-13 19:00:05",
-      "isoDate": "2026-05-13T19:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、強化学習分野でIneffable Intelligenceと提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1533550",
-      "published": "2026-05-13 13:05:08",
-      "isoDate": "2026-05-13T13:05:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "大幅な株価上昇を受け、大和がアドバンスト・マイクロ・デバイセズを格下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1533519",
-      "published": "2026-05-13 12:59:22",
-      "isoDate": "2026-05-13T12:59:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ネビウス・グループ、Q1株主書簡の主要ハイライト",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1533178",
-      "published": "2026-05-13 11:14:07",
-      "isoDate": "2026-05-13T11:14:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaのファンCEOがトランプ大統領と訪中、AIチップ株が再び急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1533176",
       "published": "2026-05-13 11:12:49",
@@ -136,16 +143,30 @@
       "link": "https://jp.investing.com/news/earnings/article-1532738",
       "published": "2026-05-13 07:00:24",
       "isoDate": "2026-05-13T07:00:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、首脳会談前に北京入り――米中協議が本格化",
-      "link": "https://jp.investing.com/news/economy-news/article-1532608",
-      "published": "2026-05-13 04:28:53",
-      "isoDate": "2026-05-13T04:28:53Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "キヨサキ氏、インフレ警告　金・銀・ビットコイン・イーサリアムで資産防衛促す",
+      "link": "https://coinpost.jp/?p=708496",
+      "published": "Thu, 14 May 2026 09:59:40 +0900",
+      "isoDate": "2026-05-14T00:59:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米金融大手フィデリティ、チェーンリンク基盤のトークン化米国債ファンド「FILQ」ローンチ",
+      "link": "https://coinpost.jp/?p=708481",
+      "published": "Thu, 14 May 2026 09:35:28 +0900",
+      "isoDate": "2026-05-14T00:35:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "新興ブロックチェーンの資金調達の3つの示唆、ビットワイズの幹部が提示",
+      "link": "https://coinpost.jp/?p=708465",
+      "published": "Thu, 14 May 2026 08:50:59 +0900",
+      "isoDate": "2026-05-13T23:50:59Z"
+    },
     {
       "source": "CoinPost",
       "title": "人工知能Claudeが11年間紛失のビットコイン復元に成功、6200万円超資産を救出",
@@ -208,27 +229,6 @@
       "link": "https://coinpost.jp/?p=708306",
       "published": "Wed, 13 May 2026 12:46:13 +0900",
       "isoDate": "2026-05-13T03:46:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "日本ブロックチェーン基盤、信託型ステーブルコイン「EJPY」を発行へ",
-      "link": "https://coinpost.jp/?p=708261",
-      "published": "Wed, 13 May 2026 11:02:21 +0900",
-      "isoDate": "2026-05-13T02:02:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国でハイパーリキッド現物ETF取引開始、上場初日に好調な取引高を記録",
-      "link": "https://coinpost.jp/?p=708270",
-      "published": "Wed, 13 May 2026 09:55:13 +0900",
-      "isoDate": "2026-05-13T00:55:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国のXRP現物ETF、11日に40億円超が純流入　約4カ月間で最大規模",
-      "link": "https://coinpost.jp/?p=708246",
-      "published": "Wed, 13 May 2026 08:20:33 +0900",
-      "isoDate": "2026-05-12T23:20:33Z"
     }
   ]
 }
