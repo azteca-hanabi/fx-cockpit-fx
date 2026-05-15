@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T20:41:07Z",
-  "last_checked": "2026-05-15T20:41:07Z",
+  "updated": "2026-05-15T22:02:56Z",
+  "last_checked": "2026-05-15T22:02:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "セレブラス・システムズ、NASDAQで63億8000万ドルのIPOを完了",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1538518",
-      "published": "2026-05-15 20:06:26",
-      "isoDate": "2026-05-15T20:06:26Z"
+      "title": "5月15日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1538485",
+      "published": "2026-05-15 19:30:05",
+      "isoDate": "2026-05-15T19:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,97 @@
       "isoDate": "2026-05-14T16:15:48Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "21SharesのHYPE現物ETF、過去最高出来高を記録　コインベースの提携発表が呼び水に",
+      "link": "https://coinpost.jp/?p=709071",
+      "published": "Sat, 16 May 2026 06:35:23 +0900",
+      "isoDate": "2026-05-15T21:35:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米大手取引所ICE・CME、ハイパーリキッド規制をCFTCに要請",
+      "link": "https://coinpost.jp/?p=709072",
+      "published": "Sat, 16 May 2026 05:55:33 +0900",
+      "isoDate": "2026-05-15T20:55:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁、仮想通貨仲介業の登録説明会を開催　6月上旬施行に向け解釈明確化へ",
+      "link": "https://coinpost.jp/?p=708806",
+      "published": "Fri, 15 May 2026 19:33:27 +0900",
+      "isoDate": "2026-05-15T10:33:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
+      "link": "https://coinpost.jp/?p=708995",
+      "published": "Fri, 15 May 2026 17:25:00 +0900",
+      "isoDate": "2026-05-15T08:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
+      "link": "https://coinpost.jp/?p=708958",
+      "published": "Fri, 15 May 2026 16:13:04 +0900",
+      "isoDate": "2026-05-15T07:13:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
+      "link": "https://coinpost.jp/?p=708857",
+      "published": "Fri, 15 May 2026 14:00:26 +0900",
+      "isoDate": "2026-05-15T05:00:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
+      "link": "https://coinpost.jp/?p=708837",
+      "published": "Fri, 15 May 2026 13:25:09 +0900",
+      "isoDate": "2026-05-15T04:25:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テザー社・トロン・TRM Labs、24年9月以降に計700億円超の不法資産を凍結",
+      "link": "https://coinpost.jp/?p=708813",
+      "published": "Fri, 15 May 2026 11:20:14 +0900",
+      "isoDate": "2026-05-15T02:20:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DeFiデベロップメント2026年1～3月期決算、ソラナ保有拡大と転換社債買い戻しを報告",
+      "link": "https://coinpost.jp/?p=708787",
+      "published": "Fri, 15 May 2026 10:05:00 +0900",
+      "isoDate": "2026-05-15T01:05:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン、イーサリアムとアルトコインのビットコイン劣後「当面続く」と警告＝報道",
+      "link": "https://coinpost.jp/?p=708791",
+      "published": "Fri, 15 May 2026 09:44:17 +0900",
+      "isoDate": "2026-05-15T00:44:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースがハイパーリキッドでUSDCの利用を促進、USDH市場は段階的に終了へ",
+      "link": "https://coinpost.jp/?p=708765",
+      "published": "Fri, 15 May 2026 09:25:35 +0900",
+      "isoDate": "2026-05-15T00:25:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン上昇、米クラリティー法案の進展を好感　焦点は上院60票の壁｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=708772",
+      "published": "Fri, 15 May 2026 09:05:02 +0900",
+      "isoDate": "2026-05-15T00:05:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジェミナイQ1決算、売上高42%増　予測市場に本格参入",
+      "link": "https://coinpost.jp/?p=708749",
+      "published": "Fri, 15 May 2026 08:40:29 +0900",
+      "isoDate": "2026-05-14T23:40:29Z"
+    }
+  ]
 }
