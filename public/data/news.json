@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-15T19:06:07Z",
-  "last_checked": "2026-05-15T19:06:07Z",
+  "updated": "2026-05-15T20:41:07Z",
+  "last_checked": "2026-05-15T20:41:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物が4週間ぶり安値、米中貿易協議の詳細不透明で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538495",
+      "published": "2026-05-15 19:42:19",
+      "isoDate": "2026-05-15T19:42:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米大豆先物、米中首脳会談の失望感で2週間ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538491",
+      "published": "2026-05-15 19:39:05",
+      "isoDate": "2026-05-15T19:39:05Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージン、在庫増加で14%下落",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1536059",
       "published": "2026-05-14 13:25:22",
       "isoDate": "2026-05-14T13:25:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "HSBCが銀の価格目標を引き上げも、上昇余地は限定的と見る",
-      "link": "https://jp.investing.com/news/commodities-news/article-1535691",
-      "published": "2026-05-14 11:44:21",
-      "isoDate": "2026-05-14T11:44:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ・習会談を注視、金価格は横ばい",
-      "link": "https://jp.investing.com/news/commodities-news/article-1534877",
-      "published": "2026-05-14 01:33:41",
-      "isoDate": "2026-05-14T01:33:41Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "セレブラス・システムズ、NASDAQで63億8000万ドルのIPOを完了",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1538518",
+      "published": "2026-05-15 20:06:26",
+      "isoDate": "2026-05-15T20:06:26Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "Investing.comが選ぶ今週の注目株",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1538170",
       "published": "2026-05-15 14:01:19",
       "isoDate": "2026-05-15T14:01:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米5月NY連銀製造業景気指数は4年ぶりの高水準、ドル買い強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1537987",
-      "published": "2026-05-15 13:00:08",
-      "isoDate": "2026-05-15T13:00:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,97 +145,5 @@
       "isoDate": "2026-05-14T16:15:48Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "金融庁、仮想通貨仲介業の登録説明会を開催　6月上旬施行に向け解釈明確化へ",
-      "link": "https://coinpost.jp/?p=708806",
-      "published": "Fri, 15 May 2026 19:33:27 +0900",
-      "isoDate": "2026-05-15T10:33:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
-      "link": "https://coinpost.jp/?p=708995",
-      "published": "Fri, 15 May 2026 17:25:00 +0900",
-      "isoDate": "2026-05-15T08:25:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
-      "link": "https://coinpost.jp/?p=708958",
-      "published": "Fri, 15 May 2026 16:13:04 +0900",
-      "isoDate": "2026-05-15T07:13:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
-      "link": "https://coinpost.jp/?p=708857",
-      "published": "Fri, 15 May 2026 14:00:26 +0900",
-      "isoDate": "2026-05-15T05:00:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
-      "link": "https://coinpost.jp/?p=708837",
-      "published": "Fri, 15 May 2026 13:25:09 +0900",
-      "isoDate": "2026-05-15T04:25:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テザー社・トロン・TRM Labs、24年9月以降に計700億円超の不法資産を凍結",
-      "link": "https://coinpost.jp/?p=708813",
-      "published": "Fri, 15 May 2026 11:20:14 +0900",
-      "isoDate": "2026-05-15T02:20:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "DeFiデベロップメント2026年1～3月期決算、ソラナ保有拡大と転換社債買い戻しを報告",
-      "link": "https://coinpost.jp/?p=708787",
-      "published": "Fri, 15 May 2026 10:05:00 +0900",
-      "isoDate": "2026-05-15T01:05:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPモルガン、イーサリアムとアルトコインのビットコイン劣後「当面続く」と警告＝報道",
-      "link": "https://coinpost.jp/?p=708791",
-      "published": "Fri, 15 May 2026 09:44:17 +0900",
-      "isoDate": "2026-05-15T00:44:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースがハイパーリキッドでUSDCの利用を促進、USDH市場は段階的に終了へ",
-      "link": "https://coinpost.jp/?p=708765",
-      "published": "Fri, 15 May 2026 09:25:35 +0900",
-      "isoDate": "2026-05-15T00:25:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上昇、米クラリティー法案の進展を好感　焦点は上院60票の壁｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=708772",
-      "published": "Fri, 15 May 2026 09:05:02 +0900",
-      "isoDate": "2026-05-15T00:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジェミナイQ1決算、売上高42%増　予測市場に本格参入",
-      "link": "https://coinpost.jp/?p=708749",
-      "published": "Fri, 15 May 2026 08:40:29 +0900",
-      "isoDate": "2026-05-14T23:40:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米VC大手a16zが今夏に日本初拠点を設立、創業者が高市首相に直接表明",
-      "link": "https://coinpost.jp/?p=708751",
-      "published": "Fri, 15 May 2026 06:55:55 +0900",
-      "isoDate": "2026-05-14T21:55:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CME、ナスダックとの共同指数を活用した仮想通貨先物を6月導入へ",
-      "link": "https://coinpost.jp/?p=708752",
-      "published": "Fri, 15 May 2026 06:15:02 +0900",
-      "isoDate": "2026-05-14T21:15:02Z"
-    }
-  ]
+  "btc_items": []
 }
