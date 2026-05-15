@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-14T22:37:09Z",
-  "last_checked": "2026-05-14T22:37:09Z",
+  "updated": "2026-05-15T00:00:39Z",
+  "last_checked": "2026-05-15T00:00:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は上昇、AI期待が後押し",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537114",
+      "published": "2026-05-14 23:15:08",
+      "isoDate": "2026-05-14T23:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：米国金利の先高観強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1537106",
+      "published": "2026-05-14 23:00:07",
+      "isoDate": "2026-05-14T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "14日の米国市場ダイジェスト：米国株式市場は上昇、AI期待が後押し",
       "link": "https://jp.investing.com/news/forex-news/article-1537064",
       "published": "2026-05-14 22:00:05",
@@ -83,22 +97,8 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "戦争の衝撃から脆弱な回復へ：投資家が依然として警戒する理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537013",
-      "published": "2026-05-14 21:34:25",
-      "isoDate": "2026-05-14T21:34:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは370.26ドル高、AI期待が後押し",
       "link": "https://jp.investing.com/news/forex-news/article-1536999",
-      "published": "2026-05-14 21:30:05",
-      "isoDate": "2026-05-14T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：米良好な経済指標やインフレ高止まりで年内利上げ観測、ドル続伸",
-      "link": "https://jp.investing.com/news/forex-news/article-1536998",
       "published": "2026-05-14 21:30:05",
       "isoDate": "2026-05-14T21:30:05Z"
     },
@@ -145,83 +145,5 @@
       "isoDate": "2026-05-13T23:46:08Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米VC大手a16zが今夏に日本初拠点を設立、創業者が高市首相に直接表明",
-      "link": "https://coinpost.jp/?p=708751",
-      "published": "Fri, 15 May 2026 06:55:55 +0900",
-      "isoDate": "2026-05-14T21:55:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CME、ナスダックとの共同指数を活用した仮想通貨先物を6月導入へ",
-      "link": "https://coinpost.jp/?p=708752",
-      "published": "Fri, 15 May 2026 06:15:02 +0900",
-      "isoDate": "2026-05-14T21:15:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラリティー法案が米上院銀行委員会を通過、異例な超党派採決も本会議は不透明",
-      "link": "https://coinpost.jp/?p=708443",
-      "published": "Fri, 15 May 2026 03:30:33 +0900",
-      "isoDate": "2026-05-14T18:30:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "フィスコが仮想通貨事業から撤退　FSCC施策を全終了へ",
-      "link": "https://coinpost.jp/?p=708739",
-      "published": "Thu, 14 May 2026 23:09:20 +0900",
-      "isoDate": "2026-05-14T14:09:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場のナカモト、第1四半期純損失約375億円　BTC5000枚超保有も価格急落の影響を受ける",
-      "link": "https://coinpost.jp/?p=708719",
-      "published": "Thu, 14 May 2026 18:34:24 +0900",
-      "isoDate": "2026-05-14T09:34:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETF、7日平均が1日約139億円の純流出、2月中旬以来最大ペース＝グラスノード",
-      "link": "https://coinpost.jp/?p=708678",
-      "published": "Thu, 14 May 2026 17:11:38 +0900",
-      "isoDate": "2026-05-14T08:11:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ムーディーズが予測、「トークン化は金融インフラを変えるが銀行の排除は起きない」",
-      "link": "https://coinpost.jp/?p=708650",
-      "published": "Thu, 14 May 2026 15:58:30 +0900",
-      "isoDate": "2026-05-14T06:58:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ConsensysとLedgerが米国IPOを延期・保留、仮想通貨の冬が上場計画に影響",
-      "link": "https://coinpost.jp/?p=708576",
-      "published": "Thu, 14 May 2026 13:25:05 +0900",
-      "isoDate": "2026-05-14T04:25:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上昇は利益確定売りと米国での需要低迷により抑制＝クリプトクアント分析",
-      "link": "https://coinpost.jp/?p=708542",
-      "published": "Thu, 14 May 2026 11:35:11 +0900",
-      "isoDate": "2026-05-14T02:35:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ基盤ジュピター、ビットワイズ関与のレンディング市場をローンチ　機関マネー取り込み狙う",
-      "link": "https://coinpost.jp/?p=708522",
-      "published": "Thu, 14 May 2026 11:20:39 +0900",
-      "isoDate": "2026-05-14T02:20:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "キヨサキ氏、インフレ警告　金・銀・ビットコイン・イーサリアムで資産防衛促す",
-      "link": "https://coinpost.jp/?p=708496",
-      "published": "Thu, 14 May 2026 09:59:40 +0900",
-      "isoDate": "2026-05-14T00:59:40Z"
-    }
-  ]
+  "btc_items": []
 }
