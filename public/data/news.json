@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-15T00:00:39Z",
-  "last_checked": "2026-05-15T00:00:39Z",
+  "updated": "2026-05-15T04:35:25Z",
+  "last_checked": "2026-05-15T04:35:25Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、4日続落――米経済指標の強さがドル押し上げ、トランプ・習会談に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1537173",
+      "published": "2026-05-15 01:56:02",
+      "isoDate": "2026-05-15T01:56:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ・習会談が中国の大豆購入期待を高めず、大豆先物が下落",
@@ -64,29 +71,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534556",
       "published": "2026-05-13 20:58:04",
       "isoDate": "2026-05-13T20:58:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物はほぼ横ばい、米中首脳会談の行方を注視",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534551",
-      "published": "2026-05-13 20:57:18",
-      "isoDate": "2026-05-13T20:57:18Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、中国関連株が下支え",
+      "link": "https://jp.investing.com/news/forex-news/article-1537233",
+      "published": "2026-05-15 04:00:11",
+      "isoDate": "2026-05-15T04:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内長期金利上昇横目に投資家心理悪化",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537220",
+      "published": "2026-05-15 03:30:12",
+      "isoDate": "2026-05-15T03:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は354円高、寄り後は堅調",
+      "link": "https://jp.investing.com/news/forex-news/article-1537215",
+      "published": "2026-05-15 03:15:10",
+      "isoDate": "2026-05-15T03:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は224円高でスタート、ファナックやホンダなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537213",
+      "published": "2026-05-15 03:15:06",
+      "isoDate": "2026-05-15T03:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比375円安の63045円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537199",
+      "published": "2026-05-15 02:45:14",
+      "isoDate": "2026-05-15T02:45:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体輸出規制、米中会談で議論されず＝グリア米通商代表がBloombergに語る",
+      "link": "https://jp.investing.com/news/economy-news/article-1537166",
+      "published": "2026-05-15 01:42:56",
+      "isoDate": "2026-05-15T01:42:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアが米国株を押し上げ、トランプ・習会談に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537135",
+      "published": "2026-05-15 00:03:48",
+      "isoDate": "2026-05-15T00:03:48Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国株式市場は上昇、AI期待が後押し",
       "link": "https://jp.investing.com/news/stock-market-news/article-1537114",
       "published": "2026-05-14 23:15:08",
       "isoDate": "2026-05-14T23:15:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：米国金利の先高観強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1537106",
-      "published": "2026-05-14 23:00:07",
-      "isoDate": "2026-05-14T23:00:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,53 +139,96 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは370.26ドル高、AI期待が後押し",
-      "link": "https://jp.investing.com/news/forex-news/article-1536999",
-      "published": "2026-05-14 21:30:05",
-      "isoDate": "2026-05-14T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "セレブラス、ナスダック上場初日に89%急騰――時価総額1000億ドルに",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1536513",
-      "published": "2026-05-14 17:11:22",
-      "isoDate": "2026-05-14T17:11:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "トランプ氏がポートフォリオを刷新、エヌビディアなどAI関連銘柄を新規取得",
       "link": "https://jp.investing.com/news/stock-market-news/article-1536445",
       "published": "2026-05-14 16:15:48",
       "isoDate": "2026-05-14T16:15:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ・習会談を受け、TSX（トロント証券取引所）が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1536029",
-      "published": "2026-05-14 13:16:12",
-      "isoDate": "2026-05-14T13:16:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaはAIチップ株の最有力銘柄、ウルフ・リサーチが再確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1535693",
-      "published": "2026-05-14 11:55:06",
-      "isoDate": "2026-05-14T11:55:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがH200チップの中国企業向け販売承認報道を受け株価上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1535254",
-      "published": "2026-05-14 09:17:31",
-      "isoDate": "2026-05-14T09:17:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "セレブラス・システムズ、IPO価格を1株185ドルに設定しナスダックに上場へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1534789",
-      "published": "2026-05-13 23:46:08",
-      "isoDate": "2026-05-13T23:46:08Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
+      "link": "https://coinpost.jp/?p=708837",
+      "published": "Fri, 15 May 2026 13:25:09 +0900",
+      "isoDate": "2026-05-15T04:25:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テザー社・トロン・TRM Labs、24年9月以降に計700億円超の不法資産を凍結",
+      "link": "https://coinpost.jp/?p=708813",
+      "published": "Fri, 15 May 2026 11:20:14 +0900",
+      "isoDate": "2026-05-15T02:20:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DeFiデベロップメント2026年1～3月期決算、ソラナ保有拡大と転換社債買い戻しを報告",
+      "link": "https://coinpost.jp/?p=708787",
+      "published": "Fri, 15 May 2026 10:05:00 +0900",
+      "isoDate": "2026-05-15T01:05:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン、イーサリアムとアルトコインのビットコイン劣後「当面続く」と警告＝報道",
+      "link": "https://coinpost.jp/?p=708791",
+      "published": "Fri, 15 May 2026 09:44:17 +0900",
+      "isoDate": "2026-05-15T00:44:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースがハイパーリキッドでUSDCの利用を促進、USDH市場は段階的に終了へ",
+      "link": "https://coinpost.jp/?p=708765",
+      "published": "Fri, 15 May 2026 09:25:35 +0900",
+      "isoDate": "2026-05-15T00:25:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン上昇、米クラリティー法案の進展を好感　焦点は上院60票の壁｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=708772",
+      "published": "Fri, 15 May 2026 09:05:02 +0900",
+      "isoDate": "2026-05-15T00:05:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジェミナイQ1決算、売上高42%増　予測市場に本格参入",
+      "link": "https://coinpost.jp/?p=708749",
+      "published": "Fri, 15 May 2026 08:40:29 +0900",
+      "isoDate": "2026-05-14T23:40:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米VC大手a16zが今夏に日本初拠点を設立、創業者が高市首相に直接表明",
+      "link": "https://coinpost.jp/?p=708751",
+      "published": "Fri, 15 May 2026 06:55:55 +0900",
+      "isoDate": "2026-05-14T21:55:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米CME、ナスダックとの共同指数を活用した仮想通貨先物を6月導入へ",
+      "link": "https://coinpost.jp/?p=708752",
+      "published": "Fri, 15 May 2026 06:15:02 +0900",
+      "isoDate": "2026-05-14T21:15:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、上院銀行委員会を通過　本会議手続きへ前進",
+      "link": "https://coinpost.jp/?p=708443",
+      "published": "Fri, 15 May 2026 03:30:33 +0900",
+      "isoDate": "2026-05-14T18:30:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "フィスコが仮想通貨事業から撤退　FSCC施策を全終了へ",
+      "link": "https://coinpost.jp/?p=708739",
+      "published": "Thu, 14 May 2026 23:09:20 +0900",
+      "isoDate": "2026-05-14T14:09:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場のナカモト、第1四半期純損失約375億円　BTC5000枚超保有も価格急落の影響を受ける",
+      "link": "https://coinpost.jp/?p=708719",
+      "published": "Thu, 14 May 2026 18:34:24 +0900",
+      "isoDate": "2026-05-14T09:34:24Z"
+    }
+  ]
 }
