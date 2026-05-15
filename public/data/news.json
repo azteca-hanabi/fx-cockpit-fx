@@ -1,10 +1,17 @@
 {
-  "updated": "2026-05-15T04:35:25Z",
-  "last_checked": "2026-05-15T04:35:25Z",
+  "updated": "2026-05-15T10:33:33Z",
+  "last_checked": "2026-05-15T10:33:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、4日続落――米経済指標の強さがドル押し上げ、トランプ・習会談に注目",
+      "title": "鉱山株が急落、金・銅価格がイラン情勢懸念で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1537460",
+      "published": "2026-05-15 09:04:22",
+      "isoDate": "2026-05-15T09:04:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、週間下落へ――強い米経済指標がドルとFED利上げ観測を押し上げ",
       "link": "https://jp.investing.com/news/commodities-news/article-1537173",
       "published": "2026-05-15 01:56:02",
       "isoDate": "2026-05-15T01:56:02Z"
@@ -64,57 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534568",
       "published": "2026-05-13 21:03:30",
       "isoDate": "2026-05-13T21:03:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物、中国需要への期待感から約2カ月ぶり高値に接近",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1534556",
-      "published": "2026-05-13 20:58:04",
-      "isoDate": "2026-05-13T20:58:04Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は上昇一服、日中高値を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1537559",
+      "published": "2026-05-15 10:00:17",
+      "isoDate": "2026-05-15T10:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "鉱山株が急落、金・銅価格がイラン情勢懸念で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1537460",
+      "published": "2026-05-15 09:04:22",
+      "isoDate": "2026-05-15T09:04:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物下落、原油上昇、トランプ大統領が北京を出発――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1537422",
+      "published": "2026-05-15 08:21:40",
+      "isoDate": "2026-05-15T08:21:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続落、アドバンテストやフジクラが2銘柄で約652円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537391",
+      "published": "2026-05-15 07:45:21",
+      "isoDate": "2026-05-15T07:45:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州株が下落、英国政局混乱とトランプ大統領の北京訪問終了",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537356",
+      "published": "2026-05-15 07:06:25",
+      "isoDate": "2026-05-15T07:06:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウシオ電、浜松ホトニク、フジクラなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1537344",
+      "published": "2026-05-15 07:00:19",
+      "isoDate": "2026-05-15T07:00:19Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、中国関連株が下支え",
       "link": "https://jp.investing.com/news/forex-news/article-1537233",
       "published": "2026-05-15 04:00:11",
       "isoDate": "2026-05-15T04:00:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内長期金利上昇横目に投資家心理悪化",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537220",
-      "published": "2026-05-15 03:30:12",
-      "isoDate": "2026-05-15T03:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は354円高、寄り後は堅調",
-      "link": "https://jp.investing.com/news/forex-news/article-1537215",
-      "published": "2026-05-15 03:15:10",
-      "isoDate": "2026-05-15T03:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は224円高でスタート、ファナックやホンダなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537213",
-      "published": "2026-05-15 03:15:06",
-      "isoDate": "2026-05-15T03:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比375円安の63045円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537199",
-      "published": "2026-05-15 02:45:14",
-      "isoDate": "2026-05-15T02:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体輸出規制、米中会談で議論されず＝グリア米通商代表がBloombergに語る",
-      "link": "https://jp.investing.com/news/economy-news/article-1537166",
-      "published": "2026-05-15 01:42:56",
-      "isoDate": "2026-05-15T01:42:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "14日の米国市場ダイジェスト：米国株式市場は上昇、AI期待が後押し",
-      "link": "https://jp.investing.com/news/forex-news/article-1537064",
-      "published": "2026-05-14 22:00:05",
-      "isoDate": "2026-05-14T22:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "トランプ氏がポートフォリオを刷新、エヌビディアなどAI関連銘柄を新規取得",
       "link": "https://jp.investing.com/news/stock-market-news/article-1536445",
       "published": "2026-05-14 16:15:48",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
+      "link": "https://coinpost.jp/?p=708995",
+      "published": "Fri, 15 May 2026 17:25:00 +0900",
+      "isoDate": "2026-05-15T08:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
+      "link": "https://coinpost.jp/?p=708958",
+      "published": "Fri, 15 May 2026 16:13:04 +0900",
+      "isoDate": "2026-05-15T07:13:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
+      "link": "https://coinpost.jp/?p=708857",
+      "published": "Fri, 15 May 2026 14:00:26 +0900",
+      "isoDate": "2026-05-15T05:00:26Z"
+    },
     {
       "source": "CoinPost",
       "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
@@ -208,27 +229,6 @@
       "link": "https://coinpost.jp/?p=708752",
       "published": "Fri, 15 May 2026 06:15:02 +0900",
       "isoDate": "2026-05-14T21:15:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、上院銀行委員会を通過　本会議手続きへ前進",
-      "link": "https://coinpost.jp/?p=708443",
-      "published": "Fri, 15 May 2026 03:30:33 +0900",
-      "isoDate": "2026-05-14T18:30:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "フィスコが仮想通貨事業から撤退　FSCC施策を全終了へ",
-      "link": "https://coinpost.jp/?p=708739",
-      "published": "Thu, 14 May 2026 23:09:20 +0900",
-      "isoDate": "2026-05-14T14:09:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場のナカモト、第1四半期純損失約375億円　BTC5000枚超保有も価格急落の影響を受ける",
-      "link": "https://coinpost.jp/?p=708719",
-      "published": "Thu, 14 May 2026 18:34:24 +0900",
-      "isoDate": "2026-05-14T09:34:24Z"
     }
   ]
 }
