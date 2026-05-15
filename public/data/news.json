@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T22:02:56Z",
-  "last_checked": "2026-05-15T22:02:56Z",
+  "updated": "2026-05-15T23:29:20Z",
+  "last_checked": "2026-05-15T23:29:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "5月15日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1538485",
-      "published": "2026-05-15 19:30:05",
-      "isoDate": "2026-05-15T19:30:05Z"
+      "title": "原油、米中協議が暗礁に乗り上げる中で1バレル109ドル近辺に上昇――レバノン停戦は延長",
+      "link": "https://jp.investing.com/news/economy-news/article-1538721",
+      "published": "2026-05-15 23:00:19",
+      "isoDate": "2026-05-15T23:00:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、米中首脳会談の失望感やインフレ懸念",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538714",
+      "published": "2026-05-15 23:00:07",
+      "isoDate": "2026-05-15T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "15日の米国市場ダイジェスト：米国株式市場は反落、米中首脳会談の失望感やインフレ懸念",
+      "link": "https://jp.investing.com/news/forex-news/article-1538669",
+      "published": "2026-05-15 22:00:05",
+      "isoDate": "2026-05-15T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米経済指標が予想上回る＆原油高で利上げ織り込む、ドル続伸",
+      "link": "https://jp.investing.com/news/forex-news/article-1538647",
+      "published": "2026-05-15 21:30:05",
+      "isoDate": "2026-05-15T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは537.29ドル安、米中首脳会談の失望感やインフレ懸念",
+      "link": "https://jp.investing.com/news/forex-news/article-1538630",
+      "published": "2026-05-15 21:15:05",
+      "isoDate": "2026-05-15T21:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,29 +125,8 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1538170",
-      "published": "2026-05-15 14:01:19",
-      "isoDate": "2026-05-15T14:01:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフトは割安か？ビル・アックマンが21倍のPERでMSFTを買う理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537792",
-      "published": "2026-05-15 11:49:39",
-      "isoDate": "2026-05-15T11:49:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "最高値更新の市場で、月初来20%超上昇銘柄にさらなる伸びしろ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1537891",
-      "published": "2026-05-15 10:25:26",
-      "isoDate": "2026-05-15T10:25:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "市場が史上最高値を更新——月間20%超の上昇銘柄にはまだ上値余地あり",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537613",
       "published": "2026-05-15 10:25:26",
       "isoDate": "2026-05-15T10:25:26Z"
     },
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1537135",
       "published": "2026-05-15 00:03:48",
       "isoDate": "2026-05-15T00:03:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ氏がポートフォリオを刷新、エヌビディアなどAI関連銘柄を新規取得",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1536445",
-      "published": "2026-05-14 16:15:48",
-      "isoDate": "2026-05-14T16:15:48Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上院「クラリティー法」採決の壁、公職者の利益相反防ぐ「倫理条項」が焦点に",
+      "link": "https://coinpost.jp/?p=709069",
+      "published": "Sat, 16 May 2026 07:56:48 +0900",
+      "isoDate": "2026-05-15T22:56:48Z"
+    },
     {
       "source": "CoinPost",
       "title": "21SharesのHYPE現物ETF、過去最高出来高を記録　コインベースの提携発表が呼び水に",
@@ -222,20 +229,6 @@
       "link": "https://coinpost.jp/?p=708765",
       "published": "Fri, 15 May 2026 09:25:35 +0900",
       "isoDate": "2026-05-15T00:25:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上昇、米クラリティー法案の進展を好感　焦点は上院60票の壁｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=708772",
-      "published": "Fri, 15 May 2026 09:05:02 +0900",
-      "isoDate": "2026-05-15T00:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジェミナイQ1決算、売上高42%増　予測市場に本格参入",
-      "link": "https://coinpost.jp/?p=708749",
-      "published": "Fri, 15 May 2026 08:40:29 +0900",
-      "isoDate": "2026-05-14T23:40:29Z"
     }
   ]
 }
