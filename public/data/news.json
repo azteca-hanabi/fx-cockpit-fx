@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T17:32:55Z",
-  "last_checked": "2026-05-16T17:32:55Z",
+  "updated": "2026-05-16T19:12:42Z",
+  "last_checked": "2026-05-16T19:12:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "円買い介入、日本の残弾はどれくらいあるのか",
+      "link": "https://jp.investing.com/news/forex-news/article-1538846",
+      "published": "2026-05-16 17:15:12",
+      "isoDate": "2026-05-16T17:15:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ブラックロック、SpaceX IPOに50億～100億ドルの投資を検討",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538842",
       "published": "2026-05-16 16:49:02",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1538838",
       "published": "2026-05-16 15:31:40",
       "isoDate": "2026-05-16T15:31:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国と米国、一部品目の関税引き下げで原則合意－中国商務省",
-      "link": "https://jp.investing.com/news/economy-news/article-1538835",
-      "published": "2026-05-16 15:00:58",
-      "isoDate": "2026-05-16T15:00:58Z"
     },
     {
       "source": "Investing.com 外為",
