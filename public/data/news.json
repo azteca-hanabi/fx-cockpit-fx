@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T16:29:24Z",
-  "last_checked": "2026-05-16T16:29:24Z",
+  "updated": "2026-05-16T17:32:55Z",
+  "last_checked": "2026-05-16T17:32:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ブラックロック、SpaceX IPOに50億～100億ドルの投資を検討",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538842",
+      "published": "2026-05-16 16:49:02",
+      "isoDate": "2026-05-16T16:49:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "「トランプ誕生日」が6月の株売りシグナルリストに入った理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538838",
       "published": "2026-05-16 15:31:40",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/company-news/article-93CH-1538233",
       "published": "2026-05-15 14:24:35",
       "isoDate": "2026-05-15T14:24:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "最高値更新の市場で、月初来20%超上昇銘柄にさらなる伸びしろ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1537891",
-      "published": "2026-05-15 10:25:26",
-      "isoDate": "2026-05-15T10:25:26Z"
     }
   ],
   "btc_items": [
