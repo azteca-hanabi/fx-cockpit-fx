@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T09:12:19Z",
-  "last_checked": "2026-05-16T09:12:19Z",
+  "updated": "2026-05-16T10:46:05Z",
+  "last_checked": "2026-05-16T10:46:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXの株主、IPO前に5対1の株式分割を承認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538808",
-      "published": "2026-05-16 07:20:55",
-      "isoDate": "2026-05-16T07:20:55Z"
+      "title": "利上げ懸念で5億5000万ドル規模のロング強制清算、ビットコインは7万8000ドルに下落",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1538819",
+      "published": "2026-05-16 09:45:51",
+      "isoDate": "2026-05-16T09:45:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イラクのホルムズ海峡経由の原油輸出が急減、紛争激化で原油価格上昇",
+      "link": "https://jp.investing.com/news/economy-news/article-1538817",
+      "published": "2026-05-16 08:57:41",
+      "isoDate": "2026-05-16T08:57:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1538799",
       "published": "2026-05-16 05:45:04",
       "isoDate": "2026-05-16T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アマゾン、違法関税コストの返金を怠ったとして消費者から集団訴訟",
-      "link": "https://jp.investing.com/news/economy-news/article-1538789",
-      "published": "2026-05-16 03:29:37",
-      "isoDate": "2026-05-16T03:29:37Z"
     },
     {
       "source": "Investing.com 外為",
