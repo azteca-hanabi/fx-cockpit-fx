@@ -1,8 +1,93 @@
 {
-  "updated": "2026-05-16T04:57:01Z",
-  "last_checked": "2026-05-16T04:57:01Z",
-  "gold_items": [],
+  "updated": "2026-05-16T07:21:02Z",
+  "last_checked": "2026-05-16T07:21:02Z",
+  "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物が4週間ぶり安値、米中貿易協議の詳細不透明で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538495",
+      "published": "2026-05-15 19:42:19",
+      "isoDate": "2026-05-15T19:42:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米大豆先物、米中首脳会談の失望感で2週間ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538491",
+      "published": "2026-05-15 19:39:05",
+      "isoDate": "2026-05-15T19:39:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、在庫増加で14%下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538356",
+      "published": "2026-05-15 16:21:20",
+      "isoDate": "2026-05-15T16:21:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米中首脳会談が穀物売りを誘発、ユーロネクスト小麦が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538349",
+      "published": "2026-05-15 16:16:10",
+      "isoDate": "2026-05-15T16:16:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "鉱山株が急落、金・銅価格がイラン情勢懸念で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1537460",
+      "published": "2026-05-15 09:04:22",
+      "isoDate": "2026-05-15T09:04:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、週間下落へ――米経済指標の好調がドル高とFED利上げ観測を後押し",
+      "link": "https://jp.investing.com/news/commodities-news/article-1537173",
+      "published": "2026-05-15 01:56:02",
+      "isoDate": "2026-05-15T01:56:02Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ・習会談が中国の大豆購入期待を高めず、大豆先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536929",
+      "published": "2026-05-14 21:11:42",
+      "isoDate": "2026-05-14T21:11:42Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドが宝飾品輸出業者への無税金輸入を100キログラムに上限設定",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536379",
+      "published": "2026-05-14 15:26:49",
+      "isoDate": "2026-05-14T15:26:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "韓国、4月のイラン産原油輸入ゼロ―総輸入量も減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536333",
+      "published": "2026-05-14 15:05:40",
+      "isoDate": "2026-05-14T15:05:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ・習会談を控え、欧州天然ガス価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1536059",
+      "published": "2026-05-14 13:25:22",
+      "isoDate": "2026-05-14T13:25:22Z"
+    }
+  ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：米エヌビディアの決算が最注目イベントだが、国内長期金利上昇なども警戒材料に",
+      "link": "https://jp.investing.com/news/forex-news/article-1538799",
+      "published": "2026-05-16 05:45:04",
+      "isoDate": "2026-05-16T05:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "為替週間見通し：ドル上昇は一服か、米インフレ懸念も為替介入を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1538793",
+      "published": "2026-05-16 05:00:05",
+      "isoDate": "2026-05-16T05:00:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "アマゾン、違法関税コストの返金を怠ったとして消費者から集団訴訟",
@@ -16,20 +101,6 @@
       "link": "https://jp.investing.com/news/company-news/article-1538778",
       "published": "2026-05-16 01:29:17",
       "isoDate": "2026-05-16T01:29:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バークシャー・ハサウェイ、原油高騰の中シェブロン株80億ドル売却",
-      "link": "https://jp.investing.com/news/company-news/article-1538767",
-      "published": "2026-05-16 00:56:33",
-      "isoDate": "2026-05-16T00:56:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：大幅安、原油高や金利上昇を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1538750",
-      "published": "2026-05-16 00:15:07",
-      "isoDate": "2026-05-16T00:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -74,5 +145,90 @@
       "isoDate": "2026-05-15T08:21:40Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ミャンマー軍事政府、仮想通貨詐欺に終身刑を科す法案提出",
+      "link": "https://coinpost.jp/?p=709115",
+      "published": "Sat, 16 May 2026 13:45:01 +0900",
+      "isoDate": "2026-05-16T04:45:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケールがBNB現物ETFの目論見書を提出、米国初承認なるか",
+      "link": "https://coinpost.jp/?p=709067",
+      "published": "Sat, 16 May 2026 11:50:48 +0900",
+      "isoDate": "2026-05-16T02:50:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族信託、購入した仮想通貨・半導体関連銘柄を開示",
+      "link": "https://coinpost.jp/?p=709097",
+      "published": "Sat, 16 May 2026 10:45:23 +0900",
+      "isoDate": "2026-05-16T01:45:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クロスチェーンプロトコルThorchain、約17億円相当の資産が不正流出か",
+      "link": "https://coinpost.jp/?p=709082",
+      "published": "Sat, 16 May 2026 09:25:15 +0900",
+      "isoDate": "2026-05-16T00:25:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院「クラリティー法」採決の壁、公職者の利益相反防ぐ「倫理条項」が焦点に",
+      "link": "https://coinpost.jp/?p=709069",
+      "published": "Sat, 16 May 2026 07:56:48 +0900",
+      "isoDate": "2026-05-15T22:56:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "21SharesのHYPE現物ETF、過去最高出来高を記録　コインベースの提携発表が呼び水に",
+      "link": "https://coinpost.jp/?p=709071",
+      "published": "Sat, 16 May 2026 06:35:23 +0900",
+      "isoDate": "2026-05-15T21:35:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米大手取引所ICE・CME、ハイパーリキッド規制をCFTCに要請",
+      "link": "https://coinpost.jp/?p=709072",
+      "published": "Sat, 16 May 2026 05:55:33 +0900",
+      "isoDate": "2026-05-15T20:55:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁、仮想通貨仲介業の登録説明会を開催　6月上旬施行に向け解釈明確化へ",
+      "link": "https://coinpost.jp/?p=708806",
+      "published": "Fri, 15 May 2026 19:33:27 +0900",
+      "isoDate": "2026-05-15T10:33:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
+      "link": "https://coinpost.jp/?p=708995",
+      "published": "Fri, 15 May 2026 17:25:00 +0900",
+      "isoDate": "2026-05-15T08:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
+      "link": "https://coinpost.jp/?p=708958",
+      "published": "Fri, 15 May 2026 16:13:04 +0900",
+      "isoDate": "2026-05-15T07:13:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
+      "link": "https://coinpost.jp/?p=708857",
+      "published": "Fri, 15 May 2026 14:00:26 +0900",
+      "isoDate": "2026-05-15T05:00:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国最大手銀Hana、仮想通貨取引所Upbit運営会社に1000億円超出資　持分比率6.55%に",
+      "link": "https://coinpost.jp/?p=708837",
+      "published": "Fri, 15 May 2026 13:25:09 +0900",
+      "isoDate": "2026-05-15T04:25:09Z"
+    }
+  ]
 }
