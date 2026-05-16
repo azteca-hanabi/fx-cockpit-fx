@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T10:46:05Z",
-  "last_checked": "2026-05-16T10:46:05Z",
+  "updated": "2026-05-16T11:55:17Z",
+  "last_checked": "2026-05-16T11:55:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "シティ：市場参加の拡大が指数の本格的な上昇に不可欠",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538824",
+      "published": "2026-05-16 11:11:45",
+      "isoDate": "2026-05-16T11:11:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランがホルムズ海峡の通行管理計画を発表、通行料徴収へ",
+      "link": "https://jp.investing.com/news/economy-news/article-1538821",
+      "published": "2026-05-16 10:59:21",
+      "isoDate": "2026-05-16T10:59:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "利上げ懸念で5億5000万ドル規模のロング強制清算、ビットコインは7万8000ドルに下落",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1538819",
       "published": "2026-05-16 09:45:51",
       "isoDate": "2026-05-16T09:45:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イラクのホルムズ海峡経由の原油輸出が急減、紛争激化で原油価格上昇",
-      "link": "https://jp.investing.com/news/economy-news/article-1538817",
-      "published": "2026-05-16 08:57:41",
-      "isoDate": "2026-05-16T08:57:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1538714",
       "published": "2026-05-15 23:00:07",
       "isoDate": "2026-05-15T23:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "15日の米国市場ダイジェスト：米国株式市場は反落、米中首脳会談の失望感やインフレ懸念",
-      "link": "https://jp.investing.com/news/forex-news/article-1538669",
-      "published": "2026-05-15 22:00:05",
-      "isoDate": "2026-05-15T22:00:05Z"
     },
     {
       "source": "Investing.com 外為",
