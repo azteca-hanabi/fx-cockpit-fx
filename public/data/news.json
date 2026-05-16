@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T07:21:02Z",
-  "last_checked": "2026-05-16T07:21:02Z",
+  "updated": "2026-05-16T09:12:19Z",
+  "last_checked": "2026-05-16T09:12:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXの株主、IPO前に5対1の株式分割を承認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538808",
+      "published": "2026-05-16 07:20:55",
+      "isoDate": "2026-05-16T07:20:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：中東情勢、米エヌビディア決算、全国CPI",
+      "link": "https://jp.investing.com/news/forex-news/article-1538806",
+      "published": "2026-05-16 07:00:05",
+      "isoDate": "2026-05-16T07:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：米エヌビディアの決算が最注目イベントだが、国内長期金利上昇なども警戒材料に",
       "link": "https://jp.investing.com/news/forex-news/article-1538799",
       "published": "2026-05-16 05:45:04",
       "isoDate": "2026-05-16T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "為替週間見通し：ドル上昇は一服か、米インフレ懸念も為替介入を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1538793",
-      "published": "2026-05-16 05:00:05",
-      "isoDate": "2026-05-16T05:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1537891",
       "published": "2026-05-15 10:25:26",
       "isoDate": "2026-05-15T10:25:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株先物下落、原油上昇、トランプ大統領が北京を出発――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1537422",
-      "published": "2026-05-15 08:21:40",
-      "isoDate": "2026-05-15T08:21:40Z"
     }
   ],
   "btc_items": [
