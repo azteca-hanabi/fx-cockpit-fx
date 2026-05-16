@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T15:00:45Z",
-  "last_checked": "2026-05-16T15:00:45Z",
+  "updated": "2026-05-16T16:29:24Z",
+  "last_checked": "2026-05-16T16:29:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "「トランプ誕生日」が6月の株売りシグナルリストに入った理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538838",
+      "published": "2026-05-16 15:31:40",
+      "isoDate": "2026-05-16T15:31:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国と米国、一部品目の関税引き下げで原則合意－中国商務省",
+      "link": "https://jp.investing.com/news/economy-news/article-1538835",
+      "published": "2026-05-16 15:00:58",
+      "isoDate": "2026-05-16T15:00:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "S&P 500のモメンタム急騰、今後の低リターンを示唆＝ゴールドマン・サックス",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538833",
       "published": "2026-05-16 14:30:54",
@@ -111,24 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米FTC、ArmのCPUライセンスに関する独占禁止法調査を開始",
-      "link": "https://jp.investing.com/news/company-news/article-1538778",
-      "published": "2026-05-16 01:29:17",
-      "isoDate": "2026-05-16T01:29:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株式市場は反落、米中首脳会談の失望感やインフレ懸念",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538714",
       "published": "2026-05-15 23:00:07",
       "isoDate": "2026-05-15T23:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは537.29ドル安、米中首脳会談の失望感やインフレ懸念",
-      "link": "https://jp.investing.com/news/forex-news/article-1538630",
-      "published": "2026-05-15 21:15:05",
-      "isoDate": "2026-05-15T21:15:05Z"
     },
     {
       "source": "Investing.com 外為",
