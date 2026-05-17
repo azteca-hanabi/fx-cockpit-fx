@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T13:41:23Z",
-  "last_checked": "2026-05-17T13:41:23Z",
+  "updated": "2026-05-17T15:00:54Z",
+  "last_checked": "2026-05-17T15:00:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "インドが金・銀の輸入関税を引き上げ：タイタン社への影響",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538908",
+      "published": "2026-05-17 13:57:17",
+      "isoDate": "2026-05-17T13:57:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "戦争緊張緩和でFRBと財政政策に投資家の関心が移行",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538896",
       "published": "2026-05-17 12:15:02",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1538862",
       "published": "2026-05-17 01:31:09",
       "isoDate": "2026-05-17T01:31:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国とイスラエル、イランへの軍事作戦再開を準備中との報道",
-      "link": "https://jp.investing.com/news/economy-news/article-1538858",
-      "published": "2026-05-17 00:12:13",
-      "isoDate": "2026-05-17T00:12:13Z"
     },
     {
       "source": "Investing.com 外為",
