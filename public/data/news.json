@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T19:45:00Z",
-  "last_checked": "2026-05-17T19:45:00Z",
+  "updated": "2026-05-17T20:59:15Z",
+  "last_checked": "2026-05-17T20:59:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米連邦準備制度の利上げ再浮上：新興市場は準備できているか",
+      "link": "https://jp.investing.com/news/economy-news/article-1538888",
+      "published": "2026-05-17 09:24:46",
+      "isoDate": "2026-05-17T09:24:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サムスンとSKハイニックスの目標株価引き上げ、アドバンスト・マイクロ・デバイセズは格下げ――AIアナリスト動向5選",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538886",
       "published": "2026-05-17 09:00:03",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1538846",
       "published": "2026-05-16 17:15:12",
       "isoDate": "2026-05-16T17:15:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブラックロック、SpaceX IPOに50億～100億ドルの投資を検討",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538842",
-      "published": "2026-05-16 16:49:02",
-      "isoDate": "2026-05-16T16:49:02Z"
     }
   ],
   "btc_items": [
