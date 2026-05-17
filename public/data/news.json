@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T11:39:35Z",
-  "last_checked": "2026-05-17T11:39:35Z",
+  "updated": "2026-05-17T13:41:23Z",
+  "last_checked": "2026-05-17T13:41:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "戦争緊張緩和でFRBと財政政策に投資家の関心が移行",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538896",
+      "published": "2026-05-17 12:15:02",
+      "isoDate": "2026-05-17T12:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米連邦準備制度の利上げ再浮上：新興市場は準備できているか",
       "link": "https://jp.investing.com/news/economy-news/article-1538888",
       "published": "2026-05-17 09:24:46",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1538842",
       "published": "2026-05-16 16:49:02",
       "isoDate": "2026-05-16T16:49:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「トランプ誕生日」が6月の株売りシグナルリストに入った理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538838",
-      "published": "2026-05-16 15:31:40",
-      "isoDate": "2026-05-16T15:31:40Z"
     }
   ],
   "btc_items": [
