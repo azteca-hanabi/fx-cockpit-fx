@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T01:26:55Z",
-  "last_checked": "2026-05-17T01:26:55Z",
+  "updated": "2026-05-17T05:30:38Z",
+  "last_checked": "2026-05-17T05:30:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIブームがメモリーチップ市場に空前の利益をもたらすも、景気循環リスクも",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538867",
+      "published": "2026-05-17 02:48:57",
+      "isoDate": "2026-05-17T02:48:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米財務省、ロシア産原油制裁免除を失効させる―原油100ドル超の圧力下で",
+      "link": "https://jp.investing.com/news/economy-news/article-1538862",
+      "published": "2026-05-17 01:31:09",
+      "isoDate": "2026-05-17T01:31:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国とイスラエル、イランへの軍事作戦再開を準備",
       "link": "https://jp.investing.com/news/economy-news/article-1538858",
       "published": "2026-05-17 00:12:13",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡の通行管理計画を発表、通行料徴収へ",
-      "link": "https://jp.investing.com/news/economy-news/article-1538821",
-      "published": "2026-05-16 10:59:21",
-      "isoDate": "2026-05-16T10:59:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：中東情勢、米エヌビディア決算、全国CPI",
       "link": "https://jp.investing.com/news/forex-news/article-1538806",
       "published": "2026-05-16 07:00:05",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/forex-news/article-1538799",
       "published": "2026-05-16 05:45:04",
       "isoDate": "2026-05-16T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1538233",
-      "published": "2026-05-15 14:24:35",
-      "isoDate": "2026-05-15T14:24:35Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン底堅い推移も200日線で上値重く、米中首脳会談が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=708969",
+      "published": "Sun, 17 May 2026 11:30:02 +0900",
+      "isoDate": "2026-05-17T02:30:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "今週の主要仮想通貨材料まとめ、キヨサキのBTC・ETH関連投稿やXRP現物ETFの需要増など",
@@ -229,13 +236,6 @@
       "link": "https://coinpost.jp/?p=708958",
       "published": "Fri, 15 May 2026 16:13:04 +0900",
       "isoDate": "2026-05-15T07:13:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AI悪用で深刻化する北朝鮮の金融業界サイバー攻撃、2025年被害額が前年比51%増に＝レポート",
-      "link": "https://coinpost.jp/?p=708857",
-      "published": "Fri, 15 May 2026 14:00:26 +0900",
-      "isoDate": "2026-05-15T05:00:26Z"
     }
   ]
 }
