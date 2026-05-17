@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T15:00:54Z",
-  "last_checked": "2026-05-17T15:00:54Z",
+  "updated": "2026-05-17T16:30:40Z",
+  "last_checked": "2026-05-17T16:30:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -57,20 +57,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536929",
       "published": "2026-05-14 21:11:42",
       "isoDate": "2026-05-14T21:11:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドが宝飾品輸出業者への無税金輸入を100キログラムに上限設定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536379",
-      "published": "2026-05-14 15:26:49",
-      "isoDate": "2026-05-14T15:26:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "韓国、4月のイラン産原油輸入ゼロ―総輸入量も減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1536333",
-      "published": "2026-05-14 15:05:40",
-      "isoDate": "2026-05-14T15:05:40Z"
     }
   ],
   "usdjpy_items": [
@@ -104,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "連邦規制当局、予測市場での不審な賭けを取り締まり――WSJ",
-      "link": "https://jp.investing.com/news/economy-news/article-1538877",
-      "published": "2026-05-17 06:09:25",
-      "isoDate": "2026-05-17T06:09:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIブームがメモリーチップ市場に空前の利益をもたらすも、景気循環リスクも",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538867",
       "published": "2026-05-17 02:48:57",
@@ -122,6 +101,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1538862",
       "published": "2026-05-17 01:31:09",
       "isoDate": "2026-05-17T01:31:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国とイスラエル、イランへの軍事作戦再開を準備中との報道",
+      "link": "https://jp.investing.com/news/economy-news/article-1538858",
+      "published": "2026-05-17 00:12:13",
+      "isoDate": "2026-05-17T00:12:13Z"
     },
     {
       "source": "Investing.com 外為",
