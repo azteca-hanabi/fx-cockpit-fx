@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T22:02:07Z",
-  "last_checked": "2026-05-17T22:02:07Z",
+  "updated": "2026-05-17T23:31:12Z",
+  "last_checked": "2026-05-17T23:31:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -55,6 +55,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：米長期金利の上昇を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1538931",
+      "published": "2026-05-17 23:00:04",
+      "isoDate": "2026-05-17T23:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント:◆ユーロ編◆目先的にリスク回避的なユーロ売り・円買いは抑制される可能性",
+      "link": "https://jp.investing.com/news/forex-news/article-1538932",
+      "published": "2026-05-17 23:00:04",
+      "isoDate": "2026-05-17T23:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目イベント】FOMC議事録、G7財務相・中銀総裁会合、英スターマー政権の行方",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538930",
+      "published": "2026-05-17 22:45:05",
+      "isoDate": "2026-05-17T22:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比1220円安の61825円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538928",
+      "published": "2026-05-17 22:45:03",
+      "isoDate": "2026-05-17T22:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インドが金・銀の輸入関税を引き上げ：タイタン社への影響",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538908",
       "published": "2026-05-17 13:57:17",
@@ -69,24 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米連邦準備制度の利上げ再浮上：新興市場は準備できているか",
-      "link": "https://jp.investing.com/news/economy-news/article-1538888",
-      "published": "2026-05-17 09:24:46",
-      "isoDate": "2026-05-17T09:24:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サムスンとSKハイニックスの目標株価引き上げ、アドバンスト・マイクロ・デバイセズは格下げ――AIアナリスト動向5選",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538886",
       "published": "2026-05-17 09:00:03",
       "isoDate": "2026-05-17T09:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "連邦規制当局、予測市場での不審な賭けを取り締まり――WSJ",
-      "link": "https://jp.investing.com/news/economy-news/article-1538877",
-      "published": "2026-05-17 06:09:25",
-      "isoDate": "2026-05-17T06:09:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,27 +118,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、イランに「時計は刻んでいる」と警告――米・イスラエルが軍事計画を加速",
-      "link": "https://jp.investing.com/news/economy-news/article-1538858",
-      "published": "2026-05-17 00:12:13",
-      "isoDate": "2026-05-17T00:12:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "イランがホルムズ海峡付近で中国系海洋警備会社所有の船舶を拿捕",
       "link": "https://jp.investing.com/news/economy-news/article-1538854",
       "published": "2026-05-16 23:27:43",
       "isoDate": "2026-05-16T23:27:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円買い介入、日本の残弾はどれくらいあるのか",
-      "link": "https://jp.investing.com/news/forex-news/article-1538846",
-      "published": "2026-05-16 17:15:12",
-      "isoDate": "2026-05-16T17:15:12Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス・リサーチ、仮想通貨の不正資金回収率、法定通貨の55倍と分析",
+      "link": "https://coinpost.jp/?p=709151",
+      "published": "Mon, 18 May 2026 08:02:35 +0900",
+      "isoDate": "2026-05-17T23:02:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティ法案を可決、ビットコインは強気優勢も反転リスクに要注意＝Santiment",
+      "link": "https://coinpost.jp/?p=709147",
+      "published": "Mon, 18 May 2026 07:36:18 +0900",
+      "isoDate": "2026-05-17T22:36:18Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン底堅い推移も200日線で上値重く、米中首脳会談が焦点｜bitbankアナリスト寄稿",
@@ -194,27 +208,6 @@
       "link": "https://coinpost.jp/?p=709072",
       "published": "Sat, 16 May 2026 05:55:33 +0900",
       "isoDate": "2026-05-15T20:55:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、仮想通貨仲介業の登録説明会を開催　6月上旬施行に向け解釈明確化へ",
-      "link": "https://coinpost.jp/?p=708806",
-      "published": "Fri, 15 May 2026 19:33:27 +0900",
-      "isoDate": "2026-05-15T10:33:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースX、5月中にもIPO目論見書を公開へ　ビットコイン保有が初開示か＝報道",
-      "link": "https://coinpost.jp/?p=708995",
-      "published": "Fri, 15 May 2026 17:25:00 +0900",
-      "isoDate": "2026-05-15T08:25:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスリサーチ、2030年に仮想通貨ユーザー30億人到達を予測",
-      "link": "https://coinpost.jp/?p=708958",
-      "published": "Fri, 15 May 2026 16:13:04 +0900",
-      "isoDate": "2026-05-15T07:13:04Z"
     }
   ]
 }
