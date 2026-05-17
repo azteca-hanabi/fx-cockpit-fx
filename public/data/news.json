@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-17T16:30:40Z",
-  "last_checked": "2026-05-17T16:30:40Z",
+  "updated": "2026-05-17T18:00:45Z",
+  "last_checked": "2026-05-17T18:00:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米連邦準備制度の利上げ再浮上：新興市場は準備できているか",
-      "link": "https://jp.investing.com/news/economy-news/article-1538888",
-      "published": "2026-05-17 09:24:46",
-      "isoDate": "2026-05-17T09:24:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サムスンとSKハイニックスの目標株価引き上げ、アドバンスト・マイクロ・デバイセズは格下げ――AIアナリスト動向5選",
       "link": "https://jp.investing.com/news/stock-market-news/article-1538886",
       "published": "2026-05-17 09:00:03",
       "isoDate": "2026-05-17T09:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "連邦規制当局、予測市場での不審な賭けを取り締まり――WSJ",
+      "link": "https://jp.investing.com/news/economy-news/article-1538877",
+      "published": "2026-05-17 06:09:25",
+      "isoDate": "2026-05-17T06:09:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国とイスラエル、イランへの軍事作戦再開を準備中との報道",
+      "title": "トランプ大統領、イランに「時計は刻んでいる」と警告――米・イスラエルが軍事計画を加速",
       "link": "https://jp.investing.com/news/economy-news/article-1538858",
       "published": "2026-05-17 00:12:13",
       "isoDate": "2026-05-17T00:12:13Z"
