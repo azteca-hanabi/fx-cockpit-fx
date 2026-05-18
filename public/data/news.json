@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T18:20:14Z",
-  "last_checked": "2026-05-18T18:20:14Z",
+  "updated": "2026-05-18T20:14:56Z",
+  "last_checked": "2026-05-18T20:14:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,17 +62,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "デルテクノロジーズ、AIインフラの強化策を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1540380",
-      "published": "2026-05-18 17:01:20",
-      "isoDate": "2026-05-18T17:01:20Z"
+      "title": "NvidiaのファンCEO、中国市場が米国製AIチップに開放されると予想",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540497",
+      "published": "2026-05-18 19:46:05",
+      "isoDate": "2026-05-18T19:46:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル買い再開、原油価格は上昇に転じる、米イラン情勢への懸念",
-      "link": "https://jp.investing.com/news/forex-news/article-1540298",
-      "published": "2026-05-18 15:30:05",
-      "isoDate": "2026-05-18T15:30:05Z"
+      "title": "テスラ株が下落、SpaceX IPOが「マスコノミー」プレミアムに脅威",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540495",
+      "published": "2026-05-18 19:43:46",
+      "isoDate": "2026-05-18T19:43:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "デルとNvidiaのCEO、パーソナルAIコンピューティングへの移行を議論",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540458",
+      "published": "2026-05-18 18:53:55",
+      "isoDate": "2026-05-18T18:53:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1540176",
       "published": "2026-05-18 14:13:56",
       "isoDate": "2026-05-18T14:13:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア株が本日上昇している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1539942",
-      "published": "2026-05-18 13:01:06",
-      "isoDate": "2026-05-18T13:01:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +132,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持",
+      "link": "https://coinpost.jp/?p=709345",
+      "published": "Tue, 19 May 2026 05:00:43 +0900",
+      "isoDate": "2026-05-18T20:00:43Z"
+    },
     {
       "source": "CoinPost",
       "title": "米ビットコインATM大手ビットコイン・デポが経営破綻、規制強化で事業継続断念",
@@ -229,13 +236,6 @@
       "link": "https://coinpost.jp/?p=708861",
       "published": "Sun, 17 May 2026 09:25:05 +0900",
       "isoDate": "2026-05-17T00:25:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ミャンマー軍事政府、仮想通貨詐欺に終身刑を科す法案提出",
-      "link": "https://coinpost.jp/?p=709115",
-      "published": "Sat, 16 May 2026 13:45:01 +0900",
-      "isoDate": "2026-05-16T04:45:01Z"
     }
   ]
 }
