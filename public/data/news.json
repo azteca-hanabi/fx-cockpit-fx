@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-18T16:29:06Z",
-  "last_checked": "2026-05-18T16:29:06Z",
+  "updated": "2026-05-18T18:20:14Z",
+  "last_checked": "2026-05-18T18:20:14Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国、ロシア産石油制裁免除をさらに30日間延長",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540362",
+      "published": "2026-05-18 16:45:18",
+      "isoDate": "2026-05-18T16:45:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国トウモロコシ先物が急騰、中国の農産物大量購入合意が背景に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540344",
+      "published": "2026-05-18 16:20:31",
+      "isoDate": "2026-05-18T16:20:31Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス価格が下落、原油市場の冷え込みを反映",
@@ -43,23 +57,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1538949",
       "published": "2026-05-18 00:09:27",
       "isoDate": "2026-05-18T00:09:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ベネズエラ、石油会社向け新炭化水素法の規制草案を配布",
-      "link": "https://jp.investing.com/news/commodities-news/article-1538859",
-      "published": "2026-05-17 00:54:20",
-      "isoDate": "2026-05-17T00:54:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物が4週間ぶり安値、米中貿易協議の詳細不透明で下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538495",
-      "published": "2026-05-15 19:42:19",
-      "isoDate": "2026-05-15T19:42:19Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "デルテクノロジーズ、AIインフラの強化策を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1540380",
+      "published": "2026-05-18 17:01:20",
+      "isoDate": "2026-05-18T17:01:20Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY外為：ドル買い再開、原油価格は上昇に転じる、米イラン情勢への懸念",
@@ -73,13 +80,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1540176",
       "published": "2026-05-18 14:13:56",
       "isoDate": "2026-05-18T14:13:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル軟調、原油価格が下落、米国が対イラン原油制裁一時免除との報",
-      "link": "https://jp.investing.com/news/forex-news/article-1540098",
-      "published": "2026-05-18 13:45:08",
-      "isoDate": "2026-05-18T13:45:08Z"
     },
     {
       "source": "Investing.com 外為",
