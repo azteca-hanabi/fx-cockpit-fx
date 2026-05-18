@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-18T12:37:46Z",
-  "last_checked": "2026-05-18T12:37:46Z",
+  "updated": "2026-05-18T16:29:06Z",
+  "last_checked": "2026-05-18T16:29:06Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス価格が下落、原油市場の冷え込みを反映",
+      "link": "https://jp.investing.com/news/commodities-news/article-1540186",
+      "published": "2026-05-18 14:18:43",
+      "isoDate": "2026-05-18T14:18:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅価格、中国需要懸念と原油高で1週間ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1539889",
+      "published": "2026-05-18 12:39:26",
+      "isoDate": "2026-05-18T12:39:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "JPモルガン・チェース・アンド・カンパニー、需要軟化で金価格予測を引き下げ、下半期回復を予想",
@@ -43,43 +57,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538495",
       "published": "2026-05-15 19:42:19",
       "isoDate": "2026-05-15T19:42:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米大豆先物、米中首脳会談の失望感で2週間ぶり安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538491",
-      "published": "2026-05-15 19:39:05",
-      "isoDate": "2026-05-15T19:39:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西ヨーロッパのガソリン精製マージン、在庫増加で14%下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1538356",
-      "published": "2026-05-15 16:21:20",
-      "isoDate": "2026-05-15T16:21:20Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "RBCはS&P 500の調整局面を5〜10%程度にとどまると予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539672",
-      "published": "2026-05-18 11:39:21",
-      "isoDate": "2026-05-18T11:39:21Z"
+      "title": "NY外為：ドル買い再開、原油価格は上昇に転じる、米イラン情勢への懸念",
+      "link": "https://jp.investing.com/news/forex-news/article-1540298",
+      "published": "2026-05-18 15:30:05",
+      "isoDate": "2026-05-18T15:30:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、イランは和平合意に「必死」と発言",
-      "link": "https://jp.investing.com/news/economy-news/article-1539483",
-      "published": "2026-05-18 10:33:51",
-      "isoDate": "2026-05-18T10:33:51Z"
+      "title": "トランプ大統領、インテル株の急騰を受け「もっと多くの株式を要求すべきだった」と発言",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540176",
+      "published": "2026-05-18 14:13:56",
+      "isoDate": "2026-05-18T14:13:56Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "エバーコアのエマニュエル氏、S&P 500が年末までに9,000に達する確率30%と予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539482",
-      "published": "2026-05-18 10:33:25",
-      "isoDate": "2026-05-18T10:33:25Z"
+      "title": "NY外為：ドル軟調、原油価格が下落、米国が対イラン原油制裁一時免除との報",
+      "link": "https://jp.investing.com/news/forex-news/article-1540098",
+      "published": "2026-05-18 13:45:08",
+      "isoDate": "2026-05-18T13:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日上昇している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1539942",
+      "published": "2026-05-18 13:01:06",
+      "isoDate": "2026-05-18T13:01:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "S&P 500、この条件が重なると少なくとも7%下落する傾向",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539787",
+      "published": "2026-05-18 11:58:22",
+      "isoDate": "2026-05-18T11:58:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1539129",
       "published": "2026-05-18 06:15:18",
       "isoDate": "2026-05-18T06:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSMCがバンガード株を売却、株価が約10%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539067",
-      "published": "2026-05-18 04:40:25",
-      "isoDate": "2026-05-18T04:40:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株、テクノロジー株安とイラン緊張で下落——サムスン労使交渉に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539043",
-      "published": "2026-05-18 03:34:45",
-      "isoDate": "2026-05-18T03:34:45Z"
     }
   ],
   "btc_items": [
