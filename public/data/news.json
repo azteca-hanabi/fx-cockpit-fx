@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-17T23:31:12Z",
-  "last_checked": "2026-05-17T23:31:12Z",
+  "updated": "2026-05-18T04:07:58Z",
+  "last_checked": "2026-05-18T04:07:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が1カ月半ぶり安値、利回り上昇とイラン緊張が重荷",
+      "link": "https://jp.investing.com/news/commodities-news/article-1538966",
+      "published": "2026-05-18 01:04:54",
+      "isoDate": "2026-05-18T01:04:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン緊張高まる中、原油価格が1%超上昇―UAEへのドローン攻撃受け",
+      "link": "https://jp.investing.com/news/commodities-news/article-1538949",
+      "published": "2026-05-18 00:09:27",
+      "isoDate": "2026-05-18T00:09:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ベネズエラ、石油会社向け新炭化水素法の規制草案を配布",
@@ -43,57 +57,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1537460",
       "published": "2026-05-15 09:04:22",
       "isoDate": "2026-05-15T09:04:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、週間下落へ――米経済指標の好調がドル高とFED利上げ観測を後押し",
-      "link": "https://jp.investing.com/news/commodities-news/article-1537173",
-      "published": "2026-05-15 01:56:02",
-      "isoDate": "2026-05-15T01:56:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：米長期金利の上昇を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1538931",
-      "published": "2026-05-17 23:00:04",
-      "isoDate": "2026-05-17T23:00:04Z"
+      "title": "アジア株、テクノロジー株安とイラン緊張で下落——サムスン労使交渉に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539043",
+      "published": "2026-05-18 03:34:45",
+      "isoDate": "2026-05-18T03:34:45Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント:◆ユーロ編◆目先的にリスク回避的なユーロ売り・円買いは抑制される可能性",
-      "link": "https://jp.investing.com/news/forex-news/article-1538932",
-      "published": "2026-05-17 23:00:04",
-      "isoDate": "2026-05-17T23:00:04Z"
+      "title": "後場に注目すべき3つのポイント～国内長期金利上昇横目に売り優勢の展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1539041",
+      "published": "2026-05-18 03:30:16",
+      "isoDate": "2026-05-18T03:30:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NYの視点：【今週の注目イベント】FOMC議事録、G7財務相・中銀総裁会合、英スターマー政権の行方",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538930",
-      "published": "2026-05-17 22:45:05",
-      "isoDate": "2026-05-17T22:45:05Z"
+      "title": "国内長期金利上昇横目に売り優勢の展開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539040",
+      "published": "2026-05-18 03:30:15",
+      "isoDate": "2026-05-18T03:30:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比1220円安の61825円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538928",
-      "published": "2026-05-17 22:45:03",
-      "isoDate": "2026-05-17T22:45:03Z"
+      "title": "東京為替：ドル・円は小じっかり、米金利高で",
+      "link": "https://jp.investing.com/news/forex-news/article-1539036",
+      "published": "2026-05-18 03:15:15",
+      "isoDate": "2026-05-18T03:15:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "インドが金・銀の輸入関税を引き上げ：タイタン社への影響",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538908",
-      "published": "2026-05-17 13:57:17",
-      "isoDate": "2026-05-17T13:57:17Z"
+      "title": "注目銘柄ダイジェスト（前場）:データセク、技術承継機構、テルモなど",
+      "link": "https://jp.investing.com/news/forex-news/article-1539024",
+      "published": "2026-05-18 02:45:14",
+      "isoDate": "2026-05-18T02:45:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "戦争緊張緩和でFRBと財政政策に投資家の関心が移行",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538896",
-      "published": "2026-05-17 12:15:02",
-      "isoDate": "2026-05-17T12:15:02Z"
+      "title": "東京為替：ドルは総じて強含み",
+      "link": "https://jp.investing.com/news/forex-news/article-1538988",
+      "published": "2026-05-18 02:00:11",
+      "isoDate": "2026-05-18T02:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格が1カ月半ぶり安値、利回り上昇とイラン緊張が重荷",
+      "link": "https://jp.investing.com/news/commodities-news/article-1538966",
+      "published": "2026-05-18 01:04:54",
+      "isoDate": "2026-05-18T01:04:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は109円安でスタート、フジクラやトヨタ自などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538958",
+      "published": "2026-05-18 00:30:07",
+      "isoDate": "2026-05-18T00:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株の下落を映して売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1538934",
+      "published": "2026-05-17 23:30:04",
+      "isoDate": "2026-05-17T23:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,30 +129,37 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1538886",
       "published": "2026-05-17 09:00:03",
       "isoDate": "2026-05-17T09:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIブームがメモリーチップ市場に空前の利益をもたらすも、景気循環リスクも",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538867",
-      "published": "2026-05-17 02:48:57",
-      "isoDate": "2026-05-17T02:48:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務省、ロシア産原油制裁免除を失効させる―原油100ドル超の圧力下で",
-      "link": "https://jp.investing.com/news/economy-news/article-1538862",
-      "published": "2026-05-17 01:31:09",
-      "isoDate": "2026-05-17T01:31:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡付近で中国系海洋警備会社所有の船舶を拿捕",
-      "link": "https://jp.investing.com/news/economy-news/article-1538854",
-      "published": "2026-05-16 23:27:43",
-      "isoDate": "2026-05-16T23:27:43Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "SBI・楽天など主要証券が仮想通貨投信の販売準備、世界的なETF拡大を背景に＝日経",
+      "link": "https://coinpost.jp/?p=709192",
+      "published": "Mon, 18 May 2026 10:46:04 +0900",
+      "isoDate": "2026-05-18T01:46:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨詐欺「Forsage」共同創設者、タイから米国に身柄移送　約3億4000万ドル詐取の疑い",
+      "link": "https://coinpost.jp/?p=709162",
+      "published": "Mon, 18 May 2026 09:30:13 +0900",
+      "isoDate": "2026-05-18T00:30:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "UAE政府系ファンドがIBIT保有を増加、ハーバード大は43%削減　機関投資家の仮想通貨ETF最新動向",
+      "link": "https://coinpost.jp/?p=709166",
+      "published": "Mon, 18 May 2026 09:11:57 +0900",
+      "isoDate": "2026-05-18T00:11:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者の供給量が1526万BTCに回復、2025年8月以来の水準＝アナリスト",
+      "link": "https://coinpost.jp/?p=709155",
+      "published": "Mon, 18 May 2026 08:45:06 +0900",
+      "isoDate": "2026-05-17T23:45:06Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイナンス・リサーチ、仮想通貨の不正資金回収率、法定通貨の55倍と分析",
@@ -134,7 +169,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "クラリティ法案を可決、ビットコインは強気優勢も反転リスクに要注意＝Santiment",
+      "title": "ビットコインは強気優勢も反転リスクに要注意、クラリティー法案可決で＝Santiment",
       "link": "https://coinpost.jp/?p=709147",
       "published": "Mon, 18 May 2026 07:36:18 +0900",
       "isoDate": "2026-05-17T22:36:18Z"
@@ -194,20 +229,6 @@
       "link": "https://coinpost.jp/?p=709069",
       "published": "Sat, 16 May 2026 07:56:48 +0900",
       "isoDate": "2026-05-15T22:56:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "21SharesのHYPE現物ETF、過去最高出来高を記録　コインベースの提携発表が呼び水に",
-      "link": "https://coinpost.jp/?p=709071",
-      "published": "Sat, 16 May 2026 06:35:23 +0900",
-      "isoDate": "2026-05-15T21:35:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米大手取引所ICE・CME、ハイパーリキッド規制をCFTCに要請",
-      "link": "https://coinpost.jp/?p=709072",
-      "published": "Sat, 16 May 2026 05:55:33 +0900",
-      "isoDate": "2026-05-15T20:55:33Z"
     }
   ]
 }
