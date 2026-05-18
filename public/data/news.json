@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T04:07:58Z",
-  "last_checked": "2026-05-18T04:07:58Z",
+  "updated": "2026-05-18T08:32:01Z",
+  "last_checked": "2026-05-18T08:32:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,66 +62,66 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は3日続落、ソフトバンクGとファーストリテの2銘柄で約238円押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539241",
+      "published": "2026-05-18 08:00:17",
+      "isoDate": "2026-05-18T08:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テック株中心に利食い売りが膨らみ61000円台割れ【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1539239",
+      "published": "2026-05-18 08:00:16",
+      "isoDate": "2026-05-18T08:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中東緊張で債券利回り上昇、欧州株は小幅安",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539208",
+      "published": "2026-05-18 07:17:37",
+      "isoDate": "2026-05-18T07:17:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は底堅い、ドルは下落",
+      "link": "https://jp.investing.com/news/forex-news/article-1539204",
+      "published": "2026-05-18 07:15:18",
+      "isoDate": "2026-05-18T07:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、中央銀行の金需要拡大を背景に強気姿勢を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1539175",
+      "published": "2026-05-18 06:56:04",
+      "isoDate": "2026-05-18T06:56:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は350円安、今週は米エヌビディア決算などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1539129",
+      "published": "2026-05-18 06:15:18",
+      "isoDate": "2026-05-18T06:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "TSMCがバンガード株を売却、株価が約10%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539067",
+      "published": "2026-05-18 04:40:25",
+      "isoDate": "2026-05-18T04:40:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "三菱UFJフィナンシャル株が急騰、3期連続で過去最高益を更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1539047",
+      "published": "2026-05-18 04:01:18",
+      "isoDate": "2026-05-18T04:01:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アジア株、テクノロジー株安とイラン緊張で下落——サムスン労使交渉に注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1539043",
       "published": "2026-05-18 03:34:45",
       "isoDate": "2026-05-18T03:34:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～国内長期金利上昇横目に売り優勢の展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1539041",
-      "published": "2026-05-18 03:30:16",
-      "isoDate": "2026-05-18T03:30:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内長期金利上昇横目に売り優勢の展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539040",
-      "published": "2026-05-18 03:30:15",
-      "isoDate": "2026-05-18T03:30:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小じっかり、米金利高で",
-      "link": "https://jp.investing.com/news/forex-news/article-1539036",
-      "published": "2026-05-18 03:15:15",
-      "isoDate": "2026-05-18T03:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "注目銘柄ダイジェスト（前場）:データセク、技術承継機構、テルモなど",
-      "link": "https://jp.investing.com/news/forex-news/article-1539024",
-      "published": "2026-05-18 02:45:14",
-      "isoDate": "2026-05-18T02:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドルは総じて強含み",
-      "link": "https://jp.investing.com/news/forex-news/article-1538988",
-      "published": "2026-05-18 02:00:11",
-      "isoDate": "2026-05-18T02:00:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金価格が1カ月半ぶり安値、利回り上昇とイラン緊張が重荷",
-      "link": "https://jp.investing.com/news/commodities-news/article-1538966",
-      "published": "2026-05-18 01:04:54",
-      "isoDate": "2026-05-18T01:04:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は109円安でスタート、フジクラやトヨタ自などが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538958",
-      "published": "2026-05-18 00:30:07",
-      "isoDate": "2026-05-18T00:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株の下落を映して売り先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1538934",
-      "published": "2026-05-17 23:30:04",
-      "isoDate": "2026-05-17T23:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +132,41 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ビットコインATM大手ビットコイン・デポが経営破綻、規制強化で事業継続断念",
+      "link": "https://coinpost.jp/?p=709272",
+      "published": "Mon, 18 May 2026 15:55:00 +0900",
+      "isoDate": "2026-05-18T06:55:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イランがビットコイン決済の海上保険プラットフォーム「Hormuz Safe」を立ち上げ＝報道",
+      "link": "https://coinpost.jp/?p=709266",
+      "published": "Mon, 18 May 2026 15:45:36 +0900",
+      "isoDate": "2026-05-18T06:45:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "au PAY ポイント運用、ビットコイン連動コース開始",
+      "link": "https://coinpost.jp/?p=709257",
+      "published": "Mon, 18 May 2026 15:01:58 +0900",
+      "isoDate": "2026-05-18T06:01:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イタリア最大手銀インテーザ、ビットコイン現物ETFへの投資倍増　仮想通貨関連株も拡大",
+      "link": "https://coinpost.jp/?p=709245",
+      "published": "Mon, 18 May 2026 14:48:05 +0900",
+      "isoDate": "2026-05-18T05:48:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "BNB現物ETFレース加速、ヴァンエックが5回目、グレースケールは2回目の修正書類を同日提出",
+      "link": "https://coinpost.jp/?p=709219",
+      "published": "Mon, 18 May 2026 14:22:11 +0900",
+      "isoDate": "2026-05-18T05:22:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "SBI・楽天など主要証券が仮想通貨投信の販売準備、世界的なETF拡大を背景に＝日経",
@@ -201,34 +236,6 @@
       "link": "https://coinpost.jp/?p=709115",
       "published": "Sat, 16 May 2026 13:45:01 +0900",
       "isoDate": "2026-05-16T04:45:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケールがBNB現物ETFの目論見書を提出、米国初承認なるか",
-      "link": "https://coinpost.jp/?p=709067",
-      "published": "Sat, 16 May 2026 11:50:48 +0900",
-      "isoDate": "2026-05-16T02:50:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ一族信託、購入した仮想通貨・半導体関連銘柄を開示",
-      "link": "https://coinpost.jp/?p=709097",
-      "published": "Sat, 16 May 2026 10:45:23 +0900",
-      "isoDate": "2026-05-16T01:45:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クロスチェーンプロトコルThorchain、約17億円相当の資産が不正流出か",
-      "link": "https://coinpost.jp/?p=709082",
-      "published": "Sat, 16 May 2026 09:25:15 +0900",
-      "isoDate": "2026-05-16T00:25:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院「クラリティー法」採決の壁、公職者の利益相反防ぐ「倫理条項」が焦点に",
-      "link": "https://coinpost.jp/?p=709069",
-      "published": "Sat, 16 May 2026 07:56:48 +0900",
-      "isoDate": "2026-05-15T22:56:48Z"
     }
   ]
 }
