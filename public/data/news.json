@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T01:30:35Z",
-  "last_checked": "2026-05-19T01:30:35Z",
+  "updated": "2026-05-19T06:13:04Z",
+  "last_checked": "2026-05-19T06:13:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,17 +62,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領がイラン攻撃を延期、金価格が上昇継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-1540848",
-      "published": "2026-05-19 00:54:53",
-      "isoDate": "2026-05-19T00:54:53Z"
+      "title": "日経平均は311円安、積極的な買いは限定的",
+      "link": "https://jp.investing.com/news/forex-news/article-1540968",
+      "published": "2026-05-19 05:15:19",
+      "isoDate": "2026-05-19T05:15:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は386円高でスタート、AGCやみずほなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540843",
-      "published": "2026-05-19 00:45:10",
-      "isoDate": "2026-05-19T00:45:10Z"
+      "title": "米国株見通し：下げ渋りか、目先のイベントを見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1540969",
+      "published": "2026-05-19 05:15:19",
+      "isoDate": "2026-05-19T05:15:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小動き、原油相場にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1540960",
+      "published": "2026-05-19 05:00:16",
+      "isoDate": "2026-05-19T05:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場の日経平均は119円安でスタート、古河電工やレーザーテックなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540950",
+      "published": "2026-05-19 04:15:18",
+      "isoDate": "2026-05-19T04:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～買い先行もマイナス圏に転落",
+      "link": "https://jp.investing.com/news/forex-news/article-1540939",
+      "published": "2026-05-19 03:45:18",
+      "isoDate": "2026-05-19T03:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォール街先物は横ばい、テック株売りの後でNvidiaの決算に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540865",
+      "published": "2026-05-19 01:29:49",
+      "isoDate": "2026-05-19T01:29:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,27 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1540834",
       "published": "2026-05-19 00:26:21",
       "isoDate": "2026-05-19T00:26:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本の1-3月期GDP、予想上回る成長－個人消費と輸出が牽引",
-      "link": "https://jp.investing.com/news/economy-news/article-1540815",
-      "published": "2026-05-19 00:12:50",
-      "isoDate": "2026-05-19T00:12:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "連日の下落の反動から買い戻し先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540784",
-      "published": "2026-05-18 23:30:07",
-      "isoDate": "2026-05-18T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：原油高を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1540775",
-      "published": "2026-05-18 23:15:08",
-      "isoDate": "2026-05-18T23:15:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "シティ、インテルとAMDの目標株価を引き上げ、2030年までにCPU市場規模が1320億ドルに達すると予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539467",
-      "published": "2026-05-18 10:21:30",
-      "isoDate": "2026-05-18T10:21:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "フラッシュセール：InvestingProを2026年最安値で手に入れるチャンス",
       "link": "https://jp.investing.com/news/stock-market-news/article-1539302",
       "published": "2026-05-18 08:45:06",
@@ -132,6 +132,41 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
+      "link": "https://coinpost.jp/?p=709575",
+      "published": "Tue, 19 May 2026 14:43:03 +0900",
+      "isoDate": "2026-05-19T05:43:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン運用プロトコル「エコ」がハッキング被害、約1億3000万円詐取",
+      "link": "https://coinpost.jp/?p=709541",
+      "published": "Tue, 19 May 2026 13:56:46 +0900",
+      "isoDate": "2026-05-19T04:56:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、次回半減期まで10万ブロック未満に",
+      "link": "https://coinpost.jp/?p=709455",
+      "published": "Tue, 19 May 2026 13:10:08 +0900",
+      "isoDate": "2026-05-19T04:10:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン売り圧力が解消局面か、バイナンスリサーチが示す4つのオンチェーン指標の意味",
+      "link": "https://coinpost.jp/?p=709453",
+      "published": "Tue, 19 May 2026 11:40:40 +0900",
+      "isoDate": "2026-05-19T02:40:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DeFiプロトコル「Verus」のブリッジに攻撃、18億円不正流出の可能性",
+      "link": "https://coinpost.jp/?p=709420",
+      "published": "Tue, 19 May 2026 10:42:58 +0900",
+      "isoDate": "2026-05-19T01:42:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインマイニング企業HIVEの子会社、カナダ最大級のAIギガファクトリーをトロントで建設へ",
@@ -173,48 +208,6 @@
       "link": "https://coinpost.jp/?p=709272",
       "published": "Mon, 18 May 2026 15:55:00 +0900",
       "isoDate": "2026-05-18T06:55:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イランがビットコイン決済の海上保険プラットフォーム「Hormuz Safe」を立ち上げ＝報道",
-      "link": "https://coinpost.jp/?p=709266",
-      "published": "Mon, 18 May 2026 15:45:36 +0900",
-      "isoDate": "2026-05-18T06:45:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "au PAY ポイント運用、ビットコイン連動コース開始",
-      "link": "https://coinpost.jp/?p=709257",
-      "published": "Mon, 18 May 2026 15:01:58 +0900",
-      "isoDate": "2026-05-18T06:01:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イタリア最大手銀インテーザ、ビットコイン現物ETFへの投資倍増　仮想通貨関連株も拡大",
-      "link": "https://coinpost.jp/?p=709245",
-      "published": "Mon, 18 May 2026 14:48:05 +0900",
-      "isoDate": "2026-05-18T05:48:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BNB現物ETFレース加速、ヴァンエックが5回目、グレースケールは2回目の修正書類を同日提出",
-      "link": "https://coinpost.jp/?p=709219",
-      "published": "Mon, 18 May 2026 14:22:11 +0900",
-      "isoDate": "2026-05-18T05:22:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBI・楽天など主要証券が仮想通貨投信の販売準備、世界的なETF拡大を背景に＝日経",
-      "link": "https://coinpost.jp/?p=709192",
-      "published": "Mon, 18 May 2026 10:46:04 +0900",
-      "isoDate": "2026-05-18T01:46:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨詐欺「Forsage」共同創設者、タイから米国に身柄移送　約3億4000万ドル詐取の疑い",
-      "link": "https://coinpost.jp/?p=709162",
-      "published": "Mon, 18 May 2026 09:30:13 +0900",
-      "isoDate": "2026-05-18T00:30:13Z"
     }
   ]
 }
