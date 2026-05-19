@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T16:51:17Z",
-  "last_checked": "2026-05-19T16:51:17Z",
+  "updated": "2026-05-19T19:05:08Z",
+  "last_checked": "2026-05-19T19:05:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米市場の上昇と中国との取引観測を受け、欧州小麦価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542239",
+      "published": "2026-05-19 18:07:03",
+      "isoDate": "2026-05-19T18:07:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国のLNG施設へのガス供給量が16週間ぶりの低水準に",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540344",
       "published": "2026-05-18 16:20:31",
       "isoDate": "2026-05-18T16:20:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格が下落、原油市場の冷え込みを反映",
-      "link": "https://jp.investing.com/news/commodities-news/article-1540186",
-      "published": "2026-05-18 14:18:43",
-      "isoDate": "2026-05-18T14:18:43Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アッシェンブレナーの弱気AIチップ賭けがバブル警告を増幅",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542175",
+      "published": "2026-05-19 16:43:24",
+      "isoDate": "2026-05-19T16:43:24Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY外為：円買い一時強まる、ベッセント米財務長官発言受け",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1542075",
       "published": "2026-05-19 14:47:13",
       "isoDate": "2026-05-19T14:47:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NATOがホルムズ海峡への軍事介入を検討、エネルギー価格上昇が背景に",
-      "link": "https://jp.investing.com/news/economy-news/article-1542021",
-      "published": "2026-05-19 14:12:48",
-      "isoDate": "2026-05-19T14:12:48Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,76 @@
       "isoDate": "2026-05-19T01:29:49Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "LINE NEXTのウォレット「Unifi」、JPYCを5月22日より正式対応",
+      "link": "https://coinpost.jp/?p=709623",
+      "published": "Tue, 19 May 2026 17:00:40 +0900",
+      "isoDate": "2026-05-19T08:00:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
+      "link": "https://coinpost.jp/?p=709575",
+      "published": "Tue, 19 May 2026 14:43:03 +0900",
+      "isoDate": "2026-05-19T05:43:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン運用プロトコル「エコ」がハッキング被害、約1億3000万円詐取",
+      "link": "https://coinpost.jp/?p=709541",
+      "published": "Tue, 19 May 2026 13:56:46 +0900",
+      "isoDate": "2026-05-19T04:56:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、次回半減期まで10万ブロック未満に",
+      "link": "https://coinpost.jp/?p=709455",
+      "published": "Tue, 19 May 2026 13:10:08 +0900",
+      "isoDate": "2026-05-19T04:10:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン売り圧力が解消局面か、バイナンスリサーチが示す4つのオンチェーン指標の意味",
+      "link": "https://coinpost.jp/?p=709453",
+      "published": "Tue, 19 May 2026 11:40:40 +0900",
+      "isoDate": "2026-05-19T02:40:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DeFiプロトコル「Verus」のブリッジに攻撃、18億円不正流出の可能性",
+      "link": "https://coinpost.jp/?p=709420",
+      "published": "Tue, 19 May 2026 10:42:58 +0900",
+      "isoDate": "2026-05-19T01:42:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインマイニング企業HIVEの子会社、カナダ最大級のAIギガファクトリーをトロントで建設へ",
+      "link": "https://coinpost.jp/?p=709383",
+      "published": "Tue, 19 May 2026 09:50:12 +0900",
+      "isoDate": "2026-05-19T00:50:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入",
+      "link": "https://coinpost.jp/?p=709397",
+      "published": "Tue, 19 May 2026 07:50:11 +0900",
+      "isoDate": "2026-05-18T22:50:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米政府のビットコイン準備金法整備に進展、新規購入の可能性は低いか",
+      "link": "https://coinpost.jp/?p=709385",
+      "published": "Tue, 19 May 2026 07:25:31 +0900",
+      "isoDate": "2026-05-18T22:25:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの先週のビットコイン購入状況、STRCから調達した3100億円で2.4万BTCを追加取得",
+      "link": "https://coinpost.jp/?p=709386",
+      "published": "Tue, 19 May 2026 07:00:40 +0900",
+      "isoDate": "2026-05-18T22:00:40Z"
+    }
+  ]
 }
