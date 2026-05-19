@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-19T21:02:12Z",
-  "last_checked": "2026-05-19T21:02:12Z",
+  "updated": "2026-05-19T22:45:41Z",
+  "last_checked": "2026-05-19T22:45:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：原油高止まりで年内米利上げ観測強まる、ドルは強含み",
+      "link": "https://jp.investing.com/news/forex-news/article-1542498",
+      "published": "2026-05-19 21:15:04",
+      "isoDate": "2026-05-19T21:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアとGoogle Cloudの共同開発者コミュニティが10万人を突破",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1542440",
+      "published": "2026-05-19 20:38:16",
+      "isoDate": "2026-05-19T20:38:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "QIAGENとエヌビディア、AIを創薬プラットフォームに統合する提携を発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1542329",
       "published": "2026-05-19 20:06:23",
       "isoDate": "2026-05-19T20:06:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グリッド・ダイナミクス、マイクロソフトAzure上でAIモダナイゼーションサービスを開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1542328",
-      "published": "2026-05-19 20:06:16",
-      "isoDate": "2026-05-19T20:06:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アッシェンブレナーの弱気AIチップ賭けがバブル警告を増幅",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542175",
-      "published": "2026-05-19 16:43:24",
-      "isoDate": "2026-05-19T16:43:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットワイズCIO、ハイパーリキッド（HYPE）を「割安な大型銘柄」と分析",
+      "link": "https://coinpost.jp/?p=709699",
+      "published": "Wed, 20 May 2026 06:55:56 +0900",
+      "isoDate": "2026-05-19T21:55:56Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ストライブ、約48億円で382ビットコインを追加取得",
+      "link": "https://coinpost.jp/?p=709700",
+      "published": "Wed, 20 May 2026 06:20:05 +0900",
+      "isoDate": "2026-05-19T21:20:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ウォーレン米議員、仮想通貨関連9社への通貨監督局信託認可は違法と指摘",
+      "link": "https://coinpost.jp/?p=709701",
+      "published": "Wed, 20 May 2026 05:55:12 +0900",
+      "isoDate": "2026-05-19T20:55:12Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "LINE NEXTのウォレット「Unifi」、JPYCを5月22日より正式対応",
       "link": "https://coinpost.jp/?p=709623",
       "published": "Tue, 19 May 2026 17:00:40 +0900",
@@ -194,27 +215,6 @@
       "link": "https://coinpost.jp/?p=709383",
       "published": "Tue, 19 May 2026 09:50:12 +0900",
       "isoDate": "2026-05-19T00:50:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入",
-      "link": "https://coinpost.jp/?p=709397",
-      "published": "Tue, 19 May 2026 07:50:11 +0900",
-      "isoDate": "2026-05-18T22:50:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米政府のビットコイン準備金法整備に進展、新規購入の可能性は低いか",
-      "link": "https://coinpost.jp/?p=709385",
-      "published": "Tue, 19 May 2026 07:25:31 +0900",
-      "isoDate": "2026-05-18T22:25:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの先週のビットコイン購入状況、STRCから調達した3100億円で2.4万BTCを追加取得",
-      "link": "https://coinpost.jp/?p=709386",
-      "published": "Tue, 19 May 2026 07:00:40 +0900",
-      "isoDate": "2026-05-18T22:00:40Z"
     }
   ]
 }
