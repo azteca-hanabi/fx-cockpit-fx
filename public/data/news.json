@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-18T23:07:48Z",
-  "last_checked": "2026-05-18T23:07:48Z",
+  "updated": "2026-05-19T01:30:35Z",
+  "last_checked": "2026-05-19T01:30:35Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン攻撃を延期、金価格が上昇継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1540848",
+      "published": "2026-05-19 00:54:53",
+      "isoDate": "2026-05-19T00:54:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン攻撃を延期、原油価格下落―ロシア制裁免除も延長",
+      "link": "https://jp.investing.com/news/commodities-news/article-1540799",
+      "published": "2026-05-18 23:47:42",
+      "isoDate": "2026-05-18T23:47:42Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国、ロシア産石油制裁免除をさらに30日間延長",
@@ -43,43 +57,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1539271",
       "published": "2026-05-18 08:20:00",
       "isoDate": "2026-05-18T08:20:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が1カ月半ぶり安値、利回り上昇とイラン緊張が重荷",
-      "link": "https://jp.investing.com/news/commodities-news/article-1538966",
-      "published": "2026-05-18 01:04:54",
-      "isoDate": "2026-05-18T01:04:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米イラン緊張高まる中、原油価格が1%超上昇―UAEへのドローン攻撃受け",
-      "link": "https://jp.investing.com/news/commodities-news/article-1538949",
-      "published": "2026-05-18 00:09:27",
-      "isoDate": "2026-05-18T00:09:27Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1技術承継機構、キオクシアHD、GMOペイメントゲートウェイなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540732",
-      "published": "2026-05-18 22:30:05",
-      "isoDate": "2026-05-18T22:30:05Z"
+      "title": "トランプ大統領がイラン攻撃を延期、金価格が上昇継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1540848",
+      "published": "2026-05-19 00:54:53",
+      "isoDate": "2026-05-19T00:54:53Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは159.95ドル高、イラン合意への不透明感を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1540693",
-      "published": "2026-05-18 21:45:04",
-      "isoDate": "2026-05-18T21:45:04Z"
+      "title": "日経平均は386円高でスタート、AGCやみずほなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540843",
+      "published": "2026-05-19 00:45:10",
+      "isoDate": "2026-05-19T00:45:10Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米イラン情勢を巡る懸念でドルは乱高下、原油相場に連動",
-      "link": "https://jp.investing.com/news/forex-news/article-1540658",
-      "published": "2026-05-18 21:15:05",
-      "isoDate": "2026-05-18T21:15:05Z"
+      "title": "グーグルとブラックストーン、AI クラウド新会社設立を計画＝WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540834",
+      "published": "2026-05-19 00:26:21",
+      "isoDate": "2026-05-19T00:26:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本の1-3月期GDP、予想上回る成長－個人消費と輸出が牽引",
+      "link": "https://jp.investing.com/news/economy-news/article-1540815",
+      "published": "2026-05-19 00:12:50",
+      "isoDate": "2026-05-19T00:12:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "連日の下落の反動から買い戻し先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540784",
+      "published": "2026-05-18 23:30:07",
+      "isoDate": "2026-05-18T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：原油高を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1540775",
+      "published": "2026-05-18 23:15:08",
+      "isoDate": "2026-05-18T23:15:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,20 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "デルとNvidiaのCEO、パーソナルAIコンピューティングへの移行を議論",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540458",
-      "published": "2026-05-18 18:53:55",
-      "isoDate": "2026-05-18T18:53:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、インテル株の急騰を受け「もっと多くの株式を要求すべきだった」と発言",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540176",
-      "published": "2026-05-18 14:13:56",
-      "isoDate": "2026-05-18T14:13:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "シティ、インテルとAMDの目標株価を引き上げ、2030年までにCPU市場規模が1320億ドルに達すると予測",
       "link": "https://jp.investing.com/news/stock-market-news/article-1539467",
       "published": "2026-05-18 10:21:30",
@@ -122,16 +129,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1539302",
       "published": "2026-05-18 08:45:06",
       "isoDate": "2026-05-18T08:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "世界の債券市場が動揺、サムスン株は急騰――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1539274",
-      "published": "2026-05-18 08:21:04",
-      "isoDate": "2026-05-18T08:21:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインマイニング企業HIVEの子会社、カナダ最大級のAIギガファクトリーをトロントで建設へ",
+      "link": "https://coinpost.jp/?p=709383",
+      "published": "Tue, 19 May 2026 09:50:12 +0900",
+      "isoDate": "2026-05-19T00:50:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入",
@@ -208,20 +215,6 @@
       "link": "https://coinpost.jp/?p=709162",
       "published": "Mon, 18 May 2026 09:30:13 +0900",
       "isoDate": "2026-05-18T00:30:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "UAE政府系ファンドがIBIT保有を増加、ハーバード大は43%削減　機関投資家の仮想通貨ETF最新動向",
-      "link": "https://coinpost.jp/?p=709166",
-      "published": "Mon, 18 May 2026 09:11:57 +0900",
-      "isoDate": "2026-05-18T00:11:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者の供給量が1526万BTCに回復、2025年8月以来の水準＝アナリスト",
-      "link": "https://coinpost.jp/?p=709155",
-      "published": "Mon, 18 May 2026 08:45:06 +0900",
-      "isoDate": "2026-05-17T23:45:06Z"
     }
   ]
 }
