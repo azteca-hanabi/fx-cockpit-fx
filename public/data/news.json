@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T06:13:04Z",
-  "last_checked": "2026-05-19T06:13:04Z",
+  "updated": "2026-05-19T10:24:04Z",
+  "last_checked": "2026-05-19T10:24:04Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドネシアの減産懸念でニッケル価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1541146",
+      "published": "2026-05-19 08:18:23",
+      "isoDate": "2026-05-19T08:18:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ大統領がイラン攻撃を延期、金価格が上昇継続",
@@ -62,24 +69,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は311円安、積極的な買いは限定的",
-      "link": "https://jp.investing.com/news/forex-news/article-1540968",
-      "published": "2026-05-19 05:15:19",
-      "isoDate": "2026-05-19T05:15:19Z"
+      "title": "日経平均テクニカル： 4日続落、連日「黒三兵」でパラボリ陰転",
+      "link": "https://jp.investing.com/news/forex-news/article-1541218",
+      "published": "2026-05-19 09:30:12",
+      "isoDate": "2026-05-19T09:30:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、目先のイベントを見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1540969",
-      "published": "2026-05-19 05:15:19",
-      "isoDate": "2026-05-19T05:15:19Z"
+      "title": "イランが新たな和平案を提示、トランプ大統領は追加攻撃の脅しを撤回",
+      "link": "https://jp.investing.com/news/economy-news/article-1541213",
+      "published": "2026-05-19 09:23:01",
+      "isoDate": "2026-05-19T09:23:01Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小動き、原油相場にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1540960",
-      "published": "2026-05-19 05:00:16",
-      "isoDate": "2026-05-19T05:00:16Z"
+      "title": "バンク・オブ・アメリカ、円高見通しを受けドル円2026年末予想を152円に引き下げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1541165",
+      "published": "2026-05-19 08:34:11",
+      "isoDate": "2026-05-19T08:34:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領のイラン発言が和平合意への期待を高める――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1541155",
+      "published": "2026-05-19 08:22:29",
+      "isoDate": "2026-05-19T08:22:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は4日続落、東エレクやアドバンテストが2銘柄で約418円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1541066",
+      "published": "2026-05-19 07:30:17",
+      "isoDate": "2026-05-19T07:30:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "任天堂---大幅続伸、スマホ向けゲームアプリの新タイトルを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1540985",
+      "published": "2026-05-19 05:45:18",
+      "isoDate": "2026-05-19T05:45:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,24 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウォール街先物は横ばい、テック株売りの後でNvidiaの決算に注目",
+      "title": "ウォール街先物が下落、Nvidia決算に注目集まる",
       "link": "https://jp.investing.com/news/stock-market-news/article-1540865",
       "published": "2026-05-19 01:29:49",
       "isoDate": "2026-05-19T01:29:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グーグルとブラックストーン、AI クラウド新会社設立を計画＝WSJ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540834",
-      "published": "2026-05-19 00:26:21",
-      "isoDate": "2026-05-19T00:26:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのファンCEO、中国市場が米国製AIチップに開放されると予想",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540497",
-      "published": "2026-05-18 19:46:05",
-      "isoDate": "2026-05-18T19:46:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,16 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1540495",
       "published": "2026-05-18 19:43:46",
       "isoDate": "2026-05-18T19:43:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フラッシュセール：InvestingProを2026年最安値で手に入れるチャンス",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1539302",
-      "published": "2026-05-18 08:45:06",
-      "isoDate": "2026-05-18T08:45:06Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "LINE NEXTのウォレット「Unifi」、JPYCを5月22日より正式対応",
+      "link": "https://coinpost.jp/?p=709623",
+      "published": "Tue, 19 May 2026 17:00:40 +0900",
+      "isoDate": "2026-05-19T08:00:40Z"
+    },
     {
       "source": "CoinPost",
       "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=709386",
       "published": "Tue, 19 May 2026 07:00:40 +0900",
       "isoDate": "2026-05-18T22:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ゴールドマン・サックス、XRPとソラナのETF保有を全額売却　ビットコインETFは1100億円分維持",
-      "link": "https://coinpost.jp/?p=709345",
-      "published": "Tue, 19 May 2026 05:00:43 +0900",
-      "isoDate": "2026-05-18T20:00:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコインATM大手ビットコイン・デポが経営破綻、規制強化で事業継続断念",
-      "link": "https://coinpost.jp/?p=709272",
-      "published": "Mon, 18 May 2026 15:55:00 +0900",
-      "isoDate": "2026-05-18T06:55:00Z"
     }
   ]
 }
