@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T13:42:02Z",
-  "last_checked": "2026-05-19T13:42:02Z",
+  "updated": "2026-05-19T16:51:17Z",
+  "last_checked": "2026-05-19T16:51:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国のLNG施設へのガス供給量が16週間ぶりの低水準に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542170",
+      "published": "2026-05-19 16:44:30",
+      "isoDate": "2026-05-19T16:44:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ヨーロッパの天然ガス価格、LNG供給逼迫懸念で上昇",
@@ -64,22 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1540186",
       "published": "2026-05-18 14:18:43",
       "isoDate": "2026-05-18T14:18:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅価格、中国需要懸念と原油高で1週間ぶり安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1539889",
-      "published": "2026-05-18 12:39:26",
-      "isoDate": "2026-05-18T12:39:26Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アントラ社とPOETがサウスダコタ州で5GWhの蓄熱バッテリープロジェクトを稼働",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1541791",
-      "published": "2026-05-19 13:02:26",
-      "isoDate": "2026-05-19T13:02:26Z"
+      "title": "NY外為：円買い一時強まる、ベッセント米財務長官発言受け",
+      "link": "https://jp.investing.com/news/forex-news/article-1542133",
+      "published": "2026-05-19 15:45:04",
+      "isoDate": "2026-05-19T15:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "オートメーション・エニウェア、シスコ・システムズ、エヌビディア、オクタ、OpenAIと共同で「EnterpriseClaw」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1542075",
+      "published": "2026-05-19 14:47:13",
+      "isoDate": "2026-05-19T14:47:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NATOがホルムズ海峡への軍事介入を検討、エネルギー価格上昇が背景に",
+      "link": "https://jp.investing.com/news/economy-news/article-1542021",
+      "published": "2026-05-19 14:12:48",
+      "isoDate": "2026-05-19T14:12:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIストレージ需要の急増でシティがサンディスクの目標株価を52%引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1541887",
+      "published": "2026-05-19 13:26:33",
+      "isoDate": "2026-05-19T13:26:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,31 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "TSXフューチャーズ上昇、トランプ大統領のイラン関連発言が支援",
+      "title": "トランプ大統領のイラン発言を受け、TSXが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1541790",
       "published": "2026-05-19 13:00:08",
       "isoDate": "2026-05-19T13:00:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベッセント財務長官、日本経済に自信　為替の過度な変動を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1541769",
-      "published": "2026-05-19 12:51:16",
-      "isoDate": "2026-05-19T12:51:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、Apple Intelligenceを活用したアクセシビリティ機能の強化を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1541585",
-      "published": "2026-05-19 12:03:33",
-      "isoDate": "2026-05-19T12:03:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブラックストーンとグーグルが50億ドルのAIクラウド合弁会社を設立、CoreWeaveとNebiusが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541579",
-      "published": "2026-05-19 11:59:52",
-      "isoDate": "2026-05-19T11:59:52Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,76 +145,5 @@
       "isoDate": "2026-05-19T01:29:49Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "LINE NEXTのウォレット「Unifi」、JPYCを5月22日より正式対応",
-      "link": "https://coinpost.jp/?p=709623",
-      "published": "Tue, 19 May 2026 17:00:40 +0900",
-      "isoDate": "2026-05-19T08:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
-      "link": "https://coinpost.jp/?p=709575",
-      "published": "Tue, 19 May 2026 14:43:03 +0900",
-      "isoDate": "2026-05-19T05:43:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン運用プロトコル「エコ」がハッキング被害、約1億3000万円詐取",
-      "link": "https://coinpost.jp/?p=709541",
-      "published": "Tue, 19 May 2026 13:56:46 +0900",
-      "isoDate": "2026-05-19T04:56:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、次回半減期まで10万ブロック未満に",
-      "link": "https://coinpost.jp/?p=709455",
-      "published": "Tue, 19 May 2026 13:10:08 +0900",
-      "isoDate": "2026-05-19T04:10:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン売り圧力が解消局面か、バイナンスリサーチが示す4つのオンチェーン指標の意味",
-      "link": "https://coinpost.jp/?p=709453",
-      "published": "Tue, 19 May 2026 11:40:40 +0900",
-      "isoDate": "2026-05-19T02:40:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "DeFiプロトコル「Verus」のブリッジに攻撃、18億円不正流出の可能性",
-      "link": "https://coinpost.jp/?p=709420",
-      "published": "Tue, 19 May 2026 10:42:58 +0900",
-      "isoDate": "2026-05-19T01:42:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイニング企業HIVEの子会社、カナダ最大級のAIギガファクトリーをトロントで建設へ",
-      "link": "https://coinpost.jp/?p=709383",
-      "published": "Tue, 19 May 2026 09:50:12 +0900",
-      "isoDate": "2026-05-19T00:50:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入",
-      "link": "https://coinpost.jp/?p=709397",
-      "published": "Tue, 19 May 2026 07:50:11 +0900",
-      "isoDate": "2026-05-18T22:50:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米政府のビットコイン準備金法整備に進展、新規購入の可能性は低いか",
-      "link": "https://coinpost.jp/?p=709385",
-      "published": "Tue, 19 May 2026 07:25:31 +0900",
-      "isoDate": "2026-05-18T22:25:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの先週のビットコイン購入状況、STRCから調達した3100億円で2.4万BTCを追加取得",
-      "link": "https://coinpost.jp/?p=709386",
-      "published": "Tue, 19 May 2026 07:00:40 +0900",
-      "isoDate": "2026-05-18T22:00:40Z"
-    }
-  ]
+  "btc_items": []
 }
