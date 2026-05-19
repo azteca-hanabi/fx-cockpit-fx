@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T19:05:08Z",
-  "last_checked": "2026-05-19T19:05:08Z",
+  "updated": "2026-05-19T21:02:12Z",
+  "last_checked": "2026-05-19T21:02:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ、近い将来のブレント原油価格が1バレル120ドルに達すると予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542339",
+      "published": "2026-05-19 20:09:04",
+      "isoDate": "2026-05-19T20:09:04Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米市場の上昇と中国との取引観測を受け、欧州小麦価格が上昇",
@@ -64,29 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540362",
       "published": "2026-05-18 16:45:18",
       "isoDate": "2026-05-18T16:45:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国トウモロコシ先物が急騰、中国の農産物大量購入合意が背景に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540344",
-      "published": "2026-05-18 16:20:31",
-      "isoDate": "2026-05-18T16:20:31Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "QIAGENとエヌビディア、AIを創薬プラットフォームに統合する提携を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1542329",
+      "published": "2026-05-19 20:06:23",
+      "isoDate": "2026-05-19T20:06:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "グリッド・ダイナミクス、マイクロソフトAzure上でAIモダナイゼーションサービスを開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1542328",
+      "published": "2026-05-19 20:06:16",
+      "isoDate": "2026-05-19T20:06:16Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "アッシェンブレナーの弱気AIチップ賭けがバブル警告を増幅",
       "link": "https://jp.investing.com/news/stock-market-news/article-1542175",
       "published": "2026-05-19 16:43:24",
       "isoDate": "2026-05-19T16:43:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：円買い一時強まる、ベッセント米財務長官発言受け",
-      "link": "https://jp.investing.com/news/forex-news/article-1542133",
-      "published": "2026-05-19 15:45:04",
-      "isoDate": "2026-05-19T15:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1541887",
       "published": "2026-05-19 13:26:33",
       "isoDate": "2026-05-19T13:26:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホルムズ海峡閉鎖とスタグフレーションリスクにもかかわらず株高が続く理由——ゴールドマン・サックスが解説",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541801",
-      "published": "2026-05-19 13:02:06",
-      "isoDate": "2026-05-19T13:02:06Z"
     },
     {
       "source": "Investing.com 外為",
