@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20T04:47:28Z",
-  "last_checked": "2026-05-20T04:47:28Z",
+  "updated": "2026-05-20T08:28:51Z",
+  "last_checked": "2026-05-20T08:28:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅に5日続落、ソフトバンクGが1銘柄で約193円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542805",
-      "published": "2026-05-20 03:45:13",
-      "isoDate": "2026-05-20T03:45:13Z"
+      "title": "東証グロ－ス指数は大幅に3日ぶり反落、金利上昇など重しに",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542969",
+      "published": "2026-05-20 08:00:13",
+      "isoDate": "2026-05-20T08:00:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は弱含み、米金利は伸び悩み",
-      "link": "https://jp.investing.com/news/forex-news/article-1542802",
-      "published": "2026-05-20 03:30:11",
-      "isoDate": "2026-05-20T03:30:11Z"
+      "title": "東証グロース市場250指数先物概況：金利高懸念とエヌビディア決算発表前の売りで急反落",
+      "link": "https://jp.investing.com/news/forex-news/article-1542958",
+      "published": "2026-05-20 07:45:12",
+      "isoDate": "2026-05-20T07:45:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia決算とインフレ懸念で欧州株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542935",
+      "published": "2026-05-20 07:15:39",
+      "isoDate": "2026-05-20T07:15:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国半導体株が急騰、エヌビディア決算とサムスンストライキを前に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542913",
+      "published": "2026-05-20 06:57:33",
+      "isoDate": "2026-05-20T06:57:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、イラン和平交渉の進展期待で7万7000ドル超に上昇",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1542856",
+      "published": "2026-05-20 06:06:01",
+      "isoDate": "2026-05-20T06:06:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は939円安、米エヌビディア決算などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1542846",
+      "published": "2026-05-20 06:00:14",
+      "isoDate": "2026-05-20T06:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、FOMC議事要旨を材料視",
+      "link": "https://jp.investing.com/news/forex-news/article-1542825",
+      "published": "2026-05-20 04:45:14",
+      "isoDate": "2026-05-20T04:45:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,45 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウォール街先物は横ばい、Nvidia決算控えインフレ懸念が焦点",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542712",
-      "published": "2026-05-20 00:41:03",
-      "isoDate": "2026-05-20T00:41:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～エヌビディア決算控え半導体やAI関連株への利食いが強まる～",
-      "link": "https://jp.investing.com/news/forex-news/article-1542653",
-      "published": "2026-05-19 23:45:08",
-      "isoDate": "2026-05-19T23:45:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア決算控え半導体やAI関連株への利食いが強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542652",
-      "published": "2026-05-19 23:45:07",
-      "isoDate": "2026-05-19T23:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアとGoogle Cloudの共同開発者コミュニティが10万人を突破",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1542440",
-      "published": "2026-05-19 20:38:16",
-      "isoDate": "2026-05-19T20:38:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIストレージ需要の急増でシティがサンディスクの目標株価を52%引き上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1541887",
       "published": "2026-05-19 13:26:33",
       "isoDate": "2026-05-19T13:26:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaとマイクロンテクノロジーがプレマーケットで下落、AlphabetとBlackstoneは上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541482",
-      "published": "2026-05-19 11:23:41",
-      "isoDate": "2026-05-19T11:23:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領令、仮想通貨企業へのFRBマスター口座開放を評価するよう要請",
+      "link": "https://coinpost.jp/?p=709809",
+      "published": "Wed, 20 May 2026 14:25:47 +0900",
+      "isoDate": "2026-05-20T05:25:47Z"
+    },
     {
       "source": "CoinPost",
       "title": "ヴィタリック、イーサリアムなどの安全性や効率性の向上策を分析",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=709623",
       "published": "Tue, 19 May 2026 17:00:40 +0900",
       "isoDate": "2026-05-19T08:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国人の仮想通貨利用率、2025年に10%へ回復　FRB調査で3年ぶり高水準",
-      "link": "https://coinpost.jp/?p=709575",
-      "published": "Tue, 19 May 2026 14:43:03 +0900",
-      "isoDate": "2026-05-19T05:43:03Z"
     }
   ]
 }
