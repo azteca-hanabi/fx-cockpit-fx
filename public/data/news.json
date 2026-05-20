@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20T08:28:51Z",
-  "last_checked": "2026-05-20T08:28:51Z",
+  "updated": "2026-05-20T11:31:03Z",
+  "last_checked": "2026-05-20T11:31:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅に3日ぶり反落、金利上昇など重しに",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542969",
-      "published": "2026-05-20 08:00:13",
-      "isoDate": "2026-05-20T08:00:13Z"
+      "title": "NvidiaはAIへの市場の注目を取り戻せるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1543306",
+      "published": "2026-05-20 11:03:20",
+      "isoDate": "2026-05-20T11:03:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "レッドワイア、米陸軍からストーカードローンシステムで1500万ドルを受注",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1543292",
+      "published": "2026-05-20 11:01:15",
+      "isoDate": "2026-05-20T11:01:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスン労働者がストライキ寸前、マイクロンテクノロジーとSanDiskが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1543019",
+      "published": "2026-05-20 08:53:23",
+      "isoDate": "2026-05-20T08:53:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領のイラン戦争発言とNvidiaの決算に市場が注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1542994",
+      "published": "2026-05-20 08:22:26",
+      "isoDate": "2026-05-20T08:22:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアの決算見極めたいとの思惑も【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1542982",
+      "published": "2026-05-20 08:15:12",
+      "isoDate": "2026-05-20T08:15:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,34 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1542846",
       "published": "2026-05-20 06:00:14",
       "isoDate": "2026-05-20T06:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、FOMC議事要旨を材料視",
-      "link": "https://jp.investing.com/news/forex-news/article-1542825",
-      "published": "2026-05-20 04:45:14",
-      "isoDate": "2026-05-20T04:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株、テクノロジー株安で下落――サムスン労組がストライキ計画、KOSPIが急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1542794",
-      "published": "2026-05-20 03:19:00",
-      "isoDate": "2026-05-20T03:19:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIストレージ需要の急増でシティがサンディスクの目標株価を52%引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541887",
-      "published": "2026-05-19 13:26:33",
-      "isoDate": "2026-05-19T13:26:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン発言が和平合意への期待を高める――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1541155",
-      "published": "2026-05-19 08:22:29",
-      "isoDate": "2026-05-19T08:22:29Z"
     }
   ],
   "btc_items": [
