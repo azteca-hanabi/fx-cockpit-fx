@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-20T20:35:04Z",
-  "last_checked": "2026-05-20T20:35:04Z",
+  "updated": "2026-05-20T22:25:39Z",
+  "last_checked": "2026-05-20T22:25:39Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ニューメキシコ州とテキサス州の石油・ガス採掘権入札で40億ドルを調達",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544354",
+      "published": "2026-05-20 21:05:41",
+      "isoDate": "2026-05-20T21:05:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油安でキャノーラ先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544322",
+      "published": "2026-05-20 20:51:17",
+      "isoDate": "2026-05-20T20:51:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イラン核合意進展で原油急落、小麦先物も下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544299",
+      "published": "2026-05-20 20:42:31",
+      "isoDate": "2026-05-20T20:42:31Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロ安が競争力を高め、欧州産小麦が上昇",
@@ -50,30 +71,51 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542339",
       "published": "2026-05-19 20:09:04",
       "isoDate": "2026-05-19T20:09:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米市場の上昇と中国との取引観測を受け、欧州小麦価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542239",
-      "published": "2026-05-19 18:07:03",
-      "isoDate": "2026-05-19T18:07:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国のLNG施設へのガス供給量が16週間ぶりの低水準に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1542170",
-      "published": "2026-05-19 16:44:30",
-      "isoDate": "2026-05-19T16:44:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパの天然ガス価格、LNG供給逼迫懸念で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1541901",
-      "published": "2026-05-19 13:28:59",
-      "isoDate": "2026-05-19T13:28:59Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：タカ派FOMC議事要旨でドルは底堅く推移",
+      "link": "https://jp.investing.com/news/forex-news/article-1544384",
+      "published": "2026-05-20 21:30:05",
+      "isoDate": "2026-05-20T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】エヌビディア、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1544287",
+      "published": "2026-05-20 20:37:42",
+      "isoDate": "2026-05-20T20:37:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：NVDA、INTU、ELF、URBN、APLD",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1544285",
+      "published": "2026-05-20 20:36:03",
+      "isoDate": "2026-05-20T20:36:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvидiaの決算と見通しが予想を上回るも、時間外取引で株価下落",
+      "link": "https://jp.investing.com/news/earnings/article-1544238",
+      "published": "2026-05-20 20:25:13",
+      "isoDate": "2026-05-20T20:25:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア、四半期配当を0.25ドルに引き上げ――利回り0.4%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1544237",
+      "published": "2026-05-20 20:24:12",
+      "isoDate": "2026-05-20T20:24:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア、配当を0.25ドルに引き上げ、800億ドルの自社株買いを承認",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1544233",
+      "published": "2026-05-20 20:23:11",
+      "isoDate": "2026-05-20T20:23:11Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "今夜の決算前にエヌビディアを買うべきか？AIモデルが示す重要データ",
@@ -90,52 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "TSXはインフレ懸念とNvidiaの決算を前に上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1543635",
-      "published": "2026-05-20 12:54:08",
-      "isoDate": "2026-05-20T12:54:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500の第1四半期決算、2021年以来最強の決算シーズンへ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1543557",
-      "published": "2026-05-20 12:19:49",
-      "isoDate": "2026-05-20T12:19:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Nvidia・アナログ・デバイセズが寄り前に上昇、シェブロン・エクソン・モービルは下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1543451",
       "published": "2026-05-20 11:50:20",
       "isoDate": "2026-05-20T11:50:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaはAIへの市場の注目を取り戻せるか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1543306",
-      "published": "2026-05-20 11:03:20",
-      "isoDate": "2026-05-20T11:03:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、サーバーCPU市場が2030年に1250億ドル規模へ拡大と予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1543393",
-      "published": "2026-05-20 11:01:49",
-      "isoDate": "2026-05-20T11:01:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスン労働者がストライキ寸前、マイクロンテクノロジーとSanDiskが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1543019",
-      "published": "2026-05-20 08:53:23",
-      "isoDate": "2026-05-20T08:53:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン戦争発言とNvidiaの決算に市場が注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1542994",
-      "published": "2026-05-20 08:22:26",
-      "isoDate": "2026-05-20T08:22:26Z"
     },
     {
       "source": "Investing.com 外為",
