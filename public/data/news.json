@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-19T22:45:41Z",
-  "last_checked": "2026-05-19T22:45:41Z",
+  "updated": "2026-05-20T00:11:11Z",
+  "last_checked": "2026-05-20T00:11:11Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、米国がイラン協議の進展を示唆し小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1542666",
+      "published": "2026-05-19 23:56:18",
+      "isoDate": "2026-05-19T23:56:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "シティ、近い将来のブレント原油価格が1バレル120ドルに達すると予測",
@@ -64,22 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1540799",
       "published": "2026-05-18 23:47:42",
       "isoDate": "2026-05-18T23:47:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国、ロシア産石油制裁免除をさらに30日間延長",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1540362",
-      "published": "2026-05-18 16:45:18",
-      "isoDate": "2026-05-18T16:45:18Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：原油高止まりで年内米利上げ観測強まる、ドルは強含み",
-      "link": "https://jp.investing.com/news/forex-news/article-1542498",
-      "published": "2026-05-19 21:15:04",
-      "isoDate": "2026-05-19T21:15:04Z"
+      "title": "前場に注目すべき3つのポイント～エヌビディア決算控え半導体やAI関連株への利食いが強まる～",
+      "link": "https://jp.investing.com/news/forex-news/article-1542653",
+      "published": "2026-05-19 23:45:08",
+      "isoDate": "2026-05-19T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア決算控え半導体やAI関連株への利食いが強まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542652",
+      "published": "2026-05-19 23:45:07",
+      "isoDate": "2026-05-19T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、SpaceX IPOの主幹事に指名へ＝WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542643",
+      "published": "2026-05-19 23:34:42",
+      "isoDate": "2026-05-19T23:34:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株安や金利上昇を嫌気して売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542636",
+      "published": "2026-05-19 23:30:07",
+      "isoDate": "2026-05-19T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ADR日本株ランキング：全般売り優勢、シカゴは大阪日中比195円安の60685円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542635",
+      "published": "2026-05-19 23:30:07",
+      "isoDate": "2026-05-19T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "19日の米国市場ダイジェスト：米国株式市場は下落、インフレ懸念高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1542621",
+      "published": "2026-05-19 23:15:07",
+      "isoDate": "2026-05-19T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "19日の市場は下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1542619",
+      "published": "2026-05-19 23:15:07",
+      "isoDate": "2026-05-19T23:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,41 +129,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1542440",
       "published": "2026-05-19 20:38:16",
       "isoDate": "2026-05-19T20:38:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "QIAGENとエヌビディア、AIを創薬プラットフォームに統合する提携を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1542329",
-      "published": "2026-05-19 20:06:23",
-      "isoDate": "2026-05-19T20:06:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "オートメーション・エニウェア、シスコ・システムズ、エヌビディア、オクタ、OpenAIと共同で「EnterpriseClaw」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1542075",
-      "published": "2026-05-19 14:47:13",
-      "isoDate": "2026-05-19T14:47:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIストレージ需要の急増でシティがサンディスクの目標株価を52%引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541887",
-      "published": "2026-05-19 13:26:33",
-      "isoDate": "2026-05-19T13:26:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン発言を受け、TSXが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541790",
-      "published": "2026-05-19 13:00:08",
-      "isoDate": "2026-05-19T13:00:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia決算プレビュー：決算発表前に注目される5つの論点",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1541496",
-      "published": "2026-05-19 11:28:37",
-      "isoDate": "2026-05-19T11:28:37Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/economy-news/article-1541155",
       "published": "2026-05-19 08:22:29",
       "isoDate": "2026-05-19T08:22:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街先物下落、イランの和平交渉の不透明感とチップ株安が重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1540865",
-      "published": "2026-05-19 01:29:49",
-      "isoDate": "2026-05-19T01:29:49Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "「ビットコインは75000ドル割れに注意」ウィンターミュート分析",
+      "link": "https://coinpost.jp/?p=709708",
+      "published": "Wed, 20 May 2026 07:50:22 +0900",
+      "isoDate": "2026-05-19T22:50:22Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットワイズCIO、ハイパーリキッド（HYPE）を「割安な大型銘柄」と分析",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=709420",
       "published": "Tue, 19 May 2026 10:42:58 +0900",
       "isoDate": "2026-05-19T01:42:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイニング企業HIVEの子会社、カナダ最大級のAIギガファクトリーをトロントで建設へ",
-      "link": "https://coinpost.jp/?p=709383",
-      "published": "Tue, 19 May 2026 09:50:12 +0900",
-      "isoDate": "2026-05-19T00:50:12Z"
     }
   ]
 }
