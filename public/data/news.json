@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21T21:59:25Z",
-  "last_checked": "2026-05-21T21:59:25Z",
+  "updated": "2026-05-21T23:13:07Z",
+  "last_checked": "2026-05-21T23:13:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "21日の米国市場ダイジェスト：米国株式市場は続伸、対イラン和平合意に期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1546297",
+      "published": "2026-05-21 22:30:07",
+      "isoDate": "2026-05-21T22:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米インフレ懸念や雇用関連指標好調で年内利上げ織り込む、ドル反発",
+      "link": "https://jp.investing.com/news/forex-news/article-1546235",
+      "published": "2026-05-21 21:45:05",
+      "isoDate": "2026-05-21T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは276.31ドル高、対イラン和平合意に期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1546205",
+      "published": "2026-05-21 21:30:05",
+      "isoDate": "2026-05-21T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "エヌビディア、5月末から6月初めに2つの金融カンファレンスで発表予定",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
       "published": "2026-05-21 21:03:25",
       "isoDate": "2026-05-21T21:03:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "リリー、ASCO 2026年次総会で腫瘍学データを発表へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1546144",
-      "published": "2026-05-21 21:03:21",
-      "isoDate": "2026-05-21T21:03:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル高値から反落、原油相場に連れ、米イラン協議進展期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1545921",
-      "published": "2026-05-21 19:00:05",
-      "isoDate": "2026-05-21T19:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1545054",
       "published": "2026-05-21 10:18:31",
       "isoDate": "2026-05-21T10:18:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia好決算とSpaceXのIPO申請が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1544841",
-      "published": "2026-05-21 08:23:55",
-      "isoDate": "2026-05-21T08:23:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -201,20 +201,6 @@
       "link": "https://coinpost.jp/?p=709964",
       "published": "Thu, 21 May 2026 10:20:20 +0900",
       "isoDate": "2026-05-21T01:20:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPLの量子リスク対策を支援、リップル社との協業をプロジェクト・イレブンが発表",
-      "link": "https://coinpost.jp/?p=709957",
-      "published": "Thu, 21 May 2026 07:14:09 +0900",
-      "isoDate": "2026-05-20T22:14:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領令、仮想通貨企業へのFRBマスター口座開放を評価するよう要請",
-      "link": "https://coinpost.jp/?p=709809",
-      "published": "Wed, 20 May 2026 14:25:47 +0900",
-      "isoDate": "2026-05-20T05:25:47Z"
     }
   ]
 }
