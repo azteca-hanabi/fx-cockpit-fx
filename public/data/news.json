@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-21T20:21:13Z",
-  "last_checked": "2026-05-21T20:21:13Z",
+  "updated": "2026-05-21T21:59:25Z",
+  "last_checked": "2026-05-21T21:59:25Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物が下落、中国の購入詳細を市場が待つ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1546011",
+      "published": "2026-05-21 20:16:57",
+      "isoDate": "2026-05-21T20:16:57Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPEC+、7月の石油生産量を1日あたり18万8000バレル増産へ",
@@ -64,22 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544322",
       "published": "2026-05-20 20:51:17",
       "isoDate": "2026-05-20T20:51:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン核合意進展で原油急落、小麦先物も下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544299",
-      "published": "2026-05-20 20:42:31",
-      "isoDate": "2026-05-20T20:42:31Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡の通航料恒久化をオマーンに提案",
-      "link": "https://jp.investing.com/news/economy-news/article-1545662",
-      "published": "2026-05-21 14:32:40",
-      "isoDate": "2026-05-21T14:32:40Z"
+      "title": "エヌビディア、5月末から6月初めに2つの金融カンファレンスで発表予定",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
+      "published": "2026-05-21 21:03:25",
+      "isoDate": "2026-05-21T21:03:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "リリー、ASCO 2026年次総会で腫瘍学データを発表へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1546144",
+      "published": "2026-05-21 21:03:21",
+      "isoDate": "2026-05-21T21:03:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル高値から反落、原油相場に連れ、米イラン協議進展期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1545921",
+      "published": "2026-05-21 19:00:05",
+      "isoDate": "2026-05-21T19:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,21 +143,78 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1544660",
       "published": "2026-05-21 04:28:21",
       "isoDate": "2026-05-21T04:28:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】エヌビディア、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1544287",
-      "published": "2026-05-20 20:37:42",
-      "isoDate": "2026-05-20T20:37:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvидiaの決算と見通しが予想を上回るも、時間外取引で株価下落",
-      "link": "https://jp.investing.com/news/earnings/article-1544238",
-      "published": "2026-05-20 20:25:13",
-      "isoDate": "2026-05-20T20:25:13Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、スペースXのプレIPO先物取引開始",
+      "link": "https://coinpost.jp/?p=710310",
+      "published": "Fri, 22 May 2026 06:45:15 +0900",
+      "isoDate": "2026-05-21T21:45:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却",
+      "link": "https://coinpost.jp/?p=710312",
+      "published": "Fri, 22 May 2026 06:20:32 +0900",
+      "isoDate": "2026-05-21T21:20:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "17名の米超党派議員、ビットコイン準備金を法制化するARMA法案を提出",
+      "link": "https://coinpost.jp/?p=710313",
+      "published": "Fri, 22 May 2026 05:50:40 +0900",
+      "isoDate": "2026-05-21T20:50:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米FRBが決済口座の設立提案を公表しパブコメ募集開始、トランプ大統領令を受け",
+      "link": "https://coinpost.jp/?p=710288",
+      "published": "Fri, 22 May 2026 05:00:45 +0900",
+      "isoDate": "2026-05-21T20:00:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超",
+      "link": "https://coinpost.jp/?p=710149",
+      "published": "Thu, 21 May 2026 15:12:08 +0900",
+      "isoDate": "2026-05-21T06:12:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド現物ETF「THYP」、日次取引高が約22億円まで成長",
+      "link": "https://coinpost.jp/?p=710037",
+      "published": "Thu, 21 May 2026 13:49:06 +0900",
+      "isoDate": "2026-05-21T04:49:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テザー、ソフトバンクの トゥエンティワン・キャピタル持分を取得　ビットコイン戦略を強化",
+      "link": "https://coinpost.jp/?p=710043",
+      "published": "Thu, 21 May 2026 11:38:48 +0900",
+      "isoDate": "2026-05-21T02:38:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回",
+      "link": "https://coinpost.jp/?p=709964",
+      "published": "Thu, 21 May 2026 10:20:20 +0900",
+      "isoDate": "2026-05-21T01:20:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "XRPLの量子リスク対策を支援、リップル社との協業をプロジェクト・イレブンが発表",
+      "link": "https://coinpost.jp/?p=709957",
+      "published": "Thu, 21 May 2026 07:14:09 +0900",
+      "isoDate": "2026-05-20T22:14:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領令、仮想通貨企業へのFRBマスター口座開放を評価するよう要請",
+      "link": "https://coinpost.jp/?p=709809",
+      "published": "Wed, 20 May 2026 14:25:47 +0900",
+      "isoDate": "2026-05-20T05:25:47Z"
+    }
+  ]
 }
