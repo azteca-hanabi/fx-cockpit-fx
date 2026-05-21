@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-21T18:03:42Z",
-  "last_checked": "2026-05-21T18:03:42Z",
+  "updated": "2026-05-21T20:21:13Z",
+  "last_checked": "2026-05-21T20:21:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,55 +145,5 @@
       "isoDate": "2026-05-20T20:25:13Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "スペースX、1.8万BTCのビットコイン保有を初公開　事前推計の2倍超",
-      "link": "https://coinpost.jp/?p=710149",
-      "published": "Thu, 21 May 2026 15:12:08 +0900",
-      "isoDate": "2026-05-21T06:12:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハイパーリキッド現物ETF「THYP」、日次取引高が約22億円まで成長",
-      "link": "https://coinpost.jp/?p=710037",
-      "published": "Thu, 21 May 2026 13:49:06 +0900",
-      "isoDate": "2026-05-21T04:49:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テザー、ソフトバンクの トゥエンティワン・キャピタル持分を取得　ビットコイン戦略を強化",
-      "link": "https://coinpost.jp/?p=710043",
-      "published": "Thu, 21 May 2026 11:38:48 +0900",
-      "isoDate": "2026-05-21T02:38:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプメディア、ビットコインとイーサリアムなどの現物ETF申請を自主撤回",
-      "link": "https://coinpost.jp/?p=709964",
-      "published": "Thu, 21 May 2026 10:20:20 +0900",
-      "isoDate": "2026-05-21T01:20:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPLの量子リスク対策を支援、リップル社との協業をプロジェクト・イレブンが発表",
-      "link": "https://coinpost.jp/?p=709957",
-      "published": "Thu, 21 May 2026 07:14:09 +0900",
-      "isoDate": "2026-05-20T22:14:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領令、仮想通貨企業へのFRBマスター口座開放を評価するよう要請",
-      "link": "https://coinpost.jp/?p=709809",
-      "published": "Wed, 20 May 2026 14:25:47 +0900",
-      "isoDate": "2026-05-20T05:25:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ヴィタリック、イーサリアムなどの安全性や効率性の向上策を分析",
-      "link": "https://coinpost.jp/?p=709756",
-      "published": "Wed, 20 May 2026 13:10:07 +0900",
-      "isoDate": "2026-05-20T04:10:07Z"
-    }
-  ]
+  "btc_items": []
 }
