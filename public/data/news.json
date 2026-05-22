@@ -1,7 +1,28 @@
 {
-  "updated": "2026-05-22T17:57:04Z",
-  "last_checked": "2026-05-22T17:57:04Z",
+  "updated": "2026-05-22T20:00:56Z",
+  "last_checked": "2026-05-22T20:00:56Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "メモリアルデー連休前の買い戻しで大豆先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547599",
+      "published": "2026-05-22 19:49:59",
+      "isoDate": "2026-05-22T19:49:59Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、強い輸出販売を背景に上昇－メモリアルデー連休前",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547583",
+      "published": "2026-05-22 19:16:16",
+      "isoDate": "2026-05-22T19:16:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "エネルギー企業、5週連続でリグ稼働数を増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547542",
+      "published": "2026-05-22 17:47:26",
+      "isoDate": "2026-05-22T17:47:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トラフィグラ、米国裁定取引機会でLME銅在庫を引き出し",
@@ -50,30 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1546011",
       "published": "2026-05-21 20:16:57",
       "isoDate": "2026-05-21T20:16:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPEC+、7月の石油生産量を1日あたり18万8000バレル増産へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1545675",
-      "published": "2026-05-21 14:43:06",
-      "isoDate": "2026-05-21T14:43:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの緊張再燃でホルムズ海峡合意への期待後退、欧州天然ガス価格が小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1545487",
-      "published": "2026-05-21 13:15:51",
-      "isoDate": "2026-05-21T13:15:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが原油価格予測を引き上げ、供給混乱への懸念が背景に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1545372",
-      "published": "2026-05-21 12:40:01",
-      "isoDate": "2026-05-21T12:40:01Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "5月22日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1547582",
+      "published": "2026-05-22 19:15:05",
+      "isoDate": "2026-05-22T19:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今週の注目株：量子コンピューティング、Arm、デル、インチュイト、Spotify",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1547549",
+      "published": "2026-05-22 17:58:02",
+      "isoDate": "2026-05-22T17:58:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY外為：ドル続伸、ウォラーFRB理事のタカ派発言",
@@ -129,23 +143,16 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
       "published": "2026-05-21 21:03:25",
       "isoDate": "2026-05-21T21:03:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "IONQの株価が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1545824",
-      "published": "2026-05-21 17:13:09",
-      "isoDate": "2026-05-21T17:13:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "量子コンピューティング株が急騰、米政府が業界に20億ドル助成へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1545073",
-      "published": "2026-05-21 10:40:47",
-      "isoDate": "2026-05-21T10:40:47Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ICEとOKXが原油の永久先物を共同提供、1.2億人規模の仮想通貨ユーザーにアクセス開放",
+      "link": "https://coinpost.jp/?p=710411",
+      "published": "Sat, 23 May 2026 05:00:11 +0900",
+      "isoDate": "2026-05-22T20:00:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "JPYC、シリーズBで累計約50億円の調達完了へ　日本円ステーブルコインの社会実装を加速",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=710310",
       "published": "Fri, 22 May 2026 06:45:15 +0900",
       "isoDate": "2026-05-21T21:45:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却",
-      "link": "https://coinpost.jp/?p=710312",
-      "published": "Fri, 22 May 2026 06:20:32 +0900",
-      "isoDate": "2026-05-21T21:20:32Z"
     }
   ]
 }
