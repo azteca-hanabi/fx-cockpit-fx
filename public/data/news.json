@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-22T09:57:18Z",
-  "last_checked": "2026-05-22T09:57:18Z",
+  "updated": "2026-05-22T12:29:18Z",
+  "last_checked": "2026-05-22T12:29:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "4月の世界粗鋼生産量、前年比1.9%減――中国は2.8%減",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1546795",
+      "published": "2026-05-22 10:23:06",
+      "isoDate": "2026-05-22T10:23:06Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格が小幅下落、イランと金利を巡る不透明感で週間も低調",
@@ -64,29 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1544619",
       "published": "2026-05-21 02:19:02",
       "isoDate": "2026-05-21T02:19:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、イランとの和平交渉決裂なら攻撃も示唆、原油価格上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1544542",
-      "published": "2026-05-21 00:26:12",
-      "isoDate": "2026-05-21T00:26:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はじり高、上値に重さも",
-      "link": "https://jp.investing.com/news/forex-news/article-1546659",
-      "published": "2026-05-22 08:30:15",
-      "isoDate": "2026-05-22T08:30:15Z"
+      "title": "ロケット・ラボ、シンスペクティブ向け9回目のエレクトロン打ち上げ完了",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1546835",
+      "published": "2026-05-22 10:44:08",
+      "isoDate": "2026-05-22T10:44:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "イラン戦争の和平交渉、テイクツーが急騰——市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1546658",
-      "published": "2026-05-22 08:26:47",
-      "isoDate": "2026-05-22T08:26:47Z"
+      "title": "UBSがS&P 500の目標株価を引き上げ、堅調な成長とAI追い風を背景に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546823",
+      "published": "2026-05-22 10:34:44",
+      "isoDate": "2026-05-22T10:34:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は小動き、原油相場にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1546776",
+      "published": "2026-05-22 10:15:11",
+      "isoDate": "2026-05-22T10:15:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1545073",
       "published": "2026-05-21 10:40:47",
       "isoDate": "2026-05-21T10:40:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのFQ1決算：10人のアナリストが重要な見解を共有",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1545054",
-      "published": "2026-05-21 10:18:31",
-      "isoDate": "2026-05-21T10:18:31Z"
     }
   ],
   "btc_items": [
