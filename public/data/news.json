@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T06:13:04Z",
-  "last_checked": "2026-05-22T06:13:04Z",
+  "updated": "2026-05-22T09:57:18Z",
+  "last_checked": "2026-05-22T09:57:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は高値圏、上値は重い",
-      "link": "https://jp.investing.com/news/forex-news/article-1546532",
-      "published": "2026-05-22 05:15:17",
-      "isoDate": "2026-05-22T05:15:17Z"
+      "title": "東京為替：ドル・円はじり高、上値に重さも",
+      "link": "https://jp.investing.com/news/forex-news/article-1546659",
+      "published": "2026-05-22 08:30:15",
+      "isoDate": "2026-05-22T08:30:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1611円高、ダウ平均先物堅調で安心感",
-      "link": "https://jp.investing.com/news/forex-news/article-1546529",
-      "published": "2026-05-22 05:00:16",
-      "isoDate": "2026-05-22T05:00:16Z"
+      "title": "イラン戦争の和平交渉、テイクツーが急騰——市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1546658",
+      "published": "2026-05-22 08:26:47",
+      "isoDate": "2026-05-22T08:26:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Fスターズ、住友電工、INESTなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546601",
+      "published": "2026-05-22 07:15:15",
+      "isoDate": "2026-05-22T07:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：伸び悩みか、引き締め的な金融政策に思惑",
+      "link": "https://jp.investing.com/news/forex-news/article-1546563",
+      "published": "2026-05-22 06:30:17",
+      "isoDate": "2026-05-22T06:30:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1546519",
       "published": "2026-05-22 04:24:45",
       "isoDate": "2026-05-22T04:24:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株、半導体株高で週間上昇へ――米イラン協議の不透明感が上値を抑制",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546508",
-      "published": "2026-05-22 04:08:48",
-      "isoDate": "2026-05-22T04:08:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトバンクG---大幅続伸、AI関連株上昇の中でアーム株も急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546502",
-      "published": "2026-05-22 03:45:17",
-      "isoDate": "2026-05-22T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "JPYC、シリーズBで累計約50億円の調達完了へ　日本円ステーブルコインの社会実装を加速",
+      "link": "https://coinpost.jp/?p=710602",
+      "published": "Fri, 22 May 2026 17:14:05 +0900",
+      "isoDate": "2026-05-22T08:14:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グラスノード分析、ビットコイン供給量の30%超で公開鍵露出を確認　量子リスクへの備えを提言",
+      "link": "https://coinpost.jp/?p=710556",
+      "published": "Fri, 22 May 2026 15:58:06 +0900",
+      "isoDate": "2026-05-22T06:58:06Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨の少額取引免税検討・マイナー報酬5年繰り延べ、米税制改革法案を提出",
@@ -201,20 +215,6 @@
       "link": "https://coinpost.jp/?p=710312",
       "published": "Fri, 22 May 2026 06:20:32 +0900",
       "isoDate": "2026-05-21T21:20:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "17名の米超党派議員、ビットコイン準備金を法制化するARMA法案を提出",
-      "link": "https://coinpost.jp/?p=710313",
-      "published": "Fri, 22 May 2026 05:50:40 +0900",
-      "isoDate": "2026-05-21T20:50:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米FRBが決済口座の設立提案を公表しパブコメ募集開始、トランプ大統領令を受け",
-      "link": "https://coinpost.jp/?p=710288",
-      "published": "Fri, 22 May 2026 05:00:45 +0900",
-      "isoDate": "2026-05-21T20:00:45Z"
     }
   ]
 }
