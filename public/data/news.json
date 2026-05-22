@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T01:30:30Z",
-  "last_checked": "2026-05-22T01:30:30Z",
+  "updated": "2026-05-22T06:13:04Z",
+  "last_checked": "2026-05-22T06:13:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,38 +76,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、米宇宙軍から9000万ドルのGEO衛星契約を受注",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1546364",
-      "published": "2026-05-22 00:01:10",
-      "isoDate": "2026-05-22T00:01:10Z"
+      "title": "東京為替：ドル・円は高値圏、上値は重い",
+      "link": "https://jp.investing.com/news/forex-news/article-1546532",
+      "published": "2026-05-22 05:15:17",
+      "isoDate": "2026-05-22T05:15:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、宇宙軍から9000万ドルのGEO衛星契約を獲得",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1546366",
-      "published": "2026-05-22 00:01:07",
-      "isoDate": "2026-05-22T00:01:07Z"
+      "title": "日経平均は1611円高、ダウ平均先物堅調で安心感",
+      "link": "https://jp.investing.com/news/forex-news/article-1546529",
+      "published": "2026-05-22 05:00:16",
+      "isoDate": "2026-05-22T05:00:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 5/22",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546340",
-      "published": "2026-05-21 23:30:08",
-      "isoDate": "2026-05-21T23:30:08Z"
+      "title": "任天堂、Switch 2の生産目標を販売予測より約20%上回る水準に設定－ブルームバーグ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546519",
+      "published": "2026-05-22 04:24:45",
+      "isoDate": "2026-05-22T04:24:45Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンクグループの一段高を見極め",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546338",
-      "published": "2026-05-21 23:30:07",
-      "isoDate": "2026-05-21T23:30:07Z"
+      "title": "アジア株、半導体株高で週間上昇へ――米イラン協議の不透明感が上値を抑制",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546508",
+      "published": "2026-05-22 04:08:48",
+      "isoDate": "2026-05-22T04:08:48Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "21日の米国市場ダイジェスト：米国株式市場は続伸、対イラン和平合意に期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1546297",
-      "published": "2026-05-21 22:30:07",
-      "isoDate": "2026-05-21T22:30:07Z"
+      "title": "ソフトバンクG---大幅続伸、AI関連株上昇の中でアーム株も急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546502",
+      "published": "2026-05-22 03:45:17",
+      "isoDate": "2026-05-22T03:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアのアジア系サプライヤー、AI需要の明るい見通しを受け上昇続く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546495",
+      "published": "2026-05-22 03:41:01",
+      "isoDate": "2026-05-22T03:41:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンク株、AI投資への楽観論で上昇継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1546465",
+      "published": "2026-05-22 02:21:50",
+      "isoDate": "2026-05-22T02:21:50Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +129,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
       "published": "2026-05-21 21:03:25",
       "isoDate": "2026-05-21T21:03:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXはIPO後、テスラとMeta Platformsを上回る評価額になると予測市場が示唆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1545505",
-      "published": "2026-05-21 13:21:31",
-      "isoDate": "2026-05-21T13:21:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +143,78 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1545054",
       "published": "2026-05-21 10:18:31",
       "isoDate": "2026-05-21T10:18:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアのアジア系サプライヤー株が急騰、AI需要が強い第1四期決算を後押し",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1544660",
-      "published": "2026-05-21 04:28:21",
-      "isoDate": "2026-05-21T04:28:21Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨の少額取引免税検討・マイナー報酬5年繰り延べ、米税制改革法案を提出",
+      "link": "https://coinpost.jp/?p=710425",
+      "published": "Fri, 22 May 2026 11:58:51 +0900",
+      "isoDate": "2026-05-22T02:58:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スイ、ガス代無料のステーブルコイン送金を提供開始",
+      "link": "https://coinpost.jp/?p=710405",
+      "published": "Fri, 22 May 2026 11:45:06 +0900",
+      "isoDate": "2026-05-22T02:45:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「イーサリアムの成功には10億ドルの資金を持つ新組織などが必要」元リサーチャーが提案",
+      "link": "https://coinpost.jp/?p=710381",
+      "published": "Fri, 22 May 2026 11:25:33 +0900",
+      "isoDate": "2026-05-22T02:25:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの需要が縮小傾向、2022年3月の弱気相場に類似か＝クリプトクアント分析",
+      "link": "https://coinpost.jp/?p=710348",
+      "published": "Fri, 22 May 2026 10:35:47 +0900",
+      "isoDate": "2026-05-22T01:35:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ピザ2枚が1228億円に、『ビットコインピザの日』16年目の現実＝アナリスト",
+      "link": "https://coinpost.jp/?p=710355",
+      "published": "Fri, 22 May 2026 09:40:22 +0900",
+      "isoDate": "2026-05-22T00:40:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米財務省、800億円相当のイラン関連仮想通貨を凍結",
+      "link": "https://coinpost.jp/?p=710309",
+      "published": "Fri, 22 May 2026 08:45:08 +0900",
+      "isoDate": "2026-05-21T23:45:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、スペースXのプレIPO先物取引開始",
+      "link": "https://coinpost.jp/?p=710310",
+      "published": "Fri, 22 May 2026 06:45:15 +0900",
+      "isoDate": "2026-05-21T21:45:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米億万長者マーク・キューバン、インフレヘッジ機能への失望でビットコインの大半を売却",
+      "link": "https://coinpost.jp/?p=710312",
+      "published": "Fri, 22 May 2026 06:20:32 +0900",
+      "isoDate": "2026-05-21T21:20:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "17名の米超党派議員、ビットコイン準備金を法制化するARMA法案を提出",
+      "link": "https://coinpost.jp/?p=710313",
+      "published": "Fri, 22 May 2026 05:50:40 +0900",
+      "isoDate": "2026-05-21T20:50:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米FRBが決済口座の設立提案を公表しパブコメ募集開始、トランプ大統領令を受け",
+      "link": "https://coinpost.jp/?p=710288",
+      "published": "Fri, 22 May 2026 05:00:45 +0900",
+      "isoDate": "2026-05-21T20:00:45Z"
+    }
+  ]
 }
