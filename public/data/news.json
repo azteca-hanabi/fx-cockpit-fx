@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-22T12:29:18Z",
-  "last_checked": "2026-05-22T12:29:18Z",
+  "updated": "2026-05-22T15:38:00Z",
+  "last_checked": "2026-05-22T15:38:00Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの和平交渉の不透明感で欧州天然ガス価格が小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1547179",
+      "published": "2026-05-22 13:13:50",
+      "isoDate": "2026-05-22T13:13:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAEがエネルギー転換前に石油収益を最大化するためOPECを脱退",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547103",
+      "published": "2026-05-22 12:39:47",
+      "isoDate": "2026-05-22T12:39:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "4月の世界粗鋼生産量、前年比1.9%減――中国は2.8%減",
@@ -57,43 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544870",
       "published": "2026-05-21 09:03:25",
       "isoDate": "2026-05-21T09:03:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが銅価格予測を引き上げ、供給制約が中長期的な上昇を支持",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544851",
-      "published": "2026-05-21 08:32:49",
-      "isoDate": "2026-05-21T08:32:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、米イラン和平交渉への期待を背景にさらに上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1544619",
-      "published": "2026-05-21 02:19:02",
-      "isoDate": "2026-05-21T02:19:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、シンスペクティブ向け9回目のエレクトロン打ち上げ完了",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1546835",
-      "published": "2026-05-22 10:44:08",
-      "isoDate": "2026-05-22T10:44:08Z"
+      "title": "【市場反応】米5月ミシガン大消費者信頼感指数確定値は過去最低、期待インフレ率上昇でドル買い強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1547431",
+      "published": "2026-05-22 15:15:05",
+      "isoDate": "2026-05-22T15:15:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "UBSがS&P 500の目標株価を引き上げ、堅調な成長とAI追い風を背景に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546823",
-      "published": "2026-05-22 10:34:44",
-      "isoDate": "2026-05-22T10:34:44Z"
+      "title": "マイクロンテクノロジー、バージニア州で最先端メモリチップの生産を開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1547213",
+      "published": "2026-05-22 13:26:09",
+      "isoDate": "2026-05-22T13:26:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は小動き、原油相場にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1546776",
-      "published": "2026-05-22 10:15:11",
-      "isoDate": "2026-05-22T10:15:11Z"
+      "title": "バンク・オブ・アメリカ、原子力カバレッジを再開——OkloにBuy、NuScaleにNeutral",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1547201",
+      "published": "2026-05-22 13:21:18",
+      "isoDate": "2026-05-22T13:21:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーライリリー、高齢者向け肥満治療薬の体重減少データを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1547120",
+      "published": "2026-05-22 12:51:09",
+      "isoDate": "2026-05-22T12:51:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXのS-1申請書、半導体株への主要な示唆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1547097",
+      "published": "2026-05-22 12:36:35",
+      "isoDate": "2026-05-22T12:36:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,20 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1546601",
       "published": "2026-05-22 07:15:15",
       "isoDate": "2026-05-22T07:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：伸び悩みか、引き締め的な金融政策に思惑",
-      "link": "https://jp.investing.com/news/forex-news/article-1546563",
-      "published": "2026-05-22 06:30:17",
-      "isoDate": "2026-05-22T06:30:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "任天堂、Switch 2の生産目標を販売予測より約20%上回る水準に設定－ブルームバーグ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1546519",
-      "published": "2026-05-22 04:24:45",
-      "isoDate": "2026-05-22T04:24:45Z"
     },
     {
       "source": "Investing.com 外為",
