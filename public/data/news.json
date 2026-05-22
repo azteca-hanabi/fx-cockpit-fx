@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-22T15:38:00Z",
-  "last_checked": "2026-05-22T15:38:00Z",
+  "updated": "2026-05-22T17:57:04Z",
+  "last_checked": "2026-05-22T17:57:04Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トラフィグラ、米国裁定取引機会でLME銅在庫を引き出し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547518",
+      "published": "2026-05-22 17:05:53",
+      "isoDate": "2026-05-22T17:05:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イランの和平交渉の不透明感で欧州天然ガス価格が小幅下落",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1545372",
       "published": "2026-05-21 12:40:01",
       "isoDate": "2026-05-21T12:40:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ニッケル価格下落、インドネシアが輸出管理政策を発表",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1544870",
-      "published": "2026-05-21 09:03:25",
-      "isoDate": "2026-05-21T09:03:25Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル続伸、ウォラーFRB理事のタカ派発言",
+      "link": "https://jp.investing.com/news/forex-news/article-1547452",
+      "published": "2026-05-22 15:45:05",
+      "isoDate": "2026-05-22T15:45:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米5月ミシガン大消費者信頼感指数確定値は過去最低、期待インフレ率上昇でドル買い強まる",
@@ -87,20 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1547213",
       "published": "2026-05-22 13:26:09",
       "isoDate": "2026-05-22T13:26:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、原子力カバレッジを再開——OkloにBuy、NuScaleにNeutral",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1547201",
-      "published": "2026-05-22 13:21:18",
-      "isoDate": "2026-05-22T13:21:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー、高齢者向け肥満治療薬の体重減少データを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1547120",
-      "published": "2026-05-22 12:51:09",
-      "isoDate": "2026-05-22T12:51:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
       "published": "2026-05-21 21:03:25",
       "isoDate": "2026-05-21T21:03:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1545824",
+      "published": "2026-05-21 17:13:09",
+      "isoDate": "2026-05-21T17:13:09Z"
     },
     {
       "source": "Investing.com 外為",
