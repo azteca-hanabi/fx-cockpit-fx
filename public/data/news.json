@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-22T20:00:56Z",
-  "last_checked": "2026-05-22T20:00:56Z",
+  "updated": "2026-05-22T21:43:44Z",
+  "last_checked": "2026-05-22T21:43:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アマゾン・ドット・コムの株主総会、取締役11名を選任",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1547643",
+      "published": "2026-05-22 20:14:07",
+      "isoDate": "2026-05-22T20:14:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "5月22日のNY為替概況",
       "link": "https://jp.investing.com/news/forex-news/article-1547582",
       "published": "2026-05-22 19:15:05",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1547452",
       "published": "2026-05-22 15:45:05",
       "isoDate": "2026-05-22T15:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米5月ミシガン大消費者信頼感指数確定値は過去最低、期待インフレ率上昇でドル買い強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1547431",
-      "published": "2026-05-22 15:15:05",
-      "isoDate": "2026-05-22T15:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,82 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア、5月末から6月初めに2つの金融カンファレンスで発表予定",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1546140",
-      "published": "2026-05-21 21:03:25",
-      "isoDate": "2026-05-21T21:03:25Z"
+      "title": "IONQの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1545824",
+      "published": "2026-05-21 17:13:09",
+      "isoDate": "2026-05-21T17:13:09Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米ICEとOKXが原油の永久先物を共同提供、1.2億人規模の仮想通貨ユーザーにアクセス開放",
-      "link": "https://coinpost.jp/?p=710411",
-      "published": "Sat, 23 May 2026 05:00:11 +0900",
-      "isoDate": "2026-05-22T20:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPYC、シリーズBで累計約50億円の調達完了へ　日本円ステーブルコインの社会実装を加速",
-      "link": "https://coinpost.jp/?p=710602",
-      "published": "Fri, 22 May 2026 17:14:05 +0900",
-      "isoDate": "2026-05-22T08:14:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グラスノード分析、ビットコイン供給量の30%超で公開鍵露出を確認　量子リスクへの備えを提言",
-      "link": "https://coinpost.jp/?p=710556",
-      "published": "Fri, 22 May 2026 15:58:06 +0900",
-      "isoDate": "2026-05-22T06:58:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の少額取引免税検討・マイナー報酬5年繰り延べ、米税制改革法案を提出",
-      "link": "https://coinpost.jp/?p=710425",
-      "published": "Fri, 22 May 2026 11:58:51 +0900",
-      "isoDate": "2026-05-22T02:58:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スイ、ガス代無料のステーブルコイン送金を提供開始",
-      "link": "https://coinpost.jp/?p=710405",
-      "published": "Fri, 22 May 2026 11:45:06 +0900",
-      "isoDate": "2026-05-22T02:45:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「イーサリアムの成功には10億ドルの資金を持つ新組織などが必要」元リサーチャーが提案",
-      "link": "https://coinpost.jp/?p=710381",
-      "published": "Fri, 22 May 2026 11:25:33 +0900",
-      "isoDate": "2026-05-22T02:25:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの需要が縮小傾向、2022年3月の弱気相場に類似か＝クリプトクアント分析",
-      "link": "https://coinpost.jp/?p=710348",
-      "published": "Fri, 22 May 2026 10:35:47 +0900",
-      "isoDate": "2026-05-22T01:35:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ピザ2枚が1228億円に、『ビットコインピザの日』16年目の現実＝アナリスト",
-      "link": "https://coinpost.jp/?p=710355",
-      "published": "Fri, 22 May 2026 09:40:22 +0900",
-      "isoDate": "2026-05-22T00:40:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、800億円相当のイラン関連仮想通貨を凍結",
-      "link": "https://coinpost.jp/?p=710309",
-      "published": "Fri, 22 May 2026 08:45:08 +0900",
-      "isoDate": "2026-05-21T23:45:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、スペースXのプレIPO先物取引開始",
-      "link": "https://coinpost.jp/?p=710310",
-      "published": "Fri, 22 May 2026 06:45:15 +0900",
-      "isoDate": "2026-05-21T21:45:15Z"
-    }
-  ]
+  "btc_items": []
 }
