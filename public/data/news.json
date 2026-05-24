@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T04:05:03Z",
-  "last_checked": "2026-05-24T04:05:03Z",
+  "updated": "2026-05-24T07:37:32Z",
+  "last_checked": "2026-05-24T07:37:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国とイラン、ホルムズ海峡再開を含む60日間停戦延長合意に近づく",
+      "link": "https://jp.investing.com/news/economy-news/article-1548086",
+      "published": "2026-05-24 05:13:56",
+      "isoDate": "2026-05-24T05:13:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "韓国、サムスン電子とSKハイニックスのレバレッジ型単一株ETFを今週上場へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548076",
       "published": "2026-05-24 03:18:05",
@@ -132,17 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：AI関連株が持ち直す流れに、海外投資家の日本株への資金シフトも意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1547962",
-      "published": "2026-05-23 05:45:04",
-      "isoDate": "2026-05-23T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、バージニア州施設で先端DRAM生産を開始",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1547220",
-      "published": "2026-05-22 13:29:48",
-      "isoDate": "2026-05-22T13:29:48Z"
+      "title": "キャシー・ウッドのARK、セレブラス株を購入しAMD株を売却",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1547889",
+      "published": "2026-05-23 00:12:51",
+      "isoDate": "2026-05-23T00:12:51Z"
     }
   ],
   "btc_items": [
