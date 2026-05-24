@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T07:37:32Z",
-  "last_checked": "2026-05-24T07:37:32Z",
+  "updated": "2026-05-24T09:59:37Z",
+  "last_checked": "2026-05-24T09:59:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,35 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国とイラン、ホルムズ海峡再開を含む60日間停戦延長合意に近づく",
+      "title": "イランの軍事衝突がインフレ圧力を高め、ECBの利上げ観測が上昇",
+      "link": "https://jp.investing.com/news/economy-news/article-1548112",
+      "published": "2026-05-24 09:14:31",
+      "isoDate": "2026-05-24T09:14:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリストによるAI関連の重要な動き5選：ASML、デル、ノキアがトップ銘柄に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548110",
+      "published": "2026-05-24 09:00:02",
+      "isoDate": "2026-05-24T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、イランとの合意期待でリスク心理が改善し76,500ドル超に上昇",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1548108",
+      "published": "2026-05-24 08:38:47",
+      "isoDate": "2026-05-24T08:38:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "MetaがAI銘柄から物議を醸す株へと変わった経緯",
+      "link": "https://jp.investing.com/news/company-news/article-1548103",
+      "published": "2026-05-24 08:04:24",
+      "isoDate": "2026-05-24T08:04:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランは高濃縮ウラン備蓄の海外移転合意を否定",
       "link": "https://jp.investing.com/news/economy-news/article-1548086",
       "published": "2026-05-24 05:13:56",
       "isoDate": "2026-05-24T05:13:56Z"
@@ -94,13 +122,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1548055",
       "published": "2026-05-23 23:53:29",
       "isoDate": "2026-05-23T23:53:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホワイトハウス近くで発砲、容疑者射殺―施設は一時封鎖",
-      "link": "https://jp.investing.com/news/economy-news/article-1548046",
-      "published": "2026-05-23 23:13:44",
-      "isoDate": "2026-05-23T23:13:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1548002",
       "published": "2026-05-23 12:44:59",
       "isoDate": "2026-05-23T12:44:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、7万4500ドルに下落――地政学的不透明感で週間損失へ",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1547984",
-      "published": "2026-05-23 09:17:24",
-      "isoDate": "2026-05-23T09:17:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：米イラン和平協議の行方、植田日銀総裁講演、米コアPCE価格指数",
-      "link": "https://jp.investing.com/news/forex-news/article-1547976",
-      "published": "2026-05-23 08:00:05",
-      "isoDate": "2026-05-23T08:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キャシー・ウッドのARK、セレブラス株を購入しAMD株を売却",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1547889",
-      "published": "2026-05-23 00:12:51",
-      "isoDate": "2026-05-23T00:12:51Z"
     }
   ],
   "btc_items": [
