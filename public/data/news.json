@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-23T23:34:36Z",
-  "last_checked": "2026-05-23T23:34:36Z",
+  "updated": "2026-05-24T04:05:03Z",
+  "last_checked": "2026-05-24T04:05:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国、サムスン電子とSKハイニックスのレバレッジ型単一株ETFを今週上場へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548076",
+      "published": "2026-05-24 03:18:05",
+      "isoDate": "2026-05-24T03:18:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "LAの郊外で危険化学物質タンクの温度が上昇、消防署長が警告",
+      "link": "https://jp.investing.com/news/economy-news/article-1548055",
+      "published": "2026-05-23 23:53:29",
+      "isoDate": "2026-05-23T23:53:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ホワイトハウス近くで発砲、容疑者射殺―施設は一時封鎖",
+      "link": "https://jp.investing.com/news/economy-news/article-1548046",
+      "published": "2026-05-23 23:13:44",
+      "isoDate": "2026-05-23T23:13:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "具現化AIは市場にとって強気か弱気か？バークレイズが見解を示す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548035",
       "published": "2026-05-23 20:21:58",
@@ -118,27 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キャシー・ウッドのARK、セレブラス株を購入しAMD株を売却",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1547889",
-      "published": "2026-05-23 00:12:51",
-      "isoDate": "2026-05-23T00:12:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：弱含み、一時4488ドルまで値下がり",
-      "link": "https://jp.investing.com/news/forex-news/article-1547876",
-      "published": "2026-05-23 00:00:07",
-      "isoDate": "2026-05-23T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ジャイア・セラピューティクスCOO、葉偉国氏が約13万6,653ドル相当の株式を売却",
-      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1547807",
-      "published": "2026-05-22 22:27:03",
-      "isoDate": "2026-05-22T22:27:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、バージニア州施設で先端DRAM生産を開始",
       "link": "https://jp.investing.com/news/company-news/article-93CH-1547220",
       "published": "2026-05-22 13:29:48",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、中東停戦期待を下支えに200日線再突破が焦点に｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=710519",
+      "published": "Sun, 24 May 2026 11:30:14 +0900",
+      "isoDate": "2026-05-24T02:30:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "今週の主要仮想通貨材料まとめ（5/22）｜トランプメディアのBTC現物ETF申請撤回・HYPE価格高騰など",
+      "link": "https://coinpost.jp/?p=710413",
+      "published": "Sun, 24 May 2026 09:30:44 +0900",
+      "isoDate": "2026-05-24T00:30:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュースまとめ（5/22）｜金融庁の海外ステーブルコインの内閣府令改正・ビットコイン次回半減期カウントダウンが話題に",
+      "link": "https://coinpost.jp/?p=710439",
+      "published": "Sun, 24 May 2026 09:25:45 +0900",
+      "isoDate": "2026-05-24T00:25:45Z"
+    },
     {
       "source": "CoinPost",
       "title": "米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持",
@@ -194,20 +215,6 @@
       "link": "https://coinpost.jp/?p=710411",
       "published": "Sat, 23 May 2026 05:00:11 +0900",
       "isoDate": "2026-05-22T20:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPYC、シリーズBで累計約50億円の調達完了へ　日本円ステーブルコインの社会実装を加速",
-      "link": "https://coinpost.jp/?p=710602",
-      "published": "Fri, 22 May 2026 17:14:05 +0900",
-      "isoDate": "2026-05-22T08:14:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グラスノード分析、ビットコイン供給量の30%超で公開鍵露出を確認　量子リスクへの備えを提言",
-      "link": "https://coinpost.jp/?p=710556",
-      "published": "Fri, 22 May 2026 15:58:06 +0900",
-      "isoDate": "2026-05-22T06:58:06Z"
     }
   ]
 }
