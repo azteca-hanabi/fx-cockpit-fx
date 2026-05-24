@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T21:30:44Z",
-  "last_checked": "2026-05-24T21:30:44Z",
+  "updated": "2026-05-24T23:01:17Z",
+  "last_checked": "2026-05-24T23:01:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1太陽誘電、ソフトバンクグループ、フィックスターズなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548189",
+      "published": "2026-05-24 22:30:03",
+      "isoDate": "2026-05-24T22:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、ファンドのポジションが半導体へシフトしソフトウェアから離れると指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548157",
       "published": "2026-05-24 14:59:41",
@@ -125,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaのCEO、Super Microの輸出問題でコンプライアンス強化を求める",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548002",
-      "published": "2026-05-23 12:44:59",
-      "isoDate": "2026-05-23T12:44:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キャシー・ウッドのARK、セレブラス株を購入しAMD株を売却",
       "link": "https://jp.investing.com/news/company-news/article-93CH-1547889",
       "published": "2026-05-23 00:12:51",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF「10日で9日流出」は買いシグナルか、Santimentが逆張りの論理を分析",
+      "link": "https://coinpost.jp/?p=710749",
+      "published": "Mon, 25 May 2026 08:00:52 +0900",
+      "isoDate": "2026-05-24T23:00:52Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、中東停戦期待を下支えに200日線再突破が焦点に｜bitbankアナリスト寄稿",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=710660",
       "published": "Sat, 23 May 2026 05:50:33 +0900",
       "isoDate": "2026-05-22T20:50:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ICEとOKXが原油の永久先物を共同提供、1.2億人規模の仮想通貨ユーザーにアクセス開放",
-      "link": "https://coinpost.jp/?p=710411",
-      "published": "Sat, 23 May 2026 05:00:11 +0900",
-      "isoDate": "2026-05-22T20:00:11Z"
     }
   ]
 }
