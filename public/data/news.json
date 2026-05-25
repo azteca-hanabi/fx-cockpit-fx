@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T20:12:11Z",
-  "last_checked": "2026-05-25T20:12:11Z",
+  "updated": "2026-05-25T21:45:58Z",
+  "last_checked": "2026-05-25T21:45:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -99,6 +99,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
+      "link": "https://coinpost.jp/?p=710993",
+      "published": "Tue, 26 May 2026 05:45:38 +0900",
+      "isoDate": "2026-05-25T20:45:38Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
       "link": "https://coinpost.jp/?p=710965",
       "published": "Tue, 26 May 2026 05:00:30 +0900",
@@ -180,13 +187,6 @@
       "link": "https://coinpost.jp/?p=710439",
       "published": "Sun, 24 May 2026 09:25:45 +0900",
       "isoDate": "2026-05-24T00:25:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米バンカメ、84億円相当仮想通貨ETF保有を開示　ビットコイン増加・ETH減・XRP維持",
-      "link": "https://coinpost.jp/?p=710654",
-      "published": "Sat, 23 May 2026 14:00:49 +0900",
-      "isoDate": "2026-05-23T05:00:49Z"
     }
   ]
 }
