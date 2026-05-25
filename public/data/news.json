@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-25T11:13:49Z",
-  "last_checked": "2026-05-25T11:13:49Z",
+  "updated": "2026-05-25T14:21:03Z",
+  "last_checked": "2026-05-25T14:21:03Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロッパの天然ガス価格が急落、イラン和平合意への期待が原油安に連動",
+      "link": "https://jp.investing.com/news/commodities-news/article-1548447",
+      "published": "2026-05-25 13:32:43",
+      "isoDate": "2026-05-25T13:32:43Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、米・イラン和平交渉への期待から急騰",
@@ -43,23 +50,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547518",
       "published": "2026-05-22 17:05:53",
       "isoDate": "2026-05-22T17:05:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの和平交渉の不透明感で欧州天然ガス価格が小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1547179",
-      "published": "2026-05-22 13:13:50",
-      "isoDate": "2026-05-22T13:13:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UAEがエネルギー転換前に石油収益を最大化するためOPECを脱退",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547103",
-      "published": "2026-05-22 12:39:47",
-      "isoDate": "2026-05-22T12:39:47Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物が急伸、金価格上昇・原油下落——米イラン和平合意への期待高まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548435",
+      "published": "2026-05-25 11:40:08",
+      "isoDate": "2026-05-25T11:40:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "世界株が急騰、原油下落――中東和平交渉進展への期待高まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548432",
+      "published": "2026-05-25 11:15:18",
+      "isoDate": "2026-05-25T11:15:18Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ホルムズ海峡再開通が大規模な市場上昇をもたらさない可能性がある3つの理由",
@@ -83,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国とイランの和平合意期待背景にリスク選好ムード続き最高値更新【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1548351",
-      "published": "2026-05-25 07:45:14",
-      "isoDate": "2026-05-25T07:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、ソフトバンクGと東エレクの2銘柄で約488円押し上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548347",
       "published": "2026-05-25 07:30:13",
@@ -101,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1548338",
       "published": "2026-05-25 07:00:13",
       "isoDate": "2026-05-25T07:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ルビオ国務長官、ホルムズ海峡再開に向けた枠組み合意が「かなり固まっている」と表明",
-      "link": "https://jp.investing.com/news/economy-news/article-1548297",
-      "published": "2026-05-25 04:36:35",
-      "isoDate": "2026-05-25T04:36:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -222,13 +215,6 @@
       "link": "https://coinpost.jp/?p=710653",
       "published": "Sat, 23 May 2026 12:00:32 +0900",
       "isoDate": "2026-05-23T03:00:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、ナスダックのビットコイン指数オプション上場を承認",
-      "link": "https://coinpost.jp/?p=710655",
-      "published": "Sat, 23 May 2026 11:30:56 +0900",
-      "isoDate": "2026-05-23T02:30:56Z"
     }
   ]
 }
