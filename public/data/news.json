@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-24T23:01:17Z",
-  "last_checked": "2026-05-24T23:01:17Z",
+  "updated": "2026-05-25T01:32:32Z",
+  "last_checked": "2026-05-25T01:32:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、米・イラン和平交渉への期待から急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1548216",
+      "published": "2026-05-25 00:15:16",
+      "isoDate": "2026-05-25T00:15:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格が5%急落、ブレント原油が1バレル100ドルを割り込む―米イラン和平交渉への期待高まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1548200",
+      "published": "2026-05-24 23:25:08",
+      "isoDate": "2026-05-24T23:25:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "メモリアルデー連休前の買い戻しで大豆先物が上昇",
@@ -50,95 +64,95 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1546795",
       "published": "2026-05-22 10:23:06",
       "isoDate": "2026-05-22T10:23:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が小幅下落、イランと金利を巡る不透明感で週間も低調",
-      "link": "https://jp.investing.com/news/commodities-news/article-1546392",
-      "published": "2026-05-22 00:29:05",
-      "isoDate": "2026-05-22T00:29:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格が反発、米イラン和平交渉の進展に注目――週間では下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1546367",
-      "published": "2026-05-22 00:01:55",
-      "isoDate": "2026-05-22T00:01:55Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "エクサウィザーズ---続伸、MS&ADグループと合弁会社を設立",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548228",
+      "published": "2026-05-25 01:00:09",
+      "isoDate": "2026-05-25T01:00:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は319円高でスタート、キオクシアHDやソフトバンクGなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548218",
+      "published": "2026-05-25 00:30:07",
+      "isoDate": "2026-05-25T00:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格、米・イラン和平交渉への期待から急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1548216",
+      "published": "2026-05-25 00:15:16",
+      "isoDate": "2026-05-25T00:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～原油安を手掛かりとした買いが入りやすい～",
+      "link": "https://jp.investing.com/news/forex-news/article-1548205",
+      "published": "2026-05-24 23:45:04",
+      "isoDate": "2026-05-24T23:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 5/25",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548204",
+      "published": "2026-05-24 23:30:06",
+      "isoDate": "2026-05-24T23:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "原油安を手掛かりとした買いが入りやすい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548203",
+      "published": "2026-05-24 23:30:05",
+      "isoDate": "2026-05-24T23:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中東戦闘の終結への期待感からリスク選好地合い続く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548201",
+      "published": "2026-05-24 23:30:05",
+      "isoDate": "2026-05-24T23:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～やや売り優勢、シカゴは大阪日中比1145円高の63335円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548195",
+      "published": "2026-05-24 23:15:05",
+      "isoDate": "2026-05-24T23:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：米国とイランの協議の行方を見極める展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1548193",
+      "published": "2026-05-24 23:00:04",
+      "isoDate": "2026-05-24T23:00:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "前日に動いた銘柄 part1太陽誘電、ソフトバンクグループ、フィックスターズなど",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548189",
       "published": "2026-05-24 22:30:03",
       "isoDate": "2026-05-24T22:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、ファンドのポジションが半導体へシフトしソフトウェアから離れると指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548157",
-      "published": "2026-05-24 14:59:41",
-      "isoDate": "2026-05-24T14:59:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本国債の売りが「重大な局面」に近づく－キャピタル・エコノミクス",
-      "link": "https://jp.investing.com/news/economy-news/article-1548143",
-      "published": "2026-05-24 13:01:09",
-      "isoDate": "2026-05-24T13:01:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アナリストによるAI関連の重要な動き5選：ASML、デル、ノキアがトップ銘柄に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548110",
-      "published": "2026-05-24 09:00:02",
-      "isoDate": "2026-05-24T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、イランとの合意期待でリスク心理が改善し76,500ドル超に上昇",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1548108",
-      "published": "2026-05-24 08:38:47",
-      "isoDate": "2026-05-24T08:38:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "MetaがAI銘柄から物議を醸す株へと変わった経緯",
-      "link": "https://jp.investing.com/news/company-news/article-1548103",
-      "published": "2026-05-24 08:04:24",
-      "isoDate": "2026-05-24T08:04:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランは高濃縮ウラン備蓄の海外移転合意を否定",
-      "link": "https://jp.investing.com/news/economy-news/article-1548086",
-      "published": "2026-05-24 05:13:56",
-      "isoDate": "2026-05-24T05:13:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国、サムスン電子とSKハイニックスのレバレッジ型単一株ETFを今週上場へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548076",
-      "published": "2026-05-24 03:18:05",
-      "isoDate": "2026-05-24T03:18:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "LAの郊外で危険化学物質タンクの温度が上昇、消防署長が警告",
-      "link": "https://jp.investing.com/news/economy-news/article-1548055",
-      "published": "2026-05-23 23:53:29",
-      "isoDate": "2026-05-23T23:53:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キャシー・ウッドのARK、セレブラス株を購入しAMD株を売却",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1547889",
-      "published": "2026-05-23 00:12:51",
-      "isoDate": "2026-05-23T00:12:51Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "エルサルバドル、7日間で8BTCのビットコイン追加購入　保有量7662BTC超",
+      "link": "https://coinpost.jp/?p=710765",
+      "published": "Mon, 25 May 2026 09:47:20 +0900",
+      "isoDate": "2026-05-25T00:47:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏、「今週はビットコインでなく債券を購入」　「充電期間」と示唆",
+      "link": "https://coinpost.jp/?p=710753",
+      "published": "Mon, 25 May 2026 08:30:24 +0900",
+      "isoDate": "2026-05-24T23:30:24Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン現物ETF「10日で9日流出」は買いシグナルか、Santimentが逆張りの論理を分析",
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=710657",
       "published": "Sat, 23 May 2026 07:20:12 +0900",
       "isoDate": "2026-05-22T22:20:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "新たな米ビットコイン準備金法案の詳細判明、100万BTC購入義務含まれず",
-      "link": "https://coinpost.jp/?p=710660",
-      "published": "Sat, 23 May 2026 05:50:33 +0900",
-      "isoDate": "2026-05-22T20:50:33Z"
     }
   ]
 }
