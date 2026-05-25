@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T21:45:58Z",
-  "last_checked": "2026-05-25T21:45:58Z",
+  "updated": "2026-05-25T23:10:15Z",
+  "last_checked": "2026-05-25T23:10:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -27,6 +27,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1キオクシアHD、フジクラ、レーザーテックなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548514",
+      "published": "2026-05-25 22:30:05",
+      "isoDate": "2026-05-25T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "TSX先物が急伸、金価格上昇・原油下落——米イラン和平合意への期待高まる",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548435",
       "published": "2026-05-25 11:40:08",
@@ -38,13 +45,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1548423",
       "published": "2026-05-25 10:52:39",
       "isoDate": "2026-05-25T10:52:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 3連騰、赤三兵で最高値更新",
-      "link": "https://jp.investing.com/news/forex-news/article-1548379",
-      "published": "2026-05-25 09:30:11",
-      "isoDate": "2026-05-25T09:30:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,6 +97,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ビットコイン現物ETFが6日連続流出、アルトコインへのローテーションが鮮明に",
+      "link": "https://coinpost.jp/?p=710991",
+      "published": "Tue, 26 May 2026 07:10:23 +0900",
+      "isoDate": "2026-05-25T22:10:23Z"
+    },
     {
       "source": "CoinPost",
       "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
@@ -180,13 +187,6 @@
       "link": "https://coinpost.jp/?p=710413",
       "published": "Sun, 24 May 2026 09:30:44 +0900",
       "isoDate": "2026-05-24T00:30:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュースまとめ（5/22）｜金融庁の海外ステーブルコインの内閣府令改正・ビットコイン次回半減期カウントダウンが話題に",
-      "link": "https://coinpost.jp/?p=710439",
-      "published": "Sun, 24 May 2026 09:25:45 +0900",
-      "isoDate": "2026-05-24T00:25:45Z"
     }
   ]
 }
