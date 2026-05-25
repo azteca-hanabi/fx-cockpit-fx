@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T18:26:57Z",
-  "last_checked": "2026-05-25T18:26:57Z",
+  "updated": "2026-05-25T20:12:11Z",
+  "last_checked": "2026-05-25T20:12:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -22,20 +22,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1548200",
       "published": "2026-05-24 23:25:08",
       "isoDate": "2026-05-24T23:25:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "メモリアルデー連休前の買い戻しで大豆先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547599",
-      "published": "2026-05-22 19:49:59",
-      "isoDate": "2026-05-22T19:49:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物、強い輸出販売を背景に上昇－メモリアルデー連休前",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1547583",
-      "published": "2026-05-22 19:16:16",
-      "isoDate": "2026-05-22T19:16:16Z"
     }
   ],
   "usdjpy_items": [
@@ -59,13 +45,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1548379",
       "published": "2026-05-25 09:30:11",
       "isoDate": "2026-05-25T09:30:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イラン和平合意への期待高まる、ブレント原油が100ドル割れ",
-      "link": "https://jp.investing.com/news/economy-news/article-1548368",
-      "published": "2026-05-25 08:38:50",
-      "isoDate": "2026-05-25T08:38:50Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～初の65000円台に",
+      "link": "https://jp.investing.com/news/forex-news/article-1548272",
+      "published": "2026-05-25 03:30:12",
+      "isoDate": "2026-05-25T03:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "金価格、米・イラン和平交渉への期待から急騰",
       "link": "https://jp.investing.com/news/commodities-news/article-1548216",
       "published": "2026-05-25 00:15:16",
@@ -111,6 +97,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
+      "link": "https://coinpost.jp/?p=710965",
+      "published": "Tue, 26 May 2026 05:00:30 +0900",
+      "isoDate": "2026-05-25T20:00:30Z"
+    },
     {
       "source": "CoinPost",
       "title": "ムーンペイ、ChatGPTに仮想通貨購入機能として統合　会話の中でビットコインなどを購入",
@@ -194,13 +187,6 @@
       "link": "https://coinpost.jp/?p=710654",
       "published": "Sat, 23 May 2026 14:00:49 +0900",
       "isoDate": "2026-05-23T05:00:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米グレースケールのHYPE現物ETF申請、修正案を再度提出　3本目のETF実現間近か",
-      "link": "https://coinpost.jp/?p=710653",
-      "published": "Sat, 23 May 2026 12:00:32 +0900",
-      "isoDate": "2026-05-23T03:00:32Z"
     }
   ]
 }
