@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-25T01:32:32Z",
-  "last_checked": "2026-05-25T01:32:32Z",
+  "updated": "2026-05-25T06:40:25Z",
+  "last_checked": "2026-05-25T06:40:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,59 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "エクサウィザーズ---続伸、MS&ADグループと合弁会社を設立",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548228",
-      "published": "2026-05-25 01:00:09",
-      "isoDate": "2026-05-25T01:00:09Z"
+      "title": "日経平均は1881円高、本日の米市場は休場",
+      "link": "https://jp.investing.com/news/forex-news/article-1548316",
+      "published": "2026-05-25 06:00:13",
+      "isoDate": "2026-05-25T06:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1978円高、原油価格下落など株価支援要因に",
+      "link": "https://jp.investing.com/news/forex-news/article-1548302",
+      "published": "2026-05-25 05:00:13",
+      "isoDate": "2026-05-25T05:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ルビオ国務長官、ホルムズ海峡再開に向けた枠組み合意が「かなり固まっている」と表明",
+      "link": "https://jp.investing.com/news/economy-news/article-1548297",
+      "published": "2026-05-25 04:36:35",
+      "isoDate": "2026-05-25T04:36:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ＩＮＰＥＸ---大幅続落、原油先物相場は一時92ドル台割れまで下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548281",
+      "published": "2026-05-25 04:00:12",
+      "isoDate": "2026-05-25T04:00:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "[日経平均寄与度ランキング]",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548276",
+      "published": "2026-05-25 03:45:13",
+      "isoDate": "2026-05-25T03:45:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～初の65000円台に",
+      "link": "https://jp.investing.com/news/forex-news/article-1548272",
+      "published": "2026-05-25 03:30:12",
+      "isoDate": "2026-05-25T03:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "初の65000円台に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1548271",
+      "published": "2026-05-25 03:30:11",
+      "isoDate": "2026-05-25T03:30:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：原油先物下落も米ドル・円は158円台後半で下げ渋る",
+      "link": "https://jp.investing.com/news/forex-news/article-1548261",
+      "published": "2026-05-25 03:00:11",
+      "isoDate": "2026-05-25T03:00:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,58 +136,44 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1548216",
       "published": "2026-05-25 00:15:16",
       "isoDate": "2026-05-25T00:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～原油安を手掛かりとした買いが入りやすい～",
-      "link": "https://jp.investing.com/news/forex-news/article-1548205",
-      "published": "2026-05-24 23:45:04",
-      "isoDate": "2026-05-24T23:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "強弱材料 5/25",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548204",
-      "published": "2026-05-24 23:30:06",
-      "isoDate": "2026-05-24T23:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "原油安を手掛かりとした買いが入りやすい",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548203",
-      "published": "2026-05-24 23:30:05",
-      "isoDate": "2026-05-24T23:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中東戦闘の終結への期待感からリスク選好地合い続く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548201",
-      "published": "2026-05-24 23:30:05",
-      "isoDate": "2026-05-24T23:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや売り優勢、シカゴは大阪日中比1145円高の63335円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548195",
-      "published": "2026-05-24 23:15:05",
-      "isoDate": "2026-05-24T23:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：米国とイランの協議の行方を見極める展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1548193",
-      "published": "2026-05-24 23:00:04",
-      "isoDate": "2026-05-24T23:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1太陽誘電、ソフトバンクグループ、フィックスターズなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1548189",
-      "published": "2026-05-24 22:30:03",
-      "isoDate": "2026-05-24T22:30:03Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ムーンペイ、ChatGPTに仮想通貨購入機能として統合　会話の中でビットコインなどを購入",
+      "link": "https://coinpost.jp/?p=710885",
+      "published": "Mon, 25 May 2026 15:13:51 +0900",
+      "isoDate": "2026-05-25T06:13:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026",
+      "link": "https://coinpost.jp/?p=710762",
+      "published": "Mon, 25 May 2026 12:36:07 +0900",
+      "isoDate": "2026-05-25T03:36:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド最高値更新　アナリストが指摘する3つの買い支えメカニズム",
+      "link": "https://coinpost.jp/?p=710817",
+      "published": "Mon, 25 May 2026 12:04:13 +0900",
+      "isoDate": "2026-05-25T03:04:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの見かけの需要、年初来最低水準に＝アナリスト",
+      "link": "https://coinpost.jp/?p=710801",
+      "published": "Mon, 25 May 2026 11:30:09 +0900",
+      "isoDate": "2026-05-25T02:30:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国で仮想通貨への課税撤廃求める署名5万人超　常任委員会での審査要件満たす",
+      "link": "https://coinpost.jp/?p=710758",
+      "published": "Mon, 25 May 2026 10:30:25 +0900",
+      "isoDate": "2026-05-25T01:30:25Z"
+    },
     {
       "source": "CoinPost",
       "title": "エルサルバドル、7日間で8BTCのビットコイン追加購入　保有量7662BTC超",
@@ -201,20 +236,6 @@
       "link": "https://coinpost.jp/?p=710655",
       "published": "Sat, 23 May 2026 11:30:56 +0900",
       "isoDate": "2026-05-23T02:30:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1200万円割れ、米「100万BTC購入期待」後退で失望売り広がる｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=710701",
-      "published": "Sat, 23 May 2026 10:25:08 +0900",
-      "isoDate": "2026-05-23T01:25:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプメディア、320億円相当ビットコインを取引所へ送金",
-      "link": "https://coinpost.jp/?p=710657",
-      "published": "Sat, 23 May 2026 07:20:12 +0900",
-      "isoDate": "2026-05-22T22:20:12Z"
     }
   ]
 }
