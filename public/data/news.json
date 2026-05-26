@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T21:12:15Z",
-  "last_checked": "2026-05-26T21:12:15Z",
+  "updated": "2026-05-26T22:50:06Z",
+  "last_checked": "2026-05-26T22:50:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目銘柄：ZS、APPS、SMTC、BOX、PODD、VRRM、FLY",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1550098",
-      "published": "2026-05-26 20:30:03",
-      "isoDate": "2026-05-26T20:30:03Z"
+      "title": "26日の米国市場ダイジェスト：米国株式市場はまちまち、テクノロジー株がけん引",
+      "link": "https://jp.investing.com/news/forex-news/article-1550189",
+      "published": "2026-05-26 21:45:06",
+      "isoDate": "2026-05-26T21:45:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテュイティブ・マシンズ、株価急変動で取引停止―上昇分を全て消す",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1549954",
-      "published": "2026-05-26 18:34:08",
-      "isoDate": "2026-05-26T18:34:08Z"
+      "title": "NY為替：ドルは底堅い動き、イラン戦争のすみやかな終結への期待後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1550188",
+      "published": "2026-05-26 21:45:06",
+      "isoDate": "2026-05-26T21:45:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "D-Wave、量子超越性の結果が覆されたとする主張に反論",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1549936",
-      "published": "2026-05-26 18:01:12",
-      "isoDate": "2026-05-26T18:01:12Z"
+      "title": "マスク氏、テスラとSpaceXの合併を検討か――報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550177",
+      "published": "2026-05-26 21:32:21",
+      "isoDate": "2026-05-26T21:32:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは118.02ドル安、テクノロジー株がけん引",
+      "link": "https://jp.investing.com/news/forex-news/article-1550155",
+      "published": "2026-05-26 21:15:05",
+      "isoDate": "2026-05-26T21:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日急騰している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1549080",
-      "published": "2026-05-26 11:17:27",
-      "isoDate": "2026-05-26T11:17:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が12%急騰、UBSが目標株価を3倍超に引き上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1548947",
       "published": "2026-05-26 10:32:48",
@@ -145,5 +145,83 @@
       "isoDate": "2026-05-26T05:02:21Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、先週は約2340億円が純流出　ビットコイン商品の流出額が今年最大に",
+      "link": "https://coinpost.jp/?p=711355",
+      "published": "Wed, 27 May 2026 07:25:30 +0900",
+      "isoDate": "2026-05-26T22:25:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領がCFTCの予測市場管轄権を支持、「仮想通貨の首都」維持を宣言",
+      "link": "https://coinpost.jp/?p=711340",
+      "published": "Wed, 27 May 2026 07:07:54 +0900",
+      "isoDate": "2026-05-26T22:07:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストライブ、1109BTC追加購入　コインベース抜き企業保有7位に",
+      "link": "https://coinpost.jp/?p=711338",
+      "published": "Wed, 27 May 2026 06:40:12 +0900",
+      "isoDate": "2026-05-26T21:40:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ETH・SOLトレジャリー企業2社、米ラッセル指数組み入れ予備リストに掲載",
+      "link": "https://coinpost.jp/?p=711342",
+      "published": "Wed, 27 May 2026 06:15:21 +0900",
+      "isoDate": "2026-05-26T21:15:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トム・リー率いるビットマイン、先週3700億円相当ETH新規購入　今年最大規模の週次取得",
+      "link": "https://coinpost.jp/?p=711343",
+      "published": "Wed, 27 May 2026 05:50:30 +0900",
+      "isoDate": "2026-05-26T20:50:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、2388億円相当転換社債買い戻し完了　先週はビットコイン新規購入なし",
+      "link": "https://coinpost.jp/?p=710987",
+      "published": "Wed, 27 May 2026 05:00:40 +0900",
+      "isoDate": "2026-05-26T20:00:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF流出加速、機関の売り圧力が再燃＝分析",
+      "link": "https://coinpost.jp/?p=711203",
+      "published": "Tue, 26 May 2026 16:22:49 +0900",
+      "isoDate": "2026-05-26T07:22:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨やDeFiなどを狙った攻撃「TrapDoor」、セキュリティ企業Socketが警告",
+      "link": "https://coinpost.jp/?p=711014",
+      "published": "Tue, 26 May 2026 09:55:42 +0900",
+      "isoDate": "2026-05-26T00:55:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米議員、ビットコイン準備金の目標を供給量の5%と言及　6ヶ月以内の法制化促す",
+      "link": "https://coinpost.jp/?p=710989",
+      "published": "Tue, 26 May 2026 09:35:07 +0900",
+      "isoDate": "2026-05-26T00:35:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "投資プラットフォーム『ムームー』、仮想通貨取引を米テキサス州に拡大",
+      "link": "https://coinpost.jp/?p=710990",
+      "published": "Tue, 26 May 2026 08:15:15 +0900",
+      "isoDate": "2026-05-25T23:15:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ビットコイン現物ETFが6日連続流出、アルトコインへのローテーションが鮮明に",
+      "link": "https://coinpost.jp/?p=710991",
+      "published": "Tue, 26 May 2026 07:10:23 +0900",
+      "isoDate": "2026-05-25T22:10:23Z"
+    }
+  ]
 }
