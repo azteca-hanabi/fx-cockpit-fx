@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-26T16:57:22Z",
-  "last_checked": "2026-05-26T16:57:22Z",
+  "updated": "2026-05-26T19:24:52Z",
+  "last_checked": "2026-05-26T19:24:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州小麦価格が上昇、熱波が作物に打撃を与える恐れ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549911",
+      "published": "2026-05-26 17:17:02",
+      "isoDate": "2026-05-26T17:17:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ヴィトールがWTI ミッドランド原油を割安で購入、スプレッドが低下",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1548547",
       "published": "2026-05-26 00:34:57",
       "isoDate": "2026-05-26T00:34:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロッパの天然ガス価格が急落、イラン和平合意への期待が原油安に連動",
-      "link": "https://jp.investing.com/news/commodities-news/article-1548447",
-      "published": "2026-05-25 13:32:43",
-      "isoDate": "2026-05-25T13:32:43Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "D-Wave、量子超越性の結果が覆されたとする主張に反論",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1549936",
+      "published": "2026-05-26 18:01:12",
+      "isoDate": "2026-05-26T18:01:12Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SanDiskの株価が本日急騰している理由とは？",
@@ -83,24 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコム、AI処理機能搭載の業界初50G PONゲートウェイチップを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1549465",
-      "published": "2026-05-26 13:02:09",
-      "isoDate": "2026-05-26T13:02:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SanDisk、年初来500%超上昇　AIメモリ相場の持続力と過熱リスクを点検",
       "link": "https://jp.investing.com/news/stock-market-news/article-1549401",
       "published": "2026-05-26 12:47:14",
       "isoDate": "2026-05-26T12:47:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ePlus、プライベートAIインフラのマネージドサービスを開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1549338",
-      "published": "2026-05-26 12:31:11",
-      "isoDate": "2026-05-26T12:31:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +108,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1549125",
       "published": "2026-05-26 11:30:54",
       "isoDate": "2026-05-26T11:30:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日急騰している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1549080",
+      "published": "2026-05-26 11:17:27",
+      "isoDate": "2026-05-26T11:17:27Z"
     },
     {
       "source": "Investing.com 外為",
