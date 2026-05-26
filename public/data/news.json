@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-26T19:24:52Z",
-  "last_checked": "2026-05-26T19:24:52Z",
+  "updated": "2026-05-26T21:12:15Z",
+  "last_checked": "2026-05-26T21:12:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：ZS、APPS、SMTC、BOX、PODD、VRRM、FLY",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1550098",
+      "published": "2026-05-26 20:30:03",
+      "isoDate": "2026-05-26T20:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテュイティブ・マシンズ、株価急変動で取引停止―上昇分を全て消す",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1549954",
+      "published": "2026-05-26 18:34:08",
+      "isoDate": "2026-05-26T18:34:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "D-Wave、量子超越性の結果が覆されたとする主張に反論",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1549936",
       "published": "2026-05-26 18:01:12",
@@ -104,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体株が寄り前取引で上昇、投資家心理が改善",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1549125",
-      "published": "2026-05-26 11:30:54",
-      "isoDate": "2026-05-26T11:30:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急騰している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1549080",
       "published": "2026-05-26 11:17:27",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1548947",
       "published": "2026-05-26 10:32:48",
       "isoDate": "2026-05-26T10:32:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSがマイクロンテクノロジーの目標株価を$1,625に引き上げ、メモリ需要見通しを評価",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1548881",
-      "published": "2026-05-26 10:02:50",
-      "isoDate": "2026-05-26T10:02:50Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,69 +145,5 @@
       "isoDate": "2026-05-26T05:02:21Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETF流出加速、機関の売り圧力が再燃＝分析",
-      "link": "https://coinpost.jp/?p=711203",
-      "published": "Tue, 26 May 2026 16:22:49 +0900",
-      "isoDate": "2026-05-26T07:22:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨やDeFiなどを狙った攻撃「TrapDoor」、セキュリティ企業Socketが警告",
-      "link": "https://coinpost.jp/?p=711014",
-      "published": "Tue, 26 May 2026 09:55:42 +0900",
-      "isoDate": "2026-05-26T00:55:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米議員、ビットコイン準備金の目標を供給量の5%と言及　6ヶ月以内の法制化促す",
-      "link": "https://coinpost.jp/?p=710989",
-      "published": "Tue, 26 May 2026 09:35:07 +0900",
-      "isoDate": "2026-05-26T00:35:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "投資プラットフォーム『ムームー』、仮想通貨取引を米テキサス州に拡大",
-      "link": "https://coinpost.jp/?p=710990",
-      "published": "Tue, 26 May 2026 08:15:15 +0900",
-      "isoDate": "2026-05-25T23:15:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコイン現物ETFが6日連続流出、アルトコインへのローテーションが鮮明に",
-      "link": "https://coinpost.jp/?p=710991",
-      "published": "Tue, 26 May 2026 07:10:23 +0900",
-      "isoDate": "2026-05-25T22:10:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
-      "link": "https://coinpost.jp/?p=710993",
-      "published": "Tue, 26 May 2026 05:45:38 +0900",
-      "isoDate": "2026-05-25T20:45:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
-      "link": "https://coinpost.jp/?p=710965",
-      "published": "Tue, 26 May 2026 05:00:30 +0900",
-      "isoDate": "2026-05-25T20:00:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ムーンペイ、ChatGPTに仮想通貨購入機能として統合　会話の中でビットコインなどを購入",
-      "link": "https://coinpost.jp/?p=710885",
-      "published": "Mon, 25 May 2026 15:13:51 +0900",
-      "isoDate": "2026-05-25T06:13:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テスタ×千野剛司対談レポート　資産防衛でビットコイン購入、税制改革で市場構造が変わる｜Binance Japan Pizza Day 2026",
-      "link": "https://coinpost.jp/?p=710762",
-      "published": "Mon, 25 May 2026 12:36:07 +0900",
-      "isoDate": "2026-05-25T03:36:07Z"
-    }
-  ]
+  "btc_items": []
 }
