@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T21:03:15Z",
-  "last_checked": "2026-05-27T21:03:15Z",
+  "updated": "2026-05-27T22:57:19Z",
+  "last_checked": "2026-05-27T22:57:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1 KOKUSAI　ELECTRIC、信越化学工業、東京エレクトロンなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1551871",
+      "published": "2026-05-27 22:30:05",
+      "isoDate": "2026-05-27T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "27日の米国市場ダイジェスト：米国株式市場は小幅高、ホルムズ海峡正常化期待が高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1551822",
+      "published": "2026-05-27 21:45:04",
+      "isoDate": "2026-05-27T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは182.60ドル高、ホルムズ海峡正常化期待が高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1551773",
+      "published": "2026-05-27 21:15:05",
+      "isoDate": "2026-05-27T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：CRM、MRVL、SNOW、HPQ、DDOG、MDB、P、SNPS、BRZE、NCNO",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1551687",
+      "published": "2026-05-27 20:33:03",
+      "isoDate": "2026-05-27T20:33:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "セールスフォース、やや弱い売上高見通しを受け時間外取引で下落",
+      "link": "https://jp.investing.com/news/earnings/article-1551657",
+      "published": "2026-05-27 20:24:29",
+      "isoDate": "2026-05-27T20:24:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マーベル・テクノロジー・グループ、AI需要の強さでアナリスト予想を上回る",
       "link": "https://jp.investing.com/news/earnings/article-1551609",
       "published": "2026-05-27 20:11:07",
       "isoDate": "2026-05-27T20:11:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サイバーセキュリティ株、グーグルのAIセキュリティ基盤発表とジースケイラーの見通しで下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1551552",
-      "published": "2026-05-27 19:16:45",
-      "isoDate": "2026-05-27T19:16:45Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,38 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ヒポクラティックAI、患者対応1000万件・安全スコア99.9%を達成",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1551104",
-      "published": "2026-05-27 13:03:18",
-      "isoDate": "2026-05-27T13:03:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジーとSemtechが寄り前に急騰、ジースケイラーは急落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1550899",
       "published": "2026-05-27 11:48:29",
       "isoDate": "2026-05-27T11:48:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SoFi Technologies、米国初の国法銀行発行ステーブルコインをバンキングプラットフォームで提供開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1550778",
-      "published": "2026-05-27 11:05:21",
-      "isoDate": "2026-05-27T11:05:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーが時価総額1兆ドル突破、イラン和平交渉に注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1550544",
-      "published": "2026-05-27 08:25:47",
-      "isoDate": "2026-05-27T08:25:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾、NvidiaのAIチップが日本経由で中国に密輸された疑いを持つ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550390",
-      "published": "2026-05-27 04:51:05",
-      "isoDate": "2026-05-27T04:51:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "マスターカード、NY州の仮想通貨向けビットライセンスを取得",
+      "link": "https://coinpost.jp/?p=711799",
+      "published": "Thu, 28 May 2026 07:33:25 +0900",
+      "isoDate": "2026-05-27T22:33:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ホワイトハウスがCFTC予測市場規制案を審査中、TDコーウェン「決着は最高裁」",
+      "link": "https://coinpost.jp/?p=711800",
+      "published": "Thu, 28 May 2026 06:40:46 +0900",
+      "isoDate": "2026-05-27T21:40:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベース、スタンダードチャータードと提携　6法定通貨インフラを強化",
+      "link": "https://coinpost.jp/?p=711801",
+      "published": "Thu, 28 May 2026 06:15:48 +0900",
+      "isoDate": "2026-05-27T21:15:48Z"
+    },
     {
       "source": "CoinPost",
       "title": "中国最高裁、仮想通貨関連の裁判規則研究を表明",
@@ -208,27 +229,6 @@
       "link": "https://coinpost.jp/?p=711376",
       "published": "Wed, 27 May 2026 10:05:20 +0900",
       "isoDate": "2026-05-27T01:05:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英国、仮想通貨取引所HTXを対ロシア制裁対象に指定　FCAの提訴に続き規制強化",
-      "link": "https://coinpost.jp/?p=711381",
-      "published": "Wed, 27 May 2026 09:55:18 +0900",
-      "isoDate": "2026-05-27T00:55:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現",
-      "link": "https://coinpost.jp/?p=711339",
-      "published": "Wed, 27 May 2026 08:15:14 +0900",
-      "isoDate": "2026-05-26T23:15:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ETFなど、先週は約2340億円が純流出　ビットコイン商品の流出額が今年最大に",
-      "link": "https://coinpost.jp/?p=711355",
-      "published": "Wed, 27 May 2026 07:25:30 +0900",
-      "isoDate": "2026-05-26T22:25:30Z"
     }
   ]
 }
