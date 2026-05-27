@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-27T16:24:24Z",
-  "last_checked": "2026-05-27T16:24:24Z",
+  "updated": "2026-05-27T18:38:58Z",
+  "last_checked": "2026-05-27T18:38:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリンマージンが中東緊張の中で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1551516",
+      "published": "2026-05-27 18:02:49",
+      "isoDate": "2026-05-27T18:02:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの戦争で中東原油供給が混乱、米国戦略石油備蓄の原油が初めてカリフォルニアに輸送される",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1551488",
+      "published": "2026-05-27 17:06:49",
+      "isoDate": "2026-05-27T17:06:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "供給増加で欧州天然ガス価格が下落、イラン協議の不透明感を相殺",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549305",
       "published": "2026-05-26 12:21:20",
       "isoDate": "2026-05-26T12:21:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ウズベキスタン、6ヶ月の停止後に金輸出を再開",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549206",
-      "published": "2026-05-26 11:57:33",
-      "isoDate": "2026-05-26T11:57:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが見る金価格の中期的な見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-1548829",
-      "published": "2026-05-26 09:27:34",
-      "isoDate": "2026-05-26T09:27:34Z"
     }
   ],
   "usdjpy_items": [
@@ -104,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "TSX先物はほぼ横ばい、AIチップ相場の上昇とカナダ大手銀行の決算が焦点",
+      "title": "TSX、AIチップ株高とカナダ大手銀行決算を受け小幅下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1551037",
       "published": "2026-05-27 12:34:11",
       "isoDate": "2026-05-27T12:34:11Z"
@@ -145,5 +145,90 @@
       "isoDate": "2026-05-26T21:32:21Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "Bitcoin Japan、SpaceX株取得目的ファンドに約20億円出資　AIインフラ事業に参入へ",
+      "link": "https://coinpost.jp/?p=711783",
+      "published": "Wed, 27 May 2026 23:10:53 +0900",
+      "isoDate": "2026-05-27T14:10:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "シャープリンクら、Russellインデックスに組み入れ　仮想通貨企業が相次ぐ",
+      "link": "https://coinpost.jp/?p=711706",
+      "published": "Wed, 27 May 2026 17:57:50 +0900",
+      "isoDate": "2026-05-27T08:57:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国の仮想通貨取引、株式市場の10分の1以下に縮小　市場低迷が続く",
+      "link": "https://coinpost.jp/?p=711649",
+      "published": "Wed, 27 May 2026 16:53:13 +0900",
+      "isoDate": "2026-05-27T07:53:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド現物ETF、上場10日でビットコインETFを超える吸収率を記録",
+      "link": "https://coinpost.jp/?p=711579",
+      "published": "Wed, 27 May 2026 15:52:41 +0900",
+      "isoDate": "2026-05-27T06:52:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AIエージェントのマイクロ決済が急拡大、1年で1.7億件超処理　9割以上がUSDC利用＝Keyrockレポート",
+      "link": "https://coinpost.jp/?p=711536",
+      "published": "Wed, 27 May 2026 13:50:35 +0900",
+      "isoDate": "2026-05-27T04:50:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "国内上場企業WIZE、ソラナを1億円分追加取得　総保有量3万SOL超",
+      "link": "https://coinpost.jp/?p=711493",
+      "published": "Wed, 27 May 2026 11:45:13 +0900",
+      "isoDate": "2026-05-27T02:45:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米仮想通貨業界団体デジタルチェンバー、ウォーレン議員の仮想通貨信託認可批判に反論",
+      "link": "https://coinpost.jp/?p=711337",
+      "published": "Wed, 27 May 2026 11:00:31 +0900",
+      "isoDate": "2026-05-27T02:00:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースL2のBase、AIエージェント接続機能をローンチ　ユニスワップなどに対応",
+      "link": "https://coinpost.jp/?p=711376",
+      "published": "Wed, 27 May 2026 10:05:20 +0900",
+      "isoDate": "2026-05-27T01:05:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "英国、仮想通貨取引所HTXを対ロシア制裁対象に指定　FCAの提訴に続き規制強化",
+      "link": "https://coinpost.jp/?p=711381",
+      "published": "Wed, 27 May 2026 09:55:18 +0900",
+      "isoDate": "2026-05-27T00:55:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "13億円相当ビットコインがバーンアドレスに突然送金、アダム・バックは「量子バウンティ」と表現",
+      "link": "https://coinpost.jp/?p=711339",
+      "published": "Wed, 27 May 2026 08:15:14 +0900",
+      "isoDate": "2026-05-26T23:15:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、先週は約2340億円が純流出　ビットコイン商品の流出額が今年最大に",
+      "link": "https://coinpost.jp/?p=711355",
+      "published": "Wed, 27 May 2026 07:25:30 +0900",
+      "isoDate": "2026-05-26T22:25:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領がCFTCの予測市場管轄権を支持、「仮想通貨の首都」維持を宣言",
+      "link": "https://coinpost.jp/?p=711340",
+      "published": "Wed, 27 May 2026 07:07:54 +0900",
+      "isoDate": "2026-05-26T22:07:54Z"
+    }
+  ]
 }
