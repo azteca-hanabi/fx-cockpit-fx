@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T04:56:36Z",
-  "last_checked": "2026-05-27T04:56:36Z",
+  "updated": "2026-05-27T08:44:11Z",
+  "last_checked": "2026-05-27T08:44:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "オキサイド---続落、ソニーGの先端レーザー技術スタートアップの立ち上げ支援",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550385",
-      "published": "2026-05-27 04:45:14",
-      "isoDate": "2026-05-27T04:45:14Z"
+      "title": "マイクロンテクノロジーが時価総額1兆ドル突破、イラン和平交渉に注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1550544",
+      "published": "2026-05-27 08:25:47",
+      "isoDate": "2026-05-27T08:25:47Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウエストＨＤ---大幅反発、三菱UFJ系と太陽光設備の導入支援",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550381",
-      "published": "2026-05-27 04:30:15",
-      "isoDate": "2026-05-27T04:30:15Z"
+      "title": "東証グロ－ス指数は大幅続落、東証プライムの半導体関連株に資金向かう",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550519",
+      "published": "2026-05-27 08:00:14",
+      "isoDate": "2026-05-27T08:00:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：底堅いか、決算発表に思惑",
-      "link": "https://jp.investing.com/news/forex-news/article-1550373",
-      "published": "2026-05-27 04:15:14",
-      "isoDate": "2026-05-27T04:15:14Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅に反発、アドバンテストやファーストリテが2銘柄で約440円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550518",
+      "published": "2026-05-27 08:00:13",
+      "isoDate": "2026-05-27T08:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "一時初の66000円台乗せとなるも、利食い売りが増え伸び悩む【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1550517",
+      "published": "2026-05-27 08:00:12",
+      "isoDate": "2026-05-27T08:00:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "DyDo、マキヤ、テセックなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550474",
+      "published": "2026-05-27 07:15:14",
+      "isoDate": "2026-05-27T07:15:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラと中国EV勢が躍進、4月の欧州新車販売が増加",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550411",
+      "published": "2026-05-27 05:15:55",
+      "isoDate": "2026-05-27T05:15:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "台湾、NvidiaのAIチップが日本経由で中国に密輸された疑いを持つ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1550390",
+      "published": "2026-05-27 04:51:05",
+      "isoDate": "2026-05-27T04:51:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,34 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1550370",
       "published": "2026-05-27 04:08:00",
       "isoDate": "2026-05-27T04:08:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（前引け）～日経平均は大幅反発、アドバンテストが1銘柄で約359円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550361",
-      "published": "2026-05-27 03:45:15",
-      "isoDate": "2026-05-27T03:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～朝方に上げ幅を拡大",
-      "link": "https://jp.investing.com/news/forex-news/article-1550360",
-      "published": "2026-05-27 03:45:12",
-      "isoDate": "2026-05-27T03:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は反発、朝方に上げ幅を拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550353",
-      "published": "2026-05-27 03:15:13",
-      "isoDate": "2026-05-27T03:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500とナスダックが最高値更新、ウォール街先物は横ばい―イラン緊張が重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550303",
-      "published": "2026-05-27 00:44:10",
-      "isoDate": "2026-05-27T00:44:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "韓国の仮想通貨取引、株式市場の10分の1以下に縮小　市場低迷が続く",
+      "link": "https://coinpost.jp/?p=711649",
+      "published": "Wed, 27 May 2026 16:53:13 +0900",
+      "isoDate": "2026-05-27T07:53:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド現物ETF、上場10日でビットコインETFを超える吸収率を記録",
+      "link": "https://coinpost.jp/?p=711579",
+      "published": "Wed, 27 May 2026 15:52:41 +0900",
+      "isoDate": "2026-05-27T06:52:41Z"
+    },
     {
       "source": "CoinPost",
       "title": "AIエージェントのマイクロ決済が急拡大、1年で1.7億件超処理　9割以上がUSDC利用＝Keyrockレポート",
@@ -215,20 +229,6 @@
       "link": "https://coinpost.jp/?p=711342",
       "published": "Wed, 27 May 2026 06:15:21 +0900",
       "isoDate": "2026-05-26T21:15:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トム・リー率いるビットマイン、先週3700億円相当ETH新規購入　今年最大規模の週次取得",
-      "link": "https://coinpost.jp/?p=711343",
-      "published": "Wed, 27 May 2026 05:50:30 +0900",
-      "isoDate": "2026-05-26T20:50:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、2388億円相当転換社債買い戻し完了　先週はビットコイン新規購入なし",
-      "link": "https://coinpost.jp/?p=710987",
-      "published": "Wed, 27 May 2026 05:00:40 +0900",
-      "isoDate": "2026-05-26T20:00:40Z"
     }
   ]
 }
