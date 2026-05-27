@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-27T18:38:58Z",
-  "last_checked": "2026-05-27T18:38:58Z",
+  "updated": "2026-05-27T21:03:15Z",
+  "last_checked": "2026-05-27T21:03:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：全般的にドル買い優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1551406",
-      "published": "2026-05-27 15:15:04",
-      "isoDate": "2026-05-27T15:15:04Z"
+      "title": "マーベル・テクノロジー・グループ、AI需要の強さでアナリスト予想を上回る",
+      "link": "https://jp.investing.com/news/earnings/article-1551609",
+      "published": "2026-05-27 20:11:07",
+      "isoDate": "2026-05-27T20:11:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "バークレイズ、メモリ・ストレージを「最も魅力的な分野」と評価しSandiskを格上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1551401",
-      "published": "2026-05-27 15:09:18",
-      "isoDate": "2026-05-27T15:09:18Z"
+      "title": "サイバーセキュリティ株、グーグルのAIセキュリティ基盤発表とジースケイラーの見通しで下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1551552",
+      "published": "2026-05-27 19:16:45",
+      "isoDate": "2026-05-27T19:16:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラとスペースXの合併は不可避、初期投資家が予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1551510",
+      "published": "2026-05-27 17:53:30",
+      "isoDate": "2026-05-27T17:53:30Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1551104",
       "published": "2026-05-27 13:03:18",
       "isoDate": "2026-05-27T13:03:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX、AIチップ株高とカナダ大手銀行決算を受け小幅下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1551037",
-      "published": "2026-05-27 12:34:11",
-      "isoDate": "2026-05-27T12:34:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "中国最高裁、仮想通貨関連の裁判規則研究を表明",
+      "link": "https://coinpost.jp/?p=711768",
+      "published": "Thu, 28 May 2026 05:00:27 +0900",
+      "isoDate": "2026-05-27T20:00:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "Bitcoin Japan、SpaceX株取得目的ファンドに約20億円出資　AIインフラ事業に参入へ",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=711355",
       "published": "Wed, 27 May 2026 07:25:30 +0900",
       "isoDate": "2026-05-26T22:25:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領がCFTCの予測市場管轄権を支持、「仮想通貨の首都」維持を宣言",
-      "link": "https://coinpost.jp/?p=711340",
-      "published": "Wed, 27 May 2026 07:07:54 +0900",
-      "isoDate": "2026-05-26T22:07:54Z"
     }
   ]
 }
