@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-28T08:45:44Z",
-  "last_checked": "2026-05-28T08:45:44Z",
+  "updated": "2026-05-28T12:32:26Z",
+  "last_checked": "2026-05-28T12:32:26Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バーンスタイン、長期原油価格は1バレル75ドルと予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-1552529",
+      "published": "2026-05-28 12:25:31",
+      "isoDate": "2026-05-28T12:25:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金はFRBの引き締め懸念が後退する中で反発できるか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1552296",
+      "published": "2026-05-28 10:32:39",
+      "isoDate": "2026-05-28T10:32:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国のイラン攻撃を受け、原油高・ドル高で金価格が下落",
@@ -57,50 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549911",
       "published": "2026-05-26 17:17:02",
       "isoDate": "2026-05-26T17:17:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヴィトールがWTI ミッドランド原油を割安で購入、スプレッドが低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549888",
-      "published": "2026-05-26 16:49:31",
-      "isoDate": "2026-05-26T16:49:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、ケープサイズとパナマックス船の運賃上昇で続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1549884",
-      "published": "2026-05-26 16:45:29",
-      "isoDate": "2026-05-26T16:45:29Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は反落、午後はドル買い後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1552146",
-      "published": "2026-05-28 08:15:14",
-      "isoDate": "2026-05-28T08:15:14Z"
+      "title": "金はFRBの引き締め懸念が後退する中で反発できるか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1552296",
+      "published": "2026-05-28 10:32:39",
+      "isoDate": "2026-05-28T10:32:39Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "中東地政学リスクを警戒した売りに一時64000円台割れ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1552128",
-      "published": "2026-05-28 08:00:15",
-      "isoDate": "2026-05-28T08:00:15Z"
+      "title": "欧州為替：ドル・円は安値圏、欧米株安を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1552247",
+      "published": "2026-05-28 10:00:12",
+      "isoDate": "2026-05-28T10:00:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は反落、アドバンテストやソフトバンクGが2銘柄で約308円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1552110",
-      "published": "2026-05-28 07:30:16",
-      "isoDate": "2026-05-28T07:30:16Z"
+      "title": "191%超の上昇を記録 — AI選定グローバル銘柄の新リストが間もなく公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552241",
+      "published": "2026-05-28 09:39:32",
+      "isoDate": "2026-05-28T09:39:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はじり安、本日安値圏",
-      "link": "https://jp.investing.com/news/forex-news/article-1552102",
-      "published": "2026-05-28 07:15:14",
-      "isoDate": "2026-05-28T07:15:14Z"
+      "title": "欧州為替：ドル・円は失速、ドル買い後退で",
+      "link": "https://jp.investing.com/news/forex-news/article-1552220",
+      "published": "2026-05-28 09:30:13",
+      "isoDate": "2026-05-28T09:30:13Z"
     },
     {
       "source": "Investing.com 外為",
