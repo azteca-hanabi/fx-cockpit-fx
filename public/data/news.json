@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T21:58:22Z",
-  "last_checked": "2026-05-28T21:58:22Z",
+  "updated": "2026-05-28T23:26:04Z",
+  "last_checked": "2026-05-28T23:26:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY金：反発で4532.40ドル、中東情勢の改善を期待した買いが入る",
+      "link": "https://jp.investing.com/news/forex-news/article-1553482",
+      "published": "2026-05-28 22:45:06",
+      "isoDate": "2026-05-28T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Meta Platforms、1株当たり0.525ドルの四半期配当を発表――利回りは0.3%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1553451",
+      "published": "2026-05-28 22:12:11",
+      "isoDate": "2026-05-28T22:12:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "28日の米国市場ダイジェスト：米国株式市場は続伸、ハイテク株が急伸",
+      "link": "https://jp.investing.com/news/forex-news/article-1553445",
+      "published": "2026-05-28 22:00:04",
+      "isoDate": "2026-05-28T22:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：ドルは弱含み、米国とイランは停戦延長などで暫定合意へ",
       "link": "https://jp.investing.com/news/forex-news/article-1553345",
       "published": "2026-05-28 20:45:04",
       "isoDate": "2026-05-28T20:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "デルが時間外取引で急騰、業績が予想を大幅に上回り通期売上高見通しを引き上げ",
-      "link": "https://jp.investing.com/news/earnings/article-1553267",
-      "published": "2026-05-28 20:25:17",
-      "isoDate": "2026-05-28T20:25:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1553126",
       "published": "2026-05-28 18:00:19",
       "isoDate": "2026-05-28T18:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スノーフレークの好決算がAI懸念を払拭、ソフトウェアセクターが急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553069",
-      "published": "2026-05-28 16:34:24",
-      "isoDate": "2026-05-28T16:34:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キオクシア、2027年BiCS 10量産へ——AI需要がNAND市場を牽引",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1552793",
-      "published": "2026-05-28 13:53:53",
-      "isoDate": "2026-05-28T13:53:53Z"
     },
     {
       "source": "Investing.com 外為",
