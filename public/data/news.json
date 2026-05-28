@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-28T04:50:55Z",
-  "last_checked": "2026-05-28T04:50:55Z",
+  "updated": "2026-05-28T08:45:44Z",
+  "last_checked": "2026-05-28T08:45:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,45 +76,59 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は427円安でスタート、FIGや古河電工などが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1552022",
-      "published": "2026-05-28 04:00:15",
-      "isoDate": "2026-05-28T04:00:15Z"
+      "title": "東京為替：ドル・円は反落、午後はドル買い後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1552146",
+      "published": "2026-05-28 08:15:14",
+      "isoDate": "2026-05-28T08:15:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～プラス圏に浮上も上げ幅限定的",
-      "link": "https://jp.investing.com/news/forex-news/article-1552018",
-      "published": "2026-05-28 03:30:13",
-      "isoDate": "2026-05-28T03:30:13Z"
+      "title": "中東地政学リスクを警戒した売りに一時64000円台割れ【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1552128",
+      "published": "2026-05-28 08:00:15",
+      "isoDate": "2026-05-28T08:00:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株、米国のイラン再攻撃で下落――PCEインフレ指標も注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1552009",
-      "published": "2026-05-28 03:12:07",
-      "isoDate": "2026-05-28T03:12:07Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は反落、アドバンテストやソフトバンクGが2銘柄で約308円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552110",
+      "published": "2026-05-28 07:30:16",
+      "isoDate": "2026-05-28T07:30:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は底堅い、日本株はプラスに浮上",
-      "link": "https://jp.investing.com/news/forex-news/article-1552006",
-      "published": "2026-05-28 03:00:12",
-      "isoDate": "2026-05-28T03:00:12Z"
+      "title": "東京為替：ドル・円はじり安、本日安値圏",
+      "link": "https://jp.investing.com/news/forex-news/article-1552102",
+      "published": "2026-05-28 07:15:14",
+      "isoDate": "2026-05-28T07:15:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国のイラン攻撃を受け、原油高・ドル高で金価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1551983",
-      "published": "2026-05-28 01:43:32",
-      "isoDate": "2026-05-28T01:43:32Z"
+      "title": "ヒロセ電、村田製、BTCJPNなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552096",
+      "published": "2026-05-28 07:00:16",
+      "isoDate": "2026-05-28T07:00:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金はFRBの利下げ見通しが後退しても底堅い　サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1551963",
-      "published": "2026-05-28 01:00:09",
-      "isoDate": "2026-05-28T01:00:09Z"
+      "title": "SpaceXとAnthropicのコンピューティング契約、当初は180日間のリースとマスク氏が説明",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552093",
+      "published": "2026-05-28 06:56:51",
+      "isoDate": "2026-05-28T06:56:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ政権、ホルムズ海峡通行料徴収を目的としたイラン機関に制裁",
+      "link": "https://jp.investing.com/news/economy-news/article-1552055",
+      "published": "2026-05-28 05:46:52",
+      "isoDate": "2026-05-28T05:46:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンクＧ---続落、アームの株価下落を嫌気して利食い売りが継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552033",
+      "published": "2026-05-28 04:45:14",
+      "isoDate": "2026-05-28T04:45:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1551294",
       "published": "2026-05-27 14:05:16",
       "isoDate": "2026-05-27T14:05:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとSemtechが寄り前に急騰、ジースケイラーは急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550899",
-      "published": "2026-05-27 11:48:29",
-      "isoDate": "2026-05-27T11:48:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マスク氏、テスラとSpaceXの合併を検討か――報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1550177",
-      "published": "2026-05-26 21:32:21",
-      "isoDate": "2026-05-26T21:32:21Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コインチェックとKomlock lab、AIエージェント自律取引の実現へ共同研究",
+      "link": "https://coinpost.jp/?p=712090",
+      "published": "Thu, 28 May 2026 16:27:36 +0900",
+      "isoDate": "2026-05-28T07:27:36Z"
+    },
     {
       "source": "CoinPost",
       "title": "米証券大手DTCC、RWAトークン化でステラ採用を計画　マルチチェーン戦略を推進",
@@ -236,13 +243,6 @@
       "link": "https://coinpost.jp/?p=711579",
       "published": "Wed, 27 May 2026 15:52:41 +0900",
       "isoDate": "2026-05-27T06:52:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AIエージェントのマイクロ決済が急拡大、1年で1.7億件超処理　9割以上がUSDC利用＝Keyrockレポート",
-      "link": "https://coinpost.jp/?p=711536",
-      "published": "Wed, 27 May 2026 13:50:35 +0900",
-      "isoDate": "2026-05-27T04:50:35Z"
     }
   ]
 }
