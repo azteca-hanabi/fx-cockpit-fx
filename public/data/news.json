@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T17:51:30Z",
-  "last_checked": "2026-05-29T17:51:30Z",
+  "updated": "2026-05-29T20:32:07Z",
+  "last_checked": "2026-05-29T20:32:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Palantirの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554503",
+      "published": "2026-05-29 18:06:42",
+      "isoDate": "2026-05-29T18:06:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
       "published": "2026-05-29 15:19:36",
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イラン停戦延長期待とカナダGDPデータを受け、TSXが小幅上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554208",
-      "published": "2026-05-29 12:54:14",
-      "isoDate": "2026-05-29T12:54:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SoFiが13%急騰：ステーブルコイン、ショートスクイーズ、そして個人投資家の復活",
       "link": "https://jp.investing.com/news/stock-market-news/article-1554207",
       "published": "2026-05-29 12:53:11",
@@ -139,13 +139,20 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株が急騰、AI主導の上昇とイラン和平期待で東京CPIも注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553684",
-      "published": "2026-05-29 05:07:26",
-      "isoDate": "2026-05-29T05:07:26Z"
+      "title": "ソフトバンクＧ---大幅反発、英アームが10％超の株価上昇で買い優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1553598",
+      "published": "2026-05-29 01:30:14",
+      "isoDate": "2026-05-29T01:30:14Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン発行企業PaxosがSEC清算機関に登録、仮想通貨関連企業として米国初",
+      "link": "https://coinpost.jp/?p=712691",
+      "published": "Sat, 30 May 2026 05:00:16 +0900",
+      "isoDate": "2026-05-29T20:00:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場シークアンス、77億円相当の保有ビットコインを売却へ　財務戦略を終了",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=712237",
       "published": "Fri, 29 May 2026 06:10:40 +0900",
       "isoDate": "2026-05-28T21:10:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スタンダードチャータード銀、イーサリアムをドットコムバブル崩壊時のアマゾン株と比較",
-      "link": "https://coinpost.jp/?p=712225",
-      "published": "Fri, 29 May 2026 05:00:25 +0900",
-      "isoDate": "2026-05-28T20:00:25Z"
     }
   ]
 }
