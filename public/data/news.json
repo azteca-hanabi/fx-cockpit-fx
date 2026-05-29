@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T20:32:07Z",
-  "last_checked": "2026-05-29T20:32:07Z",
+  "updated": "2026-05-29T22:39:07Z",
+  "last_checked": "2026-05-29T22:39:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは363.49 ドル高、イランとの交渉進展期待が継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554626",
+      "published": "2026-05-29 21:45:06",
+      "isoDate": "2026-05-29T21:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Palantirの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554503",
       "published": "2026-05-29 18:06:42",
       "isoDate": "2026-05-29T18:06:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト株が本日急騰した理由とは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554502",
+      "published": "2026-05-29 18:06:22",
+      "isoDate": "2026-05-29T18:06:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1554294",
       "published": "2026-05-29 13:40:50",
       "isoDate": "2026-05-29T13:40:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブルーオリジンのロケット爆発を受け、AST SpaceMobile株が急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554266",
-      "published": "2026-05-29 13:27:24",
-      "isoDate": "2026-05-29T13:27:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1554110",
       "published": "2026-05-29 10:12:41",
       "isoDate": "2026-05-29T10:12:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトバンクＧ---大幅反発、英アームが10％超の株価上昇で買い優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553598",
-      "published": "2026-05-29 01:30:14",
-      "isoDate": "2026-05-29T01:30:14Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に",
+      "link": "https://coinpost.jp/?p=712700",
+      "published": "Sat, 30 May 2026 07:30:08 +0900",
+      "isoDate": "2026-05-29T22:30:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "ステーブルコイン発行企業PaxosがSEC清算機関に登録、仮想通貨関連企業として米国初",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=712254",
       "published": "Fri, 29 May 2026 07:55:07 +0900",
       "isoDate": "2026-05-28T22:55:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "『CMEギャップ』が構造的に消滅へ、米CMEが仮想通貨先物を24時間365日取引に移行",
-      "link": "https://coinpost.jp/?p=712237",
-      "published": "Fri, 29 May 2026 06:10:40 +0900",
-      "isoDate": "2026-05-28T21:10:40Z"
     }
   ]
 }
