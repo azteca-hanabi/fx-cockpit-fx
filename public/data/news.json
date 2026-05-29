@@ -1,7 +1,21 @@
 {
-  "updated": "2026-05-29T01:33:07Z",
-  "last_checked": "2026-05-29T01:33:07Z",
+  "updated": "2026-05-29T06:19:16Z",
+  "last_checked": "2026-05-29T06:19:16Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は横ばい、イラン停戦協議と米インフレ圧力を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-1553649",
+      "published": "2026-05-29 03:38:38",
+      "isoDate": "2026-05-29T03:38:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン和平交渉の進展で原油価格が週間ベースで大幅下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1553608",
+      "published": "2026-05-29 02:05:50",
+      "isoDate": "2026-05-29T02:05:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ARAの石油在庫、2014年11月以来の最低水準に低下",
@@ -57,78 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1551488",
       "published": "2026-05-27 17:06:49",
       "isoDate": "2026-05-27T17:06:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "供給増加で欧州天然ガス価格が下落、イラン協議の不透明感を相殺",
-      "link": "https://jp.investing.com/news/commodities-news/article-1551057",
-      "published": "2026-05-27 12:44:23",
-      "isoDate": "2026-05-27T12:44:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が小幅上昇、米国とイランの和平交渉に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1550320",
-      "published": "2026-05-27 01:15:19",
-      "isoDate": "2026-05-27T01:15:19Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国・イラン停戦延長合意報道を受け、ウォール街先物は安定推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553541",
-      "published": "2026-05-29 00:08:33",
-      "isoDate": "2026-05-29T00:08:33Z"
+      "title": "アジア株が急騰、AI主導の上昇とイラン和平期待で東京CPIも注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1553684",
+      "published": "2026-05-29 05:07:26",
+      "isoDate": "2026-05-29T05:07:26Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～半導体やAI関連株の動向をにらみながらの相場展開～",
-      "link": "https://jp.investing.com/news/forex-news/article-1553534",
-      "published": "2026-05-29 00:00:07",
-      "isoDate": "2026-05-29T00:00:07Z"
+      "title": "東京為替：ドル・円はじり高、ドルに買戻し",
+      "link": "https://jp.investing.com/news/forex-news/article-1553666",
+      "published": "2026-05-29 04:30:19",
+      "isoDate": "2026-05-29T04:30:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体やAI関連株の動向をにらみながらの相場展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553527",
-      "published": "2026-05-28 23:45:07",
-      "isoDate": "2026-05-28T23:45:07Z"
+      "title": "米国株見通し：伸び悩みか、中東紛争の終結を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1553651",
+      "published": "2026-05-29 03:45:17",
+      "isoDate": "2026-05-29T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "セールスフォース（CRM）、1株当たり0.44ドルの四半期配当を発表；利回り1%",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1553519",
-      "published": "2026-05-28 23:31:07",
-      "isoDate": "2026-05-28T23:31:07Z"
+      "title": "後場に注目すべき3つのポイント～米国とイランの停戦延長合意を背景に買い優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1553644",
+      "published": "2026-05-29 03:30:17",
+      "isoDate": "2026-05-29T03:30:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は続伸、ハイテク株が急伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553508",
-      "published": "2026-05-28 23:15:07",
-      "isoDate": "2026-05-28T23:15:07Z"
+      "title": "米国・イラン和平交渉の進展で原油価格が週間ベースで大幅下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1553608",
+      "published": "2026-05-29 02:05:50",
+      "isoDate": "2026-05-29T02:05:50Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンクＧ---+1σ水準までの調整で過熱感は和らぐ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1553506",
-      "published": "2026-05-28 23:15:06",
-      "isoDate": "2026-05-28T23:15:06Z"
+      "title": "ソフトバンクＧ---大幅反発、英アームが10％超の株価上昇で買い優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1553598",
+      "published": "2026-05-29 01:30:14",
+      "isoDate": "2026-05-29T01:30:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platforms、1株当たり0.525ドルの四半期配当を発表――利回りは0.3%",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1553451",
-      "published": "2026-05-28 22:12:11",
-      "isoDate": "2026-05-28T22:12:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "28日の米国市場ダイジェスト：米国株式市場は続伸、ハイテク株が急伸",
-      "link": "https://jp.investing.com/news/forex-news/article-1553445",
-      "published": "2026-05-28 22:00:04",
-      "isoDate": "2026-05-28T22:00:04Z"
+      "title": "キオクシア---続伸、NAND好況の継続見込み欧州系証券が新規に買い推奨",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1553599",
+      "published": "2026-05-29 01:30:14",
+      "isoDate": "2026-05-29T01:30:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,9 +136,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1552241",
       "published": "2026-05-28 09:39:32",
       "isoDate": "2026-05-28T09:39:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXとAnthropicのコンピューティング契約、当初は180日間のリースとマスク氏が説明",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1552093",
+      "published": "2026-05-28 06:56:51",
+      "isoDate": "2026-05-28T06:56:51Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場シークアンス、77億円相当の保有ビットコインを売却へ　財務戦略を終了",
+      "link": "https://coinpost.jp/?p=712287",
+      "published": "Fri, 29 May 2026 11:30:31 +0900",
+      "isoDate": "2026-05-29T02:30:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "カルシがミネソタ州を提訴、予測市場禁止法の差し止めを連邦地裁に申請",
+      "link": "https://coinpost.jp/?p=712262",
+      "published": "Fri, 29 May 2026 10:50:32 +0900",
+      "isoDate": "2026-05-29T01:50:32Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン急落、イラン情勢とブラックロック売却報道で清算拡大｜仮想NISHI",
@@ -187,34 +201,6 @@
       "link": "https://coinpost.jp/?p=712090",
       "published": "Thu, 28 May 2026 16:27:36 +0900",
       "isoDate": "2026-05-28T07:27:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米証券大手DTCC、RWAトークン化でステラ採用を計画　マルチチェーン戦略を推進",
-      "link": "https://coinpost.jp/?p=711936",
-      "published": "Thu, 28 May 2026 13:20:00 +0900",
-      "isoDate": "2026-05-28T04:20:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、『恒久的な仮想通貨市場構造』法制化を宣言　ゲンスラー時代の規制路線を改めて批判",
-      "link": "https://coinpost.jp/?p=711796",
-      "published": "Thu, 28 May 2026 11:45:38 +0900",
-      "isoDate": "2026-05-28T02:45:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン市場は「確信なき停滞相場」＝グラスノード分析",
-      "link": "https://coinpost.jp/?p=711855",
-      "published": "Thu, 28 May 2026 10:45:14 +0900",
-      "isoDate": "2026-05-28T01:45:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースX・テスラ合併ならビットコイン保有数3万BTC超に、上場企業5位規模の試算",
-      "link": "https://coinpost.jp/?p=711797",
-      "published": "Thu, 28 May 2026 09:50:40 +0900",
-      "isoDate": "2026-05-28T00:50:40Z"
     }
   ]
 }
