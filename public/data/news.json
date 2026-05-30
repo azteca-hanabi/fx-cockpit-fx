@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T00:12:23Z",
-  "last_checked": "2026-05-30T00:12:23Z",
+  "updated": "2026-05-30T04:35:00Z",
+  "last_checked": "2026-05-30T04:35:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "29日のNY市場は続伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554671",
-      "published": "2026-05-29 23:15:07",
-      "isoDate": "2026-05-29T23:15:07Z"
+      "title": "29日の米国市場ダイジェスト：米国株式市場は続伸、イランとの交渉進展期待が継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1554721",
+      "published": "2026-05-30 02:15:06",
+      "isoDate": "2026-05-30T02:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Meta、TikTok、スナップ、YouTubeが学校訴訟で2700万ドルの和解に合意",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554720",
+      "published": "2026-05-30 02:01:44",
+      "isoDate": "2026-05-30T02:01:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1554668",
       "published": "2026-05-29 23:00:07",
       "isoDate": "2026-05-29T23:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは363.49 ドル高、イランとの交渉進展期待が継続",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554626",
-      "published": "2026-05-29 21:45:06",
-      "isoDate": "2026-05-29T21:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア取締役のジョン・ダビリ氏、同社株を133,750ドル相当売却",
-      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1554603",
-      "published": "2026-05-29 20:57:43",
-      "isoDate": "2026-05-29T20:57:43Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +108,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554502",
       "published": "2026-05-29 18:06:22",
       "isoDate": "2026-05-29T18:06:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
+      "published": "2026-05-29 15:19:36",
+      "isoDate": "2026-05-29T15:19:36Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "スイ、ユーザー取引を一時停止　三日連続で断続的なネットワーク障害",
+      "link": "https://coinpost.jp/?p=712740",
+      "published": "Sat, 30 May 2026 13:25:58 +0900",
+      "isoDate": "2026-05-30T04:25:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、48億円相当のビットコインをコインベースへ送金　目的は不明",
+      "link": "https://coinpost.jp/?p=712723",
+      "published": "Sat, 30 May 2026 10:25:57 +0900",
+      "isoDate": "2026-05-30T01:25:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額",
+      "link": "https://coinpost.jp/?p=712701",
+      "published": "Sat, 30 May 2026 10:10:10 +0900",
+      "isoDate": "2026-05-30T01:10:10Z"
+    },
     {
       "source": "CoinPost",
       "title": "米CFTC、予測市場のビットコイン無期限先物を承認　コインベースもDeribit経由提供へ",
@@ -194,20 +215,6 @@
       "link": "https://coinpost.jp/?p=712202",
       "published": "Fri, 29 May 2026 10:15:33 +0900",
       "isoDate": "2026-05-29T01:15:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有が高水準も「新規買い手不足」を示唆＝クリプトクアント分析",
-      "link": "https://coinpost.jp/?p=712274",
-      "published": "Fri, 29 May 2026 09:40:34 +0900",
-      "isoDate": "2026-05-29T00:40:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "サムスン系列会社3社、仮想通貨取引所アップビット運営企業の株式を計4%取得へ＝報道",
-      "link": "https://coinpost.jp/?p=712254",
-      "published": "Fri, 29 May 2026 07:55:07 +0900",
-      "isoDate": "2026-05-28T22:55:07Z"
     }
   ]
 }
