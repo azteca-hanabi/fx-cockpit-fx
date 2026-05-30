@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T07:42:49Z",
-  "last_checked": "2026-05-30T07:42:49Z",
+  "updated": "2026-05-30T10:04:25Z",
+  "last_checked": "2026-05-30T10:04:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ウクライナのドローンがロシアの港湾、タンカー、石油貯蔵施設を攻撃",
+      "link": "https://jp.investing.com/news/economy-news/article-1554750",
+      "published": "2026-05-30 08:03:39",
+      "isoDate": "2026-05-30T08:03:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "テスラ、中国でFSD機能をめぐる消費者訴訟に直面",
       "link": "https://jp.investing.com/news/company-news/article-1554747",
       "published": "2026-05-30 07:11:51",
@@ -104,20 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "29日の米国市場ダイジェスト：米国株式市場は続伸、イランとの交渉進展期待が継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1554721",
-      "published": "2026-05-30 02:15:06",
-      "isoDate": "2026-05-30T02:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Meta、TikTok、スナップ、YouTubeが学校訴訟で2700万ドルの和解に合意",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554720",
-      "published": "2026-05-30 02:01:44",
-      "isoDate": "2026-05-30T02:01:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Palantirの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554503",
       "published": "2026-05-29 18:06:42",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554502",
       "published": "2026-05-29 18:06:22",
       "isoDate": "2026-05-29T18:06:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
+      "published": "2026-05-29 15:19:36",
+      "isoDate": "2026-05-29T15:19:36Z"
     },
     {
       "source": "Investing.com 外為",
