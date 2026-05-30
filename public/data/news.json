@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T22:39:07Z",
-  "last_checked": "2026-05-29T22:39:07Z",
+  "updated": "2026-05-30T00:12:23Z",
+  "last_checked": "2026-05-30T00:12:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "29日のNY市場は続伸",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554671",
+      "published": "2026-05-29 23:15:07",
+      "isoDate": "2026-05-29T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は続伸、イランとの交渉進展期待が継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554668",
+      "published": "2026-05-29 23:00:07",
+      "isoDate": "2026-05-29T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは363.49 ドル高、イランとの交渉進展期待が継続",
       "link": "https://jp.investing.com/news/stock-market-news/article-1554626",
       "published": "2026-05-29 21:45:06",
       "isoDate": "2026-05-29T21:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア取締役のジョン・ダビリ氏、同社株を133,750ドル相当売却",
+      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1554603",
+      "published": "2026-05-29 20:57:43",
+      "isoDate": "2026-05-29T20:57:43Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
-      "published": "2026-05-29 15:19:36",
-      "isoDate": "2026-05-29T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトウェア株が幅広いセクター楽観論を背景に急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554320",
-      "published": "2026-05-29 13:59:15",
-      "isoDate": "2026-05-29T13:59:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaのAIビジョン1兆ドルが株価上昇を再点火できるか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1554294",
       "published": "2026-05-29 13:40:50",
       "isoDate": "2026-05-29T13:40:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金の最近の下落は買い場となるか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1554231",
-      "published": "2026-05-29 13:07:10",
-      "isoDate": "2026-05-29T13:07:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米CFTC、予測市場のビットコイン無期限先物を承認　コインベースもDeribit経由提供へ",
+      "link": "https://coinpost.jp/?p=712704",
+      "published": "Sat, 30 May 2026 08:30:17 +0900",
+      "isoDate": "2026-05-29T23:30:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースL2のBase、Azulアップグレードをメインネットで実施　処理速度や安全性が向上",
+      "link": "https://coinpost.jp/?p=712711",
+      "published": "Sat, 30 May 2026 08:00:06 +0900",
+      "isoDate": "2026-05-29T23:00:06Z"
+    },
     {
       "source": "CoinPost",
       "title": "米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に",
