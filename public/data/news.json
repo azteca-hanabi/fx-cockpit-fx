@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T13:49:39Z",
-  "last_checked": "2026-05-30T13:49:39Z",
+  "updated": "2026-05-30T15:13:09Z",
+  "last_checked": "2026-05-30T15:13:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -118,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は続伸、イランとの交渉進展期待が継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554668",
+      "published": "2026-05-29 23:00:07",
+      "isoDate": "2026-05-29T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Palantirの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554503",
       "published": "2026-05-29 18:06:42",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
       "published": "2026-05-29 15:19:36",
       "isoDate": "2026-05-29T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのAIビジョン1兆ドルが株価上昇を再点火できるか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554294",
-      "published": "2026-05-29 13:40:50",
-      "isoDate": "2026-05-29T13:40:50Z"
     }
   ],
   "btc_items": [
