@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T20:14:50Z",
-  "last_checked": "2026-05-31T20:14:50Z",
+  "updated": "2026-05-31T21:33:15Z",
+  "last_checked": "2026-05-31T21:33:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -55,6 +55,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "GLP-1薬はがん治療における次の大きな機会となるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555138",
+      "published": "2026-05-31 20:32:41",
+      "isoDate": "2026-05-31T20:32:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaとアドバンストマイクロデバイセズAMD、中国子会社への輸出規制強化に直面",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555135",
+      "published": "2026-05-31 20:19:21",
+      "isoDate": "2026-05-31T20:19:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ウォラーFRB理事、ステーブルコインは米金融政策の影響範囲を拡大すると発言",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555121",
       "published": "2026-05-31 14:25:03",
@@ -83,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコインが7万3000ドル台を維持、CMEが暗号資産先物の24時間取引を開始",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555082",
-      "published": "2026-05-31 08:43:35",
-      "isoDate": "2026-05-31T08:43:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "エージェント型AIはインターネットの次なる入口となるか？",
       "link": "https://jp.investing.com/news/technology-news/article-1555069",
       "published": "2026-05-31 04:35:57",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1555039",
       "published": "2026-05-30 20:52:03",
       "isoDate": "2026-05-30T20:52:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトバンク、フランスのAIデータセンターに最大750億ユーロを投資へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555037",
-      "published": "2026-05-30 20:42:47",
-      "isoDate": "2026-05-30T20:42:47Z"
     },
     {
       "source": "Investing.com 外為",
