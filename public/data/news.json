@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T18:45:37Z",
-  "last_checked": "2026-05-31T18:45:37Z",
+  "updated": "2026-05-31T20:14:50Z",
+  "last_checked": "2026-05-31T20:14:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -55,13 +55,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "オーストラリア人の快適な老後に必要な貯蓄目標額、生活費高騰で上昇",
-      "link": "https://jp.investing.com/news/economy-news/article-93CH-1555122",
-      "published": "2026-05-31 14:33:50",
-      "isoDate": "2026-05-31T14:33:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ウォラーFRB理事、ステーブルコインは米金融政策の影響範囲を拡大すると発言",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555121",
       "published": "2026-05-31 14:25:03",
@@ -87,6 +80,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555097",
       "published": "2026-05-31 11:45:09",
       "isoDate": "2026-05-31T11:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが7万3000ドル台を維持、CMEが暗号資産先物の24時間取引を開始",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555082",
+      "published": "2026-05-31 08:43:35",
+      "isoDate": "2026-05-31T08:43:35Z"
     },
     {
       "source": "Investing.com 外為",
