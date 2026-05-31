@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T21:33:15Z",
-  "last_checked": "2026-05-31T21:33:15Z",
+  "updated": "2026-05-31T23:04:53Z",
+  "last_checked": "2026-05-31T23:04:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -53,6 +53,13 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：政府・日本銀行は4月28日から5月27日の間に11兆7349億円の為替介入を実施",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555144",
+      "published": "2026-05-31 22:45:04",
+      "isoDate": "2026-05-31T22:45:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "GLP-1薬はがん治療における次の大きな機会となるか？",
@@ -111,89 +118,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランとウクライナの停戦は市場安定に十分か",
-      "link": "https://jp.investing.com/news/economy-news/article-1555039",
-      "published": "2026-05-30 20:52:03",
-      "isoDate": "2026-05-30T20:52:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaがWindows PC市場に参入、来週発表へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1555021",
       "published": "2026-05-30 13:25:57",
       "isoDate": "2026-05-30T13:25:57Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン停戦延長報道で下げ渋り、米株動向と中東情勢が焦点に｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=712497",
-      "published": "Sun, 31 May 2026 11:30:30 +0900",
-      "isoDate": "2026-05-31T02:30:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（5/29）｜クラリティー法審議・スペースX・テスラ合併憶測・HYPE上昇の最新動向まとめ",
-      "link": "https://coinpost.jp/?p=712320",
-      "published": "Sun, 31 May 2026 09:25:47 +0900",
-      "isoDate": "2026-05-31T00:25:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ルミス米議員「今国会を逃せば次は2030年」、クラリティー法案成立促す",
-      "link": "https://coinpost.jp/?p=712750",
-      "published": "Sat, 30 May 2026 13:45:20 +0900",
-      "isoDate": "2026-05-30T04:45:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スイ、ユーザー取引を一時停止　三日連続で断続的なネットワーク障害",
-      "link": "https://coinpost.jp/?p=712740",
-      "published": "Sat, 30 May 2026 13:25:58 +0900",
-      "isoDate": "2026-05-30T04:25:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、48億円相当のビットコインをコインベースへ送金　目的は不明",
-      "link": "https://coinpost.jp/?p=712723",
-      "published": "Sat, 30 May 2026 10:25:57 +0900",
-      "isoDate": "2026-05-30T01:25:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額",
-      "link": "https://coinpost.jp/?p=712701",
-      "published": "Sat, 30 May 2026 10:10:10 +0900",
-      "isoDate": "2026-05-30T01:10:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "CFTCがビットコイン無期限先物を解禁、米国機関投資家のオフショア依存に終止符",
-      "link": "https://coinpost.jp/?p=712704",
-      "published": "Sat, 30 May 2026 08:30:17 +0900",
-      "isoDate": "2026-05-29T23:30:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースL2のBase、Azulアップグレードをメインネットで実施　処理速度や安全性が向上",
-      "link": "https://coinpost.jp/?p=712711",
-      "published": "Sat, 30 May 2026 08:00:06 +0900",
-      "isoDate": "2026-05-29T23:00:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に",
-      "link": "https://coinpost.jp/?p=712700",
-      "published": "Sat, 30 May 2026 07:30:08 +0900",
-      "isoDate": "2026-05-29T22:30:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ステーブルコイン発行企業PaxosがSEC清算機関に登録、仮想通貨関連企業として米国初",
-      "link": "https://coinpost.jp/?p=712691",
-      "published": "Sat, 30 May 2026 05:00:16 +0900",
-      "isoDate": "2026-05-29T20:00:16Z"
-    }
-  ]
+  "btc_items": []
 }
