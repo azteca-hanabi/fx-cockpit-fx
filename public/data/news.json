@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-31T10:32:28Z",
-  "last_checked": "2026-05-31T10:32:28Z",
+  "updated": "2026-05-31T12:14:02Z",
+  "last_checked": "2026-05-31T12:14:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争の影響で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555089",
+      "published": "2026-05-31 10:32:27",
+      "isoDate": "2026-05-31T10:32:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "JPモルガン、供給削減を背景に2026年までの亜鉛価格上昇を予測",
@@ -64,16 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1552529",
       "published": "2026-05-28 12:25:31",
       "isoDate": "2026-05-28T12:25:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金はFRBの引き締め懸念が後退する中で反発できるか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1552296",
-      "published": "2026-05-28 10:32:39",
-      "isoDate": "2026-05-28T10:32:39Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "長期米国債利回りの上昇は株式市場の上昇を脅かすか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555097",
+      "published": "2026-05-31 11:45:09",
+      "isoDate": "2026-05-31T11:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争の影響で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555089",
+      "published": "2026-05-31 10:32:27",
+      "isoDate": "2026-05-31T10:32:27Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "今週のストリート・コール：主要アナリスト格上げまとめ",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555082",
       "published": "2026-05-31 08:43:35",
       "isoDate": "2026-05-31T08:43:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ワシントン州化学工場事故の死者数が11人に、捜索・回収活動が終了",
-      "link": "https://jp.investing.com/news/economy-news/article-1555070",
-      "published": "2026-05-31 05:09:24",
-      "isoDate": "2026-05-31T05:09:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
       "published": "2026-05-29 15:19:36",
       "isoDate": "2026-05-29T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SoFiが13%急騰：ステーブルコイン、ショートスクイーズ、そして個人投資家の復活",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1554207",
-      "published": "2026-05-29 12:53:11",
-      "isoDate": "2026-05-29T12:53:11Z"
     }
   ],
   "btc_items": [
