@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T08:27:02Z",
-  "last_checked": "2026-05-31T08:27:02Z",
+  "updated": "2026-05-31T10:32:28Z",
+  "last_checked": "2026-05-31T10:32:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今週のストリート・コール：主要アナリスト格上げまとめ",
+      "link": "https://jp.investing.com/news/general-news/article-1555084",
+      "published": "2026-05-31 09:20:01",
+      "isoDate": "2026-05-31T09:20:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが7万3000ドル台を維持、CMEが暗号資産先物の24時間取引を開始",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555082",
+      "published": "2026-05-31 08:43:35",
+      "isoDate": "2026-05-31T08:43:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ワシントン州化学工場事故の死者数が11人に、捜索・回収活動が終了",
       "link": "https://jp.investing.com/news/economy-news/article-1555070",
       "published": "2026-05-31 05:09:24",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555021",
       "published": "2026-05-30 13:25:57",
       "isoDate": "2026-05-30T13:25:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラ、中国でFSD機能をめぐる消費者訴訟に直面",
-      "link": "https://jp.investing.com/news/company-news/article-1554747",
-      "published": "2026-05-30 07:11:51",
-      "isoDate": "2026-05-30T07:11:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Palantirの株価が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554503",
-      "published": "2026-05-29 18:06:42",
-      "isoDate": "2026-05-29T18:06:42Z"
     },
     {
       "source": "Investing.com 外為",
