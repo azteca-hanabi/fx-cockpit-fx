@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T05:04:46Z",
-  "last_checked": "2026-05-31T05:04:46Z",
+  "updated": "2026-05-31T08:27:02Z",
+  "last_checked": "2026-05-31T08:27:02Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ワシントン州化学工場事故の死者数が11人に、捜索・回収活動が終了",
+      "link": "https://jp.investing.com/news/economy-news/article-1555070",
+      "published": "2026-05-31 05:09:24",
+      "isoDate": "2026-05-31T05:09:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エージェント型AIはインターネットの次なる入口となるか？",
+      "link": "https://jp.investing.com/news/technology-news/article-1555069",
+      "published": "2026-05-31 04:35:57",
+      "isoDate": "2026-05-31T04:35:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ドル円に長期もみ合い観測【フィスコ・コラム】",
       "link": "https://jp.investing.com/news/forex-news/article-1555053",
       "published": "2026-05-31 00:15:03",
@@ -104,24 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウクライナのドローンがロシアの港湾、タンカー、石油貯蔵施設を攻撃",
-      "link": "https://jp.investing.com/news/economy-news/article-1554750",
-      "published": "2026-05-30 08:03:39",
-      "isoDate": "2026-05-30T08:03:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "テスラ、中国でFSD機能をめぐる消費者訴訟に直面",
       "link": "https://jp.investing.com/news/company-news/article-1554747",
       "published": "2026-05-30 07:11:51",
       "isoDate": "2026-05-30T07:11:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：中東情勢改善期待は継続、物色の広がりも見られ始める",
-      "link": "https://jp.investing.com/news/forex-news/article-1554734",
-      "published": "2026-05-30 06:00:03",
-      "isoDate": "2026-05-30T06:00:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,17 +132,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロソフト株が本日急騰した理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1554502",
-      "published": "2026-05-29 18:06:22",
-      "isoDate": "2026-05-29T18:06:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
       "published": "2026-05-29 15:19:36",
       "isoDate": "2026-05-29T15:19:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SoFiが13%急騰：ステーブルコイン、ショートスクイーズ、そして個人投資家の復活",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1554207",
+      "published": "2026-05-29 12:53:11",
+      "isoDate": "2026-05-29T12:53:11Z"
     }
   ],
   "btc_items": [
