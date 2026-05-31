@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T12:14:02Z",
-  "last_checked": "2026-05-31T12:14:02Z",
+  "updated": "2026-05-31T14:18:31Z",
+  "last_checked": "2026-05-31T14:18:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -57,23 +57,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1552967",
       "published": "2026-05-28 14:59:05",
       "isoDate": "2026-05-28T14:59:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの衝突激化で欧州天然ガス価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1552636",
-      "published": "2026-05-28 13:06:44",
-      "isoDate": "2026-05-28T13:06:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バーンスタイン、長期原油価格は1バレル75ドルと予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1552529",
-      "published": "2026-05-28 12:25:31",
-      "isoDate": "2026-05-28T12:25:31Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ジョンソン・エンド・ジョンソンの前立腺がん治療薬、術前試験で良好な結果",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1555113",
+      "published": "2026-05-31 12:29:07",
+      "isoDate": "2026-05-31T12:29:07Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "長期米国債利回りの上昇は株式市場の上昇を脅かすか",
@@ -87,13 +80,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555089",
       "published": "2026-05-31 10:32:27",
       "isoDate": "2026-05-31T10:32:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週のストリート・コール：主要アナリスト格上げまとめ",
-      "link": "https://jp.investing.com/news/general-news/article-1555084",
-      "published": "2026-05-31 09:20:01",
-      "isoDate": "2026-05-31T09:20:01Z"
     },
     {
       "source": "Investing.com 外為",
