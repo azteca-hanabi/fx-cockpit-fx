@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T14:18:31Z",
-  "last_checked": "2026-05-31T14:18:31Z",
+  "updated": "2026-05-31T15:50:13Z",
+  "last_checked": "2026-05-31T15:50:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -50,16 +50,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1553608",
       "published": "2026-05-29 02:05:50",
       "isoDate": "2026-05-29T02:05:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ARAの石油在庫、2014年11月以来の最低水準に低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1552967",
-      "published": "2026-05-28 14:59:05",
-      "isoDate": "2026-05-28T14:59:05Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "オーストラリア人の快適な老後に必要な貯蓄目標額、生活費高騰で上昇",
+      "link": "https://jp.investing.com/news/economy-news/article-93CH-1555122",
+      "published": "2026-05-31 14:33:50",
+      "isoDate": "2026-05-31T14:33:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォラーFRB理事、ステーブルコインは米金融政策の影響範囲を拡大すると発言",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555121",
+      "published": "2026-05-31 14:25:03",
+      "isoDate": "2026-05-31T14:25:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "MetaはAI能力を1兆ドル市場の機会に変えられるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555118",
+      "published": "2026-05-31 14:12:15",
+      "isoDate": "2026-05-31T14:12:15Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ジョンソン・エンド・ジョンソンの前立腺がん治療薬、術前試験で良好な結果",
@@ -73,20 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555097",
       "published": "2026-05-31 11:45:09",
       "isoDate": "2026-05-31T11:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争の影響で",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555089",
-      "published": "2026-05-31 10:32:27",
-      "isoDate": "2026-05-31T10:32:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインが7万3000ドル台を維持、CMEが暗号資産先物の24時間取引を開始",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1555082",
-      "published": "2026-05-31 08:43:35",
-      "isoDate": "2026-05-31T08:43:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555021",
       "published": "2026-05-30 13:25:57",
       "isoDate": "2026-05-30T13:25:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サスケハナ、供給逼迫見通しでマイクロンテクノロジーの目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1554427",
-      "published": "2026-05-29 15:19:36",
-      "isoDate": "2026-05-29T15:19:36Z"
     }
   ],
   "btc_items": [
