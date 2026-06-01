@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-01T07:04:24Z",
-  "last_checked": "2026-06-01T07:04:24Z",
+  "updated": "2026-06-01T13:13:20Z",
+  "last_checked": "2026-06-01T13:13:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "イランの停戦交渉が停滞、金価格は横ばい——インフレリスクにも注目",
+      "title": "Saudi AramcoがLPG価格を引き上げ、アルジェリアのSonatrachは値下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555591",
+      "published": "2026-06-01 10:42:37",
+      "isoDate": "2026-06-01T10:42:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イランの新たな軍事衝突でインフレ懸念強まり、金価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1555183",
       "published": "2026-06-01 01:40:17",
       "isoDate": "2026-06-01T01:40:17Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イスラエル・レバノン紛争激化を受け、原油価格が上昇",
+      "title": "米国がイランの軍事施設を攻撃、原油価格が3%上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1555158",
       "published": "2026-06-01 00:06:18",
       "isoDate": "2026-06-01T00:06:18Z"
@@ -36,43 +43,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1554257",
       "published": "2026-05-29 13:20:49",
       "isoDate": "2026-05-29T13:20:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの停戦延長期待と供給懸念で欧州天然ガス価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1554242",
-      "published": "2026-05-29 13:09:19",
-      "isoDate": "2026-05-29T13:09:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金の最近の下落は買い場となるか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1554231",
-      "published": "2026-05-29 13:07:10",
-      "isoDate": "2026-05-29T13:07:10Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンク、AI好況で最高値更新——トヨタを抜き日本最大の企業へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555270",
-      "published": "2026-06-01 05:50:38",
-      "isoDate": "2026-06-01T05:50:38Z"
+      "title": "CoreWeaveがエヌビディアのVera Rubin NVL72システムを世界初導入",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1555877",
+      "published": "2026-06-01 12:02:13",
+      "isoDate": "2026-06-01T12:02:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は動意薄、クロス円は小高い",
-      "link": "https://jp.investing.com/news/forex-news/article-1555259",
-      "published": "2026-06-01 05:30:13",
-      "isoDate": "2026-06-01T05:30:13Z"
+      "title": "Nvidia上昇、Revolution Medicinesも高騰；Redwire Corp.は下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555882",
+      "published": "2026-06-01 12:00:55",
+      "isoDate": "2026-06-01T12:00:55Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国とイランが新たな攻撃を応酬、トランプ氏「イランは合意を望んでいる」",
-      "link": "https://jp.investing.com/news/economy-news/article-1555257",
-      "published": "2026-06-01 05:18:18",
-      "isoDate": "2026-06-01T05:18:18Z"
+      "title": "ソフトバンク孫氏、AI革命はドットコムブームの50倍規模と主張",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555856",
+      "published": "2026-06-01 11:56:47",
+      "isoDate": "2026-06-01T11:56:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaのファウンダーがAI脅威論を否定、ソフトウェア株が急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555709",
+      "published": "2026-06-01 11:16:47",
+      "isoDate": "2026-06-01T11:16:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaのRTX Spark PCチップが半導体・テクノロジー株を動かす",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555545",
+      "published": "2026-06-01 10:14:50",
+      "isoDate": "2026-06-01T10:14:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国とイランの攻撃再開で原油急騰、英石油大手株が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555495",
+      "published": "2026-06-01 09:38:38",
+      "isoDate": "2026-06-01T09:38:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国・イランが相互攻撃、NvidiaがWindows PC向け新チップを発表",
+      "link": "https://jp.investing.com/news/economy-news/article-1555408",
+      "published": "2026-06-01 08:23:34",
+      "isoDate": "2026-06-01T08:23:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "201%超の上昇を継続中：6月のAI選定銘柄リストが公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555395",
+      "published": "2026-06-01 08:10:36",
+      "isoDate": "2026-06-01T08:10:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが主導する集中化がS&P 500を「株式市場」から「個別株の市場」へと変えつつある",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1555359",
+      "published": "2026-06-01 07:16:30",
+      "isoDate": "2026-06-01T07:16:30Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,51 +115,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555238",
       "published": "2026-06-01 04:51:14",
       "isoDate": "2026-06-01T04:51:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続伸、ソフトバンクGとキオクシアHDの2銘柄で約780円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555216",
-      "published": "2026-06-01 04:00:12",
-      "isoDate": "2026-06-01T04:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い優勢で6万7000円超え",
-      "link": "https://jp.investing.com/news/forex-news/article-1555214",
-      "published": "2026-06-01 03:45:10",
-      "isoDate": "2026-06-01T03:45:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続伸、買い優勢で6万7000円超え",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555210",
-      "published": "2026-06-01 03:30:11",
-      "isoDate": "2026-06-01T03:30:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フジクラ---再び75日線を割り込む",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555207",
-      "published": "2026-06-01 03:15:10",
-      "isoDate": "2026-06-01T03:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国、中国企業への エヌビディア AIチップ販売を中国国外でも阻止へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555156",
-      "published": "2026-05-31 23:59:39",
-      "isoDate": "2026-05-31T23:59:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaとアドバンストマイクロデバイセズAMD、中国子会社への輸出規制強化に直面",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555135",
-      "published": "2026-05-31 20:19:21",
-      "isoDate": "2026-05-31T20:19:21Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "【速報】ストラテジー、32BTCのビットコインを売却　2022年以来初",
+      "link": "https://coinpost.jp/?p=713106",
+      "published": "Mon, 01 Jun 2026 21:50:13 +0900",
+      "isoDate": "2026-06-01T12:50:13Z"
+    },
     {
       "source": "CoinPost",
       "title": "金融庁、仮想通貨仲介業の新制度を6月1日施行　登録で媒介業務が可能に",
@@ -201,13 +201,6 @@
       "link": "https://coinpost.jp/?p=712701",
       "published": "Sat, 30 May 2026 10:10:10 +0900",
       "isoDate": "2026-05-30T01:10:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "CFTCがビットコイン無期限先物を解禁、米国機関投資家のオフショア依存に終止符",
-      "link": "https://coinpost.jp/?p=712704",
-      "published": "Sat, 30 May 2026 08:30:17 +0900",
-      "isoDate": "2026-05-29T23:30:17Z"
     }
   ]
 }
