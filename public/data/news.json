@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-01T19:08:51Z",
-  "last_checked": "2026-06-01T19:08:51Z",
+  "updated": "2026-06-01T22:21:29Z",
+  "last_checked": "2026-06-01T22:21:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "コロンビアの石油生産、4月は前年比1.5%増も月次では減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556795",
+      "published": "2026-06-01 20:48:50",
+      "isoDate": "2026-06-01T20:48:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "CBOT小麦先物、供給過剰と米国需要低迷で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556623",
+      "published": "2026-06-01 19:27:04",
+      "isoDate": "2026-06-01T19:27:04Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロネクスト小麦、作物懸念の緩和で3週間ぶり安値に下落",
@@ -57,29 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556169",
       "published": "2026-06-01 13:08:10",
       "isoDate": "2026-06-01T13:08:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アルミニウム価格が4年ぶり高値、中東の供給リスク拡大で",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556109",
-      "published": "2026-06-01 12:54:25",
-      "isoDate": "2026-06-01T12:54:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Saudi AramcoがLPG価格を引き上げ、アルジェリアのSonatrachは値下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555591",
-      "published": "2026-06-01 10:42:37",
-      "isoDate": "2026-06-01T10:42:37Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランの和平交渉の不透明感でTSXが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1556481",
-      "published": "2026-06-01 16:18:09",
-      "isoDate": "2026-06-01T16:18:09Z"
+      "title": "NY株式：NYダウは46.42ドル高、ハイテクやイラン和平合意期待が支える",
+      "link": "https://jp.investing.com/news/forex-news/article-1556877",
+      "published": "2026-06-01 21:45:05",
+      "isoDate": "2026-06-01T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アルファベット、AI投資向けに800億ドル調達――バフェットのバークシャーも参加",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1556816",
+      "published": "2026-06-01 20:58:57",
+      "isoDate": "2026-06-01T20:58:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アルファベット、AI基盤拡充に向け800億ドルの株式調達を計画",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1556783",
+      "published": "2026-06-01 20:42:10",
+      "isoDate": "2026-06-01T20:42:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコム、AI向けWi-Fi 8および50G広帯域チップを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1556651",
+      "published": "2026-06-01 20:06:09",
+      "isoDate": "2026-06-01T20:06:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +108,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1556343",
       "published": "2026-06-01 14:26:10",
       "isoDate": "2026-06-01T14:26:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Arm株が急騰、NvidiaのComputex発表が強力な触媒に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1556174",
-      "published": "2026-06-01 13:13:00",
-      "isoDate": "2026-06-01T13:13:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ダウ・ナスダック・S&P500週間展望：雇用統計とブロードコム決算に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1556098",
-      "published": "2026-06-01 12:38:04",
-      "isoDate": "2026-06-01T12:38:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国・イランが相互攻撃、NvidiaがWindows PC向け新チップを発表",
-      "link": "https://jp.investing.com/news/economy-news/article-1555408",
-      "published": "2026-06-01 08:23:34",
-      "isoDate": "2026-06-01T08:23:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "201%超の上昇を継続中：6月のAI選定銘柄リストが公開",
       "link": "https://jp.investing.com/news/stock-market-news/article-1555395",
       "published": "2026-06-01 08:10:36",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ETFなど、3週連続で資金が純流出　XRP・HYPEなどの商品は純流入",
+      "link": "https://coinpost.jp/?p=713168",
+      "published": "Tue, 02 Jun 2026 07:02:29 +0900",
+      "isoDate": "2026-06-01T22:02:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスが7000銘柄の米国株取引を開始、トークン化株式「bStocks」も数週間以内に公開へ",
+      "link": "https://coinpost.jp/?p=713157",
+      "published": "Tue, 02 Jun 2026 05:55:40 +0900",
+      "isoDate": "2026-06-01T20:55:40Z"
+    },
     {
       "source": "CoinPost",
       "title": "【速報】ストラテジー、32BTCのビットコインを売却　2022年以来初",
@@ -201,34 +215,6 @@
       "link": "https://coinpost.jp/?p=712320",
       "published": "Sun, 31 May 2026 09:25:47 +0900",
       "isoDate": "2026-05-31T00:25:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ルミス米議員「今国会を逃せば次は2030年」、クラリティー法案成立促す",
-      "link": "https://coinpost.jp/?p=712750",
-      "published": "Sat, 30 May 2026 13:45:20 +0900",
-      "isoDate": "2026-05-30T04:45:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スイ、ユーザー取引を一時停止　三日連続で断続的なネットワーク障害",
-      "link": "https://coinpost.jp/?p=712740",
-      "published": "Sat, 30 May 2026 13:25:58 +0900",
-      "isoDate": "2026-05-30T04:25:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、48億円相当のビットコインをコインベースへ送金　目的は不明",
-      "link": "https://coinpost.jp/?p=712723",
-      "published": "Sat, 30 May 2026 10:25:57 +0900",
-      "isoDate": "2026-05-30T01:25:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FBI、詐欺拠点摘発で1.2兆円相当の仮想通貨を押収　米政府史上最高額",
-      "link": "https://coinpost.jp/?p=712701",
-      "published": "Sat, 30 May 2026 10:10:10 +0900",
-      "isoDate": "2026-05-30T01:10:10Z"
     }
   ]
 }
