@@ -1,51 +1,107 @@
 {
-  "updated": "2026-06-01T13:13:20Z",
-  "last_checked": "2026-06-01T13:13:20Z",
+  "updated": "2026-06-01T19:08:51Z",
+  "last_checked": "2026-06-01T19:08:51Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、作物懸念の緩和で3週間ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556542",
+      "published": "2026-06-01 17:35:48",
+      "isoDate": "2026-06-01T17:35:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシア、輸出禁止の中で航空燃料の輸入を検討",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556530",
+      "published": "2026-06-01 17:21:14",
+      "isoDate": "2026-06-01T17:21:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "エクイノールとトラフィギュラ、原油急騰でマージン低下しガソリンを売却",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556506",
+      "published": "2026-06-01 17:01:40",
+      "isoDate": "2026-06-01T17:01:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ、銅に強気転換――1年以内に1トン1万5000ドルを予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-1556505",
+      "published": "2026-06-01 17:00:09",
+      "isoDate": "2026-06-01T17:00:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "クレムリン、原油高騰で収益増——EU、G7価格上限の見直しを検討",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556419",
+      "published": "2026-06-01 15:20:33",
+      "isoDate": "2026-06-01T15:20:33Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国とイランが新たな軍事攻撃を応酬、欧州天然ガス価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1556218",
+      "published": "2026-06-01 13:27:28",
+      "isoDate": "2026-06-01T13:27:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "オランダ、ガス供給危機に対応しEBNへ最大9億9300万ユーロの補助金を承認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556192",
+      "published": "2026-06-01 13:16:18",
+      "isoDate": "2026-06-01T13:16:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トルコとロシア、ガスプロムの天然ガス供給契約延長を協議",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556169",
+      "published": "2026-06-01 13:08:10",
+      "isoDate": "2026-06-01T13:08:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アルミニウム価格が4年ぶり高値、中東の供給リスク拡大で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556109",
+      "published": "2026-06-01 12:54:25",
+      "isoDate": "2026-06-01T12:54:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Saudi AramcoがLPG価格を引き上げ、アルジェリアのSonatrachは値下げ",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555591",
       "published": "2026-06-01 10:42:37",
       "isoDate": "2026-06-01T10:42:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イランの新たな軍事衝突でインフレ懸念強まり、金価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1555183",
-      "published": "2026-06-01 01:40:17",
-      "isoDate": "2026-06-01T01:40:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国がイランの軍事施設を攻撃、原油価格が3%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1555158",
-      "published": "2026-06-01 00:06:18",
-      "isoDate": "2026-06-01T00:06:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "EUがロシア産石油の価格上限凍結を検討、中東紛争の影響で",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1555089",
-      "published": "2026-05-31 10:32:27",
-      "isoDate": "2026-05-31T10:32:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "JPモルガン、供給削減を背景に2026年までの亜鉛価格上昇を予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1554404",
-      "published": "2026-05-29 15:00:14",
-      "isoDate": "2026-05-29T15:00:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドが国営燃料小売業者にLPG貯蔵能力の拡大を指示",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1554257",
-      "published": "2026-05-29 13:20:49",
-      "isoDate": "2026-05-29T13:20:49Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "イランの和平交渉の不透明感でTSXが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1556481",
+      "published": "2026-06-01 16:18:09",
+      "isoDate": "2026-06-01T16:18:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト、エヌビディアBlackwell GPU搭載の「Surface Laptop Ultra」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1556343",
+      "published": "2026-06-01 14:26:10",
+      "isoDate": "2026-06-01T14:26:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Arm株が急騰、NvidiaのComputex発表が強力な触媒に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1556174",
+      "published": "2026-06-01 13:13:00",
+      "isoDate": "2026-06-01T13:13:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ダウ・ナスダック・S&P500週間展望：雇用統計とブロードコム決算に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1556098",
+      "published": "2026-06-01 12:38:04",
+      "isoDate": "2026-06-01T12:38:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "CoreWeaveがエヌビディアのVera Rubin NVL72システムを世界初導入",
@@ -62,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンク孫氏、AI革命はドットコムブームの50倍規模と主張",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555856",
-      "published": "2026-06-01 11:56:47",
-      "isoDate": "2026-06-01T11:56:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのファウンダーがAI脅威論を否定、ソフトウェア株が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555709",
-      "published": "2026-06-01 11:16:47",
-      "isoDate": "2026-06-01T11:16:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaのRTX Spark PCチップが半導体・テクノロジー株を動かす",
       "link": "https://jp.investing.com/news/stock-market-news/article-1555545",
       "published": "2026-06-01 10:14:50",
       "isoDate": "2026-06-01T10:14:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国とイランの攻撃再開で原油急騰、英石油大手株が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555495",
-      "published": "2026-06-01 09:38:38",
-      "isoDate": "2026-06-01T09:38:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1555395",
       "published": "2026-06-01 08:10:36",
       "isoDate": "2026-06-01T08:10:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが主導する集中化がS&P 500を「株式市場」から「個別株の市場」へと変えつつある",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555359",
-      "published": "2026-06-01 07:16:30",
-      "isoDate": "2026-06-01T07:16:30Z"
     },
     {
       "source": "Investing.com 外為",
