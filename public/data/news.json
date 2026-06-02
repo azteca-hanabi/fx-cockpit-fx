@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-02T08:53:29Z",
-  "last_checked": "2026-06-02T08:53:29Z",
+  "updated": "2026-06-02T12:46:16Z",
+  "last_checked": "2026-06-02T12:46:16Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バークレイズ、原油輸出禁止の議論拡大を予想―最注目銘柄も提示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1557889",
+      "published": "2026-06-02 12:43:51",
+      "isoDate": "2026-06-02T12:43:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "BPがBTCパイプラインの運営をアゼルバイジャンのSOCARに7月移管へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1557469",
+      "published": "2026-06-02 10:34:49",
+      "isoDate": "2026-06-02T10:34:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、米イラン協議に注目しながら約1%上昇",
@@ -57,92 +71,78 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556506",
       "published": "2026-06-01 17:01:40",
       "isoDate": "2026-06-01T17:01:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "シティ、銅に強気転換――1年以内に1トン1万5000ドルを予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1556505",
-      "published": "2026-06-01 17:00:09",
-      "isoDate": "2026-06-01T17:00:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "クレムリン、原油高騰で収益増——EU、G7価格上限の見直しを検討",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556419",
-      "published": "2026-06-01 15:20:33",
-      "isoDate": "2026-06-01T15:20:33Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は3日ぶり反落、TDKやファナックが2銘柄で約210円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557272",
-      "published": "2026-06-02 08:30:13",
-      "isoDate": "2026-06-02T08:30:13Z"
+      "title": "アルファベットとクレド・テクノロジーが寄り前に下落、ヒューレット・パッカード・エンタープライズは上昇",
+      "link": "https://jp.investing.com/news/economy-news/article-1557749",
+      "published": "2026-06-02 12:03:20",
+      "isoDate": "2026-06-02T12:03:20Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国・イラン協議の不透明感とHPE株急騰が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1557274",
-      "published": "2026-06-02 08:28:48",
-      "isoDate": "2026-06-02T08:28:48Z"
+      "title": "SKハイニックスとサムスン株の目標株価をバークレイズが引き上げ、メモリ需給逼迫が継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557748",
+      "published": "2026-06-02 12:01:37",
+      "isoDate": "2026-06-02T12:01:37Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅に3日続落、金利低下で午後は下げ渋り",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557259",
-      "published": "2026-06-02 08:15:13",
-      "isoDate": "2026-06-02T08:15:13Z"
+      "title": "Perpetuals、45億ドルの取引高を報告しDatavault AIと提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1557728",
+      "published": "2026-06-02 12:01:29",
+      "isoDate": "2026-06-02T12:01:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反落、売り先行も後場から下げ幅縮小",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557191",
-      "published": "2026-06-02 07:00:17",
-      "isoDate": "2026-06-02T07:00:17Z"
+      "title": "インターナショナル・ビジネス・マシーンズ、量子コンピューティングに5年間で100億ドル超を投資へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1557726",
+      "published": "2026-06-02 12:01:13",
+      "isoDate": "2026-06-02T12:01:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格、米イラン協議に注目しながら約1%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1557133",
-      "published": "2026-06-02 06:03:35",
-      "isoDate": "2026-06-02T06:03:35Z"
+      "title": "AIが選んだチップ株、翌日に27%急騰——我々がいち早く予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557591",
+      "published": "2026-06-02 11:10:56",
+      "isoDate": "2026-06-02T11:10:56Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "エリオットが7億1500万ドルの株式取得、ノーザン・スター株が急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1557083",
-      "published": "2026-06-02 04:20:07",
-      "isoDate": "2026-06-02T04:20:07Z"
+      "title": "Super MicroとArmが新たなAIインフラサーバーを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1557400",
+      "published": "2026-06-02 10:08:29",
+      "isoDate": "2026-06-02T10:08:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反落、直近の上昇に対する利益確定売り優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557061",
-      "published": "2026-06-02 03:15:17",
-      "isoDate": "2026-06-02T03:15:17Z"
+      "title": "Super MicroがComputexでアドバンスト・マイクロ・デバイセズのHeliosプラットフォームを展示",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1557399",
+      "published": "2026-06-02 10:08:19",
+      "isoDate": "2026-06-02T10:08:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテク買いが下支えも",
-      "link": "https://jp.investing.com/news/forex-news/article-1557056",
-      "published": "2026-06-02 03:00:16",
-      "isoDate": "2026-06-02T03:00:16Z"
+      "title": "マーベル・テクノロジー・グループの株価が急騰、その理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1557358",
+      "published": "2026-06-02 09:47:04",
+      "isoDate": "2026-06-02T09:47:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Arm株が急騰、NvidiaのComputex発表が強力な触媒に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1556174",
-      "published": "2026-06-01 13:13:00",
-      "isoDate": "2026-06-01T13:13:00Z"
+      "title": "ブロードコム、アルファベットが800億ドルのAI投資計画を発表し上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557342",
+      "published": "2026-06-02 09:28:29",
+      "isoDate": "2026-06-02T09:28:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "201%超の上昇を継続中：6月のAI選定銘柄リストが公開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1555395",
-      "published": "2026-06-01 08:10:36",
-      "isoDate": "2026-06-01T08:10:36Z"
+      "title": "マーベル株が22%急騰、NvidiaのCEOが「次の1兆ドル企業」と称賛",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557309",
+      "published": "2026-06-02 09:03:37",
+      "isoDate": "2026-06-02T09:03:37Z"
     }
   ],
   "btc_items": [
