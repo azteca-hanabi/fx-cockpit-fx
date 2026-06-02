@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-02T04:25:34Z",
-  "last_checked": "2026-06-02T04:25:34Z",
+  "updated": "2026-06-02T08:53:29Z",
+  "last_checked": "2026-06-02T08:53:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、米イラン協議に注目しながら約1%上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1557133",
+      "published": "2026-06-02 06:03:35",
+      "isoDate": "2026-06-02T06:03:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "エリオットが7億1500万ドルの株式取得、ノーザン・スター株が急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1557083",
+      "published": "2026-06-02 04:20:07",
+      "isoDate": "2026-06-02T04:20:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国・イランの和平交渉をめぐる不透明感で原油価格が下落",
@@ -57,29 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556419",
       "published": "2026-06-01 15:20:33",
       "isoDate": "2026-06-01T15:20:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランが新たな軍事攻撃を応酬、欧州天然ガス価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1556218",
-      "published": "2026-06-01 13:27:28",
-      "isoDate": "2026-06-01T13:27:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "オランダ、ガス供給危機に対応しEBNへ最大9億9300万ユーロの補助金を承認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1556192",
-      "published": "2026-06-01 13:16:18",
-      "isoDate": "2026-06-01T13:16:18Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～直近の上昇に対する利益確定売り優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1557064",
-      "published": "2026-06-02 03:30:17",
-      "isoDate": "2026-06-02T03:30:17Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は3日ぶり反落、TDKやファナックが2銘柄で約210円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557272",
+      "published": "2026-06-02 08:30:13",
+      "isoDate": "2026-06-02T08:30:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国・イラン協議の不透明感とHPE株急騰が市場を動かす",
+      "link": "https://jp.investing.com/news/economy-news/article-1557274",
+      "published": "2026-06-02 08:28:48",
+      "isoDate": "2026-06-02T08:28:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東証グロ－ス指数は大幅に3日続落、金利低下で午後は下げ渋り",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557259",
+      "published": "2026-06-02 08:15:13",
+      "isoDate": "2026-06-02T08:15:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は反落、売り先行も後場から下げ幅縮小",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1557191",
+      "published": "2026-06-02 07:00:17",
+      "isoDate": "2026-06-02T07:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格、米イラン協議に注目しながら約1%上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1557133",
+      "published": "2026-06-02 06:03:35",
+      "isoDate": "2026-06-02T06:03:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エリオットが7億1500万ドルの株式取得、ノーザン・スター株が急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1557083",
+      "published": "2026-06-02 04:20:07",
+      "isoDate": "2026-06-02T04:20:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,45 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "直近の上昇に対する利益確定売り優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557062",
-      "published": "2026-06-02 03:15:17",
-      "isoDate": "2026-06-02T03:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、ハイテク買いが下支えも",
       "link": "https://jp.investing.com/news/forex-news/article-1557056",
       "published": "2026-06-02 03:00:16",
       "isoDate": "2026-06-02T03:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "2日のNY市場は続伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1557001",
-      "published": "2026-06-02 01:00:10",
-      "isoDate": "2026-06-02T01:00:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は続伸、ハイテクやイラン和平合意期待が支える",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1556992",
-      "published": "2026-06-02 00:45:09",
-      "isoDate": "2026-06-02T00:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "1日の米国市場ダイジェスト：米国株式市場は続伸、ハイテクやイラン和平合意期待が支える",
-      "link": "https://jp.investing.com/news/forex-news/article-1556978",
-      "published": "2026-06-02 00:15:07",
-      "isoDate": "2026-06-02T00:15:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは46.42ドル高、ハイテクやイラン和平合意期待が支える",
-      "link": "https://jp.investing.com/news/forex-news/article-1556877",
-      "published": "2026-06-01 21:45:05",
-      "isoDate": "2026-06-01T21:45:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "金融庁、金商法移行で海外無登録業者への執行強化を明示　仮想通貨の課徴金・差止命令が対象に",
+      "link": "https://coinpost.jp/?p=713533",
+      "published": "Tue, 02 Jun 2026 17:41:48 +0900",
+      "isoDate": "2026-06-02T08:41:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "【速報】マウントゴックス、約1万BTCのビットコインを新ウォレットに移動＝Lookonchain",
+      "link": "https://coinpost.jp/?p=713490",
+      "published": "Tue, 02 Jun 2026 16:21:42 +0900",
+      "isoDate": "2026-06-02T07:21:42Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン急落、ストラテジー社のBTC売却で市場心理が悪化｜仮想NISHI",
@@ -201,20 +215,6 @@
       "link": "https://coinpost.jp/?p=713168",
       "published": "Tue, 02 Jun 2026 07:02:29 +0900",
       "isoDate": "2026-06-01T22:02:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスが7000銘柄の米国株取引を開始、トークン化株式「bStocks」も数週間以内に公開へ",
-      "link": "https://coinpost.jp/?p=713157",
-      "published": "Tue, 02 Jun 2026 05:55:40 +0900",
-      "isoDate": "2026-06-01T20:55:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "【速報】ストラテジー、32BTCのビットコインを売却　2022年以来初",
-      "link": "https://coinpost.jp/?p=713106",
-      "published": "Mon, 01 Jun 2026 21:50:13 +0900",
-      "isoDate": "2026-06-01T12:50:13Z"
     }
   ]
 }
