@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-03T17:27:45Z",
-  "last_checked": "2026-06-03T17:27:45Z",
+  "updated": "2026-06-03T20:39:28Z",
+  "last_checked": "2026-06-03T20:39:28Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "カタール供給途絶後、シンガポールがLNG代替調達を確保",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1560068",
+      "published": "2026-06-03 18:02:19",
+      "isoDate": "2026-06-03T18:02:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "投資ファンド、5月29日までの週に小麦買い持ちポジションを削減",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1558823",
       "published": "2026-06-03 01:44:22",
       "isoDate": "2026-06-03T01:44:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東情勢緊迫化と米イラン交渉停滞で原油価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1558775",
-      "published": "2026-06-03 00:33:22",
-      "isoDate": "2026-06-03T00:33:22Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル続伸、NY原油先物は上昇、イラン戦争長期化懸念",
-      "link": "https://jp.investing.com/news/forex-news/article-1559988",
-      "published": "2026-06-03 15:45:06",
-      "isoDate": "2026-06-03T15:45:06Z"
+      "title": "6月3日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1560107",
+      "published": "2026-06-03 19:15:05",
+      "isoDate": "2026-06-03T19:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ、オースティンでロボタクシーサービスを開始し、自動運転の普及を加速",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560092",
+      "published": "2026-06-03 18:47:46",
+      "isoDate": "2026-06-03T18:47:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1559731",
       "published": "2026-06-03 13:10:12",
       "isoDate": "2026-06-03T13:10:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ナビタス株が25%急騰、エヌビディアとのAI協業を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1559721",
-      "published": "2026-06-03 13:09:10",
-      "isoDate": "2026-06-03T13:09:10Z"
     },
     {
       "source": "Investing.com 外為",
