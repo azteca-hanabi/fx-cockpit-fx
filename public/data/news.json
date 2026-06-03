@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T20:39:28Z",
-  "last_checked": "2026-06-03T20:39:28Z",
+  "updated": "2026-06-03T23:07:08Z",
+  "last_checked": "2026-06-03T23:07:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "6月3日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1560107",
-      "published": "2026-06-03 19:15:05",
-      "isoDate": "2026-06-03T19:15:05Z"
+      "title": "ブロードコム、2026年度第2四半期決算が予想を上回り株価上昇",
+      "link": "https://jp.investing.com/news/transcripts/article-93CH-1560394",
+      "published": "2026-06-03 22:22:10",
+      "isoDate": "2026-06-03T22:22:10Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラ、オースティンでロボタクシーサービスを開始し、自動運転の普及を加速",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560092",
-      "published": "2026-06-03 18:47:46",
-      "isoDate": "2026-06-03T18:47:46Z"
+      "title": "ブロードコム株、時間外取引で急落——好決算でも期待に届かず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1560329",
+      "published": "2026-06-03 21:29:52",
+      "isoDate": "2026-06-03T21:29:52Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アルファベット、Geminiユーザー9億人突破・8475億ドルの資金調達を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1559882",
-      "published": "2026-06-03 14:06:04",
-      "isoDate": "2026-06-03T14:06:04Z"
+      "title": "NY株式：NYダウは620.72ドル安、関税や中東リスクが再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1560301",
+      "published": "2026-06-03 21:15:05",
+      "isoDate": "2026-06-03T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目株：AVGO、CRWD、FIVE、AI、TLYS、NTSK",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1560229",
+      "published": "2026-06-03 20:37:03",
+      "isoDate": "2026-06-03T20:37:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】ブロードコム、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1560221",
+      "published": "2026-06-03 20:35:32",
+      "isoDate": "2026-06-03T20:35:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコム、AI半導体売上高が倍増し決算と見通しが予想を上回る―時間外取引で株価は下落",
+      "link": "https://jp.investing.com/news/earnings/article-1560184",
+      "published": "2026-06-03 20:21:57",
+      "isoDate": "2026-06-03T20:21:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコム、1株当たり0.65ドルの四半期配当を発表――利回り0.5%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1560188",
+      "published": "2026-06-03 20:18:08",
+      "isoDate": "2026-06-03T20:18:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,27 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1559810",
       "published": "2026-06-03 13:37:00",
       "isoDate": "2026-06-03T13:37:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX、中東緊張の高まりを受けて下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1559731",
-      "published": "2026-06-03 13:10:12",
-      "isoDate": "2026-06-03T13:10:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ePlus、シスコ・システムズとエヌビディアと共同で自律型IT運用AIプラットフォームを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1559612",
-      "published": "2026-06-03 12:32:41",
-      "isoDate": "2026-06-03T12:32:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループ、NvidiaのCEO支持を受けStifelが目標株価を引き上げ、株価上昇が続く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1559452",
-      "published": "2026-06-03 11:44:17",
-      "isoDate": "2026-06-03T11:44:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1558885",
       "published": "2026-06-03 05:16:16",
       "isoDate": "2026-06-03T05:16:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがIPOで750億ドル調達を計画、1株135ドルで約5億5560万株を売り出し",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1558793",
-      "published": "2026-06-03 00:46:40",
-      "isoDate": "2026-06-03T00:46:40Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ベッセント財務長官、クラリティー法の夏までの成立を要請　ビットコイン準備金も「着実に前進」",
+      "link": "https://coinpost.jp/?p=714059",
+      "published": "Thu, 04 Jun 2026 07:55:31 +0900",
+      "isoDate": "2026-06-03T22:55:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "バックパック、米株とトークン化証券を統合する証券基盤を発表　BPも大幅高",
