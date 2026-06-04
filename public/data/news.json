@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T14:07:00Z",
-  "last_checked": "2026-06-04T14:07:00Z",
+  "updated": "2026-06-04T17:30:05Z",
+  "last_checked": "2026-06-04T17:30:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イスラエルとレバノンが停戦合意、欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1561470",
-      "published": "2026-06-04 13:13:40",
-      "isoDate": "2026-06-04T13:13:40Z"
+      "title": "マイクロンテクノロジー株が本日急落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
+      "published": "2026-06-04 13:56:54",
+      "isoDate": "2026-06-04T13:56:54Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +97,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "TSX先物は横ばい、中東情勢の緊張継続と米雇用統計を注視",
+      "title": "中東緊張が続く中、TSX上昇－米雇用統計を控え投資家が様子見",
       "link": "https://jp.investing.com/news/stock-market-news/article-1561293",
       "published": "2026-06-04 12:18:08",
       "isoDate": "2026-06-04T12:18:08Z"
@@ -118,17 +118,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "PalantirとKirkland & Ellis、プライベートエクイティ資金調達向けAIプラットフォームを立ち上げ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1561034",
-      "published": "2026-06-04 11:00:12",
-      "isoDate": "2026-06-04T11:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだ銘柄が242%超の上昇、S&P 500を大幅に上回る",
       "link": "https://jp.investing.com/news/stock-market-news/article-1560794",
       "published": "2026-06-04 08:56:21",
       "isoDate": "2026-06-04T08:56:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イスラエル・レバノン停戦、ブロードコム下落、SpaceX IPO価格設定――市場を動かす材料",
+      "link": "https://jp.investing.com/news/economy-news/article-1560741",
+      "published": "2026-06-04 08:16:24",
+      "isoDate": "2026-06-04T08:16:24Z"
     },
     {
       "source": "Investing.com 外為",
