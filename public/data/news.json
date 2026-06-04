@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-04T17:30:05Z",
-  "last_checked": "2026-06-04T17:30:05Z",
+  "updated": "2026-06-04T19:38:46Z",
+  "last_checked": "2026-06-04T19:38:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、在庫減少にもかかわらず下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561767",
+      "published": "2026-06-04 19:01:26",
+      "isoDate": "2026-06-04T19:01:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの石油輸出、米国の封鎖で6年ぶりの低水準に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561746",
+      "published": "2026-06-04 18:07:21",
+      "isoDate": "2026-06-04T18:07:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イスラエルとレバノンが停戦合意、欧州天然ガス価格が下落",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559981",
       "published": "2026-06-03 15:43:17",
       "isoDate": "2026-06-03T15:43:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫が800万バレル減少、EIA発表",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559968",
-      "published": "2026-06-03 15:25:23",
-      "isoDate": "2026-06-03T15:25:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東情勢の緊迫化で欧州天然ガス価格が急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1559812",
-      "published": "2026-06-03 13:40:20",
-      "isoDate": "2026-06-03T13:40:20Z"
     }
   ],
   "usdjpy_items": [
@@ -80,13 +80,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
       "published": "2026-06-04 13:56:54",
       "isoDate": "2026-06-04T13:56:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Pinterestが2031年までに40億ドルのAWSクラウド契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1561444",
-      "published": "2026-06-04 13:01:25",
-      "isoDate": "2026-06-04T13:01:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +108,13 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1561070",
       "published": "2026-06-04 11:00:21",
       "isoDate": "2026-06-04T11:00:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループの株価が本日6%超下落した理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1560851",
+      "published": "2026-06-04 09:34:40",
+      "isoDate": "2026-06-04T09:34:40Z"
     },
     {
       "source": "Investing.com 外為",
