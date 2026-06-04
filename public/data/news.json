@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T19:38:46Z",
-  "last_checked": "2026-06-04T19:38:46Z",
+  "updated": "2026-06-04T21:45:03Z",
+  "last_checked": "2026-06-04T21:45:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,34 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米国初のビットコイン担保住宅ローン実行、コインベースとベター提携",
+      "link": "https://coinpost.jp/?p=714537",
+      "published": "Fri, 05 Jun 2026 06:35:21 +0900",
+      "isoDate": "2026-06-04T21:35:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DDCエンタープライズが9億円相当BTC追加購入、ビットコイン保有総数2804BTCに",
+      "link": "https://coinpost.jp/?p=714522",
+      "published": "Fri, 05 Jun 2026 06:05:50 +0900",
+      "isoDate": "2026-06-04T21:05:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン「クラリティー法案の成立余地縮小」、中間選挙前の成立を疑問視",
+      "link": "https://coinpost.jp/?p=714510",
+      "published": "Fri, 05 Jun 2026 05:40:03 +0900",
+      "isoDate": "2026-06-04T20:40:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「ビットコインは底打ちの兆候」、ストラテジーのBTC買戻しを予測＝スタンダードチャータード分析",
+      "link": "https://coinpost.jp/?p=714480",
+      "published": "Fri, 05 Jun 2026 05:00:58 +0900",
+      "isoDate": "2026-06-04T20:00:58Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ソラナ系L1「Solayer」、永久先物取引所「Margin Trade」メインネット立ち上げ",
       "link": "https://coinpost.jp/?p=714175",
       "published": "Thu, 04 Jun 2026 13:45:42 +0900",
@@ -187,27 +215,6 @@
       "link": "https://coinpost.jp/?p=713959",
       "published": "Wed, 03 Jun 2026 17:13:51 +0900",
       "isoDate": "2026-06-03T08:13:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットマインとストラテジー、含み損がそれぞれ89億ドル・76億ドルに＝Lookonchain",
-      "link": "https://coinpost.jp/?p=713900",
-      "published": "Wed, 03 Jun 2026 14:45:41 +0900",
-      "isoDate": "2026-06-03T05:45:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン低迷の真因は「米株への資金集中」＝バイナンス・リサーチが分析",
-      "link": "https://coinpost.jp/?p=713748",
-      "published": "Wed, 03 Jun 2026 14:20:51 +0900",
-      "isoDate": "2026-06-03T05:20:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "上場ビットコインマイナーのハイブ、年間売上高470億円突破　AIインフラ拡大",
-      "link": "https://coinpost.jp/?p=713745",
-      "published": "Wed, 03 Jun 2026 13:45:37 +0900",
-      "isoDate": "2026-06-03T04:45:37Z"
     }
   ]
 }
