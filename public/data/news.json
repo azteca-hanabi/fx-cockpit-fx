@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-04T02:06:53Z",
-  "last_checked": "2026-06-04T02:06:53Z",
+  "updated": "2026-06-04T07:06:37Z",
+  "last_checked": "2026-06-04T07:06:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油、3日続伸後に反落――中東緊張と米在庫急減を注視",
+      "title": "イスラエル・レバノン停戦合意で金価格上昇、米雇用統計に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1560575",
+      "published": "2026-06-04 02:34:40",
+      "isoDate": "2026-06-04T02:34:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油、3日間の上昇後に下落——中東緊張と米在庫減少を注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1560491",
       "published": "2026-06-04 00:18:19",
       "isoDate": "2026-06-04T00:18:19Z"
@@ -64,36 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559182",
       "published": "2026-06-03 10:18:28",
       "isoDate": "2026-06-03T10:18:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "円相場が1ドル160円に迫る、東京当局の介入に市場が警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-1558843",
-      "published": "2026-06-03 02:30:32",
-      "isoDate": "2026-06-03T02:30:32Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコムが半導体株を圧迫、イラン情勢への懸念も続く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560510",
-      "published": "2026-06-04 00:59:18",
-      "isoDate": "2026-06-04T00:59:18Z"
+      "title": "ビットコイン、イラン緊張とETF流出で4カ月ぶり安値6.1万ドルに下落",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1560638",
+      "published": "2026-06-04 06:07:32",
+      "isoDate": "2026-06-04T06:07:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は541円安でスタート、フジクラやソフトバンクGなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560504",
-      "published": "2026-06-04 00:45:09",
-      "isoDate": "2026-06-04T00:45:09Z"
+      "title": "東京為替：ドル・円は変わらず、介入効果は限定的の見方",
+      "link": "https://jp.investing.com/news/forex-news/article-1560633",
+      "published": "2026-06-04 06:00:14",
+      "isoDate": "2026-06-04T06:00:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、関税や中東リスクが再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560470",
-      "published": "2026-06-03 23:45:07",
-      "isoDate": "2026-06-03T23:45:07Z"
+      "title": "アジアの半導体・AI関連株、ブロードコムの低調な決算を受けて下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560620",
+      "published": "2026-06-04 05:06:47",
+      "isoDate": "2026-06-04T05:06:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアと現代自動車、韓国にAI研究開発センター設立を協議",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560589",
+      "published": "2026-06-04 03:18:56",
+      "isoDate": "2026-06-04T03:18:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イスラエル・レバノン停戦合意で金価格上昇、米雇用統計に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1560575",
+      "published": "2026-06-04 02:34:40",
+      "isoDate": "2026-06-04T02:34:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1560229",
       "published": "2026-06-03 20:37:03",
       "isoDate": "2026-06-03T20:37:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブロードコム、AI半導体売上高が倍増し決算と見通しが予想を上回る―時間外取引で株価は下落",
-      "link": "https://jp.investing.com/news/earnings/article-1560184",
-      "published": "2026-06-03 20:21:57",
-      "isoDate": "2026-06-03T20:21:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブロードコム、1株当たり0.65ドルの四半期配当を発表――利回り0.5%",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1560188",
-      "published": "2026-06-03 20:18:08",
-      "isoDate": "2026-06-03T20:18:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ソラナ系L1「Solayer」、永久先物取引所「Margin Trade」メインネット立ち上げ",
+      "link": "https://coinpost.jp/?p=714175",
+      "published": "Thu, 04 Jun 2026 13:45:42 +0900",
+      "isoDate": "2026-06-04T04:45:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン一時1000万円割れ、マウントゴックス送金で売却警戒強まる｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=714205",
+      "published": "Thu, 04 Jun 2026 13:00:11 +0900",
+      "isoDate": "2026-06-04T04:00:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "カルシ、ビットコイン無期限先物を正式提供　米規制市場で初",
@@ -194,34 +208,6 @@
       "link": "https://coinpost.jp/?p=713745",
       "published": "Wed, 03 Jun 2026 13:45:37 +0900",
       "isoDate": "2026-06-03T04:45:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、仮想通貨ENA購入でエテナに出資　提携も発表",
-      "link": "https://coinpost.jp/?p=713754",
-      "published": "Wed, 03 Jun 2026 12:13:25 +0900",
-      "isoDate": "2026-06-03T03:13:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨相場の冬に変化の兆候か、ビットワイズ幹部が指摘",
-      "link": "https://coinpost.jp/?p=713706",
-      "published": "Wed, 03 Jun 2026 11:20:53 +0900",
-      "isoDate": "2026-06-03T02:20:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮想通貨市場と株式の乖離が明確に」ウィンターミュートが背景を分析",
-      "link": "https://coinpost.jp/?p=713675",
-      "published": "Wed, 03 Jun 2026 10:55:53 +0900",
-      "isoDate": "2026-06-03T01:55:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SEC、仮想通貨規制の明確化へ転換　5カ年戦略に初明記",
-      "link": "https://coinpost.jp/?p=713719",
-      "published": "Wed, 03 Jun 2026 10:28:37 +0900",
-      "isoDate": "2026-06-03T01:28:37Z"
     }
   ]
 }
