@@ -1,10 +1,31 @@
 {
-  "updated": "2026-06-04T10:48:06Z",
-  "last_checked": "2026-06-04T10:48:06Z",
+  "updated": "2026-06-04T14:07:00Z",
+  "last_checked": "2026-06-04T14:07:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "イスラエル・レバノン停戦合意で金価格上昇、米雇用統計に注目",
+      "title": "イスラエルとレバノンが停戦合意、欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1561470",
+      "published": "2026-06-04 13:13:40",
+      "isoDate": "2026-06-04T13:13:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "天然ガス価格、第3四半期も底堅く推移――2027年は供給過剰リスク：モルガン・スタンレー",
+      "link": "https://jp.investing.com/news/commodities-news/article-1561213",
+      "published": "2026-06-04 11:49:25",
+      "isoDate": "2026-06-04T11:49:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ、米・イラン協議の停滞で原油価格が上昇基調と予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-1561097",
+      "published": "2026-06-04 10:59:07",
+      "isoDate": "2026-06-04T10:59:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、イスラエル・レバノン停戦後も上昇継続―米雇用統計に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1560575",
       "published": "2026-06-04 02:34:40",
       "isoDate": "2026-06-04T02:34:40Z"
@@ -50,43 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1559812",
       "published": "2026-06-03 13:40:20",
       "isoDate": "2026-06-03T13:40:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "クウェート、湾岸紛争後に海外石油備蓄の拡大を検討",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559594",
-      "published": "2026-06-03 12:30:03",
-      "isoDate": "2026-06-03T12:30:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドが航空燃料価格の上限設定に向け1,000億ルピーを拠出",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559590",
-      "published": "2026-06-03 12:27:13",
-      "isoDate": "2026-06-03T12:27:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡再開後6〜8週間でクウェート石油生産が70%回復へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1559182",
-      "published": "2026-06-03 10:18:28",
-      "isoDate": "2026-06-03T10:18:28Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インターナショナル・ビジネス・マシーンズとGoogle Cloud、AIソリューション展開に向け提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1560905",
-      "published": "2026-06-04 10:01:21",
-      "isoDate": "2026-06-04T10:01:21Z"
+      "title": "イスラエルとレバノンが停戦合意、欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1561470",
+      "published": "2026-06-04 13:13:40",
+      "isoDate": "2026-06-04T13:13:40Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコムのAI見通し据え置きで欧州半導体株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560832",
-      "published": "2026-06-04 09:21:10",
-      "isoDate": "2026-06-04T09:21:10Z"
+      "title": "Pinterestが2031年までに40億ドルのAWSクラウド契約を締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1561444",
+      "published": "2026-06-04 13:01:25",
+      "isoDate": "2026-06-04T13:01:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "グーグルがチップ供給依存を削減、ブロードコムが格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1561416",
+      "published": "2026-06-04 13:00:05",
+      "isoDate": "2026-06-04T13:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物は横ばい、中東情勢の緊張継続と米雇用統計を注視",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1561293",
+      "published": "2026-06-04 12:18:08",
+      "isoDate": "2026-06-04T12:18:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコムとCrowdStrikeが寄り前に急落、Orion Energyは急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1561186",
+      "published": "2026-06-04 11:45:38",
+      "isoDate": "2026-06-04T11:45:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirがGoogle Cloudと提携、マーケットプレイスでの提供を開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1561070",
+      "published": "2026-06-04 11:00:21",
+      "isoDate": "2026-06-04T11:00:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとKirkland & Ellis、プライベートエクイティ資金調達向けAIプラットフォームを立ち上げ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1561034",
+      "published": "2026-06-04 11:00:12",
+      "isoDate": "2026-06-04T11:00:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,34 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1560794",
       "published": "2026-06-04 08:56:21",
       "isoDate": "2026-06-04T08:56:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金は値固め局面か　サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560772",
-      "published": "2026-06-04 08:45:11",
-      "isoDate": "2026-06-04T08:45:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イスラエル・レバノン停戦、ブロードコム下落、SpaceX IPO価格設定――市場を動かす材料",
-      "link": "https://jp.investing.com/news/economy-news/article-1560741",
-      "published": "2026-06-04 08:16:24",
-      "isoDate": "2026-06-04T08:16:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中東情勢懸念からAI関連株中心に利食い売り優勢に【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1560715",
-      "published": "2026-06-04 08:00:17",
-      "isoDate": "2026-06-04T08:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イスラエルとレバノンが停戦合意を更新、欧州株は小幅上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1560690",
-      "published": "2026-06-04 07:16:37",
-      "isoDate": "2026-06-04T07:16:37Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1559810",
       "published": "2026-06-03 13:37:00",
       "isoDate": "2026-06-03T13:37:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIはすでに見抜いていた：6月の選定銘柄、+59%と+26%の上昇を記録",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1559448",
-      "published": "2026-06-03 10:00:24",
-      "isoDate": "2026-06-03T10:00:24Z"
     }
   ],
   "btc_items": [
