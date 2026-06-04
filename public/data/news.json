@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-03T23:07:08Z",
-  "last_checked": "2026-06-03T23:07:08Z",
+  "updated": "2026-06-04T02:06:53Z",
+  "last_checked": "2026-06-04T02:06:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油、3日続伸後に反落――中東緊張と米在庫急減を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-1560491",
+      "published": "2026-06-04 00:18:19",
+      "isoDate": "2026-06-04T00:18:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "カタール供給途絶後、シンガポールがLNG代替調達を確保",
@@ -64,22 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1558843",
       "published": "2026-06-03 02:30:32",
       "isoDate": "2026-06-03T02:30:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東緊張と米雇用統計を前に金価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1558823",
-      "published": "2026-06-03 01:44:22",
-      "isoDate": "2026-06-03T01:44:22Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコム、2026年度第2四半期決算が予想を上回り株価上昇",
-      "link": "https://jp.investing.com/news/transcripts/article-93CH-1560394",
-      "published": "2026-06-03 22:22:10",
-      "isoDate": "2026-06-03T22:22:10Z"
+      "title": "ブロードコムが半導体株を圧迫、イラン情勢への懸念も続く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560510",
+      "published": "2026-06-04 00:59:18",
+      "isoDate": "2026-06-04T00:59:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は541円安でスタート、フジクラやソフトバンクGなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560504",
+      "published": "2026-06-04 00:45:09",
+      "isoDate": "2026-06-04T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、関税や中東リスクが再燃",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1560470",
+      "published": "2026-06-03 23:45:07",
+      "isoDate": "2026-06-03T23:45:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは620.72ドル安、関税や中東リスクが再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1560301",
-      "published": "2026-06-03 21:15:05",
-      "isoDate": "2026-06-03T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "時間外取引の注目株：AVGO、CRWD、FIVE、AI、TLYS、NTSK",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1560229",
       "published": "2026-06-03 20:37:03",
       "isoDate": "2026-06-03T20:37:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】ブロードコム、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1560221",
-      "published": "2026-06-03 20:35:32",
-      "isoDate": "2026-06-03T20:35:32Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "カルシ、ビットコイン無期限先物を正式提供　米規制市場で初",
+      "link": "https://coinpost.jp/?p=714063",
+      "published": "Thu, 04 Jun 2026 08:15:31 +0900",
+      "isoDate": "2026-06-03T23:15:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "ベッセント財務長官、クラリティー法の夏までの成立を要請　ビットコイン準備金も「着実に前進」",
@@ -215,34 +222,6 @@
       "link": "https://coinpost.jp/?p=713719",
       "published": "Wed, 03 Jun 2026 10:28:37 +0900",
       "isoDate": "2026-06-03T01:28:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン保有企業群、平均コスト7.8万ドルで含み損約12%に拡大",
-      "link": "https://coinpost.jp/?p=713641",
-      "published": "Wed, 03 Jun 2026 09:55:48 +0900",
-      "isoDate": "2026-06-03T00:55:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Bitcoin Japan CEO、ビットコイン取得について「時機を見て判断」",
-      "link": "https://coinpost.jp/?p=713682",
-      "published": "Wed, 03 Jun 2026 09:27:32 +0900",
-      "isoDate": "2026-06-03T00:27:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン100万円急落、7万ドル付近に積み上がったロングが一斉清算｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=713666",
-      "published": "Wed, 03 Jun 2026 09:05:50 +0900",
-      "isoDate": "2026-06-03T00:05:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ステーブルコインの利用頻度が過去最高水準に」DWFラボが分析",
-      "link": "https://coinpost.jp/?p=713653",
-      "published": "Wed, 03 Jun 2026 07:45:24 +0900",
-      "isoDate": "2026-06-02T22:45:24Z"
     }
   ]
 }
