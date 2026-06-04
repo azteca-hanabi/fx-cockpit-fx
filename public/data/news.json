@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-04T21:45:03Z",
-  "last_checked": "2026-06-04T21:45:03Z",
+  "updated": "2026-06-04T23:12:32Z",
+  "last_checked": "2026-06-04T23:12:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY金：反発で4502.50ドル、イスラエル・レバノン停戦合意を受けた買い戻しが優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1562044",
+      "published": "2026-06-04 22:45:07",
+      "isoDate": "2026-06-04T22:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは874.86ドル高、原油安や金利低下が支援もハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1561982",
+      "published": "2026-06-04 21:30:05",
+      "isoDate": "2026-06-04T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目株：LULU、RBRK、DOCU、IOT、PL、TTAN",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1561864",
+      "published": "2026-06-04 20:26:03",
+      "isoDate": "2026-06-04T20:26:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
       "published": "2026-06-04 13:56:54",
@@ -104,31 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "PalantirがGoogle Cloudと提携、マーケットプレイスでの提供を開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1561070",
-      "published": "2026-06-04 11:00:21",
-      "isoDate": "2026-06-04T11:00:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループの株価が本日6%超下落した理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1560851",
-      "published": "2026-06-04 09:34:40",
-      "isoDate": "2026-06-04T09:34:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだ銘柄が242%超の上昇、S&P 500を大幅に上回る",
       "link": "https://jp.investing.com/news/stock-market-news/article-1560794",
       "published": "2026-06-04 08:56:21",
       "isoDate": "2026-06-04T08:56:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イスラエル・レバノン停戦、ブロードコム下落、SpaceX IPO価格設定――市場を動かす材料",
-      "link": "https://jp.investing.com/news/economy-news/article-1560741",
-      "published": "2026-06-04 08:16:24",
-      "isoDate": "2026-06-04T08:16:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,76 +145,5 @@
       "isoDate": "2026-06-03T13:37:00Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米国初のビットコイン担保住宅ローン実行、コインベースとベター提携",
-      "link": "https://coinpost.jp/?p=714537",
-      "published": "Fri, 05 Jun 2026 06:35:21 +0900",
-      "isoDate": "2026-06-04T21:35:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "DDCエンタープライズが9億円相当BTC追加購入、ビットコイン保有総数2804BTCに",
-      "link": "https://coinpost.jp/?p=714522",
-      "published": "Fri, 05 Jun 2026 06:05:50 +0900",
-      "isoDate": "2026-06-04T21:05:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPモルガン「クラリティー法案の成立余地縮小」、中間選挙前の成立を疑問視",
-      "link": "https://coinpost.jp/?p=714510",
-      "published": "Fri, 05 Jun 2026 05:40:03 +0900",
-      "isoDate": "2026-06-04T20:40:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインは底打ちの兆候」、ストラテジーのBTC買戻しを予測＝スタンダードチャータード分析",
-      "link": "https://coinpost.jp/?p=714480",
-      "published": "Fri, 05 Jun 2026 05:00:58 +0900",
-      "isoDate": "2026-06-04T20:00:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ系L1「Solayer」、永久先物取引所「Margin Trade」メインネット立ち上げ",
-      "link": "https://coinpost.jp/?p=714175",
-      "published": "Thu, 04 Jun 2026 13:45:42 +0900",
-      "isoDate": "2026-06-04T04:45:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン一時1000万円割れ、マウントゴックス送金で売却警戒強まる｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=714205",
-      "published": "Thu, 04 Jun 2026 13:00:11 +0900",
-      "isoDate": "2026-06-04T04:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "カルシ、ビットコイン無期限先物を正式提供　米規制市場で初",
-      "link": "https://coinpost.jp/?p=714063",
-      "published": "Thu, 04 Jun 2026 08:15:31 +0900",
-      "isoDate": "2026-06-03T23:15:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ベッセント財務長官、クラリティー法の夏までの成立を要請　ビットコイン準備金も「着実に前進」",
-      "link": "https://coinpost.jp/?p=714059",
-      "published": "Thu, 04 Jun 2026 07:55:31 +0900",
-      "isoDate": "2026-06-03T22:55:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バックパック、米株とトークン化証券を統合する証券基盤を発表　BPも大幅高",
-      "link": "https://coinpost.jp/?p=713999",
-      "published": "Wed, 03 Jun 2026 18:18:54 +0900",
-      "isoDate": "2026-06-03T09:18:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クジラ、1週間で2.4万BTCのビットコイン売却　小口投資家は逆に積み増し＝Santiment",
-      "link": "https://coinpost.jp/?p=713959",
-      "published": "Wed, 03 Jun 2026 17:13:51 +0900",
-      "isoDate": "2026-06-03T08:13:51Z"
-    }
-  ]
+  "btc_items": []
 }
