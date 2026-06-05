@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T20:51:47Z",
-  "last_checked": "2026-06-05T20:51:47Z",
+  "updated": "2026-06-05T22:18:48Z",
+  "last_checked": "2026-06-05T22:18:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Marvell Technology Inc、S&P 500採用発表を受けて株価が急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563174",
+      "published": "2026-06-05 21:45:24",
+      "isoDate": "2026-06-05T21:45:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは695.15ドル安、利上げを警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1563165",
+      "published": "2026-06-05 21:30:05",
+      "isoDate": "2026-06-05T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "6月5日のNY為替概況",
       "link": "https://jp.investing.com/news/forex-news/article-1563051",
       "published": "2026-06-05 20:00:06",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562907",
       "published": "2026-06-05 15:04:58",
       "isoDate": "2026-06-05T15:04:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米5月雇用統計はポジティブサプライズ、年利上げ織り込みドル反発",
-      "link": "https://jp.investing.com/news/forex-news/article-1562853",
-      "published": "2026-06-05 14:00:06",
-      "isoDate": "2026-06-05T14:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,18 +132,75 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ヒズボラがイスラエル・レバノン停戦を拒否、NFP発表を前に市場が動揺",
-      "link": "https://jp.investing.com/news/economy-news/article-1562327",
-      "published": "2026-06-05 08:20:08",
-      "isoDate": "2026-06-05T08:20:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
       "published": "2026-06-04 13:56:54",
       "isoDate": "2026-06-04T13:56:54Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン年初来安値更新、米金利上昇と複合悪材料が重荷｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=714995",
+      "published": "Sat, 06 Jun 2026 07:15:55 +0900",
+      "isoDate": "2026-06-05T22:15:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米下院歳入委、仮想通貨課税の討議草案7本を公開　6月9日に公聴会",
+      "link": "https://coinpost.jp/?p=714973",
+      "published": "Sat, 06 Jun 2026 06:20:31 +0900",
+      "isoDate": "2026-06-05T21:20:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーのマイケル・セイラー会長「ビットコインは個人・企業・国家の資本」、4つのイデオロギーを提唱",
+      "link": "https://coinpost.jp/?p=714972",
+      "published": "Sat, 06 Jun 2026 06:05:29 +0900",
+      "isoDate": "2026-06-05T21:05:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール「ビットコイン底値形成には新たな買い手が必要」",
+      "link": "https://coinpost.jp/?p=714961",
+      "published": "Sat, 06 Jun 2026 05:00:31 +0900",
+      "isoDate": "2026-06-05T20:00:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入に転換",
+      "link": "https://coinpost.jp/?p=714896",
+      "published": "Fri, 05 Jun 2026 17:57:42 +0900",
+      "isoDate": "2026-06-05T08:57:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引所が株式投資の新たな入口に、5年以内3億人の新規投資家流入も＝バイナンス・リサーチ",
+      "link": "https://coinpost.jp/?p=714762",
+      "published": "Fri, 05 Jun 2026 14:30:51 +0900",
+      "isoDate": "2026-06-05T05:30:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "機関投資家のビットコイン保有、第一四半期に17％減　銀行勢は前年比4倍増＝コインシェアーズ",
+      "link": "https://coinpost.jp/?p=714716",
+      "published": "Fri, 05 Jun 2026 12:14:52 +0900",
+      "isoDate": "2026-06-05T03:14:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "銀行の仮想通貨自己資本規制ルールの作成を米金融当局に要請、ルミス氏らの議員が書簡送付",
+      "link": "https://coinpost.jp/?p=714677",
+      "published": "Fri, 05 Jun 2026 11:45:31 +0900",
+      "isoDate": "2026-06-05T02:45:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "国内上場企業WIZE、SBI VCトレードと提携　ソラナ・トレジャリー事業を強化",
+      "link": "https://coinpost.jp/?p=714658",
+      "published": "Fri, 05 Jun 2026 11:30:47 +0900",
+      "isoDate": "2026-06-05T02:30:47Z"
+    }
+  ]
 }
