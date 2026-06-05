@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-05T18:59:18Z",
-  "last_checked": "2026-06-05T18:59:18Z",
+  "updated": "2026-06-05T20:51:47Z",
+  "last_checked": "2026-06-05T20:51:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アラスカ野生生物保護区の石油リース入札、落札総額はわずか370万ドル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563036",
+      "published": "2026-06-05 19:12:47",
+      "isoDate": "2026-06-05T19:12:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イランとの紛争終結後、米国が戦略石油備蓄に4000万バレルを追加へ",
@@ -57,22 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561767",
       "published": "2026-06-04 19:01:26",
       "isoDate": "2026-06-04T19:01:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの石油輸出、米国の封鎖で6年ぶりの低水準に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561746",
-      "published": "2026-06-04 18:07:21",
-      "isoDate": "2026-06-04T18:07:21Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "5月雇用統計への反応：専門家・アナリストの見解まとめ",
-      "link": "https://jp.investing.com/news/economy-news/article-1563019",
-      "published": "2026-06-05 18:25:04",
-      "isoDate": "2026-06-05T18:25:04Z"
+      "title": "6月5日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1563051",
+      "published": "2026-06-05 20:00:06",
+      "isoDate": "2026-06-05T20:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "[通貨オプション]ドル・円レンジ突破でOP買い",
+      "link": "https://jp.investing.com/news/forex-news/article-1563032",
+      "published": "2026-06-05 19:00:06",
+      "isoDate": "2026-06-05T19:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,89 +132,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "+54%、AIが選んだ銘柄が歴史的なS&P 500の上昇を大幅に上回る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562323",
-      "published": "2026-06-05 08:03:57",
-      "isoDate": "2026-06-05T08:03:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
       "published": "2026-06-04 13:56:54",
       "isoDate": "2026-06-04T13:56:54Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入に転換",
-      "link": "https://coinpost.jp/?p=714896",
-      "published": "Fri, 05 Jun 2026 17:57:42 +0900",
-      "isoDate": "2026-06-05T08:57:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引所が株式投資の新たな入口に、5年以内3億人の新規投資家流入も＝バイナンス・リサーチ",
-      "link": "https://coinpost.jp/?p=714762",
-      "published": "Fri, 05 Jun 2026 14:30:51 +0900",
-      "isoDate": "2026-06-05T05:30:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "機関投資家のビットコイン保有、第一四半期に17％減　銀行勢は前年比4倍増＝コインシェアーズ",
-      "link": "https://coinpost.jp/?p=714716",
-      "published": "Fri, 05 Jun 2026 12:14:52 +0900",
-      "isoDate": "2026-06-05T03:14:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "銀行の仮想通貨自己資本規制ルールの作成を米金融当局に要請、ルミス氏らの議員が書簡送付",
-      "link": "https://coinpost.jp/?p=714677",
-      "published": "Fri, 05 Jun 2026 11:45:31 +0900",
-      "isoDate": "2026-06-05T02:45:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "国内上場企業WIZE、SBI VCトレードと提携　ソラナ・トレジャリー事業を強化",
-      "link": "https://coinpost.jp/?p=714658",
-      "published": "Fri, 05 Jun 2026 11:30:47 +0900",
-      "isoDate": "2026-06-05T02:30:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジーキャッシュに無制限偽造の脆弱性、AIが発見し緊急修正完了",
-      "link": "https://coinpost.jp/?p=714673",
-      "published": "Fri, 05 Jun 2026 11:14:05 +0900",
-      "isoDate": "2026-06-05T02:14:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビザとBrale、カントンネットワークでステーブルコイン決済PoCに着手",
-      "link": "https://coinpost.jp/?p=714540",
-      "published": "Fri, 05 Jun 2026 10:15:30 +0900",
-      "isoDate": "2026-06-05T01:15:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "南アフリカ高裁、ビットコインは「資金かつ資本」と判断　外為規制の適用認める",
-      "link": "https://coinpost.jp/?p=714585",
-      "published": "Fri, 05 Jun 2026 09:56:40 +0900",
-      "isoDate": "2026-06-05T00:56:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マイケル・セイラー「ビットコイン急落の原因は資本ローテーション」　市場の見通しは？",
-      "link": "https://coinpost.jp/?p=714538",
-      "published": "Fri, 05 Jun 2026 08:40:23 +0900",
-      "isoDate": "2026-06-04T23:40:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "6億円相当の仮想通貨を凍結、詐欺の官民連携による阻止にアップルやグーグルなどが参加",
-      "link": "https://coinpost.jp/?p=714547",
-      "published": "Fri, 05 Jun 2026 07:45:58 +0900",
-      "isoDate": "2026-06-04T22:45:58Z"
-    }
-  ]
+  "btc_items": []
 }
