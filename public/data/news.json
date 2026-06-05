@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-05T13:53:53Z",
-  "last_checked": "2026-06-05T13:53:53Z",
+  "updated": "2026-06-05T16:31:28Z",
+  "last_checked": "2026-06-05T16:31:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562907",
+      "published": "2026-06-05 15:04:58",
+      "isoDate": "2026-06-05T15:04:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト取締役のリード・ホフマン氏、2026年株主総会をもって退任へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1562890",
+      "published": "2026-06-05 14:39:07",
+      "isoDate": "2026-06-05T14:39:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】米5月雇用統計はポジティブサプライズ、年利上げ織り込みドル反発",
+      "link": "https://jp.investing.com/news/forex-news/article-1562853",
+      "published": "2026-06-05 14:00:06",
+      "isoDate": "2026-06-05T14:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "TSX先物、米雇用統計の強い結果と中東緊張を受け下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1562796",
       "published": "2026-06-05 13:24:10",
@@ -90,17 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "プラネット・ラボス、最大15億ドルの株式募集を申請",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1562603",
-      "published": "2026-06-05 11:51:07",
-      "isoDate": "2026-06-05T11:51:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルのWWDC、最注目ポイントはSiriの刷新とエージェントAI——シティ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562595",
-      "published": "2026-06-05 11:41:23",
-      "isoDate": "2026-06-05T11:41:23Z"
+      "title": "マイクロンテクノロジー株が本日下落した理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562608",
+      "published": "2026-06-05 11:57:29",
+      "isoDate": "2026-06-05T11:57:29Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1562440",
       "published": "2026-06-05 10:03:58",
       "isoDate": "2026-06-05T10:03:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "JPモルガン・チェース・アンド・カンパニー、テスラを格上げ――ロボタクシーとオプティマスの潜在力を評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562402",
-      "published": "2026-06-05 09:45:22",
-      "isoDate": "2026-06-05T09:45:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ヒズボラがイスラエル・レバノン停戦を拒否、NFP発表を前に市場が動揺",
-      "link": "https://jp.investing.com/news/economy-news/article-1562327",
-      "published": "2026-06-05 08:20:08",
-      "isoDate": "2026-06-05T08:20:08Z"
     },
     {
       "source": "Investing.com 外為",
