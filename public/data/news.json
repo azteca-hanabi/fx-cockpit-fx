@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-05T10:51:04Z",
-  "last_checked": "2026-06-05T10:51:04Z",
+  "updated": "2026-06-05T13:53:53Z",
+  "last_checked": "2026-06-05T13:53:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トルコストリームのガス供給、メンテナンスのため欧州向けに停止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1562829",
+      "published": "2026-06-05 13:40:44",
+      "isoDate": "2026-06-05T13:40:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス価格、中東緊張継続の中で小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1562814",
+      "published": "2026-06-05 13:34:06",
+      "isoDate": "2026-06-05T13:34:06Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、イラン緊張継続で下落――米雇用統計に注目",
@@ -50,43 +64,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1561097",
       "published": "2026-06-04 10:59:07",
       "isoDate": "2026-06-04T10:59:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、イスラエル・レバノン停戦後も上昇継続―米雇用統計に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1560575",
-      "published": "2026-06-04 02:34:40",
-      "isoDate": "2026-06-04T02:34:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イスラエルとレバノンが停戦合意、原油価格は下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1560491",
-      "published": "2026-06-04 00:18:19",
-      "isoDate": "2026-06-04T00:18:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "カタール供給途絶後、シンガポールがLNG代替調達を確保",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1560068",
-      "published": "2026-06-03 18:02:19",
-      "isoDate": "2026-06-03T18:02:19Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物、米雇用統計の強い結果と中東緊張を受け下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1562796",
+      "published": "2026-06-05 13:24:10",
+      "isoDate": "2026-06-05T13:24:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア、Vera Rubin向けHBM4供給でサムスン・SKハイニックス・マイクロンテクノロジーを認定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1562747",
+      "published": "2026-06-05 13:00:01",
+      "isoDate": "2026-06-05T13:00:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日立とインテルがAI推進に向けた戦略的協業を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1562618",
+      "published": "2026-06-05 12:01:28",
+      "isoDate": "2026-06-05T12:01:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "プラネット・ラボス、最大15億ドルの株式募集を申請",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1562603",
+      "published": "2026-06-05 11:51:07",
+      "isoDate": "2026-06-05T11:51:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルのWWDC、最注目ポイントはSiriの刷新とエージェントAI——シティ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1562595",
+      "published": "2026-06-05 11:41:23",
+      "isoDate": "2026-06-05T11:41:23Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ブロードコムのAI見通しが失望を招き、欧州半導体株が続落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1562440",
       "published": "2026-06-05 10:03:58",
       "isoDate": "2026-06-05T10:03:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "セールスフォース、2026年・2027年FIFAワールドカップの公式トーナメントサポーターに",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1562423",
-      "published": "2026-06-05 10:02:12",
-      "isoDate": "2026-06-05T10:02:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,34 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米ハイテク株安を受けてAI関連株が売られ、一時66000円台割れ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1562316",
-      "published": "2026-06-05 08:00:18",
-      "isoDate": "2026-06-05T08:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続落、東エレクやアドバンテストが2銘柄で約762円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562305",
-      "published": "2026-06-05 07:45:26",
-      "isoDate": "2026-06-05T07:45:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中東緊張とAI関連株の一服で欧州株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562282",
-      "published": "2026-06-05 07:23:44",
-      "isoDate": "2026-06-05T07:23:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、AI・半導体関連株の利益確定売りが重し",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562256",
-      "published": "2026-06-05 07:00:18",
-      "isoDate": "2026-06-05T07:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1561550",
       "published": "2026-06-04 13:56:54",
@@ -148,7 +141,7 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入転換",
+      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入に転換",
       "link": "https://coinpost.jp/?p=714896",
       "published": "Fri, 05 Jun 2026 17:57:42 +0900",
       "isoDate": "2026-06-05T08:57:42Z"
