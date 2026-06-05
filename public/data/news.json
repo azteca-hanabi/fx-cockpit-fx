@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-05T16:31:28Z",
-  "last_checked": "2026-06-05T16:31:28Z",
+  "updated": "2026-06-05T18:59:18Z",
+  "last_checked": "2026-06-05T18:59:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの紛争終結後、米国が戦略石油備蓄に4000万バレルを追加へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563026",
+      "published": "2026-06-05 18:51:04",
+      "isoDate": "2026-06-05T18:51:04Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー企業、石油・ガス掘削リグを7週連続で増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563006",
+      "published": "2026-06-05 18:04:28",
+      "isoDate": "2026-06-05T18:04:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、在庫減少を受けて上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1562954",
+      "published": "2026-06-05 17:02:25",
+      "isoDate": "2026-06-05T17:02:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トルコストリームのガス供給、メンテナンスのため欧州向けに停止",
@@ -43,43 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561746",
       "published": "2026-06-04 18:07:21",
       "isoDate": "2026-06-04T18:07:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イスラエルとレバノンが停戦合意、欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1561470",
-      "published": "2026-06-04 13:13:40",
-      "isoDate": "2026-06-04T13:13:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "天然ガス価格、第3四半期も底堅く推移――2027年は供給過剰リスク：モルガン・スタンレー",
-      "link": "https://jp.investing.com/news/commodities-news/article-1561213",
-      "published": "2026-06-04 11:49:25",
-      "isoDate": "2026-06-04T11:49:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "シティ、米・イラン協議の停滞で原油価格が上昇基調と予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1561097",
-      "published": "2026-06-04 10:59:07",
-      "isoDate": "2026-06-04T10:59:07Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "5月雇用統計への反応：専門家・アナリストの見解まとめ",
+      "link": "https://jp.investing.com/news/economy-news/article-1563019",
+      "published": "2026-06-05 18:25:04",
+      "isoDate": "2026-06-05T18:25:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "エヌビディア株が本日下落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562907",
       "published": "2026-06-05 15:04:58",
       "isoDate": "2026-06-05T15:04:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフト取締役のリード・ホフマン氏、2026年株主総会をもって退任へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1562890",
-      "published": "2026-06-05 14:39:07",
-      "isoDate": "2026-06-05T14:39:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,7 +90,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "TSX先物、米雇用統計の強い結果と中東緊張を受け下落",
+      "title": "米雇用統計の堅調とイスラエル・イラン緊張でTSXが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1562796",
       "published": "2026-06-05 13:24:10",
       "isoDate": "2026-06-05T13:24:10Z"
@@ -101,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1562747",
       "published": "2026-06-05 13:00:01",
       "isoDate": "2026-06-05T13:00:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日立とインテルがAI推進に向けた戦略的協業を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1562618",
-      "published": "2026-06-05 12:01:28",
-      "isoDate": "2026-06-05T12:01:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1562440",
       "published": "2026-06-05 10:03:58",
       "isoDate": "2026-06-05T10:03:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ヒズボラがイスラエル・レバノン停戦を拒否、NFP発表を前に市場が動揺",
+      "link": "https://jp.investing.com/news/economy-news/article-1562327",
+      "published": "2026-06-05 08:20:08",
+      "isoDate": "2026-06-05T08:20:08Z"
     },
     {
       "source": "Investing.com 外為",
