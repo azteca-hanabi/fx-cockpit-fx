@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T11:37:21Z",
-  "last_checked": "2026-06-06T11:37:21Z",
+  "updated": "2026-06-06T13:53:51Z",
+  "last_checked": "2026-06-06T13:53:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ファイザー、月1回投与の肥満治療薬ベロベナタイドの第2b相試験結果を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1563335",
+      "published": "2026-06-06 13:01:08",
+      "isoDate": "2026-06-06T13:01:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が13%急落した理由と押し目買いの是非",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563322",
+      "published": "2026-06-06 11:06:31",
+      "isoDate": "2026-06-06T11:06:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、NvidiaのHBM4サプライヤーに認定",
       "link": "https://jp.investing.com/news/company-news/article-1563312",
       "published": "2026-06-06 09:26:37",
@@ -80,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563311",
       "published": "2026-06-06 09:00:04",
       "isoDate": "2026-06-06T09:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：AI・半導体関連株調整に伴う出遅れ銘柄への資金シフトに注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1563300",
-      "published": "2026-06-06 06:00:03",
-      "isoDate": "2026-06-06T06:00:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562907",
       "published": "2026-06-05 15:04:58",
       "isoDate": "2026-06-05T15:04:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、Vera Rubin向けHBM4供給でサムスン・SKハイニックス・マイクロンテクノロジーを認定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1562747",
-      "published": "2026-06-05 13:00:01",
-      "isoDate": "2026-06-05T13:00:01Z"
     },
     {
       "source": "Investing.com 外為",
