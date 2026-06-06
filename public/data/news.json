@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T16:40:55Z",
-  "last_checked": "2026-06-06T16:40:55Z",
+  "updated": "2026-06-06T18:10:54Z",
+  "last_checked": "2026-06-06T18:10:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Morgan Stanley、Meta PlatformsをAI勝者に変える4つの新興製品を指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563350",
+      "published": "2026-06-06 16:22:57",
+      "isoDate": "2026-06-06T16:22:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "シティグループ、AI好況で業績急増——S&P 500目標を8100に引き上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1563344",
       "published": "2026-06-06 14:58:23",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562907",
       "published": "2026-06-05 15:04:58",
       "isoDate": "2026-06-05T15:04:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落した理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1562608",
-      "published": "2026-06-05 11:57:29",
-      "isoDate": "2026-06-05T11:57:29Z"
     }
   ],
   "btc_items": [
