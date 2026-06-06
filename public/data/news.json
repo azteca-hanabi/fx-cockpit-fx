@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T19:54:14Z",
-  "last_checked": "2026-06-06T19:54:14Z",
+  "updated": "2026-06-06T21:09:14Z",
+  "last_checked": "2026-06-06T21:09:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イーライリリー・アンド・カンパニー、次世代肥満治療薬レタトルチドの第3相データを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563358",
+      "published": "2026-06-06 19:15:28",
+      "isoDate": "2026-06-06T19:15:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Morgan Stanley、Meta PlatformsをAI勝者に変える4つの新興製品を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1563350",
       "published": "2026-06-06 16:22:57",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563298",
       "published": "2026-06-06 05:45:04",
       "isoDate": "2026-06-06T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "5日の米国市場ダイジェスト：米国株式市場は下落、利上げを警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1563252",
-      "published": "2026-06-06 00:15:08",
-      "isoDate": "2026-06-06T00:15:08Z"
     },
     {
       "source": "Investing.com 外為",
