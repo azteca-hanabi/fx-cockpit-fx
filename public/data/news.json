@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T07:21:16Z",
-  "last_checked": "2026-06-06T07:21:16Z",
+  "updated": "2026-06-06T09:34:00Z",
+  "last_checked": "2026-06-06T09:34:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：中東情勢、米CPI、米スペースXの上場",
+      "link": "https://jp.investing.com/news/forex-news/article-1563311",
+      "published": "2026-06-06 09:00:04",
+      "isoDate": "2026-06-06T09:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：AI・半導体関連株調整に伴う出遅れ銘柄への資金シフトに注目",
       "link": "https://jp.investing.com/news/forex-news/article-1563300",
       "published": "2026-06-06 06:00:03",
@@ -78,13 +85,6 @@
       "source": "Investing.com 外為",
       "title": "米国株式市場見通し：需給懸念からAI・半導体関連株の本格反発には要時間",
       "link": "https://jp.investing.com/news/forex-news/article-1563298",
-      "published": "2026-06-06 05:45:04",
-      "isoDate": "2026-06-06T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "新興市場見通し：米スペースX上場で宇宙関連株の短期トレードが活発化も、プライム大型AI株が圧迫か",
-      "link": "https://jp.investing.com/news/forex-news/article-1563299",
       "published": "2026-06-06 05:45:04",
       "isoDate": "2026-06-06T05:45:04Z"
     },
@@ -138,5 +138,76 @@
       "isoDate": "2026-06-05T11:57:29Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "「ストラテジーと現物ETFがなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
+      "link": "https://coinpost.jp/?p=715035",
+      "published": "Sat, 06 Jun 2026 13:40:38 +0900",
+      "isoDate": "2026-06-06T04:40:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースXがxStocks初のトークン化IPO銘柄に、クラーケンで参加受付開始",
+      "link": "https://coinpost.jp/?p=714994",
+      "published": "Sat, 06 Jun 2026 11:45:51 +0900",
+      "isoDate": "2026-06-06T02:45:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引所で金銀や株式など伝統資産の先物が成長＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=715008",
+      "published": "Sat, 06 Jun 2026 10:50:35 +0900",
+      "isoDate": "2026-06-06T01:50:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米仮想通貨政策団体CCI、ヴォールト規制明確化連合を発足　ギャラクシーとモルフォが主導",
+      "link": "https://coinpost.jp/?p=714976",
+      "published": "Sat, 06 Jun 2026 09:45:40 +0900",
+      "isoDate": "2026-06-06T00:45:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "モルガン・スタンレーとギャラクシー、仮想通貨と現物ETFの交換スキームを発表",
+      "link": "https://coinpost.jp/?p=714975",
+      "published": "Sat, 06 Jun 2026 08:25:37 +0900",
+      "isoDate": "2026-06-05T23:25:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン年初来安値更新、米金利上昇と複合悪材料が重荷｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=714995",
+      "published": "Sat, 06 Jun 2026 07:15:55 +0900",
+      "isoDate": "2026-06-05T22:15:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米下院歳入委、仮想通貨課税の討議草案7本を公開　6月9日に公聴会",
+      "link": "https://coinpost.jp/?p=714973",
+      "published": "Sat, 06 Jun 2026 06:20:31 +0900",
+      "isoDate": "2026-06-05T21:20:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーのマイケル・セイラー会長「ビットコインは個人・企業・国家の資本」、4つのイデオロギーを提唱",
+      "link": "https://coinpost.jp/?p=714972",
+      "published": "Sat, 06 Jun 2026 06:05:29 +0900",
+      "isoDate": "2026-06-05T21:05:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール「ビットコイン底値形成には新たな買い手が必要」",
+      "link": "https://coinpost.jp/?p=714961",
+      "published": "Sat, 06 Jun 2026 05:00:31 +0900",
+      "isoDate": "2026-06-05T20:00:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入に転換",
+      "link": "https://coinpost.jp/?p=714896",
+      "published": "Fri, 05 Jun 2026 17:57:42 +0900",
+      "isoDate": "2026-06-05T08:57:42Z"
+    }
+  ]
 }
