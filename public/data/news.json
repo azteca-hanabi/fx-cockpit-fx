@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T09:34:00Z",
-  "last_checked": "2026-06-06T09:34:00Z",
+  "updated": "2026-06-06T11:37:21Z",
+  "last_checked": "2026-06-06T11:37:21Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、NvidiaのHBM4サプライヤーに認定",
+      "link": "https://jp.investing.com/news/company-news/article-1563312",
+      "published": "2026-06-06 09:26:37",
+      "isoDate": "2026-06-06T09:26:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：中東情勢、米CPI、米スペースXの上場",
       "link": "https://jp.investing.com/news/forex-news/article-1563311",
       "published": "2026-06-06 09:00:04",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563298",
       "published": "2026-06-06 05:45:04",
       "isoDate": "2026-06-06T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "為替週間見通し：ドルは伸び悩みか、米インフレ圧力も日本の介入なら急落に警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1563297",
-      "published": "2026-06-06 05:45:03",
-      "isoDate": "2026-06-06T05:45:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -141,7 +141,7 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "「ストラテジーと現物ETFがなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
+      "title": "「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
       "link": "https://coinpost.jp/?p=715035",
       "published": "Sat, 06 Jun 2026 13:40:38 +0900",
       "isoDate": "2026-06-06T04:40:38Z"
