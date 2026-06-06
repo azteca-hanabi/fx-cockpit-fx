@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-06T13:53:51Z",
-  "last_checked": "2026-06-06T13:53:51Z",
+  "updated": "2026-06-06T15:19:33Z",
+  "last_checked": "2026-06-06T15:19:33Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBS：金は短期的な逆風に直面するも、構造的要因が新高値を示唆",
+      "link": "https://jp.investing.com/news/commodities-news/article-1563342",
+      "published": "2026-06-06 14:32:20",
+      "isoDate": "2026-06-06T14:32:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "アラスカ野生生物保護区の石油リース入札、落札総額はわずか370万ドル",
@@ -57,22 +64,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1562111",
       "published": "2026-06-05 00:54:54",
       "isoDate": "2026-06-05T00:54:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、在庫減少にもかかわらず下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1561767",
-      "published": "2026-06-04 19:01:26",
-      "isoDate": "2026-06-04T19:01:26Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ファイザー、月1回投与の肥満治療薬ベロベナタイドの第2b相試験結果を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1563335",
-      "published": "2026-06-06 13:01:08",
-      "isoDate": "2026-06-06T13:01:08Z"
+      "title": "UBS：金は短期的な逆風に直面するも、構造的要因が新高値を示唆",
+      "link": "https://jp.investing.com/news/commodities-news/article-1563342",
+      "published": "2026-06-06 14:32:20",
+      "isoDate": "2026-06-06T14:32:20Z"
     },
     {
       "source": "Investing.com 外為",
