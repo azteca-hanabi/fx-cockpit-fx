@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T15:19:33Z",
-  "last_checked": "2026-06-06T15:19:33Z",
+  "updated": "2026-06-06T16:40:55Z",
+  "last_checked": "2026-06-06T16:40:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "シティグループ、AI好況で業績急増——S&P 500目標を8100に引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563344",
+      "published": "2026-06-06 14:58:23",
+      "isoDate": "2026-06-06T14:58:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "UBS：金は短期的な逆風に直面するも、構造的要因が新高値を示唆",
       "link": "https://jp.investing.com/news/commodities-news/article-1563342",
       "published": "2026-06-06 14:32:20",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563252",
       "published": "2026-06-06 00:15:08",
       "isoDate": "2026-06-06T00:15:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は下落、利上げを警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563236",
-      "published": "2026-06-05 23:45:06",
-      "isoDate": "2026-06-05T23:45:06Z"
     },
     {
       "source": "Investing.com 外為",
