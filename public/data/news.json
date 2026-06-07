@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T19:55:55Z",
-  "last_checked": "2026-06-07T19:55:55Z",
+  "updated": "2026-06-07T21:19:29Z",
+  "last_checked": "2026-06-07T21:19:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ワールドカップが株式市場に与える影響はどこまで続くか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563425",
+      "published": "2026-06-07 20:27:32",
+      "isoDate": "2026-06-07T20:27:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "シティのベアマーケット・チェックリスト：注目すべき18の指標",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563423",
+      "published": "2026-06-07 19:11:46",
+      "isoDate": "2026-06-07T19:11:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "KOSPIからの資金流出とウォン相場に関するUBSの見解",
       "link": "https://jp.investing.com/news/economy-news/article-1563420",
       "published": "2026-06-07 16:03:24",
@@ -80,13 +94,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1563419",
       "published": "2026-06-07 14:58:36",
       "isoDate": "2026-06-07T14:58:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "FIFAワールドカップ2026：ドイツ銀行が注目する最有望株を公開",
-      "link": "https://jp.investing.com/news/economy-news/article-1563416",
-      "published": "2026-06-07 14:11:33",
-      "isoDate": "2026-06-07T14:11:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1563389",
       "published": "2026-06-07 04:46:34",
       "isoDate": "2026-06-07T04:46:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー・アンド・カンパニー、次世代肥満治療薬レタトルチドの第3相データを発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563358",
-      "published": "2026-06-06 19:15:28",
-      "isoDate": "2026-06-06T19:15:28Z"
     },
     {
       "source": "Investing.com 外為",
