@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T11:11:24Z",
-  "last_checked": "2026-06-07T11:11:24Z",
+  "updated": "2026-06-07T13:05:41Z",
+  "last_checked": "2026-06-07T13:05:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UBSがハイパースケーラー株に強気を維持する理由、設備投資懸念にもかかわらず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563411",
+      "published": "2026-06-07 12:23:02",
+      "isoDate": "2026-06-07T12:23:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ビットコインが6万2000ドル超に回復、暗号資産市場が急落後に安定",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1563401",
       "published": "2026-06-07 09:03:57",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1563350",
       "published": "2026-06-06 16:22:57",
       "isoDate": "2026-06-06T16:22:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティグループ、AI好況で業績急増——S&P 500目標を8100に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563344",
-      "published": "2026-06-06 14:58:23",
-      "isoDate": "2026-06-06T14:58:23Z"
     },
     {
       "source": "Investing.com 外為",
