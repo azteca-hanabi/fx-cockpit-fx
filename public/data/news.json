@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T15:11:31Z",
-  "last_checked": "2026-06-07T15:11:31Z",
+  "updated": "2026-06-07T16:53:31Z",
+  "last_checked": "2026-06-07T16:53:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "KOSPIからの資金流出とウォン相場に関するUBSの見解",
+      "link": "https://jp.investing.com/news/economy-news/article-1563420",
+      "published": "2026-06-07 16:03:24",
+      "isoDate": "2026-06-07T16:03:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIはインフレと金利にどう影響するか？ウォーシュ氏の主張を検証",
       "link": "https://jp.investing.com/news/economy-news/article-1563419",
       "published": "2026-06-07 14:58:36",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1563411",
       "published": "2026-06-07 12:23:02",
       "isoDate": "2026-06-07T12:23:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインが6万2000ドル超に回復、暗号資産市場が急落後に安定",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1563401",
-      "published": "2026-06-07 09:03:57",
-      "isoDate": "2026-06-07T09:03:57Z"
     },
     {
       "source": "Investing.com 外為",
