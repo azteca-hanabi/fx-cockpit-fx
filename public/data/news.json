@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T22:37:32Z",
-  "last_checked": "2026-06-06T22:37:32Z",
+  "updated": "2026-06-07T00:08:50Z",
+  "last_checked": "2026-06-07T00:08:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックスが米ドルの見通しを分析",
+      "link": "https://jp.investing.com/news/forex-news/article-1563370",
+      "published": "2026-06-06 22:41:55",
+      "isoDate": "2026-06-06T22:41:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イーライリリー・アンド・カンパニー、次世代肥満治療薬レタトルチドの第3相データを発表",
       "link": "https://jp.investing.com/news/stock-market-news/article-1563358",
       "published": "2026-06-06 19:15:28",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563298",
       "published": "2026-06-06 05:45:04",
       "isoDate": "2026-06-06T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "5日の米国市場ダイジェスト：米国株式市場は下落、利上げを警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1563252",
-      "published": "2026-06-06 00:15:08",
-      "isoDate": "2026-06-06T00:15:08Z"
     },
     {
       "source": "Investing.com 外為",
