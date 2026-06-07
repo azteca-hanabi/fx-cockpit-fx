@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T05:08:42Z",
-  "last_checked": "2026-06-07T05:08:42Z",
+  "updated": "2026-06-07T08:35:59Z",
+  "last_checked": "2026-06-07T08:35:59Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "WaymoとテスラはAV競争でどこに立っているか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563396",
+      "published": "2026-06-07 07:21:22",
+      "isoDate": "2026-06-07T07:21:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国人民銀行、金購入を19カ月連続で継続",
+      "link": "https://jp.investing.com/news/economy-news/article-1563389",
+      "published": "2026-06-07 04:46:34",
+      "isoDate": "2026-06-07T04:46:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "韓国株の急騰に過熱感、投資家が防衛姿勢を強める",
       "link": "https://jp.investing.com/news/stock-market-news/article-1563384",
       "published": "2026-06-07 02:41:55",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1563350",
       "published": "2026-06-06 16:22:57",
       "isoDate": "2026-06-06T16:22:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティグループ、AI好況で業績急増——S&P 500目標を8100に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563344",
-      "published": "2026-06-06 14:58:23",
-      "isoDate": "2026-06-06T14:58:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1563311",
       "published": "2026-06-06 09:00:04",
       "isoDate": "2026-06-06T09:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：需給懸念からAI・半導体関連株の本格反発には要時間",
-      "link": "https://jp.investing.com/news/forex-news/article-1563298",
-      "published": "2026-06-06 05:45:04",
-      "isoDate": "2026-06-06T05:45:04Z"
     },
     {
       "source": "Investing.com 外為",
