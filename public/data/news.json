@@ -1,17 +1,38 @@
 {
-  "updated": "2026-06-08T10:05:41Z",
-  "last_checked": "2026-06-08T10:05:41Z",
+  "updated": "2026-06-08T14:35:29Z",
+  "last_checked": "2026-06-08T14:35:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、FRB利上げ懸念と原油高で11週ぶり安値に下落",
+      "title": "イスラエルとイランが攻撃を停止、欧州天然ガス価格は上昇幅を縮小",
+      "link": "https://jp.investing.com/news/commodities-news/article-1564450",
+      "published": "2026-06-08 14:08:55",
+      "isoDate": "2026-06-08T14:08:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドは今後数ヶ月で石油・ガス価格が下落すると予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563868",
+      "published": "2026-06-08 10:22:11",
+      "isoDate": "2026-06-08T10:22:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金が再び上昇するために必要な3つの触媒",
+      "link": "https://jp.investing.com/news/commodities-news/article-1563822",
+      "published": "2026-06-08 10:02:51",
+      "isoDate": "2026-06-08T10:02:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が上昇転換、原油高の一服でインフレ懸念が後退",
       "link": "https://jp.investing.com/news/commodities-news/article-1563506",
       "published": "2026-06-08 03:20:43",
       "isoDate": "2026-06-08T03:20:43Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イスラエルがイランの石油化学プラントを攻撃、原油価格が5%急騰",
+      "title": "イランとイスラエルが攻撃を停止、原油価格は上昇幅を縮小",
       "link": "https://jp.investing.com/news/commodities-news/article-1563450",
       "published": "2026-06-07 23:59:23",
       "isoDate": "2026-06-07T23:59:23Z"
@@ -50,185 +71,79 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1562954",
       "published": "2026-06-05 17:02:25",
       "isoDate": "2026-06-05T17:02:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トルコストリームのガス供給、メンテナンスのため欧州向けに停止",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1562829",
-      "published": "2026-06-05 13:40:44",
-      "isoDate": "2026-06-05T13:40:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格、中東緊張継続の中で小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1562814",
-      "published": "2026-06-05 13:34:06",
-      "isoDate": "2026-06-05T13:34:06Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はじり安、夕方にかけて下落",
-      "link": "https://jp.investing.com/news/forex-news/article-1563743",
-      "published": "2026-06-08 08:45:11",
-      "isoDate": "2026-06-08T08:45:11Z"
+      "title": "SOX調整後に買うべきチップ株3銘柄：シティ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564446",
+      "published": "2026-06-08 14:08:22",
+      "isoDate": "2026-06-08T14:08:22Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "中東での新たな攻撃とアップルの開発者会議——市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1563724",
-      "published": "2026-06-08 08:23:37",
-      "isoDate": "2026-06-08T08:23:37Z"
+      "title": "グーグル、2028年生産向けにインテルからAIチップ300万個超を発注",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564395",
+      "published": "2026-06-08 13:41:44",
+      "isoDate": "2026-06-08T13:41:44Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続落、東エレクとアドバンテの2銘柄で約814円押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563675",
-      "published": "2026-06-08 07:45:15",
-      "isoDate": "2026-06-08T07:45:15Z"
+      "title": "イランがイスラエルへの攻撃停止を発表、TSX先物が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564363",
+      "published": "2026-06-08 13:18:08",
+      "isoDate": "2026-06-08T13:18:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコムの決算不振が欧州半導体株の下落を加速",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563678",
-      "published": "2026-06-08 07:44:34",
-      "isoDate": "2026-06-08T07:44:34Z"
+      "title": "エヌビディアCEO、半導体株の売りは買い場と主張",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564359",
+      "published": "2026-06-08 13:16:49",
+      "isoDate": "2026-06-08T13:16:49Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンクG、キオクシアHD、巴工業など",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563662",
-      "published": "2026-06-08 07:30:14",
-      "isoDate": "2026-06-08T07:30:14Z"
+      "title": "コーニング株が10%急騰、アマゾンと数十億ドル規模の契約締結",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564240",
+      "published": "2026-06-08 12:41:05",
+      "isoDate": "2026-06-08T12:41:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランとイスラエルの攻撃とAI懸念で欧州株式市場が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563653",
-      "published": "2026-06-08 07:19:19",
-      "isoDate": "2026-06-08T07:19:19Z"
+      "title": "ダウ・ナスダック・S&P500週間展望：SpaceXの史上最大IPOに市場が身構える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564247",
+      "published": "2026-06-08 12:26:19",
+      "isoDate": "2026-06-08T12:26:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強い雇用市場を受け、ゴールドマン・サックスがFRBの利下げ予測を2027年に先送り",
-      "link": "https://jp.investing.com/news/economy-news/article-1563630",
-      "published": "2026-06-08 06:57:24",
-      "isoDate": "2026-06-08T06:57:24Z"
+      "title": "ブロードコムとマイクロンテクノロジーが時間外取引で上昇、レナーは小幅安",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564171",
+      "published": "2026-06-08 12:17:33",
+      "isoDate": "2026-06-08T12:17:33Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "韓国ネイバー、エヌビディアとのAIパートナーシップ発表で急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563551",
-      "published": "2026-06-08 05:27:41",
-      "isoDate": "2026-06-08T05:27:41Z"
+      "title": "サンディスクの株価目標が引き上げ、NAND価格動向が堅調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564079",
+      "published": "2026-06-08 11:43:13",
+      "isoDate": "2026-06-08T11:43:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシア---大幅反落、米SOX指数が10％超の下落で半導体株に売り",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563468",
-      "published": "2026-06-08 01:15:07",
-      "isoDate": "2026-06-08T01:15:07Z"
+      "title": "ヘッジファンド、急落前に株式を大量購入",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563889",
+      "published": "2026-06-08 10:34:47",
+      "isoDate": "2026-06-08T10:34:47Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "韓国KOSPIが急落、半導体売りが加速しサーキットブレーカー発動",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563466",
-      "published": "2026-06-08 00:56:54",
-      "isoDate": "2026-06-08T00:56:54Z"
+      "title": "金が再び上昇するために必要な3つの触媒",
+      "link": "https://jp.investing.com/news/commodities-news/article-1563822",
+      "published": "2026-06-08 10:02:51",
+      "isoDate": "2026-06-08T10:02:51Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズCEO、長期投資家に提言　短期価格でなく年単位の本質注視を",
-      "link": "https://coinpost.jp/?p=715254",
-      "published": "Mon, 08 Jun 2026 14:39:30 +0900",
-      "isoDate": "2026-06-08T05:39:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインチェック、仮想通貨売買を組み込む「CaaS」開始　メルカリに導入",
-      "link": "https://coinpost.jp/?p=715098",
-      "published": "Mon, 08 Jun 2026 13:35:54 +0900",
-      "isoDate": "2026-06-08T04:35:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの米ドル準備金積み増しが市場の信頼性回復の鍵になる可能性＝JPモルガン",
-      "link": "https://coinpost.jp/?p=715152",
-      "published": "Mon, 08 Jun 2026 13:05:02 +0900",
-      "isoDate": "2026-06-08T04:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AI競合・大型IPO・量子リスクなど　ビットコインを圧迫する5つの逆風＝NYDIG",
-      "link": "https://coinpost.jp/?p=715141",
-      "published": "Mon, 08 Jun 2026 10:58:20 +0900",
-      "isoDate": "2026-06-08T01:58:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調",
-      "link": "https://coinpost.jp/?p=715071",
-      "published": "Mon, 08 Jun 2026 10:15:37 +0900",
-      "isoDate": "2026-06-08T01:15:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン調整局面の実現損失、累計1740億ドルに　前回超えには至らず＝アナリスト",
-      "link": "https://coinpost.jp/?p=715087",
-      "published": "Mon, 08 Jun 2026 09:35:02 +0900",
-      "isoDate": "2026-06-08T00:35:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
-      "link": "https://coinpost.jp/?p=715063",
-      "published": "Mon, 08 Jun 2026 08:35:00 +0900",
-      "isoDate": "2026-06-07T23:35:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=714840",
-      "published": "Sun, 07 Jun 2026 11:30:57 +0900",
-      "isoDate": "2026-06-07T02:30:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ",
-      "link": "https://coinpost.jp/?p=714736",
-      "published": "Sun, 07 Jun 2026 09:25:16 +0900",
-      "isoDate": "2026-06-07T00:25:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
-      "link": "https://coinpost.jp/?p=715035",
-      "published": "Sat, 06 Jun 2026 13:40:38 +0900",
-      "isoDate": "2026-06-06T04:40:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースXがxStocks初のトークン化IPO銘柄に、クラーケンで参加受付開始",
-      "link": "https://coinpost.jp/?p=714994",
-      "published": "Sat, 06 Jun 2026 11:45:51 +0900",
-      "isoDate": "2026-06-06T02:45:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引所で金銀や株式など伝統資産の先物が成長＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=715008",
-      "published": "Sat, 06 Jun 2026 10:50:35 +0900",
-      "isoDate": "2026-06-06T01:50:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米仮想通貨政策団体CCI、ヴォールト規制明確化連合を発足　ギャラクシーとモルフォが主導",
-      "link": "https://coinpost.jp/?p=714976",
-      "published": "Sat, 06 Jun 2026 09:45:40 +0900",
-      "isoDate": "2026-06-06T00:45:40Z"
-    }
-  ]
+  "btc_items": []
 }
