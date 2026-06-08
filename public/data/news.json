@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T20:29:11Z",
-  "last_checked": "2026-06-08T20:29:11Z",
+  "updated": "2026-06-08T22:12:32Z",
+  "last_checked": "2026-06-08T22:12:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アップル、AIフレームワークとエージェント型コーディングツール搭載のXcode 27を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1564886",
+      "published": "2026-06-08 21:01:07",
+      "isoDate": "2026-06-08T21:01:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ケイデンス、インテルファウンドリとの協業を拡大し14Aプロセス最適化へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1564793",
+      "published": "2026-06-08 20:16:21",
+      "isoDate": "2026-06-08T20:16:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "6月8日のNY為替概況",
       "link": "https://jp.investing.com/news/forex-news/article-1564708",
       "published": "2026-06-08 19:15:05",
@@ -59,13 +73,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1564446",
       "published": "2026-06-08 14:08:22",
       "isoDate": "2026-06-08T14:08:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グーグル、2028年生産向けにインテルからAIチップ300万個超を発注",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564395",
-      "published": "2026-06-08 13:41:44",
-      "isoDate": "2026-06-08T13:41:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,16 +115,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1563889",
       "published": "2026-06-08 10:34:47",
       "isoDate": "2026-06-08T10:34:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金が再び上昇するために必要な3つの触媒",
-      "link": "https://jp.investing.com/news/commodities-news/article-1563822",
-      "published": "2026-06-08 10:02:51",
-      "isoDate": "2026-06-08T10:02:51Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コインベース幹部「機関投資家はビットコイン6.5万ドルの安値を歓迎」",
+      "link": "https://coinpost.jp/?p=715481",
+      "published": "Tue, 09 Jun 2026 06:30:33 +0900",
+      "isoDate": "2026-06-08T21:30:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースやリップル含む200超の業界団体、クラリティー法案の上院本会議採決を催促",
+      "link": "https://coinpost.jp/?p=715482",
+      "published": "Tue, 09 Jun 2026 05:55:34 +0900",
+      "isoDate": "2026-06-08T20:55:34Z"
+    },
     {
       "source": "CoinPost",
       "title": "【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し",
@@ -194,27 +208,6 @@
       "link": "https://coinpost.jp/?p=715035",
       "published": "Sat, 06 Jun 2026 13:40:38 +0900",
       "isoDate": "2026-06-06T04:40:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースXがxStocks初のトークン化IPO銘柄に、クラーケンで参加受付開始",
-      "link": "https://coinpost.jp/?p=714994",
-      "published": "Sat, 06 Jun 2026 11:45:51 +0900",
-      "isoDate": "2026-06-06T02:45:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引所で金銀や株式など伝統資産の先物が成長＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=715008",
-      "published": "Sat, 06 Jun 2026 10:50:35 +0900",
-      "isoDate": "2026-06-06T01:50:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米仮想通貨政策団体CCI、ヴォールト規制明確化連合を発足　ギャラクシーとモルフォが主導",
-      "link": "https://coinpost.jp/?p=714976",
-      "published": "Sat, 06 Jun 2026 09:45:40 +0900",
-      "isoDate": "2026-06-06T00:45:40Z"
     }
   ]
 }
