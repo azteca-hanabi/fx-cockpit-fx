@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T17:59:11Z",
-  "last_checked": "2026-06-08T17:59:11Z",
+  "updated": "2026-06-08T20:29:11Z",
+  "last_checked": "2026-06-08T20:29:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -43,30 +43,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1563342",
       "published": "2026-06-06 14:32:20",
       "isoDate": "2026-06-06T14:32:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アラスカ野生生物保護区の石油リース入札、落札総額はわずか370万ドル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563036",
-      "published": "2026-06-05 19:12:47",
-      "isoDate": "2026-06-05T19:12:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランとの紛争終結後、米国が戦略石油備蓄に4000万バレルを追加へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563026",
-      "published": "2026-06-05 18:51:04",
-      "isoDate": "2026-06-05T18:51:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米エネルギー企業、石油・ガス掘削リグを7週連続で増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563006",
-      "published": "2026-06-05 18:04:28",
-      "isoDate": "2026-06-05T18:04:28Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "6月8日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1564708",
+      "published": "2026-06-08 19:15:05",
+      "isoDate": "2026-06-08T19:15:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SOX調整後に買うべきチップ株3銘柄：シティ",
@@ -94,13 +80,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1564359",
       "published": "2026-06-08 13:16:49",
       "isoDate": "2026-06-08T13:16:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コーニング株が10%急騰、アマゾンと数十億ドル規模の契約締結",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564240",
-      "published": "2026-06-08 12:41:05",
-      "isoDate": "2026-06-08T12:41:05Z"
     },
     {
       "source": "Investing.com 外為",
