@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T22:12:32Z",
-  "last_checked": "2026-06-08T22:12:32Z",
+  "updated": "2026-06-08T23:47:33Z",
+  "last_checked": "2026-06-08T23:47:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,31 +48,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、ハイテクが支える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565000",
+      "published": "2026-06-08 23:00:08",
+      "isoDate": "2026-06-08T23:00:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "8日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが支える",
+      "link": "https://jp.investing.com/news/forex-news/article-1564989",
+      "published": "2026-06-08 22:45:06",
+      "isoDate": "2026-06-08T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアCEOが推奨、クアルコム株が時間外取引で2%上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1564955",
+      "published": "2026-06-08 22:03:18",
+      "isoDate": "2026-06-08T22:03:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは80.77ドル安、ハイテクが支える",
+      "link": "https://jp.investing.com/news/forex-news/article-1564933",
+      "published": "2026-06-08 21:45:05",
+      "isoDate": "2026-06-08T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アップル、AIフレームワークとエージェント型コーディングツール搭載のXcode 27を発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1564886",
       "published": "2026-06-08 21:01:07",
       "isoDate": "2026-06-08T21:01:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ケイデンス、インテルファウンドリとの協業を拡大し14Aプロセス最適化へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1564793",
-      "published": "2026-06-08 20:16:21",
-      "isoDate": "2026-06-08T20:16:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "6月8日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1564708",
-      "published": "2026-06-08 19:15:05",
-      "isoDate": "2026-06-08T19:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SOX調整後に買うべきチップ株3銘柄：シティ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564446",
-      "published": "2026-06-08 14:08:22",
-      "isoDate": "2026-06-08T14:08:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,16 +115,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1564079",
       "published": "2026-06-08 11:43:13",
       "isoDate": "2026-06-08T11:43:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ヘッジファンド、急落前に株式を大量購入",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563889",
-      "published": "2026-06-08 10:34:47",
-      "isoDate": "2026-06-08T10:34:47Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインは6万ドルの水準を維持できるか、コインシェアーズが分析レポート公開",
+      "link": "https://coinpost.jp/?p=715498",
+      "published": "Tue, 09 Jun 2026 08:20:58 +0900",
+      "isoDate": "2026-06-08T23:20:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "コインベース幹部「機関投資家はビットコイン6.5万ドルの安値を歓迎」",
@@ -194,20 +201,6 @@
       "link": "https://coinpost.jp/?p=714840",
       "published": "Sun, 07 Jun 2026 11:30:57 +0900",
       "isoDate": "2026-06-07T02:30:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ",
-      "link": "https://coinpost.jp/?p=714736",
-      "published": "Sun, 07 Jun 2026 09:25:16 +0900",
-      "isoDate": "2026-06-07T00:25:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
-      "link": "https://coinpost.jp/?p=715035",
-      "published": "Sat, 06 Jun 2026 13:40:38 +0900",
-      "isoDate": "2026-06-06T04:40:38Z"
     }
   ]
 }
