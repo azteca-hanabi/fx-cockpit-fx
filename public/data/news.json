@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-08T14:35:29Z",
-  "last_checked": "2026-06-08T14:35:29Z",
+  "updated": "2026-06-08T17:59:11Z",
+  "last_checked": "2026-06-08T17:59:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -64,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1563006",
       "published": "2026-06-05 18:04:28",
       "isoDate": "2026-06-05T18:04:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、在庫減少を受けて上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1562954",
-      "published": "2026-06-05 17:02:25",
-      "isoDate": "2026-06-05T17:02:25Z"
     }
   ],
   "usdjpy_items": [
@@ -90,7 +83,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランがイスラエルへの攻撃停止を発表、TSX先物が上昇",
+      "title": "イランとイスラエルが攻撃を停止、TSXが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1564363",
       "published": "2026-06-08 13:18:08",
       "isoDate": "2026-06-08T13:18:08Z"
@@ -145,5 +138,104 @@
       "isoDate": "2026-06-08T10:02:51Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "【速報】ストラテジーが1550BTCを追加購入、32BTC売却後初のビットコイン買い戻し",
+      "link": "https://coinpost.jp/?p=715449",
+      "published": "Mon, 08 Jun 2026 21:10:40 +0900",
+      "isoDate": "2026-06-08T12:10:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズCEO、長期投資家に提言　短期価格でなく年単位の本質注視を",
+      "link": "https://coinpost.jp/?p=715254",
+      "published": "Mon, 08 Jun 2026 14:39:30 +0900",
+      "isoDate": "2026-06-08T05:39:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインチェック、仮想通貨売買を組み込む「CaaS」開始　メルカリに導入",
+      "link": "https://coinpost.jp/?p=715098",
+      "published": "Mon, 08 Jun 2026 13:35:54 +0900",
+      "isoDate": "2026-06-08T04:35:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの米ドル準備金積み増しが市場の信頼性回復の鍵になる可能性＝JPモルガン",
+      "link": "https://coinpost.jp/?p=715152",
+      "published": "Mon, 08 Jun 2026 13:05:02 +0900",
+      "isoDate": "2026-06-08T04:05:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AI競合・大型IPO・量子リスクなど　ビットコインを圧迫する5つの逆風＝NYDIG",
+      "link": "https://coinpost.jp/?p=715141",
+      "published": "Mon, 08 Jun 2026 10:58:20 +0900",
+      "isoDate": "2026-06-08T01:58:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調",
+      "link": "https://coinpost.jp/?p=715071",
+      "published": "Mon, 08 Jun 2026 10:15:37 +0900",
+      "isoDate": "2026-06-08T01:15:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン調整局面の実現損失、累計1740億ドルに　前回超えには至らず＝アナリスト",
+      "link": "https://coinpost.jp/?p=715087",
+      "published": "Mon, 08 Jun 2026 09:35:02 +0900",
+      "isoDate": "2026-06-08T00:35:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
+      "link": "https://coinpost.jp/?p=715063",
+      "published": "Mon, 08 Jun 2026 08:35:00 +0900",
+      "isoDate": "2026-06-07T23:35:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=714840",
+      "published": "Sun, 07 Jun 2026 11:30:57 +0900",
+      "isoDate": "2026-06-07T02:30:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（6/5）｜ストラテジーのBTC売却・個人マイナーのBTC採掘成功・ETH分析の動向まとめ",
+      "link": "https://coinpost.jp/?p=714736",
+      "published": "Sun, 07 Jun 2026 09:25:16 +0900",
+      "isoDate": "2026-06-07T00:25:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「ストラテジーと現物ETFの大量購入がなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論",
+      "link": "https://coinpost.jp/?p=715035",
+      "published": "Sat, 06 Jun 2026 13:40:38 +0900",
+      "isoDate": "2026-06-06T04:40:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースXがxStocks初のトークン化IPO銘柄に、クラーケンで参加受付開始",
+      "link": "https://coinpost.jp/?p=714994",
+      "published": "Sat, 06 Jun 2026 11:45:51 +0900",
+      "isoDate": "2026-06-06T02:45:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引所で金銀や株式など伝統資産の先物が成長＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=715008",
+      "published": "Sat, 06 Jun 2026 10:50:35 +0900",
+      "isoDate": "2026-06-06T01:50:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米仮想通貨政策団体CCI、ヴォールト規制明確化連合を発足　ギャラクシーとモルフォが主導",
+      "link": "https://coinpost.jp/?p=714976",
+      "published": "Sat, 06 Jun 2026 09:45:40 +0900",
+      "isoDate": "2026-06-06T00:45:40Z"
+    }
+  ]
 }
