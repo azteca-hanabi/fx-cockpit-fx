@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-07T22:38:43Z",
-  "last_checked": "2026-06-07T22:38:43Z",
+  "updated": "2026-06-08T00:14:11Z",
+  "last_checked": "2026-06-08T00:14:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,31 +69,52 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ワールドカップが株式市場に与える影響はどこまで続くか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563425",
-      "published": "2026-06-07 20:27:32",
-      "isoDate": "2026-06-07T20:27:32Z"
+      "title": "テラスカイ、商船三井◆今日のフィスコ注目銘柄◆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563438",
+      "published": "2026-06-07 23:30:04",
+      "isoDate": "2026-06-07T23:30:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "シティのベアマーケット・チェックリスト：注目すべき18の指標",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563423",
-      "published": "2026-06-07 19:11:46",
-      "isoDate": "2026-06-07T19:11:46Z"
+      "title": "米ハイテク株の急落を映してリスクオフの展開へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563437",
+      "published": "2026-06-07 23:30:03",
+      "isoDate": "2026-06-07T23:30:03Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "KOSPIからの資金流出とウォン相場に関するUBSの見解",
-      "link": "https://jp.investing.com/news/economy-news/article-1563420",
-      "published": "2026-06-07 16:03:24",
-      "isoDate": "2026-06-07T16:03:24Z"
+      "title": "商船三井---上値抵抗の25日線を突破",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563433",
+      "published": "2026-06-07 23:15:04",
+      "isoDate": "2026-06-07T23:15:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIはインフレと金利にどう影響するか？ウォーシュ氏の主張を検証",
-      "link": "https://jp.investing.com/news/economy-news/article-1563419",
-      "published": "2026-06-07 14:58:36",
-      "isoDate": "2026-06-07T14:58:36Z"
+      "title": "東証グロース市場250指数先物見通し：売り一巡後に戻りを試す展開か",
+      "link": "https://jp.investing.com/news/forex-news/article-1563435",
+      "published": "2026-06-07 23:15:04",
+      "isoDate": "2026-06-07T23:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比3605円安の64025円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563432",
+      "published": "2026-06-07 23:15:03",
+      "isoDate": "2026-06-07T23:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NAVERがエヌビディアと提携、55メガワットのAIインフラ構築へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1563436",
+      "published": "2026-06-07 23:13:07",
+      "isoDate": "2026-06-07T23:13:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目イベント】米CPI、ECB定例理事会、加中銀、FOMCはブラックアウト期間など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1563430",
+      "published": "2026-06-07 22:45:02",
+      "isoDate": "2026-06-07T22:45:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,27 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "WaymoとテスラはAV競争でどこに立っているか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563396",
-      "published": "2026-06-07 07:21:22",
-      "isoDate": "2026-06-07T07:21:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国人民銀行、金購入を19カ月連続で継続",
-      "link": "https://jp.investing.com/news/economy-news/article-1563389",
-      "published": "2026-06-07 04:46:34",
-      "isoDate": "2026-06-07T04:46:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー・アンド・カンパニー、次世代肥満治療薬レタトルチドの第3相データを発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1563358",
-      "published": "2026-06-06 19:15:28",
-      "isoDate": "2026-06-06T19:15:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が13%急落した理由と押し目買いの是非",
       "link": "https://jp.investing.com/news/stock-market-news/article-1563322",
       "published": "2026-06-06 11:06:31",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
+      "link": "https://coinpost.jp/?p=715063",
+      "published": "Mon, 08 Jun 2026 08:35:00 +0900",
+      "isoDate": "2026-06-07T23:35:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄稿",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=714961",
       "published": "Sat, 06 Jun 2026 05:00:31 +0900",
       "isoDate": "2026-06-05T20:00:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコイン・イーサリアム現物ETF、同日に純流入に転換",
-      "link": "https://coinpost.jp/?p=714896",
-      "published": "Fri, 05 Jun 2026 17:57:42 +0900",
-      "isoDate": "2026-06-05T08:57:42Z"
     }
   ]
 }
