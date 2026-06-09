@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-08T23:47:33Z",
-  "last_checked": "2026-06-08T23:47:33Z",
+  "updated": "2026-06-09T03:58:54Z",
+  "last_checked": "2026-06-09T03:58:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、イスラエル・イラン停戦で11週ぶり安値付近で推移――米CPIに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1565100",
+      "published": "2026-06-09 01:47:08",
+      "isoDate": "2026-06-09T01:47:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "脆弱なイスラエル・イラン停戦でも原油安、ホルムズ封鎖続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1565055",
+      "published": "2026-06-09 00:17:45",
+      "isoDate": "2026-06-09T00:17:45Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イスラエルとイランが攻撃を停止、欧州天然ガス価格は上昇幅を縮小",
@@ -48,24 +62,59 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は動意薄、米株式先物はまちまち",
+      "link": "https://jp.investing.com/news/forex-news/article-1565138",
+      "published": "2026-06-09 03:00:15",
+      "isoDate": "2026-06-09T03:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、調整後の買戻し継続に期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1565135",
+      "published": "2026-06-09 03:00:14",
+      "isoDate": "2026-06-09T03:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は底堅い、日本株に追随",
+      "link": "https://jp.investing.com/news/forex-news/article-1565107",
+      "published": "2026-06-09 02:00:13",
+      "isoDate": "2026-06-09T02:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格、イスラエル・イラン停戦で11週ぶり安値付近で推移――米CPIに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1565100",
+      "published": "2026-06-09 01:47:08",
+      "isoDate": "2026-06-09T01:47:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イビデン---大幅反発、米インテルの株価急伸に連動高",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565072",
+      "published": "2026-06-09 01:00:11",
+      "isoDate": "2026-06-09T01:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京エレク---大幅反発、米SOX指数の急反発で半導体関連は総じて反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565064",
+      "published": "2026-06-09 00:45:09",
+      "isoDate": "2026-06-09T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が小幅下落、イスラエルとイランの緊張緩和と半導体株の反発に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565049",
+      "published": "2026-06-09 00:13:10",
+      "isoDate": "2026-06-09T00:13:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株式市場はまちまち、ハイテクが支える",
       "link": "https://jp.investing.com/news/stock-market-news/article-1565000",
       "published": "2026-06-08 23:00:08",
       "isoDate": "2026-06-08T23:00:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "8日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが支える",
-      "link": "https://jp.investing.com/news/forex-news/article-1564989",
-      "published": "2026-06-08 22:45:06",
-      "isoDate": "2026-06-08T22:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEOが推奨、クアルコム株が時間外取引で2%上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564955",
-      "published": "2026-06-08 22:03:18",
-      "isoDate": "2026-06-08T22:03:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -76,48 +125,48 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、AIフレームワークとエージェント型コーディングツール搭載のXcode 27を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1564886",
-      "published": "2026-06-08 21:01:07",
-      "isoDate": "2026-06-08T21:01:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "イランとイスラエルが攻撃を停止、TSXが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1564363",
       "published": "2026-06-08 13:18:08",
       "isoDate": "2026-06-08T13:18:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEO、半導体株の売りは買い場と主張",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564359",
-      "published": "2026-06-08 13:16:49",
-      "isoDate": "2026-06-08T13:16:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ダウ・ナスダック・S&P500週間展望：SpaceXの史上最大IPOに市場が身構える",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564247",
-      "published": "2026-06-08 12:26:19",
-      "isoDate": "2026-06-08T12:26:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブロードコムとマイクロンテクノロジーが時間外取引で上昇、レナーは小幅安",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564171",
-      "published": "2026-06-08 12:17:33",
-      "isoDate": "2026-06-08T12:17:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスクの株価目標が引き上げ、NAND価格動向が堅調",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564079",
-      "published": "2026-06-08 11:43:13",
-      "isoDate": "2026-06-08T11:43:13Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "アーサー・ヘイズ、AIバブルの崩壊シナリオを分析　HYPEなど4銘柄売却しBTC・ETHは保有継続",
+      "link": "https://coinpost.jp/?p=715556",
+      "published": "Tue, 09 Jun 2026 11:27:33 +0900",
+      "isoDate": "2026-06-09T02:27:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタマスク、AIエージェント向けウォレットをローンチ　イーサリアムなど25超のチェーンに対応",
+      "link": "https://coinpost.jp/?p=715559",
+      "published": "Tue, 09 Jun 2026 11:25:11 +0900",
+      "isoDate": "2026-06-09T02:25:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FTX前CEOサム氏、トランプ大統領に恩赦嘆願書を提出",
+      "link": "https://coinpost.jp/?p=715511",
+      "published": "Tue, 09 Jun 2026 11:00:49 +0900",
+      "isoDate": "2026-06-09T02:00:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン一時反発も失速、ストラテジー買い増しも現物市場は慎重姿勢｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=715477",
+      "published": "Tue, 09 Jun 2026 10:45:24 +0900",
+      "isoDate": "2026-06-09T01:45:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米投資銀行、ビットコインの「退屈サイクル」は価値保存論を損なわず",
+      "link": "https://coinpost.jp/?p=715478",
+      "published": "Tue, 09 Jun 2026 10:10:26 +0900",
+      "isoDate": "2026-06-09T01:10:26Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインは6万ドルの水準を維持できるか、コインシェアーズが分析レポート公開",
@@ -159,48 +208,6 @@
       "link": "https://coinpost.jp/?p=715098",
       "published": "Mon, 08 Jun 2026 13:35:54 +0900",
       "isoDate": "2026-06-08T04:35:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの米ドル準備金積み増しが市場の信頼性回復の鍵になる可能性＝JPモルガン",
-      "link": "https://coinpost.jp/?p=715152",
-      "published": "Mon, 08 Jun 2026 13:05:02 +0900",
-      "isoDate": "2026-06-08T04:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AI競合・大型IPO・量子リスクなど　ビットコインを圧迫する5つの逆風＝NYDIG",
-      "link": "https://coinpost.jp/?p=715141",
-      "published": "Mon, 08 Jun 2026 10:58:20 +0900",
-      "isoDate": "2026-06-08T01:58:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調",
-      "link": "https://coinpost.jp/?p=715071",
-      "published": "Mon, 08 Jun 2026 10:15:37 +0900",
-      "isoDate": "2026-06-08T01:15:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン調整局面の実現損失、累計1740億ドルに　前回超えには至らず＝アナリスト",
-      "link": "https://coinpost.jp/?p=715087",
-      "published": "Mon, 08 Jun 2026 09:35:02 +0900",
-      "isoDate": "2026-06-08T00:35:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
-      "link": "https://coinpost.jp/?p=715063",
-      "published": "Mon, 08 Jun 2026 08:35:00 +0900",
-      "isoDate": "2026-06-07T23:35:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1000万円台まで下落も底堅く推移、中東情勢改善とETF動向が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=714840",
-      "published": "Sun, 07 Jun 2026 11:30:57 +0900",
-      "isoDate": "2026-06-07T02:30:57Z"
     }
   ]
 }
