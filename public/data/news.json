@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-09T14:01:03Z",
-  "last_checked": "2026-06-09T14:01:03Z",
+  "updated": "2026-06-09T17:08:54Z",
+  "last_checked": "2026-06-09T17:08:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "世界の石油在庫、2003年以来の最低水準に向かう＝EIA",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1566424",
+      "published": "2026-06-09 16:53:14",
+      "isoDate": "2026-06-09T16:53:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドの船舶認証機関、制裁関連の235隻を登録抹消",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1566297",
+      "published": "2026-06-09 14:42:46",
+      "isoDate": "2026-06-09T14:42:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、船舶運賃の低下を受けて下落",
@@ -57,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1563822",
       "published": "2026-06-08 10:02:51",
       "isoDate": "2026-06-08T10:02:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が上昇転換、原油高の一服でインフレ懸念が後退",
-      "link": "https://jp.investing.com/news/commodities-news/article-1563506",
-      "published": "2026-06-08 03:20:43",
-      "isoDate": "2026-06-08T03:20:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランとイスラエルが攻撃を停止、原油価格は上昇幅を縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-1563450",
-      "published": "2026-06-07 23:59:23",
-      "isoDate": "2026-06-07T23:59:23Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アポロ、ブロードコムのAIインフラ向け350億ドル融資をリード",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1565978",
-      "published": "2026-06-09 13:04:23",
-      "isoDate": "2026-06-09T13:04:23Z"
+      "title": "NY外為：ドル指数は続落、NY原油先物88ドル割れ、DOE長官発言受け",
+      "link": "https://jp.investing.com/news/forex-news/article-1566382",
+      "published": "2026-06-09 15:45:06",
+      "isoDate": "2026-06-09T15:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウルフ・リサーチ、ハイパースケーラーの成長は過小評価と指摘し予測を上方修正",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1566302",
+      "published": "2026-06-09 14:43:38",
+      "isoDate": "2026-06-09T14:43:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,6 +94,13 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1565940",
       "published": "2026-06-09 13:02:14",
       "isoDate": "2026-06-09T13:02:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日急騰している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1565901",
+      "published": "2026-06-09 12:49:52",
+      "isoDate": "2026-06-09T12:49:52Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1565776",
       "published": "2026-06-09 12:09:39",
       "isoDate": "2026-06-09T12:09:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "プラネット、アストロスケール主導の大気再突入研究イニシアティブに参加",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1565751",
-      "published": "2026-06-09 12:05:14",
-      "isoDate": "2026-06-09T12:05:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾、中国向けAIチップ輸出規制を検討　TSMCの株価は上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1565530",
-      "published": "2026-06-09 10:37:14",
-      "isoDate": "2026-06-09T10:37:14Z"
     },
     {
       "source": "Investing.com 外為",
