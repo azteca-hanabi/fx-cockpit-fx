@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-09T17:08:54Z",
-  "last_checked": "2026-06-09T17:08:54Z",
+  "updated": "2026-06-09T19:34:14Z",
+  "last_checked": "2026-06-09T19:34:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル指数は続落、NY原油先物88ドル割れ、DOE長官発言受け",
-      "link": "https://jp.investing.com/news/forex-news/article-1566382",
-      "published": "2026-06-09 15:45:06",
-      "isoDate": "2026-06-09T15:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウルフ・リサーチ、ハイパースケーラーの成長は過小評価と指摘し予測を上方修正",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1566302",
-      "published": "2026-06-09 14:43:38",
-      "isoDate": "2026-06-09T14:43:38Z"
+      "title": "NY外為：ドル売り後退、原油価格が反発、米が対イラン反撃へ",
+      "link": "https://jp.investing.com/news/forex-news/article-1566438",
+      "published": "2026-06-09 17:15:06",
+      "isoDate": "2026-06-09T17:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1565776",
       "published": "2026-06-09 12:09:39",
       "isoDate": "2026-06-09T12:09:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "台湾、中国向けAIチップ輸出規制を検討　TSMCの株価は上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565530",
+      "published": "2026-06-09 10:37:14",
+      "isoDate": "2026-06-09T10:37:14Z"
     },
     {
       "source": "Investing.com 外為",
