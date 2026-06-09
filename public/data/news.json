@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-09T07:58:41Z",
-  "last_checked": "2026-06-09T07:58:41Z",
+  "updated": "2026-06-09T11:26:55Z",
+  "last_checked": "2026-06-09T11:26:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、イランとイスラエルの停戦で11週ぶり安値付近で推移―米CPIに注目",
+      "title": "シティ、リチウム価格の回復を予測――在庫補充と輸出需要が支援",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1565357",
+      "published": "2026-06-09 08:22:51",
+      "isoDate": "2026-06-09T08:22:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、原油安と米利上げ期待継続の中で安定推移",
       "link": "https://jp.investing.com/news/commodities-news/article-1565100",
       "published": "2026-06-09 01:47:08",
       "isoDate": "2026-06-09T01:47:08Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イスラエル・イラン停戦で原油価格下落、ホルムズ封鎖は継続",
+      "title": "イラン和平交渉への期待から原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1565055",
       "published": "2026-06-09 00:17:45",
       "isoDate": "2026-06-09T00:17:45Z"
@@ -62,6 +69,62 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "先週の売りで米国株のポジションが「改善」－シティ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565528",
+      "published": "2026-06-09 10:38:01",
+      "isoDate": "2026-06-09T10:38:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "台湾セミコンダクター、台湾が対中AI半導体輸出規制を検討し約1%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565530",
+      "published": "2026-06-09 10:37:14",
+      "isoDate": "2026-06-09T10:37:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円はじり安、欧州通貨は堅調",
+      "link": "https://jp.investing.com/news/forex-news/article-1565508",
+      "published": "2026-06-09 10:30:10",
+      "isoDate": "2026-06-09T10:30:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、「再び好調な四半期」をゴールドマン・サックスが予想",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565480",
+      "published": "2026-06-09 10:06:06",
+      "isoDate": "2026-06-09T10:06:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ノキア、インドサットと提携しインドネシア全土に5Gネットワークを展開",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1565449",
+      "published": "2026-06-09 10:00:08",
+      "isoDate": "2026-06-09T10:00:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "+43.7%、AIが選んだハードウェア株がAIスーパーサイクルを牽引",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565414",
+      "published": "2026-06-09 09:21:46",
+      "isoDate": "2026-06-09T09:21:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネビウス、エヌビディア技術を活用したロボティクス新興企業支援プログラムを開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1565342",
+      "published": "2026-06-09 07:55:10",
+      "isoDate": "2026-06-09T07:55:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "セクター急落後、欧州半導体株が安堵の反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1565329",
+      "published": "2026-06-09 07:54:01",
+      "isoDate": "2026-06-09T07:54:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イーライリリーとの提携合意でAlzeCure Pharmaの株価が301%急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1565280",
       "published": "2026-06-09 07:10:57",
@@ -73,62 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1565269",
       "published": "2026-06-09 07:00:19",
       "isoDate": "2026-06-09T07:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は1260円高、引き続き米経済指標に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1565227",
-      "published": "2026-06-09 06:00:21",
-      "isoDate": "2026-06-09T06:00:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国SKハイニックスとサムスン、AI株急落後に急反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1565200",
-      "published": "2026-06-09 04:42:30",
-      "isoDate": "2026-06-09T04:42:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、調整後の買戻し継続に期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1565135",
-      "published": "2026-06-09 03:00:14",
-      "isoDate": "2026-06-09T03:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イビデン---大幅反発、米インテルの株価急伸に連動高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1565072",
-      "published": "2026-06-09 01:00:11",
-      "isoDate": "2026-06-09T01:00:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは80.77ドル安、ハイテクが支える",
-      "link": "https://jp.investing.com/news/forex-news/article-1564933",
-      "published": "2026-06-08 21:45:05",
-      "isoDate": "2026-06-08T21:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランとイスラエルが攻撃を停止、TSXが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564363",
-      "published": "2026-06-08 13:18:08",
-      "isoDate": "2026-06-08T13:18:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブロードコムとマイクロンテクノロジーが時間外取引で上昇、レナーは小幅安",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1564171",
-      "published": "2026-06-08 12:17:33",
-      "isoDate": "2026-06-08T12:17:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金が再び上昇するために必要な3つの触媒",
-      "link": "https://jp.investing.com/news/commodities-news/article-1563822",
-      "published": "2026-06-08 10:02:51",
-      "isoDate": "2026-06-08T10:02:51Z"
     }
   ],
   "btc_items": [
