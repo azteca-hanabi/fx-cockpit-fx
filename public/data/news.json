@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-11T14:02:55Z",
-  "last_checked": "2026-06-11T14:02:55Z",
+  "updated": "2026-06-11T17:50:58Z",
+  "last_checked": "2026-06-11T17:50:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東原油指標、米イラン緊張激化で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569585",
+      "published": "2026-06-11 14:01:31",
+      "isoDate": "2026-06-11T14:01:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、米農務省の作物報告を前に横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569564",
+      "published": "2026-06-11 13:52:00",
+      "isoDate": "2026-06-11T13:52:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック乾貨物運賃指数、5月1日以来の最低水準に下落",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1568141",
       "published": "2026-06-10 17:13:28",
       "isoDate": "2026-06-10T17:13:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫、先週720万バレル減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1568023",
-      "published": "2026-06-10 14:54:11",
-      "isoDate": "2026-06-10T14:54:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPECの石油生産量、20年超ぶりの低水準に落ち込む",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1567998",
-      "published": "2026-06-10 14:37:36",
-      "isoDate": "2026-06-10T14:37:36Z"
     }
   ],
   "usdjpy_items": [
@@ -80,13 +80,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1569424",
       "published": "2026-06-11 13:03:11",
       "isoDate": "2026-06-11T13:03:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ServiceNow（Now）とインターナショナル・ビジネス・マシーンズ（IBM）、エンタープライズAI展開に向けパートナーシップを拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1569441",
-      "published": "2026-06-11 13:02:17",
-      "isoDate": "2026-06-11T13:02:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "Direxion半導体ブル3倍ETF（SOXL）が急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1569165",
+      "published": "2026-06-11 11:31:44",
+      "isoDate": "2026-06-11T11:31:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インテルとNavanが寄り前に急騰、Oracle Financial SoftwareはAI投資懸念で下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1569172",
       "published": "2026-06-11 11:24:10",
@@ -115,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1569090",
       "published": "2026-06-11 11:02:32",
       "isoDate": "2026-06-11T11:02:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "KKRがHelixを設立、AI インフラ構築に1兆円超の資本を確保",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1569071",
-      "published": "2026-06-11 10:51:17",
-      "isoDate": "2026-06-11T10:51:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,78 +136,14 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1568841",
       "published": "2026-06-11 09:10:25",
       "isoDate": "2026-06-11T09:10:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシア---大幅反発、国内証券では業績上方修正で目標株価引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1568644",
+      "published": "2026-06-11 04:30:21",
+      "isoDate": "2026-06-11T04:30:21Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨を金融商品に、金商法改正案が衆院委を通過",
-      "link": "https://coinpost.jp/?p=716398",
-      "published": "Thu, 11 Jun 2026 17:26:21 +0900",
-      "isoDate": "2026-06-11T08:26:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズCIO報告、投資顧問の関心はビットコインよりステーブルコインに",
-      "link": "https://coinpost.jp/?p=716344",
-      "published": "Thu, 11 Jun 2026 16:23:00 +0900",
-      "isoDate": "2026-06-11T07:23:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン市場は調整の後期段階か、需要枯渇が顕著＝グラスノード",
-      "link": "https://coinpost.jp/?p=716167",
-      "published": "Thu, 11 Jun 2026 13:10:23 +0900",
-      "isoDate": "2026-06-11T04:10:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "大阪取引所、ビットコイン先物を28年投入へ　ETF解禁に合わせ＝日経",
-      "link": "https://coinpost.jp/?p=716208",
-      "published": "Thu, 11 Jun 2026 11:57:06 +0900",
-      "isoDate": "2026-06-11T02:57:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップルやソラナ財団などと協業　マスターカード、AIエージェント決済向けの新サービス発表",
-      "link": "https://coinpost.jp/?p=716148",
-      "published": "Thu, 11 Jun 2026 11:02:44 +0900",
-      "isoDate": "2026-06-11T02:02:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の新規トークン調達、Q2は85％減　5年ぶり最低水準か＝CryptoRank",
-      "link": "https://coinpost.jp/?p=716156",
-      "published": "Thu, 11 Jun 2026 10:44:00 +0900",
-      "isoDate": "2026-06-11T01:44:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国政府がFTX押収のLINKトークンを売却か、1.2億円相当",
-      "link": "https://coinpost.jp/?p=716146",
-      "published": "Thu, 11 Jun 2026 10:25:10 +0900",
-      "isoDate": "2026-06-11T01:25:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、バリューゾーン入りも需要縮小で底値は未確定＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=716118",
-      "published": "Thu, 11 Jun 2026 09:30:09 +0900",
-      "isoDate": "2026-06-11T00:30:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップル社、XRPL上のAIエージェント決済向けの開発ツールをローンチ",
-      "link": "https://coinpost.jp/?p=716102",
-      "published": "Thu, 11 Jun 2026 08:30:42 +0900",
-      "isoDate": "2026-06-10T23:30:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「純購入者の立場は変わらない」ストラテジーCEO、ビットコイン売却の狙いを説明",
-      "link": "https://coinpost.jp/?p=716088",
-      "published": "Thu, 11 Jun 2026 08:10:46 +0900",
-      "isoDate": "2026-06-10T23:10:46Z"
-    }
-  ]
+  "btc_items": []
 }
