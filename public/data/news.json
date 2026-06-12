@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-12T20:36:21Z",
-  "last_checked": "2026-06-12T20:36:21Z",
+  "updated": "2026-06-12T22:27:24Z",
+  "last_checked": "2026-06-12T22:27:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,10 +83,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラ株が下落、投資家の関心はマスク氏の宝冠SpaceXへ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571184",
-      "published": "2026-06-12 17:00:48",
-      "isoDate": "2026-06-12T17:00:48Z"
+      "title": "SpaceXの上場で宇宙関連株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1571215",
+      "published": "2026-06-12 17:25:07",
+      "isoDate": "2026-06-12T17:25:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -138,5 +138,83 @@
       "isoDate": "2026-06-12T08:48:08Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "需要殺到でスペースXのIPO申込金を返金、バイナンス等仮想通貨3社",
+      "link": "https://coinpost.jp/?p=716932",
+      "published": "Sat, 13 Jun 2026 06:25:43 +0900",
+      "isoDate": "2026-06-12T21:25:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ",
+      "link": "https://coinpost.jp/?p=716849",
+      "published": "Fri, 12 Jun 2026 17:58:29 +0900",
+      "isoDate": "2026-06-12T08:58:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハンガリー、仮想通貨取引の非犯罪化へ　EU圧力を受け規制を撤回",
+      "link": "https://coinpost.jp/?p=716782",
+      "published": "Fri, 12 Jun 2026 16:27:48 +0900",
+      "isoDate": "2026-06-12T07:27:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨の金商法移管、衆院で可決　参院審議へ",
+      "link": "https://coinpost.jp/?p=716734",
+      "published": "Fri, 12 Jun 2026 15:17:17 +0900",
+      "isoDate": "2026-06-12T06:17:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明",
+      "link": "https://coinpost.jp/?p=716718",
+      "published": "Fri, 12 Jun 2026 13:47:17 +0900",
+      "isoDate": "2026-06-12T04:47:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーサリアム開発者、プライバシー送金機能の次期アップグレード「ヘゴタ」搭載を提案",
+      "link": "https://coinpost.jp/?p=716609",
+      "published": "Fri, 12 Jun 2026 13:45:44 +0900",
+      "isoDate": "2026-06-12T04:45:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国大手LG、アービトラム上で独自ブロックチェーンの展開を模索　日本の広告代理店と協業＝報道",
+      "link": "https://coinpost.jp/?p=716569",
+      "published": "Fri, 12 Jun 2026 13:15:31 +0900",
+      "isoDate": "2026-06-12T04:15:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米大手スタートアップ支援YCがクラリティー法支持　「全社が仮想通貨を使う」",
+      "link": "https://coinpost.jp/?p=716600",
+      "published": "Fri, 12 Jun 2026 11:04:43 +0900",
+      "isoDate": "2026-06-12T02:04:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米超党派議員、仮想通貨盗難対策を強化する法案提出　司法省内にタスクフォース設置目指す",
+      "link": "https://coinpost.jp/?p=716538",
+      "published": "Fri, 12 Jun 2026 10:15:06 +0900",
+      "isoDate": "2026-06-12T01:15:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "DAT企業ナカモト、600BTC売却で72億円債務返済",
+      "link": "https://coinpost.jp/?p=716513",
+      "published": "Fri, 12 Jun 2026 09:30:26 +0900",
+      "isoDate": "2026-06-12T00:30:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン分析、ビットコインの通貨価値切り下げトレード後退が加速",
+      "link": "https://coinpost.jp/?p=716514",
+      "published": "Fri, 12 Jun 2026 08:10:28 +0900",
+      "isoDate": "2026-06-11T23:10:28Z"
+    }
+  ]
 }
