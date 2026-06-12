@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-12T16:25:39Z",
-  "last_checked": "2026-06-12T16:25:39Z",
+  "updated": "2026-06-12T18:24:31Z",
+  "last_checked": "2026-06-12T18:24:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、原油価格下落にもかかわらず上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1571217",
+      "published": "2026-06-12 17:30:34",
+      "isoDate": "2026-06-12T17:30:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "MoevеがオファーをWTI Midland原油の価格差が低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1571209",
+      "published": "2026-06-12 17:19:03",
+      "isoDate": "2026-06-12T17:19:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの原油輸入量、4月は前月比3%増の2,008万トン",
@@ -50,23 +64,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569585",
       "published": "2026-06-11 14:01:31",
       "isoDate": "2026-06-11T14:01:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、米農務省の作物報告を前に横ばい",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569564",
-      "published": "2026-06-11 13:52:00",
-      "isoDate": "2026-06-11T13:52:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック乾貨物運賃指数、5月1日以来の最低水準に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569545",
-      "published": "2026-06-11 13:45:18",
-      "isoDate": "2026-06-11T13:45:18Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリストがSpaceXに異例の売り推奨、実行リスクを指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571220",
+      "published": "2026-06-12 17:31:50",
+      "isoDate": "2026-06-12T17:31:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ株が下落、投資家の関心はマスク氏の宝冠SpaceXへ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571184",
+      "published": "2026-06-12 17:00:48",
+      "isoDate": "2026-06-12T17:00:48Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SpaceXの株式、$155での寄り付きが示唆される",
@@ -90,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SEALSQがSpaceXと共同で量子セキュリティ衛星を2026年第4四半期に初打ち上げへ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1571036",
-      "published": "2026-06-12 14:01:12",
-      "isoDate": "2026-06-12T14:01:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceX株、1株163ドルで寄り付き見込み",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571038",
       "published": "2026-06-12 13:52:08",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1571024",
       "published": "2026-06-12 13:50:42",
       "isoDate": "2026-06-12T13:50:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、中国顧客にVera CPUを売り込み――8月納入目標",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1570695",
-      "published": "2026-06-12 11:12:50",
-      "isoDate": "2026-06-12T11:12:50Z"
     },
     {
       "source": "Investing.com 外為",
