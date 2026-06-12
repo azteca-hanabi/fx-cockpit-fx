@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-12T12:57:03Z",
-  "last_checked": "2026-06-12T12:57:03Z",
+  "updated": "2026-06-12T16:25:39Z",
+  "last_checked": "2026-06-12T16:25:39Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドの原油輸入量、4月は前月比3%増の2,008万トン",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1571124",
+      "published": "2026-06-12 15:13:48",
+      "isoDate": "2026-06-12T15:13:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国、価格抑制のための石油輸出禁止は実施しない＝ライト長官",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1571089",
+      "published": "2026-06-12 14:32:42",
+      "isoDate": "2026-06-12T14:32:42Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSが金価格見通しを引き下げ、Fed利下げ時期の後ずれを受けて",
@@ -50,43 +64,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569545",
       "published": "2026-06-11 13:45:18",
       "isoDate": "2026-06-11T13:45:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPECが2026年の石油需要増加予測を日量97万バレルに引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1569339",
-      "published": "2026-06-11 12:26:38",
-      "isoDate": "2026-06-11T12:26:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米・イラン空爆が続く中、欧州ガス価格は堅調を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1568839",
-      "published": "2026-06-11 09:04:13",
-      "isoDate": "2026-06-11T09:04:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東緊張でスポット金が上げ幅縮小、原油は方向感欠く",
-      "link": "https://jp.investing.com/news/commodities-news/article-1568552",
-      "published": "2026-06-11 01:40:11",
-      "isoDate": "2026-06-11T01:40:11Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Super Microが37.5億ドルの転換型優先株を発行",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1570783",
-      "published": "2026-06-12 12:06:11",
-      "isoDate": "2026-06-12T12:06:11Z"
+      "title": "SpaceXの株式、$155での寄り付きが示唆される",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571133",
+      "published": "2026-06-12 15:29:06",
+      "isoDate": "2026-06-12T15:29:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Super Micro Computerが12.5億ドルの株式売却契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1570781",
-      "published": "2026-06-12 12:06:08",
-      "isoDate": "2026-06-12T12:06:08Z"
+      "title": "SpaceXのIPO、172ドルでの寄り付きを示唆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571098",
+      "published": "2026-06-12 14:34:07",
+      "isoDate": "2026-06-12T14:34:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ナスダック、スペースXのIPOが間もなく取引開始と予測―ブルームバーグ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571076",
+      "published": "2026-06-12 14:13:07",
+      "isoDate": "2026-06-12T14:13:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SEALSQがSpaceXと共同で量子セキュリティ衛星を2026年第4四半期に初打ち上げへ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1571036",
+      "published": "2026-06-12 14:01:12",
+      "isoDate": "2026-06-12T14:01:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX株、1株163ドルで寄り付き見込み",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571038",
+      "published": "2026-06-12 13:52:08",
+      "isoDate": "2026-06-12T13:52:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IPOブームは株式市場への警告サインか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571024",
+      "published": "2026-06-12 13:50:42",
+      "isoDate": "2026-06-12T13:50:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1570695",
       "published": "2026-06-12 11:12:50",
       "isoDate": "2026-06-12T11:12:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX先物、イランとの和平合意期待とSpaceX IPOに注目して上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1570696",
-      "published": "2026-06-12 11:12:09",
-      "isoDate": "2026-06-12T11:12:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウルフ・リサーチ、SpaceXを「買い」で新規カバレッジ開始――史上最大のIPOを前に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1570655",
-      "published": "2026-06-12 10:44:52",
-      "isoDate": "2026-06-12T10:44:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、6月22日よりナスダック100指数に採用へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1570574",
-      "published": "2026-06-12 10:01:07",
-      "isoDate": "2026-06-12T10:01:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXガイド：史上最大のIPOについて知っておくべきこと",
       "link": "https://jp.investing.com/news/stock-market-news/article-1570513",
       "published": "2026-06-12 08:48:08",
       "isoDate": "2026-06-12T08:48:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領がイラン和平合意を発表、米株先物上昇－SpaceXの上場も注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1570207",
-      "published": "2026-06-12 00:12:44",
-      "isoDate": "2026-06-12T00:12:44Z"
     }
   ],
   "btc_items": [
