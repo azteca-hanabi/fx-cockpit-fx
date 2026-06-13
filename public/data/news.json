@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T05:05:24Z",
-  "last_checked": "2026-06-13T05:05:24Z",
+  "updated": "2026-06-13T08:38:09Z",
+  "last_checked": "2026-06-13T08:38:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,24 +69,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：米イラン戦闘終結の行方、日米金融政策決定会合、米スペースX株価動向",
+      "link": "https://jp.investing.com/news/forex-news/article-1571566",
+      "published": "2026-06-13 08:00:04",
+      "isoDate": "2026-06-13T08:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：スペースX上場後の米国株の行方や日米金融政策などが注目点に",
+      "link": "https://jp.investing.com/news/forex-news/article-1571556",
+      "published": "2026-06-13 06:00:04",
+      "isoDate": "2026-06-13T06:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：中東和平交渉合意の有無、新議長下でのFOMCなど注目点",
+      "link": "https://jp.investing.com/news/forex-news/article-1571554",
+      "published": "2026-06-13 06:00:03",
+      "isoDate": "2026-06-13T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "個人投資家、SpaceX関連取引に殺到――投機熱が市場全体に拡大",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571464",
       "published": "2026-06-12 23:17:05",
       "isoDate": "2026-06-12T23:17:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのVera Rubinインフラ1GW導入コストはいくらか？",
-      "link": "https://jp.investing.com/news/technology-news/article-1571444",
-      "published": "2026-06-12 22:41:32",
-      "isoDate": "2026-06-12T22:41:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週の注目株：SpaceX、Oracle Financial Software、Super Microなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571227",
-      "published": "2026-06-12 17:58:22",
-      "isoDate": "2026-06-12T17:58:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "IPOブームは株式市場への警告サインか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571024",
-      "published": "2026-06-12 13:50:42",
-      "isoDate": "2026-06-12T13:50:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ナスダック：SpaceXのIPO、米東部時間午前9時50分に取引開始予定",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1570697",
       "published": "2026-06-12 11:06:07",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米控訴裁判所、FTX前CEOサム・バンクマン＝フリード氏の有罪判決を支持",
+      "link": "https://coinpost.jp/?p=716971",
+      "published": "Sat, 13 Jun 2026 14:15:53 +0900",
+      "isoDate": "2026-06-13T05:15:53Z"
+    },
     {
       "source": "CoinPost",
       "title": "「仮想通貨の冬は終息」と宣言、スタンダードチャータード",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=716569",
       "published": "Fri, 12 Jun 2026 13:15:31 +0900",
       "isoDate": "2026-06-12T04:15:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米大手スタートアップ支援YCがクラリティー法支持　「全社が仮想通貨を使う」",
-      "link": "https://coinpost.jp/?p=716600",
-      "published": "Fri, 12 Jun 2026 11:04:43 +0900",
-      "isoDate": "2026-06-12T02:04:43Z"
     }
   ]
 }
