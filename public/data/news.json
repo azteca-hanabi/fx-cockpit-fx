@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T11:19:12Z",
-  "last_checked": "2026-06-13T11:19:12Z",
+  "updated": "2026-06-13T13:06:28Z",
+  "last_checked": "2026-06-13T13:06:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イラン核合意はFRBのハト派転換をもたらさない可能性",
+      "link": "https://jp.investing.com/news/economy-news/article-1571583",
+      "published": "2026-06-13 11:46:22",
+      "isoDate": "2026-06-13T11:46:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "タタ電子のアイフォン部品工場、廃水汚染で操業停止の警告を受ける",
       "link": "https://jp.investing.com/news/company-news/article-1571574",
       "published": "2026-06-13 09:56:27",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571038",
       "published": "2026-06-12 13:52:08",
       "isoDate": "2026-06-12T13:52:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "IPOブームは株式市場への警告サインか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571024",
-      "published": "2026-06-12 13:50:42",
-      "isoDate": "2026-06-12T13:50:42Z"
     },
     {
       "source": "Investing.com 外為",
