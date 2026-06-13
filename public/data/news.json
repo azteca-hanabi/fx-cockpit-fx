@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T16:56:56Z",
-  "last_checked": "2026-06-13T16:56:56Z",
+  "updated": "2026-06-13T18:17:28Z",
+  "last_checked": "2026-06-13T18:17:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -111,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaのVera Rubinインフラ1GW導入コストはいくらか？",
+      "link": "https://jp.investing.com/news/technology-news/article-1571444",
+      "published": "2026-06-12 22:41:32",
+      "isoDate": "2026-06-12T22:41:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "今週の注目株：SpaceX、Oracle Financial Software、Super Microなど",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571227",
       "published": "2026-06-12 17:58:22",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1571215",
       "published": "2026-06-12 17:25:07",
       "isoDate": "2026-06-12T17:25:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX株、1株163ドルで寄り付き見込み",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1571038",
-      "published": "2026-06-12 13:52:08",
-      "isoDate": "2026-06-12T13:52:08Z"
     }
   ],
   "btc_items": [
