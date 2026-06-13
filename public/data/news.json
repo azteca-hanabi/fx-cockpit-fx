@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T18:17:28Z",
-  "last_checked": "2026-06-13T18:17:28Z",
+  "updated": "2026-06-13T20:03:18Z",
+  "last_checked": "2026-06-13T20:03:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は続伸、イラン和平合意期待が高まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571468",
+      "published": "2026-06-12 23:30:07",
+      "isoDate": "2026-06-12T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "個人投資家、SpaceX関連取引に殺到――投機熱が市場全体に拡大",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571464",
       "published": "2026-06-12 23:17:05",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1571220",
       "published": "2026-06-12 17:31:50",
       "isoDate": "2026-06-12T17:31:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの上場で宇宙関連株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1571215",
-      "published": "2026-06-12 17:25:07",
-      "isoDate": "2026-06-12T17:25:07Z"
     }
   ],
   "btc_items": [
