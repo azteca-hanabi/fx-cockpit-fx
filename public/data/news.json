@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T21:46:55Z",
-  "last_checked": "2026-06-13T21:46:55Z",
+  "updated": "2026-06-13T23:10:26Z",
+  "last_checked": "2026-06-13T23:10:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -125,17 +125,17 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "12日の米国市場ダイジェスト：米国株式市場は続伸、イラン和平合意期待が高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1571455",
+      "published": "2026-06-12 23:00:06",
+      "isoDate": "2026-06-12T23:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaのVera Rubinインフラ1GW導入コストはいくらか？",
       "link": "https://jp.investing.com/news/technology-news/article-1571444",
       "published": "2026-06-12 22:41:32",
       "isoDate": "2026-06-12T22:41:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アナリストがSpaceXに異例の売り推奨、実行リスクを指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571220",
-      "published": "2026-06-12 17:31:50",
-      "isoDate": "2026-06-12T17:31:50Z"
     }
   ],
   "btc_items": [
