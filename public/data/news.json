@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T06:48:20Z",
-  "last_checked": "2026-06-14T06:48:20Z",
+  "updated": "2026-06-14T10:27:25Z",
+  "last_checked": "2026-06-14T10:27:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今週のウォール街アナリスト注目コール",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571637",
+      "published": "2026-06-14 10:00:02",
+      "isoDate": "2026-06-14T10:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリストによるAI関連の主要動向5選：インテルをダブルアップグレード、スペースXに買い推奨",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571630",
+      "published": "2026-06-14 09:00:02",
+      "isoDate": "2026-06-14T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが64,000ドル超に回復、ETF資金流入の再加速とSpaceXがセンチメントを押し上げ",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1571631",
+      "published": "2026-06-14 08:55:02",
+      "isoDate": "2026-06-14T08:55:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スターマー英首相と高市首相、次世代戦闘機計画を協議へ",
+      "link": "https://jp.investing.com/news/economy-news/article-1571623",
+      "published": "2026-06-14 06:33:08",
+      "isoDate": "2026-06-14T06:33:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ルビオ長官、ホルムズ封鎖を擁護――インドは自国船員の死亡に抗議",
       "link": "https://jp.investing.com/news/economy-news/article-1571619",
       "published": "2026-06-14 05:33:40",
@@ -108,34 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1571587",
       "published": "2026-06-13 12:29:56",
       "isoDate": "2026-06-13T12:29:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "タタ電子のアイフォン部品工場、廃水汚染で操業停止の警告を受ける",
-      "link": "https://jp.investing.com/news/company-news/article-1571574",
-      "published": "2026-06-13 09:56:27",
-      "isoDate": "2026-06-13T09:56:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：米イラン戦闘終結の行方、日米金融政策決定会合、米スペースX株価動向",
-      "link": "https://jp.investing.com/news/forex-news/article-1571566",
-      "published": "2026-06-13 08:00:04",
-      "isoDate": "2026-06-13T08:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、イラン情勢改善でリスク選好が高まり6万4000ドル超に反発",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1571568",
-      "published": "2026-06-13 07:55:46",
-      "isoDate": "2026-06-13T07:55:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、日曜日にイラン合意署名・ホルムズ海峡再開通を表明",
-      "link": "https://jp.investing.com/news/economy-news/article-1571537",
-      "published": "2026-06-13 02:40:09",
-      "isoDate": "2026-06-13T02:40:09Z"
     }
   ],
   "btc_items": [
