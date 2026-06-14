@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T21:18:10Z",
-  "last_checked": "2026-06-14T21:18:10Z",
+  "updated": "2026-06-14T22:43:36Z",
+  "last_checked": "2026-06-14T22:43:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIショッピングの「エージェント化」は現在どこまで進んでいるか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571660",
+      "published": "2026-06-14 20:34:16",
+      "isoDate": "2026-06-14T20:34:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceXがロケット打ち上げコストの常識を覆した方法",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571651",
       "published": "2026-06-14 15:52:34",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1571612",
       "published": "2026-06-14 02:25:42",
       "isoDate": "2026-06-14T02:25:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AmazonのAI懸念がAnthropicモデルへの米国輸出規制を引き起こす",
-      "link": "https://jp.investing.com/news/company-news/article-1571602",
-      "published": "2026-06-13 23:24:28",
-      "isoDate": "2026-06-13T23:24:28Z"
     },
     {
       "source": "Investing.com 外為",
