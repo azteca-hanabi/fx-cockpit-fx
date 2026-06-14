@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T12:25:11Z",
-  "last_checked": "2026-06-14T12:25:11Z",
+  "updated": "2026-06-14T14:54:22Z",
+  "last_checked": "2026-06-14T14:54:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "S&P 500がさらに3%下落すれば、システマティック売りが加速する可能性＝バンカメ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571650",
+      "published": "2026-06-14 14:31:06",
+      "isoDate": "2026-06-14T14:31:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーライリリーのJaypirca、CLL試験で疾患進行リスクを45%低減",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1571642",
+      "published": "2026-06-14 12:06:06",
+      "isoDate": "2026-06-14T12:06:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ヨーロッパ市場が他市場をアンダーパフォームする3つの理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571641",
+      "published": "2026-06-14 12:04:57",
+      "isoDate": "2026-06-14T12:04:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "今週のウォール街アナリスト注目コール",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571637",
       "published": "2026-06-14 10:00:02",
@@ -90,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "スターマー英首相と高市首相、次世代戦闘機計画を協議へ",
-      "link": "https://jp.investing.com/news/economy-news/article-1571623",
-      "published": "2026-06-14 06:33:08",
-      "isoDate": "2026-06-14T06:33:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ルビオ長官、ホルムズ封鎖を擁護――インドは自国船員の死亡に抗議",
       "link": "https://jp.investing.com/news/economy-news/article-1571619",
       "published": "2026-06-14 05:33:40",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1571612",
       "published": "2026-06-14 02:25:42",
       "isoDate": "2026-06-14T02:25:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国株の急騰、MSCIの市場格上げ審査に注目集まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571610",
-      "published": "2026-06-14 01:19:47",
-      "isoDate": "2026-06-14T01:19:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIの設備投資ブームがS&P 500のROEに与える影響をゴールドマン・サックスが分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571607",
-      "published": "2026-06-14 00:50:38",
-      "isoDate": "2026-06-14T00:50:38Z"
     },
     {
       "source": "Investing.com 外為",
