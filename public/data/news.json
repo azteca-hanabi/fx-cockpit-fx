@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-15T00:16:58Z",
-  "last_checked": "2026-06-15T00:16:58Z",
+  "updated": "2026-06-15T05:39:07Z",
+  "last_checked": "2026-06-15T05:39:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が2%急騰、米・イラン和平合意でインフレ懸念が後退しドルが下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1571712",
+      "published": "2026-06-15 01:58:29",
+      "isoDate": "2026-06-15T01:58:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国とイランが和平合意、ホルムズ海峡再開で原油価格が急落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1571687",
+      "published": "2026-06-15 00:15:20",
+      "isoDate": "2026-06-15T00:15:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米エネルギー掘削リグ稼働数、8週間ぶりに減少",
@@ -50,85 +64,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1570552",
       "published": "2026-06-12 09:36:50",
       "isoDate": "2026-06-12T09:36:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン和平合意への期待で金価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1570293",
-      "published": "2026-06-12 02:39:28",
-      "isoDate": "2026-06-12T02:39:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油相場、週間損失へ向かう－米・イラン和平草案報道で下落続く",
-      "link": "https://jp.investing.com/news/commodities-news/article-1570220",
-      "published": "2026-06-12 00:28:52",
-      "isoDate": "2026-06-12T00:28:52Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：伸び悩みか、FRBの政策方針を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1571805",
+      "published": "2026-06-15 05:00:19",
+      "isoDate": "2026-06-15T05:00:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は160円台、日本株は大幅高",
+      "link": "https://jp.investing.com/news/forex-news/article-1571802",
+      "published": "2026-06-15 04:45:18",
+      "isoDate": "2026-06-15T04:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は伸び悩み、円売り抑制で",
+      "link": "https://jp.investing.com/news/forex-news/article-1571799",
+      "published": "2026-06-15 04:15:21",
+      "isoDate": "2026-06-15T04:15:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は急伸、ソフトバンクGと東エレクの2銘柄で約1281円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571768",
+      "published": "2026-06-15 03:45:16",
+      "isoDate": "2026-06-15T03:45:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～買い優勢で初の6万9000円台",
+      "link": "https://jp.investing.com/news/forex-news/article-1571765",
+      "published": "2026-06-15 03:30:16",
+      "isoDate": "2026-06-15T03:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日銀、6月に25bp利上げ予想－タカ派的見通しに注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1571729",
+      "published": "2026-06-15 02:40:17",
+      "isoDate": "2026-06-15T02:40:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格が2%急騰、米・イラン和平合意でインフレ懸念が後退しドルが下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1571712",
+      "published": "2026-06-15 01:58:29",
+      "isoDate": "2026-06-15T01:58:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国・イラン和平合意でウォール街先物急騰、FRB会合にも注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571680",
+      "published": "2026-06-14 23:48:16",
+      "isoDate": "2026-06-14T23:48:16Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国とイランとの間で和平合意が成立",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571676",
       "published": "2026-06-14 23:45:05",
       "isoDate": "2026-06-14T23:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～米国とイランとの間で和平合意が成立～",
-      "link": "https://jp.investing.com/news/forex-news/article-1571677",
-      "published": "2026-06-14 23:45:05",
-      "isoDate": "2026-06-14T23:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国とイランの戦闘終結合意を映してリスク選好ムードが続き、最高値更新へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571671",
-      "published": "2026-06-14 23:30:04",
-      "isoDate": "2026-06-14T23:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比880円高の67270円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571669",
-      "published": "2026-06-14 23:15:04",
-      "isoDate": "2026-06-14T23:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NYの視点：【今週の注目イベント】米イラン和平交渉、FOMC、英中銀・日銀・豪州準備銀、スィス国立銀が金融政策決定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571668",
-      "published": "2026-06-14 22:45:04",
-      "isoDate": "2026-06-14T22:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1住友金属鉱山、ディスコ、KOKUSAI　ELECTRICなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571666",
-      "published": "2026-06-14 22:30:02",
-      "isoDate": "2026-06-14T22:30:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIショッピングの「エージェント化」は現在どこまで進んでいるか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571660",
-      "published": "2026-06-14 20:34:16",
-      "isoDate": "2026-06-14T20:34:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがロケット打ち上げコストの常識を覆した方法",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571651",
-      "published": "2026-06-14 15:52:34",
-      "isoDate": "2026-06-14T15:52:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500がさらに3%下落すれば、システマティック売りが加速する可能性＝バンカメ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571650",
-      "published": "2026-06-14 14:31:06",
-      "isoDate": "2026-06-14T14:31:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン採掘難易度が史上11番目の大幅下落＝ギャラクシーリサーチ",
+      "link": "https://coinpost.jp/?p=717087",
+      "published": "Mon, 15 Jun 2026 13:06:58 +0900",
+      "isoDate": "2026-06-15T04:06:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "量子耐性アドレスへの移行で「放置されたビットコイン」をどうすべきか＝コインベースレポート",
+      "link": "https://coinpost.jp/?p=717016",
+      "published": "Mon, 15 Jun 2026 09:57:34 +0900",
+      "isoDate": "2026-06-15T00:57:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者の取引所流入、2015年来の最低水準＝アナリスト",
+      "link": "https://coinpost.jp/?p=717028",
+      "published": "Mon, 15 Jun 2026 09:37:17 +0900",
+      "isoDate": "2026-06-15T00:37:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、ビットコイン追加購入を示唆　セイラー氏「ドットを加え続けている」",
@@ -194,34 +215,6 @@
       "link": "https://coinpost.jp/?p=716942",
       "published": "Sat, 13 Jun 2026 07:50:14 +0900",
       "isoDate": "2026-06-12T22:50:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "需要殺到でスペースXのIPO申込金を返金、バイナンス等仮想通貨取引所3社",
-      "link": "https://coinpost.jp/?p=716932",
-      "published": "Sat, 13 Jun 2026 06:25:43 +0900",
-      "isoDate": "2026-06-12T21:25:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、Siiibo証券を21億円で買収　証券子会社化へ",
-      "link": "https://coinpost.jp/?p=716849",
-      "published": "Fri, 12 Jun 2026 17:58:29 +0900",
-      "isoDate": "2026-06-12T08:58:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハンガリー、仮想通貨取引の非犯罪化へ　EU圧力を受け規制を撤回",
-      "link": "https://coinpost.jp/?p=716782",
-      "published": "Fri, 12 Jun 2026 16:27:48 +0900",
-      "isoDate": "2026-06-12T07:27:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の金商法移管、衆院で可決　参院審議へ",
-      "link": "https://coinpost.jp/?p=716734",
-      "published": "Fri, 12 Jun 2026 15:17:17 +0900",
-      "isoDate": "2026-06-12T06:17:17Z"
     }
   ]
 }
