@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-15T21:10:01Z",
-  "last_checked": "2026-06-15T21:10:01Z",
+  "updated": "2026-06-15T23:18:35Z",
+  "last_checked": "2026-06-15T23:18:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは468.77ドル高、イラン和平の暫定合意を好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573272",
+      "published": "2026-06-15 21:30:05",
+      "isoDate": "2026-06-15T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ARK ベンチャーファンド、AI GPU マーケットプレイス新興企業 Hydra Host に出資",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573183",
+      "published": "2026-06-15 20:35:05",
+      "isoDate": "2026-06-15T20:35:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "あるアナリスト、インテルの時価総額5兆ドル到達を予測",
       "link": "https://jp.investing.com/news/stock-market-news/article-1573082",
       "published": "2026-06-15 20:00:19",
       "isoDate": "2026-06-15T20:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia Corp、社債発行で約850億ドルの注文を集める",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573009",
-      "published": "2026-06-15 17:51:24",
-      "isoDate": "2026-06-15T17:51:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1572365",
       "published": "2026-06-15 11:48:06",
       "isoDate": "2026-06-15T11:48:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "BRC グループ、SpaceX 株式の保有価値を7,040万ドルと評価",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1572320",
-      "published": "2026-06-15 11:32:05",
-      "isoDate": "2026-06-15T11:32:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの『ビットコイン強制売却連鎖説』、ウォール街2社が反論",
+      "link": "https://coinpost.jp/?p=717304",
+      "published": "Tue, 16 Jun 2026 06:55:14 +0900",
+      "isoDate": "2026-06-15T21:55:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースX上場日、ハイパーリキッドのSPCX出来高が14億ドルに急増",
+      "link": "https://coinpost.jp/?p=717306",
+      "published": "Tue, 16 Jun 2026 06:20:19 +0900",
+      "isoDate": "2026-06-15T21:20:19Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットマイン、先週7.6万ETHのイーサリアムを追加取得　5%目標の93%に到達",
@@ -201,34 +215,6 @@
       "link": "https://coinpost.jp/?p=717001",
       "published": "Mon, 15 Jun 2026 07:55:17 +0900",
       "isoDate": "2026-06-14T22:55:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=716767",
-      "published": "Sun, 14 Jun 2026 11:30:38 +0900",
-      "isoDate": "2026-06-14T02:30:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ",
-      "link": "https://coinpost.jp/?p=716648",
-      "published": "Sun, 14 Jun 2026 09:25:10 +0900",
-      "isoDate": "2026-06-14T00:25:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米控訴裁判所、FTX前CEOサム・バンクマン＝フリード氏の有罪判決を支持",
-      "link": "https://coinpost.jp/?p=716971",
-      "published": "Sat, 13 Jun 2026 14:15:53 +0900",
-      "isoDate": "2026-06-13T05:15:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮想通貨の冬は終息」と宣言、スタンダードチャータード",
-      "link": "https://coinpost.jp/?p=716938",
-      "published": "Sat, 13 Jun 2026 13:25:24 +0900",
-      "isoDate": "2026-06-13T04:25:24Z"
     }
   ]
 }
