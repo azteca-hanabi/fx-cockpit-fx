@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-14T22:43:36Z",
-  "last_checked": "2026-06-14T22:43:36Z",
+  "updated": "2026-06-15T00:16:58Z",
+  "last_checked": "2026-06-15T00:16:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,48 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国とイランとの間で和平合意が成立",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571676",
+      "published": "2026-06-14 23:45:05",
+      "isoDate": "2026-06-14T23:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～米国とイランとの間で和平合意が成立～",
+      "link": "https://jp.investing.com/news/forex-news/article-1571677",
+      "published": "2026-06-14 23:45:05",
+      "isoDate": "2026-06-14T23:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国とイランの戦闘終結合意を映してリスク選好ムードが続き、最高値更新へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571671",
+      "published": "2026-06-14 23:30:04",
+      "isoDate": "2026-06-14T23:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比880円高の67270円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571669",
+      "published": "2026-06-14 23:15:04",
+      "isoDate": "2026-06-14T23:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目イベント】米イラン和平交渉、FOMC、英中銀・日銀・豪州準備銀、スィス国立銀が金融政策決定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571668",
+      "published": "2026-06-14 22:45:04",
+      "isoDate": "2026-06-14T22:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1住友金属鉱山、ディスコ、KOKUSAI　ELECTRICなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571666",
+      "published": "2026-06-14 22:30:02",
+      "isoDate": "2026-06-14T22:30:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIショッピングの「エージェント化」は現在どこまで進んでいるか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571660",
       "published": "2026-06-14 20:34:16",
@@ -90,55 +132,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イーライリリーのJaypirca、CLL試験で疾患進行リスクを45%低減",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1571642",
-      "published": "2026-06-14 12:06:06",
-      "isoDate": "2026-06-14T12:06:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ヨーロッパ市場が他市場をアンダーパフォームする3つの理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571641",
-      "published": "2026-06-14 12:04:57",
-      "isoDate": "2026-06-14T12:04:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アナリストによるAI関連の主要動向5選：インテルをダブルアップグレード、スペースXに買い推奨",
       "link": "https://jp.investing.com/news/stock-market-news/article-1571630",
       "published": "2026-06-14 09:00:02",
       "isoDate": "2026-06-14T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインが6万4000ドル超え、ETF資金流入の回復とSpaceXがセンチメントを押し上げ",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1571631",
-      "published": "2026-06-14 08:55:02",
-      "isoDate": "2026-06-14T08:55:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ルビオ長官、ホルムズ封鎖を擁護――インドは自国船員の死亡に抗議",
-      "link": "https://jp.investing.com/news/economy-news/article-1571619",
-      "published": "2026-06-14 05:33:40",
-      "isoDate": "2026-06-14T05:33:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの株式市場デビューが荒れた週の投資家心理を押し上げる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571612",
-      "published": "2026-06-14 02:25:42",
-      "isoDate": "2026-06-14T02:25:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "量子コンピューティングの未来における勝者と敗者",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571587",
-      "published": "2026-06-13 12:29:56",
-      "isoDate": "2026-06-13T12:29:56Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン追加購入を示唆　セイラー氏「ドットを加え続けている」",
+      "link": "https://coinpost.jp/?p=717008",
+      "published": "Mon, 15 Jun 2026 08:43:52 +0900",
+      "isoDate": "2026-06-14T23:43:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン6万ドルからショート踏み上げ、売り圧力は依然継続＝アナリスト",
+      "link": "https://coinpost.jp/?p=717001",
+      "published": "Mon, 15 Jun 2026 07:55:17 +0900",
+      "isoDate": "2026-06-14T22:55:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿",
@@ -208,13 +222,6 @@
       "link": "https://coinpost.jp/?p=716734",
       "published": "Fri, 12 Jun 2026 15:17:17 +0900",
       "isoDate": "2026-06-12T06:17:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セイラー氏「ビットコインを売らないことは個人向け」、会社は必要時に売却と説明",
-      "link": "https://coinpost.jp/?p=716718",
-      "published": "Fri, 12 Jun 2026 13:47:17 +0900",
-      "isoDate": "2026-06-12T04:47:17Z"
     }
   ]
 }
