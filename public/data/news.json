@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-15T05:39:07Z",
-  "last_checked": "2026-06-15T05:39:07Z",
+  "updated": "2026-06-15T12:26:14Z",
+  "last_checked": "2026-06-15T12:26:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が2%急騰、米・イラン和平合意でインフレ懸念が後退しドルが下落",
+      "title": "米国とイランの和平合意を受け、欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1571997",
+      "published": "2026-06-15 08:27:10",
+      "isoDate": "2026-06-15T08:27:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン和平合意で金価格が急騰、ドルも下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1571712",
       "published": "2026-06-15 01:58:29",
       "isoDate": "2026-06-15T01:58:29Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国とイランが和平合意、ホルムズ海峡再開で原油価格が急落",
+      "title": "米国とイランが暫定和平合意、原油価格が4%超下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1571687",
       "published": "2026-06-15 00:15:20",
       "isoDate": "2026-06-15T00:15:20Z"
@@ -50,171 +57,79 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1571089",
       "published": "2026-06-12 14:32:42",
       "isoDate": "2026-06-12T14:32:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが金価格見通しを引き下げ、Fed利下げ時期の後ずれを受けて",
-      "link": "https://jp.investing.com/news/commodities-news/article-1570628",
-      "published": "2026-06-12 10:34:08",
-      "isoDate": "2026-06-12T10:34:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの和平期待がヨーロッパの天然ガス相場から地政学的プレミアムを剥ぎ取る",
-      "link": "https://jp.investing.com/news/commodities-news/article-1570552",
-      "published": "2026-06-12 09:36:50",
-      "isoDate": "2026-06-12T09:36:50Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：伸び悩みか、FRBの政策方針を見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1571805",
-      "published": "2026-06-15 05:00:19",
-      "isoDate": "2026-06-15T05:00:19Z"
+      "title": "エヌビディア、社債発行を申請",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1572365",
+      "published": "2026-06-15 11:48:06",
+      "isoDate": "2026-06-15T11:48:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は160円台、日本株は大幅高",
-      "link": "https://jp.investing.com/news/forex-news/article-1571802",
-      "published": "2026-06-15 04:45:18",
-      "isoDate": "2026-06-15T04:45:18Z"
+      "title": "BRC グループ、SpaceX 株式の保有価値を7,040万ドルと評価",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1572320",
+      "published": "2026-06-15 11:32:05",
+      "isoDate": "2026-06-15T11:32:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、円売り抑制で",
-      "link": "https://jp.investing.com/news/forex-news/article-1571799",
-      "published": "2026-06-15 04:15:21",
-      "isoDate": "2026-06-15T04:15:21Z"
+      "title": "ダウ・ナスダック・S&P500週間展望：ウォーシュ氏のFRB初会合に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1572345",
+      "published": "2026-06-15 11:25:11",
+      "isoDate": "2026-06-15T11:25:11Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は急伸、ソフトバンクGと東エレクの2銘柄で約1281円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571768",
-      "published": "2026-06-15 03:45:16",
-      "isoDate": "2026-06-15T03:45:16Z"
+      "title": "マイクロンテクノロジーとネビウスが寄り前に急騰、トロウズ・ファーマは急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1572293",
+      "published": "2026-06-15 11:23:17",
+      "isoDate": "2026-06-15T11:23:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い優勢で初の6万9000円台",
-      "link": "https://jp.investing.com/news/forex-news/article-1571765",
-      "published": "2026-06-15 03:30:16",
-      "isoDate": "2026-06-15T03:30:16Z"
+      "title": "キーバンク、宇宙関連株2銘柄を格上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1572148",
+      "published": "2026-06-15 10:31:10",
+      "isoDate": "2026-06-15T10:31:10Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日銀、6月に25bp利上げ予想－タカ派的見通しに注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1571729",
-      "published": "2026-06-15 02:40:17",
-      "isoDate": "2026-06-15T02:40:17Z"
+      "title": "SPCXのIPOが「夢見るFOMO」を引き起こし、株高を後押しする可能性＝ストラテジスト",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1572108",
+      "published": "2026-06-15 10:07:17",
+      "isoDate": "2026-06-15T10:07:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格が2%急騰、米・イラン和平合意でインフレ懸念が後退しドルが下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1571712",
-      "published": "2026-06-15 01:58:29",
-      "isoDate": "2026-06-15T01:58:29Z"
+      "title": "今週の市場で注目すべき5つのポイント",
+      "link": "https://jp.investing.com/news/economy-news/article-1572072",
+      "published": "2026-06-15 09:56:06",
+      "isoDate": "2026-06-15T09:56:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国・イラン和平合意でウォール街先物急騰、FRB会合にも注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571680",
-      "published": "2026-06-14 23:48:16",
-      "isoDate": "2026-06-14T23:48:16Z"
+      "title": "米国とイランが暫定和平合意、原油下落・金上昇――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1571985",
+      "published": "2026-06-15 08:02:57",
+      "isoDate": "2026-06-15T08:02:57Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国とイランとの間で和平合意が成立",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571676",
-      "published": "2026-06-14 23:45:05",
-      "isoDate": "2026-06-14T23:45:05Z"
+      "title": "SpaceX、史上最大のIPOで時価総額2.1兆ドルに到達し続伸",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571987",
+      "published": "2026-06-15 08:02:22",
+      "isoDate": "2026-06-15T08:02:22Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アナリストによるAI関連の主要動向5選：インテルをダブルアップグレード、スペースXに買い推奨",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571630",
-      "published": "2026-06-14 09:00:02",
-      "isoDate": "2026-06-14T09:00:02Z"
+      "title": "BCAの指標が株式に「緊急売り」シグナルを点灯",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1571917",
+      "published": "2026-06-15 06:59:42",
+      "isoDate": "2026-06-15T06:59:42Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘難易度が史上11番目の大幅下落＝ギャラクシーリサーチ",
-      "link": "https://coinpost.jp/?p=717087",
-      "published": "Mon, 15 Jun 2026 13:06:58 +0900",
-      "isoDate": "2026-06-15T04:06:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "量子耐性アドレスへの移行で「放置されたビットコイン」をどうすべきか＝コインベースレポート",
-      "link": "https://coinpost.jp/?p=717016",
-      "published": "Mon, 15 Jun 2026 09:57:34 +0900",
-      "isoDate": "2026-06-15T00:57:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者の取引所流入、2015年来の最低水準＝アナリスト",
-      "link": "https://coinpost.jp/?p=717028",
-      "published": "Mon, 15 Jun 2026 09:37:17 +0900",
-      "isoDate": "2026-06-15T00:37:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン追加購入を示唆　セイラー氏「ドットを加え続けている」",
-      "link": "https://coinpost.jp/?p=717008",
-      "published": "Mon, 15 Jun 2026 08:43:52 +0900",
-      "isoDate": "2026-06-14T23:43:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン6万ドルからショート踏み上げ、売り圧力は依然継続＝アナリスト",
-      "link": "https://coinpost.jp/?p=717001",
-      "published": "Mon, 15 Jun 2026 07:55:17 +0900",
-      "isoDate": "2026-06-14T22:55:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1000万円台回復、中東情勢の動向とFOMC政策見通しが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=716767",
-      "published": "Sun, 14 Jun 2026 11:30:38 +0900",
-      "isoDate": "2026-06-14T02:30:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（6/12）｜金商法改正の進展・ストラテジーのBTC購入・BTC先物国内上場方針のまとめ",
-      "link": "https://coinpost.jp/?p=716648",
-      "published": "Sun, 14 Jun 2026 09:25:10 +0900",
-      "isoDate": "2026-06-14T00:25:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米控訴裁判所、FTX前CEOサム・バンクマン＝フリード氏の有罪判決を支持",
-      "link": "https://coinpost.jp/?p=716971",
-      "published": "Sat, 13 Jun 2026 14:15:53 +0900",
-      "isoDate": "2026-06-13T05:15:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮想通貨の冬は終息」と宣言、スタンダードチャータード",
-      "link": "https://coinpost.jp/?p=716938",
-      "published": "Sat, 13 Jun 2026 13:25:24 +0900",
-      "isoDate": "2026-06-13T04:25:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの底打ち価格、基本シナリオは？　ギャラクシーデジタル予想",
-      "link": "https://coinpost.jp/?p=716956",
-      "published": "Sat, 13 Jun 2026 10:20:50 +0900",
-      "isoDate": "2026-06-13T01:20:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ウォレットのエクソダス、ソラナ上でトークン化RWA市場をローンチ　200超の株などに対応",
-      "link": "https://coinpost.jp/?p=716942",
-      "published": "Sat, 13 Jun 2026 07:50:14 +0900",
-      "isoDate": "2026-06-12T22:50:14Z"
-    }
-  ]
+  "btc_items": []
 }
