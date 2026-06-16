@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-16T02:09:21Z",
-  "last_checked": "2026-06-16T02:09:21Z",
+  "updated": "2026-06-16T08:28:44Z",
+  "last_checked": "2026-06-16T08:28:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン合意の詳細待ちで原油価格が3カ月ぶり安値から反発",
+      "title": "金価格は横ばい、イラン合意と中央銀行会合に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1573468",
+      "published": "2026-06-16 02:08:51",
+      "isoDate": "2026-06-16T02:08:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン合意の詳細待ちで原油価格が続落",
       "link": "https://jp.investing.com/news/commodities-news/article-1573408",
       "published": "2026-06-16 00:13:41",
       "isoDate": "2026-06-16T00:13:41Z"
@@ -57,57 +64,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1572733",
       "published": "2026-06-15 13:48:41",
       "isoDate": "2026-06-15T13:48:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン合意を受け、小麦・トウモロコシ・大豆先物が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1572647",
-      "published": "2026-06-15 13:26:33",
-      "isoDate": "2026-06-15T13:26:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの和平合意を受け、欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1571997",
-      "published": "2026-06-15 08:27:10",
-      "isoDate": "2026-06-15T08:27:10Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ドル円今週の予想（6月15日）サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573439",
-      "published": "2026-06-16 01:00:11",
-      "isoDate": "2026-06-16T01:00:11Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は4日続伸、アドバンテストやキオクシアHDが2銘柄で約311円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573668",
+      "published": "2026-06-16 08:00:16",
+      "isoDate": "2026-06-16T08:00:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米イラン合意の詳細待ちで原油価格が3カ月ぶり安値から反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1573408",
-      "published": "2026-06-16 00:13:41",
-      "isoDate": "2026-06-16T00:13:41Z"
+      "title": "日銀会合は波乱なく通過、一時70000円大台乗せ【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1573656",
+      "published": "2026-06-16 07:45:17",
+      "isoDate": "2026-06-16T07:45:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物が小幅下落、ウォール街はイラン和平合意とテック株高騰で急伸後に一服",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573405",
-      "published": "2026-06-16 00:13:14",
-      "isoDate": "2026-06-16T00:13:14Z"
+      "title": "東京為替：ドル・円は小高い、円安継続で",
+      "link": "https://jp.investing.com/news/forex-news/article-1573655",
+      "published": "2026-06-16 07:45:16",
+      "isoDate": "2026-06-16T07:45:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体やAI関連株にらみの相場展開が継続",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573381",
-      "published": "2026-06-15 23:45:07",
-      "isoDate": "2026-06-15T23:45:07Z"
+      "title": "ゴールドマン・サックス、ホルムズ海峡再開合意を受け2026・2027年原油価格予測を引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1573633",
+      "published": "2026-06-16 07:02:07",
+      "isoDate": "2026-06-16T07:02:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは468.77ドル高、イラン和平の暫定合意を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573272",
-      "published": "2026-06-15 21:30:05",
-      "isoDate": "2026-06-15T21:30:05Z"
+      "title": "JX金属、パーク24、多摩川HDなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573630",
+      "published": "2026-06-16 07:00:17",
+      "isoDate": "2026-06-16T07:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAIの2025年支出は340億ドルに達する、IPO前に＝FT",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573555",
+      "published": "2026-06-16 04:34:03",
+      "isoDate": "2026-06-16T04:34:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1572870",
       "published": "2026-06-15 14:46:26",
       "isoDate": "2026-06-15T14:46:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia Corp、少なくとも200億ドルの社債発行を計画",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1572474",
-      "published": "2026-06-15 12:20:48",
-      "isoDate": "2026-06-15T12:20:48Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +139,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッドの米国の現物ETF、上場から1カ月が経過　純流入額は計約245億円に",
+      "link": "https://coinpost.jp/?p=717413",
+      "published": "Tue, 16 Jun 2026 13:02:10 +0900",
+      "isoDate": "2026-06-16T04:02:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "半導体主導インフレがビットコインに与える影響は？　バイナンスリサーチ分析",
+      "link": "https://coinpost.jp/?p=717394",
+      "published": "Tue, 16 Jun 2026 12:45:02 +0900",
+      "isoDate": "2026-06-16T03:45:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "ジンバブエ、仮想通貨事業者の登録制度を導入　登録料500ドル、未登録は刑事罰",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=717284",
       "published": "Mon, 15 Jun 2026 21:15:49 +0900",
       "isoDate": "2026-06-15T12:15:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘難易度が史上11番目の大幅下落＝ギャラクシーリサーチ",
-      "link": "https://coinpost.jp/?p=717087",
-      "published": "Mon, 15 Jun 2026 13:06:58 +0900",
-      "isoDate": "2026-06-15T04:06:58Z"
     }
   ]
 }
