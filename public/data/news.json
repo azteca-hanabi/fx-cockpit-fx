@@ -1,17 +1,31 @@
 {
-  "updated": "2026-06-16T08:28:44Z",
-  "last_checked": "2026-06-16T08:28:44Z",
+  "updated": "2026-06-16T13:14:53Z",
+  "last_checked": "2026-06-16T13:14:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格は横ばい、イラン合意と中央銀行会合に注目",
+      "title": "トルコ、イラクのキルクーク・ジェイハン石油パイプライン協定延長要請を拒否",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1573789",
+      "published": "2026-06-16 10:16:30",
+      "isoDate": "2026-06-16T10:16:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン和平合意を受け、欧州天然ガス価格が1カ月ぶり安値付近で推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-1573687",
+      "published": "2026-06-16 08:44:44",
+      "isoDate": "2026-06-16T08:44:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が小幅上昇、イラン合意と中央銀行会合に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1573468",
       "published": "2026-06-16 02:08:51",
       "isoDate": "2026-06-16T02:08:51Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン合意の詳細待ちで原油価格が続落",
+      "title": "米国・イラン合意の詳細待ちで原油が3月以来初めて80ドルを割り込む",
       "link": "https://jp.investing.com/news/commodities-news/article-1573408",
       "published": "2026-06-16 00:13:41",
       "isoDate": "2026-06-16T00:13:41Z"
@@ -50,71 +64,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1572972",
       "published": "2026-06-15 16:43:13",
       "isoDate": "2026-06-15T16:43:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン合意でエネルギー価格下落、砂糖相場は下げ止まり",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1572970",
-      "published": "2026-06-15 16:41:35",
-      "isoDate": "2026-06-15T16:41:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ギリシャ、シェブロンによる沖合ガス田権益取得を承認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1572733",
-      "published": "2026-06-15 13:48:41",
-      "isoDate": "2026-06-15T13:48:41Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は4日続伸、アドバンテストやキオクシアHDが2銘柄で約311円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573668",
-      "published": "2026-06-16 08:00:16",
-      "isoDate": "2026-06-16T08:00:16Z"
+      "title": "SpaceXとRackspaceが寄り付き前に急騰、Edgewise TherapeuticsとHuntsmanは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1574053",
+      "published": "2026-06-16 12:14:50",
+      "isoDate": "2026-06-16T12:14:50Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日銀会合は波乱なく通過、一時70000円大台乗せ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1573656",
-      "published": "2026-06-16 07:45:17",
-      "isoDate": "2026-06-16T07:45:17Z"
+      "title": "エクイニクス、シスコ・システムズ、エヌビディアがデータセンターにAIファクトリーを展開",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1574018",
+      "published": "2026-06-16 12:04:11",
+      "isoDate": "2026-06-16T12:04:11Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小高い、円安継続で",
-      "link": "https://jp.investing.com/news/forex-news/article-1573655",
-      "published": "2026-06-16 07:45:16",
-      "isoDate": "2026-06-16T07:45:16Z"
+      "title": "TSX先物が上昇、米イラン和平合意の詳細を投資家が注視",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573998",
+      "published": "2026-06-16 11:48:08",
+      "isoDate": "2026-06-16T11:48:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、ホルムズ海峡再開合意を受け2026・2027年原油価格予測を引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1573633",
-      "published": "2026-06-16 07:02:07",
-      "isoDate": "2026-06-16T07:02:07Z"
+      "title": "SpaceXがAnyspherを全株式交換で買収する合意を発表",
+      "link": "https://jp.investing.com/news/sec-filings/article-93CH-1573835",
+      "published": "2026-06-16 10:43:27",
+      "isoDate": "2026-06-16T10:43:27Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "JX金属、パーク24、多摩川HDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573630",
-      "published": "2026-06-16 07:00:17",
-      "isoDate": "2026-06-16T07:00:17Z"
+      "title": "中国西北部・青海省でマグニチュード6.3の地震発生",
+      "link": "https://jp.investing.com/news/economy-news/article-93CH-1573784",
+      "published": "2026-06-16 10:15:32",
+      "isoDate": "2026-06-16T10:15:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "OpenAIの2025年支出は340億ドルに達する、IPO前に＝FT",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573555",
-      "published": "2026-06-16 04:34:03",
-      "isoDate": "2026-06-16T04:34:03Z"
+      "title": "いち早くお伝えしていた：AI選定の半導体株が+40%上昇、好材料が続く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1574070",
+      "published": "2026-06-16 08:30:04",
+      "isoDate": "2026-06-16T08:30:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceX株が本日急騰している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1572870",
-      "published": "2026-06-15 14:46:26",
-      "isoDate": "2026-06-15T14:46:26Z"
+      "title": "AIが選んだチップ株が+40%上昇、好材料が続々と登場",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573684",
+      "published": "2026-06-16 08:30:04",
+      "isoDate": "2026-06-16T08:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "年間最安値：期間限定でInvestingProが55%オフ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1573594",
+      "published": "2026-06-16 05:47:53",
+      "isoDate": "2026-06-16T05:47:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,16 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1572531",
       "published": "2026-06-15 08:42:15",
       "isoDate": "2026-06-15T08:42:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今がチャンス：InvestingProを2026年最安値で手に入れよう",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1571986",
-      "published": "2026-06-15 08:07:28",
-      "isoDate": "2026-06-15T08:07:28Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏、ビットコイン上に信用・通貨・株式を積む新金融構造を提唱",
+      "link": "https://coinpost.jp/?p=717600",
+      "published": "Tue, 16 Jun 2026 17:31:08 +0900",
+      "isoDate": "2026-06-16T08:31:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハイパーリキッドの米国の現物ETF、上場から1カ月が経過　純流入額は計約245億円に",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=717301",
       "published": "Tue, 16 Jun 2026 05:45:15 +0900",
       "isoDate": "2026-06-15T20:45:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーが1587BTCのビットコインを追加購入、2週間連続で買い増し実施",
-      "link": "https://coinpost.jp/?p=717284",
-      "published": "Mon, 15 Jun 2026 21:15:49 +0900",
-      "isoDate": "2026-06-15T12:15:49Z"
     }
   ]
 }
