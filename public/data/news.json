@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-17T16:23:43Z",
-  "last_checked": "2026-06-17T16:23:43Z",
+  "updated": "2026-06-17T19:06:34Z",
+  "last_checked": "2026-06-17T19:06:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領のイラン停戦への疑念で欧州ガソリンマージンが下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1575957",
+      "published": "2026-06-17 18:02:40",
+      "isoDate": "2026-06-17T18:02:40Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米原油在庫、先週83​0万バレル減少",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1574396",
       "published": "2026-06-16 15:07:21",
       "isoDate": "2026-06-16T15:07:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トルコ、イラクのキルクーク・ジェイハン石油パイプライン協定延長要請を拒否",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1573789",
-      "published": "2026-06-16 10:16:30",
-      "isoDate": "2026-06-16T10:16:30Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】FOMCは予想通りに政策据え置き、市場は年内1回の利上げ織り込む、ドル買い",
+      "link": "https://jp.investing.com/news/forex-news/article-1575978",
+      "published": "2026-06-17 18:30:05",
+      "isoDate": "2026-06-17T18:30:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SpaceXの株価が本日下落している理由とは",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1575775",
       "published": "2026-06-17 14:20:11",
       "isoDate": "2026-06-17T14:20:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エーエスエムエル・ホールディングが52週高値、インテル18A-Pがリスク生産に移行",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1575728",
-      "published": "2026-06-17 13:50:58",
-      "isoDate": "2026-06-17T13:50:58Z"
     },
     {
       "source": "Investing.com 外為",
