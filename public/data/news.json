@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T21:29:26Z",
-  "last_checked": "2026-06-17T21:29:26Z",
+  "updated": "2026-06-17T23:04:17Z",
+  "last_checked": "2026-06-17T23:04:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米小売売上高が予想を上回りドル買いが優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1576194",
+      "published": "2026-06-17 22:15:05",
+      "isoDate": "2026-06-17T22:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは507.12ドル安、利上げを警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1576180",
+      "published": "2026-06-17 22:00:05",
+      "isoDate": "2026-06-17T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルCEO、チップコスト上昇で値上げは「避けられない」と警告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1576153",
+      "published": "2026-06-17 21:29:17",
+      "isoDate": "2026-06-17T21:29:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "時間外取引の注目株：SWBI、SB、LPA、STLD、SPCX",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1576105",
       "published": "2026-06-17 20:46:02",
       "isoDate": "2026-06-17T20:46:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "6月17日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1576015",
-      "published": "2026-06-17 19:45:05",
-      "isoDate": "2026-06-17T19:45:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1575856",
       "published": "2026-06-17 15:32:09",
       "isoDate": "2026-06-17T15:32:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "VultrがAIデータセンター拡張にヒューレット・パッカード・エンタープライズとNvidiaを選定",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1575823",
-      "published": "2026-06-17 15:01:11",
-      "isoDate": "2026-06-17T15:01:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +143,85 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1574981",
       "published": "2026-06-17 04:20:37",
       "isoDate": "2026-06-17T04:20:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、IPO後初の下落――時価総額でAmazon.comを上回った後に反落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574636",
-      "published": "2026-06-16 20:59:39",
-      "isoDate": "2026-06-16T20:59:39Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者の保有比率が過去最高、弱気相場の終盤か＝K33分析",
+      "link": "https://coinpost.jp/?p=717918",
+      "published": "Thu, 18 Jun 2026 07:35:50 +0900",
+      "isoDate": "2026-06-17T22:35:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブータン政府が533BTCをバイナンスに送金、売却目的か",
+      "link": "https://coinpost.jp/?p=717919",
+      "published": "Thu, 18 Jun 2026 06:50:53 +0900",
+      "isoDate": "2026-06-17T21:50:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イリノイ州が仮想通貨取引税を導入、業界団体が「全米で最も厳しい税制」と強く反発",
+      "link": "https://coinpost.jp/?p=717920",
+      "published": "Thu, 18 Jun 2026 06:25:55 +0900",
+      "isoDate": "2026-06-17T21:25:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米FOMCタカ派シフトで仮想通貨・半導体株が下落、ドットプロットが年内利上げ示唆",
+      "link": "https://coinpost.jp/?p=717916",
+      "published": "Thu, 18 Jun 2026 05:55:32 +0900",
+      "isoDate": "2026-06-17T20:55:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン価格より先にファンダメンタルズが回復、スイスブロック分析",
+      "link": "https://coinpost.jp/?p=717863",
+      "published": "Wed, 17 Jun 2026 17:07:00 +0900",
+      "isoDate": "2026-06-17T08:07:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国の仮想通貨取引量、前年比28％減　AI・半導体株に投機資金が流出＝報道",
+      "link": "https://coinpost.jp/?p=717820",
+      "published": "Wed, 17 Jun 2026 15:55:29 +0900",
+      "isoDate": "2026-06-17T06:55:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン相場、底打ち判断は時期尚早　「流動性の回復が鍵」＝ウィンターミュート分析",
+      "link": "https://coinpost.jp/?p=717749",
+      "published": "Wed, 17 Jun 2026 14:05:53 +0900",
+      "isoDate": "2026-06-17T05:05:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "GMOコイン、仮想通貨・FXなど向けAI分析でブリッジワイズと提携",
+      "link": "https://coinpost.jp/?p=717762",
+      "published": "Wed, 17 Jun 2026 13:49:26 +0900",
+      "isoDate": "2026-06-17T04:49:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "AIエージェントがサイト閲覧でお金を払う仕組み、コインベースとAWSで実現",
+      "link": "https://coinpost.jp/?p=717743",
+      "published": "Wed, 17 Jun 2026 13:45:49 +0900",
+      "isoDate": "2026-06-17T04:45:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FTX創業者SBF、25年の刑期中に独自コイン発行を構想か＝報道",
+      "link": "https://coinpost.jp/?p=717677",
+      "published": "Wed, 17 Jun 2026 13:20:49 +0900",
+      "isoDate": "2026-06-17T04:20:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン市場シェア倍増、仮想通貨下落で相対的に拡大＝CryptoRank",
+      "link": "https://coinpost.jp/?p=717706",
+      "published": "Wed, 17 Jun 2026 09:50:18 +0900",
+      "isoDate": "2026-06-17T00:50:18Z"
+    }
+  ]
 }
