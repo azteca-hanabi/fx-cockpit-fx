@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-16T23:06:39Z",
-  "last_checked": "2026-06-16T23:06:39Z",
+  "updated": "2026-06-17T02:03:11Z",
+  "last_checked": "2026-06-17T02:03:11Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、イラン合意で供給増観測強まり3カ月ぶり安値圏推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-1574818",
+      "published": "2026-06-17 00:23:11",
+      "isoDate": "2026-06-17T00:23:11Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東和平合意で原油安、ICEキャノーラ先物が下落",
@@ -57,29 +64,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1573408",
       "published": "2026-06-16 00:13:41",
       "isoDate": "2026-06-16T00:13:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン合意で原油安、ICEキャノーラ先物が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1573206",
-      "published": "2026-06-15 20:44:09",
-      "isoDate": "2026-06-15T20:44:09Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1岡本硝子、JX金属、メイコーなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574730",
-      "published": "2026-06-16 22:30:05",
-      "isoDate": "2026-06-16T22:30:05Z"
+      "title": "日経平均は398円安でスタート、ソフトバンクGやJX金属などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1574833",
+      "published": "2026-06-17 00:45:09",
+      "isoDate": "2026-06-17T00:45:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは328.64ドル高、イラン和平合意好感もハイテクで利益確定売り",
-      "link": "https://jp.investing.com/news/forex-news/article-1574702",
-      "published": "2026-06-16 21:45:04",
-      "isoDate": "2026-06-16T21:45:04Z"
+      "title": "強弱材料 6/17",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1574777",
+      "published": "2026-06-16 23:45:08",
+      "isoDate": "2026-06-16T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：本日は米連邦公開市場委員会（FOMC）の結果公表",
+      "link": "https://jp.investing.com/news/forex-news/article-1574761",
+      "published": "2026-06-16 23:30:07",
+      "isoDate": "2026-06-16T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、イラン和平合意好感もハイテクで利益確定売り",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1574762",
+      "published": "2026-06-16 23:30:07",
+      "isoDate": "2026-06-16T23:30:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1574687",
       "published": "2026-06-16 21:30:05",
       "isoDate": "2026-06-16T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "FTC、Amazon.comに対し誤解を招く広告で訴訟を準備中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574643",
-      "published": "2026-06-16 21:03:25",
-      "isoDate": "2026-06-16T21:03:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,16 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1573594",
       "published": "2026-06-16 05:47:53",
       "isoDate": "2026-06-16T05:47:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OpenAIの2025年支出は340億ドルに達する、IPO前に＝FT",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573555",
-      "published": "2026-06-16 04:34:03",
-      "isoDate": "2026-06-16T04:34:03Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン市場シェア倍増、仮想通貨下落で相対的に拡大＝CryptoRank",
+      "link": "https://coinpost.jp/?p=717706",
+      "published": "Wed, 17 Jun 2026 09:50:18 +0900",
+      "isoDate": "2026-06-17T00:50:18Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットワイズCIO「底値より天井か」がビットコイン投資の本質と見解",
@@ -180,27 +187,6 @@
       "link": "https://coinpost.jp/?p=717394",
       "published": "Tue, 16 Jun 2026 12:45:02 +0900",
       "isoDate": "2026-06-16T03:45:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジンバブエ、仮想通貨事業者の登録制度を導入　登録料500ドル、未登録は刑事罰",
-      "link": "https://coinpost.jp/?p=717365",
-      "published": "Tue, 16 Jun 2026 10:45:55 +0900",
-      "isoDate": "2026-06-16T01:45:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインは底を打った可能性」コインベースCEOが4年サイクル説を支持",
-      "link": "https://coinpost.jp/?p=717346",
-      "published": "Tue, 16 Jun 2026 10:12:37 +0900",
-      "isoDate": "2026-06-16T01:12:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ナイジェリア上院、仮想通貨規制法案を可決　ライセンス制度の導入へ",
-      "link": "https://coinpost.jp/?p=717352",
-      "published": "Tue, 16 Jun 2026 10:00:29 +0900",
-      "isoDate": "2026-06-16T01:00:29Z"
     }
   ]
 }
