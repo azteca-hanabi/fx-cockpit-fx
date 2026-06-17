@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-17T12:20:37Z",
-  "last_checked": "2026-06-17T12:20:37Z",
+  "updated": "2026-06-17T16:23:43Z",
+  "last_checked": "2026-06-17T16:23:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "イランとの和平合意でエネルギーリスクプレミアム後退、EU天然ガスが1カ月ぶり安値",
+      "title": "米原油在庫、先週83​0万バレル減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1575819",
+      "published": "2026-06-17 14:54:15",
+      "isoDate": "2026-06-17T14:54:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの和平合意でエネルギーリスクプレミアムが緩和、EU天然ガスが1カ月ぶり安値に",
       "link": "https://jp.investing.com/news/commodities-news/article-1575146",
       "published": "2026-06-17 08:46:24",
       "isoDate": "2026-06-17T08:46:24Z"
@@ -18,14 +25,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランとの合意でインフレ懸念が後退、金価格は安定推移――FRB決定に注目",
+      "title": "イラン合意でインフレ懸念が後退、金価格は安定――FRB決定に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1574926",
       "published": "2026-06-17 02:35:29",
       "isoDate": "2026-06-17T02:35:29Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格が安定、米・イラン和平合意とIEA見通しを注視",
+      "title": "原油価格が小幅上昇、米イラン和平合意とIEA見通しを注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1574818",
       "published": "2026-06-17 00:23:11",
       "isoDate": "2026-06-17T00:23:11Z"
@@ -64,22 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1573789",
       "published": "2026-06-16 10:16:30",
       "isoDate": "2026-06-16T10:16:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン和平合意を受け、欧州天然ガス価格が1カ月ぶり安値付近で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-1573687",
-      "published": "2026-06-16 08:44:44",
-      "isoDate": "2026-06-16T08:44:44Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "シティ、WFE需要拡大でAMAT・LRCX・KLACの目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1575433",
-      "published": "2026-06-17 11:48:03",
-      "isoDate": "2026-06-17T11:48:03Z"
+      "title": "SpaceXの株価が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1575856",
+      "published": "2026-06-17 15:32:09",
+      "isoDate": "2026-06-17T15:32:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "VultrがAIデータセンター拡張にヒューレット・パッカード・エンタープライズとNvidiaを選定",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1575823",
+      "published": "2026-06-17 15:01:11",
+      "isoDate": "2026-06-17T15:01:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ株の上昇には、ロボタクシーの目標達成が鍵＝アナリスト",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1575775",
+      "published": "2026-06-17 14:20:11",
+      "isoDate": "2026-06-17T14:20:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エーエスエムエル・ホールディングが52週高値、インテル18A-Pがリスク生産に移行",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1575728",
+      "published": "2026-06-17 13:50:58",
+      "isoDate": "2026-06-17T13:50:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が上昇、アナリストがDRAM供給逼迫を背景に目標株価を引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1575529",
+      "published": "2026-06-17 12:37:22",
+      "isoDate": "2026-06-17T12:37:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,17 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国経済の大規模な構造転換で注目すべき銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1575293",
-      "published": "2026-06-17 10:49:24",
-      "isoDate": "2026-06-17T10:49:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、カナダの中国製EV輸入上限協定を支持とカーニー首相",
-      "link": "https://jp.investing.com/news/economy-news/article-1575230",
-      "published": "2026-06-17 10:12:57",
-      "isoDate": "2026-06-17T10:12:57Z"
+      "title": "AIが見抜いていた：本日+20%急騰、月初来93%超の上昇を見せる注目メーカー",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1575213",
+      "published": "2026-06-17 09:46:27",
+      "isoDate": "2026-06-17T09:46:27Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceX、Amazon時価総額を超えプレマーケットでも上昇続ける",
+      "title": "SpaceX、IPO後初の下落――時価総額でAmazon.comを上回った後に反落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1574636",
       "published": "2026-06-16 20:59:39",
       "isoDate": "2026-06-16T20:59:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXとRackspaceが寄り付き前に急騰、Edgewise TherapeuticsとHuntsmanは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574053",
-      "published": "2026-06-16 12:14:50",
-      "isoDate": "2026-06-16T12:14:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "いち早くお伝えしていた：AI選定の半導体株が+40%上昇、好材料が続く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574070",
-      "published": "2026-06-16 08:30:04",
-      "isoDate": "2026-06-16T08:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "年間最安値：期間限定でInvestingProが55%オフ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1573594",
-      "published": "2026-06-16 05:47:53",
-      "isoDate": "2026-06-16T05:47:53Z"
     }
   ],
   "btc_items": [
