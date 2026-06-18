@@ -1,7 +1,35 @@
 {
-  "updated": "2026-06-18T15:36:13Z",
-  "last_checked": "2026-06-18T15:36:13Z",
+  "updated": "2026-06-18T18:28:27Z",
+  "last_checked": "2026-06-18T18:28:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原糖先物、エネルギー価格下落と中国需要減退で値下がり",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577335",
+      "published": "2026-06-18 17:11:46",
+      "isoDate": "2026-06-18T17:11:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、フランスの熱波がシカゴ下落を相殺し横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577334",
+      "published": "2026-06-18 17:11:20",
+      "isoDate": "2026-06-18T17:11:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "コーヒー先物、週間高値到達後に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577320",
+      "published": "2026-06-18 16:24:56",
+      "isoDate": "2026-06-18T16:24:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック乾燥貨物運賃指数、約2カ月ぶり安値から反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577319",
+      "published": "2026-06-18 16:24:40",
+      "isoDate": "2026-06-18T16:24:40Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "アゼルバイジャンのBTCパイプライン経由の石油輸出、5カ月間で8.6%減",
@@ -43,34 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1576306",
       "published": "2026-06-18 00:49:50",
       "isoDate": "2026-06-18T00:49:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領のイラン停戦への疑念で欧州ガソリンマージンが下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1575957",
-      "published": "2026-06-17 18:02:40",
-      "isoDate": "2026-06-17T18:02:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫、先週83​0万バレル減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1575819",
-      "published": "2026-06-17 14:54:15",
-      "isoDate": "2026-06-17T14:54:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランとの和平合意でエネルギーリスクプレミアムが緩和、EU天然ガスが1カ月ぶり安値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-1575146",
-      "published": "2026-06-17 08:46:24",
-      "isoDate": "2026-06-17T08:46:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "IEAが石油需要予測を下方修正、2027年に供給回復を見込む",
-      "link": "https://jp.investing.com/news/commodities-news/article-1575141",
-      "published": "2026-06-17 08:32:39",
-      "isoDate": "2026-06-17T08:32:39Z"
     }
   ],
   "usdjpy_items": [
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1577289",
       "published": "2026-06-18 15:11:26",
       "isoDate": "2026-06-18T15:11:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米5月景気先行指数は予想に一致、ドル高止まり",
-      "link": "https://jp.investing.com/news/forex-news/article-1577267",
-      "published": "2026-06-18 15:00:06",
-      "isoDate": "2026-06-18T15:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "230%超のリターン：市場反発の中で上昇するAI厳選テック株",
+      "title": "230%超のリターン：市場反発の中、AI選定のテック銘柄が上昇中",
       "link": "https://jp.investing.com/news/stock-market-news/article-1576738",
       "published": "2026-06-18 10:33:40",
       "isoDate": "2026-06-18T10:33:40Z"
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1576696",
       "published": "2026-06-18 10:00:32",
       "isoDate": "2026-06-18T10:00:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォーシュ氏がFRBの変革を示唆、米国とイランが和平協定に署名",
+      "link": "https://jp.investing.com/news/economy-news/article-1576597",
+      "published": "2026-06-18 08:03:41",
+      "isoDate": "2026-06-18T08:03:41Z"
     },
     {
       "source": "Investing.com 外為",
