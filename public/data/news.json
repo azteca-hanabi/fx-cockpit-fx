@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-17T23:04:17Z",
-  "last_checked": "2026-06-17T23:04:17Z",
+  "updated": "2026-06-18T02:01:48Z",
+  "last_checked": "2026-06-18T02:01:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格上昇、米イラン和平合意がFRB利上げ懸念を上回る",
+      "link": "https://jp.investing.com/news/commodities-news/article-1576330",
+      "published": "2026-06-18 01:28:34",
+      "isoDate": "2026-06-18T01:28:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン合意後の供給見通しを巡り、原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1576306",
+      "published": "2026-06-18 00:49:50",
+      "isoDate": "2026-06-18T00:49:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ大統領のイラン停戦への疑念で欧州ガソリンマージンが下落",
@@ -57,36 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1574525",
       "published": "2026-06-16 19:26:21",
       "isoDate": "2026-06-16T19:26:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油ミッドランドの価格差、欧州市場で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1574476",
-      "published": "2026-06-16 17:26:22",
-      "isoDate": "2026-06-16T17:26:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "カタールエナジー、1カ月以内にLNG生産を再開する見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1574396",
-      "published": "2026-06-16 15:07:21",
-      "isoDate": "2026-06-16T15:07:21Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米小売売上高が予想を上回りドル買いが優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1576194",
-      "published": "2026-06-17 22:15:05",
-      "isoDate": "2026-06-17T22:15:05Z"
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比725円高の69910円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1576308",
+      "published": "2026-06-18 01:00:10",
+      "isoDate": "2026-06-18T01:00:10Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは507.12ドル安、利上げを警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1576180",
-      "published": "2026-06-17 22:00:05",
-      "isoDate": "2026-06-17T22:00:05Z"
+      "title": "米イラン合意後の供給見通しを巡り、原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1576306",
+      "published": "2026-06-18 00:49:50",
+      "isoDate": "2026-06-18T00:49:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "17日の米国市場ダイジェスト：米国株式市場は下落、利上げを警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1576264",
+      "published": "2026-06-18 00:00:08",
+      "isoDate": "2026-06-18T00:00:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 6/18",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1576255",
+      "published": "2026-06-17 23:45:09",
+      "isoDate": "2026-06-17T23:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株の押し目待ち狙い～",
+      "link": "https://jp.investing.com/news/forex-news/article-1576253",
+      "published": "2026-06-17 23:45:08",
+      "isoDate": "2026-06-17T23:45:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】FOMCは予想通りに政策据え置き、市場は年内1回の利上げ織り込む、ドル買い",
-      "link": "https://jp.investing.com/news/forex-news/article-1575978",
-      "published": "2026-06-17 18:30:05",
-      "isoDate": "2026-06-17T18:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの株価が本日下落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1575856",
       "published": "2026-06-17 15:32:09",
@@ -125,27 +139,41 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテルの製造プロセス更新が半導体セクターを押し上げ、株価が反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1575304",
-      "published": "2026-06-17 10:57:01",
-      "isoDate": "2026-06-17T10:57:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが見抜いていた：本日+20%急騰、月初来93%超の上昇を見せる注目メーカー",
       "link": "https://jp.investing.com/news/stock-market-news/article-1575213",
       "published": "2026-06-17 09:46:27",
       "isoDate": "2026-06-17T09:46:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスン、TSMCの能力逼迫でBYDやGoogle、アドバンスト・マイクロ・デバイセズから受注拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1574981",
-      "published": "2026-06-17 04:20:37",
-      "isoDate": "2026-06-17T04:20:37Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "CMEグループ、米CFTCを提訴へ　無期限先物の承認めぐり",
+      "link": "https://coinpost.jp/?p=718008",
+      "published": "Thu, 18 Jun 2026 10:34:07 +0900",
+      "isoDate": "2026-06-18T01:34:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン弱気相場続くも投資家の警戒感和らぐ＝グラスノード",
+      "link": "https://coinpost.jp/?p=717951",
+      "published": "Thu, 18 Jun 2026 10:02:31 +0900",
+      "isoDate": "2026-06-18T01:02:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ゲーム業界、クラリティー法案で予測市場のスポーツ賭博禁止を要求",
+      "link": "https://coinpost.jp/?p=717917",
+      "published": "Thu, 18 Jun 2026 09:35:48 +0900",
+      "isoDate": "2026-06-18T00:35:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン下落、FOMC後の米金利上昇が重し　クラリティー法案・原油高も逆風｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=717928",
+      "published": "Thu, 18 Jun 2026 09:00:21 +0900",
+      "isoDate": "2026-06-18T00:00:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン長期保有者の保有比率が過去最高、弱気相場の終盤か＝K33分析",
@@ -208,20 +236,6 @@
       "link": "https://coinpost.jp/?p=717743",
       "published": "Wed, 17 Jun 2026 13:45:49 +0900",
       "isoDate": "2026-06-17T04:45:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FTX創業者SBF、25年の刑期中に独自コイン発行を構想か＝報道",
-      "link": "https://coinpost.jp/?p=717677",
-      "published": "Wed, 17 Jun 2026 13:20:49 +0900",
-      "isoDate": "2026-06-17T04:20:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ステーブルコイン市場シェア倍増、仮想通貨下落で相対的に拡大＝CryptoRank",
-      "link": "https://coinpost.jp/?p=717706",
-      "published": "Wed, 17 Jun 2026 09:50:18 +0900",
-      "isoDate": "2026-06-17T00:50:18Z"
     }
   ]
 }
