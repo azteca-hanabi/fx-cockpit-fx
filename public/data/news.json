@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T21:05:32Z",
-  "last_checked": "2026-06-18T21:05:32Z",
+  "updated": "2026-06-18T23:18:39Z",
+  "last_checked": "2026-06-18T23:18:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インテル、先端パッケージング部門を率いるEVPにイ・ソクヒ氏を任命",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1577507",
-      "published": "2026-06-18 20:32:09",
-      "isoDate": "2026-06-18T20:32:09Z"
+      "title": "NY金：続落で4227.75ドル、タカ派FOMCを受けた米金利上昇・ドル高が重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1577630",
+      "published": "2026-06-18 22:45:07",
+      "isoDate": "2026-06-18T22:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米6月フィラデルフィア連銀製造業景況指数が予想を上回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1577603",
+      "published": "2026-06-18 22:00:06",
+      "isoDate": "2026-06-18T22:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1577473",
       "published": "2026-06-18 20:21:23",
       "isoDate": "2026-06-18T20:21:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだテクノロジー株が急騰、230%超のリターンを記録",
-      "link": "https://jp.investing.com/news/investment-ideas/article-1577291",
-      "published": "2026-06-18 15:13:58",
-      "isoDate": "2026-06-18T15:13:58Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,90 +145,5 @@
       "isoDate": "2026-06-18T06:49:58Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘の収益悪化を警告　生産コスト5ヶ月連続割れ＝JPモルガンレポート",
-      "link": "https://coinpost.jp/?p=718268",
-      "published": "Fri, 19 Jun 2026 05:50:28 +0900",
-      "isoDate": "2026-06-18T20:50:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "G7首脳声明、北朝鮮の仮想通貨窃取に対する共同対処を呼びかけ",
-      "link": "https://coinpost.jp/?p=718256",
-      "published": "Thu, 18 Jun 2026 22:00:09 +0900",
-      "isoDate": "2026-06-18T13:00:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン大口保有者の供給量、1680万BTC超で過去最高　小口も押し目買いに転換＝アナリスト",
-      "link": "https://coinpost.jp/?p=718210",
-      "published": "Thu, 18 Jun 2026 18:05:23 +0900",
-      "isoDate": "2026-06-18T09:05:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "フランス、2027年から量子耐性なき暗号製品の認証を停止　仮想通貨にも影響",
-      "link": "https://coinpost.jp/?p=718160",
-      "published": "Thu, 18 Jun 2026 16:19:02 +0900",
-      "isoDate": "2026-06-18T07:19:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米超党派議員、FTX前CEOの大統領恩赦懇願に反対する決議案を提出",
-      "link": "https://coinpost.jp/?p=718032",
-      "published": "Thu, 18 Jun 2026 13:05:16 +0900",
-      "isoDate": "2026-06-18T04:05:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、「ビットコイン備蓄で配当を32年分カバー」と表明　STRC上場以来安値に",
-      "link": "https://coinpost.jp/?p=718080",
-      "published": "Thu, 18 Jun 2026 12:20:48 +0900",
-      "isoDate": "2026-06-18T03:20:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リミックスポイント、BTC価格連動の特別配当を検討　国内初の試み",
-      "link": "https://coinpost.jp/?p=718046",
-      "published": "Thu, 18 Jun 2026 12:10:36 +0900",
-      "isoDate": "2026-06-18T03:10:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスの欧州ライセンス申請、フランスが最後の選択肢か　ECBの政治介入疑惑も浮上＝報道",
-      "link": "https://coinpost.jp/?p=718000",
-      "published": "Thu, 18 Jun 2026 11:05:46 +0900",
-      "isoDate": "2026-06-18T02:05:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CME、CFTCを提訴へ　仮想通貨無期限先物の承認めぐり",
-      "link": "https://coinpost.jp/?p=718008",
-      "published": "Thu, 18 Jun 2026 10:34:07 +0900",
-      "isoDate": "2026-06-18T01:34:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン弱気相場続くも投資家の警戒感和らぐ＝グラスノード",
-      "link": "https://coinpost.jp/?p=717951",
-      "published": "Thu, 18 Jun 2026 10:02:31 +0900",
-      "isoDate": "2026-06-18T01:02:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ゲーム業界、クラリティー法案で予測市場のスポーツ賭博禁止を要求",
-      "link": "https://coinpost.jp/?p=717917",
-      "published": "Thu, 18 Jun 2026 09:35:48 +0900",
-      "isoDate": "2026-06-18T00:35:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落、FOMC後の米金利上昇が重し　クラリティー法案・原油高も逆風｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=717928",
-      "published": "Thu, 18 Jun 2026 09:00:21 +0900",
-      "isoDate": "2026-06-18T00:00:21Z"
-    }
-  ]
+  "btc_items": []
 }
