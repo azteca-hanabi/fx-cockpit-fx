@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-18T02:01:48Z",
-  "last_checked": "2026-06-18T02:01:48Z",
+  "updated": "2026-06-18T07:16:25Z",
+  "last_checked": "2026-06-18T07:16:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン合意後の供給見通しを巡り、原油価格が下落",
+      "title": "米イラン合意を受け供給見通しを巡る懸念から原油価格が約3%下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1576306",
       "published": "2026-06-18 00:49:50",
       "isoDate": "2026-06-18T00:49:50Z"
@@ -76,31 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比725円高の69910円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1576308",
-      "published": "2026-06-18 01:00:10",
-      "isoDate": "2026-06-18T01:00:10Z"
+      "title": "東京為替：ドル・円は動意薄、原油・米金利にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1576469",
+      "published": "2026-06-18 06:00:19",
+      "isoDate": "2026-06-18T06:00:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米イラン合意後の供給見通しを巡り、原油価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1576306",
-      "published": "2026-06-18 00:49:50",
-      "isoDate": "2026-06-18T00:49:50Z"
+      "title": "日経平均は1308円高、米経済指標に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1576470",
+      "published": "2026-06-18 06:00:19",
+      "isoDate": "2026-06-18T06:00:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "17日の米国市場ダイジェスト：米国株式市場は下落、利上げを警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1576264",
-      "published": "2026-06-18 00:00:08",
-      "isoDate": "2026-06-18T00:00:08Z"
+      "title": "米国株見通し：下げ渋りか、FOMC消化し買戻しに期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1576437",
+      "published": "2026-06-18 04:45:18",
+      "isoDate": "2026-06-18T04:45:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 6/18",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1576255",
-      "published": "2026-06-17 23:45:09",
-      "isoDate": "2026-06-17T23:45:09Z"
+      "title": "後場の日経平均は971円高でスタート、味の素やリクルートHDなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1576424",
+      "published": "2026-06-18 04:15:18",
+      "isoDate": "2026-06-18T04:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格上昇、米イラン和平合意がFRB利上げ懸念を上回る",
+      "link": "https://jp.investing.com/news/commodities-news/article-1576330",
+      "published": "2026-06-18 01:28:34",
+      "isoDate": "2026-06-18T01:28:34Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1576253",
       "published": "2026-06-17 23:45:08",
       "isoDate": "2026-06-17T23:45:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルCEO、チップコスト上昇で値上げは「避けられない」と警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1576153",
-      "published": "2026-06-17 21:29:17",
-      "isoDate": "2026-06-17T21:29:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,7 +148,35 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "CMEグループ、米CFTCを提訴へ　無期限先物の承認めぐり",
+      "title": "米超党派議員、FTX前CEOの大統領恩赦懇願に反対する決議案を提出",
+      "link": "https://coinpost.jp/?p=718032",
+      "published": "Thu, 18 Jun 2026 13:05:16 +0900",
+      "isoDate": "2026-06-18T04:05:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、「ビットコイン備蓄で配当を32年分カバー」と表明　STRC上場以来安値に",
+      "link": "https://coinpost.jp/?p=718080",
+      "published": "Thu, 18 Jun 2026 12:20:48 +0900",
+      "isoDate": "2026-06-18T03:20:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リミックスポイント、BTC価格連動の特別配当を検討　国内初の試み",
+      "link": "https://coinpost.jp/?p=718046",
+      "published": "Thu, 18 Jun 2026 12:10:36 +0900",
+      "isoDate": "2026-06-18T03:10:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスの欧州ライセンス申請、フランスが最後の選択肢か　ECBの政治介入疑惑も浮上＝報道",
+      "link": "https://coinpost.jp/?p=718000",
+      "published": "Thu, 18 Jun 2026 11:05:46 +0900",
+      "isoDate": "2026-06-18T02:05:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米CME、CFTCを提訴へ　仮想通貨無期限先物の承認めぐり",
       "link": "https://coinpost.jp/?p=718008",
       "published": "Thu, 18 Jun 2026 10:34:07 +0900",
       "isoDate": "2026-06-18T01:34:07Z"
@@ -201,41 +229,6 @@
       "link": "https://coinpost.jp/?p=717916",
       "published": "Thu, 18 Jun 2026 05:55:32 +0900",
       "isoDate": "2026-06-17T20:55:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン価格より先にファンダメンタルズが回復、スイスブロック分析",
-      "link": "https://coinpost.jp/?p=717863",
-      "published": "Wed, 17 Jun 2026 17:07:00 +0900",
-      "isoDate": "2026-06-17T08:07:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国の仮想通貨取引量、前年比28％減　AI・半導体株に投機資金が流出＝報道",
-      "link": "https://coinpost.jp/?p=717820",
-      "published": "Wed, 17 Jun 2026 15:55:29 +0900",
-      "isoDate": "2026-06-17T06:55:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン相場、底打ち判断は時期尚早　「流動性の回復が鍵」＝ウィンターミュート分析",
-      "link": "https://coinpost.jp/?p=717749",
-      "published": "Wed, 17 Jun 2026 14:05:53 +0900",
-      "isoDate": "2026-06-17T05:05:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "GMOコイン、仮想通貨・FXなど向けAI分析でブリッジワイズと提携",
-      "link": "https://coinpost.jp/?p=717762",
-      "published": "Wed, 17 Jun 2026 13:49:26 +0900",
-      "isoDate": "2026-06-17T04:49:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AIエージェントがサイト閲覧でお金を払う仕組み、コインベースとAWSで実現",
-      "link": "https://coinpost.jp/?p=717743",
-      "published": "Wed, 17 Jun 2026 13:45:49 +0900",
-      "isoDate": "2026-06-17T04:45:49Z"
     }
   ]
 }
