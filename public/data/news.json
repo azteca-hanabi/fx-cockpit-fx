@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T18:02:23Z",
-  "last_checked": "2026-06-19T18:02:23Z",
+  "updated": "2026-06-19T20:16:17Z",
+  "last_checked": "2026-06-19T20:16:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "中東産油国オマーン、強制参加型ビットコインマイニングプールを開設",
+      "link": "https://coinpost.jp/?p=718589",
+      "published": "Sat, 20 Jun 2026 05:00:04 +0900",
+      "isoDate": "2026-06-19T20:00:04Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "仮想通貨の資金調達ラウンド数、21年比約4割減　戦略的投資は増加＝CryptoRank",
       "link": "https://coinpost.jp/?p=718570",
       "published": "Fri, 19 Jun 2026 17:59:03 +0900",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=718271",
       "published": "Fri, 19 Jun 2026 08:00:53 +0900",
       "isoDate": "2026-06-18T23:00:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米仮想通貨支持派議員の息子、株式無期限先物取引所立ち上げで48億円調達",
-      "link": "https://coinpost.jp/?p=718272",
-      "published": "Fri, 19 Jun 2026 06:35:56 +0900",
-      "isoDate": "2026-06-18T21:35:56Z"
     }
   ]
 }
