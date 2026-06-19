@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-19T02:19:01Z",
-  "last_checked": "2026-06-19T02:19:01Z",
+  "updated": "2026-06-19T07:40:09Z",
+  "last_checked": "2026-06-19T07:40:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の交通再開で原油価格は週間で急落へ",
+      "title": "タカ派FRBがイラン和平の好材料を圧倒、金は3週連続の下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1577772",
+      "published": "2026-06-19 02:19:19",
+      "isoDate": "2026-06-19T02:19:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、イラン合意の不透明感の中で上昇も週間では大幅下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1577696",
       "published": "2026-06-19 00:30:16",
       "isoDate": "2026-06-19T00:30:16Z"
@@ -64,50 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577203",
       "published": "2026-06-18 14:04:26",
       "isoDate": "2026-06-18T14:04:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPECは石油需要の成長予測を維持、ピークは見込まれず",
-      "link": "https://jp.investing.com/news/commodities-news/article-1577188",
-      "published": "2026-06-18 13:51:04",
-      "isoDate": "2026-06-18T13:51:04Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "フジクラ、キオクシアHD、さいか屋など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1577860",
+      "published": "2026-06-19 07:15:13",
+      "isoDate": "2026-06-19T07:15:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国・イラン和平協議、スイスでの開催が中止に",
+      "link": "https://jp.investing.com/news/economy-news/article-1577806",
+      "published": "2026-06-19 04:06:22",
+      "isoDate": "2026-06-19T04:06:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～買い優勢で連日最高値上回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1577794",
+      "published": "2026-06-19 03:30:17",
+      "isoDate": "2026-06-19T03:30:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "注目銘柄ダイジェスト（前場）:フジクラ、キオクシアHD、さいか屋など",
+      "link": "https://jp.investing.com/news/forex-news/article-1577778",
+      "published": "2026-06-19 02:45:15",
+      "isoDate": "2026-06-19T02:45:15Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "キオクシア---大幅続伸、米メモリ株上昇を受けて初の10万円台乗せ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577759",
       "published": "2026-06-19 01:45:15",
       "isoDate": "2026-06-19T01:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フジクラ---ストップ高買い気配、想定以上の大幅上方修正を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577746",
-      "published": "2026-06-19 01:30:15",
-      "isoDate": "2026-06-19T01:30:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金は底値圏でのレンジ相場が続きそう　サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577719",
-      "published": "2026-06-19 01:00:09",
-      "isoDate": "2026-06-19T01:00:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "18日の米国市場ダイジェスト：米国株式市場は反発、対イラン暫定和平合意発効で原油、金利安を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1577683",
-      "published": "2026-06-19 00:15:08",
-      "isoDate": "2026-06-19T00:15:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アマゾンがTrainiumチップを外部販売へ、マーベル・テクノロジー・グループが7%急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577473",
-      "published": "2026-06-18 20:21:23",
-      "isoDate": "2026-06-18T20:21:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー優先株STRC・ストライブSATA下落、ストライブCEO「信用悪化ではなくレバレッジ解消」",
+      "link": "https://coinpost.jp/?p=718532",
+      "published": "Fri, 19 Jun 2026 16:12:36 +0900",
+      "isoDate": "2026-06-19T07:12:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、仮想通貨をキャッシュフローで評価する新手法を提唱　アーベの事例を徹底分析",
+      "link": "https://coinpost.jp/?p=718504",
+      "published": "Fri, 19 Jun 2026 14:24:14 +0900",
+      "isoDate": "2026-06-19T05:24:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットディア、クリーンスパークなどマイナー4社、ビットコイン蓄積と売却で戦略分かれる",
+      "link": "https://coinpost.jp/?p=718425",
+      "published": "Fri, 19 Jun 2026 13:15:10 +0900",
+      "isoDate": "2026-06-19T04:15:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレットを狙ったマルウェア、USBから感染し送金先を無断書き換え　マイクロソフトが警告",
+      "link": "https://coinpost.jp/?p=718269",
+      "published": "Fri, 19 Jun 2026 11:40:49 +0900",
+      "isoDate": "2026-06-19T02:40:49Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン上の少額トランザクションが過去最高水準に迫る＝クリプトクアント",
@@ -194,20 +222,6 @@
       "link": "https://coinpost.jp/?p=718256",
       "published": "Thu, 18 Jun 2026 22:00:09 +0900",
       "isoDate": "2026-06-18T13:00:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン大口保有者の供給量、1680万BTC超で過去最高　小口も押し目買いに転換＝アナリスト",
-      "link": "https://coinpost.jp/?p=718210",
-      "published": "Thu, 18 Jun 2026 18:05:23 +0900",
-      "isoDate": "2026-06-18T09:05:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "フランス、2027年から量子耐性なき暗号製品の認証を停止　仮想通貨にも影響",
-      "link": "https://coinpost.jp/?p=718160",
-      "published": "Thu, 18 Jun 2026 16:19:02 +0900",
-      "isoDate": "2026-06-18T07:19:02Z"
     }
   ]
 }
