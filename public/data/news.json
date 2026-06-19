@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T20:16:17Z",
-  "last_checked": "2026-06-19T20:16:17Z",
+  "updated": "2026-06-19T21:45:48Z",
+  "last_checked": "2026-06-19T21:45:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は7日続伸、アドバンテストやキオクシアHDが2銘柄で約622円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1577888",
+      "published": "2026-06-19 08:00:17",
+      "isoDate": "2026-06-19T08:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "フジクラ、キオクシアHD、さいか屋など",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577860",
       "published": "2026-06-19 07:15:13",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アマゾンがTrainiumチップを外部販売へ、マーベル・テクノロジー・グループが7%急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577473",
-      "published": "2026-06-18 20:21:23",
-      "isoDate": "2026-06-18T20:21:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サンディスクとマイクロンテクノロジー急騰、アップルがメモリ価格転嫁を確認",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577215",
       "published": "2026-06-18 14:14:41",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米フランクリン・テンプルトン、配当をビットコインへ再投資するETFをSEC申請",
+      "link": "https://coinpost.jp/?p=718595",
+      "published": "Sat, 20 Jun 2026 06:15:31 +0900",
+      "isoDate": "2026-06-19T21:15:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、7月4日休会前の上院採決に3つの壁",
+      "link": "https://coinpost.jp/?p=718596",
+      "published": "Sat, 20 Jun 2026 05:50:56 +0900",
+      "isoDate": "2026-06-19T20:50:56Z"
+    },
     {
       "source": "CoinPost",
       "title": "中東産油国オマーン、強制参加型ビットコインマイニングプールを開設",
@@ -201,20 +215,6 @@
       "link": "https://coinpost.jp/?p=718302",
       "published": "Fri, 19 Jun 2026 10:20:11 +0900",
       "isoDate": "2026-06-19T01:20:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイナーハイブ、ベル・カナダと354億円規模の主権AI契約を締結",
-      "link": "https://coinpost.jp/?p=718270",
-      "published": "Fri, 19 Jun 2026 08:50:51 +0900",
-      "isoDate": "2026-06-18T23:50:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーのSTRC優先株、安値更新　レバレッジ清算連鎖で額面割れ",
-      "link": "https://coinpost.jp/?p=718271",
-      "published": "Fri, 19 Jun 2026 08:00:53 +0900",
-      "isoDate": "2026-06-18T23:00:53Z"
     }
   ]
 }
