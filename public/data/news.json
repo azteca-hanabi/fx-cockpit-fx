@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T21:45:48Z",
-  "last_checked": "2026-06-19T21:45:48Z",
+  "updated": "2026-06-19T23:02:20Z",
+  "last_checked": "2026-06-19T23:02:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1メイコー、キオクシアHD、古河電気工業など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1577995",
+      "published": "2026-06-19 22:30:05",
+      "isoDate": "2026-06-19T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが見抜いていた：+25%超の上昇でなお上昇中、この半導体株は新高値を更新し続けている",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577900",
       "published": "2026-06-19 08:42:27",
       "isoDate": "2026-06-19T08:42:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は7日続伸、アドバンテストやキオクシアHDが2銘柄で約622円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577888",
-      "published": "2026-06-19 08:00:17",
-      "isoDate": "2026-06-19T08:00:17Z"
     },
     {
       "source": "Investing.com 外為",
