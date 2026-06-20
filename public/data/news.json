@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T01:36:12Z",
-  "last_checked": "2026-06-20T01:36:12Z",
+  "updated": "2026-06-20T06:26:12Z",
+  "last_checked": "2026-06-20T06:26:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米イラン合意でIRGCが制裁緩和の恩恵を受ける可能性－ロイター",
+      "link": "https://jp.investing.com/news/economy-news/article-1578019",
+      "published": "2026-06-20 05:11:05",
+      "isoDate": "2026-06-20T05:11:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "なぜ米国は中国より活況を呈しているのか？",
+      "link": "https://jp.investing.com/news/economy-news/article-1578017",
+      "published": "2026-06-20 04:02:56",
+      "isoDate": "2026-06-20T04:02:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国とカタール、イランの凍結資産60億ドルへのアクセス計画を協議",
+      "link": "https://jp.investing.com/news/economy-news/article-1578015",
+      "published": "2026-06-20 03:23:11",
+      "isoDate": "2026-06-20T03:23:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカ、円安の主要因の一つを指摘",
+      "link": "https://jp.investing.com/news/economy-news/article-1578010",
+      "published": "2026-06-20 02:07:05",
+      "isoDate": "2026-06-20T02:07:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "GoogleのジョンJumper氏、DeepMindを離れAnthropicへ",
       "link": "https://jp.investing.com/news/company-news/article-1578002",
       "published": "2026-06-20 00:06:26",
@@ -104,38 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国・イラン協議延期、原油は週間下落へ――市場を動かす要因",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577887",
-      "published": "2026-06-19 07:04:02",
-      "isoDate": "2026-06-19T07:04:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イスラエルとヒズボラが停戦合意――ロイター報道",
-      "link": "https://jp.investing.com/news/economy-news/article-1577806",
-      "published": "2026-06-19 04:06:22",
-      "isoDate": "2026-06-19T04:06:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "注目銘柄ダイジェスト（前場）:フジクラ、キオクシアHD、さいか屋など",
-      "link": "https://jp.investing.com/news/forex-news/article-1577778",
-      "published": "2026-06-19 02:45:15",
-      "isoDate": "2026-06-19T02:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシア---大幅続伸、米メモリ株上昇を受けて初の10万円台乗せ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577759",
       "published": "2026-06-19 01:45:15",
       "isoDate": "2026-06-19T01:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスクとマイクロンテクノロジー急騰、アップルがメモリ価格転嫁を確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577215",
-      "published": "2026-06-18 14:14:41",
-      "isoDate": "2026-06-18T14:14:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,76 @@
       "isoDate": "2026-06-18T13:16:10Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "イーサリアム財団の元メンバー、ETH開発の資金面のリスクを指摘",
+      "link": "https://coinpost.jp/?p=718644",
+      "published": "Sat, 20 Jun 2026 13:45:47 +0900",
+      "isoDate": "2026-06-20T04:45:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アニメ壁紙マルウェアに注意、仮想通貨も標的　Steamで数万回DL＝カスペルスキー",
+      "link": "https://coinpost.jp/?p=718630",
+      "published": "Sat, 20 Jun 2026 13:30:46 +0900",
+      "isoDate": "2026-06-20T04:30:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道",
+      "link": "https://coinpost.jp/?p=718601",
+      "published": "Sat, 20 Jun 2026 11:35:36 +0900",
+      "isoDate": "2026-06-20T02:35:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米フランクリン・テンプルトン、配当をビットコインへ再投資するETFをSEC申請",
+      "link": "https://coinpost.jp/?p=718595",
+      "published": "Sat, 20 Jun 2026 06:15:31 +0900",
+      "isoDate": "2026-06-19T21:15:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、7月4日休会前の上院採決に3つの壁",
+      "link": "https://coinpost.jp/?p=718596",
+      "published": "Sat, 20 Jun 2026 05:50:56 +0900",
+      "isoDate": "2026-06-19T20:50:56Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "中東産油国オマーン、強制参加型ビットコインマイニングプールを開設",
+      "link": "https://coinpost.jp/?p=718589",
+      "published": "Sat, 20 Jun 2026 05:00:04 +0900",
+      "isoDate": "2026-06-19T20:00:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨の資金調達ラウンド数、21年比約4割減　戦略的投資は増加＝CryptoRank",
+      "link": "https://coinpost.jp/?p=718570",
+      "published": "Fri, 19 Jun 2026 17:59:03 +0900",
+      "isoDate": "2026-06-19T08:59:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト",
+      "link": "https://coinpost.jp/?p=718553",
+      "published": "Fri, 19 Jun 2026 17:25:37 +0900",
+      "isoDate": "2026-06-19T08:25:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー優先株STRC・ストライブSATA下落、ストライブCEO「信用悪化ではなくレバレッジ解消」",
+      "link": "https://coinpost.jp/?p=718532",
+      "published": "Fri, 19 Jun 2026 16:12:36 +0900",
+      "isoDate": "2026-06-19T07:12:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、仮想通貨をキャッシュフローで評価する新手法を提唱　アーベの事例を徹底分析",
+      "link": "https://coinpost.jp/?p=718504",
+      "published": "Fri, 19 Jun 2026 14:24:14 +0900",
+      "isoDate": "2026-06-19T05:24:14Z"
+    }
+  ]
 }
