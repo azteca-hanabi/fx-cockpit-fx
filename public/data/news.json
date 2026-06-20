@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T06:26:12Z",
-  "last_checked": "2026-06-20T06:26:12Z",
+  "updated": "2026-06-20T09:50:19Z",
+  "last_checked": "2026-06-20T09:50:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ビットコインが6万3,000ドル超に反発、規制動向を市場が注視",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1578037",
+      "published": "2026-06-20 09:01:53",
+      "isoDate": "2026-06-20T09:01:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：米コアPCE価格指数、東京CPI、米マイクロン・テクノロジー決算",
+      "link": "https://jp.investing.com/news/forex-news/article-1578035",
+      "published": "2026-06-20 09:00:04",
+      "isoDate": "2026-06-20T09:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "WWDCを経て、アップルの次の一手は？",
+      "link": "https://jp.investing.com/news/company-news/article-1578033",
+      "published": "2026-06-20 07:58:03",
+      "isoDate": "2026-06-20T07:58:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：中東情勢改善織り込む中でAI関連物色の持続性に注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1578027",
+      "published": "2026-06-20 07:00:04",
+      "isoDate": "2026-06-20T07:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "為替週間見通し：伸び悩みか、日米金融政策決定を通過後も上値に重さ",
+      "link": "https://jp.investing.com/news/forex-news/article-1578024",
+      "published": "2026-06-20 06:45:03",
+      "isoDate": "2026-06-20T06:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米イラン合意でIRGCが制裁緩和の恩恵を受ける可能性－ロイター",
       "link": "https://jp.investing.com/news/economy-news/article-1578019",
       "published": "2026-06-20 05:11:05",
@@ -83,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "なぜ米国は中国より活況を呈しているのか？",
-      "link": "https://jp.investing.com/news/economy-news/article-1578017",
-      "published": "2026-06-20 04:02:56",
-      "isoDate": "2026-06-20T04:02:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国とカタール、イランの凍結資産60億ドルへのアクセス計画を協議",
-      "link": "https://jp.investing.com/news/economy-news/article-1578015",
-      "published": "2026-06-20 03:23:11",
-      "isoDate": "2026-06-20T03:23:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカ、円安の主要因の一つを指摘",
       "link": "https://jp.investing.com/news/economy-news/article-1578010",
       "published": "2026-06-20 02:07:05",
       "isoDate": "2026-06-20T02:07:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "GoogleのジョンJumper氏、DeepMindを離れAnthropicへ",
-      "link": "https://jp.investing.com/news/company-news/article-1578002",
-      "published": "2026-06-20 00:06:26",
-      "isoDate": "2026-06-20T00:06:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1577900",
       "published": "2026-06-19 08:42:27",
       "isoDate": "2026-06-19T08:42:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フジクラ、キオクシアHD、さいか屋など",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577860",
-      "published": "2026-06-19 07:15:13",
-      "isoDate": "2026-06-19T07:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キオクシア---大幅続伸、米メモリ株上昇を受けて初の10万円台乗せ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577759",
-      "published": "2026-06-19 01:45:15",
-      "isoDate": "2026-06-19T01:45:15Z"
     },
     {
       "source": "Investing.com 外為",
