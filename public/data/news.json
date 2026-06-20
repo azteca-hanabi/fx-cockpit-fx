@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-19T23:02:20Z",
-  "last_checked": "2026-06-19T23:02:20Z",
+  "updated": "2026-06-20T01:36:12Z",
+  "last_checked": "2026-06-20T01:36:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "GoogleのジョンJumper氏、DeepMindを離れAnthropicへ",
+      "link": "https://jp.investing.com/news/company-news/article-1578002",
+      "published": "2026-06-20 00:06:26",
+      "isoDate": "2026-06-20T00:06:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "前日に動いた銘柄 part1メイコー、キオクシアHD、古河電気工業など",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577995",
       "published": "2026-06-19 22:30:05",
@@ -136,85 +143,7 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1577109",
       "published": "2026-06-18 13:16:10",
       "isoDate": "2026-06-18T13:16:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "230%超のリターン：市場反発の中、AI選定のテック銘柄が上昇中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1576738",
-      "published": "2026-06-18 10:33:40",
-      "isoDate": "2026-06-18T10:33:40Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米フランクリン・テンプルトン、配当をビットコインへ再投資するETFをSEC申請",
-      "link": "https://coinpost.jp/?p=718595",
-      "published": "Sat, 20 Jun 2026 06:15:31 +0900",
-      "isoDate": "2026-06-19T21:15:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、7月4日休会前の上院採決に3つの壁",
-      "link": "https://coinpost.jp/?p=718596",
-      "published": "Sat, 20 Jun 2026 05:50:56 +0900",
-      "isoDate": "2026-06-19T20:50:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "中東産油国オマーン、強制参加型ビットコインマイニングプールを開設",
-      "link": "https://coinpost.jp/?p=718589",
-      "published": "Sat, 20 Jun 2026 05:00:04 +0900",
-      "isoDate": "2026-06-19T20:00:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の資金調達ラウンド数、21年比約4割減　戦略的投資は増加＝CryptoRank",
-      "link": "https://coinpost.jp/?p=718570",
-      "published": "Fri, 19 Jun 2026 17:59:03 +0900",
-      "isoDate": "2026-06-19T08:59:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト",
-      "link": "https://coinpost.jp/?p=718553",
-      "published": "Fri, 19 Jun 2026 17:25:37 +0900",
-      "isoDate": "2026-06-19T08:25:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー優先株STRC・ストライブSATA下落、ストライブCEO「信用悪化ではなくレバレッジ解消」",
-      "link": "https://coinpost.jp/?p=718532",
-      "published": "Fri, 19 Jun 2026 16:12:36 +0900",
-      "isoDate": "2026-06-19T07:12:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール、仮想通貨をキャッシュフローで評価する新手法を提唱　アーベの事例を徹底分析",
-      "link": "https://coinpost.jp/?p=718504",
-      "published": "Fri, 19 Jun 2026 14:24:14 +0900",
-      "isoDate": "2026-06-19T05:24:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットディア、クリーンスパークなどマイナー4社、ビットコイン蓄積と売却で戦略分かれる",
-      "link": "https://coinpost.jp/?p=718425",
-      "published": "Fri, 19 Jun 2026 13:15:10 +0900",
-      "isoDate": "2026-06-19T04:15:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ウォレットを狙ったマルウェア、USBから感染し送金先を無断書き換え　マイクロソフトが警告",
-      "link": "https://coinpost.jp/?p=718269",
-      "published": "Fri, 19 Jun 2026 11:40:49 +0900",
-      "isoDate": "2026-06-19T02:40:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上の少額トランザクションが過去最高水準に迫る＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=718302",
-      "published": "Fri, 19 Jun 2026 10:20:11 +0900",
-      "isoDate": "2026-06-19T01:20:11Z"
-    }
-  ]
+  "btc_items": []
 }
