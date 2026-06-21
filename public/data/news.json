@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T00:13:06Z",
-  "last_checked": "2026-06-21T00:13:06Z",
+  "updated": "2026-06-21T05:26:28Z",
+  "last_checked": "2026-06-21T05:26:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "低成長にもかかわらずECBは追加利上げの可能性＝バンク・オブ・アメリカ",
+      "link": "https://jp.investing.com/news/economy-news/article-1578069",
+      "published": "2026-06-21 02:35:33",
+      "isoDate": "2026-06-21T02:35:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米イラン戦争終結で共和党の中間選挙に追い風はあるか",
       "link": "https://jp.investing.com/news/economy-news/article-1578055",
       "published": "2026-06-20 18:01:31",
@@ -132,89 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、円安の主要因の一つを指摘",
-      "link": "https://jp.investing.com/news/economy-news/article-1578010",
-      "published": "2026-06-20 02:07:05",
-      "isoDate": "2026-06-20T02:07:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが見抜いていた：+25%超の上昇でなお上昇中、この半導体株は新高値を更新し続けている",
       "link": "https://jp.investing.com/news/stock-market-news/article-1577900",
       "published": "2026-06-19 08:42:27",
       "isoDate": "2026-06-19T08:42:27Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "イーサリアム財団の元メンバー、ETH開発の資金面のリスクを指摘",
-      "link": "https://coinpost.jp/?p=718644",
-      "published": "Sat, 20 Jun 2026 13:45:47 +0900",
-      "isoDate": "2026-06-20T04:45:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アニメ壁紙マルウェアに注意、仮想通貨も標的　Steamで数万回DL＝カスペルスキー",
-      "link": "https://coinpost.jp/?p=718630",
-      "published": "Sat, 20 Jun 2026 13:30:46 +0900",
-      "isoDate": "2026-06-20T04:30:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道",
-      "link": "https://coinpost.jp/?p=718601",
-      "published": "Sat, 20 Jun 2026 11:35:36 +0900",
-      "isoDate": "2026-06-20T02:35:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米フランクリン・テンプルトン、配当をビットコインへ再投資するETFをSEC申請",
-      "link": "https://coinpost.jp/?p=718595",
-      "published": "Sat, 20 Jun 2026 06:15:31 +0900",
-      "isoDate": "2026-06-19T21:15:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、7月4日休会前の上院採決に3つの壁",
-      "link": "https://coinpost.jp/?p=718596",
-      "published": "Sat, 20 Jun 2026 05:50:56 +0900",
-      "isoDate": "2026-06-19T20:50:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "中東産油国オマーン、強制参加型ビットコインマイニングプールを開設",
-      "link": "https://coinpost.jp/?p=718589",
-      "published": "Sat, 20 Jun 2026 05:00:04 +0900",
-      "isoDate": "2026-06-19T20:00:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の資金調達ラウンド数、21年比約4割減　戦略的投資は増加＝CryptoRank",
-      "link": "https://coinpost.jp/?p=718570",
-      "published": "Fri, 19 Jun 2026 17:59:03 +0900",
-      "isoDate": "2026-06-19T08:59:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト",
-      "link": "https://coinpost.jp/?p=718553",
-      "published": "Fri, 19 Jun 2026 17:25:37 +0900",
-      "isoDate": "2026-06-19T08:25:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー優先株STRC・ストライブSATA下落、ストライブCEO「信用悪化ではなくレバレッジ解消」",
-      "link": "https://coinpost.jp/?p=718532",
-      "published": "Fri, 19 Jun 2026 16:12:36 +0900",
-      "isoDate": "2026-06-19T07:12:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール、仮想通貨をキャッシュフローで評価する新手法を提唱　アーベの事例を徹底分析",
-      "link": "https://coinpost.jp/?p=718504",
-      "published": "Fri, 19 Jun 2026 14:24:14 +0900",
-      "isoDate": "2026-06-19T05:24:14Z"
-    }
-  ]
+  "btc_items": []
 }
