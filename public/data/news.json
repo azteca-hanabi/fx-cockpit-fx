@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T20:13:05Z",
-  "last_checked": "2026-06-21T20:13:05Z",
+  "updated": "2026-06-21T21:56:04Z",
+  "last_checked": "2026-06-21T21:56:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -41,6 +41,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "商務省が先端AI輸出を凍結、シリコンバレーに衝撃",
+      "link": "https://jp.investing.com/news/general-news/article-1578100",
+      "published": "2026-06-21 15:44:14",
+      "isoDate": "2026-06-21T15:44:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米航空株、短期的な逆風に直面――市場の焦点がファンダメンタルズへ回帰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578096",
       "published": "2026-06-21 13:21:00",
@@ -73,13 +80,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1578077",
       "published": "2026-06-21 05:49:16",
       "isoDate": "2026-06-21T05:49:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゼレンスキー大統領、ロシアの大規模攻撃を警告―strikes で少なくとも6人死亡",
-      "link": "https://jp.investing.com/news/economy-news/article-1578062",
-      "published": "2026-06-21 00:20:05",
-      "isoDate": "2026-06-21T00:20:05Z"
     },
     {
       "source": "Investing.com 外為",
