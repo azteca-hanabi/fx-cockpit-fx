@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T21:56:04Z",
-  "last_checked": "2026-06-21T21:56:04Z",
+  "updated": "2026-06-21T23:23:06Z",
+  "last_checked": "2026-06-21T23:23:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -32,6 +32,20 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part2精工技研、アスタリスク、JMACSなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578112",
+      "published": "2026-06-21 22:45:04",
+      "isoDate": "2026-06-21T22:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1メイコー、キオクシアHD、古河電気工業など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578111",
+      "published": "2026-06-21 22:30:03",
+      "isoDate": "2026-06-21T22:30:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "Googleの冷却技術公開、AIデータセンター改修市場を再編か―バーンスタイン",
@@ -76,20 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米制裁、イラン・ロシア・北朝鮮の回避戦術に苦戦――WSJ",
-      "link": "https://jp.investing.com/news/economy-news/article-1578077",
-      "published": "2026-06-21 05:49:16",
-      "isoDate": "2026-06-21T05:49:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米イラン戦争終結で共和党の中間選挙に追い風はあるか",
-      "link": "https://jp.investing.com/news/economy-news/article-1578055",
-      "published": "2026-06-20 18:01:31",
-      "isoDate": "2026-06-20T18:01:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、メモリコスト高騰でスマートフォン市場予測を下方修正",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578045",
       "published": "2026-06-20 11:32:43",
@@ -104,6 +104,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下",
+      "link": "https://coinpost.jp/?p=718677",
+      "published": "Mon, 22 Jun 2026 08:07:29 +0900",
+      "isoDate": "2026-06-21T23:07:29Z"
+    },
     {
       "source": "CoinPost",
       "title": "大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携",
@@ -166,13 +173,6 @@
       "link": "https://coinpost.jp/?p=718570",
       "published": "Fri, 19 Jun 2026 17:59:03 +0900",
       "isoDate": "2026-06-19T08:59:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落がパニック売りを誘発か、損益比率が弱気相場以来の低水準＝アナリスト",
-      "link": "https://coinpost.jp/?p=718553",
-      "published": "Fri, 19 Jun 2026 17:25:37 +0900",
-      "isoDate": "2026-06-19T08:25:37Z"
     }
   ]
 }
