@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T16:16:29Z",
-  "last_checked": "2026-06-21T16:16:29Z",
+  "updated": "2026-06-21T18:06:55Z",
+  "last_checked": "2026-06-21T18:06:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -50,30 +50,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577375",
       "published": "2026-06-18 18:33:40",
       "isoDate": "2026-06-18T18:33:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原糖先物、エネルギー価格下落と中国需要減退で値下がり",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577335",
-      "published": "2026-06-18 17:11:46",
-      "isoDate": "2026-06-18T17:11:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、フランスの熱波がシカゴ下落を相殺し横ばい",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577334",
-      "published": "2026-06-18 17:11:20",
-      "isoDate": "2026-06-18T17:11:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "コーヒー先物、週間高値到達後に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1577320",
-      "published": "2026-06-18 16:24:56",
-      "isoDate": "2026-06-18T16:24:56Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Googleの冷却技術公開、AIデータセンター改修市場を再編か―バーンスタイン",
+      "link": "https://jp.investing.com/news/technology-news/article-1578102",
+      "published": "2026-06-21 16:54:27",
+      "isoDate": "2026-06-21T16:54:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "商務省が先端AI輸出を凍結、シリコンバレーに衝撃",
+      "link": "https://jp.investing.com/news/general-news/article-1578100",
+      "published": "2026-06-21 15:44:14",
+      "isoDate": "2026-06-21T15:44:14Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米航空株、短期的な逆風に直面――市場の焦点がファンダメンタルズへ回帰",
@@ -108,20 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1578077",
       "published": "2026-06-21 05:49:16",
       "isoDate": "2026-06-21T05:49:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "低成長にもかかわらずECBは追加利上げの可能性＝バンク・オブ・アメリカ",
-      "link": "https://jp.investing.com/news/economy-news/article-1578069",
-      "published": "2026-06-21 02:35:33",
-      "isoDate": "2026-06-21T02:35:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゼレンスキー大統領、ロシアの大規模攻撃を警告―strikes で少なくとも6人死亡",
-      "link": "https://jp.investing.com/news/economy-news/article-1578062",
-      "published": "2026-06-21 00:20:05",
-      "isoDate": "2026-06-21T00:20:05Z"
     },
     {
       "source": "Investing.com 外為",
