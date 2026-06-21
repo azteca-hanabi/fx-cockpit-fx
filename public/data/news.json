@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T22:43:54Z",
-  "last_checked": "2026-06-20T22:43:54Z",
+  "updated": "2026-06-21T00:13:06Z",
+  "last_checked": "2026-06-21T00:13:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "KOSPIの上昇がウォン安を招いた理由：BofAが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578047",
+      "published": "2026-06-20 11:49:39",
+      "isoDate": "2026-06-20T11:49:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、メモリコスト高騰でスマートフォン市場予測を下方修正",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578045",
       "published": "2026-06-20 11:32:43",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1578010",
       "published": "2026-06-20 02:07:05",
       "isoDate": "2026-06-20T02:07:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1メイコー、キオクシアHD、古河電気工業など",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1577995",
-      "published": "2026-06-19 22:30:05",
-      "isoDate": "2026-06-19T22:30:05Z"
     },
     {
       "source": "Investing.com 外為",
