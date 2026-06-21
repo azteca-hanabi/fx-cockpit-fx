@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-21T09:09:21Z",
-  "last_checked": "2026-06-21T09:09:21Z",
+  "updated": "2026-06-21T11:59:55Z",
+  "last_checked": "2026-06-21T11:59:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "今週のウォール街アナリスト注目コール",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578082",
-      "published": "2026-06-21 10:00:00",
-      "isoDate": "2026-06-21T10:00:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ビットコイン、イラン協議と強気オプション取引を背景に6万4000ドル超へ回復",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1578086",
       "published": "2026-06-21 08:26:51",
@@ -111,10 +104,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米・イラン停戦交渉、バンス副大統領のスイス到着で開始へ",
+      "title": "バンスがスイス到着、米・イラン停戦交渉が開始",
       "link": "https://jp.investing.com/news/economy-news/article-1578064",
       "published": "2026-06-21 00:55:03",
       "isoDate": "2026-06-21T00:55:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゼレンスキー大統領、ロシアの大規模攻撃を警告―strikes で少なくとも6人死亡",
+      "link": "https://jp.investing.com/news/economy-news/article-1578062",
+      "published": "2026-06-21 00:20:05",
+      "isoDate": "2026-06-21T00:20:05Z"
     },
     {
       "source": "Investing.com 外為",
