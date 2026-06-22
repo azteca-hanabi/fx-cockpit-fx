@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T21:33:01Z",
-  "last_checked": "2026-06-22T21:33:01Z",
+  "updated": "2026-06-22T23:24:00Z",
+  "last_checked": "2026-06-22T23:24:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY金：反発で4210.70ドル、米イラン和平進展による原油安・値ごろ感の買いで",
+      "link": "https://jp.investing.com/news/forex-news/article-1579699",
+      "published": "2026-06-22 22:45:07",
+      "isoDate": "2026-06-22T22:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "22日の米国市場ダイジェスト：米国株式市場はまちまち、対イラン協議進展を好感もハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1579698",
+      "published": "2026-06-22 22:45:07",
+      "isoDate": "2026-06-22T22:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、米宇宙軍ミッションを記録的な16時間で打ち上げ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1579656",
+      "published": "2026-06-22 21:38:05",
+      "isoDate": "2026-06-22T21:38:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは148.01ドル高、対イラン協議進展を好感もハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1579630",
+      "published": "2026-06-22 21:15:05",
+      "isoDate": "2026-06-22T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Palantirが米陸軍NGC2プログラムのクラウドデータ層に選定",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1579493",
       "published": "2026-06-22 20:06:32",
@@ -83,41 +111,20 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceX、200億ドル規模の債券発行市場に参入か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578831",
-      "published": "2026-06-22 12:26:25",
-      "isoDate": "2026-06-22T12:26:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バーンスタイン、HBM価格上昇を受けてメモリ株の目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578688",
-      "published": "2026-06-22 11:40:32",
-      "isoDate": "2026-06-22T11:40:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ジェフリーズ、テスラ株に下落リスク警告―SpaceXトラッカー化の懸念も",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578405",
-      "published": "2026-06-22 08:38:40",
-      "isoDate": "2026-06-22T08:38:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "いち早く伝えていた：6月に+135%上昇、このAI素材銘柄は累計+612%に到達",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578411",
       "published": "2026-06-22 08:37:25",
       "isoDate": "2026-06-22T08:37:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの株価が16%超急落、バリュエーション懸念と社債発行が重荷に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578311",
-      "published": "2026-06-22 06:58:28",
-      "isoDate": "2026-06-22T06:58:28Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "フランクリン・テンプルトン、仮想通貨専門部門を正式設立",
+      "link": "https://coinpost.jp/?p=718925",
+      "published": "Tue, 23 Jun 2026 08:10:11 +0900",
+      "isoDate": "2026-06-22T23:10:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "米仮想通貨業界3団体、マイニング・ステーキング課税法案の無修正成立を要求",
@@ -173,27 +180,6 @@
       "link": "https://coinpost.jp/?p=718683",
       "published": "Mon, 22 Jun 2026 08:55:37 +0900",
       "isoDate": "2026-06-21T23:55:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイナーに降伏シグナル、難易度が最高値から約20％低下",
-      "link": "https://coinpost.jp/?p=718677",
-      "published": "Mon, 22 Jun 2026 08:07:29 +0900",
-      "isoDate": "2026-06-21T23:07:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携",
-      "link": "https://coinpost.jp/?p=718670",
-      "published": "Sun, 21 Jun 2026 14:50:35 +0900",
-      "isoDate": "2026-06-21T05:50:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ",
-      "link": "https://coinpost.jp/?p=718319",
-      "published": "Sun, 21 Jun 2026 09:25:00 +0900",
-      "isoDate": "2026-06-21T00:25:00Z"
     }
   ]
 }
