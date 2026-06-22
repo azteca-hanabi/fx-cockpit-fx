@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-22T02:03:29Z",
-  "last_checked": "2026-06-22T02:03:29Z",
+  "updated": "2026-06-22T08:39:41Z",
+  "last_checked": "2026-06-22T08:39:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランへの再攻撃を警告、ホルムズ海峡が再封鎖",
+      "title": "金価格反発、米イラン協議進展で－FRB見通しが上値抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1578179",
+      "published": "2026-06-22 02:42:45",
+      "isoDate": "2026-06-22T02:42:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランがスイス和平協議の進展を発表、原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1578126",
       "published": "2026-06-22 00:11:10",
       "isoDate": "2026-06-22T00:11:10Z"
@@ -22,50 +29,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1577960",
       "published": "2026-06-19 11:26:28",
       "isoDate": "2026-06-19T11:26:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "タカ派FRBがイラン和平の好材料を圧倒、金は3週連続の下落へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1577772",
-      "published": "2026-06-19 02:19:19",
-      "isoDate": "2026-06-19T02:19:19Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "パワーエックス---急騰、海外市場向け大型蓄電システムの初受注を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578149",
-      "published": "2026-06-22 01:30:08",
-      "isoDate": "2026-06-22T01:30:08Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に8日続伸、東エレクとフジクラの2銘柄で約446円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578382",
+      "published": "2026-06-22 08:15:17",
+      "isoDate": "2026-06-22T08:15:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル円は一時161円57銭まで上昇するも押し戻される",
-      "link": "https://jp.investing.com/news/forex-news/article-1578148",
-      "published": "2026-06-22 01:30:08",
-      "isoDate": "2026-06-22T01:30:08Z"
+      "title": "日経VI：低下、取引時間中は高値波乱を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1578353",
+      "published": "2026-06-22 07:45:16",
+      "isoDate": "2026-06-22T07:45:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル円は堅調地合いが継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1578139",
-      "published": "2026-06-22 01:00:06",
-      "isoDate": "2026-06-22T01:00:06Z"
+      "title": "ArcelorMittalとAWSがAI主導の自動化に向けてパートナーシップを締結",
+      "link": "https://jp.investing.com/news/company-news/article-1578344",
+      "published": "2026-06-22 07:34:59",
+      "isoDate": "2026-06-22T07:34:59Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：日米の金利差拡大観測が背景",
-      "link": "https://jp.investing.com/news/forex-news/article-1578128",
-      "published": "2026-06-22 00:15:05",
-      "isoDate": "2026-06-22T00:15:05Z"
+      "title": "東京為替：ドル・円は伸び悩み、為替介入に警戒続く",
+      "link": "https://jp.investing.com/news/forex-news/article-1578324",
+      "published": "2026-06-22 07:15:15",
+      "isoDate": "2026-06-22T07:15:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領がイランへの再攻撃を警告、ホルムズ海峡が再封鎖",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578126",
-      "published": "2026-06-22 00:11:10",
-      "isoDate": "2026-06-22T00:11:10Z"
+      "title": "ビットコイン、米イラン協議の엇갈るシグナルで6万4000ドル付近で伸び悩む",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1578314",
+      "published": "2026-06-22 07:02:20",
+      "isoDate": "2026-06-22T07:02:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価、アナリストが評価に慎重姿勢――時間外取引で4.6%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578311",
+      "published": "2026-06-22 06:58:28",
+      "isoDate": "2026-06-22T06:58:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、売り一巡後は買戻しも",
+      "link": "https://jp.investing.com/news/forex-news/article-1578248",
+      "published": "2026-06-22 05:15:18",
+      "isoDate": "2026-06-22T05:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅に8日続伸、フジクラとアドバンテの2銘柄で約386円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578208",
+      "published": "2026-06-22 04:00:15",
+      "isoDate": "2026-06-22T04:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格反発、米イラン協議進展で－FRB見通しが上値抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1578179",
+      "published": "2026-06-22 02:42:45",
+      "isoDate": "2026-06-22T02:42:45Z"
     },
     {
       "source": "Investing.com 外為",
@@ -73,37 +101,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1578124",
       "published": "2026-06-22 00:05:49",
       "isoDate": "2026-06-22T00:05:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "強弱材料 6/22",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578117",
-      "published": "2026-06-21 23:45:05",
-      "isoDate": "2026-06-21T23:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ＪＸ金属---上方転換シグナルを発生させてくる可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578118",
-      "published": "2026-06-21 23:45:05",
-      "isoDate": "2026-06-21T23:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1メイコー、キオクシアHD、古河電気工業など",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578111",
-      "published": "2026-06-21 22:30:03",
-      "isoDate": "2026-06-21T22:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "タカ派FRBがETF需要を抑制、金の5,200ドル到達に障壁＝モルガン・スタンレー",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578094",
-      "published": "2026-06-21 11:52:41",
-      "isoDate": "2026-06-21T11:52:41Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン価格低迷でストラテジーの資金調達モデルに軋み、市場の追加リスク要因に＝アナリスト",
+      "link": "https://coinpost.jp/?p=718803",
+      "published": "Mon, 22 Jun 2026 14:42:32 +0900",
+      "isoDate": "2026-06-22T05:42:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズCEO「仮想通貨はネットバブル崩壊後に類似」、実績銘柄が次サイクルを主導",
+      "link": "https://coinpost.jp/?p=718807",
+      "published": "Mon, 22 Jun 2026 14:24:43 +0900",
+      "isoDate": "2026-06-22T05:24:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国議会、仮想通貨課税の撤廃求める国民請願を議論へ",
+      "link": "https://coinpost.jp/?p=718736",
+      "published": "Mon, 22 Jun 2026 13:30:10 +0900",
+      "isoDate": "2026-06-22T04:30:10Z"
+    },
     {
       "source": "CoinPost",
       "title": "香港の仮想通貨投資家、「追随・塩漬け型」が最多　女性比率も高",
@@ -166,20 +187,6 @@
       "link": "https://coinpost.jp/?p=718601",
       "published": "Sat, 20 Jun 2026 11:35:36 +0900",
       "isoDate": "2026-06-20T02:35:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米フランクリン・テンプルトン、配当をビットコインへ再投資するETFをSEC申請",
-      "link": "https://coinpost.jp/?p=718595",
-      "published": "Sat, 20 Jun 2026 06:15:31 +0900",
-      "isoDate": "2026-06-19T21:15:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、7月4日休会前の上院採決に3つの壁",
-      "link": "https://coinpost.jp/?p=718596",
-      "published": "Sat, 20 Jun 2026 05:50:56 +0900",
-      "isoDate": "2026-06-19T20:50:56Z"
     }
   ]
 }
