@@ -1,17 +1,38 @@
 {
-  "updated": "2026-06-22T08:39:41Z",
-  "last_checked": "2026-06-22T08:39:41Z",
+  "updated": "2026-06-22T14:45:13Z",
+  "last_checked": "2026-06-22T14:45:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格反発、米イラン協議進展で－FRB見通しが上値抑制",
+      "title": "バルチック海運指数、全船種の下落で低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1579170",
+      "published": "2026-06-22 13:58:12",
+      "isoDate": "2026-06-22T13:58:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジアラビアの原油輸出、4月に過去最低を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1578818",
+      "published": "2026-06-22 12:23:06",
+      "isoDate": "2026-06-22T12:23:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡通過とイラン協議を巡り、欧州天然ガス小幅上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1578499",
+      "published": "2026-06-22 10:19:05",
+      "isoDate": "2026-06-22T10:19:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン協議の進展で金価格は3日続落から回復へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1578179",
       "published": "2026-06-22 02:42:45",
       "isoDate": "2026-06-22T02:42:45Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランがスイス和平協議の進展を発表、原油価格が下落",
+      "title": "イランがスイス和平協議の進展を表明、原油価格は下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1578126",
       "published": "2026-06-22 00:11:10",
       "isoDate": "2026-06-22T00:11:10Z"
@@ -22,88 +43,88 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1578094",
       "published": "2026-06-21 11:52:41",
       "isoDate": "2026-06-21T11:52:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヴァンス副大統領の訪問中止とレバノン情勢緊迫化で欧州天然ガスが6日続落から反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1577960",
-      "published": "2026-06-19 11:26:28",
-      "isoDate": "2026-06-19T11:26:28Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に8日続伸、東エレクとフジクラの2銘柄で約446円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578382",
-      "published": "2026-06-22 08:15:17",
-      "isoDate": "2026-06-22T08:15:17Z"
+      "title": "マイクロンテクノロジー、アンソロピックとのAI提携発表で5.5%急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578973",
+      "published": "2026-06-22 13:09:02",
+      "isoDate": "2026-06-22T13:09:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経VI：低下、取引時間中は高値波乱を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1578353",
-      "published": "2026-06-22 07:45:16",
-      "isoDate": "2026-06-22T07:45:16Z"
+      "title": "NvidiaがISCで科学スーパーコンピューティング向けVera Rubinプラットフォームを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1578966",
+      "published": "2026-06-22 13:02:31",
+      "isoDate": "2026-06-22T13:02:31Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ArcelorMittalとAWSがAI主導の自動化に向けてパートナーシップを締結",
-      "link": "https://jp.investing.com/news/company-news/article-1578344",
-      "published": "2026-06-22 07:34:59",
-      "isoDate": "2026-06-22T07:34:59Z"
+      "title": "NvidiaがヨーロッパでAIスーパーコンピューター35台を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1578938",
+      "published": "2026-06-22 13:02:29",
+      "isoDate": "2026-06-22T13:02:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、為替介入に警戒続く",
-      "link": "https://jp.investing.com/news/forex-news/article-1578324",
-      "published": "2026-06-22 07:15:15",
-      "isoDate": "2026-06-22T07:15:15Z"
+      "title": "デルがNvidia Vera Rubin GPU搭載の新サーバー「PowerEdge XE8812」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1578965",
+      "published": "2026-06-22 13:02:09",
+      "isoDate": "2026-06-22T13:02:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、米イラン協議の엇갈るシグナルで6万4000ドル付近で伸び悩む",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1578314",
-      "published": "2026-06-22 07:02:20",
-      "isoDate": "2026-06-22T07:02:20Z"
+      "title": "マイクロンテクノロジーとAnthropicが供給・投資・AI設計で戦略的提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1578925",
+      "published": "2026-06-22 13:01:15",
+      "isoDate": "2026-06-22T13:01:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXの株価、アナリストが評価に慎重姿勢――時間外取引で4.6%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578311",
-      "published": "2026-06-22 06:58:28",
-      "isoDate": "2026-06-22T06:58:28Z"
+      "title": "SpaceX、200億ドル規模の債券発行市場に参入か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578831",
+      "published": "2026-06-22 12:26:25",
+      "isoDate": "2026-06-22T12:26:25Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、売り一巡後は買戻しも",
-      "link": "https://jp.investing.com/news/forex-news/article-1578248",
-      "published": "2026-06-22 05:15:18",
-      "isoDate": "2026-06-22T05:15:18Z"
+      "title": "SpaceXがシニア無担保社債の発行を開始、ブリッジローンの返済へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1578791",
+      "published": "2026-06-22 12:10:05",
+      "isoDate": "2026-06-22T12:10:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅に8日続伸、フジクラとアドバンテの2銘柄で約386円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578208",
-      "published": "2026-06-22 04:00:15",
-      "isoDate": "2026-06-22T04:00:15Z"
+      "title": "バーンスタイン、HBM価格上昇を受けてメモリ株の目標株価を引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578688",
+      "published": "2026-06-22 11:40:32",
+      "isoDate": "2026-06-22T11:40:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格反発、米イラン協議進展で－FRB見通しが上値抑制",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578179",
-      "published": "2026-06-22 02:42:45",
-      "isoDate": "2026-06-22T02:42:45Z"
+      "title": "ジェフリーズ、テスラ株に下落リスク警告―SpaceXトラッカー化の懸念も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578405",
+      "published": "2026-06-22 08:38:40",
+      "isoDate": "2026-06-22T08:38:40Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領がイラン追加攻撃を警告、米株先物が急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578124",
-      "published": "2026-06-22 00:05:49",
-      "isoDate": "2026-06-22T00:05:49Z"
+      "title": "いち早く伝えていた：6月に+135%上昇、このAI素材銘柄は累計+612%に到達",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578411",
+      "published": "2026-06-22 08:37:25",
+      "isoDate": "2026-06-22T08:37:25Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーが3週連続でビットコイン買い増し実施、BTC累計保有額8.8兆円相当",
+      "link": "https://coinpost.jp/?p=718906",
+      "published": "Mon, 22 Jun 2026 21:15:38 +0900",
+      "isoDate": "2026-06-22T12:15:38Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン価格低迷でストラテジーの資金調達モデルに軋み、市場の追加リスク要因に＝アナリスト",
