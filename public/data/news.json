@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T14:45:13Z",
-  "last_checked": "2026-06-22T14:45:13Z",
+  "updated": "2026-06-22T18:49:46Z",
+  "last_checked": "2026-06-22T18:49:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXがReflection AIと63億ドルのコンピューティング契約を締結",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1579361",
+      "published": "2026-06-22 16:16:16",
+      "isoDate": "2026-06-22T16:16:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AlphabetがAI人材流出とSpaceX株急落で6%超下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1579324",
+      "published": "2026-06-22 15:10:25",
+      "isoDate": "2026-06-22T15:10:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX株が本日急落した理由とは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1579132",
+      "published": "2026-06-22 13:52:08",
+      "isoDate": "2026-06-22T13:52:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、アンソロピックとのAI提携発表で5.5%急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578973",
       "published": "2026-06-22 13:09:02",
@@ -55,24 +76,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがISCで科学スーパーコンピューティング向けVera Rubinプラットフォームを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1578966",
-      "published": "2026-06-22 13:02:31",
-      "isoDate": "2026-06-22T13:02:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaがヨーロッパでAIスーパーコンピューター35台を発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1578938",
       "published": "2026-06-22 13:02:29",
       "isoDate": "2026-06-22T13:02:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "デルがNvidia Vera Rubin GPU搭載の新サーバー「PowerEdge XE8812」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1578965",
-      "published": "2026-06-22 13:02:09",
-      "isoDate": "2026-06-22T13:02:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1578831",
       "published": "2026-06-22 12:26:25",
       "isoDate": "2026-06-22T12:26:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがシニア無担保社債の発行を開始、ブリッジローンの返済へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1578791",
-      "published": "2026-06-22 12:10:05",
-      "isoDate": "2026-06-22T12:10:05Z"
     },
     {
       "source": "Investing.com 外為",
