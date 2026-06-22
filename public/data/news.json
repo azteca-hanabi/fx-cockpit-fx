@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T18:49:46Z",
-  "last_checked": "2026-06-22T18:49:46Z",
+  "updated": "2026-06-22T21:33:01Z",
+  "last_checked": "2026-06-22T21:33:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Palantirが米陸軍NGC2プログラムのクラウドデータ層に選定",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1579493",
+      "published": "2026-06-22 20:06:32",
+      "isoDate": "2026-06-22T20:06:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceXがReflection AIと63億ドルのコンピューティング契約を締結",
       "link": "https://jp.investing.com/news/stock-market-news/article-1579361",
       "published": "2026-06-22 16:16:16",
@@ -76,20 +83,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがヨーロッパでAIスーパーコンピューター35台を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1578938",
-      "published": "2026-06-22 13:02:29",
-      "isoDate": "2026-06-22T13:02:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとAnthropicが供給・投資・AI設計で戦略的提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1578925",
-      "published": "2026-06-22 13:01:15",
-      "isoDate": "2026-06-22T13:01:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceX、200億ドル規模の債券発行市場に参入か",
       "link": "https://jp.investing.com/news/stock-market-news/article-1578831",
       "published": "2026-06-22 12:26:25",
@@ -115,9 +108,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1578411",
       "published": "2026-06-22 08:37:25",
       "isoDate": "2026-06-22T08:37:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価が16%超急落、バリュエーション懸念と社債発行が重荷に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1578311",
+      "published": "2026-06-22 06:58:28",
+      "isoDate": "2026-06-22T06:58:28Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米仮想通貨業界3団体、マイニング・ステーキング課税法案の無修正成立を要求",
+      "link": "https://coinpost.jp/?p=718929",
+      "published": "Tue, 23 Jun 2026 05:55:19 +0900",
+      "isoDate": "2026-06-22T20:55:19Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジーが3週連続でビットコイン買い増し実施、BTC累計保有額8.8兆円相当",
@@ -187,27 +194,6 @@
       "link": "https://coinpost.jp/?p=718319",
       "published": "Sun, 21 Jun 2026 09:25:00 +0900",
       "isoDate": "2026-06-21T00:25:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアム財団の元メンバー、ETH開発の資金面のリスクを指摘",
-      "link": "https://coinpost.jp/?p=718644",
-      "published": "Sat, 20 Jun 2026 13:45:47 +0900",
-      "isoDate": "2026-06-20T04:45:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アニメ壁紙マルウェアに注意、仮想通貨も標的　Steamで数万回DL＝カスペルスキー",
-      "link": "https://coinpost.jp/?p=718630",
-      "published": "Sat, 20 Jun 2026 13:30:46 +0900",
-      "isoDate": "2026-06-20T04:30:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "全国ビジネス企業年金基金、通貨リスク分散目的で仮想通貨投資へ＝報道",
-      "link": "https://coinpost.jp/?p=718601",
-      "published": "Sat, 20 Jun 2026 11:35:36 +0900",
-      "isoDate": "2026-06-20T02:35:36Z"
     }
   ]
 }
