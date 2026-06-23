@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-23T16:09:54Z",
-  "last_checked": "2026-06-23T16:09:54Z",
+  "updated": "2026-06-23T18:21:52Z",
+  "last_checked": "2026-06-23T18:21:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドが300以上の地区でモンスーン被害への緊急対策を準備",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1580967",
+      "published": "2026-06-23 17:09:23",
+      "isoDate": "2026-06-23T17:09:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ヘッジファンド、原油の売り持ちを5カ月ぶりの高水準に積み増し",
@@ -64,30 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1578179",
       "published": "2026-06-22 02:42:45",
       "isoDate": "2026-06-22T02:42:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランがスイス和平協議の進展を表明、原油価格は下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578126",
-      "published": "2026-06-22 00:11:10",
-      "isoDate": "2026-06-22T00:11:10Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "スクエハナ、SPCXをニュートレートで開始――より良い参入機会を待て",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1580762",
-      "published": "2026-06-23 13:35:28",
-      "isoDate": "2026-06-23T13:35:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがライフサイエンスAI向け「BioNeMo Agent Toolkit」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1580630",
-      "published": "2026-06-23 13:02:06",
-      "isoDate": "2026-06-23T13:02:06Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "韓国レバレッジETF危機が世界的な半導体株売りを誘発",
@@ -111,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "SpaceX株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1580181",
+      "published": "2026-06-23 10:39:31",
+      "isoDate": "2026-06-23T10:39:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1580114",
       "published": "2026-06-23 09:43:29",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1580088",
       "published": "2026-06-23 08:41:28",
       "isoDate": "2026-06-23T08:41:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI関連株への利食い売りが膨らみ70000円の大台割れ【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1580056",
+      "published": "2026-06-23 08:15:18",
+      "isoDate": "2026-06-23T08:15:18Z"
     },
     {
       "source": "Investing.com 外為",
