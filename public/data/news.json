@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-23T13:22:42Z",
-  "last_checked": "2026-06-23T13:22:42Z",
+  "updated": "2026-06-23T16:09:54Z",
+  "last_checked": "2026-06-23T16:09:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ヘッジファンド、原油の売り持ちを5カ月ぶりの高水準に積み増し",
+      "link": "https://jp.investing.com/news/commodities-news/article-1580856",
+      "published": "2026-06-23 14:57:39",
+      "isoDate": "2026-06-23T14:57:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ノルニッケル、2027年までパラジウムとニッケルの供給過剰を予測",
@@ -18,7 +25,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドル高とFED利上げ観測が重荷、金価格が約1.5%下落",
+      "title": "金価格、ドル高とFED利上げ観測強まりで約2%下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1579860",
       "published": "2026-06-23 03:28:49",
       "isoDate": "2026-06-23T03:28:49Z"
@@ -64,22 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1578126",
       "published": "2026-06-22 00:11:10",
       "isoDate": "2026-06-22T00:11:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "タカ派FRBがETF需要を抑制、金の5,200ドル到達に障壁＝モルガン・スタンレー",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578094",
-      "published": "2026-06-21 11:52:41",
-      "isoDate": "2026-06-21T11:52:41Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがライフサイエンスAI向け「BioNeMo Agent Toolkit」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1580655",
-      "published": "2026-06-23 13:08:06",
-      "isoDate": "2026-06-23T13:08:06Z"
+      "title": "スクエハナ、SPCXをニュートレートで開始――より良い参入機会を待て",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1580762",
+      "published": "2026-06-23 13:35:28",
+      "isoDate": "2026-06-23T13:35:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "PalantirとZeta Global、マーケティングAIインフラで戦略的提携を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1580225",
-      "published": "2026-06-23 11:01:24",
-      "isoDate": "2026-06-23T11:01:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日急落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1580114",
       "published": "2026-06-23 09:43:29",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1580088",
       "published": "2026-06-23 08:41:28",
       "isoDate": "2026-06-23T08:41:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックス株が本日急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1579905",
+      "published": "2026-06-23 04:57:38",
+      "isoDate": "2026-06-23T04:57:38Z"
     },
     {
       "source": "Investing.com 外為",
