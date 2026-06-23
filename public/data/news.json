@@ -1,17 +1,31 @@
 {
-  "updated": "2026-06-23T10:11:15Z",
-  "last_checked": "2026-06-23T10:11:15Z",
+  "updated": "2026-06-23T13:22:42Z",
+  "last_checked": "2026-06-23T13:22:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が約2%下落、ドル高とFRB利上げ観測が重荷に",
+      "title": "ノルニッケル、2027年までパラジウムとニッケルの供給過剰を予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1580195",
+      "published": "2026-06-23 10:43:10",
+      "isoDate": "2026-06-23T10:43:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドイツ銀行、Fed利上げ観測を受けて金価格見通しを引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1580168",
+      "published": "2026-06-23 10:29:15",
+      "isoDate": "2026-06-23T10:29:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドル高とFED利上げ観測が重荷、金価格が約1.5%下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1579860",
       "published": "2026-06-23 03:28:49",
       "isoDate": "2026-06-23T03:28:49Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油相場、イラン和平交渉の進展を受けて下落継続",
+      "title": "イランとの和平進展を受け、原油価格は前日の急落後も低迷",
       "link": "https://jp.investing.com/news/commodities-news/article-1579764",
       "published": "2026-06-23 00:32:29",
       "isoDate": "2026-06-23T00:32:29Z"
@@ -62,7 +76,56 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "株式市場の急落：投資家がAI銘柄の集中リスクを警戒",
+      "title": "NvidiaがライフサイエンスAI向け「BioNeMo Agent Toolkit」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1580655",
+      "published": "2026-06-23 13:08:06",
+      "isoDate": "2026-06-23T13:08:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがライフサイエンスAI向け「BioNeMo Agent Toolkit」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1580630",
+      "published": "2026-06-23 13:02:06",
+      "isoDate": "2026-06-23T13:02:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "韓国レバレッジETF危機が世界的な半導体株売りを誘発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1580476",
+      "published": "2026-06-23 12:16:34",
+      "isoDate": "2026-06-23T12:16:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカが半導体売上高1兆ドル増を牽引する5大テーマを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1580335",
+      "published": "2026-06-23 11:30:18",
+      "isoDate": "2026-06-23T11:30:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "グローバル・エンターテインメント大手に稀な降伏シグナル点灯",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1580294",
+      "published": "2026-06-23 11:22:00",
+      "isoDate": "2026-06-23T11:22:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとZeta Global、マーケティングAIインフラで戦略的提携を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1580225",
+      "published": "2026-06-23 11:01:24",
+      "isoDate": "2026-06-23T11:01:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日急落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1580114",
+      "published": "2026-06-23 09:43:29",
+      "isoDate": "2026-06-23T09:43:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "株式市場の急落を解説：なぜ投資家は突然不安を抱いているのか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1580093",
       "published": "2026-06-23 09:05:44",
       "isoDate": "2026-06-23T09:05:44Z"
@@ -76,59 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXが下落、ハイテク株も軟調——市場を動かす要因とは",
-      "link": "https://jp.investing.com/news/economy-news/article-1580077",
-      "published": "2026-06-23 08:38:39",
-      "isoDate": "2026-06-23T08:38:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI関連株への利食い売りが膨らみ70000円の大台割れ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1580056",
-      "published": "2026-06-23 08:15:18",
-      "isoDate": "2026-06-23T08:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に9日ぶり反落、ソフトバンクGや東エレクが2銘柄で約1074円分押下",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1580032",
-      "published": "2026-06-23 08:00:19",
-      "isoDate": "2026-06-23T08:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックス株が本日急落した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1579905",
-      "published": "2026-06-23 04:57:38",
-      "isoDate": "2026-06-23T04:57:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スカパーＪＳＡＴ---大幅反落、スペースＸの株価大幅安で関連銘柄が軟化",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1579884",
-      "published": "2026-06-23 04:15:19",
-      "isoDate": "2026-06-23T04:15:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領が量子コンピューター支援令に署名、関連株が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1579807",
-      "published": "2026-06-23 01:55:51",
-      "isoDate": "2026-06-23T01:55:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株先物が下落、アルファベットとスペースXの急落でテック株に警戒感",
       "link": "https://jp.investing.com/news/stock-market-news/article-1579761",
       "published": "2026-06-23 00:23:41",
       "isoDate": "2026-06-23T00:23:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "いち早く伝えていた：6月に+135%上昇、このAI素材銘柄は累計+612%に到達",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1578411",
-      "published": "2026-06-22 08:37:25",
-      "isoDate": "2026-06-22T08:37:25Z"
     }
   ],
   "btc_items": [
