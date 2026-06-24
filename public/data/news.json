@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-24T11:12:33Z",
-  "last_checked": "2026-06-24T11:12:33Z",
+  "updated": "2026-06-24T13:37:01Z",
+  "last_checked": "2026-06-24T13:37:01Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数、ケープサイズ運賃の下落で低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582104",
+      "published": "2026-06-24 13:06:09",
+      "isoDate": "2026-06-24T13:06:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "JPモルガン、2026年下半期のブレント原油価格見通しを引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1582005",
+      "published": "2026-06-24 12:29:31",
+      "isoDate": "2026-06-24T12:29:31Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSが分析：混乱した供給の約80%が回復、石油市場の損失が縮小",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の通航再開で欧州天然ガス価格が続落",
+      "title": "ホルムズ海峡のタンカー通行量増加で欧州天然ガス価格が続落",
       "link": "https://jp.investing.com/news/commodities-news/article-1581663",
       "published": "2026-06-24 09:32:18",
       "isoDate": "2026-06-24T09:32:18Z"
@@ -57,29 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1580195",
       "published": "2026-06-23 10:43:10",
       "isoDate": "2026-06-23T10:43:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドイツ銀行、Fed利上げ観測を受けて金価格見通しを引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1580168",
-      "published": "2026-06-23 10:29:15",
-      "isoDate": "2026-06-23T10:29:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、ドル高とFED利上げ観測強まりで約2%下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1579860",
-      "published": "2026-06-23 03:28:49",
-      "isoDate": "2026-06-23T03:28:49Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックス、ナスダックにティッカーシンボルSKHYでIPO申請",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1581719",
-      "published": "2026-06-24 10:13:01",
-      "isoDate": "2026-06-24T10:13:01Z"
+      "title": "ブロードコム、OpenAIとのカスタムAIチップ「Jalapeño」発表で3%上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582126",
+      "published": "2026-06-24 13:07:46",
+      "isoDate": "2026-06-24T13:07:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAIとブロードコム、AIチップ「Jalapeño」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1582120",
+      "published": "2026-06-24 13:01:13",
+      "isoDate": "2026-06-24T13:01:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "機関投資家が過去最大規模の米国株売りを主導＝バンク・オブ・アメリカ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582009",
+      "published": "2026-06-24 12:19:03",
+      "isoDate": "2026-06-24T12:19:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースXにさらなる逆風？ロボティクスと宇宙株がバブルリスクの主要分野と指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1581790",
+      "published": "2026-06-24 11:03:55",
+      "isoDate": "2026-06-24T11:03:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ株に深刻なダブルトレンド崩壊シグナル点灯",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1581849",
+      "published": "2026-06-24 10:29:20",
+      "isoDate": "2026-06-24T10:29:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "テック株が売り後の回復を模索、マイクロンテクノロジーが決算発表へ",
+      "title": "テクノロジー株の売り後に回復へ、マイクロンテクノロジーが決算発表",
       "link": "https://jp.investing.com/news/economy-news/article-1581619",
       "published": "2026-06-24 08:24:34",
       "isoDate": "2026-06-24T08:24:34Z"
@@ -115,34 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1581456",
       "published": "2026-06-24 05:30:16",
       "isoDate": "2026-06-24T05:30:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国レバレッジETF危機が世界的な半導体株売りを誘発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1580476",
-      "published": "2026-06-23 12:16:34",
-      "isoDate": "2026-06-23T12:16:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グローバル・エンターテインメント大手に稀な降伏シグナル点灯",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1580294",
-      "published": "2026-06-23 11:22:00",
-      "isoDate": "2026-06-23T11:22:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日急落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1580114",
-      "published": "2026-06-23 09:43:29",
-      "isoDate": "2026-06-23T09:43:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "株式市場の急落を解説：なぜ投資家は突然不安を抱いているのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1580093",
-      "published": "2026-06-23 09:05:44",
-      "isoDate": "2026-06-23T09:05:44Z"
     }
   ],
   "btc_items": [
