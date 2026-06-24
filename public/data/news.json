@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-24T04:00:35Z",
-  "last_checked": "2026-06-24T04:00:35Z",
+  "updated": "2026-06-24T07:59:05Z",
+  "last_checked": "2026-06-24T07:59:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の交通回復と米イラン和平交渉で原油続落",
+      "title": "ドル高とFED利上げ観測で金価格が2週間ぶり安値に",
+      "link": "https://jp.investing.com/news/commodities-news/article-1581416",
+      "published": "2026-06-24 04:02:13",
+      "isoDate": "2026-06-24T04:02:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の通航回復と米イラン和平交渉を受け、原油価格が続落",
       "link": "https://jp.investing.com/news/commodities-news/article-1581300",
       "published": "2026-06-24 00:37:04",
       "isoDate": "2026-06-24T00:37:04Z"
@@ -64,50 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1578818",
       "published": "2026-06-22 12:23:06",
       "isoDate": "2026-06-22T12:23:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡通過とイラン協議を巡り、欧州天然ガス小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1578499",
-      "published": "2026-06-22 10:19:05",
-      "isoDate": "2026-06-22T10:19:05Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "売り優勢も6万9500円付近でもみ合う展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1581393",
-      "published": "2026-06-24 03:15:15",
-      "isoDate": "2026-06-24T03:15:15Z"
+      "title": "ノキアとAWS、自律型ネットワークプラットフォームで協業を拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1581539",
+      "published": "2026-06-24 07:16:12",
+      "isoDate": "2026-06-24T07:16:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "フルヤ金属---26年6月期第3四半期は大幅な増収増益、データセンター関連需要や円安進行が追い風",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1581383",
-      "published": "2026-06-24 03:00:12",
-      "isoDate": "2026-06-24T03:00:12Z"
+      "title": "東京為替：ドル・円はじり高、米金利高で",
+      "link": "https://jp.investing.com/news/forex-news/article-1581520",
+      "published": "2026-06-24 07:00:16",
+      "isoDate": "2026-06-24T07:00:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物、テック株急落後に反発－マイクロンテクノロジー決算に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1581295",
-      "published": "2026-06-24 00:29:10",
-      "isoDate": "2026-06-24T00:29:10Z"
+      "title": "日経平均は191円安、米マイクロン決算などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1581467",
+      "published": "2026-06-24 06:00:14",
+      "isoDate": "2026-06-24T06:00:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は398円安、寄り後は下げ幅拡大",
-      "link": "https://jp.investing.com/news/forex-news/article-1581285",
-      "published": "2026-06-24 00:15:09",
-      "isoDate": "2026-06-24T00:15:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アルファベット、ダウ平均株価でベライゾンに取って代わる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1581196",
-      "published": "2026-06-23 21:29:18",
-      "isoDate": "2026-06-23T21:29:18Z"
+      "title": "日経平均VIは大幅に上昇、米マイクロン決算も警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1581456",
+      "published": "2026-06-24 05:30:16",
+      "isoDate": "2026-06-24T05:30:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,78 +136,14 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1579905",
       "published": "2026-06-23 04:57:38",
       "isoDate": "2026-06-23T04:57:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQの取締役キャスリン・K・チョウ、約15万1,690ドル相当の株式を売却",
+      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1579810",
+      "published": "2026-06-23 01:59:03",
+      "isoDate": "2026-06-23T01:59:03Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "DCG傘下のジーキャッシュ採掘企業Fortitude、HeartSciencesと合併でナスダック上場目指す",
-      "link": "https://coinpost.jp/?p=719389",
-      "published": "Wed, 24 Jun 2026 11:35:46 +0900",
-      "isoDate": "2026-06-24T02:35:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、短期反発の余地もレンジ相場続くか＝ウィンターミュート",
-      "link": "https://coinpost.jp/?p=719331",
-      "published": "Wed, 24 Jun 2026 09:45:45 +0900",
-      "isoDate": "2026-06-24T00:45:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "カトリック教指導者80人超、クラリティー法案が人身売買監視を弱体化と警告",
-      "link": "https://coinpost.jp/?p=719305",
-      "published": "Wed, 24 Jun 2026 09:35:16 +0900",
-      "isoDate": "2026-06-24T00:35:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院民主党議員、トランプ一族とUAEの5億ドル取引めぐり公聴会要求",
-      "link": "https://coinpost.jp/?p=719306",
-      "published": "Wed, 24 Jun 2026 08:30:54 +0900",
-      "isoDate": "2026-06-23T23:30:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化",
-      "link": "https://coinpost.jp/?p=719307",
-      "published": "Wed, 24 Jun 2026 07:05:56 +0900",
-      "isoDate": "2026-06-23T22:05:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラリティー法案、米下院委が7月17日に公聴会　独立記念日前成立は困難に",
-      "link": "https://coinpost.jp/?p=719308",
-      "published": "Wed, 24 Jun 2026 06:30:58 +0900",
-      "isoDate": "2026-06-23T21:30:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場ナカモト、医療クリニックを閉鎖しビットコイン専業企業へ移行完了",
-      "link": "https://coinpost.jp/?p=719295",
-      "published": "Wed, 24 Jun 2026 05:00:57 +0900",
-      "isoDate": "2026-06-23T20:00:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨市場、6月の下落銘柄比率が87％　「年間最弱月」の可能性＝CryptoRank",
-      "link": "https://coinpost.jp/?p=719215",
-      "published": "Tue, 23 Jun 2026 17:32:31 +0900",
-      "isoDate": "2026-06-23T08:32:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップル、ルクセンブルク当局がMiCAライセンス予備承認　欧州展開へ",
-      "link": "https://coinpost.jp/?p=719195",
-      "published": "Tue, 23 Jun 2026 16:41:11 +0900",
-      "isoDate": "2026-06-23T07:41:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者の売却、2024年11月以来の低水準　平均962BTC＝アナリスト",
-      "link": "https://coinpost.jp/?p=719166",
-      "published": "Tue, 23 Jun 2026 15:31:10 +0900",
-      "isoDate": "2026-06-23T06:31:10Z"
-    }
-  ]
+  "btc_items": []
 }
