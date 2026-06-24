@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T21:54:17Z",
-  "last_checked": "2026-06-24T21:54:17Z",
+  "updated": "2026-06-24T23:08:54Z",
+  "last_checked": "2026-06-24T23:08:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、原油安で景気見通しが改善",
+      "link": "https://jp.investing.com/news/forex-news/article-1582766",
+      "published": "2026-06-24 22:15:04",
+      "isoDate": "2026-06-24T22:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、2026年度第3四半期決算が予想を上回り株価13.1%急騰",
+      "link": "https://jp.investing.com/news/transcripts/article-93CH-1582760",
+      "published": "2026-06-24 22:07:28",
+      "isoDate": "2026-06-24T22:07:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジーが過去最高決算、半導体株が時間外に急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1582723",
       "published": "2026-06-24 21:22:00",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "スペースXにさらなる逆風？ロボティクスと宇宙株がバブルリスクの主要分野と指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1581790",
-      "published": "2026-06-24 11:03:55",
-      "isoDate": "2026-06-24T11:03:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジーの決算発表、AI向けメモリ取引の行方を左右する",
       "link": "https://jp.investing.com/news/stock-market-news/article-1581668",
       "published": "2026-06-24 09:36:40",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1581619",
       "published": "2026-06-24 08:24:34",
       "isoDate": "2026-06-24T08:24:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均VIは大幅に上昇、米マイクロン決算も警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1581456",
-      "published": "2026-06-24 05:30:16",
-      "isoDate": "2026-06-24T05:30:16Z"
     }
   ],
   "btc_items": [
