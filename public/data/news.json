@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T23:08:54Z",
-  "last_checked": "2026-06-24T23:08:54Z",
+  "updated": "2026-06-25T01:32:17Z",
+  "last_checked": "2026-06-25T01:32:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、原油安で景気見通しが改善",
-      "link": "https://jp.investing.com/news/forex-news/article-1582766",
-      "published": "2026-06-24 22:15:04",
-      "isoDate": "2026-06-24T22:15:04Z"
+      "title": "マイクロンテクノロジーとクアルコムが半導体株を牽引、米株先物が急伸",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582846",
+      "published": "2026-06-25 00:16:12",
+      "isoDate": "2026-06-25T00:16:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、2026年度第3四半期決算が予想を上回り株価13.1%急騰",
-      "link": "https://jp.investing.com/news/transcripts/article-93CH-1582760",
-      "published": "2026-06-24 22:07:28",
-      "isoDate": "2026-06-24T22:07:28Z"
+      "title": "キオクシアHDのリバウンドの強さを見極め",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582817",
+      "published": "2026-06-24 23:45:08",
+      "isoDate": "2026-06-24T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～キオクシアHDのリバウンドの強さを見極め～",
+      "link": "https://jp.investing.com/news/forex-news/article-1582816",
+      "published": "2026-06-24 23:45:08",
+      "isoDate": "2026-06-24T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 6/25",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582814",
+      "published": "2026-06-24 23:45:07",
+      "isoDate": "2026-06-24T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米マイクロンの好決算を受けAI関連株に買い先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1582806",
+      "published": "2026-06-24 23:30:07",
+      "isoDate": "2026-06-24T23:30:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1582723",
       "published": "2026-06-24 21:22:00",
       "isoDate": "2026-06-24T21:22:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは182.06ドル高、原油安で景気見通しが改善",
-      "link": "https://jp.investing.com/news/forex-news/article-1582712",
-      "published": "2026-06-24 21:15:04",
-      "isoDate": "2026-06-24T21:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "時間外取引の注目株：MU、WDC、SNDK、QCOM、JPM",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1582671",
-      "published": "2026-06-24 20:44:01",
-      "isoDate": "2026-06-24T20:44:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1581668",
       "published": "2026-06-24 09:36:40",
       "isoDate": "2026-06-24T09:36:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テクノロジー株の売り後に回復へ、マイクロンテクノロジーが決算発表",
-      "link": "https://jp.investing.com/news/economy-news/article-1581619",
-      "published": "2026-06-24 08:24:34",
-      "isoDate": "2026-06-24T08:24:34Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、CBDC条項含む住宅法案への署名延期　クラリティー法案への影響可能性",
+      "link": "https://coinpost.jp/?p=719688",
+      "published": "Thu, 25 Jun 2026 10:10:32 +0900",
+      "isoDate": "2026-06-25T01:10:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン急落し年初来安値を更新　AIブームに陰りとクラリティー法案難航が重し｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=719702",
+      "published": "Thu, 25 Jun 2026 09:40:22 +0900",
+      "isoDate": "2026-06-25T00:40:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米議会、仮想通貨企業のFRB直接接続を審議　リスク論争が本格化",
+      "link": "https://coinpost.jp/?p=719697",
+      "published": "Thu, 25 Jun 2026 09:21:43 +0900",
+      "isoDate": "2026-06-25T00:21:43Z"
+    },
     {
       "source": "CoinPost",
       "title": "米老舗レストラン「ステーキンシェイク」、ビットコイン決済で手数料50％削減＝報道",
@@ -180,27 +201,6 @@
       "link": "https://coinpost.jp/?p=719305",
       "published": "Wed, 24 Jun 2026 09:35:16 +0900",
       "isoDate": "2026-06-24T00:35:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院民主党議員、トランプ一族とUAEの5億ドル取引めぐり公聴会要求",
-      "link": "https://coinpost.jp/?p=719306",
-      "published": "Wed, 24 Jun 2026 08:30:54 +0900",
-      "isoDate": "2026-06-23T23:30:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クリプトクアント、ストラテジーにビットコイン購入停止を提言　優先株急落で財務悪化",
-      "link": "https://coinpost.jp/?p=719307",
-      "published": "Wed, 24 Jun 2026 07:05:56 +0900",
-      "isoDate": "2026-06-23T22:05:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラリティー法案、米下院委が7月17日に公聴会　独立記念日前成立は困難に",
-      "link": "https://coinpost.jp/?p=719308",
-      "published": "Wed, 24 Jun 2026 06:30:58 +0900",
-      "isoDate": "2026-06-23T21:30:58Z"
     }
   ]
 }
