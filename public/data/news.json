@@ -1,10 +1,17 @@
 {
-  "updated": "2026-06-25T06:12:25Z",
-  "last_checked": "2026-06-25T06:12:25Z",
+  "updated": "2026-06-25T09:52:49Z",
+  "last_checked": "2026-06-25T09:52:49Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "タカ派的なFed見通しがドルを押し上げ、金は7カ月ぶり安値付近で推移",
+      "title": "ホルムズ海峡の輸送が正常化に近づき、欧州天然ガス価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1583213",
+      "published": "2026-06-25 08:57:39",
+      "isoDate": "2026-06-25T08:57:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金、タカ派的なFed見通しでドル高騰し7カ月ぶり安値付近で推移",
       "link": "https://jp.investing.com/news/commodities-news/article-1582928",
       "published": "2026-06-25 02:25:56",
       "isoDate": "2026-06-25T02:25:56Z"
@@ -64,36 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1581627",
       "published": "2026-06-24 08:35:31",
       "isoDate": "2026-06-24T08:35:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、FRB利上げ観測でドル高進み2週間ぶり安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1581416",
-      "published": "2026-06-24 04:02:13",
-      "isoDate": "2026-06-24T04:02:13Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "キオクシア、2027年春に米国預託株式の提供を計画",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582987",
-      "published": "2026-06-25 04:24:48",
-      "isoDate": "2026-06-25T04:24:48Z"
+      "title": "マイクロンテクノロジーとクアルコムが寄り前に急騰、ハーツは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1583237",
+      "published": "2026-06-25 09:24:32",
+      "isoDate": "2026-06-25T09:24:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株が反発、マイクロンテクノロジーの見通しがAI投資を復活させ韓国・日本が上昇を主導",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582959",
-      "published": "2026-06-25 03:50:30",
-      "isoDate": "2026-06-25T03:50:30Z"
+      "title": "マイクロンテクノロジーとクアルコムが半導体株を押し上げ、PCEに注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1583195",
+      "published": "2026-06-25 08:37:05",
+      "isoDate": "2026-06-25T08:37:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米マイクロンの決算横目に買い戻し優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582955",
-      "published": "2026-06-25 03:45:13",
-      "isoDate": "2026-06-25T03:45:13Z"
+      "title": "米マイクロンの好決算が刺激材料となり史上最高値更新【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1583152",
+      "published": "2026-06-25 07:45:16",
+      "isoDate": "2026-06-25T07:45:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックス、マイクロンテクノロジーの好決算とADR計画を受けて15%急騰し過去最高値を更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1583069",
+      "published": "2026-06-25 06:29:22",
+      "isoDate": "2026-06-25T06:29:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1582952",
       "published": "2026-06-25 03:15:16",
       "isoDate": "2026-06-25T03:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとクアルコムが半導体株を牽引、米株先物が急伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582846",
-      "published": "2026-06-25 00:16:12",
-      "isoDate": "2026-06-25T00:16:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーが過去最高決算、半導体株が時間外に急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582723",
-      "published": "2026-06-24 21:22:00",
-      "isoDate": "2026-06-24T21:22:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +132,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "EV業界の巨人にダブル・トレンド・ブレイクダウンの警告シグナル",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1583093",
+      "published": "2026-06-24 11:47:29",
+      "isoDate": "2026-06-24T11:47:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジーの決算発表、AI向けメモリ取引の行方を左右する",
       "link": "https://jp.investing.com/news/stock-market-news/article-1581668",
       "published": "2026-06-24 09:36:40",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットサム、個人情報の無断韓国国外移転で制裁　約2300万円課徴金",
+      "link": "https://coinpost.jp/?p=720012",
+      "published": "Thu, 25 Jun 2026 17:04:42 +0900",
+      "isoDate": "2026-06-25T08:04:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインチェック、仮想通貨送金にJPKI本人確認を導入　国内初と発表",
+      "link": "https://coinpost.jp/?p=719922",
+      "published": "Thu, 25 Jun 2026 16:15:05 +0900",
+      "isoDate": "2026-06-25T07:15:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットバンク、SBIグループ完全子会社化へ",
+      "link": "https://coinpost.jp/?p=719917",
+      "published": "Thu, 25 Jun 2026 15:41:30 +0900",
+      "isoDate": "2026-06-25T06:41:30Z"
+    },
     {
       "source": "CoinPost",
       "title": "Startale App日本版リリース、円建て表示・日本語UIに対応",
@@ -201,13 +222,6 @@
       "link": "https://coinpost.jp/?p=719542",
       "published": "Wed, 24 Jun 2026 16:44:04 +0900",
       "isoDate": "2026-06-24T07:44:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン短期保有者、含み損8カ月継続＝アナリスト",
-      "link": "https://coinpost.jp/?p=719463",
-      "published": "Wed, 24 Jun 2026 14:09:59 +0900",
-      "isoDate": "2026-06-24T05:09:59Z"
     }
   ]
 }
