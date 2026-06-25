@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T20:07:16Z",
-  "last_checked": "2026-06-25T20:07:16Z",
+  "updated": "2026-06-25T22:05:07Z",
+  "last_checked": "2026-06-25T22:05:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、1株当たり0.06ドルの四半期配当を発表――利回りは0.1%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1584198",
+      "published": "2026-06-25 20:07:05",
+      "isoDate": "2026-06-25T20:07:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジーの好決算がグローバルIT株を押し上げ、TSXは上昇スタートへ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1583773",
+      "published": "2026-06-25 13:08:12",
+      "isoDate": "2026-06-25T13:08:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サンディスク株価目標をシティが引き上げ、需要の堅調さ継続を評価",
       "link": "https://jp.investing.com/news/stock-market-news/article-1583778",
       "published": "2026-06-25 13:04:48",
@@ -118,20 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反発、米マイクロンの決算横目に買い戻し優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1582952",
-      "published": "2026-06-25 03:15:16",
-      "isoDate": "2026-06-25T03:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、AI向けメモリ需要急増で過去最高益を記録",
-      "link": "https://jp.investing.com/news/earnings/article-1582581",
-      "published": "2026-06-24 20:14:12",
-      "isoDate": "2026-06-24T20:14:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【決算速報】マイクロンテクノロジー.、売上高は予想を上回り、利益は予想を上回る結果に",
       "link": "https://jp.investing.com/news/earnings/article-1582563",
       "published": "2026-06-24 20:06:38",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "中国著名ビットコインマイナー、BTC底値を2026年末に4.2万ドルと予測",
+      "link": "https://coinpost.jp/?p=720143",
+      "published": "Fri, 26 Jun 2026 05:45:04 +0900",
+      "isoDate": "2026-06-25T20:45:04Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨取引所コインエックス、イラン制裁回避の主要経路と判明　38億ドル超",
