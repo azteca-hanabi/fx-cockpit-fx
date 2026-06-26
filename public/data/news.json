@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-26T13:30:48Z",
-  "last_checked": "2026-06-26T13:30:48Z",
+  "updated": "2026-06-26T16:20:32Z",
+  "last_checked": "2026-06-26T16:20:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロブスタコーヒー、3ヶ月ぶり高値後にわずかに下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585312",
+      "published": "2026-06-26 16:05:26",
+      "isoDate": "2026-06-26T16:05:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "熱波とエルニーニョ懸念で砂糖先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585310",
+      "published": "2026-06-26 16:04:09",
+      "isoDate": "2026-06-26T16:04:09Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSが原油価格の回復を予測、湾岸の供給正常化は市場予想より遅れる見通し",
@@ -18,7 +32,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、ドル高とFED利上げ観測で週間3%安へ",
+      "title": "金価格、週間で約3%下落へ――ドル高とFED利上げ観測が重荷",
       "link": "https://jp.investing.com/news/commodities-news/article-1584508",
       "published": "2026-06-26 04:01:00",
       "isoDate": "2026-06-26T04:01:00Z"
@@ -57,23 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1582928",
       "published": "2026-06-25 02:25:56",
       "isoDate": "2026-06-25T02:25:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロンドンカカオ先物、エルニーニョ懸念で5カ月ぶり高値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582553",
-      "published": "2026-06-24 19:54:20",
-      "isoDate": "2026-06-24T19:54:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランが輸出拡大、原油現物カーゴが大幅ディスカウントで取引",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582412",
-      "published": "2026-06-24 15:41:02",
-      "isoDate": "2026-06-24T15:41:02Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ジェフリーズ、ITエグゼクティブ調査で4銘柄のソフトウェア株を高評価",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585222",
+      "published": "2026-06-26 14:22:19",
+      "isoDate": "2026-06-26T14:22:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アーガスがSpaceXをホールド評価で開始、記録的IPOは数年かけた再評価が必要と指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585156",
+      "published": "2026-06-26 13:39:59",
+      "isoDate": "2026-06-26T13:39:59Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AWSがGPUインスタンス価格を7月1日より20%引き上げへ",
@@ -83,10 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "インターナショナル・ビジネス・マシーンズ、レッドハット、デロイトがソフトウェアサプライチェーンセキュリティで協力",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1585067",
-      "published": "2026-06-26 13:02:15",
-      "isoDate": "2026-06-26T13:02:15Z"
+      "title": "ゴールドマン・サックス、契約紛争の深刻化でInwitを格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584893",
+      "published": "2026-06-26 11:50:38",
+      "isoDate": "2026-06-26T11:50:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "韓国KOSPIが8%超下落、サーキットブレーカー発動――テック株の急落が引き金に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584512",
-      "published": "2026-06-26 04:08:34",
-      "isoDate": "2026-06-26T04:08:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップル主導のテック株急落でKOSPIと日経平均が下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1584477",
       "published": "2026-06-26 03:04:01",
       "isoDate": "2026-06-26T03:04:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、チップ不足でMacとiPadの価格を引き上げ、株価5%急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1583713",
-      "published": "2026-06-25 12:51:17",
-      "isoDate": "2026-06-25T12:51:17Z"
     }
   ],
   "btc_items": [
