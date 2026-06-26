@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T18:10:22Z",
-  "last_checked": "2026-06-26T18:10:22Z",
+  "updated": "2026-06-26T20:18:22Z",
+  "last_checked": "2026-06-26T20:18:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Investing.comの今週の注目株",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585378",
+      "published": "2026-06-26 18:09:56",
+      "isoDate": "2026-06-26T18:09:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ジェフリーズ、ITエグゼクティブ調査で4銘柄のソフトウェア株を高評価",
       "link": "https://jp.investing.com/news/stock-market-news/article-1585222",
       "published": "2026-06-26 14:22:19",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1584893",
       "published": "2026-06-26 11:50:38",
       "isoDate": "2026-06-26T11:50:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカのハートネット氏、テック資金の記録的流出を警告——金をドルより選好",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584769",
-      "published": "2026-06-26 10:10:00",
-      "isoDate": "2026-06-26T10:10:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,69 +145,5 @@
       "isoDate": "2026-06-26T03:04:01Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、機関投資家の売り圧力が加速　コインベース・プレミアム指数が40日超マイナス",
-      "link": "https://coinpost.jp/?p=720383",
-      "published": "Fri, 26 Jun 2026 16:46:30 +0900",
-      "isoDate": "2026-06-26T07:46:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米下院民主党、AI自動取引の規制巡りSECに質問状",
-      "link": "https://coinpost.jp/?p=720259",
-      "published": "Fri, 26 Jun 2026 14:00:49 +0900",
-      "isoDate": "2026-06-26T05:00:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ユーロポール、国際作戦で仮想通貨盗むマルウェア摘発　約75億円相当を凍結",
-      "link": "https://coinpost.jp/?p=720224",
-      "published": "Fri, 26 Jun 2026 12:55:32 +0900",
-      "isoDate": "2026-06-26T03:55:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインのオプション市場、下落への備えが歴史的高水準に",
-      "link": "https://coinpost.jp/?p=720245",
-      "published": "Fri, 26 Jun 2026 12:16:06 +0900",
-      "isoDate": "2026-06-26T03:16:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=720139",
-      "published": "Fri, 26 Jun 2026 10:25:56 +0900",
-      "isoDate": "2026-06-26T01:25:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ポリマーケット、サイト侵害で約4.8億円流出　全額返金へ",
-      "link": "https://coinpost.jp/?p=720173",
-      "published": "Fri, 26 Jun 2026 09:37:30 +0900",
-      "isoDate": "2026-06-26T00:37:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Baseチェーン、ブロック生成で約3時間の障害発生　現在は復旧",
-      "link": "https://coinpost.jp/?p=720151",
-      "published": "Fri, 26 Jun 2026 08:12:07 +0900",
-      "isoDate": "2026-06-25T23:12:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラーケンのAave（アーベ）出資交渉報道、創設者は割引売却を否定",
-      "link": "https://coinpost.jp/?p=720141",
-      "published": "Fri, 26 Jun 2026 08:00:00 +0900",
-      "isoDate": "2026-06-25T23:00:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、7月採決が正念場に",
-      "link": "https://coinpost.jp/?p=720140",
-      "published": "Fri, 26 Jun 2026 07:20:59 +0900",
-      "isoDate": "2026-06-25T22:20:59Z"
-    }
-  ]
+  "btc_items": []
 }
