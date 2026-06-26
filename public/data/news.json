@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-25T23:53:27Z",
-  "last_checked": "2026-06-25T23:53:27Z",
+  "updated": "2026-06-26T04:08:22Z",
+  "last_checked": "2026-06-26T04:08:22Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金、ドル高とFED利上げ観測で4週連続の週間下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1584508",
+      "published": "2026-06-26 04:01:00",
+      "isoDate": "2026-06-26T04:01:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給リスク緩和で原油は3週連続の下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1584406",
+      "published": "2026-06-26 00:28:45",
+      "isoDate": "2026-06-26T00:28:45Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "アジアのナフサ価格、主要ハブの在庫増加で下落",
@@ -57,57 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582104",
       "published": "2026-06-24 13:06:09",
       "isoDate": "2026-06-24T13:06:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "JPモルガン、2026年下半期のブレント原油価格見通しを引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1582005",
-      "published": "2026-06-24 12:29:31",
-      "isoDate": "2026-06-24T12:29:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが分析：混乱した供給の約80%が回復、石油市場の損失が縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-1581729",
-      "published": "2026-06-24 10:30:01",
-      "isoDate": "2026-06-24T10:30:01Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場はまちまち、原油の反発を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584384",
-      "published": "2026-06-25 23:15:07",
-      "isoDate": "2026-06-25T23:15:07Z"
+      "title": "日経平均は大幅反落、売り優勢で下げ幅拡大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584488",
+      "published": "2026-06-26 03:30:15",
+      "isoDate": "2026-06-26T03:30:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "25日のNY市場はまちまち",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584385",
-      "published": "2026-06-25 23:15:07",
-      "isoDate": "2026-06-25T23:15:07Z"
+      "title": "アップル主導のテック株急落でKOSPIと日経平均が下落、アジア株安",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584477",
+      "published": "2026-06-26 03:04:01",
+      "isoDate": "2026-06-26T03:04:01Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1キオクシアHD、 アドバンテスト、KOKUSAI　ELECTRICなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584374",
-      "published": "2026-06-25 22:30:06",
-      "isoDate": "2026-06-25T22:30:06Z"
+      "title": "ソフトバンク株急落、OpenAIのIPO来年以降延期報道を受け",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584428",
+      "published": "2026-06-26 01:10:34",
+      "isoDate": "2026-06-26T01:10:34Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "25日の米国市場ダイジェスト：米国株式市場はまちまち、原油の反発を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1584375",
-      "published": "2026-06-25 22:30:06",
-      "isoDate": "2026-06-25T22:30:06Z"
+      "title": "個別銘柄戦略: セレスやMIXIに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1584404",
+      "published": "2026-06-26 00:15:09",
+      "isoDate": "2026-06-26T00:15:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：年内の利上げ観測が緩和",
-      "link": "https://jp.investing.com/news/forex-news/article-1584357",
-      "published": "2026-06-25 22:00:05",
-      "isoDate": "2026-06-25T22:00:05Z"
+      "title": "前日の急伸の反動や米テック株安を映して売り先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584389",
+      "published": "2026-06-25 23:30:07",
+      "isoDate": "2026-06-25T23:30:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ユーロポール、国際作戦で仮想通貨盗むマルウェア摘発　約75億円相当を凍結",
+      "link": "https://coinpost.jp/?p=720224",
+      "published": "Fri, 26 Jun 2026 12:55:32 +0900",
+      "isoDate": "2026-06-26T03:55:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインのオプション市場、下落への備えが歴史的高水準",
+      "link": "https://coinpost.jp/?p=720245",
+      "published": "Fri, 26 Jun 2026 12:16:06 +0900",
+      "isoDate": "2026-06-26T03:16:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン急落し21カ月ぶり安値更新、メジャーSQ前に大荒れ｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=720139",
+      "published": "Fri, 26 Jun 2026 10:25:56 +0900",
+      "isoDate": "2026-06-26T01:25:56Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ポリマーケット、サイト侵害で約4.8億円流出　全額返金へ",
+      "link": "https://coinpost.jp/?p=720173",
+      "published": "Fri, 26 Jun 2026 09:37:30 +0900",
+      "isoDate": "2026-06-26T00:37:30Z"
+    },
     {
       "source": "CoinPost",
       "title": "Baseチェーン、ブロック生成で約3時間の障害発生　現在は復旧",
@@ -194,48 +222,6 @@
       "link": "https://coinpost.jp/?p=719922",
       "published": "Thu, 25 Jun 2026 16:15:05 +0900",
       "isoDate": "2026-06-25T07:15:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIグループ、ビットバンクを完全子会社化へ",
-      "link": "https://coinpost.jp/?p=719917",
-      "published": "Thu, 25 Jun 2026 15:41:30 +0900",
-      "isoDate": "2026-06-25T06:41:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Startale App日本版リリース、円建て表示・日本語UIに対応",
-      "link": "https://coinpost.jp/?p=719889",
-      "published": "Thu, 25 Jun 2026 15:00:26 +0900",
-      "isoDate": "2026-06-25T06:00:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン4年サイクルは健在、年末目標10万ドル＝21シェアーズ",
-      "link": "https://coinpost.jp/?p=719837",
-      "published": "Thu, 25 Jun 2026 14:31:31 +0900",
-      "isoDate": "2026-06-25T05:31:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン市場は買い手待ち、一部で底打ち段階初期の特徴も＝グラスノード",
-      "link": "https://coinpost.jp/?p=719746",
-      "published": "Thu, 25 Jun 2026 11:51:38 +0900",
-      "isoDate": "2026-06-25T02:51:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、欧州MiCAライセンスのギリシャでの申請を取り下げ　他国で認可取得へ",
-      "link": "https://coinpost.jp/?p=719684",
-      "published": "Thu, 25 Jun 2026 11:20:39 +0900",
-      "isoDate": "2026-06-25T02:20:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、CBDC条項含む住宅法案への署名延期　クラリティー法案への影響可能性",
-      "link": "https://coinpost.jp/?p=719688",
-      "published": "Thu, 25 Jun 2026 10:10:32 +0900",
-      "isoDate": "2026-06-25T01:10:32Z"
     }
   ]
 }
