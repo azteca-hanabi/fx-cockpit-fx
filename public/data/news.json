@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-26T21:48:13Z",
-  "last_checked": "2026-06-26T21:48:13Z",
+  "updated": "2026-06-26T23:11:54Z",
+  "last_checked": "2026-06-26T23:11:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：年内の利下げ観測がさらに後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1585537",
+      "published": "2026-06-26 22:00:04",
+      "isoDate": "2026-06-26T22:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceX、5つのトランシェで250億ドルの社債発行を完了",
       "link": "https://jp.investing.com/news/stock-market-news/article-1585515",
       "published": "2026-06-26 21:13:09",
@@ -83,17 +90,17 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "クロックス、北米回復の兆しでパイパー・サンドラーが強気に格上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585385",
+      "published": "2026-06-26 18:21:49",
+      "isoDate": "2026-06-26T18:21:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Investing.comの今週の注目株",
       "link": "https://jp.investing.com/news/stock-market-news/article-1585378",
       "published": "2026-06-26 18:09:56",
       "isoDate": "2026-06-26T18:09:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ジェフリーズ、ITエグゼクティブ調査で4銘柄のソフトウェア株を高評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1585222",
-      "published": "2026-06-26 14:22:19",
-      "isoDate": "2026-06-26T14:22:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1584513",
       "published": "2026-06-26 04:15:19",
       "isoDate": "2026-06-26T04:15:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル主導のテック株急落でKOSPIと日経平均が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584477",
-      "published": "2026-06-26 03:04:01",
-      "isoDate": "2026-06-26T03:04:01Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "リップルCEO、ストラテジーのビットコイン購入手法を疑問視",
+      "link": "https://coinpost.jp/?p=720448",
+      "published": "Sat, 27 Jun 2026 06:45:12 +0900",
+      "isoDate": "2026-06-26T21:45:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、機関投資家の売り圧力が加速　コインベース・プレミアム指数が40日超マイナス",
@@ -180,20 +187,6 @@
       "link": "https://coinpost.jp/?p=720139",
       "published": "Fri, 26 Jun 2026 10:25:56 +0900",
       "isoDate": "2026-06-26T01:25:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ポリマーケット、サイト侵害で約4.8億円流出　全額返金へ",
-      "link": "https://coinpost.jp/?p=720173",
-      "published": "Fri, 26 Jun 2026 09:37:30 +0900",
-      "isoDate": "2026-06-26T00:37:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Baseチェーン、ブロック生成で約3時間の障害発生　現在は復旧",
-      "link": "https://coinpost.jp/?p=720151",
-      "published": "Fri, 26 Jun 2026 08:12:07 +0900",
-      "isoDate": "2026-06-25T23:12:07Z"
     }
   ]
 }
