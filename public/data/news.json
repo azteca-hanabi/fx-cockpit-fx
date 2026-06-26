@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-26T16:20:32Z",
-  "last_checked": "2026-06-26T16:20:32Z",
+  "updated": "2026-06-26T18:10:22Z",
+  "last_checked": "2026-06-26T18:10:22Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロンドンのカカオ先物、5ヶ月ぶり高値後に2.8%下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585315",
+      "published": "2026-06-26 16:09:32",
+      "isoDate": "2026-06-26T16:09:32Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ロブスタコーヒー、3ヶ月ぶり高値後にわずかに下落",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1583213",
       "published": "2026-06-25 08:57:39",
       "isoDate": "2026-06-25T08:57:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が4,000ドル台を回復、コアPCEが予想通りの結果",
-      "link": "https://jp.investing.com/news/commodities-news/article-1582928",
-      "published": "2026-06-25 02:25:56",
-      "isoDate": "2026-06-25T02:25:56Z"
     }
   ],
   "usdjpy_items": [
