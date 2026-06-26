@@ -1,17 +1,24 @@
 {
-  "updated": "2026-06-26T08:08:02Z",
-  "last_checked": "2026-06-26T08:08:02Z",
+  "updated": "2026-06-26T11:24:50Z",
+  "last_checked": "2026-06-26T11:24:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金、ドル高と利上げ観測で4週連続の週間下落へ",
+      "title": "欧州天然ガス、ホルムズ海峡の正常化で2カ月ぶり安値圏推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-1584681",
+      "published": "2026-06-26 09:11:53",
+      "isoDate": "2026-06-26T09:11:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、ドル高とFED利上げ観測で週間3%安へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1584508",
       "published": "2026-06-26 04:01:00",
       "isoDate": "2026-06-26T04:01:00Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "中東の供給リスク緩和で原油は3週連続の下落へ",
+      "title": "中東の供給リスク緩和で原油価格は3週連続の下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1584406",
       "published": "2026-06-26 00:28:45",
       "isoDate": "2026-06-26T00:28:45Z"
@@ -64,22 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582363",
       "published": "2026-06-24 14:48:58",
       "isoDate": "2026-06-24T14:48:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、ケープサイズ運賃の下落で低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1582104",
-      "published": "2026-06-24 13:06:09",
-      "isoDate": "2026-06-24T13:06:09Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "伊勢化、セレス、宮越HDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584593",
-      "published": "2026-06-26 07:00:18",
-      "isoDate": "2026-06-26T07:00:18Z"
+      "title": "AIが予測：6月に選定されたチップ大手が売上高345%超の成長を記録",
+      "link": "https://jp.investing.com/news/investment-ideas/article-1584797",
+      "published": "2026-06-26 10:53:11",
+      "isoDate": "2026-06-26T10:53:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカのハートネット氏、テック資金の記録的流出を警告——金をドルより選好",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584769",
+      "published": "2026-06-26 10:10:00",
+      "isoDate": "2026-06-26T10:10:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルの値上げがAI関連銘柄への懸念を呼び、米半導体株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584668",
+      "published": "2026-06-26 08:30:27",
+      "isoDate": "2026-06-26T08:30:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅反落、投資家心理悪化で7万円割れ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1584575",
+      "published": "2026-06-26 06:45:17",
+      "isoDate": "2026-06-26T06:45:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1584541",
       "published": "2026-06-26 06:00:19",
       "isoDate": "2026-06-26T06:00:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがスターリンク携帯サービスの米国展開を検討、FT報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1584524",
-      "published": "2026-06-26 05:02:55",
-      "isoDate": "2026-06-26T05:02:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテクの買戻しに期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1584520",
-      "published": "2026-06-26 05:00:18",
-      "isoDate": "2026-06-26T05:00:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1583245",
       "published": "2026-06-25 09:39:27",
       "isoDate": "2026-06-25T09:39:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "EV業界の巨人にダブル・トレンド・ブレイクダウンの警告シグナル",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1583093",
-      "published": "2026-06-24 11:47:29",
-      "isoDate": "2026-06-24T11:47:29Z"
     }
   ],
   "btc_items": [
@@ -208,13 +208,6 @@
       "link": "https://coinpost.jp/?p=720140",
       "published": "Fri, 26 Jun 2026 07:20:59 +0900",
       "isoDate": "2026-06-25T22:20:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "中国著名ビットコインマイナー、BTC底値を2026年末に4.2万ドルと予測",
-      "link": "https://coinpost.jp/?p=720143",
-      "published": "Fri, 26 Jun 2026 05:45:04 +0900",
-      "isoDate": "2026-06-25T20:45:04Z"
     }
   ]
 }
