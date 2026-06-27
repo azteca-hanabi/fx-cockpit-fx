@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T20:11:02Z",
-  "last_checked": "2026-06-27T20:11:02Z",
+  "updated": "2026-06-27T21:38:37Z",
+  "last_checked": "2026-06-27T21:38:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -111,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "新興市場見通し：大型生成AI関連株の落ち着きを待ちつつ、7月相場入りで機関投資家の買いに期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1585629",
+      "published": "2026-06-27 05:45:04",
+      "isoDate": "2026-06-27T05:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "1Q26：ハイパースケーラーの業績はどうだったか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1585623",
       "published": "2026-06-27 03:58:10",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1585572",
       "published": "2026-06-26 23:15:06",
       "isoDate": "2026-06-26T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "クロックス、北米回復の兆しでパイパー・サンドラーが強気に格上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1585385",
-      "published": "2026-06-26 18:21:49",
-      "isoDate": "2026-06-26T18:21:49Z"
     }
   ],
   "btc_items": [
