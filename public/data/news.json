@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-27T01:28:40Z",
-  "last_checked": "2026-06-27T01:28:40Z",
+  "updated": "2026-06-27T05:32:35Z",
+  "last_checked": "2026-06-27T05:32:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ハイパースケーラーの2026年第1四半期業績はどうだったか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585623",
+      "published": "2026-06-27 03:58:10",
+      "isoDate": "2026-06-27T03:58:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "為替週間見通し：ドルは伸び悩みか、米年内利上げ観測も約40年ぶり高値を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1585619",
+      "published": "2026-06-27 03:45:04",
+      "isoDate": "2026-06-27T03:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、中国CXMTからのメモリチップ調達でトランプ政権に承認を申請",
+      "link": "https://jp.investing.com/news/company-news/article-1585616",
+      "published": "2026-06-27 03:19:12",
+      "isoDate": "2026-06-27T03:19:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "26日の米国市場ダイジェスト：米国株式市場は下落、AIへの懸念が重し",
       "link": "https://jp.investing.com/news/forex-news/article-1585582",
       "published": "2026-06-26 23:45:06",
@@ -94,27 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1585574",
       "published": "2026-06-26 23:15:06",
       "isoDate": "2026-06-26T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：ドルが売られる、利上げ観測がさらに後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1585573",
-      "published": "2026-06-26 23:15:06",
-      "isoDate": "2026-06-26T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：原油価格が下落",
-      "link": "https://jp.investing.com/news/forex-news/article-1585561",
-      "published": "2026-06-26 23:00:06",
-      "isoDate": "2026-06-26T23:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "タイトル：　NY株式：NYダウは44.51ドル安、AIへの懸念が重し",
-      "link": "https://jp.investing.com/news/forex-news/article-1585527",
-      "published": "2026-06-26 21:30:04",
-      "isoDate": "2026-06-26T21:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,62 @@
       "isoDate": "2026-06-26T06:00:19Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "エテナ関連トレジャリー企業「ステーブルコインX」がナスダック上場、450億円相当ENAを保有",
+      "link": "https://coinpost.jp/?p=720496",
+      "published": "Sat, 27 Jun 2026 13:15:26 +0900",
+      "isoDate": "2026-06-27T04:15:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米民主党重鎮議員、退職金401kの仮想通貨解禁規則の撤回を要求",
+      "link": "https://coinpost.jp/?p=720446",
+      "published": "Sat, 27 Jun 2026 11:40:08 +0900",
+      "isoDate": "2026-06-27T02:40:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペイン当局「MiCA猶予延長なし」明言、バイナンスもEUでの営業停止へ",
+      "link": "https://coinpost.jp/?p=720473",
+      "published": "Sat, 27 Jun 2026 11:00:31 +0900",
+      "isoDate": "2026-06-27T02:00:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン支持者モウ氏、ストラテジーとBSTRのビットコインのOTC取引提案",
+      "link": "https://coinpost.jp/?p=720485",
+      "published": "Sat, 27 Jun 2026 10:30:36 +0900",
+      "isoDate": "2026-06-27T01:30:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米VCのフレームワークが640億円超調達、仮想通貨・AI・ロボット・エネルギー領域に投資へ",
+      "link": "https://coinpost.jp/?p=720462",
+      "published": "Sat, 27 Jun 2026 08:15:29 +0900",
+      "isoDate": "2026-06-26T23:15:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リップルCEO、ストラテジーのビットコイン購入手法を疑問視",
+      "link": "https://coinpost.jp/?p=720448",
+      "published": "Sat, 27 Jun 2026 06:45:12 +0900",
+      "isoDate": "2026-06-26T21:45:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、機関投資家の売り圧力が加速　コインベース・プレミアム指数が40日超マイナス",
+      "link": "https://coinpost.jp/?p=720383",
+      "published": "Fri, 26 Jun 2026 16:46:30 +0900",
+      "isoDate": "2026-06-26T07:46:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米下院民主党、AI自動取引の規制巡りSECに質問状",
+      "link": "https://coinpost.jp/?p=720259",
+      "published": "Fri, 26 Jun 2026 14:00:49 +0900",
+      "isoDate": "2026-06-26T05:00:49Z"
+    }
+  ]
 }
