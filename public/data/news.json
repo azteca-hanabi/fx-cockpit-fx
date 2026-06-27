@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-27T12:14:26Z",
-  "last_checked": "2026-06-27T12:14:26Z",
+  "updated": "2026-06-27T14:14:01Z",
+  "last_checked": "2026-06-27T14:14:01Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "リチウム価格はピークを迎えたのか？バーンスタインは上昇余地ありと分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-1585681",
+      "published": "2026-06-27 13:42:12",
+      "isoDate": "2026-06-27T13:42:12Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ロンドンのカカオ先物、5ヶ月ぶり高値後に2.8%下落",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1583515",
       "published": "2026-06-25 11:55:35",
       "isoDate": "2026-06-25T11:55:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の輸送が正常化に近づき、欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1583213",
-      "published": "2026-06-25 08:57:39",
-      "isoDate": "2026-06-25T08:57:39Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "債券・株式相関が30年ぶり低水準、ポートフォリオへの影響とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585678",
+      "published": "2026-06-27 13:13:23",
+      "isoDate": "2026-06-27T13:13:23Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：日銀短観、米雇用統計、USMCA更新判断期限",
@@ -99,13 +106,6 @@
       "source": "Investing.com 外為",
       "title": "新興市場見通し：大型生成AI関連株の落ち着きを待ちつつ、7月相場入りで機関投資家の買いに期待",
       "link": "https://jp.investing.com/news/forex-news/article-1585629",
-      "published": "2026-06-27 05:45:04",
-      "isoDate": "2026-06-27T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：セクターロケーションの一段の進展に注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1585628",
       "published": "2026-06-27 05:45:04",
       "isoDate": "2026-06-27T05:45:04Z"
     },
