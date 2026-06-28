@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T06:23:39Z",
-  "last_checked": "2026-06-28T06:23:39Z",
+  "updated": "2026-06-28T09:42:36Z",
+  "last_checked": "2026-06-28T09:42:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,28 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "メモリチップメーカー、AI需要急増で価格高騰の恩恵を享受",
+      "title": "GoogleがMeta PlatformsのGemini AIアクセスを制限、計算需要が供給を上回る",
+      "link": "https://jp.investing.com/news/company-news/article-1585731",
+      "published": "2026-06-28 09:10:43",
+      "isoDate": "2026-06-28T09:10:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジーの目標株価引き上げ、SpaceXの評価額には慎重な見方",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585729",
+      "published": "2026-06-28 09:00:02",
+      "isoDate": "2026-06-28T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカ、第3四半期もドルのロングポジション維持を推奨",
+      "link": "https://jp.investing.com/news/economy-news/article-1585722",
+      "published": "2026-06-28 07:46:58",
+      "isoDate": "2026-06-28T07:46:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "メモリチップメーカー、AI需要急増で価格高騰の恩恵を享受＝WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1585715",
       "published": "2026-06-28 05:44:41",
       "isoDate": "2026-06-28T05:44:41Z"
@@ -122,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1585634",
       "published": "2026-06-27 06:37:39",
       "isoDate": "2026-06-27T06:37:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：AIラリー継続の有無が焦点だが、相対的には出遅れ銘柄の見直し買いに安心感",
-      "link": "https://jp.investing.com/news/forex-news/article-1585630",
-      "published": "2026-06-27 05:45:05",
-      "isoDate": "2026-06-27T05:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "新興市場見通し：大型生成AI関連株の落ち着きを待ちつつ、7月相場入りで機関投資家の買いに期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1585629",
-      "published": "2026-06-27 05:45:04",
-      "isoDate": "2026-06-27T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、中国CXMTからのメモリチップ調達で米政府の承認を申請",
-      "link": "https://jp.investing.com/news/company-news/article-1585616",
-      "published": "2026-06-27 03:19:12",
-      "isoDate": "2026-06-27T03:19:12Z"
     }
   ],
   "btc_items": [
