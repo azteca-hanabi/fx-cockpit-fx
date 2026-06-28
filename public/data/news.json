@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T21:07:26Z",
-  "last_checked": "2026-06-28T21:07:26Z",
+  "updated": "2026-06-28T22:35:26Z",
+  "last_checked": "2026-06-28T22:35:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -60,6 +60,13 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルのAI刷新がアップグレードサイクルを促進、バンク・オブ・アメリカが長期的な上昇余地を支持",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1585776",
+      "published": "2026-06-28 20:48:12",
+      "isoDate": "2026-06-28T20:48:12Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "CTAの米国債ショートカバーが加速、株式ロングにも圧力",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1585636",
       "published": "2026-06-27 07:45:04",
       "isoDate": "2026-06-27T07:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、7月7日にナスダック100に採用――数十億ドルの受動的資金流入が見込まれる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1585634",
-      "published": "2026-06-27 06:37:39",
-      "isoDate": "2026-06-27T06:37:39Z"
     }
   ],
   "btc_items": [
