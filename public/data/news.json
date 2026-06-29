@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T17:42:10Z",
-  "last_checked": "2026-06-29T17:42:10Z",
+  "updated": "2026-06-29T20:04:56Z",
+  "last_checked": "2026-06-29T20:04:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -41,17 +41,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "テスラQ2納車レポートの見どころと市場の注目点",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1587231",
+      "published": "2026-06-29 19:11:46",
+      "isoDate": "2026-06-29T19:11:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピック、エヌビディアGB300 GPU搭載のマイクロソフトAzureでClaudeモデルを提供開始",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1587170",
+      "published": "2026-06-29 17:47:34",
+      "isoDate": "2026-06-29T17:47:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "PalantirとエヌビディアのAI提携でPalantir株が4%急騰、ソフトウェアが半導体を上回る",
       "link": "https://jp.investing.com/news/stock-market-news/article-1587022",
       "published": "2026-06-29 14:40:38",
       "isoDate": "2026-06-29T14:40:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バイトダンス、AI強化に向け2027年下半期にCPU量産を目標",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1586961",
-      "published": "2026-06-29 14:01:49",
-      "isoDate": "2026-06-29T14:01:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1586026",
       "published": "2026-06-29 07:45:14",
       "isoDate": "2026-06-29T07:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXが2026年7月7日にナスダック100指数へ組み入れへ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1586001",
-      "published": "2026-06-29 07:09:15",
-      "isoDate": "2026-06-29T07:09:15Z"
     },
     {
       "source": "Investing.com 外為",
