@@ -1,7 +1,14 @@
 {
-  "updated": "2026-06-29T14:34:37Z",
-  "last_checked": "2026-06-29T14:34:37Z",
+  "updated": "2026-06-29T17:42:10Z",
+  "last_checked": "2026-06-29T17:42:10Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、黒海地域の供給増でフランスの猛暑懸念を相殺し小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1587132",
+      "published": "2026-06-29 16:59:02",
+      "isoDate": "2026-06-29T16:59:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東緊張でガス供給リスク高まる、欧州天然ガス価格が1%超上昇",
@@ -29,30 +36,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1585681",
       "published": "2026-06-27 13:42:12",
       "isoDate": "2026-06-27T13:42:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロンドンのカカオ先物、5ヶ月ぶり高値後に2.8%下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585315",
-      "published": "2026-06-26 16:09:32",
-      "isoDate": "2026-06-26T16:09:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロブスタコーヒー、3ヶ月ぶり高値後にわずかに下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585312",
-      "published": "2026-06-26 16:05:26",
-      "isoDate": "2026-06-26T16:05:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "熱波とエルニーニョ懸念で砂糖先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1585310",
-      "published": "2026-06-26 16:04:09",
-      "isoDate": "2026-06-26T16:04:09Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとエヌビディアのAI提携でPalantir株が4%急騰、ソフトウェアが半導体を上回る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1587022",
+      "published": "2026-06-29 14:40:38",
+      "isoDate": "2026-06-29T14:40:38Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "バイトダンス、AI強化に向け2027年下半期にCPU量産を目標",
@@ -80,13 +73,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1586398",
       "published": "2026-06-29 11:00:14",
       "isoDate": "2026-06-29T11:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "PalantirとSurf Air Mobility、SurfOSソフトウェア提携を拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1586400",
-      "published": "2026-06-29 11:00:09",
-      "isoDate": "2026-06-29T11:00:09Z"
     },
     {
       "source": "Investing.com 外為",
