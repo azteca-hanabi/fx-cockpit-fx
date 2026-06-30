@@ -1,7 +1,28 @@
 {
-  "updated": "2026-06-30T15:15:36Z",
-  "last_checked": "2026-06-30T15:15:36Z",
+  "updated": "2026-06-30T17:24:26Z",
+  "last_checked": "2026-06-30T17:24:26Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦が2週間ぶり安値、トウモロコシは最高値更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1588738",
+      "published": "2026-06-30 16:40:41",
+      "isoDate": "2026-06-30T16:40:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油生産量が4月に過去最高の1日1393万バレルを記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1588737",
+      "published": "2026-06-30 16:36:51",
+      "isoDate": "2026-06-30T16:36:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドが燃料輸出への超過利潤税を調整、原油価格の下落受け",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1588688",
+      "published": "2026-06-30 15:43:27",
+      "isoDate": "2026-06-30T15:43:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米財務長官、ガソリン小売業者に値下げを要求―トランプ大統領の警告受け",
@@ -50,30 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1587273",
       "published": "2026-06-29 20:12:00",
       "isoDate": "2026-06-29T20:12:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、黒海地域の供給増でフランスの猛暑懸念を相殺し小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1587132",
-      "published": "2026-06-29 16:59:02",
-      "isoDate": "2026-06-29T16:59:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東緊張でガス供給リスク高まる、欧州天然ガス価格が1%超上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1586070",
-      "published": "2026-06-29 08:16:44",
-      "isoDate": "2026-06-29T08:16:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イランの攻撃再開を受け、金価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1585828",
-      "published": "2026-06-29 01:38:19",
-      "isoDate": "2026-06-29T01:38:19Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が上昇、SemiAnalysisが下半期データセンター収益はコンセンサスを20%上回ると予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1588726",
+      "published": "2026-06-30 16:21:52",
+      "isoDate": "2026-06-30T16:21:52Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "マグニフィセント・セブンが6月に低迷した4つの理由",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1588471",
       "published": "2026-06-30 13:23:05",
       "isoDate": "2026-06-30T13:23:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Progress Chef、Nvidia DGX Sparkの管理サポートを年間189ドルで提供開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1588400",
-      "published": "2026-06-30 13:01:12",
-      "isoDate": "2026-06-30T13:01:12Z"
     },
     {
       "source": "Investing.com 外為",
