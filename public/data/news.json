@@ -1,7 +1,21 @@
 {
-  "updated": "2026-06-30T17:24:26Z",
-  "last_checked": "2026-06-30T17:24:26Z",
+  "updated": "2026-06-30T19:20:10Z",
+  "last_checked": "2026-06-30T19:20:10Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、USDA作付面積・在庫減少報告を受け上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1588812",
+      "published": "2026-06-30 18:57:37",
+      "isoDate": "2026-06-30T18:57:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージンが4年ぶりの高水準に到達",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1588771",
+      "published": "2026-06-30 17:26:25",
+      "isoDate": "2026-06-30T17:26:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロネクスト小麦が2週間ぶり安値、トウモロコシは最高値更新",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1587576",
       "published": "2026-06-30 02:47:57",
       "isoDate": "2026-06-30T02:47:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン協議がホルムズ海峡の供給懸念を和らげ、原油相場は横ばい",
-      "link": "https://jp.investing.com/news/commodities-news/article-1587529",
-      "published": "2026-06-30 01:11:59",
-      "isoDate": "2026-06-30T01:11:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1587273",
-      "published": "2026-06-29 20:12:00",
-      "isoDate": "2026-06-29T20:12:00Z"
     }
   ],
   "usdjpy_items": [
