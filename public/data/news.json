@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T05:06:39Z",
-  "last_checked": "2026-07-01T05:06:39Z",
+  "updated": "2026-07-01T09:02:35Z",
+  "last_checked": "2026-07-01T09:02:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン協議の不透明感と米国産原油の記録的生産量が原油価格を下支え",
+      "title": "米イラン協議の不透明感続く中、原油価格が小幅上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1589200",
       "published": "2026-07-01 01:20:45",
       "isoDate": "2026-07-01T01:20:45Z"
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は3日続伸、東エレクやイビデンが2銘柄で約298円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1589442",
+      "published": "2026-07-01 08:15:18",
+      "isoDate": "2026-07-01T08:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "買い先行となるも急速に伸び悩む【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1589413",
+      "published": "2026-07-01 07:45:19",
+      "isoDate": "2026-07-01T07:45:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラの新規登録、フランスとスウェーデンで急増――ノルウェーでは43%減",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1589381",
+      "published": "2026-07-01 07:20:15",
+      "isoDate": "2026-07-01T07:20:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "金価格、13年ぶり最悪の四半期下落後に4,000ドル割れ継続――ウォーシュ発言に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1589244",
       "published": "2026-07-01 02:57:12",
@@ -94,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1589115",
       "published": "2026-06-30 22:14:23",
       "isoDate": "2026-06-30T22:14:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは136.46ドル高、強い雇用関連指標やハイテクが支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1589092",
-      "published": "2026-06-30 21:45:05",
-      "isoDate": "2026-06-30T21:45:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,25 +139,75 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、トランプ口座に2億5000万ドルを拠出",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1588471",
-      "published": "2026-06-30 13:23:05",
-      "isoDate": "2026-06-30T13:23:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 続伸、ほぼ「十字足」で膠着状態",
       "link": "https://jp.investing.com/news/forex-news/article-1587876",
       "published": "2026-06-30 09:30:13",
       "isoDate": "2026-06-30T09:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "楽天グループ、政府が1500億円の衛星補助金を計画との報道で急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1587660",
-      "published": "2026-06-30 06:24:00",
-      "isoDate": "2026-06-30T06:24:00Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF、6月に45億ドル流出　過去最大を更新",
+      "link": "https://coinpost.jp/?p=721416",
+      "published": "Wed, 01 Jul 2026 17:14:26 +0900",
+      "isoDate": "2026-07-01T08:14:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、資金吸収でパラボリック上昇再来の可能性＝クリプトクアントCEO",
+      "link": "https://coinpost.jp/?p=721395",
+      "published": "Wed, 01 Jul 2026 16:15:37 +0900",
+      "isoDate": "2026-07-01T07:15:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "台湾、仮想通貨包括規制法が成立　ステーブルコインに認可制導入",
+      "link": "https://coinpost.jp/?p=721354",
+      "published": "Wed, 01 Jul 2026 14:26:39 +0900",
+      "isoDate": "2026-07-01T05:26:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン下落、AI株安と連動　底打ち未確認＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=721290",
+      "published": "Wed, 01 Jul 2026 13:00:33 +0900",
+      "isoDate": "2026-07-01T04:00:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クリプタクト、Gtaxを統合　10月に仮想通貨損益計算サービス一本化へ",
+      "link": "https://coinpost.jp/?p=721298",
+      "published": "Wed, 01 Jul 2026 12:17:42 +0900",
+      "isoDate": "2026-07-01T03:17:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタマスク、利回り得られるオールインワン金融口座「マネーアカウント」立ち上げ",
+      "link": "https://coinpost.jp/?p=721281",
+      "published": "Wed, 01 Jul 2026 11:50:58 +0900",
+      "isoDate": "2026-07-01T02:50:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジーキャッシュ旧ウォレットの資金が復旧可能に、Sovrightが「Argos」ツール公開",
+      "link": "https://coinpost.jp/?p=721232",
+      "published": "Wed, 01 Jul 2026 10:45:23 +0900",
+      "isoDate": "2026-07-01T01:45:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JVCEA、任期満了で新たに役員を選任　会長はコインチェックの蓮尾氏",
+      "link": "https://coinpost.jp/?p=721239",
+      "published": "Wed, 01 Jul 2026 10:30:42 +0900",
+      "isoDate": "2026-07-01T01:30:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領の2025年仮想通貨収益、1950億円超と判明",
+      "link": "https://coinpost.jp/?p=721204",
+      "published": "Wed, 01 Jul 2026 07:20:46 +0900",
+      "isoDate": "2026-06-30T22:20:46Z"
+    }
+  ]
 }
