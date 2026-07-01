@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T22:51:02Z",
-  "last_checked": "2026-06-30T22:51:02Z",
+  "updated": "2026-07-01T00:11:24Z",
+  "last_checked": "2026-07-01T00:11:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -176,7 +176,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "ビットコイン長期保有者の利益圧縮、売却せず保有量は最大に＝アナリスト",
+      "title": "ビットコイン長期保有者利益が圧縮、売却せず保有量は最大に＝アナリスト",
       "link": "https://coinpost.jp/?p=721083",
       "published": "Tue, 30 Jun 2026 16:37:36 +0900",
       "isoDate": "2026-06-30T07:37:36Z"
@@ -187,20 +187,6 @@
       "link": "https://coinpost.jp/?p=720967",
       "published": "Tue, 30 Jun 2026 13:15:36 +0900",
       "isoDate": "2026-06-30T04:15:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英金融規制当局、仮想通貨包括規制を最終確定　2027年10月施行",
-      "link": "https://coinpost.jp/?p=720925",
-      "published": "Tue, 30 Jun 2026 10:45:05 +0900",
-      "isoDate": "2026-06-30T01:45:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨と伝統金融は融合できるか、グラスノードが分析レポート公開",
-      "link": "https://coinpost.jp/?p=720877",
-      "published": "Tue, 30 Jun 2026 10:15:10 +0900",
-      "isoDate": "2026-06-30T01:15:10Z"
     }
   ]
 }
