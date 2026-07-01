@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T21:07:48Z",
-  "last_checked": "2026-07-01T21:07:48Z",
+  "updated": "2026-07-01T22:48:07Z",
+  "last_checked": "2026-07-01T22:48:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アップル、AI需要によるメモリ不足でブラックリスト入り中国企業と交渉",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590570",
-      "published": "2026-07-01 20:05:27",
-      "isoDate": "2026-07-01T20:05:27Z"
+      "title": "NY為替：米6月ADP雇用統計や6月ISM製造業景況指数が予想を下回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1590742",
+      "published": "2026-07-01 22:00:05",
+      "isoDate": "2026-07-01T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンク、OpenAI株を担保に100億ドルの融資交渉を再開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590678",
+      "published": "2026-07-01 20:44:30",
+      "isoDate": "2026-07-01T20:44:30Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1589173",
       "published": "2026-07-01 00:15:10",
       "isoDate": "2026-07-01T00:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー.、インテル、アドバンスト・マイクロ・デバイセズが第2四半期に合計2兆ドルの時価総額増加",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1589002",
-      "published": "2026-06-30 20:51:34",
-      "isoDate": "2026-06-30T20:51:34Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "スタンダードチャータード、DeFi拡大でモルフォに強気見通し",
+      "link": "https://coinpost.jp/?p=721492",
+      "published": "Thu, 02 Jul 2026 07:35:37 +0900",
+      "isoDate": "2026-07-01T22:35:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ソラナ版予測市場『ワールド』がリリース、ファントムウォレットと統合",
+      "link": "https://coinpost.jp/?p=721491",
+      "published": "Thu, 02 Jul 2026 06:20:35 +0900",
+      "isoDate": "2026-07-01T21:20:35Z"
+    },
     {
       "source": "CoinPost",
       "title": "米クラリティー法案の倫理条項、トランプ大統領の10億ドル超仮想通貨収益受け民主党が明記要求",
@@ -215,13 +229,6 @@
       "link": "https://coinpost.jp/?p=721232",
       "published": "Wed, 01 Jul 2026 10:45:23 +0900",
       "isoDate": "2026-07-01T01:45:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JVCEA、任期満了で新たに役員を選任　会長はコインチェックの蓮尾氏",
-      "link": "https://coinpost.jp/?p=721239",
-      "published": "Wed, 01 Jul 2026 10:30:42 +0900",
-      "isoDate": "2026-07-01T01:30:42Z"
     }
   ]
 }
