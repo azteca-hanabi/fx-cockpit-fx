@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T19:21:23Z",
-  "last_checked": "2026-07-01T19:21:23Z",
+  "updated": "2026-07-01T21:07:48Z",
+  "last_checked": "2026-07-01T21:07:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,21 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "OpenAIの効率化改善がチップ株を直撃、SOXは5%下落",
+      "title": "アップル、AI需要によるメモリ不足でブラックリスト入り中国企業と交渉",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590570",
+      "published": "2026-07-01 20:05:27",
+      "isoDate": "2026-07-01T20:05:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXがIPO後にAIデバイスを示唆、クアルコム上昇・アップルは底堅く推移",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590489",
+      "published": "2026-07-01 18:10:42",
+      "isoDate": "2026-07-01T18:10:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAIの効率化とMetaのクラウド参入が半導体株を直撃、SOXは6%下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1590383",
       "published": "2026-07-01 15:57:40",
       "isoDate": "2026-07-01T15:57:40Z"
@@ -97,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platformsの株価、クラウドビジネス計画を受けて10%急騰",
+      "title": "Meta Platformsの株価、クラウドビジネス計画を受けて9%高で引ける",
       "link": "https://jp.investing.com/news/stock-market-news/article-1590036",
       "published": "2026-07-01 12:41:43",
       "isoDate": "2026-07-01T12:41:43Z"
@@ -111,24 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウェドブッシュ、SpaceXをアウトパフォームで開始——主要ハイパースケーラーへの成長を予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1589704",
-      "published": "2026-07-01 10:57:09",
-      "isoDate": "2026-07-01T10:57:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "2026年最安値でInvestingProを手に入れるチャンス、夏の限定セール開催中",
       "link": "https://jp.investing.com/news/stock-market-news/article-1589620",
       "published": "2026-07-01 09:47:15",
       "isoDate": "2026-07-01T09:47:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだ7月の注目株リストが公開——累計リターンは247%超",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1589479",
-      "published": "2026-07-01 08:06:06",
-      "isoDate": "2026-07-01T08:06:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案の倫理条項、トランプ大統領の10億ドル超仮想通貨収益受け民主党が明記要求",
+      "link": "https://coinpost.jp/?p=721490",
+      "published": "Thu, 02 Jul 2026 05:55:04 +0900",
+      "isoDate": "2026-07-01T20:55:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、英国で集団訴訟　約1700人が320億円超請求",
+      "link": "https://coinpost.jp/?p=721483",
+      "published": "Thu, 02 Jul 2026 05:00:44 +0900",
+      "isoDate": "2026-07-01T20:00:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "シティ、ビットコイン目標8万2000ドルに下方修正　イーサリアムも引き下げ",
@@ -208,13 +222,6 @@
       "link": "https://coinpost.jp/?p=721239",
       "published": "Wed, 01 Jul 2026 10:30:42 +0900",
       "isoDate": "2026-07-01T01:30:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領の2025年仮想通貨収益、1950億円超と判明",
-      "link": "https://coinpost.jp/?p=721204",
-      "published": "Wed, 01 Jul 2026 07:20:46 +0900",
-      "isoDate": "2026-06-30T22:20:46Z"
     }
   ]
 }
