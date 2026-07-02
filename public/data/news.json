@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-02T15:41:41Z",
-  "last_checked": "2026-07-02T15:41:41Z",
+  "updated": "2026-07-02T17:53:59Z",
+  "last_checked": "2026-07-02T17:53:59Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロ高と黒海地域の豊作見通しでユーロネクスト小麦が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591810",
+      "published": "2026-07-02 17:23:55",
+      "isoDate": "2026-07-02T17:23:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "オーストラリア政府、中国の鉄鉱石買い手が価格を押し下げる可能性を警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591808",
+      "published": "2026-07-02 17:20:43",
+      "isoDate": "2026-07-02T17:20:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "クウェートの原油生産量、6月に日量165万バレルに急増",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591734",
+      "published": "2026-07-02 15:52:00",
+      "isoDate": "2026-07-02T15:52:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物、USDA報告を受け独立記念日前に上昇",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1590951",
       "published": "2026-07-02 04:47:06",
       "isoDate": "2026-07-02T04:47:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "弱い雇用統計でFED利上げ懸念が後退、金価格が2%超上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1590858",
-      "published": "2026-07-02 00:50:32",
-      "isoDate": "2026-07-02T00:50:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米イラン協議進展への期待で原油価格が小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1590840",
-      "published": "2026-07-02 00:27:02",
-      "isoDate": "2026-07-02T00:27:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格が下落、WTIは紛争前の水準に接近",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1590518",
-      "published": "2026-07-01 18:53:11",
-      "isoDate": "2026-07-01T18:53:11Z"
     }
   ],
   "usdjpy_items": [
@@ -97,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル・インテリジェンス、iPhone買い替え需要を促進せず＝UBS調査",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591567",
-      "published": "2026-07-02 13:21:33",
-      "isoDate": "2026-07-02T13:21:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "テスラ、第2四半期納車台数が予測を大幅に上回る48万台超",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591559",
       "published": "2026-07-02 13:10:25",
@@ -125,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "チップ株の売りが続く、バリュエーションとMetaのAI支出懸念が重荷",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1591106",
+      "published": "2026-07-02 08:39:37",
+      "isoDate": "2026-07-02T08:39:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に4日ぶり反落、アドバンテストや東エレクが2銘柄で約1358円分押下",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591096",
       "published": "2026-07-02 08:30:15",
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "OpenAIの効率化とMetaのクラウド参入が半導体株を直撃、SOXは6%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590383",
-      "published": "2026-07-01 15:57:40",
-      "isoDate": "2026-07-01T15:57:40Z"
+      "title": "マイクロンテクノロジー株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1590266",
+      "published": "2026-07-01 14:11:02",
+      "isoDate": "2026-07-01T14:11:02Z"
     }
   ],
   "btc_items": [
