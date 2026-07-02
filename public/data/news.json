@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T19:38:23Z",
-  "last_checked": "2026-07-02T19:38:23Z",
+  "updated": "2026-07-02T21:13:29Z",
+  "last_checked": "2026-07-02T21:13:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "インベスコのブリル氏、スペースXの社債売り出しの低調なパフォーマンスを批判",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1591896",
+      "published": "2026-07-02 19:45:56",
+      "isoDate": "2026-07-02T19:45:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アンソロピック、サムスンの2nmチップ製造パートナーシップを検討",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591655",
       "published": "2026-07-02 14:18:44",
@@ -132,89 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1259円安、米雇用統計などに関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1590976",
-      "published": "2026-07-02 06:00:17",
-      "isoDate": "2026-07-02T06:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日下落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1590266",
       "published": "2026-07-01 14:11:02",
       "isoDate": "2026-07-01T14:11:02Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "バイナンス小口ビットコイン流入、1日平均329BTCで過去最低に＝アナリスト",
-      "link": "https://coinpost.jp/?p=721751",
-      "published": "Thu, 02 Jul 2026 17:43:54 +0900",
-      "isoDate": "2026-07-02T08:43:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、ビットコイン保有43000BTC到達　Q2に2823BTC取得",
-      "link": "https://coinpost.jp/?p=721703",
-      "published": "Thu, 02 Jul 2026 16:19:08 +0900",
-      "isoDate": "2026-07-02T07:19:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Kウェーブ・メディア、ビットコイン保有ゼロに　1万BTC目標から転換",
-      "link": "https://coinpost.jp/?p=721668",
-      "published": "Thu, 02 Jul 2026 14:37:03 +0900",
-      "isoDate": "2026-07-02T05:37:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "MiCA全面施行、EUでポーランドのみ未対応　仮想通貨企業2000社が認可なしで窮地に",
-      "link": "https://coinpost.jp/?p=721634",
-      "published": "Thu, 02 Jul 2026 13:55:46 +0900",
-      "isoDate": "2026-07-02T04:55:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ハッキング被害額、6月は120億円で前月比7%減少　ヒューマニティプロトコルが最大",
-      "link": "https://coinpost.jp/?p=721594",
-      "published": "Thu, 02 Jul 2026 13:05:04 +0900",
-      "isoDate": "2026-07-02T04:05:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨大手306億円相当の中間選挙献金、米政治団体で首位に",
-      "link": "https://coinpost.jp/?p=721602",
-      "published": "Thu, 02 Jul 2026 11:48:12 +0900",
-      "isoDate": "2026-07-02T02:48:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、買い集め広がるもリスク残存　底打ちの確証なし＝グラスノード",
-      "link": "https://coinpost.jp/?p=721524",
-      "published": "Thu, 02 Jul 2026 09:45:46 +0900",
-      "isoDate": "2026-07-02T00:45:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トルコ大手取引所がハイパーリキッドとポリマーケットを統合、規制取引所として初事例",
-      "link": "https://coinpost.jp/?p=721494",
-      "published": "Thu, 02 Jul 2026 09:15:42 +0900",
-      "isoDate": "2026-07-02T00:15:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアムに新たな独立組織が誕生、機関向けの採用を促進へ",
-      "link": "https://coinpost.jp/?p=721512",
-      "published": "Thu, 02 Jul 2026 08:25:12 +0900",
-      "isoDate": "2026-07-01T23:25:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スタンダードチャータード、DeFi拡大でモルフォに強気見通し",
-      "link": "https://coinpost.jp/?p=721492",
-      "published": "Thu, 02 Jul 2026 07:35:37 +0900",
-      "isoDate": "2026-07-01T22:35:37Z"
-    }
-  ]
+  "btc_items": []
 }
