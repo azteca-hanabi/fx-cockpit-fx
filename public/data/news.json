@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T21:13:29Z",
-  "last_checked": "2026-07-02T21:13:29Z",
+  "updated": "2026-07-02T22:37:54Z",
+  "last_checked": "2026-07-02T22:37:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米6月雇用統計で雇用者数の伸びが予想を下回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1592041",
+      "published": "2026-07-02 21:45:05",
+      "isoDate": "2026-07-02T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは594.83ドル高、利上げへの警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1591979",
+      "published": "2026-07-02 21:00:05",
+      "isoDate": "2026-07-02T21:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インベスコのブリル氏、スペースXの社債売り出しの低調なパフォーマンスを批判",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591896",
       "published": "2026-07-02 19:45:56",
@@ -90,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米6月雇用統計のネガティブサプライズでドル売り加速",
-      "link": "https://jp.investing.com/news/forex-news/article-1591584",
-      "published": "2026-07-02 13:30:05",
-      "isoDate": "2026-07-02T13:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "テスラ、第2四半期納車台数が予測を大幅に上回る48万台超",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591559",
       "published": "2026-07-02 13:10:25",
@@ -104,17 +111,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラの第2四半期納車台数、48万126台でアナリスト予想を大幅に上回る",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1591547",
-      "published": "2026-07-02 13:02:06",
-      "isoDate": "2026-07-02T13:02:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Lindsay、Palantirが寄り前に上昇、OusterとBending Spoonsは下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591337",
       "published": "2026-07-02 11:27:42",
       "isoDate": "2026-07-02T11:27:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東証グロ－ス指数は大幅反発、AI関連売られ新興市場に資金向かう",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1591115",
+      "published": "2026-07-02 09:00:12",
+      "isoDate": "2026-07-02T09:00:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +143,64 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1590989",
       "published": "2026-07-02 06:22:15",
       "isoDate": "2026-07-02T06:22:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1590266",
-      "published": "2026-07-01 14:11:02",
-      "isoDate": "2026-07-01T14:11:02Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーのビットコイン売却方針、価格変動リスクを拡大＝JPモルガン",
+      "link": "https://coinpost.jp/?p=721788",
+      "published": "Fri, 03 Jul 2026 05:55:25 +0900",
+      "isoDate": "2026-07-02T20:55:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SBIクリプト、ビットコインマイニングプールを7月末に終了",
+      "link": "https://coinpost.jp/?p=721776",
+      "published": "Fri, 03 Jul 2026 05:00:45 +0900",
+      "isoDate": "2026-07-02T20:00:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス小口ビットコイン流入、1日平均329BTCで過去最低に＝アナリスト",
+      "link": "https://coinpost.jp/?p=721751",
+      "published": "Thu, 02 Jul 2026 17:43:54 +0900",
+      "isoDate": "2026-07-02T08:43:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、ビットコイン保有43000BTC到達　Q2に2823BTC取得",
+      "link": "https://coinpost.jp/?p=721703",
+      "published": "Thu, 02 Jul 2026 16:19:08 +0900",
+      "isoDate": "2026-07-02T07:19:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Kウェーブ・メディア、ビットコイン保有ゼロに　1万BTC目標から転換",
+      "link": "https://coinpost.jp/?p=721668",
+      "published": "Thu, 02 Jul 2026 14:37:03 +0900",
+      "isoDate": "2026-07-02T05:37:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "MiCA全面施行、EUでポーランドのみ未対応　仮想通貨企業2000社が認可なしで窮地に",
+      "link": "https://coinpost.jp/?p=721634",
+      "published": "Thu, 02 Jul 2026 13:55:46 +0900",
+      "isoDate": "2026-07-02T04:55:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ハッキング被害額、6月は120億円で前月比7%減少　ヒューマニティプロトコルが最大",
+      "link": "https://coinpost.jp/?p=721594",
+      "published": "Thu, 02 Jul 2026 13:05:04 +0900",
+      "isoDate": "2026-07-02T04:05:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨大手306億円相当の中間選挙献金、米政治団体で首位に",
+      "link": "https://coinpost.jp/?p=721602",
+      "published": "Thu, 02 Jul 2026 11:48:12 +0900",
+      "isoDate": "2026-07-02T02:48:12Z"
+    }
+  ]
 }
