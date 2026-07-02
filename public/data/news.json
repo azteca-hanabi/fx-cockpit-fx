@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T22:48:07Z",
-  "last_checked": "2026-07-01T22:48:07Z",
+  "updated": "2026-07-02T00:13:06Z",
+  "last_checked": "2026-07-02T00:13:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米6月ADP雇用統計や6月ISM製造業景況指数が予想を下回る",
-      "link": "https://jp.investing.com/news/forex-news/article-1590742",
-      "published": "2026-07-01 22:00:05",
-      "isoDate": "2026-07-01T22:00:05Z"
+      "title": "キオクシアＨＤ---支持線として意識される25日線を割り込む可能性",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590799",
+      "published": "2026-07-01 23:30:08",
+      "isoDate": "2026-07-01T23:30:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンク、OpenAI株を担保に100億ドルの融資交渉を再開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590678",
-      "published": "2026-07-01 20:44:30",
-      "isoDate": "2026-07-01T20:44:30Z"
+      "title": "米ハイテク株安を映して利食い売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590798",
+      "published": "2026-07-01 23:30:08",
+      "isoDate": "2026-07-01T23:30:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "1日の米国市場ダイジェスト：米国株式市場は反落、弱い経済指標やハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1590758",
+      "published": "2026-07-01 22:30:07",
+      "isoDate": "2026-07-01T22:30:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとゼネラル・モーターズ、長期メモリ供給契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1589991",
-      "published": "2026-07-01 12:31:19",
-      "isoDate": "2026-07-01T12:31:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "2026年最安値でInvestingProを手に入れるチャンス、夏の限定セール開催中",
       "link": "https://jp.investing.com/news/stock-market-news/article-1589620",
       "published": "2026-07-01 09:47:15",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "イーサリアムに新たな独立組織が誕生、機関向けの採用を促進へ",
+      "link": "https://coinpost.jp/?p=721512",
+      "published": "Thu, 02 Jul 2026 08:25:12 +0900",
+      "isoDate": "2026-07-01T23:25:12Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "スタンダードチャータード、DeFi拡大でモルフォに強気見通し",
       "link": "https://coinpost.jp/?p=721492",
       "published": "Thu, 02 Jul 2026 07:35:37 +0900",
@@ -162,7 +169,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "米クラリティー法案の倫理条項、トランプ大統領の10億ドル超仮想通貨収益受け民主党が明記要求",
+      "title": "米クラリティー法案の倫理条項、トランプ大統領の仮想通貨収益報告を受け民主党が明記要求",
       "link": "https://coinpost.jp/?p=721490",
       "published": "Thu, 02 Jul 2026 05:55:04 +0900",
       "isoDate": "2026-07-01T20:55:04Z"
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=721281",
       "published": "Wed, 01 Jul 2026 11:50:58 +0900",
       "isoDate": "2026-07-01T02:50:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジーキャッシュ旧ウォレットの資金が復旧可能に、Sovrightが「Argos」ツール公開",
-      "link": "https://coinpost.jp/?p=721232",
-      "published": "Wed, 01 Jul 2026 10:45:23 +0900",
-      "isoDate": "2026-07-01T01:45:23Z"
     }
   ]
 }
