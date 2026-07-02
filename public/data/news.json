@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-02T08:13:49Z",
-  "last_checked": "2026-07-02T08:13:49Z",
+  "updated": "2026-07-02T11:08:58Z",
+  "last_checked": "2026-07-02T11:08:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ヨーロッパ天然ガス、熱波と地政学的緊張で続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1591118",
+      "published": "2026-07-02 08:36:08",
+      "isoDate": "2026-07-02T08:36:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OCBCが原油価格見通しを引き下げ、ホルムズ海峡の輸送正常化を受け",
@@ -18,14 +25,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "非農業部門雇用者数に注目、金価格は横ばい",
+      "title": "金スポット価格、米雇用統計発表を前に上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1590858",
       "published": "2026-07-02 00:50:32",
       "isoDate": "2026-07-02T00:50:32Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン協議の進展と供給増で原油価格が下落",
+      "title": "米イラン協議進展への期待で原油価格が小幅下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1590840",
       "published": "2026-07-02 00:27:02",
       "isoDate": "2026-07-02T00:27:02Z"
@@ -64,29 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1590160",
       "published": "2026-07-01 13:27:40",
       "isoDate": "2026-07-01T13:27:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Saudi Aramcoが7月向けLPG価格を最大27%引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1589958",
-      "published": "2026-07-01 12:19:38",
-      "isoDate": "2026-07-01T12:19:38Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は下げ渋り、下げ一服後は値を戻す",
-      "link": "https://jp.investing.com/news/forex-news/article-1591034",
-      "published": "2026-07-02 07:15:15",
-      "isoDate": "2026-07-02T07:15:15Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に4日ぶり反落、アドバンテストや東エレクが2銘柄で約1358円分押下",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1591096",
+      "published": "2026-07-02 08:30:15",
+      "isoDate": "2026-07-02T08:30:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SK HynixがAIメモリチップ施設に64兆円規模の投資計画",
-      "link": "https://jp.investing.com/news/technology-news/article-1590995",
-      "published": "2026-07-02 06:28:33",
-      "isoDate": "2026-07-02T06:28:33Z"
+      "title": "米雇用統計に注目集まる中、アジアの半導体株が下落",
+      "link": "https://jp.investing.com/news/economy-news/article-1591080",
+      "published": "2026-07-02 08:07:45",
+      "isoDate": "2026-07-02T08:07:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体関連株中心に売られ68000円台に落ち込む【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1591071",
+      "published": "2026-07-02 08:00:13",
+      "isoDate": "2026-07-02T08:00:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1589620",
       "published": "2026-07-01 09:47:15",
       "isoDate": "2026-07-01T09:47:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比405円高の71250円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1589173",
-      "published": "2026-07-01 00:15:10",
-      "isoDate": "2026-07-01T00:15:10Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス小口ビットコイン流入、1日平均329BTCで過去最低に＝アナリスト",
+      "link": "https://coinpost.jp/?p=721751",
+      "published": "Thu, 02 Jul 2026 17:43:54 +0900",
+      "isoDate": "2026-07-02T08:43:54Z"
+    },
     {
       "source": "CoinPost",
       "title": "メタプラネット、ビットコイン保有43000BTC到達　Q2に2823BTC取得",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=721492",
       "published": "Thu, 02 Jul 2026 07:35:37 +0900",
       "isoDate": "2026-07-01T22:35:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ版予測市場『ワールド』がリリース、ファントムウォレットと統合",
-      "link": "https://coinpost.jp/?p=721491",
-      "published": "Thu, 02 Jul 2026 06:20:35 +0900",
-      "isoDate": "2026-07-01T21:20:35Z"
     }
   ]
 }
