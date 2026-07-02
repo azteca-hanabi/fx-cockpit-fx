@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-02T00:13:06Z",
-  "last_checked": "2026-07-02T00:13:06Z",
+  "updated": "2026-07-02T04:41:34Z",
+  "last_checked": "2026-07-02T04:41:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "非農業部門雇用者数に注目、金価格は横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-1590858",
+      "published": "2026-07-02 00:50:32",
+      "isoDate": "2026-07-02T00:50:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン協議の進展と供給増で原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1590840",
+      "published": "2026-07-02 00:27:02",
+      "isoDate": "2026-07-02T00:27:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油価格が下落、WTIは紛争前の水準に接近",
@@ -57,43 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1589606",
       "published": "2026-07-01 10:04:55",
       "isoDate": "2026-07-01T10:04:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、和平交渉への懸念から2週間超ぶり高値に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1589490",
-      "published": "2026-07-01 09:01:01",
-      "isoDate": "2026-07-01T09:01:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、13年ぶり最悪の四半期下落後に下げ止まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1589244",
-      "published": "2026-07-01 02:57:12",
-      "isoDate": "2026-07-01T02:57:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ---支持線として意識される25日線を割り込む可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590799",
-      "published": "2026-07-01 23:30:08",
-      "isoDate": "2026-07-01T23:30:08Z"
+      "title": "アップル、2027年初頭までに少なくとも5つの新型iPhoneモデルを発売へ―日経報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590938",
+      "published": "2026-07-02 03:45:01",
+      "isoDate": "2026-07-02T03:45:01Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米ハイテク株安を映して利食い売り先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590798",
-      "published": "2026-07-01 23:30:08",
-      "isoDate": "2026-07-01T23:30:08Z"
+      "title": "アジア株式：AIチップ売りが深まり、KOSPIと日経平均が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1590891",
+      "published": "2026-07-02 01:48:19",
+      "isoDate": "2026-07-02T01:48:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "1日の米国市場ダイジェスト：米国株式市場は反落、弱い経済指標やハイテクが重し",
-      "link": "https://jp.investing.com/news/forex-news/article-1590758",
-      "published": "2026-07-01 22:30:07",
-      "isoDate": "2026-07-01T22:30:07Z"
+      "title": "個別銘柄戦略: 酉島製やアイビーに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1590851",
+      "published": "2026-07-02 00:45:10",
+      "isoDate": "2026-07-02T00:45:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,34 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "仮想通貨ハッキング被害額、6月は120億円で前月比7%減少　ヒューマニティプロトコルが最大",
+      "link": "https://coinpost.jp/?p=721594",
+      "published": "Thu, 02 Jul 2026 13:05:04 +0900",
+      "isoDate": "2026-07-02T04:05:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨大手約306億円相当の選挙献金、米政治団体で首位に",
+      "link": "https://coinpost.jp/?p=721602",
+      "published": "Thu, 02 Jul 2026 11:48:12 +0900",
+      "isoDate": "2026-07-02T02:48:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、買い集め広がるもリスク残存　底打ちの確証なし＝グラスノード",
+      "link": "https://coinpost.jp/?p=721524",
+      "published": "Thu, 02 Jul 2026 09:45:46 +0900",
+      "isoDate": "2026-07-02T00:45:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トルコ大手取引所がハイパーリキッドとポリマーケットを統合、規制取引所として初事例",
+      "link": "https://coinpost.jp/?p=721494",
+      "published": "Thu, 02 Jul 2026 09:15:42 +0900",
+      "isoDate": "2026-07-02T00:15:42Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "イーサリアムに新たな独立組織が誕生、機関向けの採用を促進へ",
       "link": "https://coinpost.jp/?p=721512",
       "published": "Thu, 02 Jul 2026 08:25:12 +0900",
@@ -194,41 +222,6 @@
       "link": "https://coinpost.jp/?p=721416",
       "published": "Wed, 01 Jul 2026 17:14:26 +0900",
       "isoDate": "2026-07-01T08:14:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、資金吸収でパラボリック上昇再来の可能性＝クリプトクアントCEO",
-      "link": "https://coinpost.jp/?p=721395",
-      "published": "Wed, 01 Jul 2026 16:15:37 +0900",
-      "isoDate": "2026-07-01T07:15:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "台湾、仮想通貨包括規制法が成立　ステーブルコインに認可制導入",
-      "link": "https://coinpost.jp/?p=721354",
-      "published": "Wed, 01 Jul 2026 14:26:39 +0900",
-      "isoDate": "2026-07-01T05:26:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落、AI株安と連動　底打ち未確認＝ウィンターミュート",
-      "link": "https://coinpost.jp/?p=721290",
-      "published": "Wed, 01 Jul 2026 13:00:33 +0900",
-      "isoDate": "2026-07-01T04:00:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クリプタクト、Gtaxを統合　10月に仮想通貨損益計算サービス一本化へ",
-      "link": "https://coinpost.jp/?p=721298",
-      "published": "Wed, 01 Jul 2026 12:17:42 +0900",
-      "isoDate": "2026-07-01T03:17:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタマスク、利回り得られるオールインワン金融口座「マネーアカウント」立ち上げ",
-      "link": "https://coinpost.jp/?p=721281",
-      "published": "Wed, 01 Jul 2026 11:50:58 +0900",
-      "isoDate": "2026-07-01T02:50:58Z"
     }
   ]
 }
