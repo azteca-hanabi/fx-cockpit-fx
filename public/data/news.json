@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T21:17:46Z",
-  "last_checked": "2026-07-03T21:17:46Z",
+  "updated": "2026-07-03T22:34:32Z",
+  "last_checked": "2026-07-03T22:34:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -139,13 +139,34 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジアの半導体株が重荷、日経平均2.33%安――米雇用統計を前に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1591149",
-      "published": "2026-07-02 09:30:34",
-      "isoDate": "2026-07-02T09:30:34Z"
+      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1592069",
+      "published": "2026-07-02 22:45:06",
+      "isoDate": "2026-07-02T22:45:06Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストライプ傘下のブリッジ、EUでMiCAとEMIの認可取得　ステーブルコイン事業拡大へ",
+      "link": "https://coinpost.jp/?p=722088",
+      "published": "Sat, 04 Jul 2026 07:30:18 +0900",
+      "isoDate": "2026-07-03T22:30:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "全米郡保安官協会、クラリティー法への立場を懸念から中立に転換",
+      "link": "https://coinpost.jp/?p=722078",
+      "published": "Sat, 04 Jul 2026 07:05:24 +0900",
+      "isoDate": "2026-07-03T22:05:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETFに10日ぶり純流入、米雇用統計下振れ受け利上げ観測後退",
+      "link": "https://coinpost.jp/?p=722080",
+      "published": "Sat, 04 Jul 2026 06:20:57 +0900",
+      "isoDate": "2026-07-03T21:20:57Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上院議員、大統領含む公職者のミームコイン発行禁止法案を改めて推進",
@@ -201,20 +222,6 @@
       "link": "https://coinpost.jp/?p=721871",
       "published": "Fri, 03 Jul 2026 10:13:49 +0900",
       "isoDate": "2026-07-03T01:13:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・イーサリアムの取引所流入急増、ボラティリティ拡大の兆候か＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=721829",
-      "published": "Fri, 03 Jul 2026 09:45:55 +0900",
-      "isoDate": "2026-07-03T00:45:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領が仮想通貨収益批判に反論、「違法でない」",
-      "link": "https://coinpost.jp/?p=721789",
-      "published": "Fri, 03 Jul 2026 08:45:47 +0900",
-      "isoDate": "2026-07-02T23:45:47Z"
     }
   ]
 }
