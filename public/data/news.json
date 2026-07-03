@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T22:37:54Z",
-  "last_checked": "2026-07-02T22:37:54Z",
+  "updated": "2026-07-03T00:10:24Z",
+  "last_checked": "2026-07-03T00:10:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "TOPIX型へのリバランスが強まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592110",
+      "published": "2026-07-02 23:45:07",
+      "isoDate": "2026-07-02T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 7/3",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592111",
+      "published": "2026-07-02 23:45:07",
+      "isoDate": "2026-07-02T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：米6月雇用統計が予想を大幅に下回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1592101",
+      "published": "2026-07-02 23:30:08",
+      "isoDate": "2026-07-02T23:30:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1592069",
+      "published": "2026-07-02 22:45:06",
+      "isoDate": "2026-07-02T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：米6月雇用統計で雇用者数の伸びが予想を下回る",
       "link": "https://jp.investing.com/news/forex-news/article-1592041",
       "published": "2026-07-02 21:45:05",
@@ -104,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラ、第2四半期納車台数が予測を大幅に上回る48万台超",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591559",
-      "published": "2026-07-02 13:10:25",
-      "isoDate": "2026-07-02T13:10:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Lindsay、Palantirが寄り前に上昇、OusterとBending Spoonsは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591337",
-      "published": "2026-07-02 11:27:42",
-      "isoDate": "2026-07-02T11:27:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅反発、AI関連売られ新興市場に資金向かう",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591115",
-      "published": "2026-07-02 09:00:12",
-      "isoDate": "2026-07-02T09:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "チップ株の売りが続く、バリュエーションとMetaのAI支出懸念が重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591106",
-      "published": "2026-07-02 08:39:37",
-      "isoDate": "2026-07-02T08:39:37Z"
+      "title": "アジアの半導体株が重荷、日経平均2.33%安――米雇用統計を前に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1591149",
+      "published": "2026-07-02 09:30:34",
+      "isoDate": "2026-07-02T09:30:34Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1591096",
       "published": "2026-07-02 08:30:15",
       "isoDate": "2026-07-02T08:30:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがAIスタートアップ向けに収益分配契約を提供",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1590989",
-      "published": "2026-07-02 06:22:15",
-      "isoDate": "2026-07-02T06:22:15Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領が仮想通貨収益批判に反論、「違法でない」",
+      "link": "https://coinpost.jp/?p=721789",
+      "published": "Fri, 03 Jul 2026 08:45:47 +0900",
+      "isoDate": "2026-07-02T23:45:47Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジーのビットコイン売却方針、価格変動リスクを拡大＝JPモルガン",
