@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-03T04:26:25Z",
-  "last_checked": "2026-07-03T04:26:25Z",
+  "updated": "2026-07-03T07:46:58Z",
+  "last_checked": "2026-07-03T07:46:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油供給見通しの改善が重荷となり、原油価格は小幅下落",
+      "title": "原油価格、割安買いが供給改善見通しを相殺し小幅上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1592197",
       "published": "2026-07-03 01:40:15",
       "isoDate": "2026-07-03T01:40:15Z"
@@ -76,10 +76,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アジア株が反発、半導体株が売り越しから回復、原油安が投資家心理を支える",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592258",
-      "published": "2026-07-03 04:00:45",
-      "isoDate": "2026-07-03T04:00:45Z"
+      "title": "東京為替：ドル・円は反落、欧州勢はドル売り",
+      "link": "https://jp.investing.com/news/forex-news/article-1592352",
+      "published": "2026-07-03 07:15:21",
+      "isoDate": "2026-07-03T07:15:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は713円高、今晩の米市場は休場",
+      "link": "https://jp.investing.com/news/forex-news/article-1592299",
+      "published": "2026-07-03 06:00:22",
+      "isoDate": "2026-07-03T06:00:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルのアジアサプライヤー株が上昇、次世代iPhone増産計画の報道受け",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592300",
+      "published": "2026-07-03 05:58:13",
+      "isoDate": "2026-07-03T05:58:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは大幅に上昇、株価反発だが警戒感は緩まず",
+      "link": "https://jp.investing.com/news/forex-news/article-1592290",
+      "published": "2026-07-03 05:15:23",
+      "isoDate": "2026-07-03T05:15:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラの中国サプライヤー株、第2四半期の好調な納車実績を受けて上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592285",
+      "published": "2026-07-03 05:01:43",
+      "isoDate": "2026-07-03T05:01:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は746円高、ダウ平均先物底堅く安心感に",
+      "link": "https://jp.investing.com/news/forex-news/article-1592282",
+      "published": "2026-07-03 05:00:23",
+      "isoDate": "2026-07-03T05:00:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,38 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反発、売り先行も戻りを試す展開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592238",
-      "published": "2026-07-03 03:15:17",
-      "isoDate": "2026-07-03T03:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は57円安でスタート、キオクシアHDや太陽誘電などが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592167",
       "published": "2026-07-03 00:45:12",
       "isoDate": "2026-07-03T00:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1592069",
-      "published": "2026-07-02 22:45:06",
-      "isoDate": "2026-07-02T22:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは594.83ドル高、利上げへの警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1591979",
-      "published": "2026-07-02 21:00:05",
-      "isoDate": "2026-07-02T21:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Lindsay、Palantirが寄り前に上昇、OusterとBending Spoonsは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591337",
-      "published": "2026-07-02 11:27:42",
-      "isoDate": "2026-07-02T11:27:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "チップ株の売りが続く、バリュエーションとMetaのAI支出懸念が重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591106",
-      "published": "2026-07-02 08:39:37",
-      "isoDate": "2026-07-02T08:39:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に4日ぶり反落、アドバンテストや東エレクが2銘柄で約1358円分押下",
       "link": "https://jp.investing.com/news/stock-market-news/article-1591096",
       "published": "2026-07-02 08:30:15",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF、純流入2.22億ドル　10日連続流出から転換",
+      "link": "https://coinpost.jp/?p=721960",
+      "published": "Fri, 03 Jul 2026 14:47:07 +0900",
+      "isoDate": "2026-07-03T05:47:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロビンフッドCEO、「仮想通貨の未来は現実資産にある」　独自チェーンで布石",
+      "link": "https://coinpost.jp/?p=721929",
+      "published": "Fri, 03 Jul 2026 14:15:05 +0900",
+      "isoDate": "2026-07-03T05:15:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "米CFTC委員長、イリノイ州仮想通貨取引税を批判　「技術への罰税」と非難",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=721788",
       "published": "Fri, 03 Jul 2026 05:55:25 +0900",
       "isoDate": "2026-07-02T20:55:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIクリプト、ビットコインマイニングプールを7月末に終了",
-      "link": "https://coinpost.jp/?p=721776",
-      "published": "Fri, 03 Jul 2026 05:00:45 +0900",
-      "isoDate": "2026-07-02T20:00:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス小口ビットコイン流入、1日平均329BTCで過去最低に＝アナリスト",
-      "link": "https://coinpost.jp/?p=721751",
-      "published": "Thu, 02 Jul 2026 17:43:54 +0900",
-      "isoDate": "2026-07-02T08:43:54Z"
     }
   ]
 }
