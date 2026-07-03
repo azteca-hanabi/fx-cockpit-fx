@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T16:55:16Z",
-  "last_checked": "2026-07-03T16:55:16Z",
+  "updated": "2026-07-03T18:15:40Z",
+  "last_checked": "2026-07-03T18:15:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "TSX先物上昇、Fed利上げ観測後退で金価格が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592432",
-      "published": "2026-07-03 11:14:07",
-      "isoDate": "2026-07-03T11:14:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 反発、一時25日線割れ",
       "link": "https://jp.investing.com/news/forex-news/article-1592411",
       "published": "2026-07-03 09:30:15",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592300",
       "published": "2026-07-03 05:58:13",
       "isoDate": "2026-07-03T05:58:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円はほぼ変わらず、アジア株高を意識",
+      "link": "https://jp.investing.com/news/forex-news/article-1592288",
+      "published": "2026-07-03 05:15:22",
+      "isoDate": "2026-07-03T05:15:22Z"
     },
     {
       "source": "Investing.com 外為",
