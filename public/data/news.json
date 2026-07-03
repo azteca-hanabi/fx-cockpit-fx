@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T10:41:43Z",
-  "last_checked": "2026-07-03T10:41:43Z",
+  "updated": "2026-07-03T12:58:56Z",
+  "last_checked": "2026-07-03T12:58:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国の祝日連休を前に原油価格が安定、米イラン協議に注目",
+      "title": "米国祝日を前に原油価格が安定、米イラン協議に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1592197",
       "published": "2026-07-03 01:40:15",
       "isoDate": "2026-07-03T01:40:15Z"
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "TSX先物上昇、Fed利上げ観測後退で金価格が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592432",
+      "published": "2026-07-03 11:14:07",
+      "isoDate": "2026-07-03T11:14:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 反発、一時25日線割れ",
       "link": "https://jp.investing.com/news/forex-news/article-1592411",
       "published": "2026-07-03 09:30:15",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592167",
       "published": "2026-07-03 00:45:12",
       "isoDate": "2026-07-03T00:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Lindsay、Palantirが寄り前に上昇、OusterとBending Spoonsは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1591337",
-      "published": "2026-07-02 11:27:42",
-      "isoDate": "2026-07-02T11:27:42Z"
     },
     {
       "source": "Investing.com 外為",
