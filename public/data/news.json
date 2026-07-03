@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T19:58:02Z",
-  "last_checked": "2026-07-03T19:58:02Z",
+  "updated": "2026-07-03T21:17:46Z",
+  "last_checked": "2026-07-03T21:17:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上院議員、大統領含む公職者のミームコイン発行禁止法案を改めて推進",
+      "link": "https://coinpost.jp/?p=722071",
+      "published": "Sat, 04 Jul 2026 05:45:12 +0900",
+      "isoDate": "2026-07-03T20:45:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、長期支持線に接近　フィデリティ幹部が底打ち慎重視",
