@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T22:34:32Z",
-  "last_checked": "2026-07-03T22:34:32Z",
+  "updated": "2026-07-04T00:09:23Z",
+  "last_checked": "2026-07-04T00:09:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "どの小売業者が最も速く注文を届けられるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592487",
+      "published": "2026-07-03 23:41:03",
+      "isoDate": "2026-07-03T23:41:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ローム、 KOKUSAI　ELECTRIC、電通総研など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592482",
+      "published": "2026-07-03 22:30:06",
+      "isoDate": "2026-07-03T22:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 反発、一時25日線割れ",
       "link": "https://jp.investing.com/news/forex-news/article-1592411",
       "published": "2026-07-03 09:30:15",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592384",
       "published": "2026-07-03 08:15:20",
       "isoDate": "2026-07-03T08:15:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "売り先行スタートもAI関連株が買い戻され大幅反発【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1592383",
-      "published": "2026-07-03 08:15:18",
-      "isoDate": "2026-07-03T08:15:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592167",
       "published": "2026-07-03 00:45:12",
       "isoDate": "2026-07-03T00:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1592069",
-      "published": "2026-07-02 22:45:06",
-      "isoDate": "2026-07-02T22:45:06Z"
     }
   ],
   "btc_items": [
