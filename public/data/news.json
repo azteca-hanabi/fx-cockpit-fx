@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T07:23:34Z",
-  "last_checked": "2026-07-04T07:23:34Z",
+  "updated": "2026-07-04T09:37:20Z",
+  "last_checked": "2026-07-04T09:37:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ビットコイン、機関投資家の資金流入鈍化と企業戦略に注目集まる中で下落",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1592523",
+      "published": "2026-07-04 08:57:51",
+      "isoDate": "2026-07-04T08:57:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：ETF需給イベント、IMF世界経済見通し、韓サムスン電子暫定決算",
+      "link": "https://jp.investing.com/news/forex-news/article-1592518",
+      "published": "2026-07-04 08:00:14",
+      "isoDate": "2026-07-04T08:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：引き続きセクターローテーション拡大の有無が焦点に",
       "link": "https://jp.investing.com/news/forex-news/article-1592515",
       "published": "2026-07-04 07:00:04",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1592504",
       "published": "2026-07-04 05:00:04",
       "isoDate": "2026-07-04T05:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内外の注目経済指標：米6月FOMC議事録に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592503",
-      "published": "2026-07-04 05:00:03",
-      "isoDate": "2026-07-04T05:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックス、米国株式売却の引受手数料0.5%を検討",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592501",
-      "published": "2026-07-04 04:43:16",
-      "isoDate": "2026-07-04T04:43:16Z"
     },
     {
       "source": "Investing.com 外為",
