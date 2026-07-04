@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T11:36:51Z",
-  "last_checked": "2026-07-04T11:36:51Z",
+  "updated": "2026-07-04T13:43:34Z",
+  "last_checked": "2026-07-04T13:43:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イラン紛争、石油よりも電力・金属の需要を強化＝ストラテジスト",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592534",
+      "published": "2026-07-04 12:07:22",
+      "isoDate": "2026-07-04T12:07:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "韓国KOSPIのPERバリュエーション、世界金融危機以来の最低水準に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592530",
       "published": "2026-07-04 10:44:40",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592384",
       "published": "2026-07-03 08:15:20",
       "isoDate": "2026-07-03T08:15:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国市場は祝日で休場、アジア株は反発――市場の動向",
-      "link": "https://jp.investing.com/news/economy-news/article-1592377",
-      "published": "2026-07-03 08:01:24",
-      "isoDate": "2026-07-03T08:01:24Z"
     }
   ],
   "btc_items": [
