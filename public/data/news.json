@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T09:37:20Z",
-  "last_checked": "2026-07-04T09:37:20Z",
+  "updated": "2026-07-04T11:36:51Z",
+  "last_checked": "2026-07-04T11:36:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国KOSPIのPERバリュエーション、世界金融危機以来の最低水準に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592530",
+      "published": "2026-07-04 10:44:40",
+      "isoDate": "2026-07-04T10:44:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ビットコイン、機関投資家の資金流入鈍化と企業戦略に注目集まる中で下落",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1592523",
       "published": "2026-07-04 08:57:51",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
       "published": "2026-07-04 05:19:16",
       "isoDate": "2026-07-04T05:19:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "為替週間見通し：ドルは伸び悩みか、米インフレ圧力も日本の介入なら急落に警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1592504",
-      "published": "2026-07-04 05:00:04",
-      "isoDate": "2026-07-04T05:00:04Z"
     },
     {
       "source": "Investing.com 外為",
