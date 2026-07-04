@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T19:45:41Z",
-  "last_checked": "2026-07-04T19:45:41Z",
+  "updated": "2026-07-04T21:02:53Z",
+  "last_checked": "2026-07-04T21:02:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックスがドル円予測を上方修正、新たな目標値を発表",
+      "link": "https://jp.investing.com/news/economy-news/article-1592541",
+      "published": "2026-07-04 20:06:28",
+      "isoDate": "2026-07-04T20:06:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イラン紛争、石油よりも電力・金属の需要を強化＝ストラテジスト",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592534",
       "published": "2026-07-04 12:07:22",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592384",
       "published": "2026-07-03 08:15:20",
       "isoDate": "2026-07-03T08:15:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "InvestingPro、2026年最安値で60%オフ：期間限定セール開催中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592415",
-      "published": "2026-07-03 08:08:57",
-      "isoDate": "2026-07-03T08:08:57Z"
     }
   ],
   "btc_items": [
