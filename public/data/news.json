@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T10:20:17Z",
-  "last_checked": "2026-07-05T10:20:17Z",
+  "updated": "2026-07-05T11:55:29Z",
+  "last_checked": "2026-07-05T11:55:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -57,20 +57,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591549",
       "published": "2026-07-02 13:09:35",
       "isoDate": "2026-07-02T13:09:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インド石油相、原油価格低迷中に燃料貯蔵能力の拡大を求める",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591377",
-      "published": "2026-07-02 11:51:30",
-      "isoDate": "2026-07-02T11:51:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが2026〜27年の原油価格見通しを下方修正、ホルムズ海峡の流通が回復",
-      "link": "https://jp.investing.com/news/commodities-news/article-1591302",
-      "published": "2026-07-02 11:01:04",
-      "isoDate": "2026-07-02T11:01:04Z"
     }
   ],
   "usdjpy_items": [
@@ -132,17 +118,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "新興市場見通し：生成AI関連銘柄が敬遠され宇宙関連株が資金の受け皿に、金利上昇は要警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1592512",
-      "published": "2026-07-04 06:45:04",
-      "isoDate": "2026-07-04T06:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIブームが株式ヘッジフローを通じてFX市場を再編",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
       "published": "2026-07-04 05:19:16",
       "isoDate": "2026-07-04T05:19:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ポーラー・キャピタル・テクノロジー・トラスト、主要保有銘柄を公開",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1592466",
+      "published": "2026-07-03 15:11:20",
+      "isoDate": "2026-07-03T15:11:20Z"
     }
   ],
   "btc_items": [
