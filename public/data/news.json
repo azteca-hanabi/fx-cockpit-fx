@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T11:55:29Z",
-  "last_checked": "2026-07-05T11:55:29Z",
+  "updated": "2026-07-05T13:51:47Z",
+  "last_checked": "2026-07-05T13:51:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -43,20 +43,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591734",
       "published": "2026-07-02 15:52:00",
       "isoDate": "2026-07-02T15:52:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "小麦先物、USDA報告を受け独立記念日前に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591572",
-      "published": "2026-07-02 13:26:20",
-      "isoDate": "2026-07-02T13:26:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、鉄鉱石供給懸念で1週間超ぶり高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591549",
-      "published": "2026-07-02 13:09:35",
-      "isoDate": "2026-07-02T13:09:35Z"
     }
   ],
   "usdjpy_items": [
@@ -66,6 +52,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1592575",
       "published": "2026-07-05 09:11:39",
       "isoDate": "2026-07-05T09:11:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ハメネイ師の3人の息子が葬儀に出席、後継者の動静は不明のまま",
+      "link": "https://jp.investing.com/news/economy-news/article-1592572",
+      "published": "2026-07-05 08:35:26",
+      "isoDate": "2026-07-05T08:35:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592534",
       "published": "2026-07-04 12:07:22",
       "isoDate": "2026-07-04T12:07:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、機関投資家の資金流入鈍化と企業戦略に注目集まる中で下落",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1592523",
-      "published": "2026-07-04 08:57:51",
-      "isoDate": "2026-07-04T08:57:51Z"
     },
     {
       "source": "Investing.com 外為",
