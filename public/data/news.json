@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T07:31:35Z",
-  "last_checked": "2026-07-05T07:31:35Z",
+  "updated": "2026-07-05T10:20:17Z",
+  "last_checked": "2026-07-05T10:20:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "OPEC+、8月の石油増産を承認する見通し",
+      "link": "https://jp.investing.com/news/economy-news/article-1592575",
+      "published": "2026-07-05 09:11:39",
+      "isoDate": "2026-07-05T09:11:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウーバー、欧州でのフードデリバリー拡大を一時停止―Delivery Hero買収交渉継続中",
+      "link": "https://jp.investing.com/news/company-news/article-1592570",
+      "published": "2026-07-05 07:55:35",
+      "isoDate": "2026-07-05T07:55:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIバブル懸念でインド株市場に世界の投資家が再注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592558",
       "published": "2026-07-05 02:43:43",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
       "published": "2026-07-04 05:19:16",
       "isoDate": "2026-07-04T05:19:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ポーラー・キャピタル・テクノロジー・トラスト、主要保有銘柄を公開",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1592466",
-      "published": "2026-07-03 15:11:20",
-      "isoDate": "2026-07-03T15:11:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "InvestingPro、2026年最安値で60%オフ：期間限定セール開催中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592415",
-      "published": "2026-07-03 08:08:57",
-      "isoDate": "2026-07-03T08:08:57Z"
     }
   ],
   "btc_items": [
