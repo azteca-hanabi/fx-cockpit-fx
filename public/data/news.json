@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T23:36:16Z",
-  "last_checked": "2026-07-04T23:36:16Z",
+  "updated": "2026-07-05T03:53:46Z",
+  "last_checked": "2026-07-05T03:53:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIバブル懸念でインド株市場に世界の投資家が再注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592558",
+      "published": "2026-07-05 02:43:43",
+      "isoDate": "2026-07-05T02:43:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "本格円安の入り口【フィスコ・コラム】",
+      "link": "https://jp.investing.com/news/forex-news/article-1592549",
+      "published": "2026-07-05 00:15:02",
+      "isoDate": "2026-07-05T00:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックスがドル円予測を上方修正、新たな目標値を発表",
       "link": "https://jp.investing.com/news/economy-news/article-1592541",
       "published": "2026-07-04 20:06:28",
@@ -129,23 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
       "published": "2026-07-04 05:19:16",
       "isoDate": "2026-07-04T05:19:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "どの小売業者が最も速く注文を届けられるか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592487",
-      "published": "2026-07-03 23:41:03",
-      "isoDate": "2026-07-03T23:41:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテやキオクシアHDが2銘柄で約340円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592384",
-      "published": "2026-07-03 08:15:20",
-      "isoDate": "2026-07-03T08:15:20Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=722031",
+      "published": "Sun, 05 Jul 2026 11:30:51 +0900",
+      "isoDate": "2026-07-05T02:30:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（7/3）｜ストラテジーの財務・メタプラネットのBTC購入・BTCとETHの相場分析まとめ",
+      "link": "https://coinpost.jp/?p=721810",
+      "published": "Sun, 05 Jul 2026 09:25:28 +0900",
+      "isoDate": "2026-07-05T00:25:28Z"
+    },
     {
       "source": "CoinPost",
       "title": "ウクライナ当局、詐欺の仮想通貨両替ネットワークを摘発　7000万円以上押収",
