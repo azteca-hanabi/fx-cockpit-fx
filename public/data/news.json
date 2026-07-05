@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T16:35:31Z",
-  "last_checked": "2026-07-05T16:35:31Z",
+  "updated": "2026-07-05T18:07:07Z",
+  "last_checked": "2026-07-05T18:07:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -29,36 +29,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1592132",
       "published": "2026-07-03 00:17:48",
       "isoDate": "2026-07-03T00:17:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロ高と黒海地域の豊作見通しでユーロネクスト小麦が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591810",
-      "published": "2026-07-02 17:23:55",
-      "isoDate": "2026-07-02T17:23:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "オーストラリア政府、中国の鉄鉱石買い手が価格を押し下げる可能性を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1591808",
-      "published": "2026-07-02 17:20:43",
-      "isoDate": "2026-07-02T17:20:43Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "テック企業の採用減速を招く主な要因とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592590",
+      "published": "2026-07-05 16:44:47",
+      "isoDate": "2026-07-05T16:44:47Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "OPEC+、8月の生産枠を日量18万8000バレル増加へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1592587",
       "published": "2026-07-05 14:37:00",
       "isoDate": "2026-07-05T14:37:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "K字型経済の示唆するものとは何か",
-      "link": "https://jp.investing.com/news/economy-news/article-1592583",
-      "published": "2026-07-05 13:57:56",
-      "isoDate": "2026-07-05T13:57:56Z"
     },
     {
       "source": "Investing.com 外為",
