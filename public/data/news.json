@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T21:06:56Z",
-  "last_checked": "2026-07-05T21:06:56Z",
+  "updated": "2026-07-05T22:31:47Z",
+  "last_checked": "2026-07-05T22:31:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -34,6 +34,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1592597",
+      "published": "2026-07-05 21:45:02",
+      "isoDate": "2026-07-05T21:45:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Metaのネオクラウドとハイパースケーラーをめぐるアナリストの5つの見解",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592595",
       "published": "2026-07-05 19:20:05",
@@ -59,13 +66,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1592575",
       "published": "2026-07-05 09:11:39",
       "isoDate": "2026-07-05T09:11:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウーバー、欧州でのフードデリバリー拡大を一時停止―Delivery Hero買収交渉継続中",
-      "link": "https://jp.investing.com/news/company-news/article-1592570",
-      "published": "2026-07-05 07:55:35",
-      "isoDate": "2026-07-05T07:55:35Z"
     },
     {
       "source": "Investing.com 外為",
