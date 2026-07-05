@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-05T13:51:47Z",
-  "last_checked": "2026-07-05T13:51:47Z",
+  "updated": "2026-07-05T15:16:34Z",
+  "last_checked": "2026-07-05T15:16:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "OPEC+、8月の生産枠を日量18万8000バレル増加へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1592587",
+      "published": "2026-07-05 14:37:00",
+      "isoDate": "2026-07-05T14:37:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス、貯蔵懸念が米イラン協議の進展を上回り3週間ぶり高値",
@@ -48,17 +55,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "OPEC+、8月の生産枠を日量18万8000バレル増加へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1592587",
+      "published": "2026-07-05 14:37:00",
+      "isoDate": "2026-07-05T14:37:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "K字型経済の示唆するものとは何か",
+      "link": "https://jp.investing.com/news/economy-news/article-1592583",
+      "published": "2026-07-05 13:57:56",
+      "isoDate": "2026-07-05T13:57:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "OPEC+、8月の石油増産を承認する見通し",
       "link": "https://jp.investing.com/news/economy-news/article-1592575",
       "published": "2026-07-05 09:11:39",
       "isoDate": "2026-07-05T09:11:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ハメネイ師の3人の息子が葬儀に出席、後継者の動静は不明のまま",
-      "link": "https://jp.investing.com/news/economy-news/article-1592572",
-      "published": "2026-07-05 08:35:26",
-      "isoDate": "2026-07-05T08:35:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
       "published": "2026-07-04 05:19:16",
       "isoDate": "2026-07-04T05:19:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ポーラー・キャピタル・テクノロジー・トラスト、主要保有銘柄を公開",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1592466",
-      "published": "2026-07-03 15:11:20",
-      "isoDate": "2026-07-03T15:11:20Z"
     }
   ],
   "btc_items": [
