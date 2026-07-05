@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-05T18:07:07Z",
-  "last_checked": "2026-07-05T18:07:07Z",
+  "updated": "2026-07-05T19:52:00Z",
+  "last_checked": "2026-07-05T19:52:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -32,6 +32,13 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Metaのネオクラウドとハイパースケーラーをめぐるアナリストの5つの見解",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592595",
+      "published": "2026-07-05 19:20:05",
+      "isoDate": "2026-07-05T19:20:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "テック企業の採用減速を招く主な要因とは",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1592518",
       "published": "2026-07-04 08:00:14",
       "isoDate": "2026-07-04T08:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIブームが株式ヘッジフローを通じてFX市場を再編",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592508",
-      "published": "2026-07-04 05:19:16",
-      "isoDate": "2026-07-04T05:19:16Z"
     }
   ],
   "btc_items": [
