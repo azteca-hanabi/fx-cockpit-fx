@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-06T18:58:31Z",
-  "last_checked": "2026-07-06T18:58:31Z",
+  "updated": "2026-07-06T20:56:27Z",
+  "last_checked": "2026-07-06T20:56:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593934",
+      "published": "2026-07-06 20:43:36",
+      "isoDate": "2026-07-06T20:43:36Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
@@ -64,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1592641",
       "published": "2026-07-06 01:52:20",
       "isoDate": "2026-07-06T01:52:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格が小幅下落、OPEC+増産計画とホルムズ海峡の不確実性が重なる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592633",
-      "published": "2026-07-06 01:28:38",
-      "isoDate": "2026-07-06T01:28:38Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Meta Platformsの設備投資、2027年に急増へ――ネオクラウドへの懸念は「誤り」とSemiAnalysis",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1593784",
+      "published": "2026-07-06 18:16:17",
+      "isoDate": "2026-07-06T18:16:17Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "エヌビディア、ラック遅延懸念報告で同業他社に出遅れ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1593761",
       "published": "2026-07-06 17:16:17",
       "isoDate": "2026-07-06T17:16:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブロードコム株が4%上昇、アップルとのシリコン供給契約が2031年まで延長",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1593405",
-      "published": "2026-07-06 12:39:49",
-      "isoDate": "2026-07-06T12:39:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、子ども向け投資口座へのビットコイン追加を示唆",
+      "link": "https://coinpost.jp/?p=722458",
+      "published": "Tue, 07 Jul 2026 05:35:14 +0900",
+      "isoDate": "2026-07-06T20:35:14Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、350億円相当BTCを売却　ビットコイン急落",
