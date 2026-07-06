@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T20:56:27Z",
-  "last_checked": "2026-07-06T20:56:27Z",
+  "updated": "2026-07-06T22:19:55Z",
+  "last_checked": "2026-07-06T22:19:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platformsの設備投資、2027年に急増へ――ネオクラウドへの懸念は「誤り」とSemiAnalysis",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1593784",
-      "published": "2026-07-06 18:16:17",
-      "isoDate": "2026-07-06T18:16:17Z"
+      "title": "スペースXの株価が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1593805",
+      "published": "2026-07-06 18:52:56",
+      "isoDate": "2026-07-06T18:52:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法、8月6日に照準",
+      "link": "https://coinpost.jp/?p=722456",
+      "published": "Tue, 07 Jul 2026 06:35:09 +0900",
+      "isoDate": "2026-07-06T21:35:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ政権のビットコイン戦略準備金、省庁の権限争いと法的問題で難航＝報道",
+      "link": "https://coinpost.jp/?p=722457",
+      "published": "Tue, 07 Jul 2026 06:05:12 +0900",
+      "isoDate": "2026-07-06T21:05:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "トランプ大統領、子ども向け投資口座へのビットコイン追加を示唆",
@@ -215,20 +229,6 @@
       "link": "https://coinpost.jp/?p=721810",
       "published": "Sun, 05 Jul 2026 09:25:28 +0900",
       "isoDate": "2026-07-05T00:25:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ウクライナ当局、詐欺の仮想通貨両替ネットワークを摘発　7000万円以上押収",
-      "link": "https://coinpost.jp/?p=722108",
-      "published": "Sat, 04 Jul 2026 13:35:06 +0900",
-      "isoDate": "2026-07-04T04:35:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トロン、量子コンピュータ耐性署名をテストネットで試験導入",
-      "link": "https://coinpost.jp/?p=722098",
-      "published": "Sat, 04 Jul 2026 10:30:37 +0900",
-      "isoDate": "2026-07-04T01:30:37Z"
     }
   ]
 }
