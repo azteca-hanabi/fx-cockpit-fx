@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-06T00:11:07Z",
-  "last_checked": "2026-07-06T00:11:07Z",
+  "updated": "2026-07-06T04:52:55Z",
+  "last_checked": "2026-07-06T04:52:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金利引き上げ観測の後退でドル安、金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1592641",
+      "published": "2026-07-06 01:52:20",
+      "isoDate": "2026-07-06T01:52:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "OPEC+の増産合意で供給過剰懸念が高まり、原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1592633",
+      "published": "2026-07-06 01:28:38",
+      "isoDate": "2026-07-06T01:28:38Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPEC+、8月の生産枠を日量18万8000バレル増加へ",
@@ -15,78 +29,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1592408",
       "published": "2026-07-03 09:16:35",
       "isoDate": "2026-07-03T09:16:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米独立記念日の連休前に原油価格が小幅下落、中東交渉に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592197",
-      "published": "2026-07-03 01:40:15",
-      "isoDate": "2026-07-03T01:40:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は安定、雇用統計の軟調で利上げ観測後退し週間プラスへ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592132",
-      "published": "2026-07-03 00:17:48",
-      "isoDate": "2026-07-03T00:17:48Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ---25日線水準で強弱感が対立",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592603",
-      "published": "2026-07-05 23:45:03",
-      "isoDate": "2026-07-05T23:45:03Z"
+      "title": "半導体・AIセクターの検証（1）_はじめに",
+      "link": "https://jp.investing.com/news/forex-news/article-1592706",
+      "published": "2026-07-06 04:30:18",
+      "isoDate": "2026-07-06T04:30:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前週末の上昇の反動から売り先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592601",
-      "published": "2026-07-05 23:30:03",
-      "isoDate": "2026-07-05T23:30:03Z"
+      "title": "後場の日経平均は603円安でスタート、キオクシアHDや東エレクなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592687",
+      "published": "2026-07-06 04:00:21",
+      "isoDate": "2026-07-06T04:00:21Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "2日の米国市場ダイジェスト：米国株式市場はまちまち、利上げへの警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1592597",
-      "published": "2026-07-05 21:45:02",
-      "isoDate": "2026-07-05T21:45:02Z"
+      "title": "日本の防衛関連株、輸出専門局設置計画の報道を受け急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592685",
+      "published": "2026-07-06 03:49:01",
+      "isoDate": "2026-07-06T03:49:01Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Metaのネオクラウドとハイパースケーラーをめぐるアナリストの5つの見解",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592595",
-      "published": "2026-07-05 19:20:05",
-      "isoDate": "2026-07-05T19:20:05Z"
+      "title": "後場に注目すべき3つのポイント～買い先行もマイナス圏に転落",
+      "link": "https://jp.investing.com/news/forex-news/article-1592679",
+      "published": "2026-07-06 03:30:14",
+      "isoDate": "2026-07-06T03:30:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "テック企業の採用減速を招く主な要因とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592590",
-      "published": "2026-07-05 16:44:47",
-      "isoDate": "2026-07-05T16:44:47Z"
+      "title": "野村証券、AIメモリー需要鈍化への懸念は過大評価と指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592675",
+      "published": "2026-07-06 03:25:30",
+      "isoDate": "2026-07-06T03:25:30Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "OPEC+、8月の生産枠を日量18万8000バレル増加へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592587",
-      "published": "2026-07-05 14:37:00",
-      "isoDate": "2026-07-05T14:37:00Z"
+      "title": "日本・韓国株が下落、半導体株の利益確定売りが重荷に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592673",
+      "published": "2026-07-06 03:11:57",
+      "isoDate": "2026-07-06T03:11:57Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIバブル懸念でインド株市場に世界の投資家が再注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592558",
-      "published": "2026-07-05 02:43:43",
-      "isoDate": "2026-07-05T02:43:43Z"
+      "title": "概況からBRICsを知ろう インド株式市場は小幅続伸、米利上げ観測の後退が支援材料",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592628",
+      "published": "2026-07-06 01:15:07",
+      "isoDate": "2026-07-06T01:15:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "本格円安の入り口【フィスコ・コラム】",
-      "link": "https://jp.investing.com/news/forex-news/article-1592549",
-      "published": "2026-07-05 00:15:02",
-      "isoDate": "2026-07-05T00:15:02Z"
+      "title": "前場に注目すべき3つのポイント～TOPIX型へのリバランスの動きを見極める～",
+      "link": "https://jp.investing.com/news/forex-news/article-1592611",
+      "published": "2026-07-06 00:15:04",
+      "isoDate": "2026-07-06T00:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "フォックスコン、AI需要で第2四半期売上高が急増——地政学リスクにも警戒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592610",
+      "published": "2026-07-06 00:09:25",
+      "isoDate": "2026-07-06T00:09:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,99 +101,7 @@
       "link": "https://jp.investing.com/news/economy-news/article-1592541",
       "published": "2026-07-04 20:06:28",
       "isoDate": "2026-07-04T20:06:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：ETF需給イベント、IMF世界経済見通し、韓サムスン電子暫定決算",
-      "link": "https://jp.investing.com/news/forex-news/article-1592518",
-      "published": "2026-07-04 08:00:14",
-      "isoDate": "2026-07-04T08:00:14Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーCEO「ビットコインは自由」米建国理念になぞらえ",
-      "link": "https://coinpost.jp/?p=722170",
-      "published": "Mon, 06 Jul 2026 08:45:33 +0900",
-      "isoDate": "2026-07-05T23:45:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BIP-110支持1％未満、セイラー氏が合意なき変更に警鐘",
-      "link": "https://coinpost.jp/?p=722167",
-      "published": "Mon, 06 Jul 2026 08:14:24 +0900",
-      "isoDate": "2026-07-05T23:14:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=722031",
-      "published": "Sun, 05 Jul 2026 11:30:51 +0900",
-      "isoDate": "2026-07-05T02:30:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（7/3）｜ストラテジーの財務・メタプラネットのBTC購入・BTCとETHの相場分析まとめ",
-      "link": "https://coinpost.jp/?p=721810",
-      "published": "Sun, 05 Jul 2026 09:25:28 +0900",
-      "isoDate": "2026-07-05T00:25:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ウクライナ当局、詐欺の仮想通貨両替ネットワークを摘発　7000万円以上押収",
-      "link": "https://coinpost.jp/?p=722108",
-      "published": "Sat, 04 Jul 2026 13:35:06 +0900",
-      "isoDate": "2026-07-04T04:35:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トロン、量子コンピュータ耐性署名をテストネットで試験導入",
-      "link": "https://coinpost.jp/?p=722098",
-      "published": "Sat, 04 Jul 2026 10:30:37 +0900",
-      "isoDate": "2026-07-04T01:30:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライプ傘下のブリッジ、EUでMiCAとEMIの認可取得　ステーブルコイン事業拡大へ",
-      "link": "https://coinpost.jp/?p=722088",
-      "published": "Sat, 04 Jul 2026 07:30:18 +0900",
-      "isoDate": "2026-07-03T22:30:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "全米郡保安官協会、クラリティー法への立場を懸念から中立に転換",
-      "link": "https://coinpost.jp/?p=722078",
-      "published": "Sat, 04 Jul 2026 07:05:24 +0900",
-      "isoDate": "2026-07-03T22:05:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETFに10日ぶり純流入、米雇用統計下振れ受け利上げ観測後退",
-      "link": "https://coinpost.jp/?p=722080",
-      "published": "Sat, 04 Jul 2026 06:20:57 +0900",
-      "isoDate": "2026-07-03T21:20:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院議員、大統領含む公職者のミームコイン発行禁止法案を改めて推進",
-      "link": "https://coinpost.jp/?p=722071",
-      "published": "Sat, 04 Jul 2026 05:45:12 +0900",
-      "isoDate": "2026-07-03T20:45:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、長期支持線に接近　フィデリティ幹部が底打ち慎重視",
-      "link": "https://coinpost.jp/?p=722009",
-      "published": "Fri, 03 Jul 2026 17:10:14 +0900",
-      "isoDate": "2026-07-03T08:10:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETF、純流入2.22億ドル　10日連続流出から転換",
-      "link": "https://coinpost.jp/?p=721960",
-      "published": "Fri, 03 Jul 2026 14:47:07 +0900",
-      "isoDate": "2026-07-03T05:47:07Z"
-    }
-  ]
+  "btc_items": []
 }
