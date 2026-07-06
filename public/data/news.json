@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T22:19:55Z",
-  "last_checked": "2026-07-06T22:19:55Z",
+  "updated": "2026-07-06T23:39:03Z",
+  "last_checked": "2026-07-06T23:39:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "グレースケール分析、ストラテジーのビットコイン売却は底値形成に寄与か",
+      "link": "https://coinpost.jp/?p=722453",
+      "published": "Tue, 07 Jul 2026 08:25:03 +0900",
+      "isoDate": "2026-07-06T23:25:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リップル、欧州のMiCA認可を正式に取得　仮想通貨決済プロダクトを30カ国で提供へ",
+      "link": "https://coinpost.jp/?p=722470",
+      "published": "Tue, 07 Jul 2026 07:20:34 +0900",
+      "isoDate": "2026-07-06T22:20:34Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米クラリティー法、8月6日に照準",
       "link": "https://coinpost.jp/?p=722456",
       "published": "Tue, 07 Jul 2026 06:35:09 +0900",
@@ -215,20 +229,6 @@
       "link": "https://coinpost.jp/?p=722167",
       "published": "Mon, 06 Jul 2026 08:14:24 +0900",
       "isoDate": "2026-07-05T23:14:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン雇用統計下振れで持ち直し、FOMC議事録と中東情勢が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=722031",
-      "published": "Sun, 05 Jul 2026 11:30:51 +0900",
-      "isoDate": "2026-07-05T02:30:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（7/3）｜ストラテジーの財務・メタプラネットのBTC購入・BTCとETHの相場分析まとめ",
-      "link": "https://coinpost.jp/?p=721810",
-      "published": "Sun, 05 Jul 2026 09:25:28 +0900",
-      "isoDate": "2026-07-05T00:25:28Z"
     }
   ]
 }
