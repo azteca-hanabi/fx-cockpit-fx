@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-06T13:04:30Z",
-  "last_checked": "2026-07-06T13:04:30Z",
+  "updated": "2026-07-06T16:38:41Z",
+  "last_checked": "2026-07-06T16:38:41Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "湾岸原油の欧州向け出荷が増加、7〜8月に2800万バレル到着予定",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593712",
+      "published": "2026-07-06 16:01:26",
+      "isoDate": "2026-07-06T16:01:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、トウモロコシ急騰と天候懸念で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593692",
+      "published": "2026-07-06 15:43:47",
+      "isoDate": "2026-07-06T15:43:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆相場が上昇、中国の需要思惑と米国の熱波が支援材料に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593650",
+      "published": "2026-07-06 14:40:27",
+      "isoDate": "2026-07-06T14:40:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "USDA作付面積削減の支援でCBOT小麦先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593505",
+      "published": "2026-07-06 13:25:26",
+      "isoDate": "2026-07-06T13:25:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの燃料需要、6月は前年同月比3.1%減",
@@ -48,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "HSBCがインテル株の上値余地を指摘、サーバーCPU需要が追い風",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1593487",
+      "published": "2026-07-06 13:15:45",
+      "isoDate": "2026-07-06T13:15:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ブロードコム株が4%上昇、アップルとのシリコン供給契約が2031年まで延長",
       "link": "https://jp.investing.com/news/stock-market-news/article-1593405",
       "published": "2026-07-06 12:39:49",
@@ -66,20 +101,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1593366",
       "published": "2026-07-06 12:31:28",
       "isoDate": "2026-07-06T12:31:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ストラテジー株が下落、82億ドルのビットコイン損失とBTC売却が重荷に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1593347",
-      "published": "2026-07-06 12:18:52",
-      "isoDate": "2026-07-06T12:18:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "StrategyがBTCで83億ドルの損失を計上、配当資金調達のためビットコインを売却",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-432SI-1593307",
-      "published": "2026-07-06 12:04:05",
-      "isoDate": "2026-07-06T12:04:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,10 +132,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株は軟調、日韓の半導体株が先週の上昇後に反落",
+      "title": "アジア株は軟調、日韓の半導体株が上昇後に反落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1592673",
       "published": "2026-07-06 03:11:57",
       "isoDate": "2026-07-06T03:11:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "概況からBRICsを知ろう インド株式市場は小幅続伸、米利上げ観測の後退が支援材料",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1592628",
+      "published": "2026-07-06 01:15:07",
+      "isoDate": "2026-07-06T01:15:07Z"
     }
   ],
   "btc_items": [
