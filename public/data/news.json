@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-07T16:34:26Z",
-  "last_checked": "2026-07-07T16:34:26Z",
+  "updated": "2026-07-07T19:04:54Z",
+  "last_checked": "2026-07-07T19:04:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "綿花先物が1日の値幅制限に達し、3セント急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595413",
+      "published": "2026-07-07 18:19:54",
+      "isoDate": "2026-07-07T18:19:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡再開通を受け、EIAが石油生産見通しを上方修正",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595380",
+      "published": "2026-07-07 17:04:04",
+      "isoDate": "2026-07-07T17:04:04Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ロシアの金準備高、6月に2989億9000万ドルに減少",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593763",
       "published": "2026-07-06 17:30:51",
       "isoDate": "2026-07-06T17:30:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "湾岸原油の欧州向け出荷が増加、7〜8月に2800万バレル到着予定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593712",
-      "published": "2026-07-06 16:01:26",
-      "isoDate": "2026-07-06T16:01:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、トウモロコシ急騰と天候懸念で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593692",
-      "published": "2026-07-06 15:43:47",
-      "isoDate": "2026-07-06T15:43:47Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "JPモルガン・チェース・アンド・カンパニー、SpaceXとテスラの合併は戦略的に合理的だが複雑と指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1595391",
+      "published": "2026-07-07 17:20:43",
+      "isoDate": "2026-07-07T17:20:43Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "サーバーからメモリへ：次のAI投資テーマはどこにあるか",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1594418",
       "published": "2026-07-07 08:21:41",
       "isoDate": "2026-07-07T08:21:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "先物低調、サムスンの営業利益急増―市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1594381",
-      "published": "2026-07-07 07:48:40",
-      "isoDate": "2026-07-07T07:48:40Z"
     },
     {
       "source": "Investing.com 外為",
