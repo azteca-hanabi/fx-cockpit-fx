@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T19:04:54Z",
-  "last_checked": "2026-07-07T19:04:54Z",
+  "updated": "2026-07-07T21:07:22Z",
+  "last_checked": "2026-07-07T21:07:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米SEC、仮想通貨向け規制緩和ルール案を今月中にも提案へ",
+      "link": "https://coinpost.jp/?p=722788",
+      "published": "Wed, 08 Jul 2026 06:00:59 +0900",
+      "isoDate": "2026-07-07T21:00:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米資産運用大手バンガード、仮想通貨戦略の専任責任者を初公募　消極路線から転換か",
+      "link": "https://coinpost.jp/?p=722789",
+      "published": "Wed, 08 Jul 2026 05:45:01 +0900",
+      "isoDate": "2026-07-07T20:45:01Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "コインベース、英国で投資サービス認可を取得　株式・先物取引解禁へ",
       "link": "https://coinpost.jp/?p=722780",
       "published": "Tue, 07 Jul 2026 21:50:15 +0900",
@@ -215,20 +229,6 @@
       "link": "https://coinpost.jp/?p=722481",
       "published": "Tue, 07 Jul 2026 10:02:49 +0900",
       "isoDate": "2026-07-07T01:02:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=722454",
-      "published": "Tue, 07 Jul 2026 09:05:05 +0900",
-      "isoDate": "2026-07-07T00:05:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール分析、ストラテジーのビットコイン売却は底値形成に寄与か",
-      "link": "https://coinpost.jp/?p=722453",
-      "published": "Tue, 07 Jul 2026 08:25:03 +0900",
-      "isoDate": "2026-07-06T23:25:03Z"
     }
   ]
 }
