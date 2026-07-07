@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07T21:07:22Z",
-  "last_checked": "2026-07-07T21:07:22Z",
+  "updated": "2026-07-07T22:38:18Z",
+  "last_checked": "2026-07-07T22:38:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：イランがホルムズ海峡で3隻のタンカーを攻撃",
+      "link": "https://jp.investing.com/news/forex-news/article-1595654",
+      "published": "2026-07-07 21:45:06",
+      "isoDate": "2026-07-07T21:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは130.76ドル安、イラン情勢懸念やハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1595608",
+      "published": "2026-07-07 21:00:05",
+      "isoDate": "2026-07-07T21:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "JPモルガン・チェース・アンド・カンパニー、SpaceXとテスラの合併は戦略的に合理的だが複雑と指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1595391",
       "published": "2026-07-07 17:20:43",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1594418",
-      "published": "2026-07-07 08:21:41",
-      "isoDate": "2026-07-07T08:21:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "InvestingPro最大60%オフ：期間限定で2026年最安値を確保",
       "link": "https://jp.investing.com/news/stock-market-news/article-1594357",
       "published": "2026-07-07 07:12:51",
       "isoDate": "2026-07-07T07:12:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国KOSPIがサーキットブレーカー発動、サムスン好決算も売り止まらず",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1594287",
-      "published": "2026-07-07 06:12:05",
-      "isoDate": "2026-07-07T06:12:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,90 +145,5 @@
       "isoDate": "2026-07-07T03:45:18Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米SEC、仮想通貨向け規制緩和ルール案を今月中にも提案へ",
-      "link": "https://coinpost.jp/?p=722788",
-      "published": "Wed, 08 Jul 2026 06:00:59 +0900",
-      "isoDate": "2026-07-07T21:00:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米資産運用大手バンガード、仮想通貨戦略の専任責任者を初公募　消極路線から転換か",
-      "link": "https://coinpost.jp/?p=722789",
-      "published": "Wed, 08 Jul 2026 05:45:01 +0900",
-      "isoDate": "2026-07-07T20:45:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、英国で投資サービス認可を取得　株式・先物取引解禁へ",
-      "link": "https://coinpost.jp/?p=722780",
-      "published": "Tue, 07 Jul 2026 21:50:15 +0900",
-      "isoDate": "2026-07-07T12:50:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーがビットコイン売却でも投げ売り限定的＝アナリスト",
-      "link": "https://coinpost.jp/?p=722758",
-      "published": "Tue, 07 Jul 2026 18:25:11 +0900",
-      "isoDate": "2026-07-07T09:25:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの見かけの需要、年初来最悪から改善＝アナリスト",
-      "link": "https://coinpost.jp/?p=722729",
-      "published": "Tue, 07 Jul 2026 17:15:17 +0900",
-      "isoDate": "2026-07-07T08:15:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁・財務省、仮想通貨トラベルルール対象法域5法域追加で63に",
-      "link": "https://coinpost.jp/?p=722698",
-      "published": "Tue, 07 Jul 2026 16:36:27 +0900",
-      "isoDate": "2026-07-07T07:36:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー優先株、ビットコイン弱気相場で交換協議が浮上＝報道",
-      "link": "https://coinpost.jp/?p=722596",
-      "published": "Tue, 07 Jul 2026 13:25:48 +0900",
-      "isoDate": "2026-07-07T04:25:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア最大手銀行スベルバンク、仮想通貨ウォレットを導入へ",
-      "link": "https://coinpost.jp/?p=722452",
-      "published": "Tue, 07 Jul 2026 12:30:01 +0900",
-      "isoDate": "2026-07-07T03:30:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場Empery Digital、1200BTCのビットコイン買い増し報告",
-      "link": "https://coinpost.jp/?p=722554",
-      "published": "Tue, 07 Jul 2026 11:45:54 +0900",
-      "isoDate": "2026-07-07T02:45:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国最高裁、仮想通貨の民事差し押さえ手続きで規則改正案を提示",
-      "link": "https://coinpost.jp/?p=722525",
-      "published": "Tue, 07 Jul 2026 11:15:04 +0900",
-      "isoDate": "2026-07-07T02:15:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バーンスタイン、ビットコイン年末15万ドル目標を維持　下落は過去より緩やか",
-      "link": "https://coinpost.jp/?p=722504",
-      "published": "Tue, 07 Jul 2026 10:30:28 +0900",
-      "isoDate": "2026-07-07T01:30:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テラウルフ、アンソロピック社と20年のAIインフラリース契約　3兆円の収益見込む",
-      "link": "https://coinpost.jp/?p=722481",
-      "published": "Tue, 07 Jul 2026 10:02:49 +0900",
-      "isoDate": "2026-07-07T01:02:49Z"
-    }
-  ]
+  "btc_items": []
 }
