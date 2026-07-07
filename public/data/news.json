@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-06T23:39:03Z",
-  "last_checked": "2026-07-06T23:39:03Z",
+  "updated": "2026-07-07T03:51:44Z",
+  "last_checked": "2026-07-07T03:51:44Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金利不透明感が続く中、金価格が下落――FED議事録に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1594174",
+      "published": "2026-07-07 01:50:48",
+      "isoDate": "2026-07-07T01:50:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡リスクがサウジの価格引き下げとOPEC+増産を相殺し、原油価格が小幅上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1594138",
+      "published": "2026-07-07 00:58:40",
+      "isoDate": "2026-07-07T00:58:40Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
@@ -57,23 +71,51 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1593400",
       "published": "2026-07-06 12:38:17",
       "isoDate": "2026-07-06T12:38:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "供給リスクの後退が夏の熱波を上回り、欧州天然ガス価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592901",
-      "published": "2026-07-06 08:57:21",
-      "isoDate": "2026-07-06T08:57:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金利引き上げ観測の後退でドル安、金価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1592641",
-      "published": "2026-07-06 01:52:20",
-      "isoDate": "2026-07-06T01:52:20Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "売り優勢で前場中盤に下げ幅を拡大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1594203",
+      "published": "2026-07-07 03:15:17",
+      "isoDate": "2026-07-07T03:15:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は急速に値を下げる",
+      "link": "https://jp.investing.com/news/forex-news/article-1594175",
+      "published": "2026-07-07 02:00:13",
+      "isoDate": "2026-07-07T02:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォール街の上昇後、米株先物が下落——FED議事録と決算発表を控え",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1594173",
+      "published": "2026-07-07 01:49:15",
+      "isoDate": "2026-07-07T01:49:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシア---大幅続落、想定以上の暫定決算発表したサムスンの株価下落で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1594153",
+      "published": "2026-07-07 01:30:13",
+      "isoDate": "2026-07-07T01:30:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: ネクステージやアルテックに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1594111",
+      "published": "2026-07-07 00:15:09",
+      "isoDate": "2026-07-07T00:15:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ハイテク株高を映して買い先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1594090",
+      "published": "2026-07-06 23:30:08",
+      "isoDate": "2026-07-06T23:30:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "スペースXの株価が本日下落している理由とは",
@@ -90,20 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとフォード・モーターが長期メモリ供給契約を締結",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1593401",
-      "published": "2026-07-06 12:38:46",
-      "isoDate": "2026-07-06T12:38:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーとフォード・モーターが長期メモリ供給契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1593366",
-      "published": "2026-07-06 12:31:28",
-      "isoDate": "2026-07-06T12:31:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "メモリ株が反発、アナリストが買い場と指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1593111",
       "published": "2026-07-06 11:02:41",
@@ -115,37 +143,51 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1592885",
       "published": "2026-07-06 08:23:23",
       "isoDate": "2026-07-06T08:23:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経VI：上昇、イベント控え警戒感強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1592815",
-      "published": "2026-07-06 07:45:15",
-      "isoDate": "2026-07-06T07:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体・AIセクターの検証（1）_はじめに",
-      "link": "https://jp.investing.com/news/forex-news/article-1592706",
-      "published": "2026-07-06 04:30:18",
-      "isoDate": "2026-07-06T04:30:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株は軟調、日韓の半導体株が上昇後に反落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592673",
-      "published": "2026-07-06 03:11:57",
-      "isoDate": "2026-07-06T03:11:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "概況からBRICsを知ろう インド株式市場は小幅続伸、米利上げ観測の後退が支援材料",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1592628",
-      "published": "2026-07-06 01:15:07",
-      "isoDate": "2026-07-06T01:15:07Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ロシア最大手銀行スベルバンク、仮想通貨ウォレットを導入へ",
+      "link": "https://coinpost.jp/?p=722452",
+      "published": "Tue, 07 Jul 2026 12:30:01 +0900",
+      "isoDate": "2026-07-07T03:30:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場Empery Digital、1200BTCのビットコイン買い増し報告",
+      "link": "https://coinpost.jp/?p=722554",
+      "published": "Tue, 07 Jul 2026 11:45:54 +0900",
+      "isoDate": "2026-07-07T02:45:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国最高裁、仮想通貨の民事差し押さえ手続きで規則改正案を提示",
+      "link": "https://coinpost.jp/?p=722525",
+      "published": "Tue, 07 Jul 2026 11:15:04 +0900",
+      "isoDate": "2026-07-07T02:15:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バーンスタイン、ビットコイン年末15万ドル目標を維持　下落は過去より緩やか",
+      "link": "https://coinpost.jp/?p=722504",
+      "published": "Tue, 07 Jul 2026 10:30:28 +0900",
+      "isoDate": "2026-07-07T01:30:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テラウルフ、アンソロピック社と20年のAIインフラリース契約　3兆円の収益見込む",
+      "link": "https://coinpost.jp/?p=722481",
+      "published": "Tue, 07 Jul 2026 10:02:49 +0900",
+      "isoDate": "2026-07-07T01:02:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン乱高下、DAT企業のBTC売却で急落もStrive買い増しで反発｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=722454",
+      "published": "Tue, 07 Jul 2026 09:05:05 +0900",
+      "isoDate": "2026-07-07T00:05:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "グレースケール分析、ストラテジーのビットコイン売却は底値形成に寄与か",
@@ -194,41 +236,6 @@
       "link": "https://coinpost.jp/?p=722371",
       "published": "Mon, 06 Jul 2026 15:58:13 +0900",
       "isoDate": "2026-07-06T06:58:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ギャラクシーリサーチ、ストラテジーの財務安定策を「賢明」と評価",
-      "link": "https://coinpost.jp/?p=722212",
-      "published": "Mon, 06 Jul 2026 12:41:43 +0900",
-      "isoDate": "2026-07-06T03:41:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプコイン購入者98万人に38億ドル損失＝報道",
-      "link": "https://coinpost.jp/?p=722227",
-      "published": "Mon, 06 Jul 2026 11:08:47 +0900",
-      "isoDate": "2026-07-06T02:08:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイナー指標、2026年最安値を更新　割安ゾーンに突入",
-      "link": "https://coinpost.jp/?p=722185",
-      "published": "Mon, 06 Jul 2026 09:41:55 +0900",
-      "isoDate": "2026-07-06T00:41:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーCEO「ビットコインは自由」米建国理念になぞらえ",
-      "link": "https://coinpost.jp/?p=722170",
-      "published": "Mon, 06 Jul 2026 08:45:33 +0900",
-      "isoDate": "2026-07-05T23:45:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BIP-110支持1％未満、セイラー氏が合意なき変更に警鐘",
-      "link": "https://coinpost.jp/?p=722167",
-      "published": "Mon, 06 Jul 2026 08:14:24 +0900",
-      "isoDate": "2026-07-05T23:14:24Z"
     }
   ]
 }
