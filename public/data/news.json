@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-08T13:07:50Z",
-  "last_checked": "2026-07-08T13:07:50Z",
+  "updated": "2026-07-08T15:50:17Z",
+  "last_checked": "2026-07-08T15:50:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウクライナの無人機攻撃後、ロシアがディーゼル輸出を禁止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596699",
+      "published": "2026-07-08 15:24:06",
+      "isoDate": "2026-07-08T15:24:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー企業、石油製品輸出で過去最高記録を更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596671",
+      "published": "2026-07-08 15:02:07",
+      "isoDate": "2026-07-08T15:02:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫が増加、ガソリン在庫は減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596662",
+      "published": "2026-07-08 14:53:24",
+      "isoDate": "2026-07-08T14:53:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金曜日のUSDA需給報告を前に小麦先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596538",
+      "published": "2026-07-08 13:27:58",
+      "isoDate": "2026-07-08T13:27:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数、ケープサイズ船の低迷で小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596462",
+      "published": "2026-07-08 12:51:33",
+      "isoDate": "2026-07-08T12:51:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ氏のイラン和平悲観論を受け、欧州天然ガス価格が6%急騰",
@@ -36,44 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595413",
       "published": "2026-07-07 18:19:54",
       "isoDate": "2026-07-07T18:19:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡再開通を受け、EIAが石油生産見通しを上方修正",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595380",
-      "published": "2026-07-07 17:04:04",
-      "isoDate": "2026-07-07T17:04:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシアの金準備高、6月に2989億9000万ドルに減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595034",
-      "published": "2026-07-07 13:04:47",
-      "isoDate": "2026-07-07T13:04:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "IEA、2026年の世界天然ガス需要は0.5%減少と予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1594619",
-      "published": "2026-07-07 10:44:29",
-      "isoDate": "2026-07-07T10:44:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパ天然ガス価格が急騰、貯蔵注入の遅れが供給不安を増幅",
-      "link": "https://jp.investing.com/news/commodities-news/article-1594455",
-      "published": "2026-07-07 08:36:16",
-      "isoDate": "2026-07-07T08:36:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中国人民銀行、20カ月連続で金準備を増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1594409",
-      "published": "2026-07-07 08:15:36",
-      "isoDate": "2026-07-07T08:15:36Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "北京がNvidiaを承認：中国テック大手がH200チップ獲得に殺到",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1596684",
+      "published": "2026-07-08 15:06:10",
+      "isoDate": "2026-07-08T15:06:10Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "スターリンク台頭でAT&T、ベライゾン、T-Mobileに慎重姿勢―ウェルズ・ファーゴ",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1595732",
       "published": "2026-07-08 00:45:10",
       "isoDate": "2026-07-08T00:45:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サーバーからメモリへ：次のAI投資テーマはどこにあるか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1594800",
-      "published": "2026-07-07 11:30:18",
-      "isoDate": "2026-07-07T11:30:18Z"
     }
   ],
   "btc_items": [
