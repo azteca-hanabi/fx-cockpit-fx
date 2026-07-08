@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-08T19:39:36Z",
-  "last_checked": "2026-07-08T19:39:36Z",
+  "updated": "2026-07-08T21:12:22Z",
+  "last_checked": "2026-07-08T21:12:22Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "利益確定売りでトウモロコシ先物が1カ月ぶり高値から下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596927",
+      "published": "2026-07-08 20:34:42",
+      "isoDate": "2026-07-08T20:34:42Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの輸出禁止令でディーゼル先物が4年ぶりの高値に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596880",
+      "published": "2026-07-08 20:18:34",
+      "isoDate": "2026-07-08T20:18:34Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージンが急落、原油価格は5%超上昇",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1595986",
       "published": "2026-07-08 08:30:55",
       "isoDate": "2026-07-08T08:30:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、イランリスクと米連邦準備制度議事録に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1595783",
-      "published": "2026-07-08 02:48:39",
-      "isoDate": "2026-07-08T02:48:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国がホルムズ海峡攻撃めぐりイランを空爆、原油価格が急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1595708",
-      "published": "2026-07-07 23:38:46",
-      "isoDate": "2026-07-07T23:38:46Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日急騰した理由とは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1596809",
+      "published": "2026-07-08 19:18:50",
+      "isoDate": "2026-07-08T19:18:50Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "北京がNvidiaを承認：中国テック大手がH200チップ獲得に殺到",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1596233",
       "published": "2026-07-08 11:02:47",
       "isoDate": "2026-07-08T11:02:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、ブロードコムとの半導体契約に300億ドル超を投資",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1596107",
-      "published": "2026-07-08 10:11:55",
-      "isoDate": "2026-07-08T10:11:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,97 +145,5 @@
       "isoDate": "2026-07-08T00:45:10Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "セイラー会長、ビットコイン年3.3%超上昇ならSTRC配当永久化と試算",
-      "link": "https://coinpost.jp/?p=723067",
-      "published": "Wed, 08 Jul 2026 18:08:13 +0900",
-      "isoDate": "2026-07-08T09:08:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "南アフリカ歳入庁、仮想通貨売却・交換に課税明記の指針案",
-      "link": "https://coinpost.jp/?p=723042",
-      "published": "Wed, 08 Jul 2026 17:30:41 +0900",
-      "isoDate": "2026-07-08T08:30:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "堀江貴文氏、全東信破産動画でビットコインやJPYC決済に言及　WebXでJPYC岡部CEOと対談",
-      "link": "https://coinpost.jp/?p=722878",
-      "published": "Wed, 08 Jul 2026 13:08:44 +0900",
-      "isoDate": "2026-07-08T04:08:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "永久先物市場「Ondo Perps」、トークン化株式の担保利用が可能に",
-      "link": "https://coinpost.jp/?p=722858",
-      "published": "Wed, 08 Jul 2026 13:00:17 +0900",
-      "isoDate": "2026-07-08T04:00:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライク、価格下落による強制清算のないビットコイン担保ローンを提供開始",
-      "link": "https://coinpost.jp/?p=722852",
-      "published": "Wed, 08 Jul 2026 12:30:00 +0900",
-      "isoDate": "2026-07-08T03:30:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの先週のBTC売却は収益化枠を消費せず、実際の上限はより大きいか",
-      "link": "https://coinpost.jp/?p=722799",
-      "published": "Wed, 08 Jul 2026 11:35:03 +0900",
-      "isoDate": "2026-07-08T02:35:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "欧州議会、DeFi・ステーキング・NFTへのMiCA適用検討を欧州委員会に要請",
-      "link": "https://coinpost.jp/?p=722818",
-      "published": "Wed, 08 Jul 2026 09:45:10 +0900",
-      "isoDate": "2026-07-08T00:45:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIが出資を主導、仮想通貨取引所EDXがシリーズCで120億円超を調達",
-      "link": "https://coinpost.jp/?p=722806",
-      "published": "Wed, 08 Jul 2026 08:30:37 +0900",
-      "isoDate": "2026-07-07T23:30:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジーキャッシュ、『Ironwood』の偽造バグを数学的に排除へ",
-      "link": "https://coinpost.jp/?p=722791",
-      "published": "Wed, 08 Jul 2026 07:10:08 +0900",
-      "isoDate": "2026-07-07T22:10:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・イーサリアム上昇も、ウィンターミュートは一時的な反発と分析",
-      "link": "https://coinpost.jp/?p=722790",
-      "published": "Wed, 08 Jul 2026 06:30:04 +0900",
-      "isoDate": "2026-07-07T21:30:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、仮想通貨向け規制緩和ルール案を今月中にも提案へ",
-      "link": "https://coinpost.jp/?p=722788",
-      "published": "Wed, 08 Jul 2026 06:00:59 +0900",
-      "isoDate": "2026-07-07T21:00:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米資産運用大手バンガード、仮想通貨戦略の専任責任者を初公募　消極路線から転換",
-      "link": "https://coinpost.jp/?p=722789",
-      "published": "Wed, 08 Jul 2026 05:45:01 +0900",
-      "isoDate": "2026-07-07T20:45:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、英国で投資サービス認可を取得　株式・先物取引解禁へ",
-      "link": "https://coinpost.jp/?p=722780",
-      "published": "Tue, 07 Jul 2026 21:50:15 +0900",
-      "isoDate": "2026-07-07T12:50:15Z"
-    }
-  ]
+  "btc_items": []
 }
