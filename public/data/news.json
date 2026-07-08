@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-08T15:50:17Z",
-  "last_checked": "2026-07-08T15:50:17Z",
+  "updated": "2026-07-08T17:41:46Z",
+  "last_checked": "2026-07-08T17:41:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージンが急落、原油価格は5%超上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596753",
+      "published": "2026-07-08 17:00:07",
+      "isoDate": "2026-07-08T17:00:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ウクライナの無人機攻撃後、ロシアがディーゼル輸出を禁止",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1595708",
       "published": "2026-07-07 23:38:46",
       "isoDate": "2026-07-07T23:38:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "綿花先物が1日の値幅制限に達し、3セント急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1595413",
-      "published": "2026-07-07 18:19:54",
-      "isoDate": "2026-07-07T18:19:54Z"
     }
   ],
   "usdjpy_items": [
