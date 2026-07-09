@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T21:38:32Z",
-  "last_checked": "2026-07-09T21:38:32Z",
+  "updated": "2026-07-09T23:16:25Z",
+  "last_checked": "2026-07-09T23:16:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "9日の米国市場ダイジェスト：米国株式市場は上昇、原油安や金利の低下を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1598630",
+      "published": "2026-07-09 22:30:06",
+      "isoDate": "2026-07-09T22:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ユニソルHD、ストレージ王、キオクシアHDなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1598629",
+      "published": "2026-07-09 22:30:06",
+      "isoDate": "2026-07-09T22:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネットフリックス、視聴者エンゲージメント低下でライブチャンネルやバンドル導入を検討－WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1598590",
+      "published": "2026-07-09 21:20:54",
+      "isoDate": "2026-07-09T21:20:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Meta社内メモでSanDiskの多年間フラッシュストレージ契約が判明、株価急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1598208",
       "published": "2026-07-09 14:13:52",
       "isoDate": "2026-07-09T14:13:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、米国投資を2500億ドル超に拡大し半導体エコシステムを強化",
-      "link": "https://jp.investing.com/news/company-news/article-1598078",
-      "published": "2026-07-09 13:17:34",
-      "isoDate": "2026-07-09T13:17:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、ニューヨーク工場で初のコンクリート打設、米国投資額を引き上げ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1598011",
-      "published": "2026-07-09 12:47:08",
-      "isoDate": "2026-07-09T12:47:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1597224",
       "published": "2026-07-09 04:00:17",
       "isoDate": "2026-07-09T04:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベインがキオクシアの全保有株を売却、幹部がブルームバーグに明かす",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597102",
-      "published": "2026-07-08 23:53:05",
-      "isoDate": "2026-07-08T23:53:05Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットゴー、ビットコインウォレット向けの量子リスク管理機能を機関に提供へ",
+      "link": "https://coinpost.jp/?p=723511",
+      "published": "Fri, 10 Jul 2026 07:55:05 +0900",
+      "isoDate": "2026-07-09T22:55:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア大手銀行アルファバンク、仮想通貨デポジタリーを独自設立へ",
+      "link": "https://coinpost.jp/?p=723501",
+      "published": "Fri, 10 Jul 2026 07:50:32 +0900",
+      "isoDate": "2026-07-09T22:50:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン分析、「ビットコインの最大リスクはストラテジー売却ではない」",
+      "link": "https://coinpost.jp/?p=723502",
+      "published": "Fri, 10 Jul 2026 06:55:34 +0900",
+      "isoDate": "2026-07-09T21:55:34Z"
+    },
     {
       "source": "CoinPost",
       "title": "シンガポール国営ファンド『テマセク』、FTX破綻から4年　今も仮想通貨投資を回避",
@@ -187,20 +208,6 @@
       "link": "https://coinpost.jp/?p=723129",
       "published": "Thu, 09 Jul 2026 10:05:56 +0900",
       "isoDate": "2026-07-09T01:05:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの局面転換に必要な条件は？　5か月間「ディープ・バリュー」続く＝グラスノード",
-      "link": "https://coinpost.jp/?p=723146",
-      "published": "Thu, 09 Jul 2026 09:40:58 +0900",
-      "isoDate": "2026-07-09T00:40:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア、仮想通貨規制法案を修正可決　ウォレット申告義務を撤廃",
-      "link": "https://coinpost.jp/?p=723113",
-      "published": "Thu, 09 Jul 2026 07:40:42 +0900",
-      "isoDate": "2026-07-08T22:40:42Z"
     }
   ]
 }
