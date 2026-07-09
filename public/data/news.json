@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-09T12:09:33Z",
-  "last_checked": "2026-07-09T12:09:33Z",
+  "updated": "2026-07-09T15:41:48Z",
+  "last_checked": "2026-07-09T15:41:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トルコとイラク、原油パイプラインの1年間協定を締結へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598294",
+      "published": "2026-07-09 15:09:13",
+      "isoDate": "2026-07-09T15:09:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ARА拠点のジェット燃料在庫、輸出入減少で低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598286",
+      "published": "2026-07-09 15:04:47",
+      "isoDate": "2026-07-09T15:04:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、財政・地政学リスクを背景に上昇再開へ＝HSBC",
+      "link": "https://jp.investing.com/news/commodities-news/article-1598018",
+      "published": "2026-07-09 12:47:30",
+      "isoDate": "2026-07-09T12:47:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "カタール、ホルムズ海峡でのタンカー攻撃後にLNG増産計画を一時停止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598001",
+      "published": "2026-07-09 12:44:40",
+      "isoDate": "2026-07-09T12:44:40Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バーンスタイン、2026年下半期の金価格見通しを引き上げ新目標設定",
@@ -43,43 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1597451",
       "published": "2026-07-09 08:46:26",
       "isoDate": "2026-07-09T08:46:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン緊張でドル高、金価格は小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1597191",
-      "published": "2026-07-09 02:58:27",
-      "isoDate": "2026-07-09T02:58:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東緊張再燃とホルムズ海峡懸念で原油価格が乱高下",
-      "link": "https://jp.investing.com/news/commodities-news/article-1597173",
-      "published": "2026-07-09 01:53:02",
-      "isoDate": "2026-07-09T01:53:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "利益確定売りでトウモロコシ先物が1カ月ぶり高値から下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1596927",
-      "published": "2026-07-08 20:34:42",
-      "isoDate": "2026-07-08T20:34:42Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "RackspaceとPalantirが規制業界向けAI導入で提携合意",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1597815",
-      "published": "2026-07-09 11:31:11",
-      "isoDate": "2026-07-09T11:31:11Z"
+      "title": "Meta社内メモでSanDiskの多年間フラッシュストレージ契約が判明、株価急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1598208",
+      "published": "2026-07-09 14:13:52",
+      "isoDate": "2026-07-09T14:13:52Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "スターバックス、マイクロソフトとIBMのソフトウェア代替AIツールを開発中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597643",
-      "published": "2026-07-09 10:29:54",
-      "isoDate": "2026-07-09T10:29:54Z"
+      "title": "マイクロンテクノロジー、米国投資を2500億ドル超に拡大し半導体エコシステムを強化",
+      "link": "https://jp.investing.com/news/company-news/article-1598078",
+      "published": "2026-07-09 13:17:34",
+      "isoDate": "2026-07-09T13:17:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、ニューヨーク工場で初のコンクリート打設、米国投資額を引き上げ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1598011",
+      "published": "2026-07-09 12:47:08",
+      "isoDate": "2026-07-09T12:47:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、米国半導体サプライチェーンに最大30億ドルを投資",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1597961",
+      "published": "2026-07-09 12:31:15",
+      "isoDate": "2026-07-09T12:31:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとのAI提携もRackspace株の急落を救えず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1597913",
+      "published": "2026-07-09 12:07:58",
+      "isoDate": "2026-07-09T12:07:58Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,10 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は4日ぶり大幅反発、アドバンテストや東エレクが2銘柄で約762円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597362",
-      "published": "2026-07-09 07:30:21",
-      "isoDate": "2026-07-09T07:30:21Z"
+      "title": "ABCマート、キオクシアHD、小田原機など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1597324",
+      "published": "2026-07-09 07:00:20",
+      "isoDate": "2026-07-09T07:00:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1597224",
       "published": "2026-07-09 04:00:17",
       "isoDate": "2026-07-09T04:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は227円高でスタート、キオクシアHDやKOKUSAIなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597144",
-      "published": "2026-07-09 01:00:09",
-      "isoDate": "2026-07-09T01:00:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベインがキオクシアの全保有株を売却、幹部がブルームバーグに明かす",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597102",
-      "published": "2026-07-08 23:53:05",
-      "isoDate": "2026-07-08T23:53:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "+547%上昇後に選定リストから外れたAI銘柄、その後38%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1595969",
-      "published": "2026-07-08 07:58:58",
-      "isoDate": "2026-07-08T07:58:58Z"
     }
   ],
   "btc_items": [
