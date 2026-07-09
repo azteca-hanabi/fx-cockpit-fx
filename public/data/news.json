@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T20:00:04Z",
-  "last_checked": "2026-07-09T20:00:04Z",
+  "updated": "2026-07-09T21:38:32Z",
+  "last_checked": "2026-07-09T21:38:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "シンガポール国営ファンド『テマセク』、FTX破綻から4年　今も仮想通貨投資を回避",
+      "link": "https://coinpost.jp/?p=723498",
+      "published": "Fri, 10 Jul 2026 05:45:22 +0900",
+      "isoDate": "2026-07-09T20:45:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズ仮想通貨指数ETF、ハイパーリキッドとステラを採用　AVAXとDOT除外",
+      "link": "https://coinpost.jp/?p=723490",
+      "published": "Fri, 10 Jul 2026 05:00:47 +0900",
+      "isoDate": "2026-07-09T20:00:47Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米ニューハンプシャー州、ビットコイン担保債1億ドルの発行案を否決",
       "link": "https://coinpost.jp/?p=723393",
       "published": "Thu, 09 Jul 2026 16:35:27 +0900",
@@ -187,13 +201,6 @@
       "link": "https://coinpost.jp/?p=723113",
       "published": "Thu, 09 Jul 2026 07:40:42 +0900",
       "isoDate": "2026-07-08T22:40:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リップル、カンザス大学と提携　XRPが大学ユニフォームに初採用",
-      "link": "https://coinpost.jp/?p=723116",
-      "published": "Thu, 09 Jul 2026 06:10:49 +0900",
-      "isoDate": "2026-07-08T21:10:49Z"
     }
   ]
 }
