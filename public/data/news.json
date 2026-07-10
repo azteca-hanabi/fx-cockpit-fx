@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-09T23:16:25Z",
-  "last_checked": "2026-07-09T23:16:25Z",
+  "updated": "2026-07-10T01:11:11Z",
+  "last_checked": "2026-07-10T01:11:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットコイン、7月は季節的に強気傾向も反発は一時的か＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=723519",
+      "published": "Fri, 10 Jul 2026 09:50:04 +0900",
+      "isoDate": "2026-07-10T00:50:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "MARA、米テキサスに最大2GW拠点取得　ビットコインマイニング拡大",
+      "link": "https://coinpost.jp/?p=723535",
+      "published": "Fri, 10 Jul 2026 09:45:04 +0900",
+      "isoDate": "2026-07-10T00:45:04Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットゴー、ビットコインウォレット向けの量子リスク管理機能を機関に提供へ",
       "link": "https://coinpost.jp/?p=723511",
       "published": "Fri, 10 Jul 2026 07:55:05 +0900",
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=723209",
       "published": "Thu, 09 Jul 2026 13:20:34 +0900",
       "isoDate": "2026-07-09T04:20:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米民主党議員、クラリティー法の開発者保護条項維持を上院幹部に要請",
-      "link": "https://coinpost.jp/?p=723129",
-      "published": "Thu, 09 Jul 2026 10:05:56 +0900",
-      "isoDate": "2026-07-09T01:05:56Z"
     }
   ]
 }
