@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T19:04:04Z",
-  "last_checked": "2026-07-10T19:04:04Z",
+  "updated": "2026-07-10T20:50:32Z",
+  "last_checked": "2026-07-10T20:50:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,83 +145,5 @@
       "isoDate": "2026-07-10T00:53:20Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "片山金融相、仮想通貨ETFの国内解禁に改めて意欲",
-      "link": "https://coinpost.jp/?p=723855",
-      "published": "Fri, 10 Jul 2026 19:01:21 +0900",
-      "isoDate": "2026-07-10T10:01:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "OKJ、カントンコイン（CC）取扱い開始予定 板取引でのCC取扱いは国内初",
-      "link": "https://coinpost.jp/?p=723834",
-      "published": "Fri, 10 Jul 2026 18:00:01 +0900",
-      "isoDate": "2026-07-10T09:00:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット・JPYCら4社、デジタルクレジット共同検討",
-      "link": "https://coinpost.jp/?p=723820",
-      "published": "Fri, 10 Jul 2026 17:03:02 +0900",
-      "isoDate": "2026-07-10T08:03:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア、約12.7万円超の仮想通貨取引に届け出義務",
-      "link": "https://coinpost.jp/?p=723788",
-      "published": "Fri, 10 Jul 2026 15:57:16 +0900",
-      "isoDate": "2026-07-10T06:57:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズの仮想通貨指数15.4％安　ETFも流出最大",
-      "link": "https://coinpost.jp/?p=723697",
-      "published": "Fri, 10 Jul 2026 14:25:41 +0900",
-      "isoDate": "2026-07-10T05:25:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セリグ米CFTC委員長、クラリティー法成立は「議会の急務」",
-      "link": "https://coinpost.jp/?p=723653",
-      "published": "Fri, 10 Jul 2026 13:45:08 +0900",
-      "isoDate": "2026-07-10T04:45:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ファントムおよびハイパーリキッド関連団体、DeFi規制で米CFTCに改善要望",
-      "link": "https://coinpost.jp/?p=723585",
-      "published": "Fri, 10 Jul 2026 12:00:40 +0900",
-      "isoDate": "2026-07-10T03:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、7月は季節的に強気傾向も反発は一時的か＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=723519",
-      "published": "Fri, 10 Jul 2026 09:50:04 +0900",
-      "isoDate": "2026-07-10T00:50:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "MARA、米テキサスに最大2GW拠点取得　ビットコインマイニング拡大",
-      "link": "https://coinpost.jp/?p=723535",
-      "published": "Fri, 10 Jul 2026 09:45:04 +0900",
-      "isoDate": "2026-07-10T00:45:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴー、ビットコインウォレット向けの量子リスク管理機能を機関に提供へ",
-      "link": "https://coinpost.jp/?p=723511",
-      "published": "Fri, 10 Jul 2026 07:55:05 +0900",
-      "isoDate": "2026-07-09T22:55:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア大手銀行アルファバンク、仮想通貨デポジタリーを独自設立へ",
-      "link": "https://coinpost.jp/?p=723501",
-      "published": "Fri, 10 Jul 2026 07:50:32 +0900",
-      "isoDate": "2026-07-09T22:50:32Z"
-    }
-  ]
+  "btc_items": []
 }
