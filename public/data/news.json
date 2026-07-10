@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T09:43:12Z",
-  "last_checked": "2026-07-10T09:43:12Z",
+  "updated": "2026-07-10T12:28:01Z",
+  "last_checked": "2026-07-10T12:28:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "先物は小動き、投資家は決算シーズンに注目――市場を動かす要因",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599039",
-      "published": "2026-07-10 08:41:08",
-      "isoDate": "2026-07-10T08:41:08Z"
+      "title": "Meta株が急騰している本当の理由は新AIモデルとは無関係",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599293",
+      "published": "2026-07-10 11:41:16",
+      "isoDate": "2026-07-10T11:41:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "選定以来50%超の上昇、このEコマース銘柄が新高値を更新し続ける",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1598985",
+      "published": "2026-07-10 07:36:14",
+      "isoDate": "2026-07-10T07:36:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "OpenAIとGoogleが米国防総省のブラックリスト入り中国企業にAIを提供",
       "link": "https://jp.investing.com/news/stock-market-news/article-1598829",
       "published": "2026-07-10 05:24:19",
@@ -111,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン発言でウォール街上昇、米株先物は小幅下落",
+      "title": "テック株の買い場探しとイランの外交的接触がウォール街を下支え",
       "link": "https://jp.investing.com/news/stock-market-news/article-1598701",
       "published": "2026-07-10 00:53:20",
       "isoDate": "2026-07-10T00:53:20Z"
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1598208",
       "published": "2026-07-09 14:13:52",
       "isoDate": "2026-07-09T14:13:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "メモリ月次売上が過去最高の746億ドルを記録、アナリストは価格急騰を予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597561",
-      "published": "2026-07-09 09:55:26",
-      "isoDate": "2026-07-09T09:55:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "片山金融相、仮想通貨ETFの国内解禁に改めて意欲",
+      "link": "https://coinpost.jp/?p=723855",
+      "published": "Fri, 10 Jul 2026 19:01:21 +0900",
+      "isoDate": "2026-07-10T10:01:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "OKJ、カントンコイン（CC）取扱い開始予定 板取引でのCC取扱いは国内初",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=723501",
       "published": "Fri, 10 Jul 2026 07:50:32 +0900",
       "isoDate": "2026-07-09T22:50:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPモルガン分析、「ビットコインの最大リスクはストラテジー売却ではない」",
-      "link": "https://coinpost.jp/?p=723502",
-      "published": "Fri, 10 Jul 2026 06:55:34 +0900",
-      "isoDate": "2026-07-09T21:55:34Z"
     }
   ]
 }
