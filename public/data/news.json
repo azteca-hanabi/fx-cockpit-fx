@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T22:09:15Z",
-  "last_checked": "2026-07-10T22:09:15Z",
+  "updated": "2026-07-10T23:31:10Z",
+  "last_checked": "2026-07-10T23:31:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,17 +104,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックス、ナスダック上場初日に21%高の見通し――AI需要の強さを試す",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599510",
-      "published": "2026-07-10 14:02:27",
-      "isoDate": "2026-07-10T14:02:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SKハイニックスADR、寄り付き$170で推移－公募価格$149",
       "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1599513",
       "published": "2026-07-10 13:52:05",
       "isoDate": "2026-07-10T13:52:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "CCC インテリジェント・ソリューションズとサークルが時間外取引で上昇、シロ・ファーマとフェルミ・アメリカは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599352",
+      "published": "2026-07-10 12:27:02",
+      "isoDate": "2026-07-10T12:27:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始",
+      "link": "https://coinpost.jp/?p=723918",
+      "published": "Sat, 11 Jul 2026 07:15:29 +0900",
+      "isoDate": "2026-07-10T22:15:29Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場エンペリー・デジタル、AIデータセンター資金調達のため1400BTC売却",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=723585",
       "published": "Fri, 10 Jul 2026 12:00:40 +0900",
       "isoDate": "2026-07-10T03:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、7月は季節的に強気傾向も反発は一時的か＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=723519",
-      "published": "Fri, 10 Jul 2026 09:50:04 +0900",
-      "isoDate": "2026-07-10T00:50:04Z"
     }
   ]
 }
