@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-10T05:39:41Z",
-  "last_checked": "2026-07-10T05:39:41Z",
+  "updated": "2026-07-10T09:43:12Z",
+  "last_checked": "2026-07-10T09:43:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "IEA、世界の石油需要がコロナ禍以来初めて減少へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1599077",
+      "published": "2026-07-10 09:13:04",
+      "isoDate": "2026-07-10T09:13:04Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス価格が下落、LNGタンカーがホルムズ海峡を通過",
+      "link": "https://jp.investing.com/news/commodities-news/article-1599038",
+      "published": "2026-07-10 08:42:22",
+      "isoDate": "2026-07-10T08:42:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、週間ベースで下落－米イラン緊張と利上げ懸念が重荷",
@@ -57,23 +71,37 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1597461",
       "published": "2026-07-09 08:55:24",
       "isoDate": "2026-07-09T08:55:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バーンスタインが予測する2026年下半期のニッケル価格見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1597460",
-      "published": "2026-07-09 08:54:18",
-      "isoDate": "2026-07-09T08:54:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バーンスタイン、供給逼迫とFRB政策を背景に銅の価格目標を改定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1597454",
-      "published": "2026-07-09 08:51:03",
-      "isoDate": "2026-07-09T08:51:03Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "先物は小動き、投資家は決算シーズンに注目――市場を動かす要因",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599039",
+      "published": "2026-07-10 08:41:08",
+      "isoDate": "2026-07-10T08:41:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ハイテク株高などを背景にリスク選好ムードが強まり一時69000円台回復【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1598973",
+      "published": "2026-07-10 08:00:19",
+      "isoDate": "2026-07-10T08:00:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経VI：大幅に低下、外部環境好転で警戒感後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1598958",
+      "published": "2026-07-10 07:45:19",
+      "isoDate": "2026-07-10T07:45:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAIとGoogleが米国防総省のブラックリスト入り中国企業にAIを提供",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1598829",
+      "published": "2026-07-10 05:24:19",
+      "isoDate": "2026-07-10T05:24:19Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、来週のインフレ指標や決算を見極め",
@@ -83,31 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（前引け）～日経平均は大幅続伸、ソフトバンクGが1銘柄で約535円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1598776",
-      "published": "2026-07-10 03:45:17",
-      "isoDate": "2026-07-10T03:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "買い優勢で上げ幅拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1598772",
-      "published": "2026-07-10 03:30:16",
-      "isoDate": "2026-07-10T03:30:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領のイラン発言を受けウォール街上昇、米株先物は横ばい",
+      "title": "トランプ大統領のイラン発言でウォール街上昇、米株先物は小幅下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1598701",
       "published": "2026-07-10 00:53:20",
       "isoDate": "2026-07-10T00:53:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "9日の米国市場ダイジェスト：米国株式市場は上昇、原油安や金利の低下を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1598630",
-      "published": "2026-07-09 22:30:06",
-      "isoDate": "2026-07-09T22:30:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1597422",
       "published": "2026-07-09 07:38:02",
       "isoDate": "2026-07-09T07:38:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は4日ぶり大幅反発、アドバンテストが1銘柄で約492円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1597224",
-      "published": "2026-07-09 04:00:17",
-      "isoDate": "2026-07-09T04:00:17Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "OKJ、カントンコイン（CC）取扱い開始予定 板取引でのCC取扱いは国内初",
+      "link": "https://coinpost.jp/?p=723834",
+      "published": "Fri, 10 Jul 2026 18:00:01 +0900",
+      "isoDate": "2026-07-10T09:00:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット・JPYCら4社、デジタルクレジット共同検討",
+      "link": "https://coinpost.jp/?p=723820",
+      "published": "Fri, 10 Jul 2026 17:03:02 +0900",
+      "isoDate": "2026-07-10T08:03:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア、約12.7万円超の仮想通貨取引に届け出義務",
+      "link": "https://coinpost.jp/?p=723788",
+      "published": "Fri, 10 Jul 2026 15:57:16 +0900",
+      "isoDate": "2026-07-10T06:57:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットワイズの仮想通貨指数15.4％安　ETFも流出最大",
@@ -201,20 +222,6 @@
       "link": "https://coinpost.jp/?p=723502",
       "published": "Fri, 10 Jul 2026 06:55:34 +0900",
       "isoDate": "2026-07-09T21:55:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "シンガポール国営ファンド『テマセク』、FTX破綻から4年　今も仮想通貨投資を回避",
-      "link": "https://coinpost.jp/?p=723498",
-      "published": "Fri, 10 Jul 2026 05:45:22 +0900",
-      "isoDate": "2026-07-09T20:45:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズ仮想通貨指数ETF、ハイパーリキッドとステラを採用　AVAXとDOT除外",
-      "link": "https://coinpost.jp/?p=723490",
-      "published": "Fri, 10 Jul 2026 05:00:47 +0900",
-      "isoDate": "2026-07-09T20:00:47Z"
     }
   ]
 }
