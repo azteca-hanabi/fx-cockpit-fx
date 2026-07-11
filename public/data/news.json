@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-11T12:30:08Z",
-  "last_checked": "2026-07-11T12:30:08Z",
+  "updated": "2026-07-11T14:05:36Z",
+  "last_checked": "2026-07-11T14:05:36Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Eni SpA CEOが警告、中東緊張が続けば2027年に原油100ドル超も",
+      "link": "https://jp.investing.com/news/commodities-news/article-1599897",
+      "published": "2026-07-11 13:25:52",
+      "isoDate": "2026-07-11T13:25:52Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イランとの紛争で供給リスク高まる中、中国が精製業者に高水準の燃料生産維持を指示",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1598743",
       "published": "2026-07-10 02:29:45",
       "isoDate": "2026-07-10T02:29:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トルコとイラク、原油パイプラインの1年間協定を締結へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598294",
-      "published": "2026-07-09 15:09:13",
-      "isoDate": "2026-07-09T15:09:13Z"
     }
   ],
   "usdjpy_items": [
