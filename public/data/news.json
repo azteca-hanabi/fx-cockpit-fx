@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T05:57:29Z",
-  "last_checked": "2026-07-11T05:57:29Z",
+  "updated": "2026-07-11T08:08:03Z",
+  "last_checked": "2026-07-11T08:08:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,20 +83,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "国内株式市場見通し： 内需銘柄を選別物色、期待より業績へ、直近上場銘柄間では物色対象交代か",
-      "link": "https://jp.investing.com/news/forex-news/article-1599867",
-      "published": "2026-07-11 05:00:04",
-      "isoDate": "2026-07-11T05:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブラックロック、地政学的リスクトップ10を発表",
-      "link": "https://jp.investing.com/news/economy-news/article-1599866",
-      "published": "2026-07-11 04:35:58",
-      "isoDate": "2026-07-11T04:35:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "トランプ政権、インテル復活を後押し――アップルやNvidiaとの提携を促進",
       "link": "https://jp.investing.com/news/company-news/article-1599861",
       "published": "2026-07-11 02:17:41",
@@ -122,6 +108,20 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1599678",
       "published": "2026-07-10 17:53:39",
       "isoDate": "2026-07-10T17:53:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日急騰している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1599647",
+      "published": "2026-07-10 16:41:34",
+      "isoDate": "2026-07-10T16:41:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "CCC インテリジェント・ソリューションズとサークルが時間外取引で上昇、シロ・ファーマとフェルミ・アメリカは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599352",
+      "published": "2026-07-10 12:27:02",
+      "isoDate": "2026-07-10T12:27:02Z"
     },
     {
       "source": "Investing.com 外為",
