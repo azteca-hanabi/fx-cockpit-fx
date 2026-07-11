@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T15:31:46Z",
-  "last_checked": "2026-07-11T15:31:46Z",
+  "updated": "2026-07-11T17:02:14Z",
+  "last_checked": "2026-07-11T17:02:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランとの紛争で供給リスク高まる中、中国が精製業者に高水準の燃料生産維持を指示",
-      "link": "https://jp.investing.com/news/commodities-news/article-1599892",
-      "published": "2026-07-11 12:07:18",
-      "isoDate": "2026-07-11T12:07:18Z"
+      "title": "円への弱気センチメントが4年ぶりの極値に、政策不安が重くのしかかる",
+      "link": "https://jp.investing.com/news/forex-news/article-1599904",
+      "published": "2026-07-11 15:50:32",
+      "isoDate": "2026-07-11T15:50:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、6万4000ドル超を維持――米仮想通貨政策の転換を注視",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1599886",
+      "published": "2026-07-11 09:31:36",
+      "isoDate": "2026-07-11T09:31:36Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1599647",
       "published": "2026-07-10 16:41:34",
       "isoDate": "2026-07-10T16:41:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CCC インテリジェント・ソリューションズとサークルが時間外取引で上昇、シロ・ファーマとフェルミ・アメリカは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599352",
-      "published": "2026-07-10 12:27:02",
-      "isoDate": "2026-07-10T12:27:02Z"
     },
     {
       "source": "Investing.com 外為",
