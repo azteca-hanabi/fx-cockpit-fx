@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T17:02:14Z",
-  "last_checked": "2026-07-11T17:02:14Z",
+  "updated": "2026-07-11T18:27:32Z",
+  "last_checked": "2026-07-11T18:27:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaへのAI需要拡大が投資家の注目テーマ、モルガン・スタンレーが指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599909",
+      "published": "2026-07-11 17:08:56",
+      "isoDate": "2026-07-11T17:08:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "円への弱気センチメントが4年ぶりの極値に、政策不安が重くのしかかる",
       "link": "https://jp.investing.com/news/forex-news/article-1599904",
       "published": "2026-07-11 15:50:32",
       "isoDate": "2026-07-11T15:50:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、6万4000ドル超を維持――米仮想通貨政策の転換を注視",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1599886",
-      "published": "2026-07-11 09:31:36",
-      "isoDate": "2026-07-11T09:31:36Z"
     },
     {
       "source": "Investing.com 外為",
