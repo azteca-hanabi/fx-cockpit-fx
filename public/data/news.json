@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-11T11:15:05Z",
-  "last_checked": "2026-07-11T11:15:05Z",
+  "updated": "2026-07-11T12:30:08Z",
+  "last_checked": "2026-07-11T12:30:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの紛争で供給リスク高まる中、中国が精製業者に高水準の燃料生産維持を指示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1599892",
+      "published": "2026-07-11 12:07:18",
+      "isoDate": "2026-07-11T12:07:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ベイカー・ヒューズ、北米週次リグカウントレポートの発表を延期",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598294",
       "published": "2026-07-09 15:09:13",
       "isoDate": "2026-07-09T15:09:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ARА拠点のジェット燃料在庫、輸出入減少で低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1598286",
-      "published": "2026-07-09 15:04:47",
-      "isoDate": "2026-07-09T15:04:47Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "イランとの紛争で供給リスク高まる中、中国が精製業者に高水準の燃料生産維持を指示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1599892",
+      "published": "2026-07-11 12:07:18",
+      "isoDate": "2026-07-11T12:07:18Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "国内株式市場見通し：AI関連株の過熱感拭えない中でTSMCの決算などに注目",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1598958",
       "published": "2026-07-10 07:45:19",
       "isoDate": "2026-07-10T07:45:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "選定以来50%超の上昇、このEコマース銘柄が新高値を更新し続ける",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1598985",
-      "published": "2026-07-10 07:36:14",
-      "isoDate": "2026-07-10T07:36:14Z"
     }
   ],
   "btc_items": [
