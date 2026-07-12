@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T21:56:48Z",
-  "last_checked": "2026-07-12T21:56:48Z",
+  "updated": "2026-07-12T22:58:01Z",
+  "last_checked": "2026-07-12T22:58:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AI関連株の売りを引き起こしている要因とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599970",
+      "published": "2026-07-12 21:58:52",
+      "isoDate": "2026-07-12T21:58:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "UBSが強気相場は高金利下でも持続可能と主張する理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1599967",
       "published": "2026-07-12 14:28:36",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1599909",
       "published": "2026-07-11 17:08:56",
       "isoDate": "2026-07-11T17:08:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円への弱気センチメントが4年ぶりの極値に、政策不安が重くのしかかる",
-      "link": "https://jp.investing.com/news/forex-news/article-1599904",
-      "published": "2026-07-11 15:50:32",
-      "isoDate": "2026-07-11T15:50:32Z"
     },
     {
       "source": "Investing.com 外為",
