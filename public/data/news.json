@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T14:05:26Z",
-  "last_checked": "2026-07-12T14:05:26Z",
+  "updated": "2026-07-12T15:34:36Z",
+  "last_checked": "2026-07-12T15:34:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UBSが強気相場は高金利下でも持続可能と主張する理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599967",
+      "published": "2026-07-12 14:28:36",
+      "isoDate": "2026-07-12T14:28:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidiaがより広範なAI需要を示唆、次世代ロードマップを維持",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599965",
+      "published": "2026-07-12 14:12:24",
+      "isoDate": "2026-07-12T14:12:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アナリストのAI関連主要動向5選：SpaceXに最高値目標、サムスン売りは過剰反応",
       "link": "https://jp.investing.com/news/stock-market-news/article-1599940",
       "published": "2026-07-12 09:00:00",
@@ -90,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "フォルクスワーゲン「未来計画」発表：これは正しい方向性か？",
-      "link": "https://jp.investing.com/news/company-news/article-1599933",
-      "published": "2026-07-12 06:50:41",
-      "isoDate": "2026-07-12T06:50:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "韓国株、記録的な割安水準がAI収益ブームの好機に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1599926",
       "published": "2026-07-12 03:25:49",
@@ -104,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、ホルムズ海峡は開通と表明―米イランが湾岸で新たな攻撃を応酬",
+      "title": "トランプ大統領、ホルムズ海峡は開放と表明――米・イランが湾岸で新たな攻撃を応酬",
       "link": "https://jp.investing.com/news/economy-news/article-1599917",
       "published": "2026-07-12 00:01:45",
       "isoDate": "2026-07-12T00:01:45Z"
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1599904",
       "published": "2026-07-11 15:50:32",
       "isoDate": "2026-07-11T15:50:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、米国の暗号資産政策に注目が集まる中、6万4,000ドル超を維持",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1599886",
-      "published": "2026-07-11 09:31:36",
-      "isoDate": "2026-07-11T09:31:36Z"
     },
     {
       "source": "Investing.com 外為",
