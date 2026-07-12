@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T12:03:25Z",
-  "last_checked": "2026-07-12T12:03:25Z",
+  "updated": "2026-07-12T14:05:26Z",
+  "last_checked": "2026-07-12T14:05:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,6 +90,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "フォルクスワーゲン「未来計画」発表：これは正しい方向性か？",
+      "link": "https://jp.investing.com/news/company-news/article-1599933",
+      "published": "2026-07-12 06:50:41",
+      "isoDate": "2026-07-12T06:50:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "韓国株、記録的な割安水準がAI収益ブームの好機に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1599926",
       "published": "2026-07-12 03:25:49",
@@ -97,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米軍がイランの軍事目標140カ所を攻撃、ホルムズ海峡が封鎖",
+      "title": "トランプ大統領、ホルムズ海峡は開通と表明―米イランが湾岸で新たな攻撃を応酬",
       "link": "https://jp.investing.com/news/economy-news/article-1599917",
       "published": "2026-07-12 00:01:45",
       "isoDate": "2026-07-12T00:01:45Z"
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/company-news/article-1599861",
       "published": "2026-07-11 02:17:41",
       "isoDate": "2026-07-11T02:17:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CCC インテリジェント・ソリューションズとサークルが時間外取引で上昇、シロ・ファーマとフェルミ・アメリカは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599352",
-      "published": "2026-07-10 12:27:02",
-      "isoDate": "2026-07-10T12:27:02Z"
     }
   ],
   "btc_items": [
