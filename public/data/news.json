@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11T22:56:39Z",
-  "last_checked": "2026-07-11T22:56:39Z",
+  "updated": "2026-07-12T00:02:19Z",
+  "last_checked": "2026-07-12T00:02:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ドイツ銀行、ドルの長期見通しに関する3つの重要ポイントを示す",
+      "link": "https://jp.investing.com/news/economy-news/article-1599913",
+      "published": "2026-07-11 22:46:39",
+      "isoDate": "2026-07-11T22:46:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaへのAI需要拡大が投資家の注目テーマ、モルガン・スタンレーが指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1599909",
       "published": "2026-07-11 17:08:56",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1599847",
       "published": "2026-07-10 23:43:16",
       "isoDate": "2026-07-10T23:43:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは149.60ドル高、対イラン和平協議の継続を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1599808",
-      "published": "2026-07-10 21:30:05",
-      "isoDate": "2026-07-10T21:30:05Z"
     },
     {
       "source": "Investing.com 外為",
