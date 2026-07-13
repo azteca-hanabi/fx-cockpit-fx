@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-13T20:18:41Z",
-  "last_checked": "2026-07-13T20:18:41Z",
+  "updated": "2026-07-13T21:29:20Z",
+  "last_checked": "2026-07-13T21:29:20Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、米国の天候懸念と中東緊張で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601140",
+      "published": "2026-07-13 20:04:44",
+      "isoDate": "2026-07-13T20:04:44Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1599996",
       "published": "2026-07-13 00:13:20",
       "isoDate": "2026-07-13T00:13:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Eni SpA CEOが警告、中東緊張が続けば2027年に原油100ドル超も",
-      "link": "https://jp.investing.com/news/commodities-news/article-1599897",
-      "published": "2026-07-11 13:25:52",
-      "isoDate": "2026-07-11T13:25:52Z"
     }
   ],
   "usdjpy_items": [
