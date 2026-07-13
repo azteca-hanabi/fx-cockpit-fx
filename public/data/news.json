@@ -1,17 +1,24 @@
 {
-  "updated": "2026-07-13T07:48:35Z",
-  "last_checked": "2026-07-13T07:48:35Z",
+  "updated": "2026-07-13T11:17:19Z",
+  "last_checked": "2026-07-13T11:17:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油高が再燃するインフレ懸念を呼び起こし、米インフレ指標発表を前に金価格が下落",
+      "title": "ホルムズ海峡閉鎖で欧州天然ガス価格が1カ月超ぶり高値に急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1600274",
+      "published": "2026-07-13 08:26:27",
+      "isoDate": "2026-07-13T08:26:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン衝突で安全資産需要が高まるも、金は安値から回復",
       "link": "https://jp.investing.com/news/commodities-news/article-1600013",
       "published": "2026-07-13 01:13:20",
       "isoDate": "2026-07-13T01:13:20Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランがホルムズ海峡の閉鎖を宣言、原油価格が5%急騰",
+      "title": "原油、ホルムズ海峡の供給懸念で一時5%急騰後も高値維持",
       "link": "https://jp.investing.com/news/commodities-news/article-1599996",
       "published": "2026-07-13 00:13:20",
       "isoDate": "2026-07-13T00:13:20Z"
@@ -57,29 +64,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599435",
       "published": "2026-07-10 13:20:47",
       "isoDate": "2026-07-10T13:20:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、ケープサイズ好調で1.2%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599415",
-      "published": "2026-07-10 13:06:15",
-      "isoDate": "2026-07-10T13:06:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "IEA、世界の石油需要がコロナ禍以来初めて減少へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1599077",
-      "published": "2026-07-10 09:13:04",
-      "isoDate": "2026-07-10T09:13:04Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：東京為替：ドル・円は小じっかり、ドル買い地合いで",
-      "link": "https://jp.investing.com/news/forex-news/article-1600209",
-      "published": "2026-07-13 07:15:15",
-      "isoDate": "2026-07-13T07:15:15Z"
+      "title": "エイジェナス株が時間外取引で上昇、マイクロンテクノロジーとウエスタンデジタルは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600428",
+      "published": "2026-07-13 10:29:26",
+      "isoDate": "2026-07-13T10:29:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "InvestingProが2026年最安値を提供——期間限定で60%オフ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600315",
+      "published": "2026-07-13 09:04:38",
+      "isoDate": "2026-07-13T09:04:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "原油急騰、半導体売り、決算発表が市場を動かす",
+      "link": "https://jp.investing.com/news/economy-news/article-1600301",
+      "published": "2026-07-13 08:54:13",
+      "isoDate": "2026-07-13T08:54:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックスの急落が世界の半導体株を押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600297",
+      "published": "2026-07-13 08:48:41",
+      "isoDate": "2026-07-13T08:48:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅反落、アドバンテストとキオクシアHDの2銘柄で約476円押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600262",
+      "published": "2026-07-13 08:15:16",
+      "isoDate": "2026-07-13T08:15:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,34 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1600142",
       "published": "2026-07-13 06:14:09",
       "isoDate": "2026-07-13T06:14:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は1435円安、今週は注目イベントが目白押し",
-      "link": "https://jp.investing.com/news/forex-news/article-1600120",
-      "published": "2026-07-13 06:00:16",
-      "isoDate": "2026-07-13T06:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はさらに失速、日本株安で",
-      "link": "https://jp.investing.com/news/forex-news/article-1600100",
-      "published": "2026-07-13 05:15:16",
-      "isoDate": "2026-07-13T05:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅反落、キオクシアHDとアドバンテストの2銘柄で約272円押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600069",
-      "published": "2026-07-13 03:45:13",
-      "isoDate": "2026-07-13T03:45:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～半導体株安が波及",
-      "link": "https://jp.investing.com/news/forex-news/article-1600067",
-      "published": "2026-07-13 03:30:15",
-      "isoDate": "2026-07-13T03:30:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -173,13 +166,6 @@
       "link": "https://coinpost.jp/?p=724079",
       "published": "Mon, 13 Jul 2026 11:20:31 +0900",
       "isoDate": "2026-07-13T02:20:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法の統合草案が今週公開へ、上院採決は来週か",
-      "link": "https://coinpost.jp/?p=724061",
-      "published": "Mon, 13 Jul 2026 08:15:58 +0900",
-      "isoDate": "2026-07-12T23:15:58Z"
     }
   ]
 }
