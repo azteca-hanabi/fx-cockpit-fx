@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-13T16:37:07Z",
-  "last_checked": "2026-07-13T16:37:07Z",
+  "updated": "2026-07-13T18:45:47Z",
+  "last_checked": "2026-07-13T18:45:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601101",
+      "published": "2026-07-13 17:51:22",
+      "isoDate": "2026-07-13T17:51:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ロシア穀物輸出の混乱懸念でEU小麦価格が下落",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1599897",
       "published": "2026-07-11 13:25:52",
       "isoDate": "2026-07-11T13:25:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランとの紛争で供給リスク高まる中、中国が精製業者に高水準の燃料生産維持を指示",
-      "link": "https://jp.investing.com/news/commodities-news/article-1599892",
-      "published": "2026-07-11 12:07:18",
-      "isoDate": "2026-07-11T12:07:18Z"
     }
   ],
   "usdjpy_items": [
@@ -73,13 +73,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600973",
       "published": "2026-07-13 14:16:48",
       "isoDate": "2026-07-13T14:16:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルの株価目標引き上げ、シティが市場シェア拡大を予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600817",
-      "published": "2026-07-13 12:46:56",
-      "isoDate": "2026-07-13T12:46:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1600007",
       "published": "2026-07-13 01:00:06",
       "isoDate": "2026-07-13T01:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は続伸、対イラン和平協議の継続を好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1599974",
+      "published": "2026-07-12 22:30:03",
+      "isoDate": "2026-07-12T22:30:03Z"
     }
   ],
   "btc_items": [
