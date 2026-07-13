@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-13T11:17:19Z",
-  "last_checked": "2026-07-13T11:17:19Z",
+  "updated": "2026-07-13T13:40:18Z",
+  "last_checked": "2026-07-13T13:40:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドル安と在庫減少を背景に銅価格が安定推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1600861",
+      "published": "2026-07-13 13:07:02",
+      "isoDate": "2026-07-13T13:07:02Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡のタンカー通航数、2ヶ月ぶりの低水準に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1600846",
+      "published": "2026-07-13 13:04:38",
+      "isoDate": "2026-07-13T13:04:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米天然ガス発電コスト、データセンター需要で17年ぶり高水準―ラザード",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1600559",
+      "published": "2026-07-13 11:24:42",
+      "isoDate": "2026-07-13T11:24:42Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡閉鎖で欧州天然ガス価格が1カ月超ぶり高値に急騰",
@@ -11,14 +32,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国・イラン衝突で安全資産需要が高まるも、金は安値から回復",
+      "title": "米国・イラン衝突で原油高、金価格は下落——FRBタカ派観測も重荷",
       "link": "https://jp.investing.com/news/commodities-news/article-1600013",
       "published": "2026-07-13 01:13:20",
       "isoDate": "2026-07-13T01:13:20Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油、ホルムズ海峡の供給懸念で一時5%急騰後も高値維持",
+      "title": "米・イラン攻撃継続でホルムズ海峡供給懸念が持続、原油は早期5%急騰から伸び縮小",
       "link": "https://jp.investing.com/news/commodities-news/article-1599996",
       "published": "2026-07-13 00:13:20",
       "isoDate": "2026-07-13T00:13:20Z"
@@ -43,30 +64,37 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599669",
       "published": "2026-07-10 17:25:22",
       "isoDate": "2026-07-10T17:25:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア、攻撃受けドン・アゾフ水路の船舶通行を一時停止",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599649",
-      "published": "2026-07-10 16:43:35",
-      "isoDate": "2026-07-10T16:43:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、海運混乱懸念で4%上昇し6週間ぶり高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599627",
-      "published": "2026-07-10 15:53:50",
-      "isoDate": "2026-07-10T15:53:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CBOTの小麦先物が6週間ぶりの高値、USDA作物報告を前に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1599435",
-      "published": "2026-07-10 13:20:47",
-      "isoDate": "2026-07-10T13:20:47Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アップルの株価目標引き上げ、シティが市場シェア拡大を予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600817",
+      "published": "2026-07-13 12:46:56",
+      "isoDate": "2026-07-13T12:46:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "XOVR ETFがKalshi予測市場取引所に3,000万ドルを投資",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1600813",
+      "published": "2026-07-13 12:45:07",
+      "isoDate": "2026-07-13T12:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル、アイルランドのキャンパスに50億ユーロの投資を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1600704",
+      "published": "2026-07-13 12:15:05",
+      "isoDate": "2026-07-13T12:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ダウ、ナスダック、S&P500：インフレ指標とQ2決算に市場が身構える",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1600611",
+      "published": "2026-07-13 11:05:30",
+      "isoDate": "2026-07-13T11:05:30Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "エイジェナス株が時間外取引で上昇、マイクロンテクノロジーとウエスタンデジタルは下落",
@@ -76,10 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "InvestingProが2026年最安値を提供——期間限定で60%オフ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600315",
-      "published": "2026-07-13 09:04:38",
-      "isoDate": "2026-07-13T09:04:38Z"
+      "title": "日経平均テクニカル： 3日ぶり反落、25日線乖離率に拡大余地",
+      "link": "https://jp.investing.com/news/forex-news/article-1600327",
+      "published": "2026-07-13 09:30:13",
+      "isoDate": "2026-07-13T09:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,20 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反落、アドバンテストとキオクシアHDの2銘柄で約476円押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600262",
-      "published": "2026-07-13 08:15:16",
-      "isoDate": "2026-07-13T08:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾セミコンダクター・マニュファクチャリングのQ2売上高、AI需要で36%急増",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600142",
-      "published": "2026-07-13 06:14:09",
-      "isoDate": "2026-07-13T06:14:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシア株が本日急落した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600062",
       "published": "2026-07-13 03:15:28",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIテック株の売りが深まる中、KOSPIがサーキットブレーカーを発動",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600044",
-      "published": "2026-07-13 02:44:27",
-      "isoDate": "2026-07-13T02:44:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は147円安でスタート、キオクシアＨＤや太陽誘電などが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1600007",
       "published": "2026-07-13 01:00:06",
       "isoDate": "2026-07-13T01:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は続伸、対イラン和平協議の継続を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599974",
-      "published": "2026-07-12 22:30:03",
-      "isoDate": "2026-07-12T22:30:03Z"
     }
   ],
   "btc_items": [
