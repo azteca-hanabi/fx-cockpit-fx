@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T22:31:36Z",
-  "last_checked": "2026-07-13T22:31:36Z",
+  "updated": "2026-07-13T23:56:52Z",
+  "last_checked": "2026-07-13T23:56:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、原油高やAI懸念が再燃",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601322",
+      "published": "2026-07-13 23:15:06",
+      "isoDate": "2026-07-13T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：米利上げ観測強まる、ウォラーFRB理事はタカ派に転じる、CPIやウォーシュ議長の証言に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601317",
+      "published": "2026-07-13 23:00:06",
+      "isoDate": "2026-07-13T23:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：トランプ米大統領が対イラン再封鎖を宣言",
       "link": "https://jp.investing.com/news/forex-news/article-1601284",
       "published": "2026-07-13 21:30:04",
@@ -111,20 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "原油急騰、半導体売り、決算発表が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1600301",
-      "published": "2026-07-13 08:54:13",
-      "isoDate": "2026-07-13T08:54:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックスの急落が世界の半導体株を押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600297",
-      "published": "2026-07-13 08:48:41",
-      "isoDate": "2026-07-13T08:48:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシア株が本日急落した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600062",
       "published": "2026-07-13 03:15:28",
@@ -141,6 +141,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "アジアは仮想通貨大国になれるのか？政策・信頼・流動性の三本柱を問う｜WebX2026",
+      "link": "https://coinpost.jp/?p=724306",
+      "published": "Tue, 14 Jul 2026 08:00:51 +0900",
+      "isoDate": "2026-07-13T23:00:51Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "日本の暗号資産ETFは米国の何を再現し、何を超えるか｜WebX2026",
       "link": "https://coinpost.jp/?p=724226",
       "published": "Mon, 13 Jul 2026 14:50:08 +0900",
@@ -152,13 +159,6 @@
       "link": "https://coinpost.jp/?p=724144",
       "published": "Mon, 13 Jul 2026 12:32:26 +0900",
       "isoDate": "2026-07-13T03:32:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインとイーサリアムの現物ETF、8週間ぶりに資金フローがプラス転換",
-      "link": "https://coinpost.jp/?p=724172",
-      "published": "Mon, 13 Jul 2026 12:15:23 +0900",
-      "isoDate": "2026-07-13T03:15:23Z"
     }
   ]
 }
