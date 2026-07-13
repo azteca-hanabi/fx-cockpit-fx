@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T21:29:20Z",
-  "last_checked": "2026-07-13T21:29:20Z",
+  "updated": "2026-07-13T22:31:36Z",
+  "last_checked": "2026-07-13T22:31:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：トランプ米大統領が対イラン再封鎖を宣言",
+      "link": "https://jp.investing.com/news/forex-news/article-1601284",
+      "published": "2026-07-13 21:30:04",
+      "isoDate": "2026-07-13T21:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは138.37ドル安、原油高やAI懸念が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1601271",
+      "published": "2026-07-13 21:15:05",
+      "isoDate": "2026-07-13T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "スペースX株が本日急落した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600973",
       "published": "2026-07-13 14:16:48",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIテック株の売りが深まる中、KOSPIがサーキットブレーカーを発動",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600044",
-      "published": "2026-07-13 02:44:27",
-      "isoDate": "2026-07-13T02:44:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は147円安でスタート、キオクシアＨＤや太陽誘電などが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1600007",
       "published": "2026-07-13 01:00:06",
       "isoDate": "2026-07-13T01:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は続伸、対イラン和平協議の継続を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1599974",
-      "published": "2026-07-12 22:30:03",
-      "isoDate": "2026-07-12T22:30:03Z"
     }
   ],
   "btc_items": [
@@ -159,13 +159,6 @@
       "link": "https://coinpost.jp/?p=724172",
       "published": "Mon, 13 Jul 2026 12:15:23 +0900",
       "isoDate": "2026-07-13T03:15:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーのセイラー会長、ビットコイン取得状況のチャート投稿　次の一手は？",
-      "link": "https://coinpost.jp/?p=724079",
-      "published": "Mon, 13 Jul 2026 11:20:31 +0900",
-      "isoDate": "2026-07-13T02:20:31Z"
     }
   ]
 }
