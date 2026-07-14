@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-13T23:56:52Z",
-  "last_checked": "2026-07-13T23:56:52Z",
+  "updated": "2026-07-14T03:20:02Z",
+  "last_checked": "2026-07-14T03:20:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、4,000ドル割れ続く――イラン情勢と利上げ懸念、米CPIに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1601380",
+      "published": "2026-07-14 01:58:34",
+      "isoDate": "2026-07-14T01:58:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイランへの海上封鎖を再開、原油価格が続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1601365",
+      "published": "2026-07-14 01:09:00",
+      "isoDate": "2026-07-14T01:09:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、米国の天候懸念と中東緊張で上昇",
@@ -50,43 +64,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1600274",
       "published": "2026-07-13 08:26:27",
       "isoDate": "2026-07-13T08:26:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が約3%急落、中東情勢再燃で高金利長期化懸念が強まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1600013",
-      "published": "2026-07-13 01:13:20",
-      "isoDate": "2026-07-13T01:13:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米・イラン攻撃継続でホルムズ海峡供給懸念が持続、原油は早期5%急騰から伸び縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-1599996",
-      "published": "2026-07-13 00:13:20",
-      "isoDate": "2026-07-13T00:13:20Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、原油高やAI懸念が再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601322",
-      "published": "2026-07-13 23:15:06",
-      "isoDate": "2026-07-13T23:15:06Z"
+      "title": "金価格、4,000ドル割れ続く――イラン情勢と利上げ懸念、米CPIに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1601380",
+      "published": "2026-07-14 01:58:34",
+      "isoDate": "2026-07-14T01:58:34Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NYの視点：米利上げ観測強まる、ウォラーFRB理事はタカ派に転じる、CPIやウォーシュ議長の証言に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601317",
-      "published": "2026-07-13 23:00:06",
-      "isoDate": "2026-07-13T23:00:06Z"
+      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比1875円安の67375円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601360",
+      "published": "2026-07-14 01:00:09",
+      "isoDate": "2026-07-14T01:00:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：トランプ米大統領が対イラン再封鎖を宣言",
-      "link": "https://jp.investing.com/news/forex-news/article-1601284",
-      "published": "2026-07-13 21:30:04",
-      "isoDate": "2026-07-13T21:30:04Z"
+      "title": "13日のNY市場は反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601324",
+      "published": "2026-07-13 23:15:07",
+      "isoDate": "2026-07-13T23:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -141,24 +141,31 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米ニューハンプシャー州知事「ブロックチェーン基本法」に署名、仮想通貨の権利を保護",
+      "link": "https://coinpost.jp/?p=724710",
+      "published": "Tue, 14 Jul 2026 11:35:34 +0900",
+      "isoDate": "2026-07-14T02:35:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "中国の幹部検察官ら、匿名仮想通貨やミキサーの利用をマネロンの推定根拠にすべきと提案",
+      "link": "https://coinpost.jp/?p=724661",
+      "published": "Tue, 14 Jul 2026 11:00:07 +0900",
+      "isoDate": "2026-07-14T02:00:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、クラリティー法の可決を上院に要請",
+      "link": "https://coinpost.jp/?p=724611",
+      "published": "Tue, 14 Jul 2026 09:20:34 +0900",
+      "isoDate": "2026-07-14T00:20:34Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "アジアは仮想通貨大国になれるのか？政策・信頼・流動性の三本柱を問う｜WebX2026",
       "link": "https://coinpost.jp/?p=724306",
       "published": "Tue, 14 Jul 2026 08:00:51 +0900",
       "isoDate": "2026-07-13T23:00:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "日本の暗号資産ETFは米国の何を再現し、何を超えるか｜WebX2026",
-      "link": "https://coinpost.jp/?p=724226",
-      "published": "Mon, 13 Jul 2026 14:50:08 +0900",
-      "isoDate": "2026-07-13T05:50:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「イーサリアム2.0時代の到来」トム・リーが描くイーサリアムの回復シナリオ｜WebX2026",
-      "link": "https://coinpost.jp/?p=724144",
-      "published": "Mon, 13 Jul 2026 12:32:26 +0900",
-      "isoDate": "2026-07-13T03:32:26Z"
     }
   ]
 }
