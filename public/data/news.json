@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T15:37:50Z",
-  "last_checked": "2026-07-14T15:37:50Z",
+  "updated": "2026-07-14T17:18:45Z",
+  "last_checked": "2026-07-14T17:18:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル戻り鈍い、原油価格が高値から反落、ウォーシュFRB議長はCPI鈍化で「任務完了」ではないと言及",
+      "link": "https://jp.investing.com/news/forex-news/article-1602597",
+      "published": "2026-07-14 16:15:05",
+      "isoDate": "2026-07-14T16:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "このチップメーカーは「AIの中核的勝者であり、NVDAに次ぐ2位」：MS",
       "link": "https://jp.investing.com/news/stock-market-news/article-1602391",
       "published": "2026-07-14 13:18:20",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
       "published": "2026-07-14 03:59:21",
       "isoDate": "2026-07-14T03:59:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比1875円安の67375円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601360",
-      "published": "2026-07-14 01:00:09",
-      "isoDate": "2026-07-14T01:00:09Z"
     },
     {
       "source": "Investing.com 外為",
