@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-14T03:20:02Z",
-  "last_checked": "2026-07-14T03:20:02Z",
+  "updated": "2026-07-14T05:52:48Z",
+  "last_checked": "2026-07-14T05:52:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、4,000ドル割れ続く――イラン情勢と利上げ懸念、米CPIに注目",
+      "title": "金価格、2週間ぶり安値から反発――米CPIとウォーシュ証言を待つ",
       "link": "https://jp.investing.com/news/commodities-news/article-1601380",
       "published": "2026-07-14 01:58:34",
       "isoDate": "2026-07-14T01:58:34Z"
@@ -69,10 +69,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "金価格、4,000ドル割れ続く――イラン情勢と利上げ懸念、米CPIに注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1601380",
-      "published": "2026-07-14 01:58:34",
-      "isoDate": "2026-07-14T01:58:34Z"
+      "title": "米国株見通し：下げ渋りか、物価や決算にらみ買戻しも",
+      "link": "https://jp.investing.com/news/forex-news/article-1601456",
+      "published": "2026-07-14 04:45:18",
+      "isoDate": "2026-07-14T04:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia、中国向けチップ規制強化でアジアの購入許可顧客を半減以下に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
+      "published": "2026-07-14 03:59:21",
+      "isoDate": "2026-07-14T03:59:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体関連中心に売り優勢の展開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601424",
+      "published": "2026-07-14 03:30:15",
+      "isoDate": "2026-07-14T03:30:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1601360",
       "published": "2026-07-14 01:00:09",
       "isoDate": "2026-07-14T01:00:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "13日のNY市場は反落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601324",
-      "published": "2026-07-13 23:15:07",
-      "isoDate": "2026-07-13T23:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エイジェナス株が時間外取引で上昇、マイクロンテクノロジーとウエスタンデジタルは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1600428",
-      "published": "2026-07-13 10:29:26",
-      "isoDate": "2026-07-13T10:29:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 3日ぶり反落、25日線乖離率に拡大余地",
       "link": "https://jp.investing.com/news/forex-news/article-1600327",
       "published": "2026-07-13 09:30:13",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "暗号資産ETF解禁へ、金商法改正の意義と課題｜WebX2026",
+      "link": "https://coinpost.jp/?p=724737",
+      "published": "Tue, 14 Jul 2026 13:12:39 +0900",
+      "isoDate": "2026-07-14T04:12:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "米ニューハンプシャー州知事「ブロックチェーン基本法」に署名、仮想通貨の権利を保護",
