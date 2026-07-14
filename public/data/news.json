@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-14T17:18:45Z",
-  "last_checked": "2026-07-14T17:18:45Z",
+  "updated": "2026-07-14T18:40:16Z",
+  "last_checked": "2026-07-14T18:40:16Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "EUの小麦価格、ロシアの輸出リスクを市場が評価し上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602645",
+      "published": "2026-07-14 17:39:14",
+      "isoDate": "2026-07-14T17:39:14Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、火曜日に1カ月超ぶりの高値を記録",
@@ -25,7 +32,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米インフレ鈍化でFRB利下げ期待高まり、金価格が2.5%急騰",
+      "title": "米CPIが予想下回り、金価格が約2%急騰―ウォーシュ議長は二重責務を支持",
       "link": "https://jp.investing.com/news/commodities-news/article-1601380",
       "published": "2026-07-14 01:58:34",
       "isoDate": "2026-07-14T01:58:34Z"
@@ -64,23 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1600861",
       "published": "2026-07-13 13:07:02",
       "isoDate": "2026-07-13T13:07:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡のタンカー通航数、2ヶ月ぶりの低水準に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1600846",
-      "published": "2026-07-13 13:04:38",
-      "isoDate": "2026-07-13T13:04:38Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル戻り鈍い、原油価格が高値から反落、ウォーシュFRB議長はCPI鈍化で「任務完了」ではないと言及",
-      "link": "https://jp.investing.com/news/forex-news/article-1602597",
-      "published": "2026-07-14 16:15:05",
-      "isoDate": "2026-07-14T16:15:05Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "このチップメーカーは「AIの中核的勝者であり、NVDAに次ぐ2位」：MS",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
       "published": "2026-07-14 03:59:21",
       "isoDate": "2026-07-14T03:59:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比1875円安の67375円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601360",
+      "published": "2026-07-14 01:00:09",
+      "isoDate": "2026-07-14T01:00:09Z"
     },
     {
       "source": "Investing.com 外為",
