@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T12:18:58Z",
-  "last_checked": "2026-07-15T12:18:58Z",
+  "updated": "2026-07-15T14:20:31Z",
+  "last_checked": "2026-07-15T14:20:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "中東情勢緊迫化でLNG供給懸念、欧州天然ガスが3カ月ぶり高値",
+      "title": "中東情勢の緊迫化でLNG供給懸念、欧州ガス価格が3カ月ぶり高値",
       "link": "https://jp.investing.com/news/commodities-news/article-1603656",
       "published": "2026-07-15 11:36:43",
       "isoDate": "2026-07-15T11:36:43Z"
@@ -69,6 +69,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ファン氏、Vera Rubinは生産中と断言し遅延報道を否定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604005",
+      "published": "2026-07-15 13:34:56",
+      "isoDate": "2026-07-15T13:34:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックス対マイクロンテクノロジー：AIメモリーサイクルの勝者はどちらか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604002",
+      "published": "2026-07-15 13:29:59",
+      "isoDate": "2026-07-15T13:29:59Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スリーエム・カンパニーとマイクロソフト、データセンター向け光技術とAIツールで提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1603919",
+      "published": "2026-07-15 13:02:08",
+      "isoDate": "2026-07-15T13:02:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バフェット氏、アルファベット投資は自身が主導と明言――アップルも称賛",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1603693",
+      "published": "2026-07-15 11:54:49",
+      "isoDate": "2026-07-15T11:54:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AlibabaのQwen搭載AIシステムが中国で承認され、株価が急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1603471",
       "published": "2026-07-15 10:07:18",
@@ -108,34 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1603015",
       "published": "2026-07-15 05:00:18",
       "isoDate": "2026-07-15T05:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い先行も上げ幅を縮小する展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1602991",
-      "published": "2026-07-15 03:45:16",
-      "isoDate": "2026-07-15T03:45:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "このチップメーカーは「AIの中核的勝者であり、NVDAに次ぐ2位」：MS",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1602391",
-      "published": "2026-07-14 13:18:20",
-      "isoDate": "2026-07-14T13:18:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "タワー半導体とCleanSparkが寄り前に急騰、インターナショナル・ビジネス・マシーンズとJPモルガンは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1602206",
-      "published": "2026-07-14 12:16:13",
-      "isoDate": "2026-07-14T12:16:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：反発、下降中の転換線が調整継続示唆",
-      "link": "https://jp.investing.com/news/forex-news/article-1601727",
-      "published": "2026-07-14 09:30:12",
-      "isoDate": "2026-07-14T09:30:12Z"
     }
   ],
   "btc_items": [
@@ -173,13 +173,6 @@
       "link": "https://coinpost.jp/?p=724933",
       "published": "Wed, 15 Jul 2026 09:19:47 +0900",
       "isoDate": "2026-07-15T00:19:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、ハイパーリキッド関係者と規制巡り会合",
-      "link": "https://coinpost.jp/?p=724924",
-      "published": "Wed, 15 Jul 2026 08:53:33 +0900",
-      "isoDate": "2026-07-14T23:53:33Z"
     }
   ]
 }
