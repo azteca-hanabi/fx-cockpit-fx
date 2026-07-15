@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14T23:00:17Z",
-  "last_checked": "2026-07-14T23:00:17Z",
+  "updated": "2026-07-15T00:00:56Z",
+  "last_checked": "2026-07-15T00:00:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：原油価格上昇に連れ、ドル買い戻しが強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1602834",
-      "published": "2026-07-14 21:30:05",
-      "isoDate": "2026-07-14T21:30:05Z"
+      "title": "米国株式市場は反発、利上げ警戒感が後退",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1602867",
+      "published": "2026-07-14 23:15:07",
+      "isoDate": "2026-07-14T23:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY金：反発で4,055.77ドル、CPI発表・FRB議長証言控え安値からの買い戻し優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1602859",
+      "published": "2026-07-14 23:00:06",
+      "isoDate": "2026-07-14T23:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "14日の米国市場ダイジェスト：米国株式市場は反発、利上げ警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1602855",
+      "published": "2026-07-14 22:45:07",
+      "isoDate": "2026-07-14T22:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは9.63ドル高、利上げ警戒感が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1602808",
+      "published": "2026-07-14 21:00:05",
+      "isoDate": "2026-07-14T21:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,30 +143,16 @@
       "link": "https://jp.investing.com/news/forex-news/article-1601467",
       "published": "2026-07-14 05:15:18",
       "isoDate": "2026-07-14T05:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia、中国向けチップ規制強化でアジアの購入許可顧客を半減以下に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
-      "published": "2026-07-14 03:59:21",
-      "isoDate": "2026-07-14T03:59:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比1875円安の67375円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601360",
-      "published": "2026-07-14 01:00:09",
-      "isoDate": "2026-07-14T01:00:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX株が本日急落した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600973",
-      "published": "2026-07-13 14:16:48",
-      "isoDate": "2026-07-13T14:16:48Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC、ハイパーリキッド関係者と規制巡り会合",
+      "link": "https://coinpost.jp/?p=724924",
+      "published": "Wed, 15 Jul 2026 08:53:33 +0900",
+      "isoDate": "2026-07-14T23:53:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "米大手取引所コインベース、中国本土向け登録要件緩和",
