@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T14:20:31Z",
-  "last_checked": "2026-07-15T14:20:31Z",
+  "updated": "2026-07-15T16:03:25Z",
+  "last_checked": "2026-07-15T16:03:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604137",
+      "published": "2026-07-15 14:24:08",
+      "isoDate": "2026-07-15T14:24:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サンディスクの株価が本日急落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604110",
+      "published": "2026-07-15 14:17:25",
+      "isoDate": "2026-07-15T14:17:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ファン氏、Vera Rubinは生産中と断言し遅延報道を否定",
       "link": "https://jp.investing.com/news/stock-market-news/article-1604005",
       "published": "2026-07-15 13:34:56",
@@ -83,24 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "スリーエム・カンパニーとマイクロソフト、データセンター向け光技術とAIツールで提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1603919",
-      "published": "2026-07-15 13:02:08",
-      "isoDate": "2026-07-15T13:02:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "バフェット氏、アルファベット投資は自身が主導と明言――アップルも称賛",
       "link": "https://jp.investing.com/news/stock-market-news/article-1603693",
       "published": "2026-07-15 11:54:49",
       "isoDate": "2026-07-15T11:54:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AlibabaのQwen搭載AIシステムが中国で承認され、株価が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1603471",
-      "published": "2026-07-15 10:07:18",
-      "isoDate": "2026-07-15T10:07:18Z"
     },
     {
       "source": "Investing.com 外為",
