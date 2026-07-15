@@ -1,10 +1,17 @@
 {
-  "updated": "2026-07-15T10:54:47Z",
-  "last_checked": "2026-07-15T10:54:47Z",
+  "updated": "2026-07-15T12:18:58Z",
+  "last_checked": "2026-07-15T12:18:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイラン追加攻撃を警告、原油価格が3日続伸",
+      "title": "中東情勢緊迫化でLNG供給懸念、欧州天然ガスが3カ月ぶり高値",
+      "link": "https://jp.investing.com/news/commodities-news/article-1603656",
+      "published": "2026-07-15 11:36:43",
+      "isoDate": "2026-07-15T11:36:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン追加攻撃を警告、原油価格3日連続上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1602914",
       "published": "2026-07-15 01:09:13",
       "isoDate": "2026-07-15T01:09:13Z"
@@ -57,20 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1601365",
       "published": "2026-07-14 01:09:00",
       "isoDate": "2026-07-14T01:09:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物、米国の天候懸念と中東緊張で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601140",
-      "published": "2026-07-13 20:04:44",
-      "isoDate": "2026-07-13T20:04:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601101",
-      "published": "2026-07-13 17:51:22",
-      "isoDate": "2026-07-13T17:51:22Z"
     }
   ],
   "usdjpy_items": [
@@ -80,13 +73,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1603471",
       "published": "2026-07-15 10:07:18",
       "isoDate": "2026-07-15T10:07:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インターナショナル・ビジネス・マシーンズ、新型Powerサーバーおよび AI運用ソフトウェアを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1603442",
-      "published": "2026-07-15 10:02:05",
-      "isoDate": "2026-07-15T10:02:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1602391",
       "published": "2026-07-14 13:18:20",
       "isoDate": "2026-07-14T13:18:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "タワー半導体とCleanSparkが寄り前に急騰、インターナショナル・ビジネス・マシーンズとJPモルガンは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1602206",
+      "published": "2026-07-14 12:16:13",
+      "isoDate": "2026-07-14T12:16:13Z"
     },
     {
       "source": "Investing.com 外為",
