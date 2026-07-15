@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-15T08:55:18Z",
-  "last_checked": "2026-07-15T08:55:18Z",
+  "updated": "2026-07-15T10:54:47Z",
+  "last_checked": "2026-07-15T10:54:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランへの追加攻撃を警告、原油3日続伸",
+      "title": "トランプ大統領がイラン追加攻撃を警告、原油価格が3日続伸",
       "link": "https://jp.investing.com/news/commodities-news/article-1602914",
       "published": "2026-07-15 01:09:13",
       "isoDate": "2026-07-15T01:09:13Z"
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株の上昇を映して半導体・AI関連株中心に買われ68000円台回復【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1603222",
-      "published": "2026-07-15 08:15:14",
-      "isoDate": "2026-07-15T08:15:14Z"
+      "title": "AlibabaのQwen搭載AIシステムが中国で承認され、株価が急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1603471",
+      "published": "2026-07-15 10:07:18",
+      "isoDate": "2026-07-15T10:07:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インターナショナル・ビジネス・マシーンズ、新型Powerサーバーおよび AI運用ソフトウェアを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1603442",
+      "published": "2026-07-15 10:02:05",
+      "isoDate": "2026-07-15T10:02:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ノキアとNvidiaが提携し、商用AI-RANプラットフォームを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1603431",
+      "published": "2026-07-15 09:56:06",
+      "isoDate": "2026-07-15T09:56:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "+62%、+46%、これらのAI選定エネルギー株にはさらなる上昇余地も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1603243",
+      "published": "2026-07-15 08:30:32",
+      "isoDate": "2026-07-15T08:30:32Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,10 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は続伸、買い優勢で終日プラス圏で推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1603150",
-      "published": "2026-07-15 07:15:17",
-      "isoDate": "2026-07-15T07:15:17Z"
+      "title": "日経VI：低下、株価堅調で警戒感が緩和",
+      "link": "https://jp.investing.com/news/forex-news/article-1603181",
+      "published": "2026-07-15 07:45:16",
+      "isoDate": "2026-07-15T07:45:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "個別銘柄戦略: 三光合成や明光ネットに注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1602896",
-      "published": "2026-07-15 00:15:09",
-      "isoDate": "2026-07-15T00:15:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "このチップメーカーは「AIの中核的勝者であり、NVDAに次ぐ2位」：MS",
       "link": "https://jp.investing.com/news/stock-market-news/article-1602391",
       "published": "2026-07-14 13:18:20",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "タワー半導体とCleanSparkが寄り前に急騰、インターナショナル・ビジネス・マシーンズとJPモルガンは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1602206",
-      "published": "2026-07-14 12:16:13",
-      "isoDate": "2026-07-14T12:16:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル：反発、下降中の転換線が調整継続示唆",
       "link": "https://jp.investing.com/news/forex-news/article-1601727",
       "published": "2026-07-14 09:30:12",
       "isoDate": "2026-07-14T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIは見抜いていた：+48%、+58%、+78%、決算を圧倒したこれらの銘柄は上昇を続ける",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601682",
-      "published": "2026-07-14 08:02:26",
-      "isoDate": "2026-07-14T08:02:26Z"
     }
   ],
   "btc_items": [
