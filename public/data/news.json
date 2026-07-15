@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15T03:44:55Z",
-  "last_checked": "2026-07-15T03:44:55Z",
+  "updated": "2026-07-15T06:19:06Z",
+  "last_checked": "2026-07-15T06:19:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～半導体株の底堅さを見極めながらの押し目狙い～",
-      "link": "https://jp.investing.com/news/forex-news/article-1602877",
-      "published": "2026-07-14 23:45:07",
-      "isoDate": "2026-07-14T23:45:07Z"
+      "title": "日経平均は833円高、韓国株高などが東京市場の株価支援要因に",
+      "link": "https://jp.investing.com/news/forex-news/article-1603015",
+      "published": "2026-07-15 05:00:18",
+      "isoDate": "2026-07-15T05:00:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "14日の米国市場ダイジェスト：米国株式市場は反発、利上げ警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1602855",
-      "published": "2026-07-14 22:45:07",
-      "isoDate": "2026-07-14T22:45:07Z"
+      "title": "SKハイニックスのソウル株、米テック株高とアナリストの強気見通しで急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1603006",
+      "published": "2026-07-15 04:36:08",
+      "isoDate": "2026-07-15T04:36:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～買い先行も上げ幅を縮小する展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1602991",
+      "published": "2026-07-15 03:45:16",
+      "isoDate": "2026-07-15T03:45:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は続伸、買い先行も上げ幅を縮小する展開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1602976",
+      "published": "2026-07-15 03:15:16",
+      "isoDate": "2026-07-15T03:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: 三光合成や明光ネットに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1602896",
+      "published": "2026-07-15 00:15:09",
+      "isoDate": "2026-07-15T00:15:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,30 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1601682",
       "published": "2026-07-14 08:02:26",
       "isoDate": "2026-07-14T08:02:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均VIは低下、株価落ち着いた動きで警戒感が緩和",
-      "link": "https://jp.investing.com/news/forex-news/article-1601467",
-      "published": "2026-07-14 05:15:18",
-      "isoDate": "2026-07-14T05:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia、中国向けチップ規制強化でアジアの購入許可顧客を半減以下に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
-      "published": "2026-07-14 03:59:21",
-      "isoDate": "2026-07-14T03:59:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX株が本日急落した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600973",
-      "published": "2026-07-13 14:16:48",
-      "isoDate": "2026-07-13T14:16:48Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "「仮想通貨を金融商品に」金商法改正案が参院本会議で成立　ETF・分離課税の焦点は",
+      "link": "https://coinpost.jp/?p=725027",
+      "published": "Wed, 15 Jul 2026 13:34:41 +0900",
+      "isoDate": "2026-07-15T04:34:41Z"
+    },
     {
       "source": "CoinPost",
       "title": "クラリティー法のステーブルコイン利息規制の強化を要求、米国銀行協会などが上院議員に書簡送付",
@@ -187,27 +194,6 @@
       "link": "https://coinpost.jp/?p=724864",
       "published": "Tue, 14 Jul 2026 21:55:41 +0900",
       "isoDate": "2026-07-14T12:55:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "暗号資産ETF解禁へ、金商法改正の意義と課題｜WebX2026",
-      "link": "https://coinpost.jp/?p=724737",
-      "published": "Tue, 14 Jul 2026 13:12:39 +0900",
-      "isoDate": "2026-07-14T04:12:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ニューハンプシャー州知事「ブロックチェーン基本法」に署名、仮想通貨の権利を保護",
-      "link": "https://coinpost.jp/?p=724710",
-      "published": "Tue, 14 Jul 2026 11:35:34 +0900",
-      "isoDate": "2026-07-14T02:35:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "中国の幹部検察官ら、匿名仮想通貨やミキサーの利用をマネロンの推定根拠にすべきと提案",
-      "link": "https://coinpost.jp/?p=724661",
-      "published": "Tue, 14 Jul 2026 11:00:07 +0900",
-      "isoDate": "2026-07-14T02:00:07Z"
     }
   ]
 }
