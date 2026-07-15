@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-15T17:48:35Z",
-  "last_checked": "2026-07-15T17:48:35Z",
+  "updated": "2026-07-15T19:18:29Z",
+  "last_checked": "2026-07-15T19:18:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドがディーゼルおよびジェット燃料の輸出に対する超過利潤税を引き上げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1604340",
+      "published": "2026-07-15 18:40:39",
+      "isoDate": "2026-07-15T18:40:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の原油・ガソリン在庫が減少、製油所の稼働率が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1604337",
+      "published": "2026-07-15 18:35:57",
+      "isoDate": "2026-07-15T18:35:57Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージンが4年ぶりの高値に到達",
@@ -50,20 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602645",
       "published": "2026-07-14 17:39:14",
       "isoDate": "2026-07-14T17:39:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、火曜日に1カ月超ぶりの高値を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602357",
-      "published": "2026-07-14 13:14:32",
-      "isoDate": "2026-07-14T13:14:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドローン攻撃でロシアの石油精製量が21年ぶりの低水準に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602324",
-      "published": "2026-07-14 13:06:59",
-      "isoDate": "2026-07-14T13:06:59Z"
     }
   ],
   "usdjpy_items": [
@@ -138,5 +138,41 @@
       "isoDate": "2026-07-15T05:00:18Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "日本のクリプト大転換期　金商法・税制改正の舞台裏｜WebX2026",
+      "link": "https://coinpost.jp/?p=724850",
+      "published": "Wed, 15 Jul 2026 17:00:54 +0900",
+      "isoDate": "2026-07-15T08:00:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「暗号資産（仮想通貨）を金融商品に」金商法改正案が参院本会議で成立　ETF・分離課税の焦点は",
+      "link": "https://coinpost.jp/?p=725027",
+      "published": "Wed, 15 Jul 2026 13:34:41 +0900",
+      "isoDate": "2026-07-15T04:34:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法のステーブルコイン利息規制の強化を要求、米国銀行協会などが上院議員に書簡送付",
+      "link": "https://coinpost.jp/?p=724950",
+      "published": "Wed, 15 Jul 2026 10:30:34 +0900",
+      "isoDate": "2026-07-15T01:30:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン市場で「3つの好条件」揃うもトレンド回復は先か＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=724930",
+      "published": "Wed, 15 Jul 2026 10:00:41 +0900",
+      "isoDate": "2026-07-15T01:00:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "WIZE、ソラナ累計取得10億円突破　世界トップ10入り",
+      "link": "https://coinpost.jp/?p=724933",
+      "published": "Wed, 15 Jul 2026 09:19:47 +0900",
+      "isoDate": "2026-07-15T00:19:47Z"
+    }
+  ]
 }
