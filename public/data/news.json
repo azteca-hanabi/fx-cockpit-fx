@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-15T20:34:40Z",
-  "last_checked": "2026-07-15T20:34:40Z",
+  "updated": "2026-07-15T22:05:44Z",
+  "last_checked": "2026-07-15T22:05:44Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシア・ウクライナ紛争で小麦先物が5%急騰、黒海の貿易に混乱",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1604462",
+      "published": "2026-07-15 20:43:56",
+      "isoDate": "2026-07-15T20:43:56Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドがディーゼルおよびジェット燃料の輸出に対する超過利潤税を引き上げ",
@@ -57,16 +64,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602701",
       "published": "2026-07-14 19:32:22",
       "isoDate": "2026-07-14T19:32:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "EUの小麦価格、ロシアの輸出リスクを市場が評価し上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1602645",
-      "published": "2026-07-14 17:39:14",
-      "isoDate": "2026-07-14T17:39:14Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "デルがAIハードウェア株の急落を主導、株価14%下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604285",
+      "published": "2026-07-15 17:03:39",
+      "isoDate": "2026-07-15T17:03:39Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SpaceXの株価がIPO価格を下回る、上場後の上昇相場が失速",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604110",
       "published": "2026-07-15 14:17:25",
       "isoDate": "2026-07-15T14:17:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ファン氏、Vera Rubinは生産中と断言し遅延報道を否定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604005",
-      "published": "2026-07-15 13:34:56",
-      "isoDate": "2026-07-15T13:34:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -141,6 +141,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ストラテジーCEO、「ビットコイン1万ドル割れまで財務は安全」と発言",
+      "link": "https://coinpost.jp/?p=725237",
+      "published": "Thu, 16 Jul 2026 06:30:12 +0900",
+      "isoDate": "2026-07-15T21:30:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、クラリティー法の倫理条項めぐり上院議員と協議へ",
+      "link": "https://coinpost.jp/?p=725231",
+      "published": "Thu, 16 Jul 2026 05:55:48 +0900",
+      "isoDate": "2026-07-15T20:55:48Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "日本のクリプト大転換期　金商法・税制改正の舞台裏｜WebX2026",
       "link": "https://coinpost.jp/?p=724850",
       "published": "Wed, 15 Jul 2026 17:00:54 +0900",
@@ -159,20 +173,6 @@
       "link": "https://coinpost.jp/?p=724950",
       "published": "Wed, 15 Jul 2026 10:30:34 +0900",
       "isoDate": "2026-07-15T01:30:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン市場で「3つの好条件」揃うもトレンド回復は先か＝ウィンターミュート",
-      "link": "https://coinpost.jp/?p=724930",
-      "published": "Wed, 15 Jul 2026 10:00:41 +0900",
-      "isoDate": "2026-07-15T01:00:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "WIZE、ソラナ累計取得10億円突破　世界トップ10入り",
-      "link": "https://coinpost.jp/?p=724933",
-      "published": "Wed, 15 Jul 2026 09:19:47 +0900",
-      "isoDate": "2026-07-15T00:19:47Z"
     }
   ]
 }
