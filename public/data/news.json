@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-15T00:00:56Z",
-  "last_checked": "2026-07-15T00:00:56Z",
+  "updated": "2026-07-15T03:44:55Z",
+  "last_checked": "2026-07-15T03:44:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイランへの追加攻撃を警告、原油価格が3日続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1602914",
+      "published": "2026-07-15 01:09:13",
+      "isoDate": "2026-07-15T01:09:13Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "カナダ全土で好天続き、ICEキャノーラ先物が下落",
@@ -64,29 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601101",
       "published": "2026-07-13 17:51:22",
       "isoDate": "2026-07-13T17:51:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア穀物輸出の混乱懸念でEU小麦価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1601052",
-      "published": "2026-07-13 16:09:58",
-      "isoDate": "2026-07-13T16:09:58Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反発、利上げ警戒感が後退",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1602867",
-      "published": "2026-07-14 23:15:07",
-      "isoDate": "2026-07-14T23:15:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：反発で4,055.77ドル、CPI発表・FRB議長証言控え安値からの買い戻し優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1602859",
-      "published": "2026-07-14 23:00:06",
-      "isoDate": "2026-07-14T23:00:06Z"
+      "title": "前場に注目すべき3つのポイント～半導体株の底堅さを見極めながらの押し目狙い～",
+      "link": "https://jp.investing.com/news/forex-news/article-1602877",
+      "published": "2026-07-14 23:45:07",
+      "isoDate": "2026-07-14T23:45:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +87,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1602855",
       "published": "2026-07-14 22:45:07",
       "isoDate": "2026-07-14T22:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは9.63ドル高、利上げ警戒感が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1602808",
-      "published": "2026-07-14 21:00:05",
-      "isoDate": "2026-07-14T21:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,9 +129,44 @@
       "link": "https://jp.investing.com/news/forex-news/article-1601467",
       "published": "2026-07-14 05:15:18",
       "isoDate": "2026-07-14T05:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia、中国向けチップ規制強化でアジアの購入許可顧客を半減以下に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1601440",
+      "published": "2026-07-14 03:59:21",
+      "isoDate": "2026-07-14T03:59:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースX株が本日急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1600973",
+      "published": "2026-07-13 14:16:48",
+      "isoDate": "2026-07-13T14:16:48Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法のステーブルコイン利息規制の強化を要求、米国銀行協会などが上院議員に書簡送付",
+      "link": "https://coinpost.jp/?p=724950",
+      "published": "Wed, 15 Jul 2026 10:30:34 +0900",
+      "isoDate": "2026-07-15T01:30:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン市場で「3つの好条件」揃うもトレンド回復は先か＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=724930",
+      "published": "Wed, 15 Jul 2026 10:00:41 +0900",
+      "isoDate": "2026-07-15T01:00:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "WIZE、ソラナ累計取得10億円突破　世界トップ10入り",
+      "link": "https://coinpost.jp/?p=724933",
+      "published": "Wed, 15 Jul 2026 09:19:47 +0900",
+      "isoDate": "2026-07-15T00:19:47Z"
+    },
     {
       "source": "CoinPost",
       "title": "米SEC、ハイパーリキッド関係者と規制巡り会合",
@@ -187,20 +208,6 @@
       "link": "https://coinpost.jp/?p=724661",
       "published": "Tue, 14 Jul 2026 11:00:07 +0900",
       "isoDate": "2026-07-14T02:00:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、クラリティー法の可決を上院に要請",
-      "link": "https://coinpost.jp/?p=724611",
-      "published": "Tue, 14 Jul 2026 09:20:34 +0900",
-      "isoDate": "2026-07-14T00:20:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アジアは仮想通貨大国になれるのか？政策・信頼・流動性の三本柱を問う｜WebX2026",
-      "link": "https://coinpost.jp/?p=724306",
-      "published": "Tue, 14 Jul 2026 08:00:51 +0900",
-      "isoDate": "2026-07-13T23:00:51Z"
     }
   ]
 }
