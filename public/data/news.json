@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T20:27:06Z",
-  "last_checked": "2026-07-16T20:27:06Z",
+  "updated": "2026-07-16T21:35:51Z",
+  "last_checked": "2026-07-16T21:35:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Grokが自動タスクスケジューリング機能とメールトリガーを導入",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1606160",
+      "published": "2026-07-16 21:00:06",
+      "isoDate": "2026-07-16T21:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネットフリックス、利益は予想超えも売上高はわずかに未達——成長への疑問は続く",
+      "link": "https://jp.investing.com/news/earnings/article-1606030",
+      "published": "2026-07-16 20:10:18",
+      "isoDate": "2026-07-16T20:10:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "パイパー・サンドラー、スペースXに慎重姿勢——近期の逆風を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1605797",
       "published": "2026-07-16 14:47:49",
       "isoDate": "2026-07-16T14:47:49Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、金価格のさらなる下落を警告――1980年・2011年の天井パターンが再浮上",
-      "link": "https://jp.investing.com/news/commodities-news/article-1605471",
-      "published": "2026-07-16 13:03:56",
-      "isoDate": "2026-07-16T13:03:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1604573",
       "published": "2026-07-16 00:45:09",
       "isoDate": "2026-07-16T00:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604137",
-      "published": "2026-07-15 14:24:08",
-      "isoDate": "2026-07-15T14:24:08Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場",
+      "link": "https://coinpost.jp/?p=725505",
+      "published": "Fri, 17 Jul 2026 05:50:36 +0900",
+      "isoDate": "2026-07-16T20:50:36Z"
+    },
     {
       "source": "CoinPost",
       "title": "中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=725265",
       "published": "Thu, 16 Jul 2026 10:30:14 +0900",
       "isoDate": "2026-07-16T01:30:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、イラン中銀関連のウォレットに制裁措置　約211億円の資産を凍結",
-      "link": "https://coinpost.jp/?p=725247",
-      "published": "Thu, 16 Jul 2026 09:13:15 +0900",
-      "isoDate": "2026-07-16T00:13:15Z"
     }
   ]
 }
