@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T21:35:51Z",
-  "last_checked": "2026-07-16T21:35:51Z",
+  "updated": "2026-07-16T23:01:01Z",
+  "last_checked": "2026-07-16T23:01:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Grokが自動タスクスケジューリング機能とメールトリガーを導入",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1606160",
-      "published": "2026-07-16 21:00:06",
-      "isoDate": "2026-07-16T21:00:06Z"
+      "title": "前日に動いた銘柄 part1サイゼリヤ、ユニシアHD、キオクシアHDなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606224",
+      "published": "2026-07-16 22:30:06",
+      "isoDate": "2026-07-16T22:30:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ネットフリックス、利益は予想超えも売上高はわずかに未達——成長への疑問は続く",
-      "link": "https://jp.investing.com/news/earnings/article-1606030",
-      "published": "2026-07-16 20:10:18",
-      "isoDate": "2026-07-16T20:10:18Z"
+      "title": "NY為替：年内の利上げを織り込むドル買い",
+      "link": "https://jp.investing.com/news/forex-news/article-1606210",
+      "published": "2026-07-16 22:00:05",
+      "isoDate": "2026-07-16T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目株：NFLX、ISRG、KO、AA、RGNX",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1606133",
+      "published": "2026-07-16 20:45:03",
+      "isoDate": "2026-07-16T20:45:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1604654",
       "published": "2026-07-16 03:30:14",
       "isoDate": "2026-07-16T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は851円安でスタート、キオクシアHDやKOKUSAIなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604573",
-      "published": "2026-07-16 00:45:09",
-      "isoDate": "2026-07-16T00:45:09Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "モルガン・スタンレーのE*TRADE、仮想通貨の現物取引を全面展開",
+      "link": "https://coinpost.jp/?p=725526",
+      "published": "Fri, 17 Jul 2026 07:05:42 +0900",
+      "isoDate": "2026-07-16T22:05:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの現金増強、ビットコインに追い風とJPモルガンが評価",
+      "link": "https://coinpost.jp/?p=725522",
+      "published": "Fri, 17 Jul 2026 06:50:22 +0900",
+      "isoDate": "2026-07-16T21:50:22Z"
+    },
     {
       "source": "CoinPost",
       "title": "米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=725330",
       "published": "Thu, 16 Jul 2026 13:15:58 +0900",
       "isoDate": "2026-07-16T04:15:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインポリシー研究所、380万ビットコイン訴訟に被告参加",
-      "link": "https://coinpost.jp/?p=725299",
-      "published": "Thu, 16 Jul 2026 11:00:16 +0900",
-      "isoDate": "2026-07-16T02:00:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、底固め局面で反発の兆し、米ドルとの逆相関強まる＝グラスノード",
-      "link": "https://coinpost.jp/?p=725265",
-      "published": "Thu, 16 Jul 2026 10:30:14 +0900",
-      "isoDate": "2026-07-16T01:30:14Z"
     }
   ]
 }
