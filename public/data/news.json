@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T19:18:51Z",
-  "last_checked": "2026-07-16T19:18:51Z",
+  "updated": "2026-07-16T20:27:06Z",
+  "last_checked": "2026-07-16T20:27:06Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "パイパー・サンドラー、スペースXに慎重姿勢——近期の逆風を指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1605797",
+      "published": "2026-07-16 14:47:49",
+      "isoDate": "2026-07-16T14:47:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカ、金価格のさらなる下落を警告――1980年・2011年の天井パターンが再浮上",
       "link": "https://jp.investing.com/news/commodities-news/article-1605471",
       "published": "2026-07-16 13:03:56",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1604920",
       "published": "2026-07-16 08:37:12",
       "isoDate": "2026-07-16T08:37:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米韓半導体株安を映してリスク回避の動きが強まる【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1604866",
-      "published": "2026-07-16 08:00:15",
-      "isoDate": "2026-07-16T08:00:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "中小企業を永続保有しビットコインを積み立てる新会社、米オレンジ・ジュースが設立",
+      "link": "https://coinpost.jp/?p=725497",
+      "published": "Fri, 17 Jul 2026 05:00:57 +0900",
+      "isoDate": "2026-07-16T20:00:57Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、損失保有UTXO増加は蓄積機会と分析＝アナリスト",
