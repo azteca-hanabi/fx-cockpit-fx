@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T10:28:05Z",
-  "last_checked": "2026-07-16T10:28:05Z",
+  "updated": "2026-07-16T12:04:20Z",
+  "last_checked": "2026-07-16T12:04:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "シティ、Google・Meta・アマゾンの設備投資が2027年に8000億ドル超と予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1605043",
+      "published": "2026-07-16 10:05:57",
+      "isoDate": "2026-07-16T10:05:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "台湾セミコンダクター・マニュファクチャリングとAI関連株、好決算にもかかわらず下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1604946",
       "published": "2026-07-16 08:55:48",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1604866",
       "published": "2026-07-16 08:00:15",
       "isoDate": "2026-07-16T08:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがCosmos基盤を日本の産業パートナーと共に拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1604709",
-      "published": "2026-07-16 05:45:19",
-      "isoDate": "2026-07-16T05:45:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,62 +145,5 @@
       "isoDate": "2026-07-15T14:24:08Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、損失保有UTXO増加は蓄積機会と分析＝アナリスト",
-      "link": "https://coinpost.jp/?p=725469",
-      "published": "Thu, 16 Jul 2026 17:36:15 +0900",
-      "isoDate": "2026-07-16T08:36:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "機関投資家と仮想通貨ETF、米国の教訓と日本の展望｜WebX2026",
-      "link": "https://coinpost.jp/?p=724583",
-      "published": "Thu, 16 Jul 2026 17:00:25 +0900",
-      "isoDate": "2026-07-16T08:00:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FRBウォーシュ議長、仮想通貨も救済せずと証言",
-      "link": "https://coinpost.jp/?p=725395",
-      "published": "Thu, 16 Jul 2026 15:25:25 +0900",
-      "isoDate": "2026-07-16T06:25:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン独歩安の主犯は需要減でなくレバレッジ＝NYDIG",
-      "link": "https://coinpost.jp/?p=725380",
-      "published": "Thu, 16 Jul 2026 14:08:32 +0900",
-      "isoDate": "2026-07-16T05:08:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮想通貨の冬」でも関連株は23%のリターン、主要資産クラスを上回る＝ビットワイズ分析",
-      "link": "https://coinpost.jp/?p=725330",
-      "published": "Thu, 16 Jul 2026 13:15:58 +0900",
-      "isoDate": "2026-07-16T04:15:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインポリシー研究所、380万ビットコイン訴訟に被告参加",
-      "link": "https://coinpost.jp/?p=725299",
-      "published": "Thu, 16 Jul 2026 11:00:16 +0900",
-      "isoDate": "2026-07-16T02:00:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、底固め局面で反発の兆し、米ドルとの逆相関強まる＝グラスノード",
-      "link": "https://coinpost.jp/?p=725265",
-      "published": "Thu, 16 Jul 2026 10:30:14 +0900",
-      "isoDate": "2026-07-16T01:30:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、イラン中銀関連のウォレットに制裁措置　約211億円の資産を凍結",
-      "link": "https://coinpost.jp/?p=725247",
-      "published": "Thu, 16 Jul 2026 09:13:15 +0900",
-      "isoDate": "2026-07-16T00:13:15Z"
-    }
-  ]
+  "btc_items": []
 }
