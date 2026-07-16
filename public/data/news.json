@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T02:55:15Z",
-  "last_checked": "2026-07-16T02:55:15Z",
+  "updated": "2026-07-16T05:44:15Z",
+  "last_checked": "2026-07-16T05:44:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,17 +69,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国、市場急落後にレバレッジ型単一銘柄ETFへの規制導入へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604685",
+      "published": "2026-07-16 05:03:11",
+      "isoDate": "2026-07-16T05:03:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシアＨＤ---75日線接近でいったんはリバウンド狙い",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604667",
+      "published": "2026-07-16 04:15:16",
+      "isoDate": "2026-07-16T04:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅に3日ぶり反落、アドバンテストが1銘柄で約438円分押し下げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1604661",
+      "published": "2026-07-16 03:45:18",
+      "isoDate": "2026-07-16T03:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "売り優勢で下げ幅を拡大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604654",
+      "published": "2026-07-16 03:30:14",
+      "isoDate": "2026-07-16T03:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "韓国テック株の売りが加速、KOSPIがサーキットブレーカー発動水準に迫る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604634",
+      "published": "2026-07-16 02:16:56",
+      "isoDate": "2026-07-16T02:16:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アドバンスト・マイクロ・デバイセズ：UBSがAIイベント前に目標株価を引き上げ、GPU見通し改善を背景に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1604632",
       "published": "2026-07-16 02:12:46",
       "isoDate": "2026-07-16T02:12:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キオクシア---大幅反落、海外メモリー株安の流れに押される",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604606",
-      "published": "2026-07-16 01:45:12",
-      "isoDate": "2026-07-16T01:45:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,38 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米半導体関連株安を映して売り先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604538",
-      "published": "2026-07-15 23:30:07",
-      "isoDate": "2026-07-15T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "15日の米国市場ダイジェスト：米国株式市場は続伸、良好な金融決算やインフレ鈍化を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1604520",
-      "published": "2026-07-15 22:30:06",
-      "isoDate": "2026-07-15T22:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日下落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604137",
       "published": "2026-07-15 14:24:08",
       "isoDate": "2026-07-15T14:24:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスクの株価が本日急落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1604110",
-      "published": "2026-07-15 14:17:25",
-      "isoDate": "2026-07-15T14:17:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックス対マイクロンテクノロジー：AIメモリーサイクルの勝者はどちらか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604002",
-      "published": "2026-07-15 13:29:59",
-      "isoDate": "2026-07-15T13:29:59Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン独歩安の主犯は需要減でなくレバレッジ＝NYDIG",
+      "link": "https://coinpost.jp/?p=725380",
+      "published": "Thu, 16 Jul 2026 14:08:32 +0900",
+      "isoDate": "2026-07-16T05:08:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「仮想通貨の冬」でも関連株は23%のリターン、主要資産クラスを上回る＝ビットワイズ分析",
+      "link": "https://coinpost.jp/?p=725330",
+      "published": "Thu, 16 Jul 2026 13:15:58 +0900",
+      "isoDate": "2026-07-16T04:15:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインポリシー研究所、380万ビットコイン訴訟に被告参加",
@@ -187,13 +201,6 @@
       "link": "https://coinpost.jp/?p=725231",
       "published": "Thu, 16 Jul 2026 05:55:48 +0900",
       "isoDate": "2026-07-15T20:55:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "日本のクリプト大転換期　金商法・税制改正の舞台裏｜WebX2026",
-      "link": "https://coinpost.jp/?p=724850",
-      "published": "Wed, 15 Jul 2026 17:00:54 +0900",
-      "isoDate": "2026-07-15T08:00:54Z"
     }
   ]
 }
