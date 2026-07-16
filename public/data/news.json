@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T16:19:54Z",
-  "last_checked": "2026-07-16T16:19:54Z",
+  "updated": "2026-07-16T17:46:41Z",
+  "last_checked": "2026-07-16T17:46:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "モルガン・スタンレー、中国でのアップルインテリジェンス承認をAI分野の重要な転換点と評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1605581",
-      "published": "2026-07-16 13:38:51",
-      "isoDate": "2026-07-16T13:38:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカ、金価格のさらなる下落を警告――1980年・2011年の天井パターンが再浮上",
       "link": "https://jp.investing.com/news/commodities-news/article-1605471",
       "published": "2026-07-16 13:03:56",
@@ -108,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1604920",
       "published": "2026-07-16 08:37:12",
       "isoDate": "2026-07-16T08:37:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米韓半導体株安を映してリスク回避の動きが強まる【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1604866",
+      "published": "2026-07-16 08:00:15",
+      "isoDate": "2026-07-16T08:00:15Z"
     },
     {
       "source": "Investing.com 外為",
