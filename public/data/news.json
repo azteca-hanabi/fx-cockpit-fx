@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-16T05:44:15Z",
-  "last_checked": "2026-07-16T05:44:15Z",
+  "updated": "2026-07-16T08:20:29Z",
+  "last_checked": "2026-07-16T08:20:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格下落、原油高によるインフレ懸念がFRBの見通しを左右",
+      "title": "原油高によるインフレ懸念でFed注目続く、金は下落継続",
       "link": "https://jp.investing.com/news/commodities-news/article-1604610",
       "published": "2026-07-16 01:46:26",
       "isoDate": "2026-07-16T01:46:26Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国がイランへの攻撃を強化、ホルムズ海峡リスクで原油4日続伸",
+      "title": "米イラン緊張継続で原油価格は3日続伸後に小幅反落",
       "link": "https://jp.investing.com/news/commodities-news/article-1604605",
       "published": "2026-07-16 01:30:03",
       "isoDate": "2026-07-16T01:30:03Z"
@@ -69,10 +69,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "韓国、市場急落後にレバレッジ型単一銘柄ETFへの規制導入へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604685",
-      "published": "2026-07-16 05:03:11",
-      "isoDate": "2026-07-16T05:03:11Z"
+      "title": "キオクシアHD、オープンG、サイゼリヤなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1604791",
+      "published": "2026-07-16 07:00:16",
+      "isoDate": "2026-07-16T07:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがCosmos基盤を日本の産業パートナーと共に拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1604709",
+      "published": "2026-07-16 05:45:19",
+      "isoDate": "2026-07-16T05:45:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "台湾セミコンダクター・マニュファクチャリング、AI需要に支えられ第2四半期利益が予想を大幅に上回る",
+      "link": "https://jp.investing.com/news/earnings/article-1604705",
+      "published": "2026-07-16 05:43:26",
+      "isoDate": "2026-07-16T05:43:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1604654",
       "published": "2026-07-16 03:30:14",
       "isoDate": "2026-07-16T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国テック株の売りが加速、KOSPIがサーキットブレーカー発動水準に迫る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604634",
-      "published": "2026-07-16 02:16:56",
-      "isoDate": "2026-07-16T02:16:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ：UBSがAIイベント前に目標株価を引き上げ、GPU見通し改善を背景に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604632",
-      "published": "2026-07-16 02:12:46",
-      "isoDate": "2026-07-16T02:12:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "機関投資家と仮想通貨ETF、米国の教訓と日本の展望｜WebX2026",
+      "link": "https://coinpost.jp/?p=724583",
+      "published": "Thu, 16 Jul 2026 17:00:25 +0900",
+      "isoDate": "2026-07-16T08:00:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FRBウォーシュ議長、仮想通貨も救済せずと証言",
+      "link": "https://coinpost.jp/?p=725395",
+      "published": "Thu, 16 Jul 2026 15:25:25 +0900",
+      "isoDate": "2026-07-16T06:25:25Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン独歩安の主犯は需要減でなくレバレッジ＝NYDIG",
@@ -180,27 +194,6 @@
       "link": "https://coinpost.jp/?p=725235",
       "published": "Thu, 16 Jul 2026 08:00:09 +0900",
       "isoDate": "2026-07-15T23:00:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ブラックロック2Q決算、仮想通貨ETF運用残高約4割減　2030年目標は堅持",
-      "link": "https://coinpost.jp/?p=725232",
-      "published": "Thu, 16 Jul 2026 07:05:58 +0900",
-      "isoDate": "2026-07-15T22:05:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーCEO、「ビットコイン1万ドル割れまで財務は安全」と発言",
-      "link": "https://coinpost.jp/?p=725237",
-      "published": "Thu, 16 Jul 2026 06:30:12 +0900",
-      "isoDate": "2026-07-15T21:30:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、クラリティー法の倫理条項めぐり上院議員と協議へ",
-      "link": "https://coinpost.jp/?p=725231",
-      "published": "Thu, 16 Jul 2026 05:55:48 +0900",
-      "isoDate": "2026-07-15T20:55:48Z"
     }
   ]
 }
