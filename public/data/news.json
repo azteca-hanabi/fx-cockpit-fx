@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T23:01:01Z",
-  "last_checked": "2026-07-16T23:01:01Z",
+  "updated": "2026-07-17T01:03:12Z",
+  "last_checked": "2026-07-17T01:03:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,31 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1サイゼリヤ、ユニシアHD、キオクシアHDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606224",
-      "published": "2026-07-16 22:30:06",
-      "isoDate": "2026-07-16T22:30:06Z"
+      "title": "SpaceXのスターシップ、打ち上げ直前に試験飛行を中止",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606255",
+      "published": "2026-07-16 23:56:41",
+      "isoDate": "2026-07-16T23:56:41Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：年内の利上げを織り込むドル買い",
-      "link": "https://jp.investing.com/news/forex-news/article-1606210",
-      "published": "2026-07-16 22:00:05",
-      "isoDate": "2026-07-16T22:00:05Z"
+      "title": "引き続き半導体株の底堅さを見極め",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606249",
+      "published": "2026-07-16 23:45:14",
+      "isoDate": "2026-07-16T23:45:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目株：NFLX、ISRG、KO、AA、RGNX",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1606133",
-      "published": "2026-07-16 20:45:03",
-      "isoDate": "2026-07-16T20:45:03Z"
+      "title": "半導体・AI関連株に売り継続へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606244",
+      "published": "2026-07-16 23:30:06",
+      "isoDate": "2026-07-16T23:30:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "パイパー・サンドラー、スペースXに慎重姿勢——近期の逆風を指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1605797",
-      "published": "2026-07-16 14:47:49",
-      "isoDate": "2026-07-16T14:47:49Z"
+      "title": "16日のNY市場は反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606236",
+      "published": "2026-07-16 23:00:07",
+      "isoDate": "2026-07-16T23:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "16日の米国市場ダイジェスト：米国株式市場は反落、対イラン攻撃激化でインフレ懸念が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1606230",
+      "published": "2026-07-16 22:45:06",
+      "isoDate": "2026-07-16T22:45:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1605493",
       "published": "2026-07-16 13:03:05",
       "isoDate": "2026-07-16T13:03:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾セミコンダクター・マニュファクチャリングとAI関連株、好決算にもかかわらず下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604946",
-      "published": "2026-07-16 08:55:48",
-      "isoDate": "2026-07-16T08:55:48Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "機関投資家クリプトの全貌、カストディ・AI・市場収束論点｜WebX2026",
+      "link": "https://coinpost.jp/?p=724586",
+      "published": "Fri, 17 Jul 2026 09:00:05 +0900",
+      "isoDate": "2026-07-17T00:00:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "モルガン・スタンレーのE*TRADE、仮想通貨の現物取引を全面展開",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=725380",
       "published": "Thu, 16 Jul 2026 14:08:32 +0900",
       "isoDate": "2026-07-16T05:08:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮想通貨の冬」でも関連株は23%のリターン、主要資産クラスを上回る＝ビットワイズ分析",
-      "link": "https://coinpost.jp/?p=725330",
-      "published": "Thu, 16 Jul 2026 13:15:58 +0900",
-      "isoDate": "2026-07-16T04:15:58Z"
     }
   ]
 }
