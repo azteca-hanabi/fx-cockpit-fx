@@ -1,10 +1,17 @@
 {
-  "updated": "2026-07-17T11:07:11Z",
-  "last_checked": "2026-07-17T11:07:11Z",
+  "updated": "2026-07-17T12:42:57Z",
+  "last_checked": "2026-07-17T12:42:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "中東情勢緊迫化でインフレ懸念高まり、金は週間ベースで下落へ",
+      "title": "ホルムズ海峡封鎖懸念で欧州天然ガス価格が約4カ月ぶり高値に急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1606886",
+      "published": "2026-07-17 11:35:07",
+      "isoDate": "2026-07-17T11:35:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東攻撃がインフレ懸念を高め、金は週間下落の軌道に",
       "link": "https://jp.investing.com/news/commodities-news/article-1606330",
       "published": "2026-07-17 02:55:56",
       "isoDate": "2026-07-17T02:55:56Z"
@@ -57,23 +64,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1604610",
       "published": "2026-07-16 01:46:26",
       "isoDate": "2026-07-16T01:46:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "3日続伸後に原油価格が小幅下落、イラン紛争で供給リスク継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-1604605",
-      "published": "2026-07-16 01:30:03",
-      "isoDate": "2026-07-16T01:30:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア・ウクライナ紛争で小麦先物が5%急騰、黒海の貿易に混乱",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1604462",
-      "published": "2026-07-15 20:43:56",
-      "isoDate": "2026-07-15T20:43:56Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ネットフリックスとインテューイティブ・サージカルが市場前取引で急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606945",
+      "published": "2026-07-17 12:04:16",
+      "isoDate": "2026-07-17T12:04:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "HSBCがアップルを買い推奨に格上げ、「強力なサイクルが到来」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606813",
+      "published": "2026-07-17 10:51:08",
+      "isoDate": "2026-07-17T10:51:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "+78%、+66%：エネルギー相場の上昇が波及—AIモデルが先読みしていた銘柄とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606620",
+      "published": "2026-07-17 08:12:50",
+      "isoDate": "2026-07-17T08:12:50Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "この宇宙関連株が、まれな弱気ブレイクダウンシグナルを点灯させた",
@@ -90,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ネットフリックスの低調な見通し、米・イラン攻撃が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1606551",
-      "published": "2026-07-17 07:49:29",
-      "isoDate": "2026-07-17T07:49:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は大幅続落、売り優勢で終日マイナス圏で軟調推移",
       "link": "https://jp.investing.com/news/stock-market-news/article-1606472",
       "published": "2026-07-17 07:00:17",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1606377",
       "published": "2026-07-17 05:15:16",
       "isoDate": "2026-07-17T05:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は3536円安、ダウ平均先物安く東京市場の株価の重しに",
-      "link": "https://jp.investing.com/news/forex-news/article-1606374",
-      "published": "2026-07-17 05:00:18",
-      "isoDate": "2026-07-17T05:00:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1606343",
       "published": "2026-07-17 03:15:16",
       "isoDate": "2026-07-17T03:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ネットフリックスの見通し失望と半導体株安で米株先物が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606322",
-      "published": "2026-07-17 02:17:46",
-      "isoDate": "2026-07-17T02:17:46Z"
     }
   ],
   "btc_items": [
