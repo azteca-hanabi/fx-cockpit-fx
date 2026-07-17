@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T22:23:16Z",
-  "last_checked": "2026-07-17T22:23:16Z",
+  "updated": "2026-07-17T23:25:46Z",
+  "last_checked": "2026-07-17T23:25:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "7月17日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1607341",
-      "published": "2026-07-17 20:00:05",
-      "isoDate": "2026-07-17T20:00:05Z"
+      "title": "NY為替：米6月住宅着工件数や米7月ミシガン大学消費者信頼感指数速報値が予想を上回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1607433",
+      "published": "2026-07-17 22:00:05",
+      "isoDate": "2026-07-17T22:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "FTX、7月31日に1460億円相当の5回目弁済を実施へ",
+      "link": "https://coinpost.jp/?p=725854",
+      "published": "Sat, 18 Jul 2026 07:25:48 +0900",
+      "isoDate": "2026-07-17T22:25:48Z"
+    },
     {
       "source": "CoinPost",
       "title": "ウォーレン議員、トランプ大統領に仮想通貨収益の最新開示を要求",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=725553",
       "published": "Fri, 17 Jul 2026 10:02:25 +0900",
       "isoDate": "2026-07-17T01:02:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "機関投資家クリプトの全貌、カストディ・AI・市場収束論点｜WebX2026",
-      "link": "https://coinpost.jp/?p=724586",
-      "published": "Fri, 17 Jul 2026 09:00:05 +0900",
-      "isoDate": "2026-07-17T00:00:05Z"
     }
   ]
 }
