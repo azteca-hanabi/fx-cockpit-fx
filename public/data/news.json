@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T04:43:11Z",
-  "last_checked": "2026-07-17T04:43:11Z",
+  "updated": "2026-07-17T07:20:22Z",
+  "last_checked": "2026-07-17T07:20:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油、週間で急騰へ－米イラン攻撃が供給不安を高める",
+      "title": "原油価格、週間で11%急騰――米・イラン攻撃が供給不安を煽る",
       "link": "https://jp.investing.com/news/commodities-news/article-1606282",
       "published": "2026-07-17 00:56:35",
       "isoDate": "2026-07-17T00:56:35Z"
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、決算発表に期待も",
+      "link": "https://jp.investing.com/news/forex-news/article-1606377",
+      "published": "2026-07-17 05:15:16",
+      "isoDate": "2026-07-17T05:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は3536円安、ダウ平均先物安く東京市場の株価の重しに",
+      "link": "https://jp.investing.com/news/forex-news/article-1606374",
+      "published": "2026-07-17 05:00:18",
+      "isoDate": "2026-07-17T05:00:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "セブン&アイ、欧州展開へポーランドのジャプカに出資交渉中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606366",
+      "published": "2026-07-17 04:17:17",
+      "isoDate": "2026-07-17T04:17:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均は大幅続落、アドバンテストが1銘柄で約772円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1606351",
       "published": "2026-07-17 04:00:16",
@@ -118,32 +139,82 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXのスターシップ、打ち上げ直前に試験飛行を中止",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606255",
-      "published": "2026-07-16 23:56:41",
-      "isoDate": "2026-07-16T23:56:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体・AI関連株に売り継続へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606244",
-      "published": "2026-07-16 23:30:06",
-      "isoDate": "2026-07-16T23:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "+75%上昇：AIが相場上昇の前にこのソフトウェア株を捉えていた理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1604920",
       "published": "2026-07-16 08:37:12",
       "isoDate": "2026-07-16T08:37:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "売り優勢で下げ幅を拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604654",
-      "published": "2026-07-16 03:30:14",
-      "isoDate": "2026-07-16T03:30:14Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "豪州、仮想通貨譲渡益の50％控除廃止へ　27年7月施行＝報道",
+      "link": "https://coinpost.jp/?p=725758",
+      "published": "Fri, 17 Jul 2026 15:00:40 +0900",
+      "isoDate": "2026-07-17T06:00:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスジャパン新代表が語る、金融インフラへの成長戦略｜WebX2026",
+      "link": "https://coinpost.jp/?p=724792",
+      "published": "Fri, 17 Jul 2026 15:00:34 +0900",
+      "isoDate": "2026-07-17T06:00:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ米大統領のテレプロンプター担当者、予測市場でインサイダー取引か＝報道",
+      "link": "https://coinpost.jp/?p=725622",
+      "published": "Fri, 17 Jul 2026 13:10:13 +0900",
+      "isoDate": "2026-07-17T04:10:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "量子は脅威か、誇大広告か — 暗号資産業界の本音｜WebX2026",
+      "link": "https://coinpost.jp/?p=725648",
+      "published": "Fri, 17 Jul 2026 12:40:46 +0900",
+      "isoDate": "2026-07-17T03:40:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引所クリプトドットコム、シタデルから約650億円を資金調達　企業評価額は約3.2兆円",
+      "link": "https://coinpost.jp/?p=725565",
+      "published": "Fri, 17 Jul 2026 10:20:04 +0900",
+      "isoDate": "2026-07-17T01:20:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの資本再建、2つの課題残る＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=725553",
+      "published": "Fri, 17 Jul 2026 10:02:25 +0900",
+      "isoDate": "2026-07-17T01:02:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "機関投資家クリプトの全貌、カストディ・AI・市場収束論点｜WebX2026",
+      "link": "https://coinpost.jp/?p=724586",
+      "published": "Fri, 17 Jul 2026 09:00:05 +0900",
+      "isoDate": "2026-07-17T00:00:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "モルガン・スタンレーのE*TRADE、仮想通貨の現物取引を全面展開",
+      "link": "https://coinpost.jp/?p=725526",
+      "published": "Fri, 17 Jul 2026 07:05:42 +0900",
+      "isoDate": "2026-07-16T22:05:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの現金増強、ビットコインに追い風とJPモルガンが評価",
+      "link": "https://coinpost.jp/?p=725522",
+      "published": "Fri, 17 Jul 2026 06:50:22 +0900",
+      "isoDate": "2026-07-16T21:50:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場",
+      "link": "https://coinpost.jp/?p=725505",
+      "published": "Fri, 17 Jul 2026 05:50:36 +0900",
+      "isoDate": "2026-07-16T20:50:36Z"
+    }
+  ]
 }
