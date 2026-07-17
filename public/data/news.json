@@ -1,17 +1,17 @@
 {
-  "updated": "2026-07-17T07:20:22Z",
-  "last_checked": "2026-07-17T07:20:22Z",
+  "updated": "2026-07-17T09:27:29Z",
+  "last_checked": "2026-07-17T09:27:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "イランへの攻撃がFRBの利下げ懸念を高め、金は週間ベースで下落へ",
+      "title": "金、週間損失を縮小――バーゲンハンティングが中東インフレ懸念を相殺",
       "link": "https://jp.investing.com/news/commodities-news/article-1606330",
       "published": "2026-07-17 02:55:56",
       "isoDate": "2026-07-17T02:55:56Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格、週間で11%急騰――米・イラン攻撃が供給不安を煽る",
+      "title": "米国とイランが攻撃を応酬、原油価格は週間で急騰へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1606282",
       "published": "2026-07-17 00:56:35",
       "isoDate": "2026-07-17T00:56:35Z"
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "半導体・AI関連株中心に売りが継続し一時62000円台に急落【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1606563",
+      "published": "2026-07-17 08:00:15",
+      "isoDate": "2026-07-17T08:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネットフリックスの低調な見通し、米・イラン攻撃が市場を動かす",
+      "link": "https://jp.investing.com/news/economy-news/article-1606551",
+      "published": "2026-07-17 07:49:29",
+      "isoDate": "2026-07-17T07:49:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、決算発表に期待も",
       "link": "https://jp.investing.com/news/forex-news/article-1606377",
       "published": "2026-07-17 05:15:16",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1606366",
       "published": "2026-07-17 04:17:17",
       "isoDate": "2026-07-17T04:17:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、アドバンテストが1銘柄で約772円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606351",
-      "published": "2026-07-17 04:00:16",
-      "isoDate": "2026-07-17T04:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシア---大幅続落、米国半導体株安の流れが継続で",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606296",
-      "published": "2026-07-17 01:15:11",
-      "isoDate": "2026-07-17T01:15:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "個別銘柄戦略: トーモクやトップカルチャに注目",
       "link": "https://jp.investing.com/news/forex-news/article-1606264",
       "published": "2026-07-17 00:15:08",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
+      "link": "https://coinpost.jp/?p=725809",
+      "published": "Fri, 17 Jul 2026 17:04:39 +0900",
+      "isoDate": "2026-07-17T08:04:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Bitcoin Japan、約97億円調達　初のBTC購入へ6.6億円充当方針",
+      "link": "https://coinpost.jp/?p=725712",
+      "published": "Fri, 17 Jul 2026 16:21:29 +0900",
+      "isoDate": "2026-07-17T07:21:29Z"
+    },
     {
       "source": "CoinPost",
       "title": "豪州、仮想通貨譲渡益の50％控除廃止へ　27年7月施行＝報道",
@@ -201,20 +215,6 @@
       "link": "https://coinpost.jp/?p=725526",
       "published": "Fri, 17 Jul 2026 07:05:42 +0900",
       "isoDate": "2026-07-16T22:05:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの現金増強、ビットコインに追い風とJPモルガンが評価",
-      "link": "https://coinpost.jp/?p=725522",
-      "published": "Fri, 17 Jul 2026 06:50:22 +0900",
-      "isoDate": "2026-07-16T21:50:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米老舗資産運用会社Tロウ・プライス、マルチ銘柄仮想通貨現物ETFを上場",
-      "link": "https://coinpost.jp/?p=725505",
-      "published": "Fri, 17 Jul 2026 05:50:36 +0900",
-      "isoDate": "2026-07-16T20:50:36Z"
     }
   ]
 }
