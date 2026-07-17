@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-17T09:27:29Z",
-  "last_checked": "2026-07-17T09:27:29Z",
+  "updated": "2026-07-17T11:07:11Z",
+  "last_checked": "2026-07-17T11:07:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金、週間損失を縮小――バーゲンハンティングが中東インフレ懸念を相殺",
+      "title": "中東情勢緊迫化でインフレ懸念高まり、金は週間ベースで下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1606330",
       "published": "2026-07-17 02:55:56",
       "isoDate": "2026-07-17T02:55:56Z"
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "この宇宙関連株が、まれな弱気ブレイクダウンシグナルを点灯させた",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606663",
+      "published": "2026-07-17 08:04:02",
+      "isoDate": "2026-07-17T08:04:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "半導体・AI関連株中心に売りが継続し一時62000円台に急落【クロージング】",
       "link": "https://jp.investing.com/news/forex-news/article-1606563",
       "published": "2026-07-17 08:00:15",
@@ -87,6 +94,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1606551",
       "published": "2026-07-17 07:49:29",
       "isoDate": "2026-07-17T07:49:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅続落、売り優勢で終日マイナス圏で軟調推移",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606472",
+      "published": "2026-07-17 07:00:17",
+      "isoDate": "2026-07-17T07:00:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1606322",
       "published": "2026-07-17 02:17:46",
       "isoDate": "2026-07-17T02:17:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "個別銘柄戦略: トーモクやトップカルチャに注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1606264",
-      "published": "2026-07-17 00:15:08",
-      "isoDate": "2026-07-17T00:15:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "+75%上昇：AIが相場上昇の前にこのソフトウェア株を捉えていた理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1604920",
-      "published": "2026-07-16 08:37:12",
-      "isoDate": "2026-07-16T08:37:12Z"
     }
   ],
   "btc_items": [
