@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-17T19:16:46Z",
-  "last_checked": "2026-07-17T19:16:46Z",
+  "updated": "2026-07-17T20:27:54Z",
+  "last_checked": "2026-07-17T20:27:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceX株、国防総省AI契約で一時上昇もCoreWeaveは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607324",
+      "published": "2026-07-17 19:18:34",
+      "isoDate": "2026-07-17T19:18:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "メキシコ・チアパス州沿岸でマグニチュード7.4の地震が発生",
       "link": "https://jp.investing.com/news/economy-news/article-93CH-1607214",
       "published": "2026-07-17 15:10:01",
@@ -129,16 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1606344",
       "published": "2026-07-17 03:15:16",
       "isoDate": "2026-07-17T03:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、米半導体株安を引き継ぎ下げ幅2900円超に拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606343",
-      "published": "2026-07-17 03:15:16",
-      "isoDate": "2026-07-17T03:15:16Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "SBIホールディングス、シンガポールのCoinhakoを連結子会社化",
+      "link": "https://coinpost.jp/?p=725847",
+      "published": "Sat, 18 Jul 2026 05:00:11 +0900",
+      "isoDate": "2026-07-17T20:00:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
