@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T22:24:36Z",
-  "last_checked": "2026-07-18T22:24:36Z",
+  "updated": "2026-07-18T23:28:09Z",
+  "last_checked": "2026-07-18T23:28:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "テスラ株：自動車事業の改善はどこまで重要か？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607552",
+      "published": "2026-07-18 23:14:20",
+      "isoDate": "2026-07-18T23:14:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "KOSPIの業績は改善しているのに、なぜ株価はより大きく下落しているのか？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1607551",
       "published": "2026-07-18 21:52:41",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1607416",
       "published": "2026-07-17 21:30:05",
       "isoDate": "2026-07-17T21:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体・AI関連株中心に売りが継続し一時62000円台に急落【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1606563",
-      "published": "2026-07-17 08:00:15",
-      "isoDate": "2026-07-17T08:00:15Z"
     }
   ],
   "btc_items": [
