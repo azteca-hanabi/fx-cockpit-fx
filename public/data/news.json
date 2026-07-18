@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T12:28:03Z",
-  "last_checked": "2026-07-18T12:28:03Z",
+  "updated": "2026-07-18T14:00:13Z",
+  "last_checked": "2026-07-18T14:00:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXにとって最大の長期的競合脅威は中国、バーンスタインが指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607533",
+      "published": "2026-07-18 12:16:54",
+      "isoDate": "2026-07-18T12:16:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日本の公的年金基金によるリバランスの影響とは？",
       "link": "https://jp.investing.com/news/economy-news/article-1607520",
       "published": "2026-07-18 09:50:38",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607147",
       "published": "2026-07-17 13:59:16",
       "isoDate": "2026-07-17T13:59:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "+78%、+66%：エネルギー相場の上昇が波及—AIモデルが先読みしていた銘柄とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606620",
-      "published": "2026-07-17 08:12:50",
-      "isoDate": "2026-07-17T08:12:50Z"
     },
     {
       "source": "Investing.com 外為",
