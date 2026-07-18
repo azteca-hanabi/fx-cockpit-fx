@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T16:31:29Z",
-  "last_checked": "2026-07-18T16:31:29Z",
+  "updated": "2026-07-18T17:58:30Z",
+  "last_checked": "2026-07-18T17:58:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックスが示すAI以外の3つの投資テーマ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607544",
+      "published": "2026-07-18 16:19:43",
+      "isoDate": "2026-07-18T16:19:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "スペースXの最大の長期的競合相手は中国、バーンスタインが指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1607533",
       "published": "2026-07-18 12:16:54",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607324",
       "published": "2026-07-17 19:18:34",
       "isoDate": "2026-07-17T19:18:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソシエテ・ジェネラル、2026年下半期は均等加重戦略が有利と予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607024",
-      "published": "2026-07-17 12:40:48",
-      "isoDate": "2026-07-17T12:40:48Z"
     },
     {
       "source": "Investing.com 外為",
