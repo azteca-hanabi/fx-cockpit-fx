@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T06:28:40Z",
-  "last_checked": "2026-07-18T06:28:40Z",
+  "updated": "2026-07-18T08:23:40Z",
+  "last_checked": "2026-07-18T08:23:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：アルファベットや米半導体企業の決算がAI・半導体株の行方を左右へ",
+      "link": "https://jp.investing.com/news/forex-news/article-1607504",
+      "published": "2026-07-18 06:00:04",
+      "isoDate": "2026-07-18T06:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "新興市場見通し：買い戻し先行も利食い浅く、大型生成AI株にらみの展開か",
       "link": "https://jp.investing.com/news/forex-news/article-1607503",
       "published": "2026-07-18 06:00:04",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1606563",
       "published": "2026-07-17 08:00:15",
       "isoDate": "2026-07-17T08:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、売り優勢で終日マイナス圏で軟調推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606472",
-      "published": "2026-07-17 07:00:17",
-      "isoDate": "2026-07-17T07:00:17Z"
     }
   ],
   "btc_items": [
