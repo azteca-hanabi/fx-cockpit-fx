@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T04:07:34Z",
-  "last_checked": "2026-07-18T04:07:34Z",
+  "updated": "2026-07-18T06:28:40Z",
+  "last_checked": "2026-07-18T06:28:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "新興市場見通し：買い戻し先行も利食い浅く、大型生成AI株にらみの展開か",
+      "link": "https://jp.investing.com/news/forex-news/article-1607503",
+      "published": "2026-07-18 06:00:04",
+      "isoDate": "2026-07-18T06:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：AI関連株にはアルファベット決算が最注目イベントに",
+      "link": "https://jp.investing.com/news/forex-news/article-1607502",
+      "published": "2026-07-18 06:00:03",
+      "isoDate": "2026-07-18T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "EtchedがAIチップ新規資金調達で200億ドル評価額を目指す―WSJ報道",
+      "link": "https://jp.investing.com/news/company-news/article-1607496",
+      "published": "2026-07-18 04:05:14",
+      "isoDate": "2026-07-18T04:05:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは406.55ドル安、原油高やハイテクの低迷が響く",
       "link": "https://jp.investing.com/news/forex-news/article-1607416",
       "published": "2026-07-17 21:30:05",
@@ -80,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607324",
       "published": "2026-07-17 19:18:34",
       "isoDate": "2026-07-17T19:18:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの時価総額、ピーク時から1兆ドル超が消失",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607138",
-      "published": "2026-07-17 13:59:46",
-      "isoDate": "2026-07-17T13:59:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,23 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1606472",
       "published": "2026-07-17 07:00:17",
       "isoDate": "2026-07-17T07:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "セブン&アイ、欧州展開へポーランドのジャプカに出資交渉中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606366",
-      "published": "2026-07-17 04:17:17",
-      "isoDate": "2026-07-17T04:17:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米半導体株安を引き継ぎ下げ幅2900円超に拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1606344",
-      "published": "2026-07-17 03:15:16",
-      "isoDate": "2026-07-17T03:15:16Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発",
+      "link": "https://coinpost.jp/?p=725901",
+      "published": "Sat, 18 Jul 2026 14:00:21 +0900",
+      "isoDate": "2026-07-18T05:00:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
@@ -201,20 +208,6 @@
       "link": "https://coinpost.jp/?p=724792",
       "published": "Fri, 17 Jul 2026 15:00:34 +0900",
       "isoDate": "2026-07-17T06:00:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ米大統領のテレプロンプター担当者、予測市場でインサイダー取引か＝報道",
-      "link": "https://coinpost.jp/?p=725622",
-      "published": "Fri, 17 Jul 2026 13:10:13 +0900",
-      "isoDate": "2026-07-17T04:10:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "量子は脅威か、誇大広告か — 暗号資産業界の本音｜WebX2026",
-      "link": "https://coinpost.jp/?p=725648",
-      "published": "Fri, 17 Jul 2026 12:40:46 +0900",
-      "isoDate": "2026-07-17T03:40:46Z"
     }
   ]
 }
