@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T00:57:43Z",
-  "last_checked": "2026-07-18T00:57:43Z",
+  "updated": "2026-07-18T04:07:34Z",
+  "last_checked": "2026-07-18T04:07:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,13 +69,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "オラクルの信用リスク指標、AI投資懸念で過去最高水準に",
-      "link": "https://jp.investing.com/news/company-news/article-1607450",
-      "published": "2026-07-17 23:04:22",
-      "isoDate": "2026-07-17T23:04:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは406.55ドル安、原油高やハイテクの低迷が響く",
       "link": "https://jp.investing.com/news/forex-news/article-1607416",
       "published": "2026-07-17 21:30:05",
@@ -125,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は大幅続落、売り優勢で終日マイナス圏で軟調推移",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1606472",
+      "published": "2026-07-17 07:00:17",
+      "isoDate": "2026-07-17T07:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "セブン&アイ、欧州展開へポーランドのジャプカに出資交渉中",
       "link": "https://jp.investing.com/news/stock-market-news/article-1606366",
       "published": "2026-07-17 04:17:17",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
+      "link": "https://coinpost.jp/?p=725878",
+      "published": "Sat, 18 Jul 2026 10:15:17 +0900",
+      "isoDate": "2026-07-18T01:15:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン相場はもみ合い継続か、コインシェアーズが分析公開",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=725648",
       "published": "Fri, 17 Jul 2026 12:40:46 +0900",
       "isoDate": "2026-07-17T03:40:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引所クリプトドットコム、シタデルから約650億円を資金調達　企業評価額は約3.2兆円",
-      "link": "https://coinpost.jp/?p=725565",
-      "published": "Fri, 17 Jul 2026 10:20:04 +0900",
-      "isoDate": "2026-07-17T01:20:04Z"
     }
   ]
 }
