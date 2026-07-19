@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T21:58:39Z",
-  "last_checked": "2026-07-19T21:58:39Z",
+  "updated": "2026-07-19T23:02:10Z",
+  "last_checked": "2026-07-19T23:02:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -32,6 +32,20 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "17日のNY市場は続落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607609",
+      "published": "2026-07-19 21:45:03",
+      "isoDate": "2026-07-19T21:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は続落、原油高やハイテクの低迷が響く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607607",
+      "published": "2026-07-19 21:45:02",
+      "isoDate": "2026-07-19T21:45:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米企業の手元資金が増加、成長投資に積極活用＝モルガン・スタンレー",
@@ -69,24 +83,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国、米兵2名死亡を受けイランを攻撃",
-      "link": "https://jp.investing.com/news/economy-news/article-1607555",
-      "published": "2026-07-18 23:50:28",
-      "isoDate": "2026-07-18T23:50:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "テスラ株：自動車事業の改善はどこまで重要か？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1607552",
       "published": "2026-07-18 23:14:20",
       "isoDate": "2026-07-18T23:14:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "KOSPIの業績は改善しているのに、なぜ株価はより大きく下落しているのか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607551",
-      "published": "2026-07-18 21:52:41",
-      "isoDate": "2026-07-18T21:52:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,6 +104,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ギャラクシーCEO「3条件揃えば」ビットコイン10万ドルも",
+      "link": "https://coinpost.jp/?p=725956",
+      "published": "Mon, 20 Jul 2026 07:30:22 +0900",
+      "isoDate": "2026-07-19T22:30:22Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点｜bitbankアナリスト寄稿",
@@ -173,13 +180,6 @@
       "link": "https://coinpost.jp/?p=725809",
       "published": "Fri, 17 Jul 2026 17:04:39 +0900",
       "isoDate": "2026-07-17T08:04:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Bitcoin Japan、約97億円調達　初のBTC購入へ6.6億円充当方針",
-      "link": "https://coinpost.jp/?p=725712",
-      "published": "Fri, 17 Jul 2026 16:21:29 +0900",
-      "isoDate": "2026-07-17T07:21:29Z"
     }
   ]
 }
