@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T01:04:33Z",
-  "last_checked": "2026-07-19T01:04:33Z",
+  "updated": "2026-07-19T04:50:21Z",
+  "last_checked": "2026-07-19T04:50:21Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国株式市場、世界のAIセンチメントの重要指標に浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607561",
+      "published": "2026-07-19 01:57:58",
+      "isoDate": "2026-07-19T01:57:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国、米兵2名死亡を受けイランを攻撃",
       "link": "https://jp.investing.com/news/economy-news/article-1607555",
       "published": "2026-07-18 23:50:28",
@@ -129,14 +136,85 @@
       "link": "https://jp.investing.com/news/forex-news/article-1607504",
       "published": "2026-07-18 06:00:04",
       "isoDate": "2026-07-18T06:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "EtchedがAIチップ新規資金調達で200億ドル評価額を目指す―WSJ報道",
-      "link": "https://jp.investing.com/news/company-news/article-1607496",
-      "published": "2026-07-18 04:05:14",
-      "isoDate": "2026-07-18T04:05:14Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=725786",
+      "published": "Sun, 19 Jul 2026 11:30:46 +0900",
+      "isoDate": "2026-07-19T02:30:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（7/17）｜金商法改正案成立・ETF資金フロー・リップルCEO講演の動向まとめ",
+      "link": "https://coinpost.jp/?p=725613",
+      "published": "Sun, 19 Jul 2026 09:25:31 +0900",
+      "isoDate": "2026-07-19T00:25:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "パンテラが語る次の資金の潮流、ジーニアス法とAIが変える市場の未来｜WebX2026",
+      "link": "https://coinpost.jp/?p=724587",
+      "published": "Sun, 19 Jul 2026 09:00:00 +0900",
+      "isoDate": "2026-07-19T00:00:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発",
+      "link": "https://coinpost.jp/?p=725901",
+      "published": "Sat, 18 Jul 2026 14:00:21 +0900",
+      "isoDate": "2026-07-18T05:00:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
+      "link": "https://coinpost.jp/?p=725878",
+      "published": "Sat, 18 Jul 2026 10:15:17 +0900",
+      "isoDate": "2026-07-18T01:15:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン相場はもみ合い継続か、コインシェアーズが分析公開",
+      "link": "https://coinpost.jp/?p=725865",
+      "published": "Sat, 18 Jul 2026 09:45:11 +0900",
+      "isoDate": "2026-07-18T00:45:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FTX、7月31日に1460億円相当の5回目弁済を実施へ",
+      "link": "https://coinpost.jp/?p=725854",
+      "published": "Sat, 18 Jul 2026 07:25:48 +0900",
+      "isoDate": "2026-07-17T22:25:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ウォーレン議員、トランプ大統領に仮想通貨収益の最新開示を要求",
+      "link": "https://coinpost.jp/?p=725851",
+      "published": "Sat, 18 Jul 2026 05:50:02 +0900",
+      "isoDate": "2026-07-17T20:50:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SBIホールディングス、シンガポールのCoinhakoを連結子会社化",
+      "link": "https://coinpost.jp/?p=725847",
+      "published": "Sat, 18 Jul 2026 05:00:11 +0900",
+      "isoDate": "2026-07-17T20:00:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者、37万BTC買い増しで保有量最高＝アナリスト",
+      "link": "https://coinpost.jp/?p=725809",
+      "published": "Fri, 17 Jul 2026 17:04:39 +0900",
+      "isoDate": "2026-07-17T08:04:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Bitcoin Japan、約97億円調達　初のBTC購入へ6.6億円充当方針",
+      "link": "https://coinpost.jp/?p=725712",
+      "published": "Fri, 17 Jul 2026 16:21:29 +0900",
+      "isoDate": "2026-07-17T07:21:29Z"
+    }
+  ]
 }
