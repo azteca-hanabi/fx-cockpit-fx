@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T07:28:43Z",
-  "last_checked": "2026-07-19T07:28:43Z",
+  "updated": "2026-07-19T09:29:15Z",
+  "last_checked": "2026-07-19T09:29:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -57,16 +57,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1605050",
       "published": "2026-07-16 10:09:13",
       "isoDate": "2026-07-16T10:09:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSは銅市場の需給不足がロングポジションを支えると見る",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1604917",
-      "published": "2026-07-16 08:43:08",
-      "isoDate": "2026-07-16T08:43:08Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、「業務上の転換点」としてHSBCが格上げ――AI分野の主要アナリスト動向5選",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607583",
+      "published": "2026-07-19 09:00:02",
+      "isoDate": "2026-07-19T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ムーンショットAI、Kimi躍進を受けて6カ月以内に香港IPOを計画",
+      "link": "https://jp.investing.com/news/company-news/article-1607578",
+      "published": "2026-07-19 07:21:47",
+      "isoDate": "2026-07-19T07:21:47Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ホルムズ海峡の再閉鎖が世界経済に与える影響とは",
@@ -80,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607561",
       "published": "2026-07-19 01:57:58",
       "isoDate": "2026-07-19T01:57:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国、米兵2名死亡を受けイランを攻撃",
-      "link": "https://jp.investing.com/news/economy-news/article-1607555",
-      "published": "2026-07-18 23:50:28",
-      "isoDate": "2026-07-18T23:50:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1607511",
       "published": "2026-07-18 07:30:03",
       "isoDate": "2026-07-18T07:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "新興市場見通し：買い戻し先行も利食い浅く、大型生成AI株にらみの展開か",
-      "link": "https://jp.investing.com/news/forex-news/article-1607503",
-      "published": "2026-07-18 06:00:04",
-      "isoDate": "2026-07-18T06:00:04Z"
     }
   ],
   "btc_items": [
