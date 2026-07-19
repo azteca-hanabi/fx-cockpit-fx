@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T12:02:26Z",
-  "last_checked": "2026-07-19T12:02:26Z",
+  "updated": "2026-07-19T14:02:25Z",
+  "last_checked": "2026-07-19T14:02:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -29,27 +29,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1606282",
       "published": "2026-07-17 00:56:35",
       "isoDate": "2026-07-17T00:56:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ブラジルのインスタントコーヒー、米国の関税から適用除外に",
-      "link": "https://jp.investing.com/news/commodities-news/article-1605626",
-      "published": "2026-07-16 13:48:27",
-      "isoDate": "2026-07-16T13:48:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の輸送混乱の中、小麦価格は安定を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1605543",
-      "published": "2026-07-16 13:30:42",
-      "isoDate": "2026-07-16T13:30:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バンク・オブ・アメリカ、金価格のさらなる下落を警告――1980年・2011年の天井パターンが再浮上",
-      "link": "https://jp.investing.com/news/commodities-news/article-1605471",
-      "published": "2026-07-16 13:03:56",
-      "isoDate": "2026-07-16T13:03:56Z"
     }
   ],
   "usdjpy_items": [
@@ -90,6 +69,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国、米兵2名死亡を受けイランを攻撃",
+      "link": "https://jp.investing.com/news/economy-news/article-1607555",
+      "published": "2026-07-18 23:50:28",
+      "isoDate": "2026-07-18T23:50:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "テスラ株：自動車事業の改善はどこまで重要か？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1607552",
       "published": "2026-07-18 23:14:20",
@@ -108,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607544",
       "published": "2026-07-18 16:19:43",
       "isoDate": "2026-07-18T16:19:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースXの最大の長期的競合相手は中国、バーンスタインが指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607533",
-      "published": "2026-07-18 12:16:54",
-      "isoDate": "2026-07-18T12:16:54Z"
     },
     {
       "source": "Investing.com 外為",
