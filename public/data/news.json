@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T09:29:15Z",
-  "last_checked": "2026-07-19T09:29:15Z",
+  "updated": "2026-07-19T10:56:19Z",
+  "last_checked": "2026-07-19T10:56:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -50,16 +50,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1605471",
       "published": "2026-07-16 13:03:56",
       "isoDate": "2026-07-16T13:03:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、中東情勢悪化で15週ぶり高値を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1605050",
-      "published": "2026-07-16 10:09:13",
-      "isoDate": "2026-07-16T10:09:13Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "今週のウォール街アナリスト注目の格下げ情報まとめ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607588",
+      "published": "2026-07-19 10:00:02",
+      "isoDate": "2026-07-19T10:00:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "アップル、「業務上の転換点」としてHSBCが格上げ――AI分野の主要アナリスト動向5選",
@@ -115,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607533",
       "published": "2026-07-18 12:16:54",
       "isoDate": "2026-07-18T12:16:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本の公的年金基金によるリバランスの影響とは？",
-      "link": "https://jp.investing.com/news/economy-news/article-1607520",
-      "published": "2026-07-18 09:50:38",
-      "isoDate": "2026-07-18T09:50:38Z"
     },
     {
       "source": "Investing.com 外為",
