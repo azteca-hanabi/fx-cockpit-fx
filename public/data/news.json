@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-20T15:30:06Z",
-  "last_checked": "2026-07-20T15:30:06Z",
+  "updated": "2026-07-20T17:04:09Z",
+  "last_checked": "2026-07-20T17:04:09Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608837",
+      "published": "2026-07-20 16:50:08",
+      "isoDate": "2026-07-20T16:50:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "フランスの小麦生産減少にもかかわらず、欧州小麦先物は横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608833",
+      "published": "2026-07-20 16:46:55",
+      "isoDate": "2026-07-20T16:46:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "フーシ派封鎖でガソリン精製マージンが4年ぶり高値付近から小幅低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608822",
+      "published": "2026-07-20 16:28:08",
+      "isoDate": "2026-07-20T16:28:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡外でのタンカー間石油移送が減少",
@@ -50,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1607628",
       "published": "2026-07-20 01:46:29",
       "isoDate": "2026-07-20T01:46:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米イラン緊張激化でブレント原油が90ドル超え、その後は上昇幅縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-1607618",
-      "published": "2026-07-20 00:14:33",
-      "isoDate": "2026-07-20T00:14:33Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaのAgent Toolkit、3Dシミュレーション向けにOmniverseライブラリを追加",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1608766",
+      "published": "2026-07-20 15:01:09",
+      "isoDate": "2026-07-20T15:01:09Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "日経平均の下落は買い場、バリュエーションに割安感＝UBS",
@@ -90,20 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "フーシ派、サウジアラビアへの海上封鎖を即時宣言",
-      "link": "https://jp.investing.com/news/economy-news/article-1608389",
-      "published": "2026-07-20 12:20:45",
-      "isoDate": "2026-07-20T12:20:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ダウ・ナスダック・S&P500週間展望：メガキャップ企業の第2四半期決算に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1608299",
-      "published": "2026-07-20 11:36:23",
-      "isoDate": "2026-07-20T11:36:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米メモリ株の売り込みは好機、アナリストが指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1608257",
       "published": "2026-07-20 11:34:25",
@@ -122,6 +129,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1607639",
       "published": "2026-07-20 03:15:02",
       "isoDate": "2026-07-20T03:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "フォックスコン、SpaceXからAIサーバー受注——約5兆2000億円規模か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607620",
+      "published": "2026-07-20 00:33:10",
+      "isoDate": "2026-07-20T00:33:10Z"
     },
     {
       "source": "Investing.com 外為",
