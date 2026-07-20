@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-20T17:04:09Z",
-  "last_checked": "2026-07-20T17:04:09Z",
+  "updated": "2026-07-20T19:14:03Z",
+  "last_checked": "2026-07-20T19:14:03Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イラン情勢緊迫化で原油急騰、米ガソリン価格が1ガロン4ドル超に",
+      "link": "https://jp.investing.com/news/commodities-news/article-1608875",
+      "published": "2026-07-20 17:50:36",
+      "isoDate": "2026-07-20T17:50:36Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米戦略石油備蓄、1983年以来の最低水準に低下",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1607875",
       "published": "2026-07-20 07:52:02",
       "isoDate": "2026-07-20T07:52:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は米・イラン緊張とFRB利上げ観測を受け小幅安",
-      "link": "https://jp.investing.com/news/commodities-news/article-1607628",
-      "published": "2026-07-20 01:46:29",
-      "isoDate": "2026-07-20T01:46:29Z"
     }
   ],
   "usdjpy_items": [
