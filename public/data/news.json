@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T22:03:37Z",
-  "last_checked": "2026-07-20T22:03:37Z",
+  "updated": "2026-07-20T23:32:10Z",
+  "last_checked": "2026-07-20T23:32:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ティムコ、サイゼリヤ、キオクシアHDなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609064",
+      "published": "2026-07-20 22:30:03",
+      "isoDate": "2026-07-20T22:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "20日の米国市場ダイジェスト：米国株式市場は続落、対イラン対立激化で原油高を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1609065",
+      "published": "2026-07-20 22:30:03",
+      "isoDate": "2026-07-20T22:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：原油高で年内の利上げを織り込み長期金利上昇",
+      "link": "https://jp.investing.com/news/forex-news/article-1609056",
+      "published": "2026-07-20 21:45:02",
+      "isoDate": "2026-07-20T21:45:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceX、初の決算発表日を8月4日に設定――市場への影響は計り知れない",
       "link": "https://jp.investing.com/news/stock-market-news/article-1608966",
       "published": "2026-07-20 20:16:06",
       "isoDate": "2026-07-20T20:16:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのAgent Toolkit、3Dシミュレーション向けにOmniverseライブラリを追加",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1608766",
-      "published": "2026-07-20 15:01:09",
-      "isoDate": "2026-07-20T15:01:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ株が5%急騰、マイクロソフトとの大規模AI基盤契約を締結",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1608534",
-      "published": "2026-07-20 13:07:23",
-      "isoDate": "2026-07-20T13:07:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株の空売り残高が過去最高水準に、市場上昇にもかかわらず",
       "link": "https://jp.investing.com/news/stock-market-news/article-1608510",
       "published": "2026-07-20 13:04:14",
       "isoDate": "2026-07-20T13:04:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、アップルが7月30日に市場予想を上回ると予想",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1608474",
-      "published": "2026-07-20 12:54:02",
-      "isoDate": "2026-07-20T12:54:02Z"
     },
     {
       "source": "Investing.com 外為",
