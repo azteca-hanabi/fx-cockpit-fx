@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-20T01:05:36Z",
-  "last_checked": "2026-07-20T01:05:36Z",
+  "updated": "2026-07-20T05:07:30Z",
+  "last_checked": "2026-07-20T05:07:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が4,000ドルを割り込む、イラン情勢がFRBのインフレ懸念を高める",
+      "link": "https://jp.investing.com/news/commodities-news/article-1607628",
+      "published": "2026-07-20 01:46:29",
+      "isoDate": "2026-07-20T01:46:29Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油価格急騰、ブレント原油が90ドル突破――米イラン衝突が激化",
@@ -22,29 +29,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1606886",
       "published": "2026-07-17 11:35:07",
       "isoDate": "2026-07-17T11:35:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は上昇も週間では6週ぶりの大幅下落へ、中東情勢がインフレ懸念を高める",
-      "link": "https://jp.investing.com/news/commodities-news/article-1606330",
-      "published": "2026-07-17 02:55:56",
-      "isoDate": "2026-07-17T02:55:56Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は小動き、ドルと円に売り",
+      "link": "https://jp.investing.com/news/forex-news/article-1607653",
+      "published": "2026-07-20 04:30:03",
+      "isoDate": "2026-07-20T04:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "韓国KOSPIが急落、メモリチップ株が下落を主導",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607650",
+      "published": "2026-07-20 04:05:37",
+      "isoDate": "2026-07-20T04:05:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォン高が改革期待で突出、ドルは横ばい・円は薄商い",
+      "link": "https://jp.investing.com/news/forex-news/article-1607644",
+      "published": "2026-07-20 03:36:25",
+      "isoDate": "2026-07-20T03:36:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジア株式市場はまちまち、AI投資を再評価―韓国下落、中国が堅調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1607641",
+      "published": "2026-07-20 03:25:19",
+      "isoDate": "2026-07-20T03:25:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、ハイテク決算を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1607639",
+      "published": "2026-07-20 03:15:02",
+      "isoDate": "2026-07-20T03:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は安値圏、下値に堅さも",
+      "link": "https://jp.investing.com/news/forex-news/article-1607637",
+      "published": "2026-07-20 03:00:03",
+      "isoDate": "2026-07-20T03:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は戻りが鈍い、原油・米金利にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1607634",
+      "published": "2026-07-20 02:30:02",
+      "isoDate": "2026-07-20T02:30:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "フォックスコン、SpaceXからAIサーバー受注——約5兆2000億円規模か",
       "link": "https://jp.investing.com/news/stock-market-news/article-1607620",
       "published": "2026-07-20 00:33:10",
       "isoDate": "2026-07-20T00:33:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小高い、原油高・ドル高で",
-      "link": "https://jp.investing.com/news/forex-news/article-1607616",
-      "published": "2026-07-20 00:15:02",
-      "isoDate": "2026-07-20T00:15:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -59,120 +101,7 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607609",
       "published": "2026-07-19 21:45:03",
       "isoDate": "2026-07-19T21:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は続落、原油高やハイテクの低迷が響く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607607",
-      "published": "2026-07-19 21:45:02",
-      "isoDate": "2026-07-19T21:45:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米企業の手元資金が増加、成長投資に積極活用＝モルガン・スタンレー",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607599",
-      "published": "2026-07-19 17:10:55",
-      "isoDate": "2026-07-19T17:10:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、「業務上の転換点」としてHSBCが格上げ――AI分野の主要アナリスト動向5選",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607583",
-      "published": "2026-07-19 09:00:02",
-      "isoDate": "2026-07-19T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ムーンショットAI、Kimi躍進を受けて6カ月以内に香港IPOを計画",
-      "link": "https://jp.investing.com/news/company-news/article-1607578",
-      "published": "2026-07-19 07:21:47",
-      "isoDate": "2026-07-19T07:21:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国株式市場、世界のAIセンチメントの重要指標に浮上",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607561",
-      "published": "2026-07-19 01:57:58",
-      "isoDate": "2026-07-19T01:57:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：全国CPI、米AI・半導体関連株決算、ECB理事会",
-      "link": "https://jp.investing.com/news/forex-news/article-1607511",
-      "published": "2026-07-18 07:30:03",
-      "isoDate": "2026-07-18T07:30:03Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、弱気相場終盤入りのシグナル点灯か＝アナリスト",
-      "link": "https://coinpost.jp/?p=725974",
-      "published": "Mon, 20 Jul 2026 09:07:22 +0900",
-      "isoDate": "2026-07-20T00:07:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ギャラクシーCEO「3条件揃えば」ビットコイン10万ドルも",
-      "link": "https://coinpost.jp/?p=725956",
-      "published": "Mon, 20 Jul 2026 07:30:22 +0900",
-      "isoDate": "2026-07-19T22:30:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=725786",
-      "published": "Sun, 19 Jul 2026 11:30:46 +0900",
-      "isoDate": "2026-07-19T02:30:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（7/17）｜金商法改正案成立・ETF資金フロー・リップルCEO講演の動向まとめ",
-      "link": "https://coinpost.jp/?p=725613",
-      "published": "Sun, 19 Jul 2026 09:25:31 +0900",
-      "isoDate": "2026-07-19T00:25:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "パンテラが語る次の資金の潮流、ジーニアス法とAIが変える市場の未来｜WebX2026",
-      "link": "https://coinpost.jp/?p=724587",
-      "published": "Sun, 19 Jul 2026 09:00:00 +0900",
-      "isoDate": "2026-07-19T00:00:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発",
-      "link": "https://coinpost.jp/?p=725901",
-      "published": "Sat, 18 Jul 2026 14:00:21 +0900",
-      "isoDate": "2026-07-18T05:00:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
-      "link": "https://coinpost.jp/?p=725878",
-      "published": "Sat, 18 Jul 2026 10:15:17 +0900",
-      "isoDate": "2026-07-18T01:15:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン相場はもみ合い継続か、コインシェアーズが分析公開",
-      "link": "https://coinpost.jp/?p=725865",
-      "published": "Sat, 18 Jul 2026 09:45:11 +0900",
-      "isoDate": "2026-07-18T00:45:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FTX、7月31日に1460億円相当の5回目弁済を実施へ",
-      "link": "https://coinpost.jp/?p=725854",
-      "published": "Sat, 18 Jul 2026 07:25:48 +0900",
-      "isoDate": "2026-07-17T22:25:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ウォーレン議員、トランプ大統領に仮想通貨収益の最新開示を要求",
-      "link": "https://coinpost.jp/?p=725851",
-      "published": "Sat, 18 Jul 2026 05:50:02 +0900",
-      "isoDate": "2026-07-17T20:50:02Z"
-    }
-  ]
+  "btc_items": []
 }
