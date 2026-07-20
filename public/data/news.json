@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T20:48:56Z",
-  "last_checked": "2026-07-20T20:48:56Z",
+  "updated": "2026-07-20T22:03:37Z",
+  "last_checked": "2026-07-20T22:03:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceX、初の決算発表日を8月4日に設定――市場への影響は計り知れない",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1608966",
+      "published": "2026-07-20 20:16:06",
+      "isoDate": "2026-07-20T20:16:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaのAgent Toolkit、3Dシミュレーション向けにOmniverseライブラリを追加",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1608766",
       "published": "2026-07-20 15:01:09",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1607639",
       "published": "2026-07-20 03:15:02",
       "isoDate": "2026-07-20T03:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "フォックスコン、SpaceXからAIサーバー受注——約5兆2000億円規模か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607620",
-      "published": "2026-07-20 00:33:10",
-      "isoDate": "2026-07-20T00:33:10Z"
     },
     {
       "source": "Investing.com 外為",
