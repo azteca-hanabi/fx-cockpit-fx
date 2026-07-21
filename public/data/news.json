@@ -1,10 +1,17 @@
 {
-  "updated": "2026-07-21T06:11:54Z",
-  "last_checked": "2026-07-21T06:11:54Z",
+  "updated": "2026-07-21T09:10:40Z",
+  "last_checked": "2026-07-21T09:10:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格、米イラン緊張とフーシ派のサウジ封鎖を見極め高値維持",
+      "title": "欧州天然ガス価格、中東輸送路への新たな脅威で数カ月ぶり高値圏を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1609456",
+      "published": "2026-07-21 06:54:28",
+      "isoDate": "2026-07-21T06:54:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格下落、米イラン対立とフーシ派のサウジ封鎖を市場が注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1609117",
       "published": "2026-07-21 00:46:57",
       "isoDate": "2026-07-21T00:46:57Z"
@@ -64,22 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608601",
       "published": "2026-07-20 13:28:12",
       "isoDate": "2026-07-20T13:28:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドはガソリンへのエタノール混合率20%を維持、引き上げ計画なし",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608518",
-      "published": "2026-07-20 13:05:50",
-      "isoDate": "2026-07-20T13:05:50Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小動き、全般的に底堅さ",
-      "link": "https://jp.investing.com/news/forex-news/article-1609229",
-      "published": "2026-07-21 05:15:16",
-      "isoDate": "2026-07-21T05:15:16Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日ぶり反発、アドバンテストやソフトバンクGが2銘柄で775円分押上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609434",
+      "published": "2026-07-21 08:15:15",
+      "isoDate": "2026-07-21T08:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前週末の急落の反動などから買い戻され66000円台回復【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1609413",
+      "published": "2026-07-21 08:00:16",
+      "isoDate": "2026-07-21T08:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経VI：大幅に低下、株価大幅反発で警戒感は広がらず",
+      "link": "https://jp.investing.com/news/forex-news/article-1609326",
+      "published": "2026-07-21 07:00:15",
+      "isoDate": "2026-07-21T07:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1941円高、今週は内外企業の決算に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1609260",
+      "published": "2026-07-21 06:15:16",
+      "isoDate": "2026-07-21T06:15:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格が4,000ドルを突破、中東外交がFRBのインフレ懸念を和らげる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1609147",
-      "published": "2026-07-21 01:52:07",
-      "isoDate": "2026-07-21T01:52:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NvidiaがネオクラウドコンピューティングのNebius株9.3%を取得",
       "link": "https://jp.investing.com/news/stock-market-news/article-1609122",
       "published": "2026-07-21 01:01:31",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceX、初の決算発表日を8月4日に設定――市場への影響は計り知れない",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1608966",
-      "published": "2026-07-20 20:16:06",
-      "isoDate": "2026-07-20T20:16:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均の下落は買い場、バリュエーションに割安感＝UBS",
       "link": "https://jp.investing.com/news/stock-market-news/article-1608589",
       "published": "2026-07-20 13:21:34",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1608257",
       "published": "2026-07-20 11:34:25",
       "isoDate": "2026-07-20T11:34:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国KOSPIが急落、メモリチップ株が下落を主導",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607650",
-      "published": "2026-07-20 04:05:37",
-      "isoDate": "2026-07-20T04:05:37Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
+      "link": "https://coinpost.jp/?p=726278",
+      "published": "Tue, 21 Jul 2026 17:21:52 +0900",
+      "isoDate": "2026-07-21T08:21:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ナイジェリア、仮想通貨規制の大統領令に署名　評議会新設",
+      "link": "https://coinpost.jp/?p=726229",
+      "published": "Tue, 21 Jul 2026 15:25:09 +0900",
+      "isoDate": "2026-07-21T06:25:09Z"
+    },
     {
       "source": "CoinPost",
       "title": "メタプラネットの次なる成長戦略　ビットコインとデジタルクレジット構想｜WebX2026",
@@ -187,27 +201,6 @@
       "link": "https://coinpost.jp/?p=726003",
       "published": "Mon, 20 Jul 2026 14:07:17 +0900",
       "isoDate": "2026-07-20T05:07:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、弱気相場終盤入りのシグナル点灯か＝アナリスト",
-      "link": "https://coinpost.jp/?p=725974",
-      "published": "Mon, 20 Jul 2026 09:07:22 +0900",
-      "isoDate": "2026-07-20T00:07:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ギャラクシーCEO「3条件揃えば」ビットコイン10万ドルも",
-      "link": "https://coinpost.jp/?p=725956",
-      "published": "Mon, 20 Jul 2026 07:30:22 +0900",
-      "isoDate": "2026-07-19T22:30:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=725786",
-      "published": "Sun, 19 Jul 2026 11:30:46 +0900",
-      "isoDate": "2026-07-19T02:30:46Z"
     }
   ]
 }
