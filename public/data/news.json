@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T18:19:11Z",
-  "last_checked": "2026-07-21T18:19:11Z",
+  "updated": "2026-07-21T20:01:26Z",
+  "last_checked": "2026-07-21T20:01:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "7月21日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1610593",
+      "published": "2026-07-21 19:15:05",
+      "isoDate": "2026-07-21T19:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "DatabricksのCEO、「あらゆる地域でGPUが不足している」と発言",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610588",
+      "published": "2026-07-21 18:54:55",
+      "isoDate": "2026-07-21T18:54:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがVera Rubin次世代AIチップの量産を開始",
       "link": "https://jp.investing.com/news/stock-market-news/article-1610472",
       "published": "2026-07-21 15:12:26",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1610342",
       "published": "2026-07-21 14:07:59",
       "isoDate": "2026-07-21T14:07:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AccelsiusのTwo相変冷却、Nvidia B200サーバーでシングルフェーズを上回る",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1609935",
-      "published": "2026-07-21 12:01:12",
-      "isoDate": "2026-07-21T12:01:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1941円高、今週は内外企業の決算に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1609260",
-      "published": "2026-07-21 06:15:16",
-      "isoDate": "2026-07-21T06:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、ハイテク決算発表を注視",
       "link": "https://jp.investing.com/news/forex-news/article-1609210",
       "published": "2026-07-21 04:45:17",
@@ -139,6 +139,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コインシェアーズ、欧州市場に参入　ビットコインマイニングETFを上場",
+      "link": "https://coinpost.jp/?p=726331",
+      "published": "Wed, 22 Jul 2026 05:00:02 +0900",
+      "isoDate": "2026-07-21T20:00:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
