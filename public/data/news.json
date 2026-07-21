@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T21:40:17Z",
-  "last_checked": "2026-07-21T21:40:17Z",
+  "updated": "2026-07-21T23:00:59Z",
+  "last_checked": "2026-07-21T23:00:59Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Super Microの株価が20%急騰、600億ドルの受注残と高利益率が低調な売上高を上回る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610663",
-      "published": "2026-07-21 20:15:48",
-      "isoDate": "2026-07-21T20:15:48Z"
+      "title": "21日の米国市場ダイジェスト：米国株式市場は反発、AI関連の回復が支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1610822",
+      "published": "2026-07-21 22:15:05",
+      "isoDate": "2026-07-21T22:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは385.38ドル高、AI関連の回復が支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1610772",
+      "published": "2026-07-21 21:00:05",
+      "isoDate": "2026-07-21T21:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1941円高、今週は内外企業の決算に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1609260",
-      "published": "2026-07-21 06:15:16",
-      "isoDate": "2026-07-21T06:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、ハイテク決算発表を注視",
       "link": "https://jp.investing.com/news/forex-news/article-1609210",
       "published": "2026-07-21 04:45:17",
@@ -139,6 +139,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ソラナ基盤のJito、取引プラットフォーム「JTX」をパブリックローンチ",
+      "link": "https://coinpost.jp/?p=726353",
+      "published": "Wed, 22 Jul 2026 08:00:38 +0900",
+      "isoDate": "2026-07-21T23:00:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア下院が仮想通貨規制法を可決、9月1日発効見通し",
+      "link": "https://coinpost.jp/?p=726341",
+      "published": "Wed, 22 Jul 2026 06:40:18 +0900",
+      "isoDate": "2026-07-21T21:40:18Z"
+    },
     {
       "source": "CoinPost",
       "title": "コインシェアーズ、欧州市場に参入　ビットコインマイニングETFを上場",
@@ -187,13 +201,6 @@
       "link": "https://coinpost.jp/?p=726083",
       "published": "Tue, 21 Jul 2026 10:26:16 +0900",
       "isoDate": "2026-07-21T01:26:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、先週はビットコインの購入も売却もなし　米ドル準備金は約5240億円に増加",
-      "link": "https://coinpost.jp/?p=726019",
-      "published": "Tue, 21 Jul 2026 09:25:15 +0900",
-      "isoDate": "2026-07-21T00:25:15Z"
     }
   ]
 }
