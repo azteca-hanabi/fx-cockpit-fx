@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-21T20:01:26Z",
-  "last_checked": "2026-07-21T20:01:26Z",
+  "updated": "2026-07-21T21:40:17Z",
+  "last_checked": "2026-07-21T21:40:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ICEキャノーラ先物、利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1610708",
+      "published": "2026-07-21 20:28:43",
+      "isoDate": "2026-07-21T20:28:43Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSは金価格が1オンス3,850ドルに下落した際に買い増しを推奨",
@@ -57,16 +64,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1609117",
       "published": "2026-07-21 00:46:57",
       "isoDate": "2026-07-21T00:46:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラン情勢緊迫化で原油急騰、米ガソリン価格が1ガロン4ドル超に",
-      "link": "https://jp.investing.com/news/commodities-news/article-1608875",
-      "published": "2026-07-20 17:50:36",
-      "isoDate": "2026-07-20T17:50:36Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Super Microの株価が20%急騰、600億ドルの受注残と高利益率が低調な売上高を上回る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610663",
+      "published": "2026-07-21 20:15:48",
+      "isoDate": "2026-07-21T20:15:48Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "7月21日のNY為替概況",
@@ -97,20 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "スペースX株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1610342",
-      "published": "2026-07-21 14:07:59",
-      "isoDate": "2026-07-21T14:07:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティのチュー氏：米国株のポジション解消はまだ終わっていない可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1609914",
-      "published": "2026-07-21 11:55:20",
-      "isoDate": "2026-07-21T11:55:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "エネルギーがEPS成長率122%で第2四半期をリードへ、AI選定銘柄はすでに好調",
       "link": "https://jp.investing.com/news/stock-market-news/article-1609517",
       "published": "2026-07-21 08:23:17",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1609434",
       "published": "2026-07-21 08:15:15",
       "isoDate": "2026-07-21T08:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1941円高、今週は内外企業の決算に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1609260",
+      "published": "2026-07-21 06:15:16",
+      "isoDate": "2026-07-21T06:15:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -194,13 +194,6 @@
       "link": "https://coinpost.jp/?p=726019",
       "published": "Tue, 21 Jul 2026 09:25:15 +0900",
       "isoDate": "2026-07-21T00:25:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セイラー氏、ビットコインBIP-110に「110の理由」で全面反対",
-      "link": "https://coinpost.jp/?p=726003",
-      "published": "Mon, 20 Jul 2026 14:07:17 +0900",
-      "isoDate": "2026-07-20T05:07:17Z"
     }
   ]
 }
