@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-20T23:32:10Z",
-  "last_checked": "2026-07-20T23:32:10Z",
+  "updated": "2026-07-21T03:15:36Z",
+  "last_checked": "2026-07-21T03:15:36Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、米イラン緊張とフーシ派のサウジ封鎖を見極め高値維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1609117",
+      "published": "2026-07-21 00:46:57",
+      "isoDate": "2026-07-21T00:46:57Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イラン情勢緊迫化で原油急騰、米ガソリン価格が1ガロン4ドル超に",
@@ -64,36 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608518",
       "published": "2026-07-20 13:05:50",
       "isoDate": "2026-07-20T13:05:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡のタンカー火災を受け、欧州ガス価格が3%急騰し数カ月ぶり高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-1607875",
-      "published": "2026-07-20 07:52:02",
-      "isoDate": "2026-07-20T07:52:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1ティムコ、サイゼリヤ、キオクシアHDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1609064",
-      "published": "2026-07-20 22:30:03",
-      "isoDate": "2026-07-20T22:30:03Z"
+      "title": "金価格が4,000ドルを突破、中東情勢と米連邦準備制度の動向に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609147",
+      "published": "2026-07-21 01:52:07",
+      "isoDate": "2026-07-21T01:52:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "20日の米国市場ダイジェスト：米国株式市場は続落、対イラン対立激化で原油高を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1609065",
-      "published": "2026-07-20 22:30:03",
-      "isoDate": "2026-07-20T22:30:03Z"
+      "title": "NvidiaがネオクラウドコンピューティングのNebius株9.3%を取得",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609122",
+      "published": "2026-07-21 01:01:31",
+      "isoDate": "2026-07-21T01:01:31Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：原油高で年内の利上げを織り込み長期金利上昇",
-      "link": "https://jp.investing.com/news/forex-news/article-1609056",
-      "published": "2026-07-20 21:45:02",
-      "isoDate": "2026-07-20T21:45:02Z"
+      "title": "日経平均は402円高でスタート、イビデンやキオクシアHDなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609111",
+      "published": "2026-07-21 00:45:09",
+      "isoDate": "2026-07-21T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "売り一巡後のキオクシアの動向が注目される",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609088",
+      "published": "2026-07-21 00:00:06",
+      "isoDate": "2026-07-21T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～売り一巡後のキオクシアの動向が注目される～",
+      "link": "https://jp.investing.com/news/forex-news/article-1609089",
+      "published": "2026-07-21 00:00:06",
+      "isoDate": "2026-07-21T00:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1607650",
       "published": "2026-07-20 04:05:37",
       "isoDate": "2026-07-20T04:05:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテク決算を見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1607639",
-      "published": "2026-07-20 03:15:02",
-      "isoDate": "2026-07-20T03:15:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "17日のNY市場は続落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1607609",
-      "published": "2026-07-19 21:45:03",
-      "isoDate": "2026-07-19T21:45:03Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、先週は7430ETHのイーサリアムを取得　購入減速の理由は自社株買いと説明",
+      "link": "https://coinpost.jp/?p=726052",
+      "published": "Tue, 21 Jul 2026 11:15:01 +0900",
+      "isoDate": "2026-07-21T02:15:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ氏、クラリティー法の倫理条項に同意",
+      "link": "https://coinpost.jp/?p=726083",
+      "published": "Tue, 21 Jul 2026 10:26:16 +0900",
+      "isoDate": "2026-07-21T01:26:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、先週はビットコインの購入も売却もなし　米ドル準備金は約5240億円に増加",
+      "link": "https://coinpost.jp/?p=726019",
+      "published": "Tue, 21 Jul 2026 09:25:15 +0900",
+      "isoDate": "2026-07-21T00:25:15Z"
+    },
     {
       "source": "CoinPost",
       "title": "セイラー氏、ビットコインBIP-110に「110の理由」で全面反対",
@@ -194,20 +215,6 @@
       "link": "https://coinpost.jp/?p=725901",
       "published": "Sat, 18 Jul 2026 14:00:21 +0900",
       "isoDate": "2026-07-18T05:00:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Trezor幹部、ZachXBT氏のハードウォレット批判発言に反論",
-      "link": "https://coinpost.jp/?p=725878",
-      "published": "Sat, 18 Jul 2026 10:15:17 +0900",
-      "isoDate": "2026-07-18T01:15:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン相場はもみ合い継続か、コインシェアーズが分析公開",
-      "link": "https://coinpost.jp/?p=725865",
-      "published": "Sat, 18 Jul 2026 09:45:11 +0900",
-      "isoDate": "2026-07-18T00:45:11Z"
     }
   ]
 }
