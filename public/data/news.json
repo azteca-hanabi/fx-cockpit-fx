@@ -1,17 +1,45 @@
 {
-  "updated": "2026-07-21T11:23:52Z",
-  "last_checked": "2026-07-21T11:23:52Z",
+  "updated": "2026-07-21T12:55:34Z",
+  "last_checked": "2026-07-21T12:55:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格、中東輸送路への新たな脅威で数カ月ぶり高値圏を維持",
+      "title": "中国、イランからの原油購入を40%削減＝ベッセント米財務長官",
+      "link": "https://jp.investing.com/news/commodities-news/article-1610080",
+      "published": "2026-07-21 12:36:38",
+      "isoDate": "2026-07-21T12:36:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSが銀の押し目買い推奨レンジを引き下げ、新たな買い場はここだ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1609906",
+      "published": "2026-07-21 11:45:13",
+      "isoDate": "2026-07-21T11:45:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給懸念を受け、IEAが石油市場を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1609823",
+      "published": "2026-07-21 11:19:49",
+      "isoDate": "2026-07-21T11:19:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジアラビアの原油輸出、5月に減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1609798",
+      "published": "2026-07-21 11:11:36",
+      "isoDate": "2026-07-21T11:11:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州ガス価格、中東輸送路への新たな脅威で高値圏維持",
       "link": "https://jp.investing.com/news/commodities-news/article-1609456",
       "published": "2026-07-21 06:54:28",
       "isoDate": "2026-07-21T06:54:28Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格下落、米・イラン衝突とフーシ派のサウジ封鎖脅威を市場が注視",
+      "title": "中東緊張が高まる中、原油価格は乱高下",
       "link": "https://jp.investing.com/news/commodities-news/article-1609117",
       "published": "2026-07-21 00:46:57",
       "isoDate": "2026-07-21T00:46:57Z"
@@ -36,50 +64,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608833",
       "published": "2026-07-20 16:46:55",
       "isoDate": "2026-07-20T16:46:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フーシ派封鎖でガソリン精製マージンが4年ぶり高値付近から小幅低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608822",
-      "published": "2026-07-20 16:28:08",
-      "isoDate": "2026-07-20T16:28:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡外でのタンカー間石油移送が減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608708",
-      "published": "2026-07-20 14:21:16",
-      "isoDate": "2026-07-20T14:21:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物、米中西部の乾燥懸念で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608651",
-      "published": "2026-07-20 13:54:55",
-      "isoDate": "2026-07-20T13:54:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の船舶輸送懸念で小麦先物が2年ぶり高値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608638",
-      "published": "2026-07-20 13:44:34",
-      "isoDate": "2026-07-20T13:44:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、2週間ぶり安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1608601",
-      "published": "2026-07-20 13:28:12",
-      "isoDate": "2026-07-20T13:28:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "TSMCが2027年から半導体製造価格を最大10%引き上げへ――日経報道",
-      "link": "https://jp.investing.com/news/company-news/article-1609549",
-      "published": "2026-07-21 09:34:58",
-      "isoDate": "2026-07-21T09:34:58Z"
+      "title": "マイクロソフトとMistral、数十億ドル規模の契約でAIパートナーシップを拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1610053",
+      "published": "2026-07-21 12:31:21",
+      "isoDate": "2026-07-21T12:31:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AccelsiusのTwo相変冷却、Nvidia B200サーバーでシングルフェーズを上回る",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1609935",
+      "published": "2026-07-21 12:01:12",
+      "isoDate": "2026-07-21T12:01:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "シティのチュー氏：米国株のポジション解消はまだ終わっていない可能性",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1609914",
+      "published": "2026-07-21 11:55:20",
+      "isoDate": "2026-07-21T11:55:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1609434",
       "published": "2026-07-21 08:15:15",
       "isoDate": "2026-07-21T08:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前週末の急落の反動などから買い戻され66000円台回復【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1609413",
-      "published": "2026-07-21 08:00:16",
-      "isoDate": "2026-07-21T08:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +136,64 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1609111",
       "published": "2026-07-21 00:45:09",
       "isoDate": "2026-07-21T00:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均の下落は買い場、バリュエーションに割安感＝UBS",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1608589",
-      "published": "2026-07-20 13:21:34",
-      "isoDate": "2026-07-20T13:21:34Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
+      "link": "https://coinpost.jp/?p=726278",
+      "published": "Tue, 21 Jul 2026 17:21:52 +0900",
+      "isoDate": "2026-07-21T08:21:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ナイジェリア、仮想通貨規制の大統領令に署名　評議会新設",
+      "link": "https://coinpost.jp/?p=726229",
+      "published": "Tue, 21 Jul 2026 15:25:09 +0900",
+      "isoDate": "2026-07-21T06:25:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットの次なる成長戦略　ビットコインとデジタルクレジット構想｜WebX2026",
+      "link": "https://coinpost.jp/?p=724731",
+      "published": "Tue, 21 Jul 2026 14:40:55 +0900",
+      "isoDate": "2026-07-21T05:40:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア下院、仮想通貨規制法案の採決へ　非適格投資家にも正式購入の道",
+      "link": "https://coinpost.jp/?p=726126",
+      "published": "Tue, 21 Jul 2026 14:21:33 +0900",
+      "isoDate": "2026-07-21T05:21:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットマイン、先週は7430ETHのイーサリアムを取得　購入減速の理由は自社株買いと説明",
+      "link": "https://coinpost.jp/?p=726052",
+      "published": "Tue, 21 Jul 2026 11:15:01 +0900",
+      "isoDate": "2026-07-21T02:15:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、クラリティー法の倫理条項に同意",
+      "link": "https://coinpost.jp/?p=726083",
+      "published": "Tue, 21 Jul 2026 10:26:16 +0900",
+      "isoDate": "2026-07-21T01:26:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、先週はビットコインの購入も売却もなし　米ドル準備金は約5240億円に増加",
+      "link": "https://coinpost.jp/?p=726019",
+      "published": "Tue, 21 Jul 2026 09:25:15 +0900",
+      "isoDate": "2026-07-21T00:25:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏、ビットコインBIP-110に「110の理由」で全面反対",
+      "link": "https://coinpost.jp/?p=726003",
+      "published": "Mon, 20 Jul 2026 14:07:17 +0900",
+      "isoDate": "2026-07-20T05:07:17Z"
+    }
+  ]
 }
