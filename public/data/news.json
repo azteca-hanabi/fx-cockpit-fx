@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T15:06:59Z",
-  "last_checked": "2026-07-21T15:06:59Z",
+  "updated": "2026-07-21T16:56:15Z",
+  "last_checked": "2026-07-21T16:56:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インテル、データセンター部門で人員削減を計画",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610366",
-      "published": "2026-07-21 14:17:49",
-      "isoDate": "2026-07-21T14:17:49Z"
+      "title": "中国のオープンLLMはメモリ需要への脅威ではない、バンク・オブ・アメリカが指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610481",
+      "published": "2026-07-21 15:23:44",
+      "isoDate": "2026-07-21T15:23:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがVera Rubin次世代AIチップの量産を開始",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610472",
+      "published": "2026-07-21 15:12:26",
+      "isoDate": "2026-07-21T15:12:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1610342",
       "published": "2026-07-21 14:07:59",
       "isoDate": "2026-07-21T14:07:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "みずほ、大手ソフトウェア株を「最も魅力的なリスク/リワード」と評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610223",
-      "published": "2026-07-21 13:09:25",
-      "isoDate": "2026-07-21T13:09:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフトとMistral、数十億ドル規模の契約でAIパートナーシップを拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1610053",
-      "published": "2026-07-21 12:31:21",
-      "isoDate": "2026-07-21T12:31:21Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1609434",
       "published": "2026-07-21 08:15:15",
       "isoDate": "2026-07-21T08:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、ハイテク決算発表を注視",
+      "link": "https://jp.investing.com/news/forex-news/article-1609210",
+      "published": "2026-07-21 04:45:17",
+      "isoDate": "2026-07-21T04:45:17Z"
     },
     {
       "source": "Investing.com 外為",
