@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T23:00:59Z",
-  "last_checked": "2026-07-21T23:00:59Z",
+  "updated": "2026-07-22T00:56:21Z",
+  "last_checked": "2026-07-22T00:56:21Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,6 +69,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イビデン---75日線突破からの一段のリバウンド狙い",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610859",
+      "published": "2026-07-22 00:00:08",
+      "isoDate": "2026-07-22T00:00:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシアのリバウンド継続でセンチメント改善",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610852",
+      "published": "2026-07-21 23:45:07",
+      "isoDate": "2026-07-21T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株高を映して買い先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610846",
+      "published": "2026-07-21 23:30:07",
+      "isoDate": "2026-07-21T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY金：反発で4,088.15ドル、米国のイラン攻撃継続で質への逃避需要高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1610833",
+      "published": "2026-07-21 23:00:05",
+      "isoDate": "2026-07-21T23:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "21日の米国市場ダイジェスト：米国株式市場は反発、AI関連の回復が支援",
       "link": "https://jp.investing.com/news/forex-news/article-1610822",
       "published": "2026-07-21 22:15:05",
@@ -80,27 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1610772",
       "published": "2026-07-21 21:00:05",
       "isoDate": "2026-07-21T21:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "7月21日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1610593",
-      "published": "2026-07-21 19:15:05",
-      "isoDate": "2026-07-21T19:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "DatabricksのCEO、「あらゆる地域でGPUが不足している」と発言",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610588",
-      "published": "2026-07-21 18:54:55",
-      "isoDate": "2026-07-21T18:54:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがVera Rubin次世代AIチップの量産を開始",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610472",
-      "published": "2026-07-21 15:12:26",
-      "isoDate": "2026-07-21T15:12:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,82 +132,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテク決算発表を注視",
-      "link": "https://jp.investing.com/news/forex-news/article-1609210",
-      "published": "2026-07-21 04:45:17",
-      "isoDate": "2026-07-21T04:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は402円高でスタート、イビデンやキオクシアHDなどが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1609111",
       "published": "2026-07-21 00:45:09",
       "isoDate": "2026-07-21T00:45:09Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ソラナ基盤のJito、取引プラットフォーム「JTX」をパブリックローンチ",
-      "link": "https://coinpost.jp/?p=726353",
-      "published": "Wed, 22 Jul 2026 08:00:38 +0900",
-      "isoDate": "2026-07-21T23:00:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア下院が仮想通貨規制法を可決、9月1日発効見通し",
-      "link": "https://coinpost.jp/?p=726341",
-      "published": "Wed, 22 Jul 2026 06:40:18 +0900",
-      "isoDate": "2026-07-21T21:40:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインシェアーズ、欧州市場に参入　ビットコインマイニングETFを上場",
-      "link": "https://coinpost.jp/?p=726331",
-      "published": "Wed, 22 Jul 2026 05:00:02 +0900",
-      "isoDate": "2026-07-21T20:00:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
-      "link": "https://coinpost.jp/?p=726278",
-      "published": "Tue, 21 Jul 2026 17:21:52 +0900",
-      "isoDate": "2026-07-21T08:21:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ナイジェリア、仮想通貨規制の大統領令に署名　評議会新設",
-      "link": "https://coinpost.jp/?p=726229",
-      "published": "Tue, 21 Jul 2026 15:25:09 +0900",
-      "isoDate": "2026-07-21T06:25:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットの次なる成長戦略　ビットコインとデジタルクレジット構想｜WebX2026",
-      "link": "https://coinpost.jp/?p=724731",
-      "published": "Tue, 21 Jul 2026 14:40:55 +0900",
-      "isoDate": "2026-07-21T05:40:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア下院、仮想通貨規制法案の採決へ　非適格投資家にも正式購入の道",
-      "link": "https://coinpost.jp/?p=726126",
-      "published": "Tue, 21 Jul 2026 14:21:33 +0900",
-      "isoDate": "2026-07-21T05:21:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットマイン、先週は7430ETHのイーサリアムを取得　購入減速の理由は自社株買いと説明",
-      "link": "https://coinpost.jp/?p=726052",
-      "published": "Tue, 21 Jul 2026 11:15:01 +0900",
-      "isoDate": "2026-07-21T02:15:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、クラリティー法の倫理条項に同意",
-      "link": "https://coinpost.jp/?p=726083",
-      "published": "Tue, 21 Jul 2026 10:26:16 +0900",
-      "isoDate": "2026-07-21T01:26:16Z"
-    }
-  ]
+  "btc_items": []
 }
