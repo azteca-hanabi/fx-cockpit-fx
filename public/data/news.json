@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T19:26:43Z",
-  "last_checked": "2026-07-22T19:26:43Z",
+  "updated": "2026-07-22T20:40:29Z",
+  "last_checked": "2026-07-22T20:40:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,69 +145,5 @@
       "isoDate": "2026-07-22T00:15:09Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ベッセント米財務長官、クラリティー法採決目前と発言",
-      "link": "https://coinpost.jp/?p=726565",
-      "published": "Wed, 22 Jul 2026 17:50:41 +0900",
-      "isoDate": "2026-07-22T08:50:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ANAPホールディングス、ビットコイン専門家東晃慈氏が参画",
-      "link": "https://coinpost.jp/?p=726490",
-      "published": "Wed, 22 Jul 2026 14:19:48 +0900",
-      "isoDate": "2026-07-22T05:19:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "2024年以降ローンチの新規仮想通貨、9割超がTGE価格下回る＝CryptoRank",
-      "link": "https://coinpost.jp/?p=726447",
-      "published": "Wed, 22 Jul 2026 13:55:42 +0900",
-      "isoDate": "2026-07-22T04:55:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ギャラクシーデジタル、ビットコイン量子対策で最大8億円の助成金提供",
-      "link": "https://coinpost.jp/?p=726432",
-      "published": "Wed, 22 Jul 2026 13:30:04 +0900",
-      "isoDate": "2026-07-22T04:30:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英上場企業サツマ、保有ビットコインを売却へ　資本返還と上場廃止を決議",
-      "link": "https://coinpost.jp/?p=726391",
-      "published": "Wed, 22 Jul 2026 10:35:42 +0900",
-      "isoDate": "2026-07-22T01:35:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=726363",
-      "published": "Wed, 22 Jul 2026 09:00:52 +0900",
-      "isoDate": "2026-07-22T00:00:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコインDAT企業トゥエンティワン・キャピタルのCEOが退任、テザー主導の3社合併も白紙に",
-      "link": "https://coinpost.jp/?p=726339",
-      "published": "Wed, 22 Jul 2026 08:30:14 +0900",
-      "isoDate": "2026-07-21T23:30:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ基盤のJito、取引プラットフォーム「JTX」をパブリックローンチ",
-      "link": "https://coinpost.jp/?p=726353",
-      "published": "Wed, 22 Jul 2026 08:00:38 +0900",
-      "isoDate": "2026-07-21T23:00:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロシア下院が仮想通貨規制法を可決、9月1日発効見通し",
-      "link": "https://coinpost.jp/?p=726341",
-      "published": "Wed, 22 Jul 2026 06:40:18 +0900",
-      "isoDate": "2026-07-21T21:40:18Z"
-    }
-  ]
+  "btc_items": []
 }
