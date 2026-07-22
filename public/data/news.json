@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T17:49:16Z",
-  "last_checked": "2026-07-22T17:49:16Z",
+  "updated": "2026-07-22T19:26:43Z",
+  "last_checked": "2026-07-22T19:26:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -39,7 +39,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "中東紛争激化で原油価格が6月11日以来初めて95ドル超え",
+      "title": "トランプ大統領、イランの橋や発電所への攻撃を警告――ブレント原油が一時95ドル超",
       "link": "https://jp.investing.com/news/commodities-news/article-1610898",
       "published": "2026-07-22 00:54:20",
       "isoDate": "2026-07-22T00:54:20Z"
@@ -90,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Nvidiaが医療ロボティクス向けオープンソースシミュレーション基盤を公開",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1611839",
-      "published": "2026-07-22 13:04:05",
-      "isoDate": "2026-07-22T13:04:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アドバンスト・マイクロ・デバイセズ、AnthropicとのAI大型契約で株価2%上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1611757",
       "published": "2026-07-22 12:41:11",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1610914",
       "published": "2026-07-22 01:21:00",
       "isoDate": "2026-07-22T01:21:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: インソースやEMシステムズに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1610871",
+      "published": "2026-07-22 00:15:09",
+      "isoDate": "2026-07-22T00:15:09Z"
     }
   ],
   "btc_items": [
