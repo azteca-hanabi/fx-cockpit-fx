@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T22:07:37Z",
-  "last_checked": "2026-07-22T22:07:37Z",
+  "updated": "2026-07-22T23:31:17Z",
+  "last_checked": "2026-07-22T23:31:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インテル、オハイオ州の半導体工場でパートナーシップを検討―SKハイニックスも候補に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612634",
-      "published": "2026-07-22 21:19:17",
-      "isoDate": "2026-07-22T21:19:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "テスラ株、四半期利益が予想を下回り時間外取引で下落",
       "link": "https://jp.investing.com/news/earnings/article-1612495",
       "published": "2026-07-22 20:20:24",
@@ -118,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "Super Microが第4四半期決算後に急騰、RedditとGE Vernovaは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1611537",
+      "published": "2026-07-22 11:29:23",
+      "isoDate": "2026-07-22T11:29:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "上昇余地+61%、AIが選んだ成長中のヘルスケアリーダーが52週安値で取引",
       "link": "https://jp.investing.com/news/stock-market-news/article-1611362",
       "published": "2026-07-22 09:56:38",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "S&Pとパンテラ、ファンダ重視の仮想通貨指数をローンチ　ETHやBNBなど18銘柄で構成",
+      "link": "https://coinpost.jp/?p=726609",
+      "published": "Thu, 23 Jul 2026 08:02:52 +0900",
+      "isoDate": "2026-07-22T23:02:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースの情報公開訴訟、米SECが15万ドル賠償で和解",
+      "link": "https://coinpost.jp/?p=726602",
+      "published": "Thu, 23 Jul 2026 07:02:46 +0900",
+      "isoDate": "2026-07-22T22:02:46Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "仮想通貨の利回りツールに米証券法適用可能性、パースSEC委員が声明",
       "link": "https://coinpost.jp/?p=726596",
       "published": "Thu, 23 Jul 2026 06:20:20 +0900",
@@ -155,7 +169,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "米クラリティー法案の最新条文公開、大統領への仮想通貨発行禁止措置が2029年失効",
+      "title": "米クラリティー法案の最新草案、大統領の仮想通貨発行を禁止するも2029年には失効",
       "link": "https://coinpost.jp/?p=726594",
       "published": "Thu, 23 Jul 2026 05:35:51 +0900",
       "isoDate": "2026-07-22T20:35:51Z"
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=726363",
       "published": "Wed, 22 Jul 2026 09:00:52 +0900",
       "isoDate": "2026-07-22T00:00:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米ビットコインDAT企業トゥエンティワン・キャピタルのCEOが退任、テザー主導の3社合併も白紙に",
-      "link": "https://coinpost.jp/?p=726339",
-      "published": "Wed, 22 Jul 2026 08:30:14 +0900",
-      "isoDate": "2026-07-21T23:30:14Z"
     }
   ]
 }
