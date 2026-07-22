@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-22T00:56:21Z",
-  "last_checked": "2026-07-22T00:56:21Z",
+  "updated": "2026-07-22T04:22:16Z",
+  "last_checked": "2026-07-22T04:22:16Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が4,100ドルを突破、中東緊張が相場を下支え",
+      "link": "https://jp.investing.com/news/commodities-news/article-1610927",
+      "published": "2026-07-22 01:53:57",
+      "isoDate": "2026-07-22T01:53:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油、4日続伸――米・イラン衝突とサウジ海上封鎖が供給不安を高める",
+      "link": "https://jp.investing.com/news/commodities-news/article-1610898",
+      "published": "2026-07-22 00:54:20",
+      "isoDate": "2026-07-22T00:54:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ICEキャノーラ先物、利益確定売りで下落",
@@ -50,29 +64,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1609798",
       "published": "2026-07-21 11:11:36",
       "isoDate": "2026-07-21T11:11:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格、中東輸送路への新たな脅威で高値圏維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1609456",
-      "published": "2026-07-21 06:54:28",
-      "isoDate": "2026-07-21T06:54:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東緊張激化でボラタイルな取引の中、原油価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1609117",
-      "published": "2026-07-21 00:46:57",
-      "isoDate": "2026-07-21T00:46:57Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イビデン---75日線突破からの一段のリバウンド狙い",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610859",
-      "published": "2026-07-22 00:00:08",
-      "isoDate": "2026-07-22T00:00:08Z"
+      "title": "SKハイニックス、インテルのオハイオ半導体拠点買収交渉中と報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610948",
+      "published": "2026-07-22 02:19:27",
+      "isoDate": "2026-07-22T02:19:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格が4,100ドルを突破、中東緊張が相場を下支え",
+      "link": "https://jp.investing.com/news/commodities-news/article-1610927",
+      "published": "2026-07-22 01:53:57",
+      "isoDate": "2026-07-22T01:53:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシア---大幅続伸、海外半導体メモリー株の上昇に追随",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610922",
+      "published": "2026-07-22 01:45:12",
+      "isoDate": "2026-07-22T01:45:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が安定、テスラとアルファベットの決算に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1610914",
+      "published": "2026-07-22 01:21:00",
+      "isoDate": "2026-07-22T01:21:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: インソースやEMシステムズに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1610871",
+      "published": "2026-07-22 00:15:09",
+      "isoDate": "2026-07-22T00:15:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,27 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1610852",
       "published": "2026-07-21 23:45:07",
       "isoDate": "2026-07-21T23:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株高を映して買い先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1610846",
-      "published": "2026-07-21 23:30:07",
-      "isoDate": "2026-07-21T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：反発で4,088.15ドル、米国のイラン攻撃継続で質への逃避需要高まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1610833",
-      "published": "2026-07-21 23:00:05",
-      "isoDate": "2026-07-21T23:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "21日の米国市場ダイジェスト：米国株式市場は反発、AI関連の回復が支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1610822",
-      "published": "2026-07-21 22:15:05",
-      "isoDate": "2026-07-21T22:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,14 +136,57 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1609434",
       "published": "2026-07-21 08:15:15",
       "isoDate": "2026-07-21T08:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は402円高でスタート、イビデンやキオクシアHDなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1609111",
-      "published": "2026-07-21 00:45:09",
-      "isoDate": "2026-07-21T00:45:09Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "英上場企業サツマ、保有ビットコインを売却へ　資本返還と上場廃止を決議",
+      "link": "https://coinpost.jp/?p=726391",
+      "published": "Wed, 22 Jul 2026 10:35:42 +0900",
+      "isoDate": "2026-07-22T01:35:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン上昇、現物主導の買いを確認　オプション市場は7万ドルを意識｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=726363",
+      "published": "Wed, 22 Jul 2026 09:00:52 +0900",
+      "isoDate": "2026-07-22T00:00:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ビットコインDAT企業トゥエンティワン・キャピタルのCEOが退任、テザー主導の3社合併も白紙に",
+      "link": "https://coinpost.jp/?p=726339",
+      "published": "Wed, 22 Jul 2026 08:30:14 +0900",
+      "isoDate": "2026-07-21T23:30:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ソラナ基盤のJito、取引プラットフォーム「JTX」をパブリックローンチ",
+      "link": "https://coinpost.jp/?p=726353",
+      "published": "Wed, 22 Jul 2026 08:00:38 +0900",
+      "isoDate": "2026-07-21T23:00:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア下院が仮想通貨規制法を可決、9月1日発効見通し",
+      "link": "https://coinpost.jp/?p=726341",
+      "published": "Wed, 22 Jul 2026 06:40:18 +0900",
+      "isoDate": "2026-07-21T21:40:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインシェアーズ、欧州市場に参入　ビットコインマイニングETFを上場",
+      "link": "https://coinpost.jp/?p=726331",
+      "published": "Wed, 22 Jul 2026 05:00:02 +0900",
+      "isoDate": "2026-07-21T20:00:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ステーブルコイン流出35日連続、ビットコイン需要不足映す＝アナリスト",
+      "link": "https://coinpost.jp/?p=726278",
+      "published": "Tue, 21 Jul 2026 17:21:52 +0900",
+      "isoDate": "2026-07-21T08:21:52Z"
+    }
+  ]
 }
