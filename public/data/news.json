@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T20:16:16Z",
-  "last_checked": "2026-07-23T20:16:16Z",
+  "updated": "2026-07-23T21:36:11Z",
+  "last_checked": "2026-07-23T21:36:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズCEO、AIサーバーが量産体制に入ったと発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1614375",
-      "published": "2026-07-23 17:37:33",
-      "isoDate": "2026-07-23T17:37:33Z"
+      "title": "インテルの好決算を受け、アドバンスト・マイクロ・デバイセズとArmが時間外取引で上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1614636",
+      "published": "2026-07-23 20:57:50",
+      "isoDate": "2026-07-23T20:57:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目株：INTC、AMD、ARM、MXL、EW、DECK",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1614614",
+      "published": "2026-07-23 20:40:04",
+      "isoDate": "2026-07-23T20:40:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル、AI需要に支えられ15年超で最強の増収を記録",
+      "link": "https://jp.investing.com/news/earnings/article-1614480",
+      "published": "2026-07-23 20:10:39",
+      "isoDate": "2026-07-23T20:10:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】インテル、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1614450",
+      "published": "2026-07-23 20:04:38",
+      "isoDate": "2026-07-23T20:04:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1614235",
       "published": "2026-07-23 15:19:36",
       "isoDate": "2026-07-23T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ネビウス、フィンランドでエヌビディアVera Rubin NVL72ラックの検証を開始",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1613888",
-      "published": "2026-07-23 13:04:23",
-      "isoDate": "2026-07-23T13:04:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,20 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は305円高でスタート、レーザーテックや住友鉱などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612756",
-      "published": "2026-07-23 00:45:09",
-      "isoDate": "2026-07-23T00:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラとSpaceXの合併確率が90%に上昇、ディープウォーターのマンスター氏が指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612729",
-      "published": "2026-07-23 00:07:15",
-      "isoDate": "2026-07-23T00:07:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【決算速報】アルファベット、売上高は予想を上回り、利益は予想を上回る結果に",
       "link": "https://jp.investing.com/news/earnings/article-1612430",
       "published": "2026-07-22 20:08:11",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "EUが新たなロシア制裁を承認、複数仮想通貨プラットフォームとの取引を禁止",
+      "link": "https://coinpost.jp/?p=726929",
+      "published": "Fri, 24 Jul 2026 06:20:31 +0900",
+      "isoDate": "2026-07-23T21:20:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=726625",
       "published": "Thu, 23 Jul 2026 10:05:58 +0900",
       "isoDate": "2026-07-23T01:05:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "S&Pとパンテラ、ファンダ重視の仮想通貨指数をローンチ　ETHやBNBなど18銘柄で構成",
-      "link": "https://coinpost.jp/?p=726609",
-      "published": "Thu, 23 Jul 2026 08:02:52 +0900",
-      "isoDate": "2026-07-22T23:02:52Z"
     }
   ]
 }
