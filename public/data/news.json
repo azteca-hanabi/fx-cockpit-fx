@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T09:08:31Z",
-  "last_checked": "2026-07-23T09:08:31Z",
+  "updated": "2026-07-23T11:25:28Z",
+  "last_checked": "2026-07-23T11:25:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -18,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格が急騰、フーシ派がサウジタンカーを攻撃しブレント97ドル超え",
+      "title": "フーシ派がサウジタンカーを攻撃、原油価格が98ドルを突破",
       "link": "https://jp.investing.com/news/commodities-news/article-1612759",
       "published": "2026-07-23 00:46:01",
       "isoDate": "2026-07-23T00:46:01Z"
@@ -90,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米アルファベットの決算を受けてAI関連株に見直し買いも上値は重い【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1613105",
-      "published": "2026-07-23 07:45:17",
-      "isoDate": "2026-07-23T07:45:17Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は反発、アドバンテストやソフトバンクGが2銘柄で約466円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1613079",
+      "published": "2026-07-23 07:30:16",
+      "isoDate": "2026-07-23T07:30:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AlphabetとTeslaの先へ、最大130%のEPS成長を予測するAI選定銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1611223",
-      "published": "2026-07-22 07:59:45",
-      "isoDate": "2026-07-22T07:59:45Z"
+      "title": "買い先行スタートもアルファベットの決算待ちなどで次第に買い見送られる【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1611241",
+      "published": "2026-07-22 08:15:16",
+      "isoDate": "2026-07-22T08:15:16Z"
     }
   ],
   "btc_items": [
