@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T15:32:15Z",
-  "last_checked": "2026-07-23T15:32:15Z",
+  "updated": "2026-07-23T17:26:50Z",
+  "last_checked": "2026-07-23T17:26:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "GoogleとテスラはAIトレードの強気シナリオを崩したのか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1614235",
+      "published": "2026-07-23 15:19:36",
+      "isoDate": "2026-07-23T15:19:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ミズホ、テスラの目標株価を450ドルに引き下げ",
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1613932",
       "published": "2026-07-23 13:21:25",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1613601",
       "published": "2026-07-23 11:50:55",
       "isoDate": "2026-07-23T11:50:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アルファベット、テスラ、インターナショナル・ビジネス・マシーンズが決算発表、ECBの政策決定も注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1613127",
-      "published": "2026-07-23 07:55:38",
-      "isoDate": "2026-07-23T07:55:38Z"
     },
     {
       "source": "Investing.com 外為",
