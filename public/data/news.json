@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-23T06:15:55Z",
-  "last_checked": "2026-07-23T06:15:55Z",
+  "updated": "2026-07-23T09:08:31Z",
+  "last_checked": "2026-07-23T09:08:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "紅海攻撃が続き、欧州天然ガス価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1613185",
+      "published": "2026-07-23 08:32:23",
+      "isoDate": "2026-07-23T08:32:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、2週間ぶり高値圏で推移――FRB会合と原油価格に注目",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "フーシ派がサウジタンカーを攻撃、原油価格が5日続伸",
+      "title": "原油価格が急騰、フーシ派がサウジタンカーを攻撃しブレント97ドル超え",
       "link": "https://jp.investing.com/news/commodities-news/article-1612759",
       "published": "2026-07-23 00:46:01",
       "isoDate": "2026-07-23T00:46:01Z"
@@ -64,36 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1610708",
       "published": "2026-07-21 20:28:43",
       "isoDate": "2026-07-21T20:28:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSは金価格が1オンス3,850ドルに下落した際に買い増しを推奨",
-      "link": "https://jp.investing.com/news/commodities-news/article-1610311",
-      "published": "2026-07-21 13:47:27",
-      "isoDate": "2026-07-21T13:47:27Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アルファベットが設備投資見通しを引き上げ、アジアの半導体株が上昇―中国株は軟調",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612873",
-      "published": "2026-07-23 04:28:52",
-      "isoDate": "2026-07-23T04:28:52Z"
+      "title": "AIが7月に選定したナノテク銘柄、時間外取引で+28%急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1613144",
+      "published": "2026-07-23 08:02:06",
+      "isoDate": "2026-07-23T08:02:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテルとアドバンスト・マイクロ・デバイセズ、中国の顧客と長期CPU契約を締結―ロイター",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612867",
-      "published": "2026-07-23 04:11:29",
-      "isoDate": "2026-07-23T04:11:29Z"
+      "title": "アルファベット、テスラ、インターナショナル・ビジネス・マシーンズが決算発表、ECBの政策決定も注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1613127",
+      "published": "2026-07-23 07:55:38",
+      "isoDate": "2026-07-23T07:55:38Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は228円高でスタート、KOKUSAIやアドバンテストなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612864",
-      "published": "2026-07-23 04:00:17",
-      "isoDate": "2026-07-23T04:00:17Z"
+      "title": "米アルファベットの決算を受けてAI関連株に見直し買いも上値は重い【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1613105",
+      "published": "2026-07-23 07:45:17",
+      "isoDate": "2026-07-23T07:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は418円高、韓国株底堅く東京市場で安心感に",
+      "link": "https://jp.investing.com/news/forex-news/article-1612876",
+      "published": "2026-07-23 05:00:16",
+      "isoDate": "2026-07-23T05:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "買い先行スタートもアルファベットの決算待ちなどで次第に買い見送られる【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1611241",
-      "published": "2026-07-22 08:15:16",
-      "isoDate": "2026-07-22T08:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AlphabetとTeslaの先へ、最大130%のEPS成長を予測するAI選定銘柄",
       "link": "https://jp.investing.com/news/stock-market-news/article-1611223",
       "published": "2026-07-22 07:59:45",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "カザフスタン、大規模マイナーに採掘収益の10%上納制",
+      "link": "https://coinpost.jp/?p=726849",
+      "published": "Thu, 23 Jul 2026 16:55:19 +0900",
+      "isoDate": "2026-07-23T07:55:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "次なるAI投資先は仮想通貨、フランクリン・テンプルトン示唆",
+      "link": "https://coinpost.jp/?p=726757",
+      "published": "Thu, 23 Jul 2026 16:03:38 +0900",
+      "isoDate": "2026-07-23T07:03:38Z"
+    },
     {
       "source": "CoinPost",
       "title": "長らく低迷するビットコイン相場解説　中東リスクとFOMC控え上値重く",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=726602",
       "published": "Thu, 23 Jul 2026 07:02:46 +0900",
       "isoDate": "2026-07-22T22:02:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の利回りツールに米証券法適用可能性、パースSEC委員が声明",
-      "link": "https://coinpost.jp/?p=726596",
-      "published": "Thu, 23 Jul 2026 06:20:20 +0900",
-      "isoDate": "2026-07-22T21:20:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案の最新草案、大統領の仮想通貨発行を禁止するも2029年には失効",
-      "link": "https://coinpost.jp/?p=726594",
-      "published": "Thu, 23 Jul 2026 05:35:51 +0900",
-      "isoDate": "2026-07-22T20:35:51Z"
     }
   ]
 }
