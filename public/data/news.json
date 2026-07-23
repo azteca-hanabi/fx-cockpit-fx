@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-23T11:25:28Z",
-  "last_checked": "2026-07-23T11:25:28Z",
+  "updated": "2026-07-23T13:04:13Z",
+  "last_checked": "2026-07-23T13:04:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドの原油精製処理量、6月に前月比1%増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1613811",
+      "published": "2026-07-23 12:43:20",
+      "isoDate": "2026-07-23T12:43:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "紅海攻撃が続き、欧州天然ガス価格が上昇",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、2週間ぶり高値圏で推移――FRB会合と原油価格に注目",
+      "title": "金価格が下落、原油高と来週のFRB会合に注目集まる",
       "link": "https://jp.investing.com/news/commodities-news/article-1612783",
       "published": "2026-07-23 01:45:06",
       "isoDate": "2026-07-23T01:45:06Z"
@@ -64,29 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1610898",
       "published": "2026-07-22 00:54:20",
       "isoDate": "2026-07-22T00:54:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ICEキャノーラ先物、利益確定売りで下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1610708",
-      "published": "2026-07-21 20:28:43",
-      "isoDate": "2026-07-21T20:28:43Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト株、モルガン・スタンレーが「非常に魅力的」な割安感を指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1613808",
+      "published": "2026-07-23 12:37:27",
+      "isoDate": "2026-07-23T12:37:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの空売り筋、株価がIPO価格を下回り155億ドルの含み益を獲得",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1613636",
+      "published": "2026-07-23 12:03:06",
+      "isoDate": "2026-07-23T12:03:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "GoogleがSpaceXに940億ドルの出資を報告、歴史的なIPO後に初公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1613601",
+      "published": "2026-07-23 11:50:55",
+      "isoDate": "2026-07-23T11:50:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "VertivがNPS海軍大学院にAIインフラを導入",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1613582",
+      "published": "2026-07-23 11:41:05",
+      "isoDate": "2026-07-23T11:41:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AIが7月に選定したナノテク銘柄、時間外取引で+28%急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1613144",
       "published": "2026-07-23 08:02:06",
       "isoDate": "2026-07-23T08:02:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アルファベット、テスラ、インターナショナル・ビジネス・マシーンズが決算発表、ECBの政策決定も注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1613127",
-      "published": "2026-07-23 07:55:38",
-      "isoDate": "2026-07-23T07:55:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,20 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1612876",
       "published": "2026-07-23 05:00:16",
       "isoDate": "2026-07-23T05:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株先物が小幅上昇、テスラとAlphabetは第2四半期決算後に下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612769",
-      "published": "2026-07-23 01:26:33",
-      "isoDate": "2026-07-23T01:26:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は305円高でスタート、レーザーテックや住友鉱などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1612756",
-      "published": "2026-07-23 00:45:09",
-      "isoDate": "2026-07-23T00:45:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1611362",
       "published": "2026-07-22 09:56:38",
       "isoDate": "2026-07-22T09:56:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "買い先行スタートもアルファベットの決算待ちなどで次第に買い見送られる【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1611241",
-      "published": "2026-07-22 08:15:16",
-      "isoDate": "2026-07-22T08:15:16Z"
     }
   ],
   "btc_items": [
@@ -169,7 +169,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "ビットコイン、底打ちの可能性　9月〜10月に安値も＝グレイスケール＝グレイスケール",
+      "title": "ビットコイン、底打ちの可能性　9月〜10月に安値も＝グレースケール",
       "link": "https://coinpost.jp/?p=726704",
       "published": "Thu, 23 Jul 2026 11:53:01 +0900",
       "isoDate": "2026-07-23T02:53:01Z"
