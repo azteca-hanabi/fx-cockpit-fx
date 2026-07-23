@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-23T17:26:50Z",
-  "last_checked": "2026-07-23T17:26:50Z",
+  "updated": "2026-07-23T18:47:04Z",
+  "last_checked": "2026-07-23T18:47:04Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "KalshiがAI需要拡大を背景に無期限銅先物の導入を検討",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1614397",
+      "published": "2026-07-23 18:09:09",
+      "isoDate": "2026-07-23T18:09:09Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海への攻撃で小麦先物は強弱まちまち、利益確定売りが上値抑制",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1611858",
       "published": "2026-07-22 13:16:31",
       "isoDate": "2026-07-22T13:16:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フーシ派の海上攻撃、欧州天然ガス先物を数カ月ぶり高値近辺に押しとどめる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1611285",
-      "published": "2026-07-22 08:46:49",
-      "isoDate": "2026-07-22T08:46:49Z"
     }
   ],
   "usdjpy_items": [
@@ -80,13 +80,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1614235",
       "published": "2026-07-23 15:19:36",
       "isoDate": "2026-07-23T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ミズホ、テスラの目標株価を450ドルに引き下げ",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1613932",
-      "published": "2026-07-23 13:21:25",
-      "isoDate": "2026-07-23T13:21:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1612876",
       "published": "2026-07-23 05:00:16",
       "isoDate": "2026-07-23T05:00:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が小幅上昇、テスラとAlphabetは第2四半期決算後に下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1612769",
+      "published": "2026-07-23 01:26:33",
+      "isoDate": "2026-07-23T01:26:33Z"
     },
     {
       "source": "Investing.com 外為",
