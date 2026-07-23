@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T21:36:11Z",
-  "last_checked": "2026-07-23T21:36:11Z",
+  "updated": "2026-07-23T23:00:18Z",
+  "last_checked": "2026-07-23T23:00:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：連邦準備制度理事会（FRB）の年内利上げ観測が一段と強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1614695",
+      "published": "2026-07-23 21:45:05",
+      "isoDate": "2026-07-23T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アムコー・テクノロジー、エヌビディアとの15億ドル契約で株価16%急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1614682",
+      "published": "2026-07-23 21:25:34",
+      "isoDate": "2026-07-23T21:25:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株が時間外取引で急騰、15年超で最強の増収を記録",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1614639",
+      "published": "2026-07-23 21:01:28",
+      "isoDate": "2026-07-23T21:01:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インテルの好決算を受け、アドバンスト・マイクロ・デバイセズとArmが時間外取引で上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1614636",
       "published": "2026-07-23 20:57:50",
@@ -104,20 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "GoogleとテスラはAIトレードの強気シナリオを崩したのか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1614235",
-      "published": "2026-07-23 15:19:36",
-      "isoDate": "2026-07-23T15:19:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの空売り筋、株価がIPO価格を下回り155億ドルの含み益を獲得",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1613636",
-      "published": "2026-07-23 12:03:06",
-      "isoDate": "2026-07-23T12:03:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "GoogleがSpaceXに940億ドルの出資を報告、歴史的なIPO後に初公開",
       "link": "https://jp.investing.com/news/stock-market-news/article-1613601",
       "published": "2026-07-23 11:50:55",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1612876",
       "published": "2026-07-23 05:00:16",
       "isoDate": "2026-07-23T05:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】アルファベット、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1612430",
-      "published": "2026-07-22 20:08:11",
-      "isoDate": "2026-07-22T20:08:11Z"
     }
   ],
   "btc_items": [
