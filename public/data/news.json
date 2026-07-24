@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T09:56:47Z",
-  "last_checked": "2026-07-24T09:56:47Z",
+  "updated": "2026-07-24T11:48:32Z",
+  "last_checked": "2026-07-24T11:48:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均テクニカル：大幅反落、一目均衡表は弱気シグナル増大",
+      "link": "https://jp.investing.com/news/forex-news/article-1615174",
+      "published": "2026-07-24 09:30:11",
+      "isoDate": "2026-07-24T09:30:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反落、アドバンテストやソフトバンクGが2銘柄で約784円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1615100",
       "published": "2026-07-24 08:30:13",
       "isoDate": "2026-07-24T08:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中東情勢と新関税が市場を揺さぶる、インテルは好決算",
-      "link": "https://jp.investing.com/news/economy-news/article-1615047",
-      "published": "2026-07-24 07:52:17",
-      "isoDate": "2026-07-24T07:52:17Z"
     },
     {
       "source": "Investing.com 外為",
