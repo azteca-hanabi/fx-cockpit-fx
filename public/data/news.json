@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-24T13:53:44Z",
-  "last_checked": "2026-07-24T13:53:44Z",
+  "updated": "2026-07-24T15:27:23Z",
+  "last_checked": "2026-07-24T15:27:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油現物価格が2カ月ぶり高値に上昇、供給混乱が背景",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615888",
+      "published": "2026-07-24 14:55:58",
+      "isoDate": "2026-07-24T14:55:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック乾貨物運賃指数、金曜日に1週間ぶり高値に上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615809",
+      "published": "2026-07-24 14:06:33",
+      "isoDate": "2026-07-24T14:06:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス先物が4カ月ぶり高値、4週連続の週間上昇へ",
@@ -57,36 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1613185",
       "published": "2026-07-23 08:32:23",
       "isoDate": "2026-07-23T08:32:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格下落、原油高と来週のFRB会合が焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-1612783",
-      "published": "2026-07-23 01:45:06",
-      "isoDate": "2026-07-23T01:45:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フーシ派がサウジタンカーを攻撃、原油価格が1バレル100ドルを突破",
-      "link": "https://jp.investing.com/news/commodities-news/article-1612759",
-      "published": "2026-07-23 00:46:01",
-      "isoDate": "2026-07-23T00:46:01Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "メタ、マイクロソフト、NvidiaがオープンウェイトAIを支持する理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1615795",
+      "published": "2026-07-24 13:54:59",
+      "isoDate": "2026-07-24T13:54:59Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "HSBCがSpaceXをホールド格付けで開始、AI野心に実行リスクと指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1615683",
       "published": "2026-07-24 13:11:41",
       "isoDate": "2026-07-24T13:11:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本銀行、インフレ期待上昇の中7月会合で金利1%据え置きへ―日経",
-      "link": "https://jp.investing.com/news/economy-news/article-1615676",
-      "published": "2026-07-24 13:08:19",
-      "isoDate": "2026-07-24T13:08:19Z"
     },
     {
       "source": "Investing.com 外為",
