@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T15:27:23Z",
-  "last_checked": "2026-07-24T15:27:23Z",
+  "updated": "2026-07-24T17:07:51Z",
+  "last_checked": "2026-07-24T17:07:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イーロン・マスクの兆ドル規模の資産崩壊：SpaceXとテスラが700億ドルを消失",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1615930",
+      "published": "2026-07-24 15:34:46",
+      "isoDate": "2026-07-24T15:34:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "メタ、マイクロソフト、NvidiaがオープンウェイトAIを支持する理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1615795",
       "published": "2026-07-24 13:54:59",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1615683",
       "published": "2026-07-24 13:11:41",
       "isoDate": "2026-07-24T13:11:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ブローカーがアドバンスト・マイクロ・デバイセズの目標株価を引き上げ、AI基盤拡大とHeliosローンチを評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1615611",
-      "published": "2026-07-24 12:41:58",
-      "isoDate": "2026-07-24T12:41:58Z"
     },
     {
       "source": "Investing.com 外為",
