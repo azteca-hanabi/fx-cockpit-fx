@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-24T17:07:51Z",
-  "last_checked": "2026-07-24T17:07:51Z",
+  "updated": "2026-07-24T18:59:34Z",
+  "last_checked": "2026-07-24T18:59:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー企業、6週間ぶりに掘削リグ数を削減",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615997",
+      "published": "2026-07-24 17:21:59",
+      "isoDate": "2026-07-24T17:21:59Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウクライナが輸出協議を否定、ユーロネクスト小麦が4.2%下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615996",
+      "published": "2026-07-24 17:21:44",
+      "isoDate": "2026-07-24T17:21:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ナイジェリアの原油輸出、9月に25%増加へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615985",
+      "published": "2026-07-24 17:05:25",
+      "isoDate": "2026-07-24T17:05:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油現物価格が2カ月ぶり高値に上昇、供給混乱が背景",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1613997",
       "published": "2026-07-23 13:36:46",
       "isoDate": "2026-07-23T13:36:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海港湾攻撃を受け、小麦が2年ぶりの高値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1613963",
-      "published": "2026-07-23 13:29:07",
-      "isoDate": "2026-07-23T13:29:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドの原油精製処理量、6月に前月比1%増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1613811",
-      "published": "2026-07-23 12:43:20",
-      "isoDate": "2026-07-23T12:43:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "紅海攻撃が続き、欧州天然ガス価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1613185",
-      "published": "2026-07-23 08:32:23",
-      "isoDate": "2026-07-23T08:32:23Z"
     }
   ],
   "usdjpy_items": [
