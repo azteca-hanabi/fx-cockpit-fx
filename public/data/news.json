@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T11:48:32Z",
-  "last_checked": "2026-07-24T11:48:32Z",
+  "updated": "2026-07-24T13:53:44Z",
+  "last_checked": "2026-07-24T13:53:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "HSBCがSpaceXをホールド格付けで開始、AI野心に実行リスクと指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1615683",
+      "published": "2026-07-24 13:11:41",
+      "isoDate": "2026-07-24T13:11:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本銀行、インフレ期待上昇の中7月会合で金利1%据え置きへ―日経",
+      "link": "https://jp.investing.com/news/economy-news/article-1615676",
+      "published": "2026-07-24 13:08:19",
+      "isoDate": "2026-07-24T13:08:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブローカーがアドバンスト・マイクロ・デバイセズの目標株価を引き上げ、AI基盤拡大とHeliosローンチを評価",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1615611",
+      "published": "2026-07-24 12:41:58",
+      "isoDate": "2026-07-24T12:41:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体株の調整は買い場、シティが指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1615538",
+      "published": "2026-07-24 12:16:33",
+      "isoDate": "2026-07-24T12:16:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均テクニカル：大幅反落、一目均衡表は弱気シグナル増大",
       "link": "https://jp.investing.com/news/forex-news/article-1615174",
       "published": "2026-07-24 09:30:11",
@@ -97,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反落、売り優勢で終日軟調推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1615017",
-      "published": "2026-07-24 07:15:14",
-      "isoDate": "2026-07-24T07:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均VIは大幅に上昇、中東情勢への警戒感強まる",
       "link": "https://jp.investing.com/news/forex-news/article-1614908",
       "published": "2026-07-24 05:30:16",
@@ -122,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1614883",
       "published": "2026-07-24 04:00:17",
       "isoDate": "2026-07-24T04:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXのスターシップ、第13回飛行試験を天候不良により金曜日に延期",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1614813",
-      "published": "2026-07-24 01:03:43",
-      "isoDate": "2026-07-24T01:03:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】インテル、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1614450",
-      "published": "2026-07-23 20:04:38",
-      "isoDate": "2026-07-23T20:04:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は反発、アドバンテストやソフトバンクGが2銘柄で約466円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1613079",
-      "published": "2026-07-23 07:30:16",
-      "isoDate": "2026-07-23T07:30:16Z"
     }
   ],
   "btc_items": [
