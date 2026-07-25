@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T06:01:46Z",
-  "last_checked": "2026-07-25T06:01:46Z",
+  "updated": "2026-07-25T08:30:31Z",
+  "last_checked": "2026-07-25T08:30:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "サムスンとSKハイニックス、米国チップ供給で9500億ドルの提携を発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616179",
+      "published": "2026-07-25 07:18:47",
+      "isoDate": "2026-07-25T07:18:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXスターシップ、13回目のテスト飛行でアップグレード版スターリンク衛星を展開",
+      "link": "https://jp.investing.com/news/company-news/article-1616168",
+      "published": "2026-07-25 06:06:51",
+      "isoDate": "2026-07-25T06:06:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SKグループとエヌビディア、5000億ドル超のAIインフラ提携を発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1616164",
       "published": "2026-07-25 05:11:05",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテル・アムコーがAI楽観論で上昇、eBayは下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1615511",
-      "published": "2026-07-24 11:59:01",
-      "isoDate": "2026-07-24T11:59:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル：大幅反落、一目均衡表は弱気シグナル増大",
       "link": "https://jp.investing.com/news/forex-news/article-1615174",
       "published": "2026-07-24 09:30:11",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1615041",
       "published": "2026-07-24 07:43:06",
       "isoDate": "2026-07-24T07:43:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、半導体大手の買いに期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1614891",
-      "published": "2026-07-24 04:45:15",
-      "isoDate": "2026-07-24T04:45:15Z"
     }
   ],
   "btc_items": [
