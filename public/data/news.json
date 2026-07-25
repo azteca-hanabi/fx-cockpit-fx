@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T19:46:48Z",
-  "last_checked": "2026-07-25T19:46:48Z",
+  "updated": "2026-07-25T20:57:17Z",
+  "last_checked": "2026-07-25T20:57:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、円安見通しを背景にTOPIX12カ月目標を4,500に引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616209",
+      "published": "2026-07-25 20:01:17",
+      "isoDate": "2026-07-25T20:01:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：日米韓テック大手決算、日銀金融政策決定会合、米FOMC",
       "link": "https://jp.investing.com/news/forex-news/article-1616184",
       "published": "2026-07-25 08:15:04",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1615930",
       "published": "2026-07-24 15:34:46",
       "isoDate": "2026-07-24T15:34:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1615895",
-      "published": "2026-07-24 14:59:49",
-      "isoDate": "2026-07-24T14:59:49Z"
     }
   ],
   "btc_items": [
