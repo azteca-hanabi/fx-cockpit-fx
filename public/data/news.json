@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T08:30:31Z",
-  "last_checked": "2026-07-25T08:30:31Z",
+  "updated": "2026-07-25T10:36:46Z",
+  "last_checked": "2026-07-25T10:36:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,14 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "サムスンとSKハイニックス、米国チップ供給で9500億ドルの提携を発表",
+      "title": "来週の相場で注目すべき3つのポイント：日米韓テック大手決算、日銀金融政策決定会合、米FOMC",
+      "link": "https://jp.investing.com/news/forex-news/article-1616184",
+      "published": "2026-07-25 08:15:04",
+      "isoDate": "2026-07-25T08:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスンとSKハイニックス、米国企業と総額9500億ドルの半導体供給契約",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616179",
       "published": "2026-07-25 07:18:47",
       "isoDate": "2026-07-25T07:18:47Z"
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1615174",
       "published": "2026-07-24 09:30:11",
       "isoDate": "2026-07-24T09:30:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "いち早くお伝えした通り、AIが7月に選んだナノテク株が昨日+55%",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1615041",
-      "published": "2026-07-24 07:43:06",
-      "isoDate": "2026-07-24T07:43:06Z"
     }
   ],
   "btc_items": [
