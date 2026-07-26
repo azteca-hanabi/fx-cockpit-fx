@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T18:33:28Z",
-  "last_checked": "2026-07-26T18:33:28Z",
+  "updated": "2026-07-26T20:12:15Z",
+  "last_checked": "2026-07-26T20:12:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -111,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、原油価格の変動が中央銀行の「静観」政策を放棄させる可能性を警告",
-      "link": "https://jp.investing.com/news/economy-news/article-1616204",
-      "published": "2026-07-25 18:48:23",
-      "isoDate": "2026-07-25T18:48:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "シティ、メモリ「ピークアウト」懸念を一蹴―サムスンとSKハイニックスに買い推奨を維持",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616189",
       "published": "2026-07-25 10:54:54",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1616184",
       "published": "2026-07-25 08:15:04",
       "isoDate": "2026-07-25T08:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：AI関連株の決算集中、FOMCなど重要イベント目白押し",
+      "link": "https://jp.investing.com/news/forex-news/article-1616172",
+      "published": "2026-07-25 07:00:03",
+      "isoDate": "2026-07-25T07:00:03Z"
     }
   ],
   "btc_items": [
