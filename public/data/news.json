@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25T23:31:35Z",
-  "last_checked": "2026-07-25T23:31:35Z",
+  "updated": "2026-07-26T03:25:41Z",
+  "last_checked": "2026-07-26T03:25:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日本の「強く豊かな国」戦略、円相場の変動拡大を招く可能性",
+      "link": "https://jp.investing.com/news/economy-news/article-1616218",
+      "published": "2026-07-26 01:30:24",
+      "isoDate": "2026-07-26T01:30:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカ、サイバーセキュリティ株の目標株価を引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616211",
+      "published": "2026-07-25 22:57:23",
+      "isoDate": "2026-07-25T22:57:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、円安見通しを背景にTOPIX12カ月目標を4,500に引き上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616209",
       "published": "2026-07-25 20:01:17",
@@ -129,85 +143,7 @@
       "link": "https://jp.investing.com/news/economy-news/article-1616153",
       "published": "2026-07-25 02:39:00",
       "isoDate": "2026-07-25T02:39:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaとSKグループ、5000億ドル超のAIインフラ計画を発表",
-      "link": "https://jp.investing.com/news/company-news/article-1616150",
-      "published": "2026-07-25 02:11:09",
-      "isoDate": "2026-07-25T02:11:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1615895",
-      "published": "2026-07-24 14:59:49",
-      "isoDate": "2026-07-24T14:59:49Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
-      "link": "https://coinpost.jp/?p=727306",
-      "published": "Sat, 25 Jul 2026 13:10:14 +0900",
-      "isoDate": "2026-07-25T04:10:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BitMEXが集団訴訟に直面、622ビットコインの返還請求",
-      "link": "https://coinpost.jp/?p=727264",
-      "published": "Sat, 25 Jul 2026 10:25:26 +0900",
-      "isoDate": "2026-07-25T01:25:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン保有価値の新指標公表",
-      "link": "https://coinpost.jp/?p=727268",
-      "published": "Sat, 25 Jul 2026 07:10:33 +0900",
-      "isoDate": "2026-07-24T22:10:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、年内成立の確率が30%まで低下＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=727266",
-      "published": "Sat, 25 Jul 2026 06:20:30 +0900",
-      "isoDate": "2026-07-24T21:20:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院版クラリティー法案、7民主党議員が反対　全米警察友愛会は支持",
-      "link": "https://coinpost.jp/?p=727262",
-      "published": "Sat, 25 Jul 2026 05:50:17 +0900",
-      "isoDate": "2026-07-24T20:50:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "海外仮想通貨取引所29社、韓国グーグルプレイで新規インストール非対応に",
-      "link": "https://coinpost.jp/?p=727254",
-      "published": "Sat, 25 Jul 2026 05:00:29 +0900",
-      "isoDate": "2026-07-24T20:00:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨マイニングのプーリン破産申請、負債1億7300万ドル超",
-      "link": "https://coinpost.jp/?p=727202",
-      "published": "Fri, 24 Jul 2026 17:14:25 +0900",
-      "isoDate": "2026-07-24T08:14:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コンヴァノ、保有仮想通貨87億円分を全量売却へ",
-      "link": "https://coinpost.jp/?p=727152",
-      "published": "Fri, 24 Jul 2026 15:47:26 +0900",
-      "isoDate": "2026-07-24T06:47:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインは「マクロ資産」へ、保有者の大規模再編も進行＝バイナンスの2026年上半期レポート",
-      "link": "https://coinpost.jp/?p=727083",
-      "published": "Fri, 24 Jul 2026 14:30:47 +0900",
-      "isoDate": "2026-07-24T05:30:47Z"
-    }
-  ]
+  "btc_items": []
 }
