@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T06:21:30Z",
-  "last_checked": "2026-07-26T06:21:30Z",
+  "updated": "2026-07-26T08:57:22Z",
+  "last_checked": "2026-07-26T08:57:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,14 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックスの米国株プレミアム、AIバブルの警告を再び示す",
+      "title": "サマー・キャリー・バイアス：神話か現実か？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616237",
+      "published": "2026-07-26 07:26:03",
+      "isoDate": "2026-07-26T07:26:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックスの米国ADRプレミアム、AIバブルの警告シグナルか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616228",
       "published": "2026-07-26 05:03:42",
       "isoDate": "2026-07-26T05:03:42Z"
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1616184",
       "published": "2026-07-25 08:15:04",
       "isoDate": "2026-07-25T08:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスンとSKハイニックス、米国企業と総額9500億ドルの半導体供給契約",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616179",
-      "published": "2026-07-25 07:18:47",
-      "isoDate": "2026-07-25T07:18:47Z"
     },
     {
       "source": "Investing.com 外為",
