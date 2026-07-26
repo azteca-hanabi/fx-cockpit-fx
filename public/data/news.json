@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T20:12:15Z",
-  "last_checked": "2026-07-26T20:12:15Z",
+  "updated": "2026-07-26T21:27:43Z",
+  "last_checked": "2026-07-26T21:27:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -60,6 +60,13 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ユナイテッド航空、アメリカン航空に接触前にデルタ航空との合併を模索",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616271",
+      "published": "2026-07-26 19:53:20",
+      "isoDate": "2026-07-26T19:53:20Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AI時代に自社株買いに積極的な企業がS&P 500に劣後",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1616184",
       "published": "2026-07-25 08:15:04",
       "isoDate": "2026-07-25T08:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：AI関連株の決算集中、FOMCなど重要イベント目白押し",
-      "link": "https://jp.investing.com/news/forex-news/article-1616172",
-      "published": "2026-07-25 07:00:03",
-      "isoDate": "2026-07-25T07:00:03Z"
     }
   ],
   "btc_items": [
