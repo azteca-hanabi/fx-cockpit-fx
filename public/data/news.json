@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T08:57:22Z",
-  "last_checked": "2026-07-26T08:57:22Z",
+  "updated": "2026-07-26T10:48:26Z",
+  "last_checked": "2026-07-26T10:48:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "サマー・キャリー・バイアス：神話か現実か？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616237",
-      "published": "2026-07-26 07:26:03",
-      "isoDate": "2026-07-26T07:26:03Z"
+      "title": "ボルドーを脅かす山火事、フランスの消防隊が懸命に対応",
+      "link": "https://jp.investing.com/news/economy-news/article-1616244",
+      "published": "2026-07-26 09:54:04",
+      "isoDate": "2026-07-26T09:54:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Q2決算前にAI関連で注目の5大アナリスト動向",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616241",
+      "published": "2026-07-26 09:00:02",
+      "isoDate": "2026-07-26T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、FRB決定を前に64,000ドル台を維持",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1616243",
+      "published": "2026-07-26 08:55:40",
+      "isoDate": "2026-07-26T08:55:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、原油価格の変動が中央銀行の「静観」政策を放棄させる可能性を警告",
-      "link": "https://jp.investing.com/news/economy-news/article-1616204",
-      "published": "2026-07-25 18:48:23",
-      "isoDate": "2026-07-25T18:48:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "シティ、メモリ「ピークアウト」懸念を一蹴―サムスンとSKハイニックスに買い推奨を維持",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616189",
       "published": "2026-07-25 10:54:54",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1616172",
       "published": "2026-07-25 07:00:03",
       "isoDate": "2026-07-25T07:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXスターシップ、13回目のテスト飛行でアップグレード版スターリンク衛星を展開",
-      "link": "https://jp.investing.com/news/company-news/article-1616168",
-      "published": "2026-07-25 06:06:51",
-      "isoDate": "2026-07-25T06:06:51Z"
     }
   ],
   "btc_items": [
