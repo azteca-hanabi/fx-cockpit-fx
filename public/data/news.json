@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T12:06:44Z",
-  "last_checked": "2026-07-26T12:06:44Z",
+  "updated": "2026-07-26T14:09:45Z",
+  "last_checked": "2026-07-26T14:09:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -64,22 +64,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1614397",
       "published": "2026-07-23 18:09:09",
       "isoDate": "2026-07-23T18:09:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海への攻撃で小麦先物は強弱まちまち、利益確定売りが上値抑制",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1613997",
-      "published": "2026-07-23 13:36:46",
-      "isoDate": "2026-07-23T13:36:46Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ボルドーを脅かす山火事、フランスの消防隊が懸命に対応",
-      "link": "https://jp.investing.com/news/economy-news/article-1616244",
-      "published": "2026-07-26 09:54:04",
-      "isoDate": "2026-07-26T09:54:04Z"
+      "title": "AI時代に自社株買いに積極的な企業がS&P 500に劣後",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616254",
+      "published": "2026-07-26 12:43:21",
+      "isoDate": "2026-07-26T12:43:21Z"
     },
     {
       "source": "Investing.com 外為",
