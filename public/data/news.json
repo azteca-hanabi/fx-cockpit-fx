@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-27T20:26:17Z",
-  "last_checked": "2026-07-27T20:26:17Z",
+  "updated": "2026-07-27T21:42:03Z",
+  "last_checked": "2026-07-27T21:42:03Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、原油安と利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1617867",
+      "published": "2026-07-27 20:44:20",
+      "isoDate": "2026-07-27T20:44:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東和平期待でICEキャノーラ先物が急落",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1616626",
       "published": "2026-07-27 08:46:19",
       "isoDate": "2026-07-27T08:46:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東停戦でオイル下落、金価格は上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1616372",
-      "published": "2026-07-27 03:13:41",
-      "isoDate": "2026-07-27T03:13:41Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは262.83ドル高、対イラン和平交渉や原油安を好感も半導体が重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1617899",
+      "published": "2026-07-27 21:15:05",
+      "isoDate": "2026-07-27T21:15:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "Nvidia、AI巨額投資がバランスシートへの懸念を呼び4%下落",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/forex-news/article-1616444",
       "published": "2026-07-27 06:00:18",
       "isoDate": "2026-07-27T06:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は反発、ファーストリテとリクルートHDの2銘柄で約182円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616378",
-      "published": "2026-07-27 03:45:16",
-      "isoDate": "2026-07-27T03:45:16Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上院共和党、クラリティー法案の本会議入り急ぐ＝報道",
+      "link": "https://coinpost.jp/?p=727916",
+      "published": "Tue, 28 Jul 2026 05:55:45 +0900",
+      "isoDate": "2026-07-27T20:55:45Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、ビットコイン新規購入を再度見送り　新たに883億円調達",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=727306",
       "published": "Sat, 25 Jul 2026 13:10:14 +0900",
       "isoDate": "2026-07-25T04:10:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BitMEXが集団訴訟に直面、622ビットコインの返還請求",
-      "link": "https://coinpost.jp/?p=727264",
-      "published": "Sat, 25 Jul 2026 10:25:26 +0900",
-      "isoDate": "2026-07-25T01:25:26Z"
     }
   ]
 }
