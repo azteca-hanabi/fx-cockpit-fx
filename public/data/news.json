@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T22:32:46Z",
-  "last_checked": "2026-07-26T22:32:46Z",
+  "updated": "2026-07-27T00:03:43Z",
+  "last_checked": "2026-07-27T00:03:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -62,6 +62,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：164円台が視野に入ると、ドルに対する下押し圧力がかかりやすい",
+      "link": "https://jp.investing.com/news/forex-news/article-1616283",
+      "published": "2026-07-26 23:30:03",
+      "isoDate": "2026-07-26T23:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東証グロース市場250指数先物見通し：底堅い展開か",
+      "link": "https://jp.investing.com/news/forex-news/article-1616282",
+      "published": "2026-07-26 23:15:04",
+      "isoDate": "2026-07-26T23:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目イベント】FOMC、日銀や英中銀の金融政策決定会合、米PCE、米国債入札",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616281",
+      "published": "2026-07-26 23:00:03",
+      "isoDate": "2026-07-26T23:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、対イラン協議の再開期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1616279",
+      "published": "2026-07-26 21:45:03",
+      "isoDate": "2026-07-26T21:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ユナイテッド航空、アメリカン航空に接触前にデルタ航空との合併を模索",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616271",
       "published": "2026-07-26 19:53:20",
@@ -83,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、FRB決定を前に64,000ドル台を維持",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1616243",
-      "published": "2026-07-26 08:55:40",
-      "isoDate": "2026-07-26T08:55:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SKハイニックスの米国ADRプレミアム、AIバブルの警告シグナルか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616228",
       "published": "2026-07-26 05:03:42",
@@ -104,103 +125,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、サイバーセキュリティ株の目標株価を引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616211",
-      "published": "2026-07-25 22:57:23",
-      "isoDate": "2026-07-25T22:57:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、円安見通しを背景にTOPIX12カ月目標を4,500に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616209",
-      "published": "2026-07-25 20:01:17",
-      "isoDate": "2026-07-25T20:01:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティ、メモリ「ピークアウト」懸念を一蹴―サムスンとSKハイニックスに買い推奨を維持",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616189",
-      "published": "2026-07-25 10:54:54",
-      "isoDate": "2026-07-25T10:54:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：日米韓テック大手決算、日銀金融政策決定会合、米FOMC",
       "link": "https://jp.investing.com/news/forex-news/article-1616184",
       "published": "2026-07-25 08:15:04",
       "isoDate": "2026-07-25T08:15:04Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=727127",
-      "published": "Sun, 26 Jul 2026 11:30:35 +0900",
-      "isoDate": "2026-07-26T02:30:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
-      "link": "https://coinpost.jp/?p=726998",
-      "published": "Sun, 26 Jul 2026 09:25:27 +0900",
-      "isoDate": "2026-07-26T00:25:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
-      "link": "https://coinpost.jp/?p=727306",
-      "published": "Sat, 25 Jul 2026 13:10:14 +0900",
-      "isoDate": "2026-07-25T04:10:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "BitMEXが集団訴訟に直面、622ビットコインの返還請求",
-      "link": "https://coinpost.jp/?p=727264",
-      "published": "Sat, 25 Jul 2026 10:25:26 +0900",
-      "isoDate": "2026-07-25T01:25:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン保有価値の新指標公表",
-      "link": "https://coinpost.jp/?p=727268",
-      "published": "Sat, 25 Jul 2026 07:10:33 +0900",
-      "isoDate": "2026-07-24T22:10:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、年内成立の確率が30%まで低下＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=727266",
-      "published": "Sat, 25 Jul 2026 06:20:30 +0900",
-      "isoDate": "2026-07-24T21:20:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院版クラリティー法案、7民主党議員が反対　全米警察友愛会は支持",
-      "link": "https://coinpost.jp/?p=727262",
-      "published": "Sat, 25 Jul 2026 05:50:17 +0900",
-      "isoDate": "2026-07-24T20:50:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "海外仮想通貨取引所29社、韓国グーグルプレイで新規インストール非対応に",
-      "link": "https://coinpost.jp/?p=727254",
-      "published": "Sat, 25 Jul 2026 05:00:29 +0900",
-      "isoDate": "2026-07-24T20:00:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨マイニングのプーリン破産申請、負債1億7300万ドル超",
-      "link": "https://coinpost.jp/?p=727202",
-      "published": "Fri, 24 Jul 2026 17:14:25 +0900",
-      "isoDate": "2026-07-24T08:14:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コンヴァノ、保有仮想通貨87億円分を全量売却へ",
-      "link": "https://coinpost.jp/?p=727152",
-      "published": "Fri, 24 Jul 2026 15:47:26 +0900",
-      "isoDate": "2026-07-24T06:47:26Z"
-    }
-  ]
+  "btc_items": []
 }
