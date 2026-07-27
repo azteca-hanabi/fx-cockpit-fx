@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-27T00:03:43Z",
-  "last_checked": "2026-07-27T00:03:43Z",
+  "updated": "2026-07-27T04:22:53Z",
+  "last_checked": "2026-07-27T04:22:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が上昇、ドル安と中東情勢の小康状態が支援",
+      "link": "https://jp.investing.com/news/commodities-news/article-1616372",
+      "published": "2026-07-27 03:13:41",
+      "isoDate": "2026-07-27T03:13:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国とイランの軍事停止で外交的突破口への期待高まり、原油価格が5%超急落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1616316",
+      "published": "2026-07-27 00:59:07",
+      "isoDate": "2026-07-27T00:59:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米エネルギー企業、6週間ぶりに掘削リグ数を削減",
@@ -43,93 +57,150 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1615171",
       "published": "2026-07-24 09:23:12",
       "isoDate": "2026-07-24T09:23:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金、3週間ぶりの週間上昇へ――FRBと中東情勢が焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-1614841",
-      "published": "2026-07-24 02:09:14",
-      "isoDate": "2026-07-24T02:09:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がフーシ派を脅迫、原油価格が安定しブレント原油は1バレル100ドル超を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1614822",
-      "published": "2026-07-24 01:14:22",
-      "isoDate": "2026-07-24T01:14:22Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：164円台が視野に入ると、ドルに対する下押し圧力がかかりやすい",
-      "link": "https://jp.investing.com/news/forex-news/article-1616283",
-      "published": "2026-07-26 23:30:03",
-      "isoDate": "2026-07-26T23:30:03Z"
+      "title": "半導体売り継続で65000円割れ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616376",
+      "published": "2026-07-27 03:30:14",
+      "isoDate": "2026-07-27T03:30:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロース市場250指数先物見通し：底堅い展開か",
-      "link": "https://jp.investing.com/news/forex-news/article-1616282",
-      "published": "2026-07-26 23:15:04",
-      "isoDate": "2026-07-26T23:15:04Z"
+      "title": "東京為替：ドル・円は弱含み、為替介入に警戒続く",
+      "link": "https://jp.investing.com/news/forex-news/article-1616374",
+      "published": "2026-07-27 03:30:13",
+      "isoDate": "2026-07-27T03:30:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NYの視点：【今週の注目イベント】FOMC、日銀や英中銀の金融政策決定会合、米PCE、米国債入札",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616281",
-      "published": "2026-07-26 23:00:03",
-      "isoDate": "2026-07-26T23:00:03Z"
+      "title": "金価格が上昇、ドル安と中東情勢の小康状態が支援",
+      "link": "https://jp.investing.com/news/commodities-news/article-1616372",
+      "published": "2026-07-27 03:13:41",
+      "isoDate": "2026-07-27T03:13:41Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、対イラン協議の再開期待",
-      "link": "https://jp.investing.com/news/forex-news/article-1616279",
-      "published": "2026-07-26 21:45:03",
-      "isoDate": "2026-07-26T21:45:03Z"
+      "title": "信越化学---大幅続落、通期業績見通しはコンセンサスを下振れ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616338",
+      "published": "2026-07-27 02:15:10",
+      "isoDate": "2026-07-27T02:15:10Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ユナイテッド航空、アメリカン航空に接触前にデルタ航空との合併を模索",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616271",
-      "published": "2026-07-26 19:53:20",
-      "isoDate": "2026-07-26T19:53:20Z"
+      "title": "エヌビディアがAIデータセンター向けに10億ドル出資、ネイバー株が1カ月ぶり高値",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616337",
+      "published": "2026-07-27 02:07:06",
+      "isoDate": "2026-07-27T02:07:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AI時代に自社株買いに積極的な企業がS&P 500に劣後",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616254",
-      "published": "2026-07-26 12:43:21",
-      "isoDate": "2026-07-26T12:43:21Z"
+      "title": "概況からBRICsを知ろう 上海総合は5日ぶり反落、週末を控えた持ち高調整の売りが優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616318",
+      "published": "2026-07-27 01:15:07",
+      "isoDate": "2026-07-27T01:15:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Q2決算前にAI関連で注目の5大アナリスト動向",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616241",
-      "published": "2026-07-26 09:00:02",
-      "isoDate": "2026-07-26T09:00:02Z"
+      "title": "ウォール街先物上昇、米・イラン停戦で原油急落―決算とFRBに注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616312",
+      "published": "2026-07-27 00:50:40",
+      "isoDate": "2026-07-27T00:50:40Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックスの米国ADRプレミアム、AIバブルの警告シグナルか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616228",
-      "published": "2026-07-26 05:03:42",
-      "isoDate": "2026-07-26T05:03:42Z"
+      "title": "日経平均は553円高でスタート、三菱UFJや太陽誘電などが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616301",
+      "published": "2026-07-27 00:45:07",
+      "isoDate": "2026-07-27T00:45:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日本の「強く豊かな国」戦略、円相場の変動拡大を招く可能性",
-      "link": "https://jp.investing.com/news/economy-news/article-1616218",
-      "published": "2026-07-26 01:30:24",
-      "isoDate": "2026-07-26T01:30:24Z"
+      "title": "個別銘柄戦略: 川崎船やブルソースに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1616297",
+      "published": "2026-07-27 00:15:06",
+      "isoDate": "2026-07-27T00:15:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：日米韓テック大手決算、日銀金融政策決定会合、米FOMC",
-      "link": "https://jp.investing.com/news/forex-news/article-1616184",
-      "published": "2026-07-25 08:15:04",
-      "isoDate": "2026-07-25T08:15:04Z"
+      "title": "NvidiaがOpenAIのデータセンタープロジェクトに2500億ドルの保証を検討―WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616289",
+      "published": "2026-07-26 23:55:37",
+      "isoDate": "2026-07-26T23:55:37Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コインベースCEO「仮想通貨はAI時代に重要性増す」",
+      "link": "https://coinpost.jp/?p=727369",
+      "published": "Mon, 27 Jul 2026 11:18:45 +0900",
+      "isoDate": "2026-07-27T02:18:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア最大手銀スベルバンク、仮想通貨取引インフラ構築へ　デジタル通貨法の可決受けて",
+      "link": "https://coinpost.jp/?p=727335",
+      "published": "Mon, 27 Jul 2026 09:55:04 +0900",
+      "isoDate": "2026-07-27T00:55:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏「別の色が必要」　BTC購入4週途絶",
+      "link": "https://coinpost.jp/?p=727331",
+      "published": "Mon, 27 Jul 2026 08:37:37 +0900",
+      "isoDate": "2026-07-26T23:37:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
+      "link": "https://coinpost.jp/?p=727327",
+      "published": "Mon, 27 Jul 2026 07:49:37 +0900",
+      "isoDate": "2026-07-26T22:49:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=727127",
+      "published": "Sun, 26 Jul 2026 11:30:35 +0900",
+      "isoDate": "2026-07-26T02:30:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（7/24）｜クラリティー法の動向・BTC相場分析・メタプラネットの戦略のまとめ",
+      "link": "https://coinpost.jp/?p=726998",
+      "published": "Sun, 26 Jul 2026 09:25:27 +0900",
+      "isoDate": "2026-07-26T00:25:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国務省、ビットコイン政策研究所やパランティアと提携",
+      "link": "https://coinpost.jp/?p=727306",
+      "published": "Sat, 25 Jul 2026 13:10:14 +0900",
+      "isoDate": "2026-07-25T04:10:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "BitMEXが集団訴訟に直面、622ビットコインの返還請求",
+      "link": "https://coinpost.jp/?p=727264",
+      "published": "Sat, 25 Jul 2026 10:25:26 +0900",
+      "isoDate": "2026-07-25T01:25:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン保有価値の新指標公表",
+      "link": "https://coinpost.jp/?p=727268",
+      "published": "Sat, 25 Jul 2026 07:10:33 +0900",
+      "isoDate": "2026-07-24T22:10:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、年内成立の確率が30%まで低下＝ギャラクシー・リサーチ",
+      "link": "https://coinpost.jp/?p=727266",
+      "published": "Sat, 25 Jul 2026 06:20:30 +0900",
+      "isoDate": "2026-07-24T21:20:30Z"
+    }
+  ]
 }
