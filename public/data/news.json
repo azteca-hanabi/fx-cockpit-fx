@@ -1,17 +1,24 @@
 {
-  "updated": "2026-07-27T08:02:45Z",
-  "last_checked": "2026-07-27T08:02:45Z",
+  "updated": "2026-07-27T11:52:20Z",
+  "last_checked": "2026-07-27T11:52:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、ドル安を背景に上昇――中東情勢と米FRBの動向を注視",
+      "title": "欧州天然ガス価格が約9%急落、中東停戦シグナルがエネルギー市場を圧迫",
+      "link": "https://jp.investing.com/news/commodities-news/article-1616626",
+      "published": "2026-07-27 08:46:19",
+      "isoDate": "2026-07-27T08:46:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東停戦休止で原油下落、金価格は上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1616372",
       "published": "2026-07-27 03:13:41",
       "isoDate": "2026-07-27T03:13:41Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン緊張緩和で原油価格が6%超急落、戦争プレミアム消える",
+      "title": "原油価格が8%超急落、米国とイランの戦闘停止を受けて",
       "link": "https://jp.investing.com/news/commodities-news/article-1616316",
       "published": "2026-07-27 00:59:07",
       "isoDate": "2026-07-27T00:59:07Z"
@@ -50,22 +57,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1615809",
       "published": "2026-07-24 14:06:33",
       "isoDate": "2026-07-24T14:06:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス先物が4カ月ぶり高値、4週連続の週間上昇へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1615171",
-      "published": "2026-07-24 09:23:12",
-      "isoDate": "2026-07-24T09:23:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反発、半導体関連株の下落が重し",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616517",
-      "published": "2026-07-27 07:00:18",
-      "isoDate": "2026-07-27T07:00:18Z"
+      "title": "AT&T、D-Waveの量子コンピューティングをネットワーク運用に拡大",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1616828",
+      "published": "2026-07-27 11:01:42",
+      "isoDate": "2026-07-27T11:01:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "セクター売りの後、バンク・オブ・アメリカが半導体トップ銘柄を選定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616783",
+      "published": "2026-07-27 10:45:22",
+      "isoDate": "2026-07-27T10:45:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがAgent ToolkitにPhysicsNeMoとCUDA-Xライブラリを追加",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1616707",
+      "published": "2026-07-27 10:04:12",
+      "isoDate": "2026-07-27T10:04:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "シノプシス、Nvidiaと共同開発したエージェント型チップ設計ツールを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1616694",
+      "published": "2026-07-27 10:04:05",
+      "isoDate": "2026-07-27T10:04:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、米宇宙軍から2億6600万ドルの準軌道打ち上げ契約を受注",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1616690",
+      "published": "2026-07-27 10:01:05",
+      "isoDate": "2026-07-27T10:01:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バーンスタインがサムスン・エヌビディア提携後もメモリ株に強気な理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616657",
+      "published": "2026-07-27 09:21:39",
+      "isoDate": "2026-07-27T09:21:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "残りわずか：セール終了前に、InvestingProを週300円未満で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1616608",
+      "published": "2026-07-27 08:17:34",
+      "isoDate": "2026-07-27T08:17:34Z"
     },
     {
       "source": "Investing.com 外為",
@@ -83,52 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体売り継続で65000円割れ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616376",
-      "published": "2026-07-27 03:30:14",
-      "isoDate": "2026-07-27T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国CXMTが上海上場初日に500%超急騰、時価総額でインテルを上回る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616350",
-      "published": "2026-07-27 02:17:20",
-      "isoDate": "2026-07-27T02:17:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアがAIデータセンター向けに10億ドル出資、ネイバー株が1カ月ぶり高値",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616337",
-      "published": "2026-07-27 02:07:06",
-      "isoDate": "2026-07-27T02:07:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "概況からBRICsを知ろう 上海総合は5日ぶり反落、週末を控えた持ち高調整の売りが優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616318",
-      "published": "2026-07-27 01:15:07",
-      "isoDate": "2026-07-27T01:15:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街先物上昇、米・イラン停戦で原油急落——決算とFOMCに注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616312",
-      "published": "2026-07-27 00:50:40",
-      "isoDate": "2026-07-27T00:50:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は553円高でスタート、三菱UFJや太陽誘電などが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1616301",
       "published": "2026-07-27 00:45:07",
       "isoDate": "2026-07-27T00:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがOpenAIのデータセンタープロジェクトに2500億ドルの保証を検討―WSJ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1616289",
-      "published": "2026-07-26 23:55:37",
-      "isoDate": "2026-07-26T23:55:37Z"
     }
   ],
   "btc_items": [
