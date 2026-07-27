@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-27T18:56:14Z",
-  "last_checked": "2026-07-27T18:56:14Z",
+  "updated": "2026-07-27T20:26:17Z",
+  "last_checked": "2026-07-27T20:26:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東和平期待でICEキャノーラ先物が急落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1617762",
+      "published": "2026-07-27 19:23:21",
+      "isoDate": "2026-07-27T19:23:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ベイカー・ヒューズ、世界の石油関連支出が小幅減少と予測",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1616372",
       "published": "2026-07-27 03:13:41",
       "isoDate": "2026-07-27T03:13:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの戦闘停止を受け、原油価格が急落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1616316",
-      "published": "2026-07-27 00:59:07",
-      "isoDate": "2026-07-27T00:59:07Z"
     }
   ],
   "usdjpy_items": [
@@ -90,17 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ASMLと米国半導体株、中国のDUV技術突破報道を受けて急落",
+      "title": "ASMLと米半導体株、中国のDUV技術突破報道で急落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1617306",
       "published": "2026-07-27 13:22:51",
       "isoDate": "2026-07-27T13:22:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがSafe Superintelligenceに出資し、新たなパートナーシップを締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1617225",
-      "published": "2026-07-27 13:01:42",
-      "isoDate": "2026-07-27T13:01:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1616608",
       "published": "2026-07-27 08:17:34",
       "isoDate": "2026-07-27T08:17:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "売り買いが交錯しもみ合い展開続くも後場に持ち直す【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1616561",
+      "published": "2026-07-27 07:45:16",
+      "isoDate": "2026-07-27T07:45:16Z"
     },
     {
       "source": "Investing.com 外為",
