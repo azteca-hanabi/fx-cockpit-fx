@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T20:02:24Z",
-  "last_checked": "2026-07-28T20:02:24Z",
+  "updated": "2026-07-28T21:40:42Z",
+  "last_checked": "2026-07-28T21:40:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "明日のFed緊急利上げの可能性、市場関係者が検討",
-      "link": "https://jp.investing.com/news/economy-news/article-1619536",
-      "published": "2026-07-28 16:07:20",
-      "isoDate": "2026-07-28T16:07:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの株価、時価総額1.2兆ドル超が消失",
       "link": "https://jp.investing.com/news/stock-market-news/article-1619296",
       "published": "2026-07-28 14:00:13",
@@ -139,6 +132,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は大幅反落、アドバンテストが1銘柄で約705円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1618081",
+      "published": "2026-07-28 03:45:18",
+      "isoDate": "2026-07-28T03:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アジア株急落、AI投資懸念と中国半導体進展が市場を直撃",
       "link": "https://jp.investing.com/news/stock-market-news/article-1618054",
       "published": "2026-07-28 02:29:39",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上院、クラリティー法採決を来週先送りへ",
+      "link": "https://coinpost.jp/?p=728246",
+      "published": "Wed, 29 Jul 2026 06:05:14 +0900",
+      "isoDate": "2026-07-28T21:05:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米モルガン・スタンレー、イーサリアムとソラナのETPを新規提供",
+      "link": "https://coinpost.jp/?p=728241",
+      "published": "Wed, 29 Jul 2026 05:40:26 +0900",
+      "isoDate": "2026-07-28T20:40:26Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場企業ハイパースケール・データ、ビットコイン保有量1106BTCに拡大",
@@ -187,20 +201,6 @@
       "link": "https://coinpost.jp/?p=727941",
       "published": "Tue, 28 Jul 2026 07:35:10 +0900",
       "isoDate": "2026-07-27T22:35:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院共和党、クラリティー法案の本会議入り急ぐ＝報道",
-      "link": "https://coinpost.jp/?p=727916",
-      "published": "Tue, 28 Jul 2026 05:55:45 +0900",
-      "isoDate": "2026-07-27T20:55:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン新規購入を再度見送り　新たに883億円調達",
-      "link": "https://coinpost.jp/?p=727900",
-      "published": "Mon, 27 Jul 2026 21:25:19 +0900",
-      "isoDate": "2026-07-27T12:25:19Z"
     }
   ]
 }
