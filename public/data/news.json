@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-27T23:07:08Z",
-  "last_checked": "2026-07-27T23:07:08Z",
+  "updated": "2026-07-28T00:56:34Z",
+  "last_checked": "2026-07-28T00:56:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：反落で4,089.30ドル、米・イラン軍事衝突停止で安全資産需要が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1617934",
-      "published": "2026-07-27 22:15:05",
-      "isoDate": "2026-07-27T22:15:05Z"
+      "title": "半導体やAI関連株への売りが警戒されやすい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1617968",
+      "published": "2026-07-27 23:45:09",
+      "isoDate": "2026-07-27T23:45:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：連邦公開市場委員会（FOMC）を控え、根強い年内の利上げ観測",
-      "link": "https://jp.investing.com/news/forex-news/article-1617914",
-      "published": "2026-07-27 21:30:04",
-      "isoDate": "2026-07-27T21:30:04Z"
+      "title": "強弱材料 7/28",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1617967",
+      "published": "2026-07-27 23:45:08",
+      "isoDate": "2026-07-27T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "27日の米国市場ダイジェスト：米国株式市場はまちまち、対イラン和平交渉や原油安を好感も半導体が重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1617947",
+      "published": "2026-07-27 22:45:07",
+      "isoDate": "2026-07-27T22:45:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1617899",
       "published": "2026-07-27 21:15:05",
       "isoDate": "2026-07-27T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia、AI巨額投資がバランスシートへの懸念を呼び4%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1617509",
-      "published": "2026-07-27 14:40:37",
-      "isoDate": "2026-07-27T14:40:37Z"
     },
     {
       "source": "Investing.com 外為",
@@ -208,20 +208,6 @@
       "link": "https://coinpost.jp/?p=727331",
       "published": "Mon, 27 Jul 2026 08:37:37 +0900",
       "isoDate": "2026-07-26T23:37:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者、保有1630万BTCで含み益30％まで圧縮＝アナリスト",
-      "link": "https://coinpost.jp/?p=727327",
-      "published": "Mon, 27 Jul 2026 07:49:37 +0900",
-      "isoDate": "2026-07-26T22:49:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン原油高で上値重く、クラリティ法案とFOMCが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=727127",
-      "published": "Sun, 26 Jul 2026 11:30:35 +0900",
-      "isoDate": "2026-07-26T02:30:35Z"
     }
   ]
 }
