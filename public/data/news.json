@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-28T18:23:07Z",
-  "last_checked": "2026-07-28T18:23:07Z",
+  "updated": "2026-07-28T20:02:24Z",
+  "last_checked": "2026-07-28T20:02:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海リスクは織り込み済み、欧州小麦価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619788",
+      "published": "2026-07-28 18:46:57",
+      "isoDate": "2026-07-28T18:46:57Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆相場、輸出需要堅調も売り圧力で下落",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1617867",
       "published": "2026-07-27 20:44:20",
       "isoDate": "2026-07-27T20:44:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東和平期待でICEキャノーラ先物が急落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1617762",
-      "published": "2026-07-27 19:23:21",
-      "isoDate": "2026-07-27T19:23:21Z"
     }
   ],
   "usdjpy_items": [
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米上場企業ハイパースケール・データ、ビットコイン保有量1106BTCに拡大",
+      "link": "https://coinpost.jp/?p=728235",
+      "published": "Wed, 29 Jul 2026 05:00:51 +0900",
+      "isoDate": "2026-07-28T20:00:51Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン需要、現物先物合算で12.7万BTC不足＝アナリスト",
       "link": "https://coinpost.jp/?p=728167",
       "published": "Tue, 28 Jul 2026 17:12:33 +0900",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=727900",
       "published": "Mon, 27 Jul 2026 21:25:19 +0900",
       "isoDate": "2026-07-27T12:25:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トップアナリストと語るビットコイン相場展望｜WebX2026",
-      "link": "https://coinpost.jp/?p=727792",
-      "published": "Mon, 27 Jul 2026 15:58:37 +0900",
-      "isoDate": "2026-07-27T06:58:37Z"
     }
   ]
 }
