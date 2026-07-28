@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T15:00:40Z",
-  "last_checked": "2026-07-28T15:00:40Z",
+  "updated": "2026-07-28T16:59:54Z",
+  "last_checked": "2026-07-28T16:59:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "明日のFed緊急利上げの可能性、市場関係者が検討",
+      "link": "https://jp.investing.com/news/economy-news/article-1619536",
+      "published": "2026-07-28 16:07:20",
+      "isoDate": "2026-07-28T16:07:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceXの株価、時価総額1.2兆ドル超が消失",
       "link": "https://jp.investing.com/news/stock-market-news/article-1619296",
       "published": "2026-07-28 14:00:13",
       "isoDate": "2026-07-28T14:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、AIスマートホーム革命に向けた大胆な新戦略を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1619133",
-      "published": "2026-07-28 13:16:32",
-      "isoDate": "2026-07-28T13:16:32Z"
     },
     {
       "source": "Investing.com 外為",
