@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T23:03:42Z",
-  "last_checked": "2026-07-28T23:03:42Z",
+  "updated": "2026-07-29T00:59:36Z",
+  "last_checked": "2026-07-29T00:59:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1ベルパーク、キオクシアHD、円谷フィHDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620132",
-      "published": "2026-07-28 22:31:15",
-      "isoDate": "2026-07-28T22:31:15Z"
+      "title": "前場に注目すべき3つのポイント～半導体株の底入れを見極めながらの相場展開～",
+      "link": "https://jp.investing.com/news/forex-news/article-1620163",
+      "published": "2026-07-29 00:00:07",
+      "isoDate": "2026-07-29T00:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックス、AI需要でQ2営業利益が過去最高を記録",
+      "link": "https://jp.investing.com/news/earnings/article-1620161",
+      "published": "2026-07-28 23:52:09",
+      "isoDate": "2026-07-28T23:52:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体株の底入れを見極めながらの相場展開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620156",
+      "published": "2026-07-28 23:45:06",
+      "isoDate": "2026-07-28T23:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体・AI関連株への売りが継続か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620150",
+      "published": "2026-07-28 23:30:07",
+      "isoDate": "2026-07-28T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、消費関連好調もAI投資に懸念広がる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620143",
+      "published": "2026-07-28 23:00:06",
+      "isoDate": "2026-07-28T23:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1620112",
       "published": "2026-07-28 22:00:06",
       "isoDate": "2026-07-28T22:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：米消費者信頼感指数が予想外に悪化",
-      "link": "https://jp.investing.com/news/forex-news/article-1620111",
-      "published": "2026-07-28 22:00:05",
-      "isoDate": "2026-07-28T22:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NYダウは537.24ドル高、消費関連好調もAI投資に懸念広がる",
-      "link": "https://jp.investing.com/news/forex-news/article-1620067",
-      "published": "2026-07-28 21:15:05",
-      "isoDate": "2026-07-28T21:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,21 +143,78 @@
       "link": "https://jp.investing.com/news/forex-news/article-1618418",
       "published": "2026-07-28 09:30:12",
       "isoDate": "2026-07-28T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスクの株価が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1618399",
-      "published": "2026-07-28 09:19:21",
-      "isoDate": "2026-07-28T09:19:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株急落、AI投資懸念と中国半導体進展が市場を直撃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1618054",
-      "published": "2026-07-28 02:29:39",
-      "isoDate": "2026-07-28T02:29:39Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トム・リー氏、クラリティー法が相場回復のカギと指摘",
+      "link": "https://coinpost.jp/?p=728276",
+      "published": "Wed, 29 Jul 2026 09:45:07 +0900",
+      "isoDate": "2026-07-29T00:45:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "3名の原告がアップルを提訴、ビットコインウォレットアプリで合計3億円相当が盗難と主張",
+      "link": "https://coinpost.jp/?p=728260",
+      "published": "Wed, 29 Jul 2026 09:10:12 +0900",
+      "isoDate": "2026-07-29T00:10:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院に量子技術法案提出、仮想通貨のセキュリティにも影響か",
+      "link": "https://coinpost.jp/?p=728249",
+      "published": "Wed, 29 Jul 2026 08:30:20 +0900",
+      "isoDate": "2026-07-28T23:30:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院、クラリティー法採決を来週先送りへ",
+      "link": "https://coinpost.jp/?p=728246",
+      "published": "Wed, 29 Jul 2026 06:05:14 +0900",
+      "isoDate": "2026-07-28T21:05:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米モルガン・スタンレー、イーサリアムとソラナのETPを新規提供",
+      "link": "https://coinpost.jp/?p=728241",
+      "published": "Wed, 29 Jul 2026 05:40:26 +0900",
+      "isoDate": "2026-07-28T20:40:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場企業ハイパースケール・データ、ビットコイン保有量1106BTCに拡大",
+      "link": "https://coinpost.jp/?p=728235",
+      "published": "Wed, 29 Jul 2026 05:00:51 +0900",
+      "isoDate": "2026-07-28T20:00:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン需要、現物先物合算で12.7万BTC不足＝アナリスト",
+      "link": "https://coinpost.jp/?p=728167",
+      "published": "Tue, 28 Jul 2026 17:12:33 +0900",
+      "isoDate": "2026-07-28T08:12:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ルミス米上院議員、クラリティー法案が北朝鮮ラザルス封じの鍵に",
+      "link": "https://coinpost.jp/?p=728068",
+      "published": "Tue, 28 Jul 2026 13:40:51 +0900",
+      "isoDate": "2026-07-28T04:40:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リキッドステーキングのリド、アップグレードを開始　ETHのバリデータ数を約3分の1削減へ",
+      "link": "https://coinpost.jp/?p=728025",
+      "published": "Tue, 28 Jul 2026 12:45:02 +0900",
+      "isoDate": "2026-07-28T03:45:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、上院規則の壁で8月成立は困難か＝元米国政府関係者が分析",
+      "link": "https://coinpost.jp/?p=727964",
+      "published": "Tue, 28 Jul 2026 10:15:14 +0900",
+      "isoDate": "2026-07-28T01:15:14Z"
+    }
+  ]
 }
