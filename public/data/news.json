@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-29T00:59:36Z",
-  "last_checked": "2026-07-29T00:59:36Z",
+  "updated": "2026-07-29T04:21:52Z",
+  "last_checked": "2026-07-29T04:21:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、Fed決定を前に安定推移――原油反発でインフレ懸念再燃",
+      "link": "https://jp.investing.com/news/commodities-news/article-1620307",
+      "published": "2026-07-29 03:37:03",
+      "isoDate": "2026-07-29T03:37:03Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの攻撃で供給不安再燃、原油価格が4%超反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1620220",
+      "published": "2026-07-29 01:14:37",
+      "isoDate": "2026-07-29T01:14:37Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海リスクは織り込み済み、欧州小麦価格が下落",
@@ -57,33 +71,40 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1618321",
       "published": "2026-07-28 08:14:14",
       "isoDate": "2026-07-28T08:14:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、ドル高が重しに下落――FRB決定を注視",
-      "link": "https://jp.investing.com/news/commodities-news/article-1618090",
-      "published": "2026-07-28 03:58:40",
-      "isoDate": "2026-07-28T03:58:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物、原油安と利益確定売りで下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1617867",
-      "published": "2026-07-27 20:44:20",
-      "isoDate": "2026-07-27T20:44:20Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～半導体株の底入れを見極めながらの相場展開～",
-      "link": "https://jp.investing.com/news/forex-news/article-1620163",
-      "published": "2026-07-29 00:00:07",
-      "isoDate": "2026-07-29T00:00:07Z"
+      "title": "後場に注目すべき3つのポイント～AI投資リスク警告で半導体関連株売り継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1620308",
+      "published": "2026-07-29 03:45:17",
+      "isoDate": "2026-07-29T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックス、AI需要でQ2営業利益が過去最高を記録",
+      "title": "AI投資リスク警告で半導体関連株売り継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620304",
+      "published": "2026-07-29 03:30:17",
+      "isoDate": "2026-07-29T03:30:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅続落、AI投資リスク警告で半導体関連株売り継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620301",
+      "published": "2026-07-29 03:30:16",
+      "isoDate": "2026-07-29T03:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は369円高でスタート、キーエンスやトヨタなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1620202",
+      "published": "2026-07-29 00:45:11",
+      "isoDate": "2026-07-29T00:45:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SK Hynix、AI向けメモリ需要で過去最高益を記録も市場予想には届かず",
       "link": "https://jp.investing.com/news/earnings/article-1620161",
       "published": "2026-07-28 23:52:09",
       "isoDate": "2026-07-28T23:52:09Z"
@@ -94,27 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1620156",
       "published": "2026-07-28 23:45:06",
       "isoDate": "2026-07-28T23:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体・AI関連株への売りが継続か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620150",
-      "published": "2026-07-28 23:30:07",
-      "isoDate": "2026-07-28T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場はまちまち、消費関連好調もAI投資に懸念広がる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620143",
-      "published": "2026-07-28 23:00:06",
-      "isoDate": "2026-07-28T23:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "28日の米国市場ダイジェスト：米国株式市場はまちまち、消費関連好調もAI投資に懸念広がる",
-      "link": "https://jp.investing.com/news/forex-news/article-1620112",
-      "published": "2026-07-28 22:00:06",
-      "isoDate": "2026-07-28T22:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "イオレ、ハイパーリキッドを取得　国内上場企業で初の事例",
+      "link": "https://coinpost.jp/?p=728250",
+      "published": "Wed, 29 Jul 2026 13:15:23 +0900",
+      "isoDate": "2026-07-29T04:15:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SECが仮想通貨規則案を検討、クラリティー法停滞の代替策か＝投資家",
+      "link": "https://coinpost.jp/?p=728350",
+      "published": "Wed, 29 Jul 2026 12:48:02 +0900",
+      "isoDate": "2026-07-29T03:48:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "gumiとSBI、仮想通貨ファンド始動　大和証券Gが出資参加",
+      "link": "https://coinpost.jp/?p=728310",
+      "published": "Wed, 29 Jul 2026 10:19:22 +0900",
+      "isoDate": "2026-07-29T01:19:22Z"
+    },
     {
       "source": "CoinPost",
       "title": "トム・リー氏、クラリティー法が相場回復のカギと指摘",
@@ -194,27 +215,6 @@
       "link": "https://coinpost.jp/?p=728167",
       "published": "Tue, 28 Jul 2026 17:12:33 +0900",
       "isoDate": "2026-07-28T08:12:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ルミス米上院議員、クラリティー法案が北朝鮮ラザルス封じの鍵に",
-      "link": "https://coinpost.jp/?p=728068",
-      "published": "Tue, 28 Jul 2026 13:40:51 +0900",
-      "isoDate": "2026-07-28T04:40:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リキッドステーキングのリド、アップグレードを開始　ETHのバリデータ数を約3分の1削減へ",
-      "link": "https://coinpost.jp/?p=728025",
-      "published": "Tue, 28 Jul 2026 12:45:02 +0900",
-      "isoDate": "2026-07-28T03:45:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、上院規則の壁で8月成立は困難か＝元米国政府関係者が分析",
-      "link": "https://coinpost.jp/?p=727964",
-      "published": "Tue, 28 Jul 2026 10:15:14 +0900",
-      "isoDate": "2026-07-28T01:15:14Z"
     }
   ]
 }
