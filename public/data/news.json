@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-29T20:31:16Z",
-  "last_checked": "2026-07-29T20:31:16Z",
+  "updated": "2026-07-29T22:03:55Z",
+  "last_checked": "2026-07-29T22:03:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "植物油市場が米国の天候に注目、キャノーラ先物は下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1622488",
+      "published": "2026-07-29 21:22:05",
+      "isoDate": "2026-07-29T21:22:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "非商業トレーダー、ユーロネクスト小麦の買い越しポジションを拡大",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1622485",
+      "published": "2026-07-29 21:21:00",
+      "isoDate": "2026-07-29T21:21:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージン、原油高で下落",
@@ -57,50 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1620220",
       "published": "2026-07-29 01:14:37",
       "isoDate": "2026-07-29T01:14:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海リスクは織り込み済み、欧州小麦価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619788",
-      "published": "2026-07-28 18:46:57",
-      "isoDate": "2026-07-28T18:46:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆相場、輸出需要堅調も売り圧力で下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619169",
-      "published": "2026-07-28 13:31:55",
-      "isoDate": "2026-07-28T13:31:55Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia、2027年度第2四半期の決算説明会を8月26日に予定",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1622436",
+      "published": "2026-07-29 21:01:05",
+      "isoDate": "2026-07-29T21:01:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト、利益と売上高が予想を上回り、時間外取引で株価上昇",
+      "link": "https://jp.investing.com/news/earnings/article-1622255",
+      "published": "2026-07-29 20:18:10",
+      "isoDate": "2026-07-29T20:18:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Arm Holdingsが第1四半期の予想を上回るも、時間外取引で株価下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1622262",
+      "published": "2026-07-29 20:14:51",
+      "isoDate": "2026-07-29T20:14:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Meta Platforms、法的コストが第2四半期利益を圧迫し株価8%下落",
+      "link": "https://jp.investing.com/news/earnings/article-1622209",
+      "published": "2026-07-29 20:10:16",
+      "isoDate": "2026-07-29T20:10:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】Meta Platforms、売上高は予想を上回り、利益は予想を下回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1622195",
+      "published": "2026-07-29 20:06:51",
+      "isoDate": "2026-07-29T20:06:51Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "DirexionがNvidiaやテスラなどのメガキャップ銘柄に連動したオプション収益ETFシリーズを発表",
       "link": "https://jp.investing.com/news/stock-market-news/article-1621345",
       "published": "2026-07-29 12:49:14",
       "isoDate": "2026-07-29T12:49:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIラリーは勢いを失いつつあるのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1621286",
-      "published": "2026-07-29 12:30:42",
-      "isoDate": "2026-07-29T12:30:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "GE HealthCare・フォードが決算後に上昇、パーソンズは急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1621174",
-      "published": "2026-07-29 11:56:43",
-      "isoDate": "2026-07-29T11:56:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】SoFi Technologies、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1621050",
-      "published": "2026-07-29 11:18:49",
-      "isoDate": "2026-07-29T11:18:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,24 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅続落、イベント控え積極的な買いは見送り",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620572",
-      "published": "2026-07-29 08:15:19",
-      "isoDate": "2026-07-29T08:15:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続落、東エレクやソフトバンクGが2銘柄で約880円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1620569",
       "published": "2026-07-29 08:15:17",
       "isoDate": "2026-07-29T08:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Fed決定とMeta・マイクロソフト決算が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1620517",
-      "published": "2026-07-29 07:38:08",
-      "isoDate": "2026-07-29T07:38:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,69 @@
       "isoDate": "2026-07-29T00:45:11Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "JPX-QUICK暗号資産指数、参照取引所に4社決定",
+      "link": "https://coinpost.jp/?p=728394",
+      "published": "Wed, 29 Jul 2026 14:52:50 +0900",
+      "isoDate": "2026-07-29T05:52:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "2026年上半期の仮想通貨ハッキング被害約11億ドル、件数は史上最多＝Blockaidレポート",
+      "link": "https://coinpost.jp/?p=728372",
+      "published": "Wed, 29 Jul 2026 14:05:51 +0900",
+      "isoDate": "2026-07-29T05:05:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベース、FRBのフィンテック向け「決済口座」新設案に意見書　利息付与など3点の改善要望",
+      "link": "https://coinpost.jp/?p=728341",
+      "published": "Wed, 29 Jul 2026 13:35:51 +0900",
+      "isoDate": "2026-07-29T04:35:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イオレ、暗号資産HYPEを取得　国内上場企業で初の事例",
+      "link": "https://coinpost.jp/?p=728250",
+      "published": "Wed, 29 Jul 2026 13:15:23 +0900",
+      "isoDate": "2026-07-29T04:15:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SECが仮想通貨規則案を検討、クラリティー法停滞の代替策か＝投資家",
+      "link": "https://coinpost.jp/?p=728350",
+      "published": "Wed, 29 Jul 2026 12:48:02 +0900",
+      "isoDate": "2026-07-29T03:48:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "gumiとSBI、仮想通貨ファンド始動　大和証券Gが出資参加",
+      "link": "https://coinpost.jp/?p=728310",
+      "published": "Wed, 29 Jul 2026 10:19:22 +0900",
+      "isoDate": "2026-07-29T01:19:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トム・リー氏、クラリティー法が相場回復のカギと指摘",
+      "link": "https://coinpost.jp/?p=728276",
+      "published": "Wed, 29 Jul 2026 09:45:07 +0900",
+      "isoDate": "2026-07-29T00:45:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "3名の原告がアップルを提訴、ビットコインウォレットアプリで合計3億円相当が盗難と主張",
+      "link": "https://coinpost.jp/?p=728260",
+      "published": "Wed, 29 Jul 2026 09:10:12 +0900",
+      "isoDate": "2026-07-29T00:10:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院に量子技術法案提出、仮想通貨のセキュリティにも影響か",
+      "link": "https://coinpost.jp/?p=728249",
+      "published": "Wed, 29 Jul 2026 08:30:20 +0900",
+      "isoDate": "2026-07-28T23:30:20Z"
+    }
+  ]
 }
