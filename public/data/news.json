@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-29T12:30:20Z",
-  "last_checked": "2026-07-29T12:30:20Z",
+  "updated": "2026-07-29T14:55:38Z",
+  "last_checked": "2026-07-29T14:55:38Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆相場、8月の中西部降雨予報を受けて下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621432",
+      "published": "2026-07-29 13:13:57",
+      "isoDate": "2026-07-29T13:13:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海の輸出混乱を受け、小麦先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621430",
+      "published": "2026-07-29 13:13:11",
+      "isoDate": "2026-07-29T13:13:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の天気予報改善を受けてトウモロコシ価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621419",
+      "published": "2026-07-29 13:12:53",
+      "isoDate": "2026-07-29T13:12:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イランのミサイル迎撃と原油急騰を受け、欧州天然ガス先物が反発",
@@ -50,43 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619162",
       "published": "2026-07-28 13:29:51",
       "isoDate": "2026-07-28T13:29:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、全船種の運賃低下で3週間ぶり安値に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619144",
-      "published": "2026-07-28 13:22:55",
-      "isoDate": "2026-07-28T13:22:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "リビア、抗議活動によりエルフィール油田の生産を停止",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1618526",
-      "published": "2026-07-28 10:16:28",
-      "isoDate": "2026-07-28T10:16:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSがパラジウム価格目標を引き下げ、供給過剰を懸念",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1618398",
-      "published": "2026-07-28 09:17:58",
-      "isoDate": "2026-07-28T09:17:58Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "DirexionがNvidiaやテスラなどのメガキャップ銘柄に連動したオプション収益ETFシリーズを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1621345",
+      "published": "2026-07-29 12:49:14",
+      "isoDate": "2026-07-29T12:49:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIラリーは勢いを失いつつあるのか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1621286",
+      "published": "2026-07-29 12:30:42",
+      "isoDate": "2026-07-29T12:30:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "GE HealthCare・フォードが決算後に上昇、パーソンズは急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1621174",
+      "published": "2026-07-29 11:56:43",
+      "isoDate": "2026-07-29T11:56:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】SoFi Technologies、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1621050",
+      "published": "2026-07-29 11:18:49",
+      "isoDate": "2026-07-29T11:18:49Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "先週の決算発表以降+32%、AIが選んだこのヘルスケア株の上昇が止まらない",
       "link": "https://jp.investing.com/news/economy-news/article-1620813",
       "published": "2026-07-29 10:10:58",
       "isoDate": "2026-07-29T10:10:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：大幅続落、「黒三兵」出現",
-      "link": "https://jp.investing.com/news/forex-news/article-1620703",
-      "published": "2026-07-29 09:30:13",
-      "isoDate": "2026-07-29T09:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,27 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1620202",
       "published": "2026-07-29 00:45:11",
       "isoDate": "2026-07-29T00:45:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SK HynixがAI需要で過去最高益を記録も予想届かず、株価9.6%下落",
-      "link": "https://jp.investing.com/news/earnings/article-1620161",
-      "published": "2026-07-28 23:52:09",
-      "isoDate": "2026-07-28T23:52:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】コーニング、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1618713",
-      "published": "2026-07-28 11:12:23",
-      "isoDate": "2026-07-28T11:12:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：大幅反落、25日線乖離は8％超過",
-      "link": "https://jp.investing.com/news/forex-news/article-1618418",
-      "published": "2026-07-28 09:30:12",
-      "isoDate": "2026-07-28T09:30:12Z"
     }
   ],
   "btc_items": [
