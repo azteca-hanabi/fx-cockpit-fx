@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29T22:03:55Z",
-  "last_checked": "2026-07-29T22:03:55Z",
+  "updated": "2026-07-29T23:32:08Z",
+  "last_checked": "2026-07-29T23:32:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part2東京エレクトロン、キオクシアHD、シリコンスタジオなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1622637",
+      "published": "2026-07-29 22:45:06",
+      "isoDate": "2026-07-29T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "29日の米国市場ダイジェスト：米国株式市場は大幅下落、AI過剰投資やインフレ加速を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1622618",
+      "published": "2026-07-29 22:30:06",
+      "isoDate": "2026-07-29T22:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：連邦公開市場委員会（FOMC）が会合で政策金利据え置きを決定",
+      "link": "https://jp.investing.com/news/forex-news/article-1622532",
+      "published": "2026-07-29 21:45:04",
+      "isoDate": "2026-07-29T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Nvidia、2027年度第2四半期の決算説明会を8月26日に予定",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1622436",
       "published": "2026-07-29 21:01:05",
@@ -97,24 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platforms、法的コストが第2四半期利益を圧迫し株価8%下落",
-      "link": "https://jp.investing.com/news/earnings/article-1622209",
-      "published": "2026-07-29 20:10:16",
-      "isoDate": "2026-07-29T20:10:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【決算速報】Meta Platforms、売上高は予想を上回り、利益は予想を下回る結果に",
       "link": "https://jp.investing.com/news/earnings/article-1622195",
       "published": "2026-07-29 20:06:51",
       "isoDate": "2026-07-29T20:06:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "DirexionがNvidiaやテスラなどのメガキャップ銘柄に連動したオプション収益ETFシリーズを発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1621345",
-      "published": "2026-07-29 12:49:14",
-      "isoDate": "2026-07-29T12:49:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1620569",
       "published": "2026-07-29 08:15:17",
       "isoDate": "2026-07-29T08:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株が急落、KOSPIは6%安――AI株売り・中東緊張が重荷",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620323",
-      "published": "2026-07-29 04:07:49",
-      "isoDate": "2026-07-29T04:07:49Z"
     },
     {
       "source": "Investing.com 外為",
