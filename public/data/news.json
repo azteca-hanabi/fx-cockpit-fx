@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-29T16:24:58Z",
-  "last_checked": "2026-07-29T16:24:58Z",
+  "updated": "2026-07-29T17:49:17Z",
+  "last_checked": "2026-07-29T17:49:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、原油高で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621945",
+      "published": "2026-07-29 17:01:21",
+      "isoDate": "2026-07-29T17:01:21Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "戦争激化を背景に米原油在庫が720万バレル減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621908",
+      "published": "2026-07-29 16:25:39",
+      "isoDate": "2026-07-29T16:25:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆相場、8月の中西部降雨予報を受けて下落",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619169",
       "published": "2026-07-28 13:31:55",
       "isoDate": "2026-07-28T13:31:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物が上昇、USDAの作況評価引き下げを受けて",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619168",
-      "published": "2026-07-28 13:31:47",
-      "isoDate": "2026-07-28T13:31:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "小麦先物、利益確定売りで下落開始の見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1619162",
-      "published": "2026-07-28 13:29:51",
-      "isoDate": "2026-07-28T13:29:51Z"
     }
   ],
   "usdjpy_items": [
