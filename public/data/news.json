@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T11:10:36Z",
-  "last_checked": "2026-07-30T11:10:36Z",
+  "updated": "2026-07-30T13:07:31Z",
+  "last_checked": "2026-07-30T13:07:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は下げ渋り、戻りは鈍い",
+      "link": "https://jp.investing.com/news/forex-news/article-1623685",
+      "published": "2026-07-30 11:00:10",
+      "isoDate": "2026-07-30T11:00:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は約1円半下落、下げは一服",
+      "link": "https://jp.investing.com/news/forex-news/article-1623619",
+      "published": "2026-07-30 10:45:10",
+      "isoDate": "2026-07-30T10:45:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均テクニカル： 反発、25日線比で「売られ過ぎ」継続",
+      "link": "https://jp.investing.com/news/forex-news/article-1623360",
+      "published": "2026-07-30 09:30:13",
+      "isoDate": "2026-07-30T09:30:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "明日まで限定：InvestingProを60%オフで手に入れる最後のチャンス",
       "link": "https://jp.investing.com/news/stock-market-news/article-1623211",
       "published": "2026-07-30 08:33:00",
@@ -97,10 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米連邦準備制度理事会の決定と主要テック企業の決算に市場が注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1623122",
-      "published": "2026-07-30 07:31:07",
-      "isoDate": "2026-07-30T07:31:07Z"
+      "title": "東証グロース市場250指数先物概況：続落も押し目買いが入り下げ幅縮小",
+      "link": "https://jp.investing.com/news/forex-news/article-1623132",
+      "published": "2026-07-30 07:45:14",
+      "isoDate": "2026-07-30T07:45:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1622882",
       "published": "2026-07-30 05:00:15",
       "isoDate": "2026-07-30T05:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、インフレ鈍化を見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1622874",
-      "published": "2026-07-30 04:45:15",
-      "isoDate": "2026-07-30T04:45:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1622748",
       "published": "2026-07-30 00:32:18",
       "isoDate": "2026-07-30T00:32:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Arm Holdingsが第1四半期予想を上回るも株価急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1622262",
-      "published": "2026-07-29 20:14:51",
-      "isoDate": "2026-07-29T20:14:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "先週の決算発表以降+32%、AIが選んだこのヘルスケア株の上昇が止まらない",
-      "link": "https://jp.investing.com/news/economy-news/article-1620813",
-      "published": "2026-07-29 10:10:58",
-      "isoDate": "2026-07-29T10:10:58Z"
     }
   ],
   "btc_items": [
