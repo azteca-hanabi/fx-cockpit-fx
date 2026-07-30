@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-30T17:39:30Z",
-  "last_checked": "2026-07-30T17:39:30Z",
+  "updated": "2026-07-30T19:39:13Z",
+  "last_checked": "2026-07-30T19:39:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "コメックス銀先物、1週間超ぶりの高値へ1.6%上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1625005",
+      "published": "2026-07-30 18:46:48",
+      "isoDate": "2026-07-30T18:46:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金先物、1.58%上昇し2日続落に終止符",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1625004",
+      "published": "2026-07-30 18:46:38",
+      "isoDate": "2026-07-30T18:46:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中国の石炭発電比率、初めて50%を下回る",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1624977",
+      "published": "2026-07-30 18:05:11",
+      "isoDate": "2026-07-30T18:05:11Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数が上昇、ケープサイズ船の運賃が回復",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621908",
       "published": "2026-07-29 16:25:39",
       "isoDate": "2026-07-29T16:25:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆相場、8月の中西部降雨予報を受けて下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621432",
-      "published": "2026-07-29 13:13:57",
-      "isoDate": "2026-07-29T13:13:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の輸出混乱を受け、小麦先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621430",
-      "published": "2026-07-29 13:13:11",
-      "isoDate": "2026-07-29T13:13:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国の天気予報改善を受けてトウモロコシ価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1621419",
-      "published": "2026-07-29 13:12:53",
-      "isoDate": "2026-07-29T13:12:53Z"
     }
   ],
   "usdjpy_items": [
