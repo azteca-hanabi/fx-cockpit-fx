@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T15:32:15Z",
-  "last_checked": "2026-07-30T15:32:15Z",
+  "updated": "2026-07-30T17:39:30Z",
+  "last_checked": "2026-07-30T17:39:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル・円一時157円台に突入、200DMAがサポート、介入の思惑くすぶる",
+      "link": "https://jp.investing.com/news/forex-news/article-1624598",
+      "published": "2026-07-30 15:15:04",
+      "isoDate": "2026-07-30T15:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY外為：ドル・円158円台、5月来の円高、当局による円安是正介入警戒感",
       "link": "https://jp.investing.com/news/forex-news/article-1624430",
       "published": "2026-07-30 14:30:04",
       "isoDate": "2026-07-30T14:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1624326",
+      "published": "2026-07-30 14:01:56",
+      "isoDate": "2026-07-30T14:01:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は下げ渋り、戻りは鈍い",
-      "link": "https://jp.investing.com/news/forex-news/article-1623685",
-      "published": "2026-07-30 11:00:10",
-      "isoDate": "2026-07-30T11:00:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均テクニカル： 反発、25日線比で「売られ過ぎ」継続",
       "link": "https://jp.investing.com/news/forex-news/article-1623360",
       "published": "2026-07-30 09:30:13",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1623211",
       "published": "2026-07-30 08:33:00",
       "isoDate": "2026-07-30T08:33:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "連日の下落の反動やアドバンテスの急伸でAI関連株中心に買い戻される【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1623159",
-      "published": "2026-07-30 08:00:16",
-      "isoDate": "2026-07-30T08:00:16Z"
     },
     {
       "source": "Investing.com 外為",
