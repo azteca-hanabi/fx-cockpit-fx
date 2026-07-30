@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T21:15:29Z",
-  "last_checked": "2026-07-30T21:15:29Z",
+  "updated": "2026-07-30T22:37:08Z",
+  "last_checked": "2026-07-30T22:37:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：円安是正介入の思惑に円買いが加速",
+      "link": "https://jp.investing.com/news/forex-news/article-1625455",
+      "published": "2026-07-30 22:00:04",
+      "isoDate": "2026-07-30T22:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アップル、1株当たり0.27ドルの四半期配当を発表――利回り0.3%",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1625256",
       "published": "2026-07-30 20:38:03",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1625071",
       "published": "2026-07-30 20:00:04",
       "isoDate": "2026-07-30T20:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル・円158円台、5月来の円高、当局による円安是正介入警戒感",
-      "link": "https://jp.investing.com/news/forex-news/article-1624430",
-      "published": "2026-07-30 14:30:04",
-      "isoDate": "2026-07-30T14:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,76 +145,5 @@
       "isoDate": "2026-07-30T00:32:18Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託",
-      "link": "https://coinpost.jp/?p=728842",
-      "published": "Fri, 31 Jul 2026 06:10:23 +0900",
-      "isoDate": "2026-07-30T21:10:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案　休会まで7日",
-      "link": "https://coinpost.jp/?p=728823",
-      "published": "Fri, 31 Jul 2026 05:42:39 +0900",
-      "isoDate": "2026-07-30T20:42:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国、仮想通貨課税を2027年に実施へ",
-      "link": "https://coinpost.jp/?p=728809",
-      "published": "Fri, 31 Jul 2026 05:00:47 +0900",
-      "isoDate": "2026-07-30T20:00:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
-      "link": "https://coinpost.jp/?p=728755",
-      "published": "Thu, 30 Jul 2026 17:37:47 +0900",
-      "isoDate": "2026-07-30T08:37:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セイラー氏、ビットコインのコンセンサスルールは「憲法」　プロトコル変更に警鐘",
-      "link": "https://coinpost.jp/?p=728643",
-      "published": "Thu, 30 Jul 2026 14:17:55 +0900",
-      "isoDate": "2026-07-30T05:17:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアムは中立の決済レイヤー、トム・リー氏が展望｜WebX2026",
-      "link": "https://coinpost.jp/?p=728661",
-      "published": "Thu, 30 Jul 2026 13:56:11 +0900",
-      "isoDate": "2026-07-30T04:56:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国債の利回りが仮想通貨キャリートレードを上回る状況　市場は「無関心」局面＝グラスノード",
-      "link": "https://coinpost.jp/?p=728590",
-      "published": "Thu, 30 Jul 2026 12:27:16 +0900",
-      "isoDate": "2026-07-30T03:27:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "日立、暗号資産AML実証で実用性確認　10月新サービス",
-      "link": "https://coinpost.jp/?p=728596",
-      "published": "Thu, 30 Jul 2026 11:30:37 +0900",
-      "isoDate": "2026-07-30T02:30:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SEC議長、クラリティー法不成立なら独自ルール策定へ",
-      "link": "https://coinpost.jp/?p=728581",
-      "published": "Thu, 30 Jul 2026 11:02:32 +0900",
-      "isoDate": "2026-07-30T02:02:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPX-QUICK暗号資産指数、参照取引所に4社決定",
-      "link": "https://coinpost.jp/?p=728394",
-      "published": "Wed, 29 Jul 2026 14:52:50 +0900",
-      "isoDate": "2026-07-29T05:52:50Z"
-    }
-  ]
+  "btc_items": []
 }
