@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T19:39:13Z",
-  "last_checked": "2026-07-30T19:39:13Z",
+  "updated": "2026-07-30T21:15:29Z",
+  "last_checked": "2026-07-30T21:15:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル・円一時157円台に突入、200DMAがサポート、介入の思惑くすぶる",
-      "link": "https://jp.investing.com/news/forex-news/article-1624598",
-      "published": "2026-07-30 15:15:04",
-      "isoDate": "2026-07-30T15:15:04Z"
+      "title": "アップル、1株当たり0.27ドルの四半期配当を発表――利回り0.3%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1625256",
+      "published": "2026-07-30 20:38:03",
+      "isoDate": "2026-07-30T20:38:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、四半期決算で売上高・利益ともに予想超え――時間外取引で株価下落",
+      "link": "https://jp.investing.com/news/earnings/article-1625237",
+      "published": "2026-07-30 20:35:17",
+      "isoDate": "2026-07-30T20:35:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Amazon.com、AI投資でAWS成長加速し第2四半期利益が急増",
+      "link": "https://jp.investing.com/news/earnings/article-1625118",
+      "published": "2026-07-30 20:12:29",
+      "isoDate": "2026-07-30T20:12:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "7月30日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1625071",
+      "published": "2026-07-30 20:00:04",
+      "isoDate": "2026-07-30T20:00:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1624326",
-      "published": "2026-07-30 14:01:56",
-      "isoDate": "2026-07-30T14:01:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY外為：円、40年ぶり安値付近から反発",
       "link": "https://jp.investing.com/news/forex-news/article-1624323",
       "published": "2026-07-30 14:00:04",
       "isoDate": "2026-07-30T14:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1624310",
-      "published": "2026-07-30 13:53:31",
-      "isoDate": "2026-07-30T13:53:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は374円高、韓国株下げに転じ東京市場の株価の重しに",
-      "link": "https://jp.investing.com/news/forex-news/article-1622882",
-      "published": "2026-07-30 05:00:15",
-      "isoDate": "2026-07-30T05:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロソフト急騰で米株先物上昇、FRBとイランの不透明感が重荷",
       "link": "https://jp.investing.com/news/stock-market-news/article-1622748",
       "published": "2026-07-30 00:32:18",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "デジタル資産運用会社3iQ、ブータン新都市のビットコイン運用を受託",
+      "link": "https://coinpost.jp/?p=728842",
+      "published": "Fri, 31 Jul 2026 06:10:23 +0900",
+      "isoDate": "2026-07-30T21:10:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上院両党、クラリティー法の倫理条項に新たな妥協案　休会まで7日",
+      "link": "https://coinpost.jp/?p=728823",
+      "published": "Fri, 31 Jul 2026 05:42:39 +0900",
+      "isoDate": "2026-07-30T20:42:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国、仮想通貨課税を2027年に実施へ",
+      "link": "https://coinpost.jp/?p=728809",
+      "published": "Fri, 31 Jul 2026 05:00:47 +0900",
+      "isoDate": "2026-07-30T20:00:47Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン短期保有者の実現時価総額が62%減＝アナリスト分析",
@@ -194,27 +215,6 @@
       "link": "https://coinpost.jp/?p=728394",
       "published": "Wed, 29 Jul 2026 14:52:50 +0900",
       "isoDate": "2026-07-29T05:52:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "2026年上半期の仮想通貨ハッキング被害約11億ドル、件数は史上最多＝Blockaidレポート",
-      "link": "https://coinpost.jp/?p=728372",
-      "published": "Wed, 29 Jul 2026 14:05:51 +0900",
-      "isoDate": "2026-07-29T05:05:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、FRBのフィンテック向け「決済口座」新設案に意見書　利息付与など3点の改善要望",
-      "link": "https://coinpost.jp/?p=728341",
-      "published": "Wed, 29 Jul 2026 13:35:51 +0900",
-      "isoDate": "2026-07-29T04:35:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イオレ、暗号資産HYPEを取得　国内上場企業で初の事例",
-      "link": "https://coinpost.jp/?p=728250",
-      "published": "Wed, 29 Jul 2026 13:15:23 +0900",
-      "isoDate": "2026-07-29T04:15:23Z"
     }
   ]
 }
