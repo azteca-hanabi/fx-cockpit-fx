@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T02:43:25Z",
-  "last_checked": "2026-07-30T02:43:25Z",
+  "updated": "2026-07-30T05:45:41Z",
+  "last_checked": "2026-07-30T05:45:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "金、FRB据え置き後の上昇幅縮小―ウォーシュ発言と底堅いドルが重荷に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1622795",
-      "published": "2026-07-30 01:26:23",
-      "isoDate": "2026-07-30T01:26:23Z"
+      "title": "後場の日経平均は325円高でスタート、アドバンテストやNECなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1622867",
+      "published": "2026-07-30 04:15:18",
+      "isoDate": "2026-07-30T04:15:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンテスト---大幅反発、市場想定以上の上方修正を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1622773",
-      "published": "2026-07-30 01:00:12",
-      "isoDate": "2026-07-30T01:00:12Z"
+      "title": "日経平均は大幅に3日ぶり反発、アドバンテストが1銘柄で約698円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1622858",
+      "published": "2026-07-30 03:45:16",
+      "isoDate": "2026-07-30T03:45:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～半導体関連株に買い戻し向かう",
+      "link": "https://jp.investing.com/news/forex-news/article-1622855",
+      "published": "2026-07-30 03:30:15",
+      "isoDate": "2026-07-30T03:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaサプライヤーのアドバンテストがAI需要を背景に12%急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1622817",
+      "published": "2026-07-30 02:02:53",
+      "isoDate": "2026-07-30T02:02:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1622748",
       "published": "2026-07-30 00:32:18",
       "isoDate": "2026-07-30T00:32:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は大幅下落、AI過剰投資やインフレ加速を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1622655",
-      "published": "2026-07-29 23:00:07",
-      "isoDate": "2026-07-29T23:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "29日の米国市場ダイジェスト：米国株式市場は大幅下落、AI過剰投資やインフレ加速を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1622618",
-      "published": "2026-07-29 22:30:06",
-      "isoDate": "2026-07-29T22:30:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,20 +132,41 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "DirexionがNvidiaやテスラなどのメガキャップ銘柄に連動したオプション収益ETFシリーズを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1621345",
+      "published": "2026-07-29 12:49:14",
+      "isoDate": "2026-07-29T12:49:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "先週の決算発表以降+32%、AIが選んだこのヘルスケア株の上昇が止まらない",
       "link": "https://jp.investing.com/news/economy-news/article-1620813",
       "published": "2026-07-29 10:10:58",
       "isoDate": "2026-07-29T10:10:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は369円高でスタート、キーエンスやトヨタなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1620202",
-      "published": "2026-07-29 00:45:11",
-      "isoDate": "2026-07-29T00:45:11Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "セイラー氏、ビットコインのコンセンサスルールは「憲法」　プロトコル変更に警鐘",
+      "link": "https://coinpost.jp/?p=728643",
+      "published": "Thu, 30 Jul 2026 14:17:55 +0900",
+      "isoDate": "2026-07-30T05:17:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーサリアムは中立の決済レイヤー、トム・リー氏が展望｜WebX2026",
+      "link": "https://coinpost.jp/?p=728661",
+      "published": "Thu, 30 Jul 2026 13:56:11 +0900",
+      "isoDate": "2026-07-30T04:56:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国債の利回りが仮想通貨キャリートレードを上回る状況　市場は「無関心」局面＝グラスノード",
+      "link": "https://coinpost.jp/?p=728590",
+      "published": "Thu, 30 Jul 2026 12:27:16 +0900",
+      "isoDate": "2026-07-30T03:27:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "日立、暗号資産AML実証で実用性確認　10月新サービス",
@@ -194,13 +215,6 @@
       "link": "https://coinpost.jp/?p=728350",
       "published": "Wed, 29 Jul 2026 12:48:02 +0900",
       "isoDate": "2026-07-29T03:48:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "gumiとSBI、仮想通貨ファンド始動　大和証券Gが出資参加",
-      "link": "https://coinpost.jp/?p=728310",
-      "published": "Wed, 29 Jul 2026 10:19:22 +0900",
-      "isoDate": "2026-07-29T01:19:22Z"
     }
   ]
 }
