@@ -1,7 +1,14 @@
 {
-  "updated": "2026-07-31T12:27:45Z",
-  "last_checked": "2026-07-31T12:27:45Z",
+  "updated": "2026-07-31T15:02:11Z",
+  "last_checked": "2026-07-31T15:02:11Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "BCAリサーチ、金の短期的な逆風後退で買い推奨",
+      "link": "https://jp.investing.com/news/commodities-news/article-1626484",
+      "published": "2026-07-31 12:31:12",
+      "isoDate": "2026-07-31T12:31:12Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金曜日の取引活発化でドバイ原油プレミアムが上昇",
@@ -18,14 +25,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格は下落するも、2月以来初の月間上昇に向かう",
+      "title": "金価格は下落も、7月は5ヶ月ぶりの月間上昇へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1625632",
       "published": "2026-07-31 02:34:28",
       "isoDate": "2026-07-31T02:34:28Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡のタンカー通行が改善も、米・イラン緊張で原油相場は荒い値動き",
+      "title": "ホルムズ海峡のタンカー通行が改善、原油価格は上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1625564",
       "published": "2026-07-31 00:19:57",
       "isoDate": "2026-07-31T00:19:57Z"
@@ -64,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1624534",
       "published": "2026-07-30 15:00:18",
       "isoDate": "2026-07-30T15:00:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "オマーンとイランの協議報道を受け、原油価格が乱高下の末に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1622771",
-      "published": "2026-07-30 00:54:09",
-      "isoDate": "2026-07-30T00:54:09Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は伸び悩み、戻りは一服",
-      "link": "https://jp.investing.com/news/forex-news/article-1626258",
-      "published": "2026-07-31 11:00:08",
-      "isoDate": "2026-07-31T11:00:08Z"
+      "title": "Bloomberg：MoonshotはAlibabaを通じてNvidiaチップ2万枚を使用し米国に対抗",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1626543",
+      "published": "2026-07-31 12:55:52",
+      "isoDate": "2026-07-31T12:55:52Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラ、約120万台のサスペンション不具合でNHTSAの調査対象に",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1626172",
-      "published": "2026-07-31 10:19:02",
-      "isoDate": "2026-07-31T10:19:02Z"
+      "title": "キオクシア株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1626062",
+      "published": "2026-07-31 09:32:08",
+      "isoDate": "2026-07-31T09:32:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 反発、25日線比で「売られ過ぎ」継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1623360",
-      "published": "2026-07-30 09:30:13",
-      "isoDate": "2026-07-30T09:30:13Z"
+      "title": "テスラ、中国事業売却を検討―SpaceXとの合併観測も浮上＝WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1625598",
+      "published": "2026-07-31 01:20:17",
+      "isoDate": "2026-07-31T01:20:17Z"
     }
   ],
   "btc_items": [
