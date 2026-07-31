@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-31T17:05:36Z",
-  "last_checked": "2026-07-31T17:05:36Z",
+  "updated": "2026-07-31T18:54:00Z",
+  "last_checked": "2026-07-31T18:54:00Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "テザー、第2四半期に金14トンを追加購入――買い付けペースが加速",
+      "link": "https://jp.investing.com/news/commodities-news/article-1627063",
+      "published": "2026-07-31 18:03:16",
+      "isoDate": "2026-07-31T18:03:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、金曜日に3ドル超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1627044",
+      "published": "2026-07-31 17:31:04",
+      "isoDate": "2026-07-31T17:31:04Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー企業、7週中6度目の石油・ガス掘削リグ増加を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1627039",
+      "published": "2026-07-31 17:21:27",
+      "isoDate": "2026-07-31T17:21:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州小麦先物、7月の急騰後に利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1627038",
+      "published": "2026-07-31 17:21:21",
+      "isoDate": "2026-07-31T17:21:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "BCAリサーチ、金の短期的な逆風後退で買い推奨",
@@ -43,50 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1625005",
       "published": "2026-07-30 18:46:48",
       "isoDate": "2026-07-30T18:46:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金先物、1.58%上昇し2日続落に終止符",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1625004",
-      "published": "2026-07-30 18:46:38",
-      "isoDate": "2026-07-30T18:46:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中国の石炭発電比率、初めて50%を下回る",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1624977",
-      "published": "2026-07-30 18:05:11",
-      "isoDate": "2026-07-30T18:05:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数が上昇、ケープサイズ船の運賃が回復",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1624537",
-      "published": "2026-07-30 15:00:34",
-      "isoDate": "2026-07-30T15:00:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フランスの軟質小麦収量、平均を3%下回る見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1624534",
-      "published": "2026-07-30 15:00:18",
-      "isoDate": "2026-07-30T15:00:18Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：円底堅い、円安是正で日米協調介入などを警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1626931",
-      "published": "2026-07-31 15:30:04",
-      "isoDate": "2026-07-31T15:30:04Z"
+      "title": "今週の注目株：ビッグテック決算で大きな値動き",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627057",
+      "published": "2026-07-31 17:57:18",
+      "isoDate": "2026-07-31T17:57:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米7月ミシガン大学消費者信頼感指数確定値/7月シカゴPMIは予想上回る、ドル伸び悩む",
-      "link": "https://jp.investing.com/news/forex-news/article-1626865",
-      "published": "2026-07-31 15:00:03",
-      "isoDate": "2026-07-31T15:00:03Z"
+      "title": "SpaceXの空売りが急増、決算発表とロックアップ解除を前に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627046",
+      "published": "2026-07-31 17:32:18",
+      "isoDate": "2026-07-31T17:32:18Z"
     },
     {
       "source": "Investing.com 外為",
