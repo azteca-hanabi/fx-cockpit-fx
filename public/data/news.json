@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T20:26:52Z",
-  "last_checked": "2026-08-01T20:26:52Z",
+  "updated": "2026-08-01T21:27:13Z",
+  "last_checked": "2026-08-01T21:27:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "為替週間見通し：ドルは底堅い展開か、日本の追加介入に警戒もドル買い継続で",
+      "link": "https://jp.investing.com/news/forex-news/article-1627267",
+      "published": "2026-08-01 06:00:03",
+      "isoDate": "2026-08-01T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "2026年、なぜ日本円は急落したのか",
       "link": "https://jp.investing.com/news/forex-news/article-1627258",
       "published": "2026-08-01 04:38:27",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1627177",
       "published": "2026-07-31 21:45:03",
       "isoDate": "2026-07-31T21:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務省、円相場支援のための為替介入を銀行に通知",
-      "link": "https://jp.investing.com/news/economy-news/article-93CH-1627094",
-      "published": "2026-07-31 19:34:23",
-      "isoDate": "2026-07-31T19:34:23Z"
     },
     {
       "source": "Investing.com 外為",
