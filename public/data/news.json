@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T04:54:18Z",
-  "last_checked": "2026-08-01T04:54:18Z",
+  "updated": "2026-08-01T07:29:43Z",
+  "last_checked": "2026-08-01T07:29:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "為替週間見通し：ドルは底堅い展開か、日本の追加介入に警戒もドル買い継続で",
+      "link": "https://jp.investing.com/news/forex-news/article-1627267",
+      "published": "2026-08-01 06:00:03",
+      "isoDate": "2026-08-01T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2026年、なぜ日本円は急落したのか",
+      "link": "https://jp.investing.com/news/forex-news/article-1627258",
+      "published": "2026-08-01 04:38:27",
+      "isoDate": "2026-08-01T04:38:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米財務省、円買い介入を実施――FT報道",
       "link": "https://jp.investing.com/news/forex-news/article-1627238",
       "published": "2026-08-01 01:35:20",
       "isoDate": "2026-08-01T01:35:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本株式市場が8月に直面する3つの障壁",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627236",
-      "published": "2026-08-01 00:57:49",
-      "isoDate": "2026-08-01T00:57:49Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,14 +143,78 @@
       "link": "https://jp.investing.com/news/earnings/article-1625766",
       "published": "2026-07-31 06:58:25",
       "isoDate": "2026-07-31T06:58:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～大幅続伸、米ハイテク株高受け一時65000円を回復",
-      "link": "https://jp.investing.com/news/forex-news/article-1625660",
-      "published": "2026-07-31 04:15:16",
-      "isoDate": "2026-07-31T04:15:16Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+      "link": "https://coinpost.jp/?p=729182",
+      "published": "Sat, 01 Aug 2026 11:12:26 +0900",
+      "isoDate": "2026-08-01T02:12:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "7件のビットコイン清算連鎖事例、価格の予兆信号は事象ごとに相違＝研究レポート",
+      "link": "https://coinpost.jp/?p=729184",
+      "published": "Sat, 01 Aug 2026 07:15:30 +0900",
+      "isoDate": "2026-07-31T22:15:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "暗号資産取引所BTCBOX、8月3日から段階再開へ",
+      "link": "https://coinpost.jp/?p=729185",
+      "published": "Sat, 01 Aug 2026 06:35:32 +0900",
+      "isoDate": "2026-07-31T21:35:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減",
+      "link": "https://coinpost.jp/?p=729186",
+      "published": "Sat, 01 Aug 2026 06:15:34 +0900",
+      "isoDate": "2026-07-31T21:15:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
+      "link": "https://coinpost.jp/?p=729181",
+      "published": "Sat, 01 Aug 2026 05:50:13 +0900",
+      "isoDate": "2026-07-31T20:50:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "レイ・ダリオ、ビットコインは1％保有継続　増刷不可も量子リスクに警戒",
+      "link": "https://coinpost.jp/?p=729138",
+      "published": "Fri, 31 Jul 2026 17:29:30 +0900",
+      "isoDate": "2026-07-31T08:29:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アルトコイン相場、ビットコインから切り離され値動きに＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=729090",
+      "published": "Fri, 31 Jul 2026 15:32:07 +0900",
+      "isoDate": "2026-07-31T06:32:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者供給、月間21万7000BTC増＝アナリスト",
+      "link": "https://coinpost.jp/?p=729073",
+      "published": "Fri, 31 Jul 2026 14:20:51 +0900",
+      "isoDate": "2026-07-31T05:20:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン一辺倒から転換　準備金は動的配分へ",
+      "link": "https://coinpost.jp/?p=729051",
+      "published": "Fri, 31 Jul 2026 13:18:36 +0900",
+      "isoDate": "2026-07-31T04:18:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Aave（アーベ）、低利用の資産リザーブやブロックチェーン展開の廃止を提案",
+      "link": "https://coinpost.jp/?p=728986",
+      "published": "Fri, 31 Jul 2026 13:10:10 +0900",
+      "isoDate": "2026-07-31T04:10:10Z"
+    }
+  ]
 }
