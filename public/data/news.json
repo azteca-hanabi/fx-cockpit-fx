@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T01:04:24Z",
-  "last_checked": "2026-08-01T01:04:24Z",
+  "updated": "2026-08-01T04:54:18Z",
+  "last_checked": "2026-08-01T04:54:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米財務省、円買い介入を実施――FT報道",
+      "link": "https://jp.investing.com/news/forex-news/article-1627238",
+      "published": "2026-08-01 01:35:20",
+      "isoDate": "2026-08-01T01:35:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本株式市場が8月に直面する3つの障壁",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627236",
+      "published": "2026-08-01 00:57:49",
+      "isoDate": "2026-08-01T00:57:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：日米協調介入などの可能性を警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1627181",
       "published": "2026-07-31 22:15:04",
@@ -87,27 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1627177",
       "published": "2026-07-31 21:45:03",
       "isoDate": "2026-07-31T21:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "7月31日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1627096",
-      "published": "2026-07-31 19:45:04",
-      "isoDate": "2026-07-31T19:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務省、円相場支援のための為替介入を銀行に通知",
-      "link": "https://jp.investing.com/news/economy-news/article-93CH-1627094",
-      "published": "2026-07-31 19:34:23",
-      "isoDate": "2026-07-31T19:34:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週の注目株：ビッグテック決算で大きな値動き",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627057",
-      "published": "2026-07-31 17:57:18",
-      "isoDate": "2026-07-31T17:57:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/earnings/article-1625766",
       "published": "2026-07-31 06:58:25",
       "isoDate": "2026-07-31T06:58:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～大幅続伸、米ハイテク株高受け一時65000円を回復",
+      "link": "https://jp.investing.com/news/forex-news/article-1625660",
+      "published": "2026-07-31 04:15:16",
+      "isoDate": "2026-07-31T04:15:16Z"
     }
   ],
   "btc_items": []
