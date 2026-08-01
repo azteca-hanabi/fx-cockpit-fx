@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01T22:29:45Z",
-  "last_checked": "2026-08-01T22:29:45Z",
+  "updated": "2026-08-01T23:32:49Z",
+  "last_checked": "2026-08-01T23:32:49Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "7月に5銘柄で50%超の利益、8月のAI厳選銘柄リストが公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627281",
+      "published": "2026-08-01 07:37:58",
+      "isoDate": "2026-08-01T07:37:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ユーロ週間見通し：底堅いか、追加為替介入に警戒も域内景況感の改善を好感",
       "link": "https://jp.investing.com/news/forex-news/article-1627269",
       "published": "2026-08-01 06:00:03",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1627238",
       "published": "2026-08-01 01:35:20",
       "isoDate": "2026-08-01T01:35:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：日米協調介入などの可能性を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1627181",
-      "published": "2026-07-31 22:15:04",
-      "isoDate": "2026-07-31T22:15:04Z"
     },
     {
       "source": "Investing.com 外為",
