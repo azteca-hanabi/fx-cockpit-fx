@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T08:55:36Z",
-  "last_checked": "2026-08-02T08:55:36Z",
+  "updated": "2026-08-02T10:44:05Z",
+  "last_checked": "2026-08-02T10:44:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "外国為替における「レートチェック」とは何か",
+      "link": "https://jp.investing.com/news/forex-news/article-1627354",
+      "published": "2026-08-02 08:39:11",
+      "isoDate": "2026-08-02T08:39:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "UBSが示す、2026年下半期に金価格が上昇に転じるための条件",
       "link": "https://jp.investing.com/news/commodities-news/article-1627343",
       "published": "2026-08-02 05:58:17",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1627281",
       "published": "2026-08-01 07:37:58",
       "isoDate": "2026-08-01T07:37:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ユーロ週間見通し：底堅いか、追加為替介入に警戒も域内景況感の改善を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1627269",
-      "published": "2026-08-01 06:00:03",
-      "isoDate": "2026-08-01T06:00:03Z"
     },
     {
       "source": "Investing.com 外為",
