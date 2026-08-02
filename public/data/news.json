@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T22:29:23Z",
-  "last_checked": "2026-08-02T22:29:23Z",
+  "updated": "2026-08-02T23:32:40Z",
+  "last_checked": "2026-08-02T23:32:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
+      "link": "https://coinpost.jp/?p=729250",
+      "published": "Mon, 03 Aug 2026 08:02:00 +0900",
+      "isoDate": "2026-08-02T23:02:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿",
