@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T20:11:53Z",
-  "last_checked": "2026-08-02T20:11:53Z",
+  "updated": "2026-08-02T21:26:17Z",
+  "last_checked": "2026-08-02T21:26:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXの評価額を左右する4つの重要テーマ――バーンスタイン分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627378",
+      "published": "2026-08-02 19:56:45",
+      "isoDate": "2026-08-02T19:56:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "欧州株式を今買うべき時か？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1627369",
       "published": "2026-08-02 13:02:37",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1627282",
       "published": "2026-08-01 08:00:04",
       "isoDate": "2026-08-01T08:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "7月に5銘柄で50%超の利益、8月のAI厳選銘柄リストが公開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627281",
-      "published": "2026-08-01 07:37:58",
-      "isoDate": "2026-08-01T07:37:58Z"
     }
   ],
   "btc_items": [
