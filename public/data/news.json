@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T21:26:17Z",
-  "last_checked": "2026-08-02T21:26:17Z",
+  "updated": "2026-08-02T22:29:23Z",
+  "last_checked": "2026-08-02T22:29:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "31日のNY市場は続伸",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627382",
+      "published": "2026-08-02 21:00:02",
+      "isoDate": "2026-08-02T21:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SpaceXの評価額を左右する4つの重要テーマ――バーンスタイン分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1627378",
       "published": "2026-08-02 19:56:45",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1627369",
       "published": "2026-08-02 13:02:37",
       "isoDate": "2026-08-02T13:02:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OPEC+の主要7カ国、9月の原油増産に合意",
-      "link": "https://jp.investing.com/news/commodities-news/article-1627360",
-      "published": "2026-08-02 11:47:06",
-      "isoDate": "2026-08-02T11:47:06Z"
     },
     {
       "source": "Investing.com 外為",
