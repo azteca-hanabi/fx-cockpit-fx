@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T03:23:58Z",
-  "last_checked": "2026-08-02T03:23:58Z",
+  "updated": "2026-08-02T06:17:58Z",
+  "last_checked": "2026-08-02T06:17:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株バブルが繰り返し崩壊しても市場全体が崩れない理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627338",
+      "published": "2026-08-02 04:39:10",
+      "isoDate": "2026-08-02T04:39:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "韓国個人投資家、コスピの記録的な乱高下を受けて撤退",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627336",
+      "published": "2026-08-02 03:59:53",
+      "isoDate": "2026-08-02T03:59:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日米が円買い協調介入を発表へ、政府筋がロイターに明かす",
       "link": "https://jp.investing.com/news/economy-news/article-1627330",
       "published": "2026-08-02 01:42:18",
@@ -125,25 +139,82 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "2026年、なぜ日本円は急落したのか",
-      "link": "https://jp.investing.com/news/forex-news/article-1627258",
-      "published": "2026-08-01 04:38:27",
-      "isoDate": "2026-08-01T04:38:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務省、円買い介入を実施――FT報道",
-      "link": "https://jp.investing.com/news/forex-news/article-1627238",
-      "published": "2026-08-01 01:35:20",
-      "isoDate": "2026-08-01T01:35:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの空売りが急増、決算発表とロックアップ解除を前に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1627046",
       "published": "2026-07-31 17:32:18",
       "isoDate": "2026-07-31T17:32:18Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=729103",
+      "published": "Sun, 02 Aug 2026 11:30:37 +0900",
+      "isoDate": "2026-08-02T02:30:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（7/31）｜クラリティー法の動向・ETHとSOLのETP提供・XRP運用戦略のまとめ",
+      "link": "https://coinpost.jp/?p=728969",
+      "published": "Sun, 02 Aug 2026 09:25:00 +0900",
+      "isoDate": "2026-08-02T00:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+      "link": "https://coinpost.jp/?p=729182",
+      "published": "Sat, 01 Aug 2026 11:12:26 +0900",
+      "isoDate": "2026-08-01T02:12:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "7件のビットコイン清算連鎖事例、価格の予兆信号は事象ごとに相違＝研究レポート",
+      "link": "https://coinpost.jp/?p=729184",
+      "published": "Sat, 01 Aug 2026 07:15:30 +0900",
+      "isoDate": "2026-07-31T22:15:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "暗号資産取引所BTCBOX、8月3日から段階再開へ",
+      "link": "https://coinpost.jp/?p=729185",
+      "published": "Sat, 01 Aug 2026 06:35:32 +0900",
+      "isoDate": "2026-07-31T21:35:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減",
+      "link": "https://coinpost.jp/?p=729186",
+      "published": "Sat, 01 Aug 2026 06:15:34 +0900",
+      "isoDate": "2026-07-31T21:15:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
+      "link": "https://coinpost.jp/?p=729181",
+      "published": "Sat, 01 Aug 2026 05:50:13 +0900",
+      "isoDate": "2026-07-31T20:50:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "レイ・ダリオ、ビットコインは1％保有継続　増刷不可も量子リスクに警戒",
+      "link": "https://coinpost.jp/?p=729138",
+      "published": "Fri, 31 Jul 2026 17:29:30 +0900",
+      "isoDate": "2026-07-31T08:29:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アルトコイン相場、ビットコインから切り離され値動きに＝ウィンターミュート",
+      "link": "https://coinpost.jp/?p=729090",
+      "published": "Fri, 31 Jul 2026 15:32:07 +0900",
+      "isoDate": "2026-07-31T06:32:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン長期保有者供給、月間21万7000BTC増＝アナリスト",
+      "link": "https://coinpost.jp/?p=729073",
+      "published": "Fri, 31 Jul 2026 14:20:51 +0900",
+      "isoDate": "2026-07-31T05:20:51Z"
+    }
+  ]
 }
