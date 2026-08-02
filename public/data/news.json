@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T12:05:17Z",
-  "last_checked": "2026-08-02T12:05:17Z",
+  "updated": "2026-08-02T14:09:12Z",
+  "last_checked": "2026-08-02T14:09:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、6万3,000ドル超を維持――Coldcardの損失は約8,900万ドルに",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1627356",
-      "published": "2026-08-02 09:46:11",
-      "isoDate": "2026-08-02T09:46:11Z"
+      "title": "欧州株式を今買うべき時か？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627369",
+      "published": "2026-08-02 13:02:37",
+      "isoDate": "2026-08-02T13:02:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OPEC+の主要7カ国、9月の原油増産に合意",
+      "link": "https://jp.investing.com/news/commodities-news/article-1627360",
+      "published": "2026-08-02 11:47:06",
+      "isoDate": "2026-08-02T11:47:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1627281",
       "published": "2026-08-01 07:37:58",
       "isoDate": "2026-08-01T07:37:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの空売りが急増、決算発表とロックアップ解除を前に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627046",
-      "published": "2026-07-31 17:32:18",
-      "isoDate": "2026-07-31T17:32:18Z"
     }
   ],
   "btc_items": [
