@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-02T23:32:40Z",
-  "last_checked": "2026-08-02T23:32:40Z",
+  "updated": "2026-08-03T03:25:55Z",
+  "last_checked": "2026-08-03T03:25:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン攻撃を延期、原油安でインフレ懸念が後退し金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1627432",
+      "published": "2026-08-03 01:23:27",
+      "isoDate": "2026-08-03T01:23:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン攻撃を中止、交渉再開で原油が3週間ぶり安値に",
+      "link": "https://jp.investing.com/news/commodities-news/article-1627420",
+      "published": "2026-08-03 01:02:04",
+      "isoDate": "2026-08-03T01:02:04Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPEC+の主要7カ国、9月の原油増産に合意",
@@ -57,95 +71,116 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1627038",
       "published": "2026-07-31 17:21:21",
       "isoDate": "2026-07-31T17:21:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "BCAリサーチ、金の短期的な逆風後退で買い推奨",
-      "link": "https://jp.investing.com/news/commodities-news/article-1626484",
-      "published": "2026-07-31 12:31:12",
-      "isoDate": "2026-07-31T12:31:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金曜日の取引活発化でドバイ原油プレミアムが上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1626441",
-      "published": "2026-07-31 12:10:48",
-      "isoDate": "2026-07-31T12:10:48Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "韓国KOSPIが4%超下落、半導体株売りで2008年以来最悪の月を経て続落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627464",
+      "published": "2026-08-03 02:31:11",
+      "isoDate": "2026-08-03T02:31:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "円、米日為替介入継続への期待からさらに上昇",
+      "link": "https://jp.investing.com/news/forex-news/article-1627444",
+      "published": "2026-08-03 01:51:56",
+      "isoDate": "2026-08-03T01:51:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領がイラン交渉を発表、米株先物が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627433",
+      "published": "2026-08-03 01:25:07",
+      "isoDate": "2026-08-03T01:25:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領がイラン攻撃を延期、原油安でインフレ懸念が後退し金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1627432",
+      "published": "2026-08-03 01:23:27",
+      "isoDate": "2026-08-03T01:23:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：協調介入が意識されドル・円は荒い展開に",
+      "link": "https://jp.investing.com/news/forex-news/article-1627426",
+      "published": "2026-08-03 01:15:08",
+      "isoDate": "2026-08-03T01:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は527円安でスタート、キオクシアHDや村田製作所などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627416",
+      "published": "2026-08-03 01:00:07",
+      "isoDate": "2026-08-03T01:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "円安が続く場合、米国は追加の協調介入を辞さない＝ベッセント財務長官",
+      "link": "https://jp.investing.com/news/forex-news/article-1627408",
+      "published": "2026-08-03 00:11:31",
+      "isoDate": "2026-08-03T00:11:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～キオクシアHDなど半導体やAI関連株にらみの展開～",
+      "link": "https://jp.investing.com/news/forex-news/article-1627394",
+      "published": "2026-08-03 00:00:04",
+      "isoDate": "2026-08-03T00:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "先週末の急騰の反動から利食い売り先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1627390",
+      "published": "2026-08-02 23:30:03",
+      "isoDate": "2026-08-02T23:30:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "31日のNY市場は続伸",
       "link": "https://jp.investing.com/news/stock-market-news/article-1627382",
       "published": "2026-08-02 21:00:02",
       "isoDate": "2026-08-02T21:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの評価額を左右する4つの重要テーマ――バーンスタイン分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627378",
-      "published": "2026-08-02 19:56:45",
-      "isoDate": "2026-08-02T19:56:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州株式を今買うべき時か？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627369",
-      "published": "2026-08-02 13:02:37",
-      "isoDate": "2026-08-02T13:02:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "外国為替における「レートチェック」とは何か",
-      "link": "https://jp.investing.com/news/forex-news/article-1627354",
-      "published": "2026-08-02 08:39:11",
-      "isoDate": "2026-08-02T08:39:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSが示す、2026年下半期に金価格が上昇に転じるための条件",
-      "link": "https://jp.investing.com/news/commodities-news/article-1627343",
-      "published": "2026-08-02 05:58:17",
-      "isoDate": "2026-08-02T05:58:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株バブルが繰り返し崩壊しても市場全体が崩れない理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627338",
-      "published": "2026-08-02 04:39:10",
-      "isoDate": "2026-08-02T04:39:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国個人投資家、コスピの記録的な乱高下を受けて撤退",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627336",
-      "published": "2026-08-02 03:59:53",
-      "isoDate": "2026-08-02T03:59:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日米が円買い協調介入を発表へ、政府筋がロイターに明かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1627330",
-      "published": "2026-08-02 01:42:18",
-      "isoDate": "2026-08-02T01:42:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本株の調整はUSD/JPYにどう影響するか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627318",
-      "published": "2026-08-01 23:01:59",
-      "isoDate": "2026-08-01T23:01:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：主要企業決算、米ISM製造業・非製造業景況指数、米雇用統計",
-      "link": "https://jp.investing.com/news/forex-news/article-1627282",
-      "published": "2026-08-01 08:00:04",
-      "isoDate": "2026-08-01T08:00:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "Bitget、日本向けサービス終了　段階的に制限へ",
+      "link": "https://coinpost.jp/?p=729332",
+      "published": "Mon, 03 Aug 2026 11:32:29 +0900",
+      "isoDate": "2026-08-03T02:32:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法の過大評価に警鐘＝元CFTC委員長",
+      "link": "https://coinpost.jp/?p=729303",
+      "published": "Mon, 03 Aug 2026 10:33:52 +0900",
+      "isoDate": "2026-08-03T01:33:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプメディア、260億円相当ビットコインの送金は「売却ではない」とコメント＝報道",
+      "link": "https://coinpost.jp/?p=729265",
+      "published": "Mon, 03 Aug 2026 09:54:16 +0900",
+      "isoDate": "2026-08-03T00:54:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、5週ぶりビットコイン購入示唆",
+      "link": "https://coinpost.jp/?p=729270",
+      "published": "Mon, 03 Aug 2026 09:20:07 +0900",
+      "isoDate": "2026-08-03T00:20:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コールドカード被害後、ビットコイン送金急増＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=729257",
+      "published": "Mon, 03 Aug 2026 08:47:59 +0900",
+      "isoDate": "2026-08-02T23:47:59Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
@@ -194,34 +229,6 @@
       "link": "https://coinpost.jp/?p=729186",
       "published": "Sat, 01 Aug 2026 06:15:34 +0900",
       "isoDate": "2026-07-31T21:15:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出",
-      "link": "https://coinpost.jp/?p=729181",
-      "published": "Sat, 01 Aug 2026 05:50:13 +0900",
-      "isoDate": "2026-07-31T20:50:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "レイ・ダリオ、ビットコインは1％保有継続　増刷不可も量子リスクに警戒",
-      "link": "https://coinpost.jp/?p=729138",
-      "published": "Fri, 31 Jul 2026 17:29:30 +0900",
-      "isoDate": "2026-07-31T08:29:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アルトコイン相場、ビットコインから切り離され値動きに＝ウィンターミュート",
-      "link": "https://coinpost.jp/?p=729090",
-      "published": "Fri, 31 Jul 2026 15:32:07 +0900",
-      "isoDate": "2026-07-31T06:32:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者供給、月間21万7000BTC増＝アナリスト",
-      "link": "https://coinpost.jp/?p=729073",
-      "published": "Fri, 31 Jul 2026 14:20:51 +0900",
-      "isoDate": "2026-07-31T05:20:51Z"
     }
   ]
 }
