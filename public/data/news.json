@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T18:20:34Z",
-  "last_checked": "2026-08-03T18:20:34Z",
+  "updated": "2026-08-03T20:13:03Z",
+  "last_checked": "2026-08-03T20:13:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "AWSがAI需要で過去5年間で最速の成長を記録、2028年まで容量が売り切れ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1628803",
-      "published": "2026-08-03 16:11:45",
-      "isoDate": "2026-08-03T16:11:45Z"
+      "title": "8月3日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1629030",
+      "published": "2026-08-03 19:15:04",
+      "isoDate": "2026-08-03T19:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,97 @@
       "isoDate": "2026-08-02T23:30:03Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、160億円相当ビットコイン売却　優先株配当と買戻しに充当",
+      "link": "https://coinpost.jp/?p=729523",
+      "published": "Mon, 03 Aug 2026 21:20:50 +0900",
+      "isoDate": "2026-08-03T12:20:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF、3週連続流入止まる　先週6153万ドル流出",
+      "link": "https://coinpost.jp/?p=729408",
+      "published": "Mon, 03 Aug 2026 14:53:53 +0900",
+      "isoDate": "2026-08-03T05:53:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法案、8月3日の上院日程になし　休会前審議へ72時間が焦点＝報道",
+      "link": "https://coinpost.jp/?p=729389",
+      "published": "Mon, 03 Aug 2026 13:46:52 +0900",
+      "isoDate": "2026-08-03T04:46:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、ナスダックのビットコイン指数オプション承認を保留へ　CMEの異議申し立て受け",
+      "link": "https://coinpost.jp/?p=729353",
+      "published": "Mon, 03 Aug 2026 13:00:35 +0900",
+      "isoDate": "2026-08-03T04:00:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Bitget、日本向けサービス終了　段階的に制限へ",
+      "link": "https://coinpost.jp/?p=729332",
+      "published": "Mon, 03 Aug 2026 11:32:29 +0900",
+      "isoDate": "2026-08-03T02:32:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法の過大評価に警鐘＝元CFTC委員長",
+      "link": "https://coinpost.jp/?p=729303",
+      "published": "Mon, 03 Aug 2026 10:33:52 +0900",
+      "isoDate": "2026-08-03T01:33:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプメディア、260億円相当ビットコインの送金は「売却ではない」と説明＝報道",
+      "link": "https://coinpost.jp/?p=729265",
+      "published": "Mon, 03 Aug 2026 09:54:16 +0900",
+      "isoDate": "2026-08-03T00:54:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、5週ぶりビットコイン購入示唆",
+      "link": "https://coinpost.jp/?p=729270",
+      "published": "Mon, 03 Aug 2026 09:20:07 +0900",
+      "isoDate": "2026-08-03T00:20:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コールドカード被害後、ビットコイン送金急増＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=729257",
+      "published": "Mon, 03 Aug 2026 08:47:59 +0900",
+      "isoDate": "2026-08-02T23:47:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン先物ベーシス、米国債下回る2022年以来の長さ＝グラスノード",
+      "link": "https://coinpost.jp/?p=729250",
+      "published": "Mon, 03 Aug 2026 08:02:00 +0900",
+      "isoDate": "2026-08-02T23:02:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインFOMC通過も上値重く、クラリティ法案とFRB政策観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=729103",
+      "published": "Sun, 02 Aug 2026 11:30:37 +0900",
+      "isoDate": "2026-08-02T02:30:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（7/31）｜クラリティー法の動向・ETHとSOLのETP提供・XRP運用戦略のまとめ",
+      "link": "https://coinpost.jp/?p=728969",
+      "published": "Sun, 02 Aug 2026 09:25:00 +0900",
+      "isoDate": "2026-08-02T00:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+      "link": "https://coinpost.jp/?p=729182",
+      "published": "Sat, 01 Aug 2026 11:12:26 +0900",
+      "isoDate": "2026-08-01T02:12:26Z"
+    }
+  ]
 }
