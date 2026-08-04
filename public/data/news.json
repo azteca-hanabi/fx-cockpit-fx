@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-04T04:45:00Z",
-  "last_checked": "2026-08-04T04:45:00Z",
+  "updated": "2026-08-04T07:42:08Z",
+  "last_checked": "2026-08-04T07:42:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格は安定、FRBの政策見通しと中東リスクを見極め",
+      "title": "金価格、米雇用統計と中東リスクを前に小幅上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1629357",
       "published": "2026-08-04 01:04:33",
       "isoDate": "2026-08-04T01:04:33Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油、トランプ氏のイラン協議発言で下落続く－テヘランは否定",
+      "title": "トランプ氏とイランが交渉で엇갈うシグナル、原油は急落後に反発",
       "link": "https://jp.investing.com/news/commodities-news/article-1629342",
       "published": "2026-08-04 00:55:28",
       "isoDate": "2026-08-04T00:55:28Z"
@@ -76,6 +76,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州株、好決算が追い風となり過去最高値に迫る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629579",
+      "published": "2026-08-04 07:07:35",
+      "isoDate": "2026-08-04T07:07:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SK hynixとSandisk、初のHBFメモリ標準仕様を共同発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1629560",
+      "published": "2026-08-04 06:53:01",
+      "isoDate": "2026-08-04T06:53:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トヨタ自動車、第1四半期利益が減少――1兆円の自社株買いと通期見通しを上方修正",
+      "link": "https://jp.investing.com/news/earnings/article-1629461",
+      "published": "2026-08-04 05:27:00",
+      "isoDate": "2026-08-04T05:27:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "三井物産、1Q利益が予想上回る―自社株買いと株主還元方針を発表",
+      "link": "https://jp.investing.com/news/earnings/article-1629438",
+      "published": "2026-08-04 04:27:05",
+      "isoDate": "2026-08-04T04:27:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "フジクラ---来週以降に上方シグナルを発生させる可能性",
       "link": "https://jp.investing.com/news/stock-market-news/article-1629421",
       "published": "2026-08-04 03:45:16",
@@ -83,17 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い先行も早々にマイナス圏に転落",
-      "link": "https://jp.investing.com/news/forex-news/article-1629412",
-      "published": "2026-08-04 03:30:13",
-      "isoDate": "2026-08-04T03:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株先物が小幅上昇、イラン協議と第2四半期決算に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1629355",
-      "published": "2026-08-04 01:03:03",
-      "isoDate": "2026-08-04T01:03:03Z"
+      "title": "買い先行も早々にマイナス圏に転落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629407",
+      "published": "2026-08-04 03:15:14",
+      "isoDate": "2026-08-04T03:15:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,34 +139,20 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は反落、アドバンテストとファナックの2銘柄で約429円押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627671",
-      "published": "2026-08-03 07:45:16",
-      "isoDate": "2026-08-03T07:45:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "184%超の上昇、なお継続中：8月のAI選定銘柄の新リストが公開",
       "link": "https://jp.investing.com/news/stock-market-news/article-1627567",
       "published": "2026-08-03 05:49:17",
       "isoDate": "2026-08-03T05:49:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領がイラン交渉を発表、米株先物が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627433",
-      "published": "2026-08-03 01:25:07",
-      "isoDate": "2026-08-03T01:25:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は527円安でスタート、キオクシアHDや村田製作所などが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627416",
-      "published": "2026-08-03 01:00:07",
-      "isoDate": "2026-08-03T01:00:07Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引高、日次150億ドルに急減　年初来最低＝分析",
+      "link": "https://coinpost.jp/?p=729686",
+      "published": "Tue, 04 Aug 2026 14:21:59 +0900",
+      "isoDate": "2026-08-04T05:21:59Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットゴーCEO、生成AI「クロード」に100ビットコイン奪取の挑戦状",
@@ -194,20 +201,6 @@
       "link": "https://coinpost.jp/?p=729535",
       "published": "Tue, 04 Aug 2026 07:30:49 +0900",
       "isoDate": "2026-08-03T22:30:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン専門ウォレット『コールドカード』流出被害拡大、グレースケールは「限定的脆弱性」と分析",
-      "link": "https://coinpost.jp/?p=729537",
-      "published": "Tue, 04 Aug 2026 06:25:53 +0900",
-      "isoDate": "2026-08-03T21:25:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーのセイラー会長、自身のビットコインは「売却していない」と表明",
-      "link": "https://coinpost.jp/?p=729538",
-      "published": "Tue, 04 Aug 2026 05:35:56 +0900",
-      "isoDate": "2026-08-03T20:35:56Z"
     }
   ]
 }
