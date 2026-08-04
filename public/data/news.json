@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-04T15:56:13Z",
-  "last_checked": "2026-08-04T15:56:13Z",
+  "updated": "2026-08-04T17:56:30Z",
+  "last_checked": "2026-08-04T17:56:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "LBMAが山東黄金冶煉を優良デリバリーリストから停止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631211",
+      "published": "2026-08-04 16:22:31",
+      "isoDate": "2026-08-04T16:22:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧州のガソリンマージンが火曜日に4ドル超上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631200",
+      "published": "2026-08-04 16:18:52",
+      "isoDate": "2026-08-04T16:18:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "FESCOがウクライナのドローン攻撃後、黒海での新規注文を停止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631145",
+      "published": "2026-08-04 15:49:35",
+      "isoDate": "2026-08-04T15:49:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中西部の降雨改善予測を受け、大豆先物が下落",
@@ -43,27 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
       "published": "2026-08-04 08:47:36",
       "isoDate": "2026-08-04T08:47:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、200SMAとフィボ61.8%サポートで攻防中：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
-      "published": "2026-08-04 08:47:09",
-      "isoDate": "2026-08-04T08:47:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、重要レジスタンス前で膠着：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
-      "published": "2026-08-04 08:47:08",
-      "isoDate": "2026-08-04T08:47:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油WTI、レンジ相場で方向感待ち：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
-      "published": "2026-08-04 08:46:12",
-      "isoDate": "2026-08-04T08:46:12Z"
     }
   ],
   "usdjpy_items": [
@@ -97,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SKハイニックス、AIメモリー需要拡大でアナリストが強気評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1630413",
-      "published": "2026-08-04 12:16:38",
-      "isoDate": "2026-08-04T12:16:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米イラン協議に不透明感；PalantirとスナップがAH急騰――市場動向",
       "link": "https://jp.investing.com/news/economy-news/article-1629652",
       "published": "2026-08-04 08:03:39",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/earnings/article-1629438",
       "published": "2026-08-04 04:27:05",
       "isoDate": "2026-08-04T04:27:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "空売り機関ゴッサム・シティ、住友ファーマの収益水増しを告発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629410",
+      "published": "2026-08-04 03:20:55",
+      "isoDate": "2026-08-04T03:20:55Z"
     },
     {
       "source": "Investing.com 外為",
