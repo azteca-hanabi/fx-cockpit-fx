@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T19:46:59Z",
-  "last_checked": "2026-08-04T19:46:59Z",
+  "updated": "2026-08-04T21:16:08Z",
+  "last_checked": "2026-08-04T21:16:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "【決算速報】アドバンスト・マイクロ・デバイセズ、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1631553",
+      "published": "2026-08-04 20:23:17",
+      "isoDate": "2026-08-04T20:23:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アドバンスト・マイクロ・デバイセズ、売上高と利益がともに予想超え――時間外取引で株価は7%超下落",
+      "link": "https://jp.investing.com/news/earnings/article-1631546",
+      "published": "2026-08-04 20:21:57",
+      "isoDate": "2026-08-04T20:21:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX、IPO後初の決算で売上高92%増―AIが成長を牽引",
+      "link": "https://jp.investing.com/news/earnings/article-1631510",
+      "published": "2026-08-04 20:15:06",
+      "isoDate": "2026-08-04T20:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "IONQ、フィボナッチ＆雲の抵抗帯でトレンド分岐：今すぐ確認",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629737",
       "published": "2026-08-04 19:18:41",
@@ -83,31 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Palantir、RSI80超えで過熱域に突入：今すぐ確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629736",
-      "published": "2026-08-04 19:18:01",
-      "isoDate": "2026-08-04T19:18:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk、$1,510〜1,540の強力抵抗帯に挑む：最新レベル更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629712",
-      "published": "2026-08-04 19:16:16",
-      "isoDate": "2026-08-04T19:16:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "イーロン・マスク、SpaceXの空売り急増に不吉な警告を発する",
       "link": "https://jp.investing.com/news/stock-market-news/article-1631361",
       "published": "2026-08-04 18:11:12",
       "isoDate": "2026-08-04T18:11:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia、自動運転車向け推論モデル「Alpamayo 2 Super」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1631069",
-      "published": "2026-08-04 15:06:02",
-      "isoDate": "2026-08-04T15:06:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,69 +145,5 @@
       "isoDate": "2026-08-04T01:15:37Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイントレジャリーの先へ　DeepPoint始動｜WebX2026",
-      "link": "https://coinpost.jp/?p=729650",
-      "published": "Tue, 04 Aug 2026 17:30:50 +0900",
-      "isoDate": "2026-08-04T08:30:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン保管方法論争、CZ氏は取引所の優位性を強調",
-      "link": "https://coinpost.jp/?p=729752",
-      "published": "Tue, 04 Aug 2026 17:04:21 +0900",
-      "isoDate": "2026-08-04T08:04:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引高、日次150億ドルに急減　年初来最低＝分析",
-      "link": "https://coinpost.jp/?p=729686",
-      "published": "Tue, 04 Aug 2026 14:21:59 +0900",
-      "isoDate": "2026-08-04T05:21:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴーCEO、生成AI「クロード」に100ビットコイン奪取の挑戦状",
-      "link": "https://coinpost.jp/?p=729634",
-      "published": "Tue, 04 Aug 2026 13:10:07 +0900",
-      "isoDate": "2026-08-04T04:10:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FBI捜査官、機密情報で敵対国の仮想通貨ウォレットから資金を不正入手か",
-      "link": "https://coinpost.jp/?p=729565",
-      "published": "Tue, 04 Aug 2026 11:10:03 +0900",
-      "isoDate": "2026-08-04T02:10:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "円買い協調介入は2011年以来、仮想通貨に警戒感＝分析",
-      "link": "https://coinpost.jp/?p=729613",
-      "published": "Tue, 04 Aug 2026 10:40:28 +0900",
-      "isoDate": "2026-08-04T01:40:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院、クラリティー法の初回投票見込まれるも先行き不透明",
-      "link": "https://coinpost.jp/?p=729577",
-      "published": "Tue, 04 Aug 2026 10:10:20 +0900",
-      "isoDate": "2026-08-04T01:10:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、仮想通貨6銘柄の上場廃止を8月17日に実施",
-      "link": "https://coinpost.jp/?p=729564",
-      "published": "Tue, 04 Aug 2026 09:00:31 +0900",
-      "isoDate": "2026-08-04T00:00:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ローソン、円と米ドルのステーブルコイン店頭決済を実証実験へ　メタマスクも利用",
-      "link": "https://coinpost.jp/?p=729550",
-      "published": "Tue, 04 Aug 2026 07:40:37 +0900",
-      "isoDate": "2026-08-03T22:40:37Z"
-    }
-  ]
+  "btc_items": []
 }
