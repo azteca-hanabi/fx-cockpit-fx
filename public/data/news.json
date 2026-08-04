@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-04T07:42:08Z",
-  "last_checked": "2026-08-04T07:42:08Z",
+  "updated": "2026-08-04T10:43:36Z",
+  "last_checked": "2026-08-04T10:43:36Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イラン紛争にもかかわらず、日本の石油備蓄が202日分に増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629938",
+      "published": "2026-08-04 10:18:01",
+      "isoDate": "2026-08-04T10:18:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、前回高値6.7160に接近しダブルトップ警戒：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
+      "published": "2026-08-04 08:47:36",
+      "isoDate": "2026-08-04T08:47:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、200SMAとフィボ61.8%サポートで攻防中：最新レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
+      "published": "2026-08-04 08:47:09",
+      "isoDate": "2026-08-04T08:47:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、重要レジスタンス前で膠着：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
+      "published": "2026-08-04 08:47:08",
+      "isoDate": "2026-08-04T08:47:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油WTI、レンジ相場で方向感待ち：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
+      "published": "2026-08-04 08:46:12",
+      "isoDate": "2026-08-04T08:46:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、SMA(200)と雲の狭間で攻防：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
+      "published": "2026-08-04 08:46:08",
+      "isoDate": "2026-08-04T08:46:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の輸送遅延が中東外交への期待を相殺、欧州ガス価格が反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1629863",
+      "published": "2026-08-04 08:16:46",
+      "isoDate": "2026-08-04T08:16:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、米雇用統計と中東リスクを前に小幅上昇",
@@ -11,82 +60,33 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ氏とイランが交渉で엇갈うシグナル、原油は急落後に反発",
+      "title": "ホルムズ海峡交渉で米国とイランが엇갈うシグナル、原油価格が上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1629342",
       "published": "2026-08-04 00:55:28",
       "isoDate": "2026-08-04T00:55:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、原油安で5ドル超下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1628946",
-      "published": "2026-08-03 17:47:18",
-      "isoDate": "2026-08-03T17:47:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "7月のベネズエラ原油輸出、インド需要減少で25%落ち込む",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1628892",
-      "published": "2026-08-03 17:08:03",
-      "isoDate": "2026-08-03T17:08:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ナイジェリアNNPC、9月積み原油カーゴの入札を実施",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1628821",
-      "published": "2026-08-03 16:25:51",
-      "isoDate": "2026-08-03T16:25:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、石油会社にガソリン価格の引き下げを要求",
-      "link": "https://jp.investing.com/news/commodities-news/article-1628717",
-      "published": "2026-08-03 14:59:41",
-      "isoDate": "2026-08-03T14:59:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "制裁対象のジョージア製油所、9月末までにロシア産原油からの転換完了へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1628602",
-      "published": "2026-08-03 14:09:13",
-      "isoDate": "2026-08-03T14:09:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドイツ銀行が分析する金価格のフェアバリューとは",
-      "link": "https://jp.investing.com/news/commodities-news/article-1628382",
-      "published": "2026-08-03 12:56:41",
-      "isoDate": "2026-08-03T12:56:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "韓国銀行、国内生産者から金を購入へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1628299",
-      "published": "2026-08-03 12:26:20",
-      "isoDate": "2026-08-03T12:26:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドのONGC、新設石油備蓄施設の半分を戦略的用途に確保へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1627976",
-      "published": "2026-08-03 10:53:58",
-      "isoDate": "2026-08-03T10:53:58Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州株、好決算が追い風となり過去最高値に迫る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1629579",
-      "published": "2026-08-04 07:07:35",
-      "isoDate": "2026-08-04T07:07:35Z"
+      "title": "米国・イラン協議に不透明感、PalantirとスナップがAH急騰",
+      "link": "https://jp.investing.com/news/economy-news/article-1629652",
+      "published": "2026-08-04 08:03:39",
+      "isoDate": "2026-08-04T08:03:39Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SK hynixとSandisk、初のHBFメモリ標準仕様を共同発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1629560",
-      "published": "2026-08-04 06:53:01",
-      "isoDate": "2026-08-04T06:53:01Z"
+      "title": "韓国株の動向に左右されたものの、好決算銘柄などに買いが入り反発【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1629634",
+      "published": "2026-08-04 07:45:15",
+      "isoDate": "2026-08-04T07:45:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "好決算がリスク選好を後押し、欧州株は最高値に迫る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629579",
+      "published": "2026-08-04 07:07:35",
+      "isoDate": "2026-08-04T07:07:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,10 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "フジクラ---来週以降に上方シグナルを発生させる可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1629421",
-      "published": "2026-08-04 03:45:16",
-      "isoDate": "2026-08-04T03:45:16Z"
+      "title": "空売り機関ゴッサム・シティ、住友ファーマの収益水増しを告発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629410",
+      "published": "2026-08-04 03:20:55",
+      "isoDate": "2026-08-04T03:20:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "7月に33%超の上昇、これらの銘柄は8月のAI選定から外れた。新たに加わったのは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629507",
+      "published": "2026-08-04 01:15:37",
+      "isoDate": "2026-08-04T01:15:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "個別銘柄戦略: リコーや東計電算に注目",
       "link": "https://jp.investing.com/news/forex-news/article-1629321",
       "published": "2026-08-04 00:15:09",
@@ -125,27 +132,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "円高進行への警戒感から売り先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1629286",
-      "published": "2026-08-03 23:30:05",
-      "isoDate": "2026-08-03T23:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの初の公開決算：Starlink、AI設備投資、ロケット事業を詳細分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1628704",
       "published": "2026-08-03 14:52:47",
       "isoDate": "2026-08-03T14:52:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "184%超の上昇、なお継続中：8月のAI選定銘柄の新リストが公開",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1627567",
-      "published": "2026-08-03 05:49:17",
-      "isoDate": "2026-08-03T05:49:17Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイントレジャリーの先へ　DeepPoint始動｜WebX2026",
+      "link": "https://coinpost.jp/?p=729650",
+      "published": "Tue, 04 Aug 2026 17:30:50 +0900",
+      "isoDate": "2026-08-04T08:30:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン保管方法論争、CZ氏は取引所の優位性を強調",
+      "link": "https://coinpost.jp/?p=729752",
+      "published": "Tue, 04 Aug 2026 17:04:21 +0900",
+      "isoDate": "2026-08-04T08:04:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨取引高、日次150億ドルに急減　年初来最低＝分析",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=729550",
       "published": "Tue, 04 Aug 2026 07:40:37 +0900",
       "isoDate": "2026-08-03T22:40:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アメリカンビットコイン、BTC採掘量過去最高　保有数は8000BTC超",
-      "link": "https://coinpost.jp/?p=729535",
-      "published": "Tue, 04 Aug 2026 07:30:49 +0900",
-      "isoDate": "2026-08-03T22:30:49Z"
     }
   ]
 }
