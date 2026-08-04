@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T23:06:12Z",
-  "last_checked": "2026-08-03T23:06:12Z",
+  "updated": "2026-08-04T01:00:34Z",
+  "last_checked": "2026-08-04T01:00:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：反落で4,107.05ドル、米・イラン軍事攻撃回避で逃避需要後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1629256",
-      "published": "2026-08-03 22:15:04",
-      "isoDate": "2026-08-03T22:15:04Z"
+      "title": "円高進行への警戒感から売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1629286",
+      "published": "2026-08-03 23:30:05",
+      "isoDate": "2026-08-03T23:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,17 +90,17 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは693.38ドル高、対イラン和平交渉再開を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1629197",
+      "published": "2026-08-03 21:00:04",
+      "isoDate": "2026-08-03T21:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "PalantirがAI需要でQ2売上高93%増、通期見通しを上方修正",
       "link": "https://jp.investing.com/news/earnings/article-1629069",
       "published": "2026-08-03 20:12:13",
       "isoDate": "2026-08-03T20:12:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Palantir、2026年第2四半期に売上高93%増を記録し、通期見通しを上方修正",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1629067",
-      "published": "2026-08-03 20:08:04",
-      "isoDate": "2026-08-03T20:08:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、仮想通貨6銘柄の上場廃止を8月17日に実施",
+      "link": "https://coinpost.jp/?p=729564",
+      "published": "Tue, 04 Aug 2026 09:00:31 +0900",
+      "isoDate": "2026-08-04T00:00:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "ローソン、円と米ドルのステーブルコイン店頭決済を実証実験へ　メタマスクも利用",
@@ -215,27 +222,6 @@
       "link": "https://coinpost.jp/?p=729303",
       "published": "Mon, 03 Aug 2026 10:33:52 +0900",
       "isoDate": "2026-08-03T01:33:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプメディア、260億円相当ビットコインの送金は「売却ではない」と説明＝報道",
-      "link": "https://coinpost.jp/?p=729265",
-      "published": "Mon, 03 Aug 2026 09:54:16 +0900",
-      "isoDate": "2026-08-03T00:54:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、5週ぶりビットコイン購入示唆",
-      "link": "https://coinpost.jp/?p=729270",
-      "published": "Mon, 03 Aug 2026 09:20:07 +0900",
-      "isoDate": "2026-08-03T00:20:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コールドカード被害後、ビットコイン送金急増＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=729257",
-      "published": "Mon, 03 Aug 2026 08:47:59 +0900",
-      "isoDate": "2026-08-02T23:47:59Z"
     }
   ]
 }
