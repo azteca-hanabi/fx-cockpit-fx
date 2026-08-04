@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T21:16:08Z",
-  "last_checked": "2026-08-04T21:16:08Z",
+  "updated": "2026-08-04T22:36:22Z",
+  "last_checked": "2026-08-04T22:36:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "スペースX株が時間外取引で急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1631684",
+      "published": "2026-08-04 21:06:04",
+      "isoDate": "2026-08-04T21:06:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米イラン和平の早期合意に期待が高まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1631667",
+      "published": "2026-08-04 21:00:04",
+      "isoDate": "2026-08-04T21:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "【決算速報】アドバンスト・マイクロ・デバイセズ、売上高は予想を上回り、利益は予想を上回る結果に",
       "link": "https://jp.investing.com/news/earnings/article-1631553",
       "published": "2026-08-04 20:23:17",
@@ -97,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "IONQ、フィボナッチ＆雲の抵抗帯でトレンド分岐：今すぐ確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629737",
-      "published": "2026-08-04 19:18:41",
-      "isoDate": "2026-08-04T19:18:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "イーロン・マスク、SpaceXの空売り急増に不吉な警告を発する",
       "link": "https://jp.investing.com/news/stock-market-news/article-1631361",
       "published": "2026-08-04 18:11:12",
       "isoDate": "2026-08-04T18:11:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、メモリ株に「絶好の買い場」と指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1630647",
-      "published": "2026-08-04 13:12:00",
-      "isoDate": "2026-08-04T13:12:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,69 @@
       "isoDate": "2026-08-04T01:15:37Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ソラナ、トークン供給引き締め提案が議論段階へ進む",
+      "link": "https://coinpost.jp/?p=729844",
+      "published": "Wed, 05 Aug 2026 07:15:52 +0900",
+      "isoDate": "2026-08-04T22:15:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハッシュデックス、米国初のビットコイン現物ETF閉鎖事例",
+      "link": "https://coinpost.jp/?p=729843",
+      "published": "Wed, 05 Aug 2026 06:40:50 +0900",
+      "isoDate": "2026-08-04T21:40:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースX上場後初決算、売上高ほぼ倍増　1900億円相当ビットコイン保有を継続",
+      "link": "https://coinpost.jp/?p=729842",
+      "published": "Wed, 05 Aug 2026 06:15:47 +0900",
+      "isoDate": "2026-08-04T21:15:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ギャラクシーとBNY提携、カストディに仮想通貨ステーキング組み込む",
+      "link": "https://coinpost.jp/?p=729833",
+      "published": "Wed, 05 Aug 2026 05:35:00 +0900",
+      "isoDate": "2026-08-04T20:35:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイントレジャリーの先へ　DeepPoint始動｜WebX2026",
+      "link": "https://coinpost.jp/?p=729650",
+      "published": "Tue, 04 Aug 2026 17:30:50 +0900",
+      "isoDate": "2026-08-04T08:30:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン保管方法論争、CZ氏は取引所の優位性を強調",
+      "link": "https://coinpost.jp/?p=729752",
+      "published": "Tue, 04 Aug 2026 17:04:21 +0900",
+      "isoDate": "2026-08-04T08:04:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨取引高、日次150億ドルに急減　年初来最低＝分析",
+      "link": "https://coinpost.jp/?p=729686",
+      "published": "Tue, 04 Aug 2026 14:21:59 +0900",
+      "isoDate": "2026-08-04T05:21:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットゴーCEO、生成AI「クロード」に100ビットコイン奪取の挑戦状",
+      "link": "https://coinpost.jp/?p=729634",
+      "published": "Tue, 04 Aug 2026 13:10:07 +0900",
+      "isoDate": "2026-08-04T04:10:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FBI捜査官、機密情報で敵対国の仮想通貨ウォレットから資金を不正入手か",
+      "link": "https://coinpost.jp/?p=729565",
+      "published": "Tue, 04 Aug 2026 11:10:03 +0900",
+      "isoDate": "2026-08-04T02:10:03Z"
+    }
+  ]
 }
