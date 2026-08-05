@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04T22:36:22Z",
-  "last_checked": "2026-08-04T22:36:22Z",
+  "updated": "2026-08-05T00:08:08Z",
+  "last_checked": "2026-08-05T00:08:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "中東情勢の懸念後退などを背景に買い先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1631959",
+      "published": "2026-08-04 23:30:06",
+      "isoDate": "2026-08-04T23:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、米宇宙軍から3億9700万ドルの衛星契約を受注",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1631944",
+      "published": "2026-08-04 23:18:02",
+      "isoDate": "2026-08-04T23:18:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "4日の米国市場ダイジェスト：米国株式市場は大幅続伸、イラン和平合意期待や企業決算を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1631841",
+      "published": "2026-08-04 22:15:03",
+      "isoDate": "2026-08-04T22:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アドバンスト・マイクロ・デバイセズ株が本日下落している理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1631825",
+      "published": "2026-08-04 22:06:06",
+      "isoDate": "2026-08-04T22:06:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "スペースX株が時間外取引で急落した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1631684",
       "published": "2026-08-04 21:06:04",
       "isoDate": "2026-08-04T21:06:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：米イラン和平の早期合意に期待が高まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1631667",
-      "published": "2026-08-04 21:00:04",
-      "isoDate": "2026-08-04T21:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】アドバンスト・マイクロ・デバイセズ、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1631553",
-      "published": "2026-08-04 20:23:17",
-      "isoDate": "2026-08-04T20:23:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米イラン協議に不透明感；PalantirとスナップがAH急騰――市場動向",
-      "link": "https://jp.investing.com/news/economy-news/article-1629652",
-      "published": "2026-08-04 08:03:39",
-      "isoDate": "2026-08-04T08:03:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "韓国株の動向に左右されたものの、好決算銘柄などに買いが入り反発【クロージング】",
       "link": "https://jp.investing.com/news/forex-news/article-1629634",
       "published": "2026-08-04 07:45:15",
       "isoDate": "2026-08-04T07:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "三井物産、1Q利益が予想上回る―自社株買いと株主還元方針を発表",
-      "link": "https://jp.investing.com/news/earnings/article-1629438",
-      "published": "2026-08-04 04:27:05",
-      "isoDate": "2026-08-04T04:27:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -201,13 +201,6 @@
       "link": "https://coinpost.jp/?p=729634",
       "published": "Tue, 04 Aug 2026 13:10:07 +0900",
       "isoDate": "2026-08-04T04:10:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "FBI捜査官、機密情報で敵対国の仮想通貨ウォレットから資金を不正入手か",
-      "link": "https://coinpost.jp/?p=729565",
-      "published": "Tue, 04 Aug 2026 11:10:03 +0900",
-      "isoDate": "2026-08-04T02:10:03Z"
     }
   ]
 }
