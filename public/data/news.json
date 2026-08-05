@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-05T18:23:53Z",
-  "last_checked": "2026-08-05T18:23:53Z",
+  "updated": "2026-08-05T20:09:12Z",
+  "last_checked": "2026-08-05T20:09:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.75高値圏で買われすぎ急反落リスク：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
+      "published": "2026-08-05 19:13:27",
+      "isoDate": "2026-08-05T19:13:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、強いダウントレンド継続中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
+      "published": "2026-08-05 19:12:55",
+      "isoDate": "2026-08-05T19:12:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$62.47でオーバーボート警戒域に突入：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
+      "published": "2026-08-05 19:12:39",
+      "isoDate": "2026-08-05T19:12:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が$75.19でVWAPサポートを試す: 毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
+      "published": "2026-08-05 19:11:48",
+      "isoDate": "2026-08-05T19:11:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、RSI80超の過熱急騰：今すぐ最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
+      "published": "2026-08-05 19:11:45",
+      "isoDate": "2026-08-05T19:11:45Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米イラン協議を受け、オランダ・英国の天然ガス価格が5%超下落",
@@ -36,50 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633195",
       "published": "2026-08-05 13:33:32",
       "isoDate": "2026-08-05T13:33:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシアの燃料価格、6月と7月のインフレに合計0.5%寄与",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633191",
-      "published": "2026-08-05 13:33:24",
-      "isoDate": "2026-08-05T13:33:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシアの燃料価格、6月と7月のインフレに合計0.5%寄与",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633193",
-      "published": "2026-08-05 13:33:24",
-      "isoDate": "2026-08-05T13:33:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパ天然ガス価格、3週間ぶり安値付近で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-1632527",
-      "published": "2026-08-05 08:31:53",
-      "isoDate": "2026-08-05T08:31:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、歴史的高値6.7160ドルでダブルトップ警戒：最新シグナル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
-      "published": "2026-08-05 07:10:22",
-      "isoDate": "2026-08-05T07:10:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent原油、RSI35台で下落継続中：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
-      "published": "2026-08-05 07:10:04",
-      "isoDate": "2026-08-05T07:10:04Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アップルの購買コミットメント28%急増、バンク・オブ・アメリカはiPhone増産を予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1633120",
-      "published": "2026-08-05 13:15:06",
-      "isoDate": "2026-08-05T13:15:06Z"
+      "title": "IONQ、一目雲上限$41.66に強い抵抗感：毎時更新中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629737",
+      "published": "2026-08-05 19:13:40",
+      "isoDate": "2026-08-05T19:13:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1632948",
       "published": "2026-08-05 11:53:38",
       "isoDate": "2026-08-05T11:53:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー株が急騰、肥満治療薬の需要増で通期見通しを上方修正",
-      "link": "https://jp.investing.com/news/earnings/article-1632817",
-      "published": "2026-08-05 11:04:24",
-      "isoDate": "2026-08-05T11:04:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1632165",
       "published": "2026-08-05 01:46:57",
       "isoDate": "2026-08-05T01:46:57Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東証グロース市場250指数先物見通し：堅調も利益確定売りに留意",
+      "link": "https://jp.investing.com/news/forex-news/article-1631933",
+      "published": "2026-08-04 23:15:06",
+      "isoDate": "2026-08-04T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
