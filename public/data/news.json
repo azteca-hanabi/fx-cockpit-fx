@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-05T16:45:07Z",
-  "last_checked": "2026-08-05T16:45:07Z",
+  "updated": "2026-08-05T18:23:53Z",
+  "last_checked": "2026-08-05T18:23:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米イラン協議を受け、オランダ・英国の天然ガス価格が5%超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633740",
+      "published": "2026-08-05 18:17:16",
+      "isoDate": "2026-08-05T18:17:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の留出燃料輸出が記録更新、供給懸念が高まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633697",
+      "published": "2026-08-05 17:10:28",
+      "isoDate": "2026-08-05T17:10:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国・イラン協議を受け、オランダと英国の天然ガス価格が5%超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633685",
+      "published": "2026-08-05 16:56:22",
+      "isoDate": "2026-08-05T16:56:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "銀スポット価格が本日急騰した理由とは",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
       "published": "2026-08-05 07:10:04",
       "isoDate": "2026-08-05T07:10:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、200SMA上抜けで強気転換：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
-      "published": "2026-08-05 07:10:01",
-      "isoDate": "2026-08-05T07:10:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、レンジ完全突破で$4,228へ急騰：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
-      "published": "2026-08-05 07:09:52",
-      "isoDate": "2026-08-05T07:09:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$74.76フィボナッチ攻防が分岐点：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
-      "published": "2026-08-05 07:09:51",
-      "isoDate": "2026-08-05T07:09:51Z"
     }
   ],
   "usdjpy_items": [
@@ -80,13 +80,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1633120",
       "published": "2026-08-05 13:15:06",
       "isoDate": "2026-08-05T13:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米7月ADP雇用統計は予想下回る、ドル軟化",
-      "link": "https://jp.investing.com/news/forex-news/article-1633065",
-      "published": "2026-08-05 13:00:05",
-      "isoDate": "2026-08-05T13:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1631808",
       "published": "2026-08-04 21:47:13",
       "isoDate": "2026-08-04T21:47:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX、IPO後初の決算で売上高92%増―AIが成長を牽引",
+      "link": "https://jp.investing.com/news/earnings/article-1631510",
+      "published": "2026-08-04 20:15:06",
+      "isoDate": "2026-08-04T20:15:06Z"
     }
   ],
   "btc_items": [
