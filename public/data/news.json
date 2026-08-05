@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T20:09:12Z",
-  "last_checked": "2026-08-05T20:09:12Z",
+  "updated": "2026-08-05T21:48:12Z",
+  "last_checked": "2026-08-05T21:48:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "IONQ、一目雲上限$41.66に強い抵抗感：毎時更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1629737",
-      "published": "2026-08-05 19:13:40",
-      "isoDate": "2026-08-05T19:13:40Z"
+      "title": "サンディスクの株価が時間外取引で下落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1634188",
+      "published": "2026-08-05 21:00:55",
+      "isoDate": "2026-08-05T21:00:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】IONQ、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1634011",
+      "published": "2026-08-05 20:24:13",
+      "isoDate": "2026-08-05T20:24:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDiskがQ1の力強い見通しを発表、AI向けストレージ需要が四半期売上高を過去最高に押し上げる",
+      "link": "https://jp.investing.com/news/earnings/article-1634002",
+      "published": "2026-08-05 20:22:14",
+      "isoDate": "2026-08-05T20:22:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】サンディスク、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1633947",
+      "published": "2026-08-05 20:16:42",
+      "isoDate": "2026-08-05T20:16:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "中東和平への期待、SpaceXとアドバンスト・マイクロ・デバイセズの決算に注目",
-      "link": "https://jp.investing.com/news/economy-news/article-1632477",
-      "published": "2026-08-05 08:08:03",
-      "isoDate": "2026-08-05T08:08:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、アドバンテストやソフトバンクGが2銘柄で約1243円分押し上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1632423",
       "published": "2026-08-05 07:30:18",
@@ -125,27 +139,20 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロース市場250指数先物見通し：堅調も利益確定売りに留意",
-      "link": "https://jp.investing.com/news/forex-news/article-1631933",
-      "published": "2026-08-04 23:15:06",
-      "isoDate": "2026-08-04T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIは見抜いていた。この確信度の高い医療技術株、好決算で27%超急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1631808",
       "published": "2026-08-04 21:47:13",
       "isoDate": "2026-08-04T21:47:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、IPO後初の決算で売上高92%増―AIが成長を牽引",
-      "link": "https://jp.investing.com/news/earnings/article-1631510",
-      "published": "2026-08-04 20:15:06",
-      "isoDate": "2026-08-04T20:15:06Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、トランプ口座米従業員の子ども向けに毎年約4万円拠出",
+      "link": "https://coinpost.jp/?p=730026",
+      "published": "Thu, 06 Aug 2026 05:40:27 +0900",
+      "isoDate": "2026-08-05T20:40:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "「仮にクラリティー法不成立でも仮想通貨は前進」＝ビットワイズCIO",
@@ -187,27 +194,6 @@
       "link": "https://coinpost.jp/?p=729859",
       "published": "Wed, 05 Aug 2026 09:55:07 +0900",
       "isoDate": "2026-08-05T00:55:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ、トークン供給引き締め提案が議論段階へ進む",
-      "link": "https://coinpost.jp/?p=729844",
-      "published": "Wed, 05 Aug 2026 07:15:52 +0900",
-      "isoDate": "2026-08-04T22:15:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハッシュデックス、米国初のビットコイン現物ETF閉鎖事例",
-      "link": "https://coinpost.jp/?p=729843",
-      "published": "Wed, 05 Aug 2026 06:40:50 +0900",
-      "isoDate": "2026-08-04T21:40:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スペースX上場後初決算、売上高ほぼ倍増　1900億円相当ビットコイン保有を継続",
-      "link": "https://coinpost.jp/?p=729842",
-      "published": "Wed, 05 Aug 2026 06:15:47 +0900",
-      "isoDate": "2026-08-04T21:15:47Z"
     }
   ]
 }
