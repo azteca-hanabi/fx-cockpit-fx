@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T09:38:44Z",
-  "last_checked": "2026-08-05T09:38:44Z",
+  "updated": "2026-08-05T12:01:32Z",
+  "last_checked": "2026-08-05T12:01:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -46,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油、米・イランのホルムズ海峡合意期待で下落続く",
+      "title": "フーシ派がサウジタンカーを攻撃、原油価格が上昇に転じる",
       "link": "https://jp.investing.com/news/commodities-news/article-1632116",
       "published": "2026-08-05 01:00:43",
       "isoDate": "2026-08-05T01:00:43Z"
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "国内金は円高が重石　サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1632488",
-      "published": "2026-08-05 08:15:16",
-      "isoDate": "2026-08-05T08:15:16Z"
+      "title": "NebiusがリンジーIrvineを新最高マーケティング責任者に任命",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1632803",
+      "published": "2026-08-05 11:07:03",
+      "isoDate": "2026-08-05T11:07:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーライリリー株が急騰、肥満治療薬の需要増で通期ガイダンスを上方修正",
+      "link": "https://jp.investing.com/news/earnings/article-1632817",
+      "published": "2026-08-05 11:04:24",
+      "isoDate": "2026-08-05T11:04:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXがモバイルサービス参入を示唆、通信株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632621",
+      "published": "2026-08-05 09:31:51",
+      "isoDate": "2026-08-05T09:31:51Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物が小幅上昇、ウォール街は最高値更新後もSpaceXとアドバンスト・マイクロ・デバイセズが決算受け下落",
+      "title": "ウォール街先物が安定、中東和平期待高まる中SpaceXとアドバンスト・マイクロ・デバイセズが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1632165",
       "published": "2026-08-05 01:46:57",
       "isoDate": "2026-08-05T01:46:57Z"
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ、売上高と利益がともに予想超え――時間外取引で株価は7%超下落",
-      "link": "https://jp.investing.com/news/earnings/article-1631546",
-      "published": "2026-08-04 20:21:57",
-      "isoDate": "2026-08-04T20:21:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceX、IPO後初の決算で売上高92%増―AIが成長を牽引",
       "link": "https://jp.investing.com/news/earnings/article-1631510",
       "published": "2026-08-04 20:15:06",
       "isoDate": "2026-08-04T20:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーロン・マスク、SpaceXの空売り急増に不吉な警告を発する",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1631361",
-      "published": "2026-08-04 18:11:12",
-      "isoDate": "2026-08-04T18:11:12Z"
     },
     {
       "source": "Investing.com 外為",
