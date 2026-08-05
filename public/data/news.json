@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-05T00:08:08Z",
-  "last_checked": "2026-08-05T00:08:08Z",
+  "updated": "2026-08-05T03:44:46Z",
+  "last_checked": "2026-08-05T03:44:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡合意への期待で供給懸念が後退、原油3日続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1632116",
+      "published": "2026-08-05 01:00:43",
+      "isoDate": "2026-08-05T01:00:43Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "植物油全般の軟調にもかかわらず、ICEキャノーラ先物が上昇",
@@ -64,43 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631211",
       "published": "2026-08-04 16:22:31",
       "isoDate": "2026-08-04T16:22:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧州のガソリンマージンが火曜日に4ドル超上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631200",
-      "published": "2026-08-04 16:18:52",
-      "isoDate": "2026-08-04T16:18:52Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "中東情勢の懸念後退などを背景に買い先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1631959",
-      "published": "2026-08-04 23:30:06",
-      "isoDate": "2026-08-04T23:30:06Z"
+      "title": "サムスン・SKハイニックス、米規制リスクに備え中国製半導体装置をテスト",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632202",
+      "published": "2026-08-05 03:05:26",
+      "isoDate": "2026-08-05T03:05:26Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、米宇宙軍から3億9700万ドルの衛星契約を受注",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1631944",
-      "published": "2026-08-04 23:18:02",
-      "isoDate": "2026-08-04T23:18:02Z"
+      "title": "ソフトバンクＧ---大幅反発、アームなど海外ハイテク株高の流れを好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632174",
+      "published": "2026-08-05 02:15:12",
+      "isoDate": "2026-08-05T02:15:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "4日の米国市場ダイジェスト：米国株式市場は大幅続伸、イラン和平合意期待や企業決算を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1631841",
-      "published": "2026-08-04 22:15:03",
-      "isoDate": "2026-08-04T22:15:03Z"
+      "title": "米国株先物が小幅上昇、ウォール街は最高値更新後もSpaceXとアドバンスト・マイクロ・デバイセズが決算受け下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632165",
+      "published": "2026-08-05 01:46:57",
+      "isoDate": "2026-08-05T01:46:57Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ株が本日下落している理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1631825",
-      "published": "2026-08-04 22:06:06",
-      "isoDate": "2026-08-04T22:06:06Z"
+      "title": "日経平均は607円高でスタート、イビデンやキオクシアHDなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632071",
+      "published": "2026-08-05 00:30:10",
+      "isoDate": "2026-08-05T00:30:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
+      "link": "https://coinpost.jp/?p=729846",
+      "published": "Wed, 05 Aug 2026 12:30:58 +0900",
+      "isoDate": "2026-08-05T03:30:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イタリア最大手銀インテーザが保有証券開示、ETHのステーキングETF「ETHB」が26年2Qに3倍増",
+      "link": "https://coinpost.jp/?p=729895",
+      "published": "Wed, 05 Aug 2026 10:55:59 +0900",
+      "isoDate": "2026-08-05T01:55:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットディア、ボルタと7,400億円規模のAIデータセンター契約締結　保有BTCはゼロ維持",
+      "link": "https://coinpost.jp/?p=729859",
+      "published": "Wed, 05 Aug 2026 09:55:07 +0900",
+      "isoDate": "2026-08-05T00:55:07Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ソラナ、トークン供給引き締め提案が議論段階へ進む",
       "link": "https://coinpost.jp/?p=729844",
       "published": "Wed, 05 Aug 2026 07:15:52 +0900",
@@ -187,20 +208,6 @@
       "link": "https://coinpost.jp/?p=729752",
       "published": "Tue, 04 Aug 2026 17:04:21 +0900",
       "isoDate": "2026-08-04T08:04:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨取引高、日次150億ドルに急減　年初来最低＝分析",
-      "link": "https://coinpost.jp/?p=729686",
-      "published": "Tue, 04 Aug 2026 14:21:59 +0900",
-      "isoDate": "2026-08-04T05:21:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴーCEO、生成AI「クロード」に100ビットコイン奪取の挑戦状",
-      "link": "https://coinpost.jp/?p=729634",
-      "published": "Tue, 04 Aug 2026 13:10:07 +0900",
-      "isoDate": "2026-08-04T04:10:07Z"
     }
   ]
 }
