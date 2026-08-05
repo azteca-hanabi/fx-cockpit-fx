@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-05T12:01:32Z",
-  "last_checked": "2026-08-05T12:01:32Z",
+  "updated": "2026-08-05T14:55:54Z",
+  "last_checked": "2026-08-05T14:55:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数が2ヶ月ぶりの高値、船舶運賃の上昇が支援",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633195",
+      "published": "2026-08-05 13:33:32",
+      "isoDate": "2026-08-05T13:33:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの燃料価格、6月と7月のインフレに合計0.5%寄与",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633191",
+      "published": "2026-08-05 13:33:24",
+      "isoDate": "2026-08-05T13:33:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの燃料価格、6月と7月のインフレに合計0.5%寄与",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633193",
+      "published": "2026-08-05 13:33:24",
+      "isoDate": "2026-08-05T13:33:24Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ヨーロッパ天然ガス価格、3週間ぶり安値付近で推移",
@@ -46,44 +67,44 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "フーシ派がサウジタンカーを攻撃、原油価格が上昇に転じる",
+      "title": "中東和平交渉への期待とフーシ派のサウジタンカー攻撃を受け、原油価格が上昇幅を縮小",
       "link": "https://jp.investing.com/news/commodities-news/article-1632116",
       "published": "2026-08-05 01:00:43",
       "isoDate": "2026-08-05T01:00:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "植物油全般の軟調にもかかわらず、ICEキャノーラ先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631413",
-      "published": "2026-08-04 19:37:15",
-      "isoDate": "2026-08-04T19:37:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油のミッドランド価格差、火曜日の取引で縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631359",
-      "published": "2026-08-04 18:11:03",
-      "isoDate": "2026-08-04T18:11:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州小麦先物、原油安を受けて下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1631357",
-      "published": "2026-08-04 18:07:45",
-      "isoDate": "2026-08-04T18:07:45Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NebiusがリンジーIrvineを新最高マーケティング責任者に任命",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1632803",
-      "published": "2026-08-05 11:07:03",
-      "isoDate": "2026-08-05T11:07:03Z"
+      "title": "アップルの購買コミットメント28%急増、バンク・オブ・アメリカはiPhone増産を予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1633120",
+      "published": "2026-08-05 13:15:06",
+      "isoDate": "2026-08-05T13:15:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "イーライリリー株が急騰、肥満治療薬の需要増で通期ガイダンスを上方修正",
+      "title": "【市場反応】米7月ADP雇用統計は予想下回る、ドル軟化",
+      "link": "https://jp.investing.com/news/forex-news/article-1633065",
+      "published": "2026-08-05 13:00:05",
+      "isoDate": "2026-08-05T13:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価が本日下落した理由をアナリストが解説",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632975",
+      "published": "2026-08-05 12:10:18",
+      "isoDate": "2026-08-05T12:10:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ショッピファイが急騰、アドバンスト・マイクロ・デバイセズは決算失望で下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1632948",
+      "published": "2026-08-05 11:53:38",
+      "isoDate": "2026-08-05T11:53:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーライリリー株が急騰、肥満治療薬の需要増で通期見通しを上方修正",
       "link": "https://jp.investing.com/news/earnings/article-1632817",
       "published": "2026-08-05 11:04:24",
       "isoDate": "2026-08-05T11:04:24Z"
@@ -118,37 +139,16 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロース市場250指数先物見通し：堅調も利益確定売りに留意",
-      "link": "https://jp.investing.com/news/forex-news/article-1631933",
-      "published": "2026-08-04 23:15:06",
-      "isoDate": "2026-08-04T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIは見抜いていた。この確信度の高い医療技術株、好決算で27%超急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1631808",
       "published": "2026-08-04 21:47:13",
       "isoDate": "2026-08-04T21:47:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、IPO後初の決算で売上高92%増―AIが成長を牽引",
-      "link": "https://jp.investing.com/news/earnings/article-1631510",
-      "published": "2026-08-04 20:15:06",
-      "isoDate": "2026-08-04T20:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国株の動向に左右されたものの、好決算銘柄などに買いが入り反発【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1629634",
-      "published": "2026-08-04 07:45:15",
-      "isoDate": "2026-08-04T07:45:15Z"
     }
   ],
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "クラリティー法不成立でも仮想通貨前進＝ビットワイズCIO",
+      "title": "「仮にクラリティー法不成立でも仮想通貨は前進」＝ビットワイズCIO",
       "link": "https://coinpost.jp/?p=729995",
       "published": "Wed, 05 Aug 2026 17:47:05 +0900",
       "isoDate": "2026-08-05T08:47:05Z"
