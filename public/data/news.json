@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-05T14:55:54Z",
-  "last_checked": "2026-08-05T14:55:54Z",
+  "updated": "2026-08-05T16:45:07Z",
+  "last_checked": "2026-08-05T16:45:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銀スポット価格が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633487",
+      "published": "2026-08-05 14:55:48",
+      "isoDate": "2026-08-05T14:55:48Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数が2ヶ月ぶりの高値、船舶運賃の上昇が支援",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
       "published": "2026-08-05 07:09:51",
       "isoDate": "2026-08-05T07:09:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東和平交渉への期待とフーシ派のサウジタンカー攻撃を受け、原油価格が上昇幅を縮小",
-      "link": "https://jp.investing.com/news/commodities-news/article-1632116",
-      "published": "2026-08-05 01:00:43",
-      "isoDate": "2026-08-05T01:00:43Z"
     }
   ],
   "usdjpy_items": [
