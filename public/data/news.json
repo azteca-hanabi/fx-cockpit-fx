@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T03:44:46Z",
-  "last_checked": "2026-08-05T03:44:46Z",
+  "updated": "2026-08-05T06:31:45Z",
+  "last_checked": "2026-08-05T06:31:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "サムスン・SKハイニックス、米規制リスクに備え中国製半導体装置をテスト",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1632202",
-      "published": "2026-08-05 03:05:26",
-      "isoDate": "2026-08-05T03:05:26Z"
+      "title": "米国株見通し：伸び悩みか、雇用環境を注視",
+      "link": "https://jp.investing.com/news/forex-news/article-1632276",
+      "published": "2026-08-05 05:00:16",
+      "isoDate": "2026-08-05T05:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,10 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は607円高でスタート、イビデンやキオクシアHDなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1632071",
-      "published": "2026-08-05 00:30:10",
-      "isoDate": "2026-08-05T00:30:10Z"
+      "title": "東証グロース市場250指数先物見通し：堅調も利益確定売りに留意",
+      "link": "https://jp.investing.com/news/forex-news/article-1631933",
+      "published": "2026-08-04 23:15:06",
+      "isoDate": "2026-08-04T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン採掘企業ハット8決算報告、売上高は事前予想わずかに下回る",
+      "link": "https://coinpost.jp/?p=729913",
+      "published": "Wed, 05 Aug 2026 13:22:20 +0900",
+      "isoDate": "2026-08-05T04:22:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁、暗号資産・ステーブルコイン課を新設　8月7日組織再編",
+      "link": "https://coinpost.jp/?p=729927",
+      "published": "Wed, 05 Aug 2026 13:17:17 +0900",
+      "isoDate": "2026-08-05T04:17:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=729833",
       "published": "Wed, 05 Aug 2026 05:35:00 +0900",
       "isoDate": "2026-08-04T20:35:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイントレジャリーの先へ　DeepPoint始動｜WebX2026",
-      "link": "https://coinpost.jp/?p=729650",
-      "published": "Tue, 04 Aug 2026 17:30:50 +0900",
-      "isoDate": "2026-08-04T08:30:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン保管方法論争、CZ氏は取引所の優位性を強調",
-      "link": "https://coinpost.jp/?p=729752",
-      "published": "Tue, 04 Aug 2026 17:04:21 +0900",
-      "isoDate": "2026-08-04T08:04:21Z"
     }
   ]
 }
