@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T00:52:00Z",
-  "last_checked": "2026-08-06T00:52:00Z",
+  "updated": "2026-08-06T04:15:56Z",
+  "last_checked": "2026-08-06T04:15:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "テラウルフ決算、HPCリース収益が売上高の70%超に",
+      "link": "https://coinpost.jp/?p=730109",
+      "published": "Thu, 06 Aug 2026 11:40:14 +0900",
+      "isoDate": "2026-08-06T02:40:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア、仮想通貨取引所を登録制に　大統領が新法署名",
+      "link": "https://coinpost.jp/?p=730104",
+      "published": "Thu, 06 Aug 2026 11:04:26 +0900",
+      "isoDate": "2026-08-06T02:04:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン・イーサリアム・XRP、「弱気相場の最終段階に典型的な兆候」＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=730062",
+      "published": "Thu, 06 Aug 2026 09:55:57 +0900",
+      "isoDate": "2026-08-06T00:55:57Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "バイナンス、決済企業RedotPayの共同創設者を提訴　業務契約違反を主張",
       "link": "https://coinpost.jp/?p=730050",
       "published": "Thu, 06 Aug 2026 09:05:20 +0900",
@@ -173,34 +194,6 @@
       "link": "https://coinpost.jp/?p=729995",
       "published": "Wed, 05 Aug 2026 17:47:05 +0900",
       "isoDate": "2026-08-05T08:47:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘企業ハット8決算報告、売上高は事前予想わずかに下回る",
-      "link": "https://coinpost.jp/?p=729913",
-      "published": "Wed, 05 Aug 2026 13:22:20 +0900",
-      "isoDate": "2026-08-05T04:22:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、暗号資産・ステーブルコイン課を新設　8月7日組織再編",
-      "link": "https://coinpost.jp/?p=729927",
-      "published": "Wed, 05 Aug 2026 13:17:17 +0900",
-      "isoDate": "2026-08-05T04:17:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアム利回りの大幅削減提案、アーベ創設者が反論",
-      "link": "https://coinpost.jp/?p=729846",
-      "published": "Wed, 05 Aug 2026 12:30:58 +0900",
-      "isoDate": "2026-08-05T03:30:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イタリア最大手銀インテーザが保有証券開示、ETHのステーキングETF「ETHB」が26年2Qに3倍増",
-      "link": "https://coinpost.jp/?p=729895",
-      "published": "Wed, 05 Aug 2026 10:55:59 +0900",
-      "isoDate": "2026-08-05T01:55:59Z"
     }
   ]
 }
