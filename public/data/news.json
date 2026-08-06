@@ -1,41 +1,55 @@
 {
-  "updated": "2026-08-06T04:15:56Z",
-  "last_checked": "2026-08-06T04:15:56Z",
+  "updated": "2026-08-06T07:16:48Z",
+  "last_checked": "2026-08-06T07:16:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "Copper、$6.75高値圏で買われすぎ急反落リスク：毎時更新",
+      "title": "Copper、MFI過熱＆高値拒否で急変警戒：最新レベル更新中",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
-      "published": "2026-08-05 19:13:27",
-      "isoDate": "2026-08-05T19:13:27Z"
+      "published": "2026-08-06 07:09:09",
+      "isoDate": "2026-08-06T07:09:09Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "Brent Oil、強いダウントレンド継続中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
-      "published": "2026-08-05 19:12:55",
-      "isoDate": "2026-08-05T19:12:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、$62.47でオーバーボート警戒域に突入：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
-      "published": "2026-08-05 19:12:39",
-      "isoDate": "2026-08-05T19:12:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が$75.19でVWAPサポートを試す: 毎時更新",
+      "title": "WTI原油、$74.76サポートで攻防中：毎時更新",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
-      "published": "2026-08-05 19:11:48",
-      "isoDate": "2026-08-05T19:11:48Z"
+      "published": "2026-08-06 07:09:04",
+      "isoDate": "2026-08-06T07:09:04Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "Gold、RSI80超の過熱急騰：今すぐ最新レベルを確認",
+      "title": "Gold、RSI72超で天井警戒：最新レベルをチェック",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
-      "published": "2026-08-05 19:11:45",
-      "isoDate": "2026-08-05T19:11:45Z"
+      "published": "2026-08-06 07:08:58",
+      "isoDate": "2026-08-06T07:08:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、23.6%フィボナッチ抵抗線で反落：最新レベル更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
+      "published": "2026-08-06 07:08:55",
+      "isoDate": "2026-08-06T07:08:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、主要MA下で$78.11割れリスク：最新レベル更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
+      "published": "2026-08-06 07:08:55",
+      "isoDate": "2026-08-06T07:08:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡再開への期待がFED懸念を和らげ、金は7週間ぶり高値付近で推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-1634933",
+      "published": "2026-08-06 02:27:31",
+      "isoDate": "2026-08-06T02:27:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとオマーンのホルムズ海峡合意と米在庫増加で原油安値維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1634852",
+      "published": "2026-08-06 01:13:27",
+      "isoDate": "2026-08-06T01:13:27Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -57,29 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633685",
       "published": "2026-08-05 16:56:22",
       "isoDate": "2026-08-05T16:56:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銀スポット価格が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633487",
-      "published": "2026-08-05 14:55:48",
-      "isoDate": "2026-08-05T14:55:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数が2ヶ月ぶりの高値、船舶運賃の上昇が支援",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1633195",
-      "published": "2026-08-05 13:33:32",
-      "isoDate": "2026-08-05T13:33:32Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日の急騰の反動や米テック株安を背景に利食い売り先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1634637",
-      "published": "2026-08-05 23:30:07",
-      "isoDate": "2026-08-05T23:30:07Z"
+      "title": "ソフトバンクグループ、第1四半期純利益は18%減もインテル株効果で予想上回る",
+      "link": "https://jp.investing.com/news/earnings/article-1635121",
+      "published": "2026-08-06 06:52:26",
+      "isoDate": "2026-08-06T06:52:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが選定したテック系アドバイザリー企業、8月に+23% それでも55%超の上昇余地を示唆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1635034",
+      "published": "2026-08-06 05:45:55",
+      "isoDate": "2026-08-06T05:45:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQが2800万ドルのDARPA契約を獲得、光学原子時計125台を納入へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1634982",
+      "published": "2026-08-06 04:20:02",
+      "isoDate": "2026-08-06T04:20:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SKハイニックスとサムスン株が急落、米国の半導体決算が失望を誘う",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1634969",
+      "published": "2026-08-06 04:05:30",
+      "isoDate": "2026-08-06T04:05:30Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "利食い優勢も半導体やAI関連株の押し目狙いのスタンス",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1634655",
+      "published": "2026-08-05 23:45:08",
+      "isoDate": "2026-08-05T23:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIは見抜いていた:リターン+200%、好決算で急騰を続ける銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1634446",
+      "published": "2026-08-05 22:12:34",
+      "isoDate": "2026-08-05T22:12:34Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,45 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "5日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテクが重し",
-      "link": "https://jp.investing.com/news/forex-news/article-1634343",
-      "published": "2026-08-05 21:45:04",
-      "isoDate": "2026-08-05T21:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスクの株価が時間外取引で下落した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1634188",
-      "published": "2026-08-05 21:00:55",
-      "isoDate": "2026-08-05T21:00:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【決算速報】IONQ、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1634011",
-      "published": "2026-08-05 20:24:13",
-      "isoDate": "2026-08-05T20:24:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDiskがQ1の力強い見通しを発表、AI向けストレージ需要が四半期売上高を過去最高に押し上げる",
-      "link": "https://jp.investing.com/news/earnings/article-1634002",
-      "published": "2026-08-05 20:22:14",
-      "isoDate": "2026-08-05T20:22:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの株価が本日下落した理由をアナリストが解説",
       "link": "https://jp.investing.com/news/stock-market-news/article-1632975",
       "published": "2026-08-05 12:10:18",
       "isoDate": "2026-08-05T12:10:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがモバイルサービス参入を示唆、通信株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1632621",
-      "published": "2026-08-05 09:31:51",
-      "isoDate": "2026-08-05T09:31:51Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド（HYPE）調査報告書、前四半期の独歩高に注目",
+      "link": "https://coinpost.jp/?p=730186",
+      "published": "Thu, 06 Aug 2026 14:51:38 +0900",
+      "isoDate": "2026-08-06T05:51:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン流出6.58万BTC、売り枯れ指標は接近＝グラスノード",
+      "link": "https://coinpost.jp/?p=730169",
+      "published": "Thu, 06 Aug 2026 14:06:16 +0900",
+      "isoDate": "2026-08-06T05:06:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "テラウルフ決算、HPCリース収益が売上高の70%超に",
@@ -187,13 +201,6 @@
       "link": "https://coinpost.jp/?p=730026",
       "published": "Thu, 06 Aug 2026 05:40:27 +0900",
       "isoDate": "2026-08-05T20:40:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「仮にクラリティー法不成立でも仮想通貨は前進」＝ビットワイズCIO",
-      "link": "https://coinpost.jp/?p=729995",
-      "published": "Wed, 05 Aug 2026 17:47:05 +0900",
-      "isoDate": "2026-08-05T08:47:05Z"
     }
   ]
 }
