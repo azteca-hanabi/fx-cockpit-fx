@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T23:04:19Z",
-  "last_checked": "2026-08-05T23:04:19Z",
+  "updated": "2026-08-06T00:52:00Z",
+  "last_checked": "2026-08-06T00:52:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日の急騰の反動や米テック株安を背景に利食い売り先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1634637",
+      "published": "2026-08-05 23:30:07",
+      "isoDate": "2026-08-05T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サンディスク、2026年第4四半期決算は予想超えも株価下落",
       "link": "https://jp.investing.com/news/transcripts/article-93CH-1634399",
       "published": "2026-08-05 22:03:47",
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【決算速報】サンディスク、売上高は予想を上回り、利益は予想を上回る結果に",
-      "link": "https://jp.investing.com/news/earnings/article-1633947",
-      "published": "2026-08-05 20:16:42",
-      "isoDate": "2026-08-05T20:16:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXの株価が本日下落した理由をアナリストが解説",
       "link": "https://jp.investing.com/news/stock-market-news/article-1632975",
       "published": "2026-08-05 12:10:18",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、決済企業RedotPayの共同創設者を提訴　業務契約違反を主張",
+      "link": "https://coinpost.jp/?p=730050",
+      "published": "Thu, 06 Aug 2026 09:05:20 +0900",
+      "isoDate": "2026-08-06T00:05:20Z"
+    },
     {
       "source": "CoinPost",
       "title": "アーサー・ヘイズ、AIバブル崩壊と政府救済でビットコイン100万ドル超と予想",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=729895",
       "published": "Wed, 05 Aug 2026 10:55:59 +0900",
       "isoDate": "2026-08-05T01:55:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットディア、ボルタと7,400億円規模のAIデータセンター契約締結　保有BTCはゼロ維持",
-      "link": "https://coinpost.jp/?p=729859",
-      "published": "Wed, 05 Aug 2026 09:55:07 +0900",
-      "isoDate": "2026-08-05T00:55:07Z"
     }
   ]
 }
