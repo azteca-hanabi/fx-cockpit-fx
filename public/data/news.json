@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T17:02:13Z",
-  "last_checked": "2026-08-07T17:02:13Z",
+  "updated": "2026-08-07T18:22:44Z",
+  "last_checked": "2026-08-07T18:22:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル売り再開、米7月NY連銀1年インフレ期待率が予想外に低下",
-      "link": "https://jp.investing.com/news/forex-news/article-1639555",
-      "published": "2026-08-07 15:30:04",
-      "isoDate": "2026-08-07T15:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
       "link": "https://jp.investing.com/news/forex-news/article-1639320",
       "published": "2026-08-07 13:15:05",
@@ -101,6 +94,13 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1639222",
       "published": "2026-08-07 12:09:43",
       "isoDate": "2026-08-07T12:09:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価が本日乱高下している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639104",
+      "published": "2026-08-07 11:30:05",
+      "isoDate": "2026-08-07T11:30:05Z"
     },
     {
       "source": "Investing.com 外為",
