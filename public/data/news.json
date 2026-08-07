@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T20:45:59Z",
-  "last_checked": "2026-08-07T20:45:59Z",
+  "updated": "2026-08-07T21:42:29Z",
+  "last_checked": "2026-08-07T21:42:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "Palantirの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639664",
+      "published": "2026-08-07 19:07:17",
+      "isoDate": "2026-08-07T19:07:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
       "link": "https://jp.investing.com/news/forex-news/article-1639320",
       "published": "2026-08-07 13:15:05",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1639236",
       "published": "2026-08-07 12:18:20",
       "isoDate": "2026-08-07T12:18:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの株価が本日乱高下している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639104",
-      "published": "2026-08-07 11:30:05",
-      "isoDate": "2026-08-07T11:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "延期されたクラリティー法案、上院が採決日を9月中旬に調整へ",
+      "link": "https://coinpost.jp/?p=730559",
+      "published": "Sat, 08 Aug 2026 06:02:51 +0900",
+      "isoDate": "2026-08-07T21:02:51Z"
+    },
     {
       "source": "CoinPost",
       "title": "トランプ大統領発言、「仮想通貨主導権は中国に渡さない」",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=730333",
       "published": "Fri, 07 Aug 2026 10:45:32 +0900",
       "isoDate": "2026-08-07T01:45:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Ondo創業者死去で経営権争いに、母親がCEOを提訴",
-      "link": "https://coinpost.jp/?p=730334",
-      "published": "Fri, 07 Aug 2026 09:32:35 +0900",
-      "isoDate": "2026-08-07T00:32:35Z"
     }
   ]
 }
