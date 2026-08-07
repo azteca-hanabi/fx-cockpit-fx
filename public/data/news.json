@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T21:42:29Z",
-  "last_checked": "2026-08-07T21:42:29Z",
+  "updated": "2026-08-07T22:40:43Z",
+  "last_checked": "2026-08-07T22:40:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "8月7日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1639667",
-      "published": "2026-08-07 19:15:04",
-      "isoDate": "2026-08-07T19:15:04Z"
+      "title": "NY為替：米7月雇用統計で予想外に雇用が減少",
+      "link": "https://jp.investing.com/news/forex-news/article-1639760",
+      "published": "2026-08-07 21:45:04",
+      "isoDate": "2026-08-07T21:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米財務省、イラン仮想通貨取引所2社を制裁",
+      "link": "https://coinpost.jp/?p=730560",
+      "published": "Sat, 08 Aug 2026 07:20:53 +0900",
+      "isoDate": "2026-08-07T22:20:53Z"
+    },
     {
       "source": "CoinPost",
       "title": "延期されたクラリティー法案、上院が採決日を9月中旬に調整へ",
