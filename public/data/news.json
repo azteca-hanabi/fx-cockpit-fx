@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T14:33:20Z",
-  "last_checked": "2026-08-07T14:33:20Z",
+  "updated": "2026-08-07T15:59:32Z",
+  "last_checked": "2026-08-07T15:59:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル・円200DMAがレジスタンス、ドル下げ止まる、NY原油が反発",
+      "link": "https://jp.investing.com/news/forex-news/article-1639513",
+      "published": "2026-08-07 15:00:04",
+      "isoDate": "2026-08-07T15:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
       "link": "https://jp.investing.com/news/forex-news/article-1639320",
       "published": "2026-08-07 13:15:05",
       "isoDate": "2026-08-07T13:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX先物、重要雇用統計の発表を前に上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639247",
-      "published": "2026-08-07 12:24:08",
-      "isoDate": "2026-08-07T12:24:08Z"
     },
     {
       "source": "Investing.com 外為",
