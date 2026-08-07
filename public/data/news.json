@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T22:40:43Z",
-  "last_checked": "2026-08-07T22:40:43Z",
+  "updated": "2026-08-07T23:37:03Z",
+  "last_checked": "2026-08-07T23:37:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -111,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "東証グロ－ス指数は反発、売り吸収し下値の堅い展開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638646",
+      "published": "2026-08-07 07:45:15",
+      "isoDate": "2026-08-07T07:45:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経VI：小幅に上昇、取引時間中は外部環境の悪化を警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1638644",
       "published": "2026-08-07 07:45:14",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1638485",
       "published": "2026-08-07 06:00:16",
       "isoDate": "2026-08-07T06:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続落、アドバンテストが1銘柄で約381円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1638432",
-      "published": "2026-08-07 03:45:17",
-      "isoDate": "2026-08-07T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハッキングされたビットコイン専門ウォレットのコールドカード、データの取扱方針を一時変更",
+      "link": "https://coinpost.jp/?p=730580",
+      "published": "Sat, 08 Aug 2026 08:22:59 +0900",
+      "isoDate": "2026-08-07T23:22:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "15年間休眠のビットコインが移動、平均取得単価は約10ドル",
+      "link": "https://coinpost.jp/?p=730562",
+      "published": "Sat, 08 Aug 2026 08:05:57 +0900",
+      "isoDate": "2026-08-07T23:05:57Z"
+    },
     {
       "source": "CoinPost",
       "title": "米財務省、イラン仮想通貨取引所2社を制裁",
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=730403",
       "published": "Fri, 07 Aug 2026 11:15:30 +0900",
       "isoDate": "2026-08-07T02:15:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、クラリティー法成立なら仮想通貨売却益の納税延期も",
-      "link": "https://coinpost.jp/?p=730333",
-      "published": "Fri, 07 Aug 2026 10:45:32 +0900",
-      "isoDate": "2026-08-07T01:45:32Z"
     }
   ]
 }
