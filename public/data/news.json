@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-07T06:48:19Z",
-  "last_checked": "2026-08-07T06:48:19Z",
+  "updated": "2026-08-07T08:16:54Z",
+  "last_checked": "2026-08-07T08:16:54Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、ベアフラッグ形成中$83.43付近：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
+      "published": "2026-08-07 07:08:28",
+      "isoDate": "2026-08-07T07:08:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、200SMAと一目雲を上抜けトレンド転換：今時間の水準",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
+      "published": "2026-08-07 07:08:20",
+      "isoDate": "2026-08-07T07:08:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、$6.8665高値から急反落で天井警戒：最新レベル更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
+      "published": "2026-08-07 07:08:20",
+      "isoDate": "2026-08-07T07:08:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、主要抵抗帯直下で保ち合い：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
+      "published": "2026-08-07 07:08:15",
+      "isoDate": "2026-08-07T07:08:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、RSI72超で50%フィボナッチ抵抗に接触：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
+      "published": "2026-08-07 07:08:09",
+      "isoDate": "2026-08-07T07:08:09Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東リスクが金相場を押し上げ、雇用統計待ちでドルは安定",
@@ -15,41 +50,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1638328",
       "published": "2026-08-07 00:46:52",
       "isoDate": "2026-08-07T00:46:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、史上最高値6.859に急接近後に反転警戒：今時間の注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
-      "published": "2026-08-06 19:13:44",
-      "isoDate": "2026-08-06T19:13:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、雲とSMAの壁に挑む反発：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
-      "published": "2026-08-06 19:13:41",
-      "isoDate": "2026-08-06T19:13:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、200SMAと雲を上抜け$63.15の壁に挑戦：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
-      "published": "2026-08-06 19:13:15",
-      "isoDate": "2026-08-06T19:13:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、急騰後の天井圏で反落リスク点灯：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629713",
-      "published": "2026-08-06 19:12:47",
-      "isoDate": "2026-08-06T19:12:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、200SMA上で攻防中：今時間の水準は",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629715",
-      "published": "2026-08-06 19:12:42",
-      "isoDate": "2026-08-06T19:12:42Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：弱含みか、雇用統計後の金融政策に思惑",
-      "link": "https://jp.investing.com/news/forex-news/article-1638466",
-      "published": "2026-08-07 05:15:15",
-      "isoDate": "2026-08-07T05:15:15Z"
+      "title": "好決算銘柄への買いなどで戻り歩調に【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1638617",
+      "published": "2026-08-07 07:30:16",
+      "isoDate": "2026-08-07T07:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は181円安、企業決算や米雇用統計に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1638485",
+      "published": "2026-08-07 06:00:16",
+      "isoDate": "2026-08-07T06:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1638432",
       "published": "2026-08-07 03:45:17",
       "isoDate": "2026-08-07T03:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ＪＸ金属---大幅続落、通期上方修正もコンセンサス水準には未達で",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1638430",
-      "published": "2026-08-07 03:45:15",
-      "isoDate": "2026-08-07T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,6 +125,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "月初来+34%:AI選定の素材株、好決算を受けてさらに22%急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1637922",
+      "published": "2026-08-06 22:07:50",
+      "isoDate": "2026-08-06T22:07:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均テクニカル：3日ぶり反落、再び25日線割れ",
       "link": "https://jp.investing.com/news/forex-news/article-1635381",
       "published": "2026-08-06 09:30:19",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1635034",
       "published": "2026-08-06 05:45:55",
       "isoDate": "2026-08-06T05:45:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIは見抜いていた:リターン+200%、好決算で急騰を続ける銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1634446",
-      "published": "2026-08-05 22:12:34",
-      "isoDate": "2026-08-05T22:12:34Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "金融庁、暗号資産交換業者等17分野でサイバー報告様式統一",
+      "link": "https://coinpost.jp/?p=730501",
+      "published": "Fri, 07 Aug 2026 16:44:11 +0900",
+      "isoDate": "2026-08-07T07:44:11Z"
+    },
     {
       "source": "CoinPost",
       "title": "トランプ一族関連USD1、バイナンス累計取引高500億ドル突破＝アナリスト",
