@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T05:18:53Z",
-  "last_checked": "2026-08-07T05:18:53Z",
+  "updated": "2026-08-07T06:48:19Z",
+  "last_checked": "2026-08-07T06:48:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株見通し：弱含みか、雇用統計後の金融政策に思惑",
+      "link": "https://jp.investing.com/news/forex-news/article-1638466",
+      "published": "2026-08-07 05:15:15",
+      "isoDate": "2026-08-07T05:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は394円安、次第に下げ渋り",
+      "link": "https://jp.investing.com/news/forex-news/article-1638464",
+      "published": "2026-08-07 05:00:18",
+      "isoDate": "2026-08-07T05:00:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均は続落、アドバンテストが1銘柄で約381円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1638432",
       "published": "2026-08-07 03:45:17",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1638430",
       "published": "2026-08-07 03:45:15",
       "isoDate": "2026-08-07T03:45:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～反発スタートも失速し一時65000円下回る",
-      "link": "https://jp.investing.com/news/forex-news/article-1638428",
-      "published": "2026-08-07 03:45:14",
-      "isoDate": "2026-08-07T03:45:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1634446",
       "published": "2026-08-05 22:12:34",
       "isoDate": "2026-08-05T22:12:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、アドバンテストやソフトバンクGが2銘柄で約1243円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1632423",
-      "published": "2026-08-05 07:30:18",
-      "isoDate": "2026-08-05T07:30:18Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族関連USD1、バイナンス累計取引高500億ドル突破＝アナリスト",
+      "link": "https://coinpost.jp/?p=730478",
+      "published": "Fri, 07 Aug 2026 14:41:15 +0900",
+      "isoDate": "2026-08-07T05:41:15Z"
+    },
     {
       "source": "CoinPost",
       "title": "リミックスポイント、仮想通貨運用益が累計約1.6億円に",
