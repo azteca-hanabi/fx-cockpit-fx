@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T09:33:18Z",
-  "last_checked": "2026-08-07T09:33:18Z",
+  "updated": "2026-08-07T10:56:24Z",
+  "last_checked": "2026-08-07T10:56:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -53,7 +53,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランが米国・イスラエル船のホルムズ海峡通過禁止を検討、原油価格が上昇継続",
+      "title": "ホルムズ海峡再開の期待を見極める中、原油相場は乱高下",
       "link": "https://jp.investing.com/news/commodities-news/article-1638328",
       "published": "2026-08-07 00:46:52",
       "isoDate": "2026-08-07T00:46:52Z"
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は軟調、米金利安で",
+      "link": "https://jp.investing.com/news/forex-news/article-1638769",
+      "published": "2026-08-07 09:30:12",
+      "isoDate": "2026-08-07T09:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅続落、アドバンテストやソフトバンクGが2銘柄で約293円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1638667",
       "published": "2026-08-07 08:00:17",
@@ -83,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "好決算銘柄への買いなどで戻り歩調に【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1638617",
-      "published": "2026-08-07 07:30:16",
-      "isoDate": "2026-08-07T07:30:16Z"
+      "title": "日経VI：小幅に上昇、取引時間中は外部環境の悪化を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1638644",
+      "published": "2026-08-07 07:45:14",
+      "isoDate": "2026-08-07T07:45:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1637922",
       "published": "2026-08-06 22:07:50",
       "isoDate": "2026-08-06T22:07:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：3日ぶり反落、再び25日線割れ",
-      "link": "https://jp.investing.com/news/forex-news/article-1635381",
-      "published": "2026-08-06 09:30:19",
-      "isoDate": "2026-08-06T09:30:19Z"
     }
   ],
   "btc_items": [
