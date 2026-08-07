@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T13:13:28Z",
-  "last_checked": "2026-08-07T13:13:28Z",
+  "updated": "2026-08-07T14:33:20Z",
+  "last_checked": "2026-08-07T14:33:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -53,14 +53,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が上昇、重要な雇用統計とホルムズ海峡の緊張が焦点に",
+      "title": "7月雇用統計が利上げ観測を後退させ、金価格が7週間ぶり高値に",
       "link": "https://jp.investing.com/news/commodities-news/article-1638330",
       "published": "2026-08-07 00:52:18",
       "isoDate": "2026-08-07T00:52:18Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡再開の期待を見極める中、原油相場は乱高下",
+      "title": "ホルムズ海峡再開への期待を見極める中、原油価格は乱高下",
       "link": "https://jp.investing.com/news/commodities-news/article-1638328",
       "published": "2026-08-07 00:46:52",
       "isoDate": "2026-08-07T00:46:52Z"
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
+      "link": "https://jp.investing.com/news/forex-news/article-1639320",
+      "published": "2026-08-07 13:15:05",
+      "isoDate": "2026-08-07T13:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "TSX先物、重要雇用統計の発表を前に上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1639247",
       "published": "2026-08-07 12:24:08",
       "isoDate": "2026-08-07T12:24:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ユニティ ソフトウェア、好決算とアナリスト格上げ相次ぎ急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639241",
-      "published": "2026-08-07 12:22:51",
-      "isoDate": "2026-08-07T12:22:51Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,10 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "「セル・アメリカ」トレードが再燃、FRBと円リスクが高まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639140",
-      "published": "2026-08-07 11:44:34",
-      "isoDate": "2026-08-07T11:44:34Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅続落、アドバンテストやソフトバンクGが2銘柄で約293円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638667",
+      "published": "2026-08-07 08:00:17",
+      "isoDate": "2026-08-07T08:00:17Z"
     },
     {
       "source": "Investing.com 外為",
