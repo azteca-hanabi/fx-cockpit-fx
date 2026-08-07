@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-07T00:25:12Z",
-  "last_checked": "2026-08-07T00:25:12Z",
+  "updated": "2026-08-07T03:30:23Z",
+  "last_checked": "2026-08-07T03:30:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の緊張がFED見通しを曇らせる中、金は横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-1638330",
+      "published": "2026-08-07 00:52:18",
+      "isoDate": "2026-08-07T00:52:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランが米国・イスラエル船のホルムズ海峡通過禁止を検討、原油価格が上昇継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1638328",
+      "published": "2026-08-07 00:46:52",
+      "isoDate": "2026-08-07T00:46:52Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Copper、史上最高値6.859に急接近後に反転警戒：今時間の注目",
@@ -57,43 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1636720",
       "published": "2026-08-06 14:31:30",
       "isoDate": "2026-08-06T14:31:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、供給リスクが外交的期待を上回り2%超反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1635324",
-      "published": "2026-08-06 09:01:23",
-      "isoDate": "2026-08-06T09:01:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Saudi Aramcoが9月向けアジア向けアラブライト原油価格を引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1635291",
-      "published": "2026-08-06 08:50:12",
-      "isoDate": "2026-08-06T08:50:12Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "今日の為替市場ポイント：160円に近づくほどドルの上値は重くなりそう",
-      "link": "https://jp.investing.com/news/forex-news/article-1638101",
-      "published": "2026-08-06 23:15:05",
-      "isoDate": "2026-08-06T23:15:05Z"
+      "title": "個別銘柄戦略: 大和ハウスや任天堂に注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1638235",
+      "published": "2026-08-07 00:15:09",
+      "isoDate": "2026-08-07T00:15:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は下落、対イラン協議の不透明感や早期利上げ観測が強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1638053",
-      "published": "2026-08-06 23:00:06",
-      "isoDate": "2026-08-06T23:00:06Z"
+      "title": "強弱材料 8/7",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638198",
+      "published": "2026-08-07 00:00:07",
+      "isoDate": "2026-08-07T00:00:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY金：反落で4,303.12ドル、ホルムズ海峡情勢の進展でリスク回避後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1638009",
-      "published": "2026-08-06 22:45:05",
-      "isoDate": "2026-08-06T22:45:05Z"
+      "title": "中東リスクを警戒し買い見送りムードが強まるか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638128",
+      "published": "2026-08-06 23:30:06",
+      "isoDate": "2026-08-06T23:30:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,34 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米クラリティー法案、上院採決が9月まで延期＝報道",
+      "link": "https://coinpost.jp/?p=730422",
+      "published": "Fri, 07 Aug 2026 11:28:20 +0900",
+      "isoDate": "2026-08-07T02:28:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "北朝鮮ハッカー、コインベースも標的　1640社侵入＝報道",
+      "link": "https://coinpost.jp/?p=730403",
+      "published": "Fri, 07 Aug 2026 11:15:30 +0900",
+      "isoDate": "2026-08-07T02:15:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、クラリティー法成立なら仮想通貨売却益の納税延期も",
+      "link": "https://coinpost.jp/?p=730333",
+      "published": "Fri, 07 Aug 2026 10:45:32 +0900",
+      "isoDate": "2026-08-07T01:45:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Ondo創業者死去で経営権争いに、母親がCEOを提訴",
+      "link": "https://coinpost.jp/?p=730334",
+      "published": "Fri, 07 Aug 2026 09:32:35 +0900",
+      "isoDate": "2026-08-07T00:32:35Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "メタマスク、AIエージェント向けウォレット先行公開",
       "link": "https://coinpost.jp/?p=730315",
       "published": "Fri, 07 Aug 2026 07:55:29 +0900",
@@ -180,34 +208,6 @@
       "link": "https://coinpost.jp/?p=730250",
       "published": "Thu, 06 Aug 2026 17:00:11 +0900",
       "isoDate": "2026-08-06T08:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "過去の仮想通貨時価総額トップ100銘柄、7割は事実上消滅＝CryptoRank",
-      "link": "https://coinpost.jp/?p=730240",
-      "published": "Thu, 06 Aug 2026 16:26:33 +0900",
-      "isoDate": "2026-08-06T07:26:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハイパーリキッド（HYPE）調査報告書、前四半期の独歩高に注目",
-      "link": "https://coinpost.jp/?p=730186",
-      "published": "Thu, 06 Aug 2026 14:51:38 +0900",
-      "isoDate": "2026-08-06T05:51:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン流出6.58万BTC、売り枯れ指標は接近＝グラスノード",
-      "link": "https://coinpost.jp/?p=730169",
-      "published": "Thu, 06 Aug 2026 14:06:16 +0900",
-      "isoDate": "2026-08-06T05:06:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テラウルフ決算、HPCリース収益が売上高の70%超に",
-      "link": "https://coinpost.jp/?p=730109",
-      "published": "Thu, 06 Aug 2026 11:40:14 +0900",
-      "isoDate": "2026-08-06T02:40:14Z"
     }
   ]
 }
