@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-07T15:59:32Z",
-  "last_checked": "2026-08-07T15:59:32Z",
+  "updated": "2026-08-07T17:02:13Z",
+  "last_checked": "2026-08-07T17:02:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ、第3四半期のブレント原油予測を1バレル80ドルに引き上げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1639603",
+      "published": "2026-08-07 16:27:53",
+      "isoDate": "2026-08-07T16:27:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シタデルのルブナー氏、金への投資再開を推奨",
+      "link": "https://jp.investing.com/news/commodities-news/article-1639576",
+      "published": "2026-08-07 15:48:35",
+      "isoDate": "2026-08-07T15:48:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSは2027年上半期までに金価格が5,000ドル/オンスに達すると予測",
@@ -57,29 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1638330",
       "published": "2026-08-07 00:52:18",
       "isoDate": "2026-08-07T00:52:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡再開への期待を見極める中、原油価格は乱高下",
-      "link": "https://jp.investing.com/news/commodities-news/article-1638328",
-      "published": "2026-08-07 00:46:52",
-      "isoDate": "2026-08-07T00:46:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国の中東産原油輸入、イラン戦争開始以来最高水準に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1637287",
-      "published": "2026-08-06 17:52:02",
-      "isoDate": "2026-08-06T17:52:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル・円200DMAがレジスタンス、ドル下げ止まる、NY原油が反発",
-      "link": "https://jp.investing.com/news/forex-news/article-1639513",
-      "published": "2026-08-07 15:00:04",
-      "isoDate": "2026-08-07T15:00:04Z"
+      "title": "NY外為：ドル売り再開、米7月NY連銀1年インフレ期待率が予想外に低下",
+      "link": "https://jp.investing.com/news/forex-news/article-1639555",
+      "published": "2026-08-07 15:30:04",
+      "isoDate": "2026-08-07T15:30:04Z"
     },
     {
       "source": "Investing.com 外為",
