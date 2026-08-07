@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-07T08:16:54Z",
-  "last_checked": "2026-08-07T08:16:54Z",
+  "updated": "2026-08-07T09:33:18Z",
+  "last_checked": "2026-08-07T09:33:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、週間では2週連続の下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1638718",
+      "published": "2026-08-07 08:26:50",
+      "isoDate": "2026-08-07T08:26:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Brent Oil、ベアフラッグ形成中$83.43付近：最新レベルを確認",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1637282",
       "published": "2026-08-06 17:50:13",
       "isoDate": "2026-08-06T17:50:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドの燃料需要、7月に前年比2.9%増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1636720",
-      "published": "2026-08-06 14:31:30",
-      "isoDate": "2026-08-06T14:31:30Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅続落、アドバンテストやソフトバンクGが2銘柄で約293円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638667",
+      "published": "2026-08-07 08:00:17",
+      "isoDate": "2026-08-07T08:00:17Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "好決算銘柄への買いなどで戻り歩調に【クロージング】",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1635381",
       "published": "2026-08-06 09:30:19",
       "isoDate": "2026-08-06T09:30:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選定したテック系アドバイザリー企業、8月に+23% それでも55%超の上昇余地を示唆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1635034",
-      "published": "2026-08-06 05:45:55",
-      "isoDate": "2026-08-06T05:45:55Z"
     }
   ],
   "btc_items": [
@@ -201,20 +201,6 @@
       "link": "https://coinpost.jp/?p=730315",
       "published": "Fri, 07 Aug 2026 07:55:29 +0900",
       "isoDate": "2026-08-06T22:55:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ウィンターミュート、米証券当局の認可取得で株取引が可能に",
-      "link": "https://coinpost.jp/?p=730316",
-      "published": "Fri, 07 Aug 2026 07:10:31 +0900",
-      "isoDate": "2026-08-06T22:10:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "停滞中の米クラリティー法案、トランプ政権が倫理規定協議に着手",
-      "link": "https://coinpost.jp/?p=730317",
-      "published": "Fri, 07 Aug 2026 06:40:33 +0900",
-      "isoDate": "2026-08-06T21:40:33Z"
     }
   ]
 }
