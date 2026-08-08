@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T14:35:13Z",
-  "last_checked": "2026-08-08T14:35:13Z",
+  "updated": "2026-08-08T15:33:43Z",
+  "last_checked": "2026-08-08T15:33:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "FirebirdがNvidiaチップセット搭載のCIS地域最大AIファクトリーをアルメニアで開設",
+      "link": "https://jp.investing.com/news/general-news/article-1639908",
+      "published": "2026-08-08 14:05:55",
+      "isoDate": "2026-08-08T14:05:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "利上げ局面で株式市場はどう動くか？バークレイズが分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1639903",
       "published": "2026-08-08 13:22:00",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1639236",
       "published": "2026-08-07 12:18:20",
       "isoDate": "2026-08-07T12:18:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの株価が本日乱高下している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639104",
-      "published": "2026-08-07 11:30:05",
-      "isoDate": "2026-08-07T11:30:05Z"
     },
     {
       "source": "Investing.com 外為",
