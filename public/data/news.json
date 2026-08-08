@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T05:01:18Z",
-  "last_checked": "2026-08-08T05:01:18Z",
+  "updated": "2026-08-08T06:06:55Z",
+  "last_checked": "2026-08-08T06:06:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXの株価が本日乱高下している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639104",
+      "published": "2026-08-07 11:30:05",
+      "isoDate": "2026-08-07T11:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅続落、アドバンテストやソフトバンクGが2銘柄で約293円分押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1638667",
       "published": "2026-08-07 08:00:17",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1638485",
       "published": "2026-08-07 06:00:16",
       "isoDate": "2026-08-07T06:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続落、アドバンテストが1銘柄で約381円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1638432",
-      "published": "2026-08-07 03:45:17",
-      "isoDate": "2026-08-07T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
