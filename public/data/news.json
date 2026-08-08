@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T01:55:12Z",
-  "last_checked": "2026-08-08T01:55:12Z",
+  "updated": "2026-08-08T03:37:24Z",
+  "last_checked": "2026-08-08T03:37:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金先物：反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1639799",
-      "published": "2026-08-08 00:30:06",
-      "isoDate": "2026-08-08T00:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円安センチメントが依然として根強い理由とは",
-      "link": "https://jp.investing.com/news/forex-news/article-1639788",
-      "published": "2026-08-07 23:58:39",
-      "isoDate": "2026-08-07T23:58:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Palantirの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639664",
       "published": "2026-08-07 19:07:17",
       "isoDate": "2026-08-07T19:07:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
+      "link": "https://jp.investing.com/news/forex-news/article-1639320",
+      "published": "2026-08-07 13:15:05",
+      "isoDate": "2026-08-07T13:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +125,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は続落、アドバンテストが1銘柄で約381円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1638432",
+      "published": "2026-08-07 03:45:17",
+      "isoDate": "2026-08-07T03:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "個別銘柄戦略: 大和ハウスや任天堂に注目",
       "link": "https://jp.investing.com/news/forex-news/article-1638235",
       "published": "2026-08-07 00:15:09",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "サークル、USDCとCCTPをXレイヤーに導入",
+      "link": "https://coinpost.jp/?p=730607",
+      "published": "Sat, 08 Aug 2026 11:20:33 +0900",
+      "isoDate": "2026-08-08T02:20:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインのeCashフォーク、8月23日から3段階で開始",
