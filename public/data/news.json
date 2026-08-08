@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T08:09:01Z",
-  "last_checked": "2026-08-08T08:09:01Z",
+  "updated": "2026-08-08T09:10:48Z",
+  "last_checked": "2026-08-08T09:10:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：国内企業物価指数、米CPI、米PPI",
+      "link": "https://jp.investing.com/news/forex-news/article-1639879",
+      "published": "2026-08-08 08:00:05",
+      "isoDate": "2026-08-08T08:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：今後は決算内容を吟味した選別物色の動きが強まっていく公算",
       "link": "https://jp.investing.com/news/forex-news/article-1639861",
       "published": "2026-08-08 06:00:05",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1638644",
       "published": "2026-08-07 07:45:14",
       "isoDate": "2026-08-07T07:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "月初来+34%:AI選定の素材株、好決算を受けてさらに22%急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1637922",
-      "published": "2026-08-06 22:07:50",
-      "isoDate": "2026-08-06T22:07:50Z"
     }
   ],
   "btc_items": [
