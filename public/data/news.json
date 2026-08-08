@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T13:50:37Z",
-  "last_checked": "2026-08-08T13:50:37Z",
+  "updated": "2026-08-08T14:35:13Z",
+  "last_checked": "2026-08-08T14:35:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "利上げ局面で株式市場はどう動くか？バークレイズが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639903",
+      "published": "2026-08-08 13:22:00",
+      "isoDate": "2026-08-08T13:22:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "トルコ、攻撃を受け黒海への商業船舶の通行を制限",
       "link": "https://jp.investing.com/news/general-news/article-1639894",
       "published": "2026-08-08 10:47:30",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639664",
       "published": "2026-08-07 19:07:17",
       "isoDate": "2026-08-07T19:07:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
-      "link": "https://jp.investing.com/news/forex-news/article-1639320",
-      "published": "2026-08-07 13:15:05",
-      "isoDate": "2026-08-07T13:15:05Z"
     },
     {
       "source": "Investing.com 外為",
