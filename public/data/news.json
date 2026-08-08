@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T10:03:15Z",
-  "last_checked": "2026-08-08T10:03:15Z",
+  "updated": "2026-08-08T11:01:42Z",
+  "last_checked": "2026-08-08T11:01:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "為替週間見通し：ドルは底堅い展開か、日米協調介入による急落の反動でドルに買戻し",
-      "link": "https://jp.investing.com/news/forex-news/article-1639863",
-      "published": "2026-08-08 06:00:05",
-      "isoDate": "2026-08-08T06:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株式市場見通し：雇用統計の下振れを受けインフレ指標への警戒感は後退",
       "link": "https://jp.investing.com/news/forex-news/article-1639859",
       "published": "2026-08-08 06:00:03",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1639236",
       "published": "2026-08-07 12:18:20",
       "isoDate": "2026-08-07T12:18:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価が本日乱高下している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639104",
+      "published": "2026-08-07 11:30:05",
+      "isoDate": "2026-08-07T11:30:05Z"
     },
     {
       "source": "Investing.com 外為",
