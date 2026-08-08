@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T03:37:24Z",
-  "last_checked": "2026-08-08T03:37:24Z",
+  "updated": "2026-08-08T05:01:18Z",
+  "last_checked": "2026-08-08T05:01:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY金先物：反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1639799",
+      "published": "2026-08-08 00:30:06",
+      "isoDate": "2026-08-08T00:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Palantirの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639664",
       "published": "2026-08-07 19:07:17",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "個別銘柄戦略: 大和ハウスや任天堂に注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1638235",
-      "published": "2026-08-07 00:15:09",
-      "isoDate": "2026-08-07T00:15:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "月初来+34%:AI選定の素材株、好決算を受けてさらに22%急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1637922",
       "published": "2026-08-06 22:07:50",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ブラジル中銀、仮想通貨送金に最大24時間の遅延義務付け",
+      "link": "https://coinpost.jp/?p=730620",
+      "published": "Sat, 08 Aug 2026 14:00:04 +0900",
+      "isoDate": "2026-08-08T05:00:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア当局、ウクライナ発詐欺に関与した違法仮想通貨交換所を摘発　20人超拘束",
+      "link": "https://coinpost.jp/?p=730609",
+      "published": "Sat, 08 Aug 2026 13:00:12 +0900",
+      "isoDate": "2026-08-08T04:00:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "サークル、USDCとCCTPをXレイヤーに導入",
@@ -215,20 +229,6 @@
       "link": "https://coinpost.jp/?p=730501",
       "published": "Fri, 07 Aug 2026 16:44:11 +0900",
       "isoDate": "2026-08-07T07:44:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ一族関連USD1、バイナンス累計取引高500億ドル突破＝アナリスト",
-      "link": "https://coinpost.jp/?p=730478",
-      "published": "Fri, 07 Aug 2026 14:41:15 +0900",
-      "isoDate": "2026-08-07T05:41:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リミックスポイント、仮想通貨運用益が累計約1.6億円に",
-      "link": "https://coinpost.jp/?p=730467",
-      "published": "Fri, 07 Aug 2026 13:54:43 +0900",
-      "isoDate": "2026-08-07T04:54:43Z"
     }
   ]
 }
