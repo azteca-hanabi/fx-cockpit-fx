@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T17:34:25Z",
-  "last_checked": "2026-08-08T17:34:25Z",
+  "updated": "2026-08-08T18:42:52Z",
+  "last_checked": "2026-08-08T18:42:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaのバリュエーションはAI需要急増にもかかわらず10年ぶりの低水準＝BofA",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639911",
+      "published": "2026-08-08 17:22:56",
+      "isoDate": "2026-08-08T17:22:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "FirebirdがNvidiaチップセット搭載のCIS地域最大AIファクトリーをアルメニアで開設",
       "link": "https://jp.investing.com/news/general-news/article-1639908",
       "published": "2026-08-08 14:05:55",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1639879",
       "published": "2026-08-08 08:00:05",
       "isoDate": "2026-08-08T08:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：今後は決算内容を吟味した選別物色の動きが強まっていく公算",
-      "link": "https://jp.investing.com/news/forex-news/article-1639861",
-      "published": "2026-08-08 06:00:05",
-      "isoDate": "2026-08-08T06:00:05Z"
     },
     {
       "source": "Investing.com 外為",
