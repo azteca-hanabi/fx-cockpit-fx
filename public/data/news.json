@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T23:37:03Z",
-  "last_checked": "2026-08-07T23:37:03Z",
+  "updated": "2026-08-08T01:55:12Z",
+  "last_checked": "2026-08-08T01:55:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米7月雇用統計で予想外に雇用が減少",
-      "link": "https://jp.investing.com/news/forex-news/article-1639760",
-      "published": "2026-08-07 21:45:04",
-      "isoDate": "2026-08-07T21:45:04Z"
+      "title": "NY金先物：反発、弱い米雇用統計でFRB利下げ観測が強まりドル安・金利低下が支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1639799",
+      "published": "2026-08-08 00:30:06",
+      "isoDate": "2026-08-08T00:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "円安センチメントが依然として根強い理由とは",
+      "link": "https://jp.investing.com/news/forex-news/article-1639788",
+      "published": "2026-08-07 23:58:39",
+      "isoDate": "2026-08-07T23:58:39Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1639664",
       "published": "2026-08-07 19:07:17",
       "isoDate": "2026-08-07T19:07:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米7月雇用統計はネガティブサプライズで利上げ観測後退、ドル売り加速",
-      "link": "https://jp.investing.com/news/forex-news/article-1639320",
-      "published": "2026-08-07 13:15:05",
-      "isoDate": "2026-08-07T13:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインのeCashフォーク、8月23日から3段階で開始",
+      "link": "https://coinpost.jp/?p=730586",
+      "published": "Sat, 08 Aug 2026 10:30:29 +0900",
+      "isoDate": "2026-08-08T01:30:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クリーンスパーク26年4-6月期決算、売上高30%減　BTC評価損で純損失",
+      "link": "https://coinpost.jp/?p=730592",
+      "published": "Sat, 08 Aug 2026 09:55:38 +0900",
+      "isoDate": "2026-08-08T00:55:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ・メディア、クリプトドットコムとの仮想通貨事業を縮小",
+      "link": "https://coinpost.jp/?p=730563",
+      "published": "Sat, 08 Aug 2026 09:35:00 +0900",
+      "isoDate": "2026-08-08T00:35:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハッキングされたビットコイン専門ウォレットのコールドカード、データの取扱方針を一時変更",
@@ -201,20 +222,6 @@
       "link": "https://coinpost.jp/?p=730467",
       "published": "Fri, 07 Aug 2026 13:54:43 +0900",
       "isoDate": "2026-08-07T04:54:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米クラリティー法案、上院採決が9月まで延期＝報道",
-      "link": "https://coinpost.jp/?p=730422",
-      "published": "Fri, 07 Aug 2026 11:28:20 +0900",
-      "isoDate": "2026-08-07T02:28:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "北朝鮮ハッカー、コインベースも標的　1640社侵入＝報道",
-      "link": "https://coinpost.jp/?p=730403",
-      "published": "Fri, 07 Aug 2026 11:15:30 +0900",
-      "isoDate": "2026-08-07T02:15:30Z"
     }
   ]
 }
