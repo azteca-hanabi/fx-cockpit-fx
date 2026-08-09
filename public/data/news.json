@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T02:02:39Z",
-  "last_checked": "2026-08-09T02:02:39Z",
+  "updated": "2026-08-09T03:59:15Z",
+  "last_checked": "2026-08-09T03:59:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=730494",
+      "published": "Sun, 09 Aug 2026 11:30:43 +0900",
+      "isoDate": "2026-08-09T02:30:43Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "週刊仮想通貨ニュース（8/7）｜スペースX決算・相場分析・金融庁の規制対応のまとめ",
       "link": "https://coinpost.jp/?p=730414",
       "published": "Sun, 09 Aug 2026 09:25:52 +0900",
@@ -229,13 +236,6 @@
       "link": "https://coinpost.jp/?p=730554",
       "published": "Sat, 08 Aug 2026 05:00:06 +0900",
       "isoDate": "2026-08-07T20:00:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、暗号資産交換業者等17分野でサイバー報告様式統一",
-      "link": "https://coinpost.jp/?p=730501",
-      "published": "Fri, 07 Aug 2026 16:44:11 +0900",
-      "isoDate": "2026-08-07T07:44:11Z"
     }
   ]
 }
