@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T08:48:57Z",
-  "last_checked": "2026-08-09T08:48:57Z",
+  "updated": "2026-08-09T09:43:53Z",
+  "last_checked": "2026-08-09T09:43:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アナリストのAI関連主要動向5選：この銘柄の下落は「絶好の買い場」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639954",
+      "published": "2026-08-09 09:05:02",
+      "isoDate": "2026-08-09T09:05:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "好決算が米国株の記録的な上昇への懸念を和らげる＝WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1639945",
       "published": "2026-08-09 06:38:20",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/general-news/article-1639894",
       "published": "2026-08-08 10:47:30",
       "isoDate": "2026-08-08T10:47:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティ、マイクロンテクノロジーの目標株価を引き下げ―メモリ価格は2027年第2四半期にピークと予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639236",
-      "published": "2026-08-07 12:18:20",
-      "isoDate": "2026-08-07T12:18:20Z"
     }
   ],
   "btc_items": [
