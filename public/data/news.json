@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T10:38:41Z",
-  "last_checked": "2026-08-09T10:38:41Z",
+  "updated": "2026-08-09T11:33:09Z",
+  "last_checked": "2026-08-09T11:33:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "今週のウォール街アナリスト注目コール",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639957",
-      "published": "2026-08-09 10:05:02",
-      "isoDate": "2026-08-09T10:05:02Z"
+      "title": "アップル、AI需要によるメモリ不足緩和へ中国CXMTのチップをテスト中――WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639963",
+      "published": "2026-08-09 11:10:53",
+      "isoDate": "2026-08-09T11:10:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ホルムズ海峡再開後に注目すべき5つの重要要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1639959",
+      "published": "2026-08-09 10:29:47",
+      "isoDate": "2026-08-09T10:29:47Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1639954",
       "published": "2026-08-09 09:05:02",
       "isoDate": "2026-08-09T09:05:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、ETF資金流入がフォーク懸念を相殺する中で6万5000ドルを下回る",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1639952",
-      "published": "2026-08-09 08:51:48",
-      "isoDate": "2026-08-09T08:51:48Z"
     },
     {
       "source": "Investing.com 外為",
