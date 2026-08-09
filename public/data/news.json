@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T16:39:56Z",
-  "last_checked": "2026-08-09T16:39:56Z",
+  "updated": "2026-08-09T17:34:44Z",
+  "last_checked": "2026-08-09T17:34:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ウォーシュ氏、FRBの市場への関与縮小を志向",
+      "link": "https://jp.investing.com/news/economy-news/article-1639980",
+      "published": "2026-08-09 16:01:07",
+      "isoDate": "2026-08-09T16:01:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIの収益急落で最も打撃を受ける経済圏とセクターはどこか",
       "link": "https://jp.investing.com/news/economy-news/article-1639968",
       "published": "2026-08-09 12:57:12",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1639963",
       "published": "2026-08-09 11:10:53",
       "isoDate": "2026-08-09T11:10:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホルムズ海峡再開後に注目すべき5つの重要要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1639959",
-      "published": "2026-08-09 10:29:47",
-      "isoDate": "2026-08-09T10:29:47Z"
     },
     {
       "source": "Investing.com 外為",
