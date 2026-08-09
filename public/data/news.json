@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T21:36:36Z",
-  "last_checked": "2026-08-09T21:36:36Z",
+  "updated": "2026-08-09T22:35:12Z",
+  "last_checked": "2026-08-09T22:35:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "7日のNY市場は反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639984",
+      "published": "2026-08-09 21:45:02",
+      "isoDate": "2026-08-09T21:45:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ウォーシュ氏、FRBの市場への関与縮小を志向",
       "link": "https://jp.investing.com/news/economy-news/article-1639980",
       "published": "2026-08-09 16:01:07",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1639935",
       "published": "2026-08-09 03:22:32",
       "isoDate": "2026-08-09T03:22:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのバリュエーションはAI需要急増にもかかわらず10年ぶりの低水準＝BofA",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1639911",
-      "published": "2026-08-08 17:22:56",
-      "isoDate": "2026-08-08T17:22:56Z"
     }
   ],
   "btc_items": [
