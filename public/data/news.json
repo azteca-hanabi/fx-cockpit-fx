@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T11:33:09Z",
-  "last_checked": "2026-08-09T11:33:09Z",
+  "updated": "2026-08-09T12:59:20Z",
+  "last_checked": "2026-08-09T12:59:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "次回のCPI報告が先週の雇用統計より重要な理由",
+      "link": "https://jp.investing.com/news/economy-news/article-1639967",
+      "published": "2026-08-09 12:00:01",
+      "isoDate": "2026-08-09T12:00:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIブームが生むテクノロジー株の変動率、ドットコムバブル崩壊期以来の高水準に＝UBS",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1639965",
+      "published": "2026-08-09 11:35:17",
+      "isoDate": "2026-08-09T11:35:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アップル、AI需要によるメモリ不足緩和へ中国CXMTのチップをテスト中――WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1639963",
       "published": "2026-08-09 11:10:53",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1639935",
       "published": "2026-08-09 03:22:32",
       "isoDate": "2026-08-09T03:22:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国防総省、防衛企業に兵器生産の加速を要請",
-      "link": "https://jp.investing.com/news/economy-news/article-1639926",
-      "published": "2026-08-09 00:38:48",
-      "isoDate": "2026-08-09T00:38:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ユーロ円で日米友好介入【フィスコ・コラム】",
-      "link": "https://jp.investing.com/news/forex-news/article-1639925",
-      "published": "2026-08-09 00:15:03",
-      "isoDate": "2026-08-09T00:15:03Z"
     },
     {
       "source": "Investing.com 外為",
