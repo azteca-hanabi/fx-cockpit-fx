@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-10T17:26:37Z",
-  "last_checked": "2026-08-10T17:26:37Z",
+  "updated": "2026-08-10T18:25:25Z",
+  "last_checked": "2026-08-10T18:25:25Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ナイジェリアの石油生産者、国内供給目標の97%を達成",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641581",
+      "published": "2026-08-10 18:22:07",
+      "isoDate": "2026-08-10T18:22:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージン、1バレルあたり約3.50ドル上昇",
@@ -64,16 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
       "published": "2026-08-10 07:12:14",
       "isoDate": "2026-08-10T07:12:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、雲の中で膠着-$85.22突破が鍵：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-10 07:12:13",
-      "isoDate": "2026-08-10T07:12:13Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル、150億ドルの株式公募で大手ファウンドリー顧客獲得が間近との見方",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1641538",
+      "published": "2026-08-10 17:02:08",
+      "isoDate": "2026-08-10T17:02:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidiaとウォール街の大手金融機関、5000億ドルのAI資金調達計画＝FT報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1641525",
+      "published": "2026-08-10 16:49:10",
+      "isoDate": "2026-08-10T16:49:10Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "マイクロソフト、次世代AIチップ「Maia 300」を9月に発表へ",
@@ -104,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテル、150億ドルの普通株公募を提案",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1640787",
-      "published": "2026-08-10 11:52:06",
-      "isoDate": "2026-08-10T11:52:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "MetaのMuse Glimmer発表とAIビジョンで株価が2.4%上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1640782",
       "published": "2026-08-10 11:49:26",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1640533",
       "published": "2026-08-10 10:39:40",
       "isoDate": "2026-08-10T10:39:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "JPモルガン・チェース・アンド・カンパニー、好調な業績を背景にS&P 500目標を8,000に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1640527",
-      "published": "2026-08-10 10:33:03",
-      "isoDate": "2026-08-10T10:33:03Z"
     },
     {
       "source": "Investing.com 外為",
