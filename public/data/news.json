@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-10T19:32:32Z",
-  "last_checked": "2026-08-10T19:32:32Z",
+  "updated": "2026-08-10T20:48:34Z",
+  "last_checked": "2026-08-10T20:48:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物、USDA需給報告を前に上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641619",
+      "published": "2026-08-10 20:01:31",
+      "isoDate": "2026-08-10T20:01:31Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、61.8%フィボナッチ目前で急反落リスク：今すぐ確認",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641253",
       "published": "2026-08-10 14:00:47",
       "isoDate": "2026-08-10T14:00:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "カザフスタンの石油生産量、テンギス油田の回復で40%急増",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641251",
-      "published": "2026-08-10 13:59:59",
-      "isoDate": "2026-08-10T13:59:59Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Palantirが$176超で過熱、急反落リスク：毎時更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641310",
-      "published": "2026-08-10 19:13:27",
-      "isoDate": "2026-08-10T19:13:27Z"
+      "title": "ロケット・ラボ、世界展開可能なコンテナ型発射システム「GHOST」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1641650",
+      "published": "2026-08-10 20:12:02",
+      "isoDate": "2026-08-10T20:12:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがAIインフラ向けに6社の金融機関と提携、5000億ドル超の資金調達へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1641651",
+      "published": "2026-08-10 20:09:09",
+      "isoDate": "2026-08-10T20:09:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,14 +97,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NVIDIAが219ドル付近で踊り場―調整リスク高まる：毎時更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641289",
-      "published": "2026-08-10 19:11:56",
-      "isoDate": "2026-08-10T19:11:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidiaとウォール街の大手金融機関、5000億ドルのAI資金調達計画＝FT報道",
+      "title": "Nvidiaとウォール街の大手が5000億ドルのAIインフラ巨大契約を締結",
       "link": "https://jp.investing.com/news/stock-market-news/article-1641525",
       "published": "2026-08-10 16:49:10",
       "isoDate": "2026-08-10T16:49:10Z"
@@ -111,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXが月曜日の時間外取引でIPO価格135ドルを奪還",
+      "title": "SpaceX株、IPO価格135ドルを奪還し月曜引け後も上昇継続",
       "link": "https://jp.investing.com/news/stock-market-news/article-1641017",
       "published": "2026-08-10 12:47:40",
       "isoDate": "2026-08-10T12:47:40Z"
