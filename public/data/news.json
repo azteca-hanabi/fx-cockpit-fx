@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T14:36:55Z",
-  "last_checked": "2026-08-10T14:36:55Z",
+  "updated": "2026-08-10T16:02:27Z",
+  "last_checked": "2026-08-10T16:02:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY外為：ドル反発、米イラン協議不透明感で原油や金利が上昇",
+      "link": "https://jp.investing.com/news/forex-news/article-1641252",
+      "published": "2026-08-10 14:00:05",
+      "isoDate": "2026-08-10T14:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロソフト、次世代AIチップ「Maia 300」を9月に発表へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1641191",
       "published": "2026-08-10 13:34:32",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1640884",
       "published": "2026-08-10 12:15:22",
       "isoDate": "2026-08-10T12:15:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル、150億ドルの普通株公募を提案",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1640787",
-      "published": "2026-08-10 11:52:06",
-      "isoDate": "2026-08-10T11:52:06Z"
     },
     {
       "source": "Investing.com 外為",
