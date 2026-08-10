@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T21:46:19Z",
-  "last_checked": "2026-08-10T21:46:19Z",
+  "updated": "2026-08-10T22:41:44Z",
+  "last_checked": "2026-08-10T22:41:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米イラン交渉の行方が不透明となりNY原油価格が上昇",
+      "link": "https://jp.investing.com/news/forex-news/article-1641925",
+      "published": "2026-08-10 21:45:04",
+      "isoDate": "2026-08-10T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ロケット・ラブ、売上高は過去最高も1株利益は予想を下回る",
       "link": "https://jp.investing.com/news/earnings/article-1641828",
       "published": "2026-08-10 21:02:57",
       "isoDate": "2026-08-10T21:02:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AST SpaceMobile、第2四半期売上高3,150万ドルを計上——ベータサービス開始へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1641756",
-      "published": "2026-08-10 20:32:06",
-      "isoDate": "2026-08-10T20:32:06Z"
     },
     {
       "source": "Investing.com 外為",
