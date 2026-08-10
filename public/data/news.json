@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-10T07:50:51Z",
-  "last_checked": "2026-08-10T07:50:51Z",
+  "updated": "2026-08-10T09:26:43Z",
+  "last_checked": "2026-08-10T09:26:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の不透明感が供給期待を打ち砕き、欧州天然ガス価格が2%超反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1640360",
+      "published": "2026-08-10 08:31:03",
+      "isoDate": "2026-08-10T08:31:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Gold、RSI77超で過熱警戒：最新レベルを確認",
@@ -64,22 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629733",
       "published": "2026-08-07 19:18:34",
       "isoDate": "2026-08-07T19:18:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、強気ブレイクアウトで63.77到達：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629727",
-      "published": "2026-08-07 19:17:55",
-      "isoDate": "2026-08-07T19:17:55Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は堅調、午後は上昇基調に",
-      "link": "https://jp.investing.com/news/forex-news/article-1640282",
-      "published": "2026-08-10 07:15:15",
-      "isoDate": "2026-08-10T07:15:15Z"
+      "title": "欧米為替見通し:ドル・円は戻りが鈍いか、ドルに買戻しも材料難で",
+      "link": "https://jp.investing.com/news/forex-news/article-1640359",
+      "published": "2026-08-10 08:30:17",
+      "isoDate": "2026-08-10T08:30:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は堅調、夕方に一段高",
+      "link": "https://jp.investing.com/news/forex-news/article-1640358",
+      "published": "2026-08-10 08:30:16",
+      "isoDate": "2026-08-10T08:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、2026年は自社株買いが株式供給を上回ると予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1640350",
+      "published": "2026-08-10 08:22:02",
+      "isoDate": "2026-08-10T08:22:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランが新たな要求を提示、バークシャー・ハサウェイの決算―市場の動向",
+      "link": "https://jp.investing.com/news/economy-news/article-1640333",
+      "published": "2026-08-10 07:58:16",
+      "isoDate": "2026-08-10T07:58:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は上昇一服、高値圏を維持",
-      "link": "https://jp.investing.com/news/forex-news/article-1640252",
-      "published": "2026-08-10 07:00:17",
-      "isoDate": "2026-08-10T07:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は小高い、本日高値を更新",
       "link": "https://jp.investing.com/news/forex-news/article-1640135",
       "published": "2026-08-10 05:15:14",
       "isoDate": "2026-08-10T05:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：伸び悩みか、今週のインフレ指標に注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1640131",
-      "published": "2026-08-10 05:00:16",
-      "isoDate": "2026-08-10T05:00:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1640111",
       "published": "2026-08-10 04:00:15",
       "isoDate": "2026-08-10T04:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅反発、アドバンテストとリクルートHDの2銘柄で約699円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1640102",
-      "published": "2026-08-10 03:45:17",
-      "isoDate": "2026-08-10T03:45:17Z"
     },
     {
       "source": "Investing.com 外為",
