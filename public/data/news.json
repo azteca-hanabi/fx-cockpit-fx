@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-10T13:17:49Z",
-  "last_checked": "2026-08-10T13:17:49Z",
+  "updated": "2026-08-10T14:36:55Z",
+  "last_checked": "2026-08-10T14:36:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数、ケープサイズ運賃下落で小幅安",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641253",
+      "published": "2026-08-10 14:00:47",
+      "isoDate": "2026-08-10T14:00:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "カザフスタンの石油生産量、テンギス油田の回復で40%急増",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641251",
+      "published": "2026-08-10 13:59:59",
+      "isoDate": "2026-08-10T13:59:59Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "イラク、9月のアジア向け原油公式販売価格を引き上げ",
@@ -53,40 +67,40 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金、7週間ぶり高値から反落―イラン情勢と米CPIデータを注視",
+      "title": "金価格、7週間ぶり高値から下落——イラン情勢とCPIデータを警戒",
       "link": "https://jp.investing.com/news/commodities-news/article-1640123",
       "published": "2026-08-10 04:29:54",
       "isoDate": "2026-08-10T04:29:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の不確実性が供給リスクを高め、原油価格が小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1640026",
-      "published": "2026-08-10 00:55:57",
-      "isoDate": "2026-08-10T00:55:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$82.59で高摩擦ゾーン膠着：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1629728",
-      "published": "2026-08-07 19:18:48",
-      "isoDate": "2026-08-07T19:18:48Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インテル株、150億ドルの大型株式公募発表後に下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1640884",
-      "published": "2026-08-10 12:15:22",
-      "isoDate": "2026-08-10T12:15:22Z"
+      "title": "マイクロソフト、次世代AIチップ「Maia 300」を9月に発表へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1641191",
+      "published": "2026-08-10 13:34:32",
+      "isoDate": "2026-08-10T13:34:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Nanox.AIがインテルCore Ultra向けに医療画像AIを最適化",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1640874",
-      "published": "2026-08-10 12:12:02",
-      "isoDate": "2026-08-10T12:12:02Z"
+      "title": "SpaceXが月曜日の時間外取引でIPO価格135ドルを奪還",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1641017",
+      "published": "2026-08-10 12:47:40",
+      "isoDate": "2026-08-10T12:47:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト株のセットアップは「非常に強い」とバーンスタインが評価",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1640966",
+      "published": "2026-08-10 12:34:16",
+      "isoDate": "2026-08-10T12:34:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株、150億ドルの大型増資発表を受け下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1640884",
+      "published": "2026-08-10 12:15:22",
+      "isoDate": "2026-08-10T12:15:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,24 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は失速、節目の水準を意識",
-      "link": "https://jp.investing.com/news/forex-news/article-1640638",
-      "published": "2026-08-10 11:15:10",
-      "isoDate": "2026-08-10T11:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "インテル、普通株の新規募集を申請",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1640600",
       "published": "2026-08-10 11:05:02",
       "isoDate": "2026-08-10T11:05:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ジェフリーズ、高価格iPhoneの計画難航でアップルを格下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1640579",
-      "published": "2026-08-10 10:54:44",
-      "isoDate": "2026-08-10T10:54:44Z"
     },
     {
       "source": "Investing.com 外為",
