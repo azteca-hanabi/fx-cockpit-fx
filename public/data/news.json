@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-10T16:02:27Z",
-  "last_checked": "2026-08-10T16:02:27Z",
+  "updated": "2026-08-10T17:26:37Z",
+  "last_checked": "2026-08-10T17:26:37Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、1バレルあたり約3.50ドル上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641518",
+      "published": "2026-08-10 16:37:01",
+      "isoDate": "2026-08-10T16:37:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、ケープサイズ運賃下落で小幅安",
@@ -64,23 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
       "published": "2026-08-10 07:12:13",
       "isoDate": "2026-08-10T07:12:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、7週間ぶり高値から下落——イラン情勢とCPIデータを警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-1640123",
-      "published": "2026-08-10 04:29:54",
-      "isoDate": "2026-08-10T04:29:54Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル反発、米イラン協議不透明感で原油や金利が上昇",
-      "link": "https://jp.investing.com/news/forex-news/article-1641252",
-      "published": "2026-08-10 14:00:05",
-      "isoDate": "2026-08-10T14:00:05Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "マイクロソフト、次世代AIチップ「Maia 300」を9月に発表へ",
@@ -108,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1640884",
       "published": "2026-08-10 12:15:22",
       "isoDate": "2026-08-10T12:15:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル、150億ドルの普通株公募を提案",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1640787",
+      "published": "2026-08-10 11:52:06",
+      "isoDate": "2026-08-10T11:52:06Z"
     },
     {
       "source": "Investing.com 外為",
