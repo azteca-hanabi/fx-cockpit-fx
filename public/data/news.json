@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-11T04:01:31Z",
-  "last_checked": "2026-08-11T04:01:31Z",
+  "updated": "2026-08-11T05:36:10Z",
+  "last_checked": "2026-08-11T05:36:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が10週ぶり高値、FOMOと中国需要が上昇を後押し",
+      "title": "金価格が2カ月超ぶり高値、イラン協議と米インフレに注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1642106",
       "published": "2026-08-11 01:09:56",
       "isoDate": "2026-08-11T01:09:56Z"
@@ -76,21 +76,21 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は高値圏、ドル買い継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1642144",
-      "published": "2026-08-11 03:00:06",
-      "isoDate": "2026-08-11T03:00:06Z"
+      "title": "東京為替：ドル・円は底堅い、ドル売りは後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1642158",
+      "published": "2026-08-11 04:00:04",
+      "isoDate": "2026-08-11T04:00:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は一時158円台、上値で売り",
-      "link": "https://jp.investing.com/news/forex-news/article-1642111",
-      "published": "2026-08-11 01:30:06",
-      "isoDate": "2026-08-11T01:30:06Z"
+      "title": "アジア株式市場はまちまち、韓国が上昇・中国は下落——RBA決定に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642155",
+      "published": "2026-08-11 03:33:41",
+      "isoDate": "2026-08-11T03:33:41Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格が10週ぶり高値、FOMOと中国需要が上昇を後押し",
+      "title": "金価格が2カ月超ぶり高値、イラン協議と米インフレに注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1642106",
       "published": "2026-08-11 01:09:56",
       "isoDate": "2026-08-11T01:09:56Z"
