@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-11T07:14:25Z",
-  "last_checked": "2026-08-11T07:14:25Z",
+  "updated": "2026-08-11T08:30:19Z",
+  "last_checked": "2026-08-11T08:30:19Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が$83.45で強気継続、過熱感に注意：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
+      "published": "2026-08-11 07:08:58",
+      "isoDate": "2026-08-11T07:08:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver急騰後の押し目形成、$63台が焦点：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
+      "published": "2026-08-11 07:08:52",
+      "isoDate": "2026-08-11T07:08:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、フィボナッチ50%戻し目前で攻防：今時間の水準は？",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
+      "published": "2026-08-11 07:08:51",
+      "isoDate": "2026-08-11T07:08:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、雲の中で方向感喪失―6.57サポート攻防：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
+      "published": "2026-08-11 07:08:49",
+      "isoDate": "2026-08-11T07:08:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,495でピンバー反落サイン：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
+      "published": "2026-08-11 07:08:09",
+      "isoDate": "2026-08-11T07:08:09Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格が2カ月超ぶり高値、イラン協議と米インフレに注目",
@@ -32,41 +67,6 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "WTI原油、61.8%フィボナッチ目前で急反落リスク：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
-      "published": "2026-08-10 19:12:26",
-      "isoDate": "2026-08-10T19:12:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、BB上限突破で急反転リスク浮上：今時間の水準は",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-10 19:12:23",
-      "isoDate": "2026-08-10T19:12:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、SMA(20)とSuperTrendの狭間で膠着：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
-      "published": "2026-08-10 19:12:18",
-      "isoDate": "2026-08-10T19:12:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、SMA(20)から4.65%上方乖離で過熱：最新レベルを確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
-      "published": "2026-08-10 19:12:07",
-      "isoDate": "2026-08-10T19:12:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、RSI79.7で天井圏に到達：毎時更新ライブ分析",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
-      "published": "2026-08-10 19:12:03",
-      "isoDate": "2026-08-10T19:12:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
       "title": "銀スポット価格が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641596",
       "published": "2026-08-10 19:05:31",
@@ -76,24 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は下げ渋り、午後は底堅い",
+      "link": "https://jp.investing.com/news/forex-news/article-1642236",
+      "published": "2026-08-11 07:15:03",
+      "isoDate": "2026-08-11T07:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル、株式公募を200億ドルに増額――時間外取引で株価上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642219",
+      "published": "2026-08-11 06:51:06",
+      "isoDate": "2026-08-11T06:51:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インテル、200億ドルの株式公募を1株95ドルで価格設定",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1642217",
       "published": "2026-08-11 06:43:01",
       "isoDate": "2026-08-11T06:43:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は変わらず、原油・米金利にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1642200",
-      "published": "2026-08-11 06:15:04",
-      "isoDate": "2026-08-11T06:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、ホルムズ海峡協議の期待後退とStrategyの売却で6万4000ドル割れ",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1642202",
-      "published": "2026-08-11 06:13:03",
-      "isoDate": "2026-08-11T06:13:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,10 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア通貨と米ドルは小動き、米CPIを控え；RBAは金利据え置き",
-      "link": "https://jp.investing.com/news/forex-news/article-1642178",
-      "published": "2026-08-11 05:14:46",
-      "isoDate": "2026-08-11T05:14:46Z"
+      "title": "米国株見通し：弱含みか、中東情勢の混迷を嫌気",
+      "link": "https://jp.investing.com/news/forex-news/article-1642148",
+      "published": "2026-08-11 03:15:04",
+      "isoDate": "2026-08-11T03:15:04Z"
     },
     {
       "source": "Investing.com 外為",
