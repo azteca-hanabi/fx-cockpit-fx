@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-11T16:24:25Z",
-  "last_checked": "2026-08-11T16:24:25Z",
+  "updated": "2026-08-11T17:29:08Z",
+  "last_checked": "2026-08-11T17:29:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "チリの銅生産量、2026年は2.6%減少とコチルコが予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1643397",
+      "published": "2026-08-11 17:05:00",
+      "isoDate": "2026-08-11T17:05:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ShellとEquinorがWTI MidlandカーゴをTotalに売却",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1643396",
+      "published": "2026-08-11 17:03:32",
+      "isoDate": "2026-08-11T17:03:32Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "EUの軟質小麦輸出、8月9日時点で101万トンに減少",
@@ -57,43 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1642036",
       "published": "2026-08-11 00:00:07",
       "isoDate": "2026-08-11T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランに賠償を要求、原油価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641820",
-      "published": "2026-08-10 21:01:31",
-      "isoDate": "2026-08-10T21:01:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物、USDA需給報告を前に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641619",
-      "published": "2026-08-10 20:01:31",
-      "isoDate": "2026-08-10T20:01:31Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk、ベア・フラッグ継続中-$1,412が反転の鍵：毎時更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641287",
-      "published": "2026-08-11 14:11:36",
-      "isoDate": "2026-08-11T14:11:36Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "エヌビディアの5000億ドル民間資本取引、最大の勝者は誰か",
       "link": "https://jp.investing.com/news/stock-market-news/article-1642924",
       "published": "2026-08-11 13:00:32",
       "isoDate": "2026-08-11T13:00:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米・ADP週雇用統計は半年ぶりの低水準、ドル軟調",
-      "link": "https://jp.investing.com/news/forex-news/article-1642912",
-      "published": "2026-08-11 13:00:02",
-      "isoDate": "2026-08-11T13:00:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +115,20 @@
       "link": "https://jp.investing.com/news/economy-news/article-1642298",
       "published": "2026-08-11 07:58:36",
       "isoDate": "2026-08-11T07:58:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ベトナムのVinSpace、2027年にSpaceXと打ち上げ契約を締結",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642184",
+      "published": "2026-08-11 05:40:45",
+      "isoDate": "2026-08-11T05:40:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：弱含みか、中東情勢の混迷を嫌気",
+      "link": "https://jp.investing.com/news/forex-news/article-1642148",
+      "published": "2026-08-11 03:15:04",
+      "isoDate": "2026-08-11T03:15:04Z"
     },
     {
       "source": "Investing.com 外為",
