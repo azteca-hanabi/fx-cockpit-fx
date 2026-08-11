@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-10T23:38:52Z",
-  "last_checked": "2026-08-10T23:38:52Z",
+  "updated": "2026-08-11T02:01:59Z",
+  "last_checked": "2026-08-11T02:01:59Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が10週ぶり高値、FOMOと中国需要が上昇を後押し",
+      "link": "https://jp.investing.com/news/commodities-news/article-1642106",
+      "published": "2026-08-11 01:09:56",
+      "isoDate": "2026-08-11T01:09:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡合意への期待後退で原油価格は急騰後に安定",
+      "link": "https://jp.investing.com/news/commodities-news/article-1642036",
+      "published": "2026-08-11 00:00:07",
+      "isoDate": "2026-08-11T00:00:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ大統領がイランに賠償を要求、原油価格が上昇",
@@ -57,36 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641596",
       "published": "2026-08-10 19:05:31",
       "isoDate": "2026-08-10T19:05:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ナイジェリアの石油生産者、国内供給目標の97%を達成",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641581",
-      "published": "2026-08-10 18:22:07",
-      "isoDate": "2026-08-10T18:22:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西ヨーロッパのガソリン精製マージン、1バレルあたり約3.50ドル上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1641518",
-      "published": "2026-08-10 16:37:01",
-      "isoDate": "2026-08-10T16:37:01Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "10日の米国市場ダイジェスト：米国株式市場は反落、原油価格や金利の上昇を嫌気",
-      "link": "https://jp.investing.com/news/forex-news/article-1641978",
-      "published": "2026-08-10 22:15:04",
-      "isoDate": "2026-08-10T22:15:04Z"
+      "title": "金価格が10週ぶり高値、FOMOと中国需要が上昇を後押し",
+      "link": "https://jp.investing.com/news/commodities-news/article-1642106",
+      "published": "2026-08-11 01:09:56",
+      "isoDate": "2026-08-11T01:09:56Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラブ、売上高は過去最高も1株利益は予想を下回る",
-      "link": "https://jp.investing.com/news/earnings/article-1641828",
-      "published": "2026-08-10 21:02:57",
-      "isoDate": "2026-08-10T21:02:57Z"
+      "title": "東京為替：ドル・円は上げ渋り、159円台は維持",
+      "link": "https://jp.investing.com/news/forex-news/article-1642048",
+      "published": "2026-08-11 00:15:06",
+      "isoDate": "2026-08-11T00:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "10日のNY市場は反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642023",
+      "published": "2026-08-10 23:15:06",
+      "isoDate": "2026-08-10T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、原油価格や金利の上昇を嫌気",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642012",
+      "published": "2026-08-10 23:00:05",
+      "isoDate": "2026-08-10T23:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1641651",
       "published": "2026-08-10 20:09:09",
       "isoDate": "2026-08-10T20:09:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル、150億ドルの株式公募で大手ファウンドリー顧客獲得が間近との見方",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1641538",
-      "published": "2026-08-10 17:02:08",
-      "isoDate": "2026-08-10T17:02:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1641017",
       "published": "2026-08-10 12:47:40",
       "isoDate": "2026-08-10T12:47:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル株、150億ドルの大型増資発表を受け下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1640884",
-      "published": "2026-08-10 12:15:22",
-      "isoDate": "2026-08-10T12:15:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,90 @@
       "isoDate": "2026-08-09T22:17:09Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン170億円相当売却　優先株の買い戻しに充当",
+      "link": "https://coinpost.jp/?p=730723",
+      "published": "Tue, 11 Aug 2026 09:28:31 +0900",
+      "isoDate": "2026-08-11T00:28:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ・メディア、ビットコイン保有量65BTC減少",
+      "link": "https://coinpost.jp/?p=730716",
+      "published": "Tue, 11 Aug 2026 08:38:27 +0900",
+      "isoDate": "2026-08-10T23:38:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインが株式と相関低下、センチメントも転換＝ブラックロック幹部",
+      "link": "https://coinpost.jp/?p=730712",
+      "published": "Tue, 11 Aug 2026 08:07:50 +0900",
+      "isoDate": "2026-08-10T23:07:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "CMEヘッジファンド、ビットコイン先物で稀な買い越しに＝アナリスト",
+      "link": "https://coinpost.jp/?p=730689",
+      "published": "Mon, 10 Aug 2026 15:17:19 +0900",
+      "isoDate": "2026-08-10T06:17:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場Empery Digital、1635BTCのビットコイン売却",
+      "link": "https://coinpost.jp/?p=730685",
+      "published": "Mon, 10 Aug 2026 13:51:20 +0900",
+      "isoDate": "2026-08-10T04:51:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「クラリティー法不成立でも仮想通貨業界は前進可能」グレースケール分析",
+      "link": "https://coinpost.jp/?p=730676",
+      "published": "Mon, 10 Aug 2026 13:27:53 +0900",
+      "isoDate": "2026-08-10T04:27:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの新規ウォレット数が過去一年で最高水準",
+      "link": "https://coinpost.jp/?p=730662",
+      "published": "Mon, 10 Aug 2026 12:59:17 +0900",
+      "isoDate": "2026-08-10T03:59:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米納税者の仮想通貨申告、32％から56％にとどまる＝研究",
+      "link": "https://coinpost.jp/?p=730666",
+      "published": "Mon, 10 Aug 2026 11:24:10 +0900",
+      "isoDate": "2026-08-10T02:24:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインBIP-110分岐、セイラー氏「フォークに意味なし」",
+      "link": "https://coinpost.jp/?p=730650",
+      "published": "Mon, 10 Aug 2026 09:37:18 +0900",
+      "isoDate": "2026-08-10T00:37:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "キャシー・ウッドCEO、米雇用統計後も強気　ビットコインへ期待表明",
+      "link": "https://coinpost.jp/?p=730638",
+      "published": "Mon, 10 Aug 2026 07:50:22 +0900",
+      "isoDate": "2026-08-09T22:50:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン1020万円台で上げ渋り、CPIと利上げ観測が焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=730494",
+      "published": "Sun, 09 Aug 2026 11:30:43 +0900",
+      "isoDate": "2026-08-09T02:30:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（8/7）｜スペースX決算・相場分析・金融庁の規制対応のまとめ",
+      "link": "https://coinpost.jp/?p=730414",
+      "published": "Sun, 09 Aug 2026 09:25:52 +0900",
+      "isoDate": "2026-08-09T00:25:52Z"
+    }
+  ]
 }
