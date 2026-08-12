@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T21:21:02Z",
-  "last_checked": "2026-08-12T21:21:02Z",
+  "updated": "2026-08-12T22:11:29Z",
+  "last_checked": "2026-08-12T22:11:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは21.58ドル安、ハイテク企業決算やCPI好感も原油高を嫌気",
+      "link": "https://jp.investing.com/news/forex-news/article-1645873",
+      "published": "2026-08-12 21:30:04",
+      "isoDate": "2026-08-12T21:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "セレブラス・システムズ、決算と売上高が予想を下回り14%急落",
       "link": "https://jp.investing.com/news/earnings/article-1645729",
       "published": "2026-08-12 20:24:18",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1644526",
       "published": "2026-08-12 10:33:02",
       "isoDate": "2026-08-12T10:33:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続伸、買い優勢でじり高基調",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1644206",
-      "published": "2026-08-12 07:15:15",
-      "isoDate": "2026-08-12T07:15:15Z"
     },
     {
       "source": "Investing.com 外為",
