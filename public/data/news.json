@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-12T16:00:52Z",
-  "last_checked": "2026-08-12T16:00:52Z",
+  "updated": "2026-08-12T17:30:32Z",
+  "last_checked": "2026-08-12T17:30:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウクライナの攻撃でロシアが穀物輸出ルートを変更",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645507",
+      "published": "2026-08-12 17:01:47",
+      "isoDate": "2026-08-12T17:01:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "非商業トレーダー、ユーロネクストの小麦ポジションを削減",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645476",
+      "published": "2026-08-12 16:11:18",
+      "isoDate": "2026-08-12T16:11:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米原油在庫、2023年1月以来最大の週間増加を記録",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1644312",
       "published": "2026-08-12 08:25:30",
       "isoDate": "2026-08-12T08:25:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、83.89ドル抵抗帯をテスト中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
-      "published": "2026-08-12 07:08:56",
-      "isoDate": "2026-08-12T07:08:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、長期トレンド上抜けで押し目買い狙い：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
-      "published": "2026-08-12 07:08:54",
-      "isoDate": "2026-08-12T07:08:54Z"
     }
   ],
   "usdjpy_items": [
