@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-12T19:06:05Z",
-  "last_checked": "2026-08-12T19:06:05Z",
+  "updated": "2026-08-12T20:09:17Z",
+  "last_checked": "2026-08-12T20:09:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.61圏でレンジ圧縮中：最新シグナルをチェック",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
+      "published": "2026-08-12 19:14:00",
+      "isoDate": "2026-08-12T19:14:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油WTI、$84.61高値に接近し方向感模索中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
+      "published": "2026-08-12 19:13:45",
+      "isoDate": "2026-08-12T19:13:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、38.2%フィボナッチ66.65が壁：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
+      "published": "2026-08-12 19:13:32",
+      "isoDate": "2026-08-12T19:13:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、RSI71超で買われすぎ圏-4,500ドル前に失速: 毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
+      "published": "2026-08-12 19:13:30",
+      "isoDate": "2026-08-12T19:13:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、50%フィボ手前で膠着：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
+      "published": "2026-08-12 19:13:18",
+      "isoDate": "2026-08-12T19:13:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、USDAの供給減少予測を受けて上昇",
@@ -36,57 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645424",
       "published": "2026-08-12 15:27:36",
       "isoDate": "2026-08-12T15:27:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫が予想外の大幅増、1,740万バレル積み増し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645414",
-      "published": "2026-08-12 15:24:54",
-      "isoDate": "2026-08-12T15:24:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バングラデシュ、世界的なガス市場混乱の中で米国とLNG長期契約を締結",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645363",
-      "published": "2026-08-12 14:58:12",
-      "isoDate": "2026-08-12T14:58:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中国の精製銅生産、原材料不足で2カ月連続の減少見込み",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1644725",
-      "published": "2026-08-12 11:39:16",
-      "isoDate": "2026-08-12T11:39:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ政権、メキシコ湾で8100万エーカーを石油・ガス掘削向けに提供",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1644626",
-      "published": "2026-08-12 11:07:55",
-      "isoDate": "2026-08-12T11:07:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銀価格が90ドルまで急騰も、投資需要が主導とシティが予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1644602",
-      "published": "2026-08-12 10:59:42",
-      "isoDate": "2026-08-12T10:59:42Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQ、過熱ゾーンで主要抵抗線に接近：毎時更新中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641311",
+      "published": "2026-08-12 19:15:12",
+      "isoDate": "2026-08-12T19:15:12Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "スペースX株が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
       "published": "2026-08-12 15:47:27",
       "isoDate": "2026-08-12T15:47:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY外為：ドル売りは一段落、米9月利上げ確率低下、CPI安定で",
-      "link": "https://jp.investing.com/news/forex-news/article-1645332",
-      "published": "2026-08-12 14:45:04",
-      "isoDate": "2026-08-12T14:45:04Z"
     },
     {
       "source": "Investing.com 外為",
