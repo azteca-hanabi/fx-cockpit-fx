@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-12T14:36:39Z",
-  "last_checked": "2026-08-12T14:36:39Z",
+  "updated": "2026-08-12T16:00:52Z",
+  "last_checked": "2026-08-12T16:00:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫、2023年1月以来最大の週間増加を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645424",
+      "published": "2026-08-12 15:27:36",
+      "isoDate": "2026-08-12T15:27:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫が予想外の大幅増、1,740万バレル積み増し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645414",
+      "published": "2026-08-12 15:24:54",
+      "isoDate": "2026-08-12T15:24:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バングラデシュ、世界的なガス市場混乱の中で米国とLNG長期契約を締結",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645363",
+      "published": "2026-08-12 14:58:12",
+      "isoDate": "2026-08-12T14:58:12Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中国の精製銅生産、原材料不足で2カ月連続の減少見込み",
@@ -50,43 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
       "published": "2026-08-12 07:08:54",
       "isoDate": "2026-08-12T07:08:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、RSI過熱でトレンド一服か：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
-      "published": "2026-08-12 07:08:53",
-      "isoDate": "2026-08-12T07:08:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、移動平均とサポートの狭間で中立：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
-      "published": "2026-08-12 07:08:46",
-      "isoDate": "2026-08-12T07:08:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、61.8%フィボ抵抗で攻防中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-12 07:08:44",
-      "isoDate": "2026-08-12T07:08:44Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル売りは一段落、米9月利上げ確率低下、CPI安定で",
+      "link": "https://jp.investing.com/news/forex-news/article-1645332",
+      "published": "2026-08-12 14:45:04",
+      "isoDate": "2026-08-12T14:45:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米CPI、コア指数は2021年3月来の低水準に並ぶ、ドル反落",
       "link": "https://jp.investing.com/news/forex-news/article-1645049",
       "published": "2026-08-12 13:15:05",
       "isoDate": "2026-08-12T13:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイケル・バーリーがアベル体制下のバークシャーを魅力なしと断言した理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1645031",
-      "published": "2026-08-12 13:08:49",
-      "isoDate": "2026-08-12T13:08:49Z"
     },
     {
       "source": "Investing.com 外為",
