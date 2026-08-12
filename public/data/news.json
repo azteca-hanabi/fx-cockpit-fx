@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-12T17:30:32Z",
-  "last_checked": "2026-08-12T17:30:32Z",
+  "updated": "2026-08-12T19:06:05Z",
+  "last_checked": "2026-08-12T19:06:05Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、USDAの供給減少予測を受けて上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645594",
+      "published": "2026-08-12 18:53:53",
+      "isoDate": "2026-08-12T18:53:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、ウクライナがロシアの穀物ターミナルを攻撃し反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645539",
+      "published": "2026-08-12 17:39:33",
+      "isoDate": "2026-08-12T17:39:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ウクライナの攻撃でロシアが穀物輸出ルートを変更",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1644602",
       "published": "2026-08-12 10:59:42",
       "isoDate": "2026-08-12T10:59:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "IEAが2026年の石油供給見通しを下方修正、中東情勢の再緊迫化を受け",
-      "link": "https://jp.investing.com/news/commodities-news/article-1644360",
-      "published": "2026-08-12 09:05:31",
-      "isoDate": "2026-08-12T09:05:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "EUガス貯蔵量が8月として過去最低水準、欧州天然ガス価格が続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-1644312",
-      "published": "2026-08-12 08:25:30",
-      "isoDate": "2026-08-12T08:25:30Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースX株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
+      "published": "2026-08-12 15:47:27",
+      "isoDate": "2026-08-12T15:47:27Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY外為：ドル売りは一段落、米9月利上げ確率低下、CPI安定で",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/earnings/article-1644768",
       "published": "2026-08-12 11:51:56",
       "isoDate": "2026-08-12T11:51:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ネビウス・グループの第2四半期売上高が454%増の5億8,230万ドルに",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1644759",
-      "published": "2026-08-12 11:46:02",
-      "isoDate": "2026-08-12T11:46:02Z"
     },
     {
       "source": "Investing.com 外為",
