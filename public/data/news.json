@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T11:50:30Z",
-  "last_checked": "2026-08-12T11:50:30Z",
+  "updated": "2026-08-12T13:19:02Z",
+  "last_checked": "2026-08-12T13:19:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中国の精製銅生産、原材料不足で2カ月連続の減少見込み",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1644725",
+      "published": "2026-08-12 11:39:16",
+      "isoDate": "2026-08-12T11:39:16Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ政権、メキシコ湾で8100万エーカーを石油・ガス掘削向けに提供",
@@ -64,57 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
       "published": "2026-08-12 07:08:44",
       "isoDate": "2026-08-12T07:08:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が1オンス4,400ドル近辺に上昇、米インフレ指標を待つ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1643987",
-      "published": "2026-08-12 02:22:45",
-      "isoDate": "2026-08-12T02:22:45Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシアとサンディスク、第9世代QLC 3Dフラッシュメモリを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1644933",
+      "published": "2026-08-12 12:39:03",
+      "isoDate": "2026-08-12T12:39:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネットリストがマイクロンテクノロジーに対しITCに申し立て",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1644794",
+      "published": "2026-08-12 12:03:09",
+      "isoDate": "2026-08-12T12:03:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネビウス、第2四半期売上高が予想を上回り株価急騰",
+      "link": "https://jp.investing.com/news/earnings/article-1644768",
+      "published": "2026-08-12 11:51:56",
+      "isoDate": "2026-08-12T11:51:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ネビウス・グループの第2四半期売上高が454%増の5億8,230万ドルに",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1644759",
+      "published": "2026-08-12 11:46:02",
+      "isoDate": "2026-08-12T11:46:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "Nvidia決算で投資家が注目する4つの重要ポイント",
       "link": "https://jp.investing.com/news/stock-market-news/article-1644526",
       "published": "2026-08-12 10:33:02",
       "isoDate": "2026-08-12T10:33:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は下げ渋り、短期的にドル売り・円買い",
-      "link": "https://jp.investing.com/news/forex-news/article-1644517",
-      "published": "2026-08-12 10:30:10",
-      "isoDate": "2026-08-12T10:30:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴリラ・テクノロジー、1億2500万ドルの転換社債を売出登録",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1644472",
-      "published": "2026-08-12 10:10:02",
-      "isoDate": "2026-08-12T10:10:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーライリリー・アンド・カンパニー、未承認薬レタトルチドの違法販売で6件の訴訟を提起",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1644438",
-      "published": "2026-08-12 09:59:03",
-      "isoDate": "2026-08-12T09:59:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は軟調、原油相場の値下がりで",
-      "link": "https://jp.investing.com/news/forex-news/article-1644422",
-      "published": "2026-08-12 09:45:11",
-      "isoDate": "2026-08-12T09:45:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、AI事業の成長でソフトバンクを格上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1644417",
-      "published": "2026-08-12 09:38:53",
-      "isoDate": "2026-08-12T09:38:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/earnings/article-1644203",
       "published": "2026-08-12 07:10:19",
       "isoDate": "2026-08-12T07:10:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し",
+      "link": "https://jp.investing.com/news/forex-news/article-1644050",
+      "published": "2026-08-12 04:45:15",
+      "isoDate": "2026-08-12T04:45:15Z"
     },
     {
       "source": "Investing.com 外為",
