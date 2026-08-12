@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T20:09:17Z",
-  "last_checked": "2026-08-12T20:09:17Z",
+  "updated": "2026-08-12T21:21:02Z",
+  "last_checked": "2026-08-12T21:21:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ICE菜種先物、大豆油の上昇を受けて値上がり――薄商いの中で",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645772",
+      "published": "2026-08-12 20:40:50",
+      "isoDate": "2026-08-12T20:40:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Copper、$6.61圏でレンジ圧縮中：最新シグナルをチェック",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645476",
       "published": "2026-08-12 16:11:18",
       "isoDate": "2026-08-12T16:11:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫、2023年1月以来最大の週間増加を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645424",
-      "published": "2026-08-12 15:27:36",
-      "isoDate": "2026-08-12T15:27:36Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "IONQ、過熱ゾーンで主要抵抗線に接近：毎時更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641311",
-      "published": "2026-08-12 19:15:12",
-      "isoDate": "2026-08-12T19:15:12Z"
+      "title": "セレブラス・システムズ、決算と売上高が予想を下回り14%急落",
+      "link": "https://jp.investing.com/news/earnings/article-1645729",
+      "published": "2026-08-12 20:24:18",
+      "isoDate": "2026-08-12T20:24:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの株価が11%急騰、マスク氏の「現実世界」AI戦略にウォール街が注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1645591",
+      "published": "2026-08-12 18:46:32",
+      "isoDate": "2026-08-12T18:46:32Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
       "published": "2026-08-12 15:47:27",
       "isoDate": "2026-08-12T15:47:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米CPI、コア指数は2021年3月来の低水準に並ぶ、ドル反落",
-      "link": "https://jp.investing.com/news/forex-news/article-1645049",
-      "published": "2026-08-12 13:15:05",
-      "isoDate": "2026-08-12T13:15:05Z"
     },
     {
       "source": "Investing.com 外為",
