@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T13:19:02Z",
-  "last_checked": "2026-08-12T13:19:02Z",
+  "updated": "2026-08-12T14:36:39Z",
+  "last_checked": "2026-08-12T14:36:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "【市場反応】米CPI、コア指数は2021年3月来の低水準に並ぶ、ドル反落",
+      "link": "https://jp.investing.com/news/forex-news/article-1645049",
+      "published": "2026-08-12 13:15:05",
+      "isoDate": "2026-08-12T13:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイケル・バーリーがアベル体制下のバークシャーを魅力なしと断言した理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1645031",
+      "published": "2026-08-12 13:08:49",
+      "isoDate": "2026-08-12T13:08:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "キオクシアとサンディスク、第9世代QLC 3Dフラッシュメモリを発表",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1644933",
       "published": "2026-08-12 12:39:03",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1644206",
       "published": "2026-08-12 07:15:15",
       "isoDate": "2026-08-12T07:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CoreWeaveが5四半期連続の過去最高売上を達成し、株価が急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1644203",
-      "published": "2026-08-12 07:10:19",
-      "isoDate": "2026-08-12T07:10:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し",
-      "link": "https://jp.investing.com/news/forex-news/article-1644050",
-      "published": "2026-08-12 04:45:15",
-      "isoDate": "2026-08-12T04:45:15Z"
     },
     {
       "source": "Investing.com 外為",
