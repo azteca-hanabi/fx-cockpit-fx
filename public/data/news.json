@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-12T09:15:42Z",
-  "last_checked": "2026-08-12T09:15:42Z",
+  "updated": "2026-08-12T10:35:46Z",
+  "last_checked": "2026-08-12T10:35:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "IEAが2026年の石油供給見通しを下方修正、中東情勢の再緊迫化を受け",
+      "link": "https://jp.investing.com/news/commodities-news/article-1644360",
+      "published": "2026-08-12 09:05:31",
+      "isoDate": "2026-08-12T09:05:31Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "EUガス貯蔵量が8月として過去最低水準、欧州天然ガス価格が続伸",
@@ -64,36 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1643709",
       "published": "2026-08-11 21:12:20",
       "isoDate": "2026-08-11T21:12:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ICEキャノーラ先物、大豆油の下落を受けて下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1643683",
-      "published": "2026-08-11 21:01:41",
-      "isoDate": "2026-08-11T21:01:41Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は伸び悩み、午後は上げ幅縮小",
-      "link": "https://jp.investing.com/news/forex-news/article-1644295",
-      "published": "2026-08-12 08:15:16",
-      "isoDate": "2026-08-12T08:15:16Z"
+      "title": "ゴリラ・テクノロジー、1億2500万ドルの転換社債を売出登録",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1644472",
+      "published": "2026-08-12 10:10:02",
+      "isoDate": "2026-08-12T10:10:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米半導体関連株高などを背景に買われ、1カ月ぶりの67000円台【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1644292",
-      "published": "2026-08-12 08:15:15",
-      "isoDate": "2026-08-12T08:15:15Z"
+      "title": "イーライリリー・アンド・カンパニー、未承認薬レタトルチドの違法販売で6件の訴訟を提起",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1644438",
+      "published": "2026-08-12 09:59:03",
+      "isoDate": "2026-08-12T09:59:03Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米CPIに注目、CoreWeaveのAI需要が売上急増を牽引――市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1644274",
-      "published": "2026-08-12 08:01:10",
-      "isoDate": "2026-08-12T08:01:10Z"
+      "title": "欧州為替：ドル・円は軟調、原油相場の値下がりで",
+      "link": "https://jp.investing.com/news/forex-news/article-1644422",
+      "published": "2026-08-12 09:45:11",
+      "isoDate": "2026-08-12T09:45:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴールドマン・サックス、AI事業の成長でソフトバンクを格上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1644417",
+      "published": "2026-08-12 09:38:53",
+      "isoDate": "2026-08-12T09:38:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,10 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "サマーセール開催中。AI厳選の勝ち銘柄リスト(ほか全機能)が最大55%オフ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1642304",
-      "published": "2026-08-11 08:01:00",
-      "isoDate": "2026-08-11T08:01:00Z"
+      "title": "エヌビディアの5000億ドル民間資本取引、最大の勝者は誰か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1642924",
+      "published": "2026-08-11 13:00:32",
+      "isoDate": "2026-08-11T13:00:32Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1642089",
       "published": "2026-08-11 01:00:06",
       "isoDate": "2026-08-11T01:00:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "+85%の急騰。当社のAIがこのITサービス株を上昇前に捉えていた理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1641983",
-      "published": "2026-08-10 22:09:39",
-      "isoDate": "2026-08-10T22:09:39Z"
     }
   ],
   "btc_items": [
