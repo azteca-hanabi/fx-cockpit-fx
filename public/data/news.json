@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T16:25:22Z",
-  "last_checked": "2026-08-13T16:25:22Z",
+  "updated": "2026-08-13T17:30:18Z",
+  "last_checked": "2026-08-13T17:30:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米7月PPIは鈍化、先週分新規失業保険申請件数は1カ月ぶり高水準、ドル売り優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1647164",
-      "published": "2026-08-13 13:15:05",
-      "isoDate": "2026-08-13T13:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ネビウス株が決算後34%急騰、バーリ氏は空売りを倍増",
       "link": "https://jp.investing.com/news/stock-market-news/article-1647110",
       "published": "2026-08-13 12:56:26",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1645591",
       "published": "2026-08-12 18:46:32",
       "isoDate": "2026-08-12T18:46:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースX株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
+      "published": "2026-08-12 15:47:27",
+      "isoDate": "2026-08-12T15:47:27Z"
     }
   ],
   "btc_items": [
