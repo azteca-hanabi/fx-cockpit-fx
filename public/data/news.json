@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T13:58:22Z",
-  "last_checked": "2026-08-13T13:58:22Z",
+  "updated": "2026-08-13T15:06:09Z",
+  "last_checked": "2026-08-13T15:06:09Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アルゼンチン、バカ・ムエルタのシェールオイル埋蔵量を300億バレルに倍増",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1647359",
+      "published": "2026-08-13 14:03:00",
+      "isoDate": "2026-08-13T14:03:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、4日連続で下落",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1646161",
       "published": "2026-08-13 03:09:40",
       "isoDate": "2026-08-13T03:09:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金、2カ月ぶり高値から反落――利益確定売りが優勢",
-      "link": "https://jp.investing.com/news/commodities-news/article-1646131",
-      "published": "2026-08-13 02:25:18",
-      "isoDate": "2026-08-13T02:25:18Z"
     }
   ],
   "usdjpy_items": [
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1647110",
       "published": "2026-08-13 12:56:26",
       "isoDate": "2026-08-13T12:56:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Oracle Financial SoftwareとAWSがパートナーシップを拡大、22リージョンに展開",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1646968",
-      "published": "2026-08-13 12:08:08",
-      "isoDate": "2026-08-13T12:08:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +108,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1646406",
       "published": "2026-08-13 07:45:22",
       "isoDate": "2026-08-13T07:45:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅に3日続伸、アドバンテストが1銘柄で約427円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646168",
+      "published": "2026-08-13 03:45:13",
+      "isoDate": "2026-08-13T03:45:13Z"
     },
     {
       "source": "Investing.com 外為",
