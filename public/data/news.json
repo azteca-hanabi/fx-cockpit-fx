@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T22:12:03Z",
-  "last_checked": "2026-08-13T22:12:03Z",
+  "updated": "2026-08-13T23:12:01Z",
+  "last_checked": "2026-08-13T23:12:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米7月生産者物価指数（PPI）が鈍化",
+      "link": "https://jp.investing.com/news/forex-news/article-1648055",
+      "published": "2026-08-13 21:45:04",
+      "isoDate": "2026-08-13T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが選んだ銘柄が212%超のリターンを達成、月間ヒット率93%",
       "link": "https://jp.investing.com/news/stock-market-news/article-1648036",
       "published": "2026-08-13 21:25:22",
@@ -83,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目銘柄：AMAT、DLO、GLOB、YSS、ETON",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1647895",
-      "published": "2026-08-13 20:32:03",
-      "isoDate": "2026-08-13T20:32:03Z"
+      "title": "【決算速報】アプライド・マテリアルズ、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1647883",
+      "published": "2026-08-13 20:29:14",
+      "isoDate": "2026-08-13T20:29:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1647110",
       "published": "2026-08-13 12:56:26",
       "isoDate": "2026-08-13T12:56:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIエージェントの台頭でサーバーCPU市場規模が2100億ドル超に拡大——バンク・オブ・アメリカが予測引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1646836",
-      "published": "2026-08-13 11:31:33",
-      "isoDate": "2026-08-13T11:31:33Z"
     },
     {
       "source": "Investing.com 外為",
