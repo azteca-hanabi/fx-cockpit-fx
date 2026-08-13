@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T17:30:18Z",
-  "last_checked": "2026-08-13T17:30:18Z",
+  "updated": "2026-08-13T19:06:48Z",
+  "last_checked": "2026-08-13T19:06:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、前日の急騰後に利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1647752",
+      "published": "2026-08-13 18:22:32",
+      "isoDate": "2026-08-13T18:22:32Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロネクスト小麦、停戦報道受け2週間ぶり高値から反落",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
       "published": "2026-08-13 07:10:12",
       "isoDate": "2026-08-13T07:10:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、SMA(200)超過後に反落で決断ゾーン突入：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
-      "published": "2026-08-13 07:09:32",
-      "isoDate": "2026-08-13T07:09:32Z"
     }
   ],
   "usdjpy_items": [
