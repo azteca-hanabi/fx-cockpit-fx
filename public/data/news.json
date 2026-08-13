@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T23:11:17Z",
-  "last_checked": "2026-08-12T23:11:17Z",
+  "updated": "2026-08-13T00:07:59Z",
+  "last_checked": "2026-08-13T00:07:59Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米7月消費者物価指数（CPI）のコア指数が前年比で予想通り年初来の6年ぶり低い伸び",
-      "link": "https://jp.investing.com/news/forex-news/article-1645908",
-      "published": "2026-08-12 21:45:04",
-      "isoDate": "2026-08-12T21:45:04Z"
+      "title": "半導体やAI関連株への資金流入が継続",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646019",
+      "published": "2026-08-12 23:45:06",
+      "isoDate": "2026-08-12T23:45:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "セレブラス・システムズ、決算と売上高が予想を下回り14%急落",
-      "link": "https://jp.investing.com/news/earnings/article-1645729",
-      "published": "2026-08-12 20:24:18",
-      "isoDate": "2026-08-12T20:24:18Z"
+      "title": "米ハイテク株高を背景に買いが先行し68000円台を突破へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646012",
+      "published": "2026-08-12 23:30:07",
+      "isoDate": "2026-08-12T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "12日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテク企業決算やCPI好感も原油高を嫌気",
+      "link": "https://jp.investing.com/news/forex-news/article-1646000",
+      "published": "2026-08-12 23:15:06",
+      "isoDate": "2026-08-12T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY金：続伸で4468.00ドル、米CPIを受けたFRB利上げ観測後退とホルムズ海峡を巡る不透明感で買い優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1645981",
+      "published": "2026-08-12 22:45:04",
+      "isoDate": "2026-08-12T22:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1644794",
       "published": "2026-08-12 12:03:09",
       "isoDate": "2026-08-12T12:03:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Nvidia決算で投資家が注目する4つの重要ポイント",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1644526",
-      "published": "2026-08-12 10:33:02",
-      "isoDate": "2026-08-12T10:33:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は続伸、東エレクやアドバンテストが2銘柄で約218円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1644234",
-      "published": "2026-08-12 07:30:15",
-      "isoDate": "2026-08-12T07:30:15Z"
     },
     {
       "source": "Investing.com 外為",
