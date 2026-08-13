@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-13T00:07:59Z",
-  "last_checked": "2026-08-13T00:07:59Z",
+  "updated": "2026-08-13T03:08:28Z",
+  "last_checked": "2026-08-13T03:08:28Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、CPIを受けた上昇後も4,400ドル近辺で推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-1646131",
+      "published": "2026-08-13 02:25:18",
+      "isoDate": "2026-08-13T02:25:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ICE菜種先物、大豆油の上昇を受けて値上がり――薄商いの中で",
@@ -64,43 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645507",
       "published": "2026-08-12 17:01:47",
       "isoDate": "2026-08-12T17:01:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "非商業トレーダー、ユーロネクストの小麦ポジションを削減",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1645476",
-      "published": "2026-08-12 16:11:18",
-      "isoDate": "2026-08-12T16:11:18Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "半導体やAI関連株への資金流入が継続",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1646019",
-      "published": "2026-08-12 23:45:06",
-      "isoDate": "2026-08-12T23:45:06Z"
+      "title": "KOSPIが7月安値から20%反発、弱気相場脱出へ―半導体株が牽引",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646100",
+      "published": "2026-08-13 01:29:26",
+      "isoDate": "2026-08-13T01:29:26Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米ハイテク株高を背景に買いが先行し68000円台を突破へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1646012",
-      "published": "2026-08-12 23:30:07",
-      "isoDate": "2026-08-12T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "12日の米国市場ダイジェスト：米国株式市場はまちまち、ハイテク企業決算やCPI好感も原油高を嫌気",
-      "link": "https://jp.investing.com/news/forex-news/article-1646000",
-      "published": "2026-08-12 23:15:06",
-      "isoDate": "2026-08-12T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金：続伸で4468.00ドル、米CPIを受けたFRB利上げ観測後退とホルムズ海峡を巡る不透明感で買い優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1645981",
-      "published": "2026-08-12 22:45:04",
-      "isoDate": "2026-08-12T22:45:04Z"
+      "title": "日経平均は1001円高、寄り後は上げ幅拡大",
+      "link": "https://jp.investing.com/news/forex-news/article-1646035",
+      "published": "2026-08-13 00:15:07",
+      "isoDate": "2026-08-13T00:15:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +118,20 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "Nvidia決算で投資家が注目する4つの重要ポイント",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1644526",
+      "published": "2026-08-12 10:33:02",
+      "isoDate": "2026-08-12T10:33:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は続伸、東エレクやアドバンテストが2銘柄で約218円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1644234",
+      "published": "2026-08-12 07:30:15",
+      "isoDate": "2026-08-12T07:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "後場の日経平均は255円高でスタート、日東紡やエムスリーなどが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1644027",
       "published": "2026-08-12 04:00:18",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ゴールドマン、ネオス買収合意　ビットコイン・イーサリアムETFも獲得",
+      "link": "https://coinpost.jp/?p=730906",
+      "published": "Thu, 13 Aug 2026 11:53:49 +0900",
+      "isoDate": "2026-08-13T02:53:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットCEO、ビットコイン移動は売却でないと説明",
+      "link": "https://coinpost.jp/?p=730916",
+      "published": "Thu, 13 Aug 2026 11:43:34 +0900",
+      "isoDate": "2026-08-13T02:43:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインが2.1万ドルに下落でも担保不足にならず、ストラテジーがデータ共有",
+      "link": "https://coinpost.jp/?p=730899",
+      "published": "Thu, 13 Aug 2026 11:24:05 +0900",
+      "isoDate": "2026-08-13T02:24:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ビットコイン相場安定化局面で3要因分析",
+      "link": "https://coinpost.jp/?p=730904",
+      "published": "Thu, 13 Aug 2026 11:11:56 +0900",
+      "isoDate": "2026-08-13T02:11:56Z"
+    },
     {
       "source": "CoinPost",
       "title": "WIZE、SBI VCトレード保管のソラナを自社運用　規模2倍に拡大",
@@ -187,34 +215,6 @@
       "link": "https://coinpost.jp/?p=730800",
       "published": "Wed, 12 Aug 2026 11:59:40 +0900",
       "isoDate": "2026-08-12T02:59:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・イーサリアムETFの資金流入戻るも、経済指標に左右されやすい状況＝ウィンターミュート",
-      "link": "https://coinpost.jp/?p=730783",
-      "published": "Wed, 12 Aug 2026 11:03:09 +0900",
-      "isoDate": "2026-08-12T02:03:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーCEO、年内にビットコイン買い増し再開へ",
-      "link": "https://coinpost.jp/?p=730794",
-      "published": "Wed, 12 Aug 2026 10:45:23 +0900",
-      "isoDate": "2026-08-12T01:45:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアムのロードマップ大幅刷新、ヴィタリック氏「量子耐性を最優先に」",
-      "link": "https://coinpost.jp/?p=730740",
-      "published": "Tue, 11 Aug 2026 12:20:02 +0900",
-      "isoDate": "2026-08-11T03:20:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ヘイズ氏、日米ドル円操作でビットコインに追い風と予測",
-      "link": "https://coinpost.jp/?p=730735",
-      "published": "Tue, 11 Aug 2026 11:04:03 +0900",
-      "isoDate": "2026-08-11T02:04:03Z"
     }
   ]
 }
