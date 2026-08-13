@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T10:11:35Z",
-  "last_checked": "2026-08-13T10:11:35Z",
+  "updated": "2026-08-13T11:21:38Z",
+  "last_checked": "2026-08-13T11:21:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -53,7 +53,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、米CPI鈍化後のFED見通し再評価で2カ月ぶり高値から下落",
+      "title": "金、2カ月ぶり高値から反落——上昇後の利益確定売りが重荷に",
       "link": "https://jp.investing.com/news/commodities-news/article-1646131",
       "published": "2026-08-13 02:25:18",
       "isoDate": "2026-08-13T02:25:18Z"
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧米為替見通し:ドル・円は伸び悩みか、160円視野に為替介入を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1646461",
-      "published": "2026-08-13 08:30:15",
-      "isoDate": "2026-08-13T08:30:15Z"
+      "title": "インターナショナル・ビジネス・マシーンズとOpenAIがGPT-5.6統合でエンタープライズAIパートナーシップを締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1646616",
+      "published": "2026-08-13 10:08:02",
+      "isoDate": "2026-08-13T10:08:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスンとSKハイニックス、「極めて割安」とアナリストが指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646588",
+      "published": "2026-08-13 09:57:48",
+      "isoDate": "2026-08-13T09:57:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが予測：+43%、+30%、急騰銘柄はまだ上昇中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646543",
+      "published": "2026-08-13 09:36:27",
+      "isoDate": "2026-08-13T09:36:27Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1646406",
       "published": "2026-08-13 07:45:22",
       "isoDate": "2026-08-13T07:45:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は951円高、引き続き企業決算や米経済指標に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1646260",
-      "published": "2026-08-13 06:00:15",
-      "isoDate": "2026-08-13T06:00:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1645591",
       "published": "2026-08-12 18:46:32",
       "isoDate": "2026-08-12T18:46:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
-      "published": "2026-08-12 15:47:27",
-      "isoDate": "2026-08-12T15:47:27Z"
     },
     {
       "source": "Investing.com 外為",
