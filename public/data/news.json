@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T20:04:21Z",
-  "last_checked": "2026-08-13T20:04:21Z",
+  "updated": "2026-08-13T21:22:24Z",
+  "last_checked": "2026-08-13T21:22:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "IONQ、$47.80超えが焦点-SMA(200)が壁：毎時更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641311",
-      "published": "2026-08-13 19:14:30",
-      "isoDate": "2026-08-13T19:14:30Z"
+      "title": "アプライド・マテリアルズ、AI需要がチップ装置販売を押し上げ第3四半期に過去最高収益を記録",
+      "link": "https://jp.investing.com/news/earnings/article-1647835",
+      "published": "2026-08-13 20:13:55",
+      "isoDate": "2026-08-13T20:13:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、AI特化の2億5000万ドルベンチャーファンドを設立",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1647795",
+      "published": "2026-08-13 20:03:01",
+      "isoDate": "2026-08-13T20:03:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1647598",
       "published": "2026-08-13 15:29:44",
       "isoDate": "2026-08-13T15:29:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk、2026年投資家向けイベントで長期成長戦略を発表――株価12%急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1647583",
-      "published": "2026-08-13 15:20:43",
-      "isoDate": "2026-08-13T15:20:43Z"
     },
     {
       "source": "Investing.com 外為",
