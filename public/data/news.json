@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-13T19:06:48Z",
-  "last_checked": "2026-08-13T19:06:48Z",
+  "updated": "2026-08-13T20:04:21Z",
+  "last_checked": "2026-08-13T20:04:21Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、雲の中で膠着81.11ドル：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
+      "published": "2026-08-13 19:13:26",
+      "isoDate": "2026-08-13T19:13:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$84.13が分岐点―売り圧力強まる：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
+      "published": "2026-08-13 19:13:07",
+      "isoDate": "2026-08-13T19:13:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、ADX53超の強トレンドも短期調整局面：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
+      "published": "2026-08-13 19:12:45",
+      "isoDate": "2026-08-13T19:12:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$64.62でサポート攻防中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
+      "published": "2026-08-13 19:12:44",
+      "isoDate": "2026-08-13T19:12:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、6.58ドル死守ラインでもみ合い継続：最新レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
+      "published": "2026-08-13 19:12:43",
+      "isoDate": "2026-08-13T19:12:43Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、前日の急騰後に利益確定売りで下落",
@@ -36,44 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1646926",
       "published": "2026-08-13 12:00:30",
       "isoDate": "2026-08-13T12:00:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、利益確定売りで数週間ぶり高値から反落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1646455",
-      "published": "2026-08-13 08:15:10",
-      "isoDate": "2026-08-13T08:15:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$81.20割れで下落転換リスク：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
-      "published": "2026-08-13 07:10:40",
-      "isoDate": "2026-08-13T07:10:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$90.00の壁に直面：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-13 07:10:33",
-      "isoDate": "2026-08-13T07:10:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、38.2%フィボナッチ割れで下落加速リスク：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
-      "published": "2026-08-13 07:10:28",
-      "isoDate": "2026-08-13T07:10:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、66.98ドル高値から短期下落中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
-      "published": "2026-08-13 07:10:12",
-      "isoDate": "2026-08-13T07:10:12Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQ、$47.80超えが焦点-SMA(200)が壁：毎時更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1641311",
+      "published": "2026-08-13 19:14:30",
+      "isoDate": "2026-08-13T19:14:30Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "サンディスクの株価が本日急騰した理由とは",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1645591",
       "published": "2026-08-12 18:46:32",
       "isoDate": "2026-08-12T18:46:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1645452",
-      "published": "2026-08-12 15:47:27",
-      "isoDate": "2026-08-12T15:47:27Z"
     }
   ],
   "btc_items": [
