@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T11:21:38Z",
-  "last_checked": "2026-08-13T11:21:38Z",
+  "updated": "2026-08-13T12:10:43Z",
+  "last_checked": "2026-08-13T12:10:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "インターナショナル・ビジネス・マシーンズとOpenAIがGPT-5.6統合でエンタープライズAIパートナーシップを締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1646616",
-      "published": "2026-08-13 10:08:02",
-      "isoDate": "2026-08-13T10:08:02Z"
+      "title": "AIエージェントの台頭でサーバーCPU市場規模が2100億ドル超に拡大——バンク・オブ・アメリカが予測引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1646836",
+      "published": "2026-08-13 11:31:33",
+      "isoDate": "2026-08-13T11:31:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、ATM株式プログラムを更新しイリジウム買収資金を調達へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1646738",
+      "published": "2026-08-13 11:02:03",
+      "isoDate": "2026-08-13T11:02:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、イリジウム買収でHSR法の審査期間が終了",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1646737",
+      "published": "2026-08-13 11:02:02",
+      "isoDate": "2026-08-13T11:02:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1645591",
       "published": "2026-08-12 18:46:32",
       "isoDate": "2026-08-12T18:46:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キオクシアとサンディスク、第9世代QLC 3Dフラッシュメモリを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1644933",
-      "published": "2026-08-12 12:39:03",
-      "isoDate": "2026-08-12T12:39:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バークシャーが200億ドルの買い攻勢へ。一方、AI選定銘柄はすでに+204%",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1643829",
-      "published": "2026-08-11 22:35:55",
-      "isoDate": "2026-08-11T22:35:55Z"
     }
   ],
   "btc_items": [
