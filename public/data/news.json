@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-14T20:03:40Z",
-  "last_checked": "2026-08-14T20:03:40Z",
+  "updated": "2026-08-14T20:56:47Z",
+  "last_checked": "2026-08-14T20:56:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米石油リグ数が455基に増加、ホルムズ海峡攻撃で船舶通行が停止",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649519",
+      "published": "2026-08-14 20:13:52",
+      "isoDate": "2026-08-14T20:13:52Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、82.35付近でレンジ膠着：毎時更新中",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649442",
       "published": "2026-08-14 16:54:01",
       "isoDate": "2026-08-14T16:54:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ウクライナ・ロシア緊張でシカゴ小麦先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649430",
-      "published": "2026-08-14 16:27:36",
-      "isoDate": "2026-08-14T16:27:36Z"
     }
   ],
   "usdjpy_items": [
