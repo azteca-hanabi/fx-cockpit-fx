@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-14T15:55:58Z",
-  "last_checked": "2026-08-14T15:55:58Z",
+  "updated": "2026-08-14T16:59:18Z",
+  "last_checked": "2026-08-14T16:59:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウクライナ・ロシア緊張でシカゴ小麦先物が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649430",
+      "published": "2026-08-14 16:27:36",
+      "isoDate": "2026-08-14T16:27:36Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、週間では下落も金曜日に反発",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
       "published": "2026-08-14 07:08:05",
       "isoDate": "2026-08-14T07:08:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米小売売上高が予想外に落ち込み、金価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1648271",
-      "published": "2026-08-14 00:59:40",
-      "isoDate": "2026-08-14T00:59:40Z"
     }
   ],
   "usdjpy_items": [
@@ -87,6 +87,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649189",
       "published": "2026-08-14 13:22:27",
       "isoDate": "2026-08-14T13:22:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サンディスク、JPモルガン・チェースが格上げ――株価6%超上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649139",
+      "published": "2026-08-14 12:54:23",
+      "isoDate": "2026-08-14T12:54:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1648444",
       "published": "2026-08-14 06:00:17",
       "isoDate": "2026-08-14T06:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は645円高でスタート、任天堂やソニーGなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648370",
-      "published": "2026-08-14 04:00:18",
-      "isoDate": "2026-08-14T04:00:18Z"
     },
     {
       "source": "Investing.com 外為",
