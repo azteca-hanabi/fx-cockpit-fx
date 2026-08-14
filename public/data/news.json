@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-14T16:59:18Z",
-  "last_checked": "2026-08-14T16:59:18Z",
+  "updated": "2026-08-14T17:58:52Z",
+  "last_checked": "2026-08-14T17:58:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海の緊張が輸出を混乱させ、ユーロネクスト小麦が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649449",
+      "published": "2026-08-14 17:02:00",
+      "isoDate": "2026-08-14T17:02:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、2日連続で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649444",
+      "published": "2026-08-14 16:55:06",
+      "isoDate": "2026-08-14T16:55:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "西アフリカ産原油の価格差、静かな取引の中で安定を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649442",
+      "published": "2026-08-14 16:54:01",
+      "isoDate": "2026-08-14T16:54:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ウクライナ・ロシア緊張でシカゴ小麦先物が上昇",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
       "published": "2026-08-14 07:08:21",
       "isoDate": "2026-08-14T07:08:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、ダブルトップ形成で下落圧力強まる：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
-      "published": "2026-08-14 07:08:15",
-      "isoDate": "2026-08-14T07:08:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent原油、$86〜$88.50の観察ゾーン入り：今時間の水準は",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-14 07:08:11",
-      "isoDate": "2026-08-14T07:08:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,360〜$4,430で圧縮中：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
-      "published": "2026-08-14 07:08:05",
-      "isoDate": "2026-08-14T07:08:05Z"
     }
   ],
   "usdjpy_items": [
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649189",
       "published": "2026-08-14 13:22:27",
       "isoDate": "2026-08-14T13:22:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サンディスク、JPモルガン・チェースが格上げ――株価6%超上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649139",
-      "published": "2026-08-14 12:54:23",
-      "isoDate": "2026-08-14T12:54:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1648444",
       "published": "2026-08-14 06:00:17",
       "isoDate": "2026-08-14T06:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場の日経平均は645円高でスタート、任天堂やソニーGなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1648370",
+      "published": "2026-08-14 04:00:18",
+      "isoDate": "2026-08-14T04:00:18Z"
     },
     {
       "source": "Investing.com 外為",
