@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-14T08:18:57Z",
-  "last_checked": "2026-08-14T08:18:57Z",
+  "updated": "2026-08-14T09:35:43Z",
+  "last_checked": "2026-08-14T09:35:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の行き詰まりで欧州天然ガスが7月以来最大の週間上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1648628",
+      "published": "2026-08-14 08:25:46",
+      "isoDate": "2026-08-14T08:25:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、$80～$84.50レンジで膠着：毎時更新中",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1647656",
       "published": "2026-08-13 15:57:33",
       "isoDate": "2026-08-13T15:57:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アルゼンチン、バカ・ムエルタのシェールオイル埋蔵量を300億バレルに倍増",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1647359",
-      "published": "2026-08-13 14:03:00",
-      "isoDate": "2026-08-13T14:03:00Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アプライド・マテリアルズが決算発表、SMICが急騰——市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1648596",
+      "published": "2026-08-14 07:56:14",
+      "isoDate": "2026-08-14T07:56:14Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は4日続伸、アドバンテストやソフトバンクGが2銘柄で約356円分押し上げ",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1648444",
       "published": "2026-08-14 06:00:17",
       "isoDate": "2026-08-14T06:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、国内消費を材料視",
-      "link": "https://jp.investing.com/news/forex-news/article-1648401",
-      "published": "2026-08-14 05:00:18",
-      "isoDate": "2026-08-14T05:00:18Z"
     },
     {
       "source": "Investing.com 外為",
