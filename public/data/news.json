@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T03:06:47Z",
-  "last_checked": "2026-08-14T03:06:47Z",
+  "updated": "2026-08-14T05:15:23Z",
+  "last_checked": "2026-08-14T05:15:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ドル・円は安値圏、ドル買い後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1648391",
+      "published": "2026-08-14 04:30:21",
+      "isoDate": "2026-08-14T04:30:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場の日経平均は645円高でスタート、任天堂やソニーGなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1648370",
+      "published": "2026-08-14 04:00:18",
+      "isoDate": "2026-08-14T04:00:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は4日続伸、アドバンテストが1銘柄で約277円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1648364",
+      "published": "2026-08-14 03:45:18",
+      "isoDate": "2026-08-14T03:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "キオクシアＨＤ---続伸、米サンディスク先行き見通しが好感されて大幅高",
       "link": "https://jp.investing.com/news/stock-market-news/article-1648296",
       "published": "2026-08-14 02:00:15",
@@ -104,27 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 8/14",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648196",
-      "published": "2026-08-13 23:45:07",
-      "isoDate": "2026-08-13T23:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米ハイテク株を映して買い先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648188",
-      "published": "2026-08-13 23:30:07",
-      "isoDate": "2026-08-13T23:30:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、AI特化の2億5000万ドルベンチャーファンドを設立",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1647795",
-      "published": "2026-08-13 20:03:01",
-      "isoDate": "2026-08-13T20:03:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "サンディスクの株価が本日急騰した理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1647598",
       "published": "2026-08-13 15:29:44",
@@ -145,62 +145,5 @@
       "isoDate": "2026-08-12T22:33:00Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "二つの価格帯に挟まれるビットコイン、先物市場にリスクも＝グラスノード",
-      "link": "https://coinpost.jp/?p=730964",
-      "published": "Fri, 14 Aug 2026 11:05:00 +0900",
-      "isoDate": "2026-08-14T02:05:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「今の仮想通貨相場は割安」ビットワイズ幹部が市場の変化を指摘",
-      "link": "https://coinpost.jp/?p=730960",
-      "published": "Fri, 14 Aug 2026 09:35:38 +0900",
-      "isoDate": "2026-08-14T00:35:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ゴールドマン、ネオス買収合意　ビットコイン・イーサリアムETFも獲得",
-      "link": "https://coinpost.jp/?p=730906",
-      "published": "Thu, 13 Aug 2026 11:53:49 +0900",
-      "isoDate": "2026-08-13T02:53:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットCEO、ビットコイン移動は売却でないと説明",
-      "link": "https://coinpost.jp/?p=730916",
-      "published": "Thu, 13 Aug 2026 11:43:34 +0900",
-      "isoDate": "2026-08-13T02:43:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインが2.1万ドルに下落でも担保不足にならず、ストラテジーがデータ共有",
-      "link": "https://coinpost.jp/?p=730899",
-      "published": "Thu, 13 Aug 2026 11:24:05 +0900",
-      "isoDate": "2026-08-13T02:24:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール、ビットコイン相場安定化局面で3要因分析",
-      "link": "https://coinpost.jp/?p=730904",
-      "published": "Thu, 13 Aug 2026 11:11:56 +0900",
-      "isoDate": "2026-08-13T02:11:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "WIZE、SBI VCトレード保管のソラナを自社運用　規模2倍に拡大",
-      "link": "https://coinpost.jp/?p=730855",
-      "published": "Wed, 12 Aug 2026 17:29:18 +0900",
-      "isoDate": "2026-08-12T08:29:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインは先物主導、現物需要はマイナス圏＝アナリスト",
-      "link": "https://coinpost.jp/?p=730833",
-      "published": "Wed, 12 Aug 2026 14:27:32 +0900",
-      "isoDate": "2026-08-12T05:27:32Z"
-    }
-  ]
+  "btc_items": []
 }
