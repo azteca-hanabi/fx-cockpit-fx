@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T22:52:18Z",
-  "last_checked": "2026-08-14T22:52:18Z",
+  "updated": "2026-08-14T23:26:00Z",
+  "last_checked": "2026-08-14T23:26:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米商務省が発表した7月小売売上高が昨年10月来の減少",
+      "link": "https://jp.investing.com/news/forex-news/article-1649616",
+      "published": "2026-08-14 22:30:05",
+      "isoDate": "2026-08-14T22:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ドラッケンミラー氏、Amazon.comとAMDを大量購入、一部半導体株は売却",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649577",
       "published": "2026-08-14 21:26:38",
@@ -132,110 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は502円高でスタート、キオクシアHDやソフトバンクGなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648246",
-      "published": "2026-08-14 00:45:09",
-      "isoDate": "2026-08-14T00:45:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだ銘柄が212%超のリターンを達成、的中率93%",
       "link": "https://jp.investing.com/news/stock-market-news/article-1648036",
       "published": "2026-08-13 21:25:22",
       "isoDate": "2026-08-13T21:25:22Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ノルウェー政府系ファンド、ビットコイン間接保有が過去最高に",
-      "link": "https://coinpost.jp/?p=731028",
-      "published": "Sat, 15 Aug 2026 07:15:34 +0900",
-      "isoDate": "2026-08-14T22:15:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、証券トークン化特例規則の公表を再度延期",
-      "link": "https://coinpost.jp/?p=731029",
-      "published": "Sat, 15 Aug 2026 06:30:38 +0900",
-      "isoDate": "2026-08-14T21:30:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
-      "link": "https://coinpost.jp/?p=731026",
-      "published": "Sat, 15 Aug 2026 06:05:04 +0900",
-      "isoDate": "2026-08-14T21:05:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、仮想通貨規則案の採決会合を延期",
-      "link": "https://coinpost.jp/?p=731030",
-      "published": "Sat, 15 Aug 2026 05:50:39 +0900",
-      "isoDate": "2026-08-14T20:50:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米MSCI、ストラテジーとメタプラネットの株価指数除外を協議",
-      "link": "https://coinpost.jp/?p=731018",
-      "published": "Sat, 15 Aug 2026 05:00:43 +0900",
-      "isoDate": "2026-08-14T20:00:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPトレジャリー企業エバーノース、ナスダック上場に向け発行株式数で変更申請",
-      "link": "https://coinpost.jp/?p=730982",
-      "published": "Fri, 14 Aug 2026 13:25:16 +0900",
-      "isoDate": "2026-08-14T04:25:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ウォレットTrezor、配送委託先のデータ侵害で約1.4万人の顧客情報が流出",
-      "link": "https://coinpost.jp/?p=730976",
-      "published": "Fri, 14 Aug 2026 13:15:16 +0900",
-      "isoDate": "2026-08-14T04:15:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "二つの価格帯に挟まれるビットコイン、先物市場にリスクも＝グラスノード",
-      "link": "https://coinpost.jp/?p=730964",
-      "published": "Fri, 14 Aug 2026 11:05:00 +0900",
-      "isoDate": "2026-08-14T02:05:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「今の仮想通貨相場は割安」ビットワイズ幹部が市場の変化を指摘",
-      "link": "https://coinpost.jp/?p=730960",
-      "published": "Fri, 14 Aug 2026 09:35:38 +0900",
-      "isoDate": "2026-08-14T00:35:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ゴールドマン、ネオス買収合意　ビットコイン・イーサリアムETFも獲得",
-      "link": "https://coinpost.jp/?p=730906",
-      "published": "Thu, 13 Aug 2026 11:53:49 +0900",
-      "isoDate": "2026-08-13T02:53:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットCEO、ビットコイン移動は売却でないと説明",
-      "link": "https://coinpost.jp/?p=730916",
-      "published": "Thu, 13 Aug 2026 11:43:34 +0900",
-      "isoDate": "2026-08-13T02:43:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインが2.1万ドルに下落でも担保不足にならず、ストラテジーがデータ共有",
-      "link": "https://coinpost.jp/?p=730899",
-      "published": "Thu, 13 Aug 2026 11:24:05 +0900",
-      "isoDate": "2026-08-13T02:24:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール、ビットコイン相場安定化局面で3要因分析",
-      "link": "https://coinpost.jp/?p=730904",
-      "published": "Thu, 13 Aug 2026 11:11:56 +0900",
-      "isoDate": "2026-08-13T02:11:56Z"
-    }
-  ]
+  "btc_items": []
 }
