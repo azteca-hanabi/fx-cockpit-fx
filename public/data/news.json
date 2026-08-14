@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T17:58:52Z",
-  "last_checked": "2026-08-14T17:58:52Z",
+  "updated": "2026-08-14T19:06:18Z",
+  "last_checked": "2026-08-14T19:06:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ストレージ需要が強化、PC需要は悪化――最新VARチェックが示す明暗",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649108",
-      "published": "2026-08-14 12:44:09",
-      "isoDate": "2026-08-14T12:44:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SpaceXがAIコーディングプラットフォーム「Cursor」を600億ドルで買収完了",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649106",
       "published": "2026-08-14 12:43:11",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1648264",
       "published": "2026-08-14 00:53:29",
       "isoDate": "2026-08-14T00:53:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は502円高でスタート、キオクシアHDやソフトバンクGなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1648246",
+      "published": "2026-08-14 00:45:09",
+      "isoDate": "2026-08-14T00:45:09Z"
     },
     {
       "source": "Investing.com 外為",
