@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-14T19:06:18Z",
-  "last_checked": "2026-08-14T19:06:18Z",
+  "updated": "2026-08-14T20:03:40Z",
+  "last_checked": "2026-08-14T20:03:40Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、82.35付近でレンジ膠着：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
+      "published": "2026-08-14 19:12:44",
+      "isoDate": "2026-08-14T19:12:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、64.90で膠着-67.00突破が分岐点：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
+      "published": "2026-08-14 19:12:34",
+      "isoDate": "2026-08-14T19:12:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$88.57で膠着―ブレイク待ち：最新レベル更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
+      "published": "2026-08-14 19:12:31",
+      "isoDate": "2026-08-14T19:12:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、6.50～6.70ドルで膠着：次の一手をリアルタイム更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
+      "published": "2026-08-14 19:12:29",
+      "isoDate": "2026-08-14T19:12:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,433で膠着――分岐点の攻防：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
+      "published": "2026-08-14 19:12:18",
+      "isoDate": "2026-08-14T19:12:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドが燃料輸出に対するウィンドフォール税を引き下げ、土曜日から発効",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649487",
+      "published": "2026-08-14 19:03:01",
+      "isoDate": "2026-08-14T19:03:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海の緊張が輸出を混乱させ、ユーロネクスト小麦が上昇",
@@ -29,48 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649430",
       "published": "2026-08-14 16:27:36",
       "isoDate": "2026-08-14T16:27:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、週間では下落も金曜日に反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649150",
-      "published": "2026-08-14 13:04:39",
-      "isoDate": "2026-08-14T13:04:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、週間では下落も金曜日に反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649151",
-      "published": "2026-08-14 13:04:39",
-      "isoDate": "2026-08-14T13:04:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金のミニラリーを追うべきか？シティの見解",
-      "link": "https://jp.investing.com/news/commodities-news/article-1648866",
-      "published": "2026-08-14 10:59:14",
-      "isoDate": "2026-08-14T10:59:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の行き詰まりで欧州天然ガスが7月以来最大の週間上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1648628",
-      "published": "2026-08-14 08:25:46",
-      "isoDate": "2026-08-14T08:25:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$80～$84.50レンジで膠着：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
-      "published": "2026-08-14 07:08:37",
-      "isoDate": "2026-08-14T07:08:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅が$6.58サポートで攻防中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
-      "published": "2026-08-14 07:08:21",
-      "isoDate": "2026-08-14T07:08:21Z"
     }
   ],
   "usdjpy_items": [
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米MSCI、ストラテジーとメタプラネットの株価指数除外を協議",
+      "link": "https://coinpost.jp/?p=731018",
+      "published": "Sat, 15 Aug 2026 05:00:43 +0900",
+      "isoDate": "2026-08-14T20:00:43Z"
+    },
     {
       "source": "CoinPost",
       "title": "XRPトレジャリー企業エバーノース、ナスダック上場に向け発行株式数で変更申請",
