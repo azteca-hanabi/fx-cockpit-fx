@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T20:56:47Z",
-  "last_checked": "2026-08-14T20:56:47Z",
+  "updated": "2026-08-14T21:32:35Z",
+  "last_checked": "2026-08-14T21:32:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
+      "link": "https://coinpost.jp/?p=731026",
+      "published": "Sat, 15 Aug 2026 06:05:04 +0900",
+      "isoDate": "2026-08-14T21:05:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、仮想通貨規則案の採決会合を中止",
+      "link": "https://coinpost.jp/?p=731030",
+      "published": "Sat, 15 Aug 2026 05:50:39 +0900",
+      "isoDate": "2026-08-14T20:50:39Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米MSCI、ストラテジーとメタプラネットの株価指数除外を協議",
       "link": "https://coinpost.jp/?p=731018",
       "published": "Sat, 15 Aug 2026 05:00:43 +0900",
@@ -208,13 +222,6 @@
       "link": "https://coinpost.jp/?p=730904",
       "published": "Thu, 13 Aug 2026 11:11:56 +0900",
       "isoDate": "2026-08-13T02:11:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "WIZE、SBI VCトレード保管のソラナを自社運用　規模2倍に拡大",
-      "link": "https://coinpost.jp/?p=730855",
-      "published": "Wed, 12 Aug 2026 17:29:18 +0900",
-      "isoDate": "2026-08-12T08:29:18Z"
     }
   ]
 }
