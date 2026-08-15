@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T23:50:08Z",
-  "last_checked": "2026-08-14T23:50:08Z",
+  "updated": "2026-08-15T01:26:26Z",
+  "last_checked": "2026-08-15T01:26:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米商務省が発表した7月小売売上高が昨年10月来の減少",
-      "link": "https://jp.investing.com/news/forex-news/article-1649616",
-      "published": "2026-08-14 22:30:05",
-      "isoDate": "2026-08-14T22:30:05Z"
+      "title": "NY金先物：反発、米インフレ鈍化でFRBの利上げ観測が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1649643",
+      "published": "2026-08-15 00:00:06",
+      "isoDate": "2026-08-15T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、消費や景気減速懸念が浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649630",
+      "published": "2026-08-14 23:15:06",
+      "isoDate": "2026-08-14T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649577",
       "published": "2026-08-14 21:26:38",
       "isoDate": "2026-08-14T21:26:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バークシャー・ハサウェイ、アルファベット株を増強し銀行セクターへの投資を縮小",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649548",
-      "published": "2026-08-14 20:53:58",
-      "isoDate": "2026-08-14T20:53:58Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ヴァンエック、「ビットコインは底打ち近い」と見解",
+      "link": "https://coinpost.jp/?p=731059",
+      "published": "Sat, 15 Aug 2026 10:05:23 +0900",
+      "isoDate": "2026-08-15T01:05:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、HTXなど16社と取引制限へ",
+      "link": "https://coinpost.jp/?p=731027",
+      "published": "Sat, 15 Aug 2026 09:40:31 +0900",
+      "isoDate": "2026-08-15T00:40:31Z"
+    },
     {
       "source": "CoinPost",
       "title": "イスラエル最大手レウミ銀行、ビットコインなどの仮想通貨取引サービス提供へ",
@@ -229,20 +243,6 @@
       "link": "https://coinpost.jp/?p=730906",
       "published": "Thu, 13 Aug 2026 11:53:49 +0900",
       "isoDate": "2026-08-13T02:53:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットCEO、ビットコイン移動は売却でないと説明",
-      "link": "https://coinpost.jp/?p=730916",
-      "published": "Thu, 13 Aug 2026 11:43:34 +0900",
-      "isoDate": "2026-08-13T02:43:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインが2.1万ドルに下落でも担保不足にならず、ストラテジーがデータ共有",
-      "link": "https://coinpost.jp/?p=730899",
-      "published": "Thu, 13 Aug 2026 11:24:05 +0900",
-      "isoDate": "2026-08-13T02:24:05Z"
     }
   ]
 }
