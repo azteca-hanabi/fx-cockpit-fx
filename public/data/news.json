@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T05:54:26Z",
-  "last_checked": "2026-08-15T05:54:26Z",
+  "updated": "2026-08-15T06:44:39Z",
+  "last_checked": "2026-08-15T06:44:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ADNOCの船舶がホルムズ海峡で攻撃、トランプ大統領が空母の長期展開を擁護",
+      "link": "https://jp.investing.com/news/economy-news/article-1649756",
+      "published": "2026-08-15 06:02:58",
+      "isoDate": "2026-08-15T06:02:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：翌週に二大イベント控える中で様子見ムード強まる公算",
+      "link": "https://jp.investing.com/news/forex-news/article-1649746",
+      "published": "2026-08-15 05:45:03",
+      "isoDate": "2026-08-15T05:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "USD/JPYが160を超えたらどうなるか？「信頼性はさらに低下する」",
+      "link": "https://jp.investing.com/news/forex-news/article-1649745",
+      "published": "2026-08-15 05:28:47",
+      "isoDate": "2026-08-15T05:28:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがOpenAIデータセンター保証額を1,200億ドル未満に削減――WSJ",
       "link": "https://jp.investing.com/news/company-news/article-1649734",
       "published": "2026-08-15 04:38:44",
       "isoDate": "2026-08-15T04:38:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アマゾン、仲裁条項を復活させ集団訴訟を制限",
-      "link": "https://jp.investing.com/news/company-news/article-1649678",
-      "published": "2026-08-15 01:27:40",
-      "isoDate": "2026-08-15T01:27:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649577",
       "published": "2026-08-14 21:26:38",
       "isoDate": "2026-08-14T21:26:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは107.58ドル安、消費や景気減速懸念が浮上",
-      "link": "https://jp.investing.com/news/forex-news/article-1649563",
-      "published": "2026-08-14 21:15:04",
-      "isoDate": "2026-08-14T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1648554",
       "published": "2026-08-14 07:30:20",
       "isoDate": "2026-08-14T07:30:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は423円高、主要企業の決算発表は今日で一巡",
-      "link": "https://jp.investing.com/news/forex-news/article-1648444",
-      "published": "2026-08-14 06:00:17",
-      "isoDate": "2026-08-14T06:00:17Z"
     },
     {
       "source": "Investing.com 外為",
