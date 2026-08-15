@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T15:24:57Z",
-  "last_checked": "2026-08-15T15:24:57Z",
+  "updated": "2026-08-15T15:47:27Z",
+  "last_checked": "2026-08-15T15:47:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,5 +145,111 @@
       "isoDate": "2026-08-14T07:30:20Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場ハイパースケール・データ、685BTCのビットコイン売却しAIデータセンター拡張へ",
+      "link": "https://coinpost.jp/?p=731072",
+      "published": "Sat, 15 Aug 2026 13:10:52 +0900",
+      "isoDate": "2026-08-15T04:10:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コンヴァノ、保有暗号資産の売却を完了　損失は約3億円",
+      "link": "https://coinpost.jp/?p=731057",
+      "published": "Sat, 15 Aug 2026 11:25:06 +0900",
+      "isoDate": "2026-08-15T02:25:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットが「BitBonds」創設、初回社債発行完了",
+      "link": "https://coinpost.jp/?p=731036",
+      "published": "Sat, 15 Aug 2026 10:30:05 +0900",
+      "isoDate": "2026-08-15T01:30:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ヴァンエック、「ビットコインは底打ち近い」と見解",
+      "link": "https://coinpost.jp/?p=731059",
+      "published": "Sat, 15 Aug 2026 10:05:23 +0900",
+      "isoDate": "2026-08-15T01:05:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、HTXなど16社と取引制限へ",
+      "link": "https://coinpost.jp/?p=731027",
+      "published": "Sat, 15 Aug 2026 09:40:31 +0900",
+      "isoDate": "2026-08-15T00:40:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イスラエル最大手レウミ銀行、ビットコインなどの仮想通貨取引サービス提供へ",
+      "link": "https://coinpost.jp/?p=731044",
+      "published": "Sat, 15 Aug 2026 08:20:25 +0900",
+      "isoDate": "2026-08-14T23:20:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、来週の仮想通貨・予測市場会合に出席見込み＝報道",
+      "link": "https://coinpost.jp/?p=731037",
+      "published": "Sat, 15 Aug 2026 08:10:07 +0900",
+      "isoDate": "2026-08-14T23:10:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ノルウェー政府系ファンド、ビットコイン間接保有数が過去最高に",
+      "link": "https://coinpost.jp/?p=731028",
+      "published": "Sat, 15 Aug 2026 07:15:34 +0900",
+      "isoDate": "2026-08-14T22:15:34Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、証券トークン化特例規則の公表を再度延期",
+      "link": "https://coinpost.jp/?p=731029",
+      "published": "Sat, 15 Aug 2026 06:30:38 +0900",
+      "isoDate": "2026-08-14T21:30:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米Cboe、ビットコインなど3倍レバレッジETFを申請",
+      "link": "https://coinpost.jp/?p=731026",
+      "published": "Sat, 15 Aug 2026 06:05:04 +0900",
+      "isoDate": "2026-08-14T21:05:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、仮想通貨規則案の採決会合を延期",
+      "link": "https://coinpost.jp/?p=731030",
+      "published": "Sat, 15 Aug 2026 05:50:39 +0900",
+      "isoDate": "2026-08-14T20:50:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米MSCI、ストラテジーとメタプラネットの株価指数除外を協議",
+      "link": "https://coinpost.jp/?p=731018",
+      "published": "Sat, 15 Aug 2026 05:00:43 +0900",
+      "isoDate": "2026-08-14T20:00:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "XRPトレジャリー企業エバーノース、ナスダック上場に向け発行株式数で変更申請",
+      "link": "https://coinpost.jp/?p=730982",
+      "published": "Fri, 14 Aug 2026 13:25:16 +0900",
+      "isoDate": "2026-08-14T04:25:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレットTrezor、配送委託先のデータ侵害で約1.4万人の顧客情報が流出",
+      "link": "https://coinpost.jp/?p=730976",
+      "published": "Fri, 14 Aug 2026 13:15:16 +0900",
+      "isoDate": "2026-08-14T04:15:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "二つの価格帯に挟まれるビットコイン、先物市場にリスクも＝グラスノード",
+      "link": "https://coinpost.jp/?p=730964",
+      "published": "Fri, 14 Aug 2026 11:05:00 +0900",
+      "isoDate": "2026-08-14T02:05:00Z"
+    }
+  ]
 }
