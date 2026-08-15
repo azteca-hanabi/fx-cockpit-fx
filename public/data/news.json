@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T08:34:01Z",
-  "last_checked": "2026-08-15T08:34:01Z",
+  "updated": "2026-08-15T09:29:26Z",
+  "last_checked": "2026-08-15T09:29:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米政府、アップルに中国製メモリチップの調達回避を要請＝WSJ",
+      "link": "https://jp.investing.com/news/economy-news/article-1649767",
+      "published": "2026-08-15 08:55:22",
+      "isoDate": "2026-08-15T08:55:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：国内GDP、米FOMC議事要旨、全国CPI",
       "link": "https://jp.investing.com/news/forex-news/article-1649759",
       "published": "2026-08-15 07:15:04",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/company-news/article-1649734",
       "published": "2026-08-15 04:38:44",
       "isoDate": "2026-08-15T04:38:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、消費や景気減速懸念が浮上",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649630",
-      "published": "2026-08-14 23:15:06",
-      "isoDate": "2026-08-14T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
