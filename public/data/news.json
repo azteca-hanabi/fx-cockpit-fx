@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T03:42:41Z",
-  "last_checked": "2026-08-15T03:42:41Z",
+  "updated": "2026-08-15T04:35:19Z",
+  "last_checked": "2026-08-15T04:35:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場ハイパースケール・データ、685BTCのビットコイン売却しAIデータセンター拡張へ",
+      "link": "https://coinpost.jp/?p=731072",
+      "published": "Sat, 15 Aug 2026 13:10:52 +0900",
+      "isoDate": "2026-08-15T04:10:52Z"
+    },
     {
       "source": "CoinPost",
       "title": "コンヴァノ、保有暗号資産の売却を完了　損失は約3億円",
