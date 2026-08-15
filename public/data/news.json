@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T07:33:46Z",
-  "last_checked": "2026-08-15T07:33:46Z",
+  "updated": "2026-08-15T08:34:01Z",
+  "last_checked": "2026-08-15T08:34:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：国内GDP、米FOMC議事要旨、全国CPI",
+      "link": "https://jp.investing.com/news/forex-news/article-1649759",
+      "published": "2026-08-15 07:15:04",
+      "isoDate": "2026-08-15T07:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ADNOCの船舶がホルムズ海峡で攻撃、トランプ大統領が空母の長期展開を擁護",
       "link": "https://jp.investing.com/news/economy-news/article-1649756",
       "published": "2026-08-15 06:02:58",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1648554",
       "published": "2026-08-14 07:30:20",
       "isoDate": "2026-08-14T07:30:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだ銘柄が212%超のリターンを達成、的中率93%",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648036",
-      "published": "2026-08-13 21:25:22",
-      "isoDate": "2026-08-13T21:25:22Z"
     }
   ],
   "btc_items": [
