@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T04:35:19Z",
-  "last_checked": "2026-08-15T04:35:19Z",
+  "updated": "2026-08-15T05:28:32Z",
+  "last_checked": "2026-08-15T05:28:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaがOpenAIデータセンター保証額を1,200億ドル未満に削減――WSJ",
+      "link": "https://jp.investing.com/news/company-news/article-1649734",
+      "published": "2026-08-15 04:38:44",
+      "isoDate": "2026-08-15T04:38:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アマゾン、仲裁条項を復活させ集団訴訟を制限",
       "link": "https://jp.investing.com/news/company-news/article-1649678",
       "published": "2026-08-15 01:27:40",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649189",
       "published": "2026-08-14 13:22:27",
       "isoDate": "2026-08-14T13:22:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがAIコーディングプラットフォーム「Cursor」を600億ドルで買収完了",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649106",
-      "published": "2026-08-14 12:43:11",
-      "isoDate": "2026-08-14T12:43:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -250,13 +250,6 @@
       "link": "https://coinpost.jp/?p=730964",
       "published": "Fri, 14 Aug 2026 11:05:00 +0900",
       "isoDate": "2026-08-14T02:05:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「今の仮想通貨相場は割安」ビットワイズ幹部が市場の変化を指摘",
-      "link": "https://coinpost.jp/?p=730960",
-      "published": "Fri, 14 Aug 2026 09:35:38 +0900",
-      "isoDate": "2026-08-14T00:35:38Z"
     }
   ]
 }
