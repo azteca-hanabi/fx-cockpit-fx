@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T01:26:26Z",
-  "last_checked": "2026-08-15T01:26:26Z",
+  "updated": "2026-08-15T02:35:54Z",
+  "last_checked": "2026-08-15T02:35:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金先物：反発、米インフレ鈍化でFRBの利上げ観測が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1649643",
-      "published": "2026-08-15 00:00:06",
-      "isoDate": "2026-08-15T00:00:06Z"
+      "title": "アマゾン、仲裁条項を復活させ集団訴訟を制限",
+      "link": "https://jp.investing.com/news/company-news/article-1649678",
+      "published": "2026-08-15 01:27:40",
+      "isoDate": "2026-08-15T01:27:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,6 +94,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649577",
       "published": "2026-08-14 21:26:38",
       "isoDate": "2026-08-14T21:26:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは107.58ドル安、消費や景気減速懸念が浮上",
+      "link": "https://jp.investing.com/news/forex-news/article-1649563",
+      "published": "2026-08-14 21:15:04",
+      "isoDate": "2026-08-14T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "S&P 500が最高値を更新、週末の米株先物は小動き",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1648264",
-      "published": "2026-08-14 00:53:29",
-      "isoDate": "2026-08-14T00:53:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだ銘柄が212%超のリターンを達成、的中率93%",
       "link": "https://jp.investing.com/news/stock-market-news/article-1648036",
       "published": "2026-08-13 21:25:22",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コンヴァノ、保有暗号資産の売却を完了　損失は約3億円",
+      "link": "https://coinpost.jp/?p=731057",
+      "published": "Sat, 15 Aug 2026 11:25:06 +0900",
+      "isoDate": "2026-08-15T02:25:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットが「BitBonds」創設、初回社債発行完了",
+      "link": "https://coinpost.jp/?p=731036",
+      "published": "Sat, 15 Aug 2026 10:30:05 +0900",
+      "isoDate": "2026-08-15T01:30:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "ヴァンエック、「ビットコインは底打ち近い」と見解",
@@ -236,13 +250,6 @@
       "link": "https://coinpost.jp/?p=730960",
       "published": "Fri, 14 Aug 2026 09:35:38 +0900",
       "isoDate": "2026-08-14T00:35:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ゴールドマン、ネオス買収合意　ビットコイン・イーサリアムETFも獲得",
-      "link": "https://coinpost.jp/?p=730906",
-      "published": "Thu, 13 Aug 2026 11:53:49 +0900",
-      "isoDate": "2026-08-13T02:53:49Z"
     }
   ]
 }
