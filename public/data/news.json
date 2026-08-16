@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T05:01:09Z",
-  "last_checked": "2026-08-16T05:01:09Z",
+  "updated": "2026-08-16T05:55:00Z",
+  "last_checked": "2026-08-16T05:55:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "カナダのZimar社、ニジェールに19億ドルの製油所複合施設を建設へ",
+      "link": "https://jp.investing.com/news/company-news/article-1649905",
+      "published": "2026-08-16 05:31:00",
+      "isoDate": "2026-08-16T05:31:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米大型株ファンド、10年間でベンチマークを上回ったのはわずか13%",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649881",
       "published": "2026-08-16 01:37:23",
@@ -118,7 +125,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米政府、中国製メモリチップ購入回避をアップルに要請＝WSJ",
+      "title": "米政府、アップルに中国製メモリチップの調達回避を要請＝WSJ",
       "link": "https://jp.investing.com/news/economy-news/article-1649767",
       "published": "2026-08-15 08:55:22",
       "isoDate": "2026-08-15T08:55:22Z"
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1649746",
       "published": "2026-08-15 05:45:03",
       "isoDate": "2026-08-15T05:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがOpenAIデータセンター保証額を1,200億ドル未満に削減――WSJ",
-      "link": "https://jp.investing.com/news/company-news/article-1649734",
-      "published": "2026-08-15 04:38:44",
-      "isoDate": "2026-08-15T04:38:44Z"
     }
   ],
   "btc_items": [
