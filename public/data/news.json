@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T22:25:21Z",
-  "last_checked": "2026-08-16T22:25:21Z",
+  "updated": "2026-08-16T22:48:15Z",
+  "last_checked": "2026-08-16T22:48:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "14日のNY市場は反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649997",
+      "published": "2026-08-16 22:15:02",
+      "isoDate": "2026-08-16T22:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaとブロードコムのAI融資支援、コンピュート購入者のビジネスモデル管理を強化",
+      "link": "https://jp.investing.com/news/economy-news/article-1649995",
+      "published": "2026-08-16 22:10:04",
+      "isoDate": "2026-08-16T22:10:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaのネオクラウドへのAI資金調達、大きな収益源になる可能性——モルガン・スタンレー",
       "link": "https://jp.investing.com/news/company-news/article-1649993",
       "published": "2026-08-16 21:21:34",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/general-news/article-1649948",
       "published": "2026-08-16 10:00:03",
       "isoDate": "2026-08-16T10:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインが6万3000ドル超で推移、セイラー氏は「デジタル通貨エネルギー」と主張",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1649940",
-      "published": "2026-08-16 09:09:48",
-      "isoDate": "2026-08-16T09:09:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのAIインフラ向け5000億ドル投資動員が株価にプラスの理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649848",
-      "published": "2026-08-15 21:07:11",
-      "isoDate": "2026-08-15T21:07:11Z"
     },
     {
       "source": "Investing.com 外為",
