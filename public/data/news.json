@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T15:26:05Z",
-  "last_checked": "2026-08-16T15:26:05Z",
+  "updated": "2026-08-16T15:48:36Z",
+  "last_checked": "2026-08-16T15:48:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIが選んだ小型株が月間+39%・+34%上昇――いち早くお伝えした",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649976",
+      "published": "2026-08-16 15:01:35",
+      "isoDate": "2026-08-16T15:01:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株式への資金流入が前週比3倍近くに、ウォール街は過去最高値圏で推移",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649968",
       "published": "2026-08-16 13:41:11",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1649940",
       "published": "2026-08-16 09:09:48",
       "isoDate": "2026-08-16T09:09:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランがカタール・クウェートと対立、米軍司令官が空母を訪問",
-      "link": "https://jp.investing.com/news/economy-news/article-1649873",
-      "published": "2026-08-16 00:01:12",
-      "isoDate": "2026-08-16T00:01:12Z"
     },
     {
       "source": "Investing.com 外為",
