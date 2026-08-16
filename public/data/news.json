@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T21:23:53Z",
-  "last_checked": "2026-08-16T21:23:53Z",
+  "updated": "2026-08-16T21:46:25Z",
+  "last_checked": "2026-08-16T21:46:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaのネオクラウドへのAI資金調達、大きな収益源になる可能性——モルガン・スタンレー",
+      "link": "https://jp.investing.com/news/company-news/article-1649993",
+      "published": "2026-08-16 21:21:34",
+      "isoDate": "2026-08-16T21:21:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "株価反応と業績が乖離、歴史的な第2四半期決算シーズン",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649977",
       "published": "2026-08-16 15:28:02",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649848",
       "published": "2026-08-15 21:07:11",
       "isoDate": "2026-08-15T21:07:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500の上昇の裏側：パフォーマンスとファンダメンタルズの乖離",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649820",
-      "published": "2026-08-15 17:16:30",
-      "isoDate": "2026-08-15T17:16:30Z"
     },
     {
       "source": "Investing.com 外為",
