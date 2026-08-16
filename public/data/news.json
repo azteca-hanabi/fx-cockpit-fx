@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T23:46:24Z",
-  "last_checked": "2026-08-15T23:46:24Z",
+  "updated": "2026-08-16T01:38:25Z",
+  "last_checked": "2026-08-16T01:38:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米中間選挙後は日本も政局？【フィスコ・コラム】",
+      "link": "https://jp.investing.com/news/forex-news/article-1649875",
+      "published": "2026-08-16 00:15:03",
+      "isoDate": "2026-08-16T00:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "オープンウェイトモデルは生成AIのROICにどう影響するか",
+      "link": "https://jp.investing.com/news/economy-news/article-1649865",
+      "published": "2026-08-15 23:22:36",
+      "isoDate": "2026-08-15T23:22:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaのAIインフラ向け5000億ドル投資動員が株価にプラスの理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649848",
       "published": "2026-08-15 21:07:11",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ADNOCの船舶がホルムズ海峡で攻撃、トランプ大統領が空母の長期展開を擁護",
-      "link": "https://jp.investing.com/news/economy-news/article-1649756",
-      "published": "2026-08-15 06:02:58",
-      "isoDate": "2026-08-15T06:02:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株式市場見通し：翌週に二大イベント控える中で様子見ムード強まる公算",
       "link": "https://jp.investing.com/news/forex-news/article-1649746",
       "published": "2026-08-15 05:45:03",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/company-news/article-1649734",
       "published": "2026-08-15 04:38:44",
       "isoDate": "2026-08-15T04:38:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー：ニューストリートが買い推奨に格上げ、メモリは景気循環型ではなくなったと主張",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649189",
-      "published": "2026-08-14 13:22:27",
-      "isoDate": "2026-08-14T13:22:27Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（8/14）｜ヘイズの相場分析・BTCのフォーク・ETHのロードマップ刷新のまとめ",
+      "link": "https://coinpost.jp/?p=730975",
+      "published": "Sun, 16 Aug 2026 09:25:30 +0900",
+      "isoDate": "2026-08-16T00:25:30Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場ハイパースケール・データ、685BTCのビットコイン売却しAIデータセンター拡張へ",
@@ -243,13 +250,6 @@
       "link": "https://coinpost.jp/?p=730976",
       "published": "Fri, 14 Aug 2026 13:15:16 +0900",
       "isoDate": "2026-08-14T04:15:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "二つの価格帯に挟まれるビットコイン、先物市場にリスクも＝グラスノード",
-      "link": "https://coinpost.jp/?p=730964",
-      "published": "Fri, 14 Aug 2026 11:05:00 +0900",
-      "isoDate": "2026-08-14T02:05:00Z"
     }
   ]
 }
