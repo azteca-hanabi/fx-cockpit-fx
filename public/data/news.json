@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T05:55:00Z",
-  "last_checked": "2026-08-16T05:55:00Z",
+  "updated": "2026-08-16T06:46:20Z",
+  "last_checked": "2026-08-16T06:46:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,6 +90,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米中間選挙後は日本も政局？【フィスコ・コラム】",
+      "link": "https://jp.investing.com/news/forex-news/article-1649875",
+      "published": "2026-08-16 00:15:03",
+      "isoDate": "2026-08-16T00:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "オープンウェイトモデルは生成AIのROICにどう影響するか",
       "link": "https://jp.investing.com/news/economy-news/article-1649865",
       "published": "2026-08-15 23:22:36",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1649759",
       "published": "2026-08-15 07:15:04",
       "isoDate": "2026-08-15T07:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：翌週に二大イベント控える中で様子見ムード強まる公算",
-      "link": "https://jp.investing.com/news/forex-news/article-1649746",
-      "published": "2026-08-15 05:45:03",
-      "isoDate": "2026-08-15T05:45:03Z"
     }
   ],
   "btc_items": [
