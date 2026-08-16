@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T22:48:15Z",
-  "last_checked": "2026-08-16T22:48:15Z",
+  "updated": "2026-08-16T23:23:37Z",
+  "last_checked": "2026-08-16T23:23:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NYの視点：【今週の注目】FOMC議事要旨、米英CPI、英失業率など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650001",
+      "published": "2026-08-16 22:45:03",
+      "isoDate": "2026-08-16T22:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "14日のNY市場は反落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649997",
       "published": "2026-08-16 22:15:02",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米政府、アップルに中国製メモリチップの調達回避を要請＝WSJ",
-      "link": "https://jp.investing.com/news/economy-news/article-1649767",
-      "published": "2026-08-15 08:55:22",
-      "isoDate": "2026-08-15T08:55:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：国内GDP、米FOMC議事要旨、全国CPI",
       "link": "https://jp.investing.com/news/forex-news/article-1649759",
       "published": "2026-08-15 07:15:04",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "10年以上未移動のビットコイン、供給量の約18％に　紛失の可能性も",
+      "link": "https://coinpost.jp/?p=731095",
+      "published": "Mon, 17 Aug 2026 07:51:39 +0900",
+      "isoDate": "2026-08-16T22:51:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か｜bitbankアナリスト寄稿",
@@ -243,13 +250,6 @@
       "link": "https://coinpost.jp/?p=731018",
       "published": "Sat, 15 Aug 2026 05:00:43 +0900",
       "isoDate": "2026-08-14T20:00:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPトレジャリー企業エバーノース、ナスダック上場に向け発行株式数で変更申請",
-      "link": "https://coinpost.jp/?p=730982",
-      "published": "Fri, 14 Aug 2026 13:25:16 +0900",
-      "isoDate": "2026-08-14T04:25:16Z"
     }
   ]
 }
