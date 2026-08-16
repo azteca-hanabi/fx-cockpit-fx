@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T15:48:36Z",
-  "last_checked": "2026-08-16T15:48:36Z",
+  "updated": "2026-08-16T16:29:52Z",
+  "last_checked": "2026-08-16T16:29:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "株価反応と業績が乖離、歴史的な第2四半期決算シーズン",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649977",
+      "published": "2026-08-16 15:28:02",
+      "isoDate": "2026-08-16T15:28:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが選んだ小型株が月間+39%・+34%上昇――いち早くお伝えした",
       "link": "https://jp.investing.com/news/stock-market-news/article-1649976",
       "published": "2026-08-16 15:01:35",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1649820",
       "published": "2026-08-15 17:16:30",
       "isoDate": "2026-08-15T17:16:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アルファベットはAI戦略の転換を示唆しているのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649795",
-      "published": "2026-08-15 14:02:13",
-      "isoDate": "2026-08-15T14:02:13Z"
     },
     {
       "source": "Investing.com 外為",
