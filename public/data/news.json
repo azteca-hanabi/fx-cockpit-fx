@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T09:30:59Z",
-  "last_checked": "2026-08-16T09:30:59Z",
+  "updated": "2026-08-16T10:27:02Z",
+  "last_checked": "2026-08-16T10:27:02Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今週のストリート・コール：アップル、オールステート、ベストバイほか",
+      "link": "https://jp.investing.com/news/general-news/article-1649948",
+      "published": "2026-08-16 10:00:03",
+      "isoDate": "2026-08-16T10:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインが6万3000ドル超で推移、セイラー氏は「デジタル通貨エネルギー」と主張",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1649940",
+      "published": "2026-08-16 09:09:48",
+      "isoDate": "2026-08-16T09:09:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "カナダのZimar社、ニジェールに19億ドルの製油所複合施設を建設へ",
       "link": "https://jp.investing.com/news/company-news/article-1649905",
       "published": "2026-08-16 05:31:00",
       "isoDate": "2026-08-16T05:31:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米大型株ファンド、10年間でベンチマークを上回ったのはわずか13%",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649881",
-      "published": "2026-08-16 01:37:23",
-      "isoDate": "2026-08-16T01:37:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米中間選挙後は日本も政局？【フィスコ・コラム】",
-      "link": "https://jp.investing.com/news/forex-news/article-1649875",
-      "published": "2026-08-16 00:15:03",
-      "isoDate": "2026-08-16T00:15:03Z"
     },
     {
       "source": "Investing.com 外為",
