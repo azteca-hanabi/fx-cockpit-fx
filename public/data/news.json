@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T01:38:25Z",
-  "last_checked": "2026-08-16T01:38:25Z",
+  "updated": "2026-08-16T03:03:50Z",
+  "last_checked": "2026-08-16T03:03:50Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米中間選挙後は日本も政局？【フィスコ・コラム】",
-      "link": "https://jp.investing.com/news/forex-news/article-1649875",
-      "published": "2026-08-16 00:15:03",
-      "isoDate": "2026-08-16T00:15:03Z"
+      "title": "米大型株ファンド、10年間でベンチマークを上回ったのはわずか13%",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1649881",
+      "published": "2026-08-16 01:37:23",
+      "isoDate": "2026-08-16T01:37:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=730997",
+      "published": "Sun, 16 Aug 2026 11:30:01 +0900",
+      "isoDate": "2026-08-16T02:30:01Z"
+    },
     {
       "source": "CoinPost",
       "title": "週刊仮想通貨ニュース（8/14）｜ヘイズの相場分析・BTCのフォーク・ETHのロードマップ刷新のまとめ",
@@ -243,13 +250,6 @@
       "link": "https://coinpost.jp/?p=730982",
       "published": "Fri, 14 Aug 2026 13:25:16 +0900",
       "isoDate": "2026-08-14T04:25:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ウォレットTrezor、配送委託先のデータ侵害で約1.4万人の顧客情報が流出",
-      "link": "https://coinpost.jp/?p=730976",
-      "published": "Fri, 14 Aug 2026 13:15:16 +0900",
-      "isoDate": "2026-08-14T04:15:16Z"
     }
   ]
 }
