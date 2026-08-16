@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T12:47:13Z",
-  "last_checked": "2026-08-16T12:47:13Z",
+  "updated": "2026-08-16T13:34:08Z",
+  "last_checked": "2026-08-16T13:34:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国、5月にイランの革命防衛隊と直接交渉していたと報道",
+      "link": "https://jp.investing.com/news/economy-news/article-1649960",
+      "published": "2026-08-16 12:19:25",
+      "isoDate": "2026-08-16T12:19:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "今週のストリート・コール：アップル、オールステート、ベストバイほか",
       "link": "https://jp.investing.com/news/general-news/article-1649948",
       "published": "2026-08-16 10:00:03",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1649940",
       "published": "2026-08-16 09:09:48",
       "isoDate": "2026-08-16T09:09:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "カナダのZimar社、ニジェールに19億ドルの製油所複合施設を建設へ",
-      "link": "https://jp.investing.com/news/company-news/article-1649905",
-      "published": "2026-08-16 05:31:00",
-      "isoDate": "2026-08-16T05:31:00Z"
     },
     {
       "source": "Investing.com 外為",
