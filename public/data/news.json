@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T22:53:04Z",
-  "last_checked": "2026-08-17T22:53:04Z",
+  "updated": "2026-08-17T23:26:13Z",
+  "last_checked": "2026-08-17T23:26:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part2 LiNKX、JDSC、キオクシアHDなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651575",
+      "published": "2026-08-17 22:45:05",
+      "isoDate": "2026-08-17T22:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：米8月NY連銀製造業景気指数などが予想外に改善",
       "link": "https://jp.investing.com/news/forex-news/article-1651537",
       "published": "2026-08-17 21:45:05",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1650435",
       "published": "2026-08-17 09:30:12",
       "isoDate": "2026-08-17T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は5日続伸、アドバンテストとキオクシアHDの2銘柄で約409円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650344",
-      "published": "2026-08-17 08:00:17",
-      "isoDate": "2026-08-17T08:00:17Z"
     },
     {
       "source": "Investing.com 外為",
