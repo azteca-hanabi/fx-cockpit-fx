@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T05:09:34Z",
-  "last_checked": "2026-08-17T05:09:34Z",
+  "updated": "2026-08-17T06:00:51Z",
+  "last_checked": "2026-08-17T06:00:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が4,400ドル近辺に上昇、FED議事録とエネルギーリスクが金利見通しを左右",
+      "title": "ドル安と中東リスクを背景に金価格が4,400ドル付近で上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1650062",
       "published": "2026-08-17 01:21:07",
       "isoDate": "2026-08-17T01:21:07Z"
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は189円高、株価の下値堅く安心感に",
+      "link": "https://jp.investing.com/news/forex-news/article-1650197",
+      "published": "2026-08-17 05:00:17",
+      "isoDate": "2026-08-17T05:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "後場の日経平均は49円高でスタート、フジクラや東京エレクトロンなどが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650150",
       "published": "2026-08-17 04:00:16",
@@ -97,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "半導体関連が下支えも上値重く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650139",
+      "published": "2026-08-17 03:30:14",
+      "isoDate": "2026-08-17T03:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比445円安の68735円",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650082",
       "published": "2026-08-17 01:45:14",
@@ -104,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格が4,400ドル近辺に上昇、FED議事録とエネルギーリスクが金利見通しを左右",
+      "title": "ドル安と中東リスクを背景に金価格が4,400ドル付近で上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1650062",
       "published": "2026-08-17 01:21:07",
       "isoDate": "2026-08-17T01:21:07Z"
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650057",
       "published": "2026-08-17 01:08:29",
       "isoDate": "2026-08-17T01:08:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金は4500ドルブレイクとなるか　サンワード証券の陳氏",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650032",
-      "published": "2026-08-17 00:30:06",
-      "isoDate": "2026-08-17T00:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "強弱材料 8/17",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650008",
-      "published": "2026-08-16 23:45:05",
-      "isoDate": "2026-08-16T23:45:05Z"
     },
     {
       "source": "Investing.com 外為",
