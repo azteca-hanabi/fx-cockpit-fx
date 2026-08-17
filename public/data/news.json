@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T11:29:54Z",
-  "last_checked": "2026-08-17T11:29:54Z",
+  "updated": "2026-08-17T11:53:41Z",
+  "last_checked": "2026-08-17T11:53:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は底堅い、米経済指標を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1650652",
+      "published": "2026-08-17 11:15:09",
+      "isoDate": "2026-08-17T11:15:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォール街ストラテジストが「金のロングが最善」と主張する理由",
+      "link": "https://jp.investing.com/news/commodities-news/article-1650607",
+      "published": "2026-08-17 11:00:12",
+      "isoDate": "2026-08-17T11:00:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "パイパー・サンドラー、SoFi Technologiesをクロスセル強化を理由に強気でカバレッジ開始",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650511",
       "published": "2026-08-17 10:13:06",
@@ -83,17 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ロケット・ラボがMDAスペース向け衛星プラットフォーム8基の軌道投入に成功",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1650463",
-      "published": "2026-08-17 09:52:02",
-      "isoDate": "2026-08-17T09:52:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ロスチャイルド、折りたたみiPhoneとAI戦略転換でアップルを買いに格上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650388",
-      "published": "2026-08-17 08:53:23",
-      "isoDate": "2026-08-17T08:53:23Z"
+      "title": "日経平均テクニカル： 5日続伸、25日線乖離5％超え",
+      "link": "https://jp.investing.com/news/forex-news/article-1650435",
+      "published": "2026-08-17 09:30:12",
+      "isoDate": "2026-08-17T09:30:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650144",
       "published": "2026-08-17 03:45:14",
       "isoDate": "2026-08-17T03:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街先物は横ばい圏、Fed利上げ観測後退とAnthropicの売上高成長が支援",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650057",
-      "published": "2026-08-17 01:08:29",
-      "isoDate": "2026-08-17T01:08:29Z"
     },
     {
       "source": "Investing.com 外為",
