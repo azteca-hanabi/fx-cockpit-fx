@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-17T06:00:51Z",
-  "last_checked": "2026-08-17T06:00:51Z",
+  "updated": "2026-08-17T07:33:08Z",
+  "last_checked": "2026-08-17T07:33:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、売られ過ぎで反発の火種：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-17 07:08:35",
+      "isoDate": "2026-08-17T07:08:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$66収束で分岐点に：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-17 07:08:31",
+      "isoDate": "2026-08-17T07:08:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.86の二重天井か上抜けかが分岐点：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-17 07:08:29",
+      "isoDate": "2026-08-17T07:08:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、狭いレンジで膠着-ブレイク待ち: 毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-17 07:08:25",
+      "isoDate": "2026-08-17T07:08:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金が$4,457でもみ合い、$4,367割れでトレンド転換リスク：最新レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-17 07:08:00",
+      "isoDate": "2026-08-17T07:08:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油価格、強い週の後にわずかに下落―イラン情勢への懸念続く",
@@ -36,50 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
       "published": "2026-08-14 19:12:34",
       "isoDate": "2026-08-14T19:12:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$88.57で膠着―ブレイク待ち：最新レベル更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640274",
-      "published": "2026-08-14 19:12:31",
-      "isoDate": "2026-08-14T19:12:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、6.50～6.70ドルで膠着：次の一手をリアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640277",
-      "published": "2026-08-14 19:12:29",
-      "isoDate": "2026-08-14T19:12:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,433で膠着――分岐点の攻防：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640278",
-      "published": "2026-08-14 19:12:18",
-      "isoDate": "2026-08-14T19:12:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドが燃料輸出に対するウィンドフォール税を引き下げ、土曜日から発効",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649487",
-      "published": "2026-08-14 19:03:01",
-      "isoDate": "2026-08-14T19:03:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の緊張が輸出を混乱させ、ユーロネクスト小麦が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649449",
-      "published": "2026-08-14 17:02:00",
-      "isoDate": "2026-08-14T17:02:00Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は189円高、株価の下値堅く安心感に",
-      "link": "https://jp.investing.com/news/forex-news/article-1650197",
-      "published": "2026-08-17 05:00:17",
-      "isoDate": "2026-08-17T05:00:17Z"
+      "title": "楽天グループ---大幅続伸、独防衛スタートアップとの提携が報じられる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650236",
+      "published": "2026-08-17 06:00:18",
+      "isoDate": "2026-08-17T06:00:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は413円高、米経済指標に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1650235",
+      "published": "2026-08-17 06:00:17",
+      "isoDate": "2026-08-17T06:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は失速、原油相場は軟化",
+      "link": "https://jp.investing.com/news/forex-news/article-1650234",
+      "published": "2026-08-17 06:00:17",
+      "isoDate": "2026-08-17T06:00:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体関連が下支えも上値重く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650139",
-      "published": "2026-08-17 03:30:14",
-      "isoDate": "2026-08-17T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比445円安の68735円",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650082",
       "published": "2026-08-17 01:45:14",
@@ -118,14 +125,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ドル安と中東リスクを背景に金価格が4,400ドル付近で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1650062",
-      "published": "2026-08-17 01:21:07",
-      "isoDate": "2026-08-17T01:21:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "利上げ懸念後退と好決算でウォール街先物が安定推移",
+      "title": "利上げ懸念が後退、米株価指数先物が上昇――好決算も株式を下支え",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650057",
       "published": "2026-08-17 01:08:29",
       "isoDate": "2026-08-17T01:08:29Z"
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米消費者信頼感が最低水準、ビットコインは資金流入蚊帳の外＝グラスノード",
+      "link": "https://coinpost.jp/?p=731262",
+      "published": "Mon, 17 Aug 2026 16:24:16 +0900",
+      "isoDate": "2026-08-17T07:24:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イスラエル最大の規制下仮想通貨ブローカー「Bits of Gold」で顧客情報流出の可能性",
+      "link": "https://coinpost.jp/?p=731182",
+      "published": "Mon, 17 Aug 2026 15:08:19 +0900",
+      "isoDate": "2026-08-17T06:08:19Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハーバード大学、ビットコインETF「IBIT」の売却停止　チューダー氏ファンドは増加",
@@ -229,20 +243,6 @@
       "link": "https://coinpost.jp/?p=731027",
       "published": "Sat, 15 Aug 2026 09:40:31 +0900",
       "isoDate": "2026-08-15T00:40:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イスラエル最大手レウミ銀行、ビットコインなどの仮想通貨取引サービス提供へ",
-      "link": "https://coinpost.jp/?p=731044",
-      "published": "Sat, 15 Aug 2026 08:20:25 +0900",
-      "isoDate": "2026-08-14T23:20:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、来週の仮想通貨・予測市場会合に出席見込み＝報道",
-      "link": "https://coinpost.jp/?p=731037",
-      "published": "Sat, 15 Aug 2026 08:10:07 +0900",
-      "isoDate": "2026-08-14T23:10:07Z"
     }
   ]
 }
