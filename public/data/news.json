@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T12:51:44Z",
-  "last_checked": "2026-08-17T12:51:44Z",
+  "updated": "2026-08-17T13:41:43Z",
+  "last_checked": "2026-08-17T13:41:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "利益確定売りで小麦先物が下落、黒海の緊張続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651046",
+      "published": "2026-08-17 13:32:17",
+      "isoDate": "2026-08-17T13:32:17Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ウォール街ストラテジストが「金のロングが最善」と主張する理由",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1650062",
       "published": "2026-08-17 01:21:07",
       "isoDate": "2026-08-17T01:21:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米石油リグ数が455基に増加、ホルムズ海峡攻撃で船舶通行が停止",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1649519",
-      "published": "2026-08-14 20:13:52",
-      "isoDate": "2026-08-14T20:13:52Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ビアサット、スペースフォース向けGEO衛星の製造にロケット・ラボを選定",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1650829",
-      "published": "2026-08-17 12:11:05",
-      "isoDate": "2026-08-17T12:11:05Z"
+      "title": "ホワイトハウスがアップルに中国製メモリチップ回避を要求、マイクロンテクノロジー株が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650929",
+      "published": "2026-08-17 12:44:50",
+      "isoDate": "2026-08-17T12:44:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaがオハイオAIキャンパスでSBエナジーに15億ドルを投資",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1650907",
+      "published": "2026-08-17 12:41:02",
+      "isoDate": "2026-08-17T12:41:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650735",
       "published": "2026-08-17 11:44:52",
       "isoDate": "2026-08-17T11:44:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "パイパー・サンドラー、SoFi Technologiesをクロスセル強化を理由に強気でカバレッジ開始",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650511",
-      "published": "2026-08-17 10:13:06",
-      "isoDate": "2026-08-17T10:13:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,97 @@
       "isoDate": "2026-08-16T15:01:35Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン購入停止継続　MSTR株売却で530億円調達",
+      "link": "https://coinpost.jp/?p=731405",
+      "published": "Mon, 17 Aug 2026 21:30:10 +0900",
+      "isoDate": "2026-08-17T12:30:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米消費者信頼感が最低水準、ビットコインは資金流入蚊帳の外＝グラスノード",
+      "link": "https://coinpost.jp/?p=731262",
+      "published": "Mon, 17 Aug 2026 16:24:16 +0900",
+      "isoDate": "2026-08-17T07:24:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イスラエル最大の規制下仮想通貨ブローカー「Bits of Gold」で顧客情報流出の可能性",
+      "link": "https://coinpost.jp/?p=731182",
+      "published": "Mon, 17 Aug 2026 15:08:19 +0900",
+      "isoDate": "2026-08-17T06:08:19Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハーバード大学、ビットコインETF「IBIT」の売却停止　チューダー氏ファンドは増加",
+      "link": "https://coinpost.jp/?p=731169",
+      "published": "Mon, 17 Aug 2026 12:52:24 +0900",
+      "isoDate": "2026-08-17T03:52:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SafePal、注文追跡プラグインに不正アクセス　約4万人に影響",
+      "link": "https://coinpost.jp/?p=731162",
+      "published": "Mon, 17 Aug 2026 11:13:11 +0900",
+      "isoDate": "2026-08-17T02:13:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "macOS「画面共有」脆弱性が悪用され不正マイニング被害、アップルは緊急パッチ公開",
+      "link": "https://coinpost.jp/?p=731108",
+      "published": "Mon, 17 Aug 2026 09:38:21 +0900",
+      "isoDate": "2026-08-17T00:38:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン含み益比率53％に回復、需要回復は未確定＝アナリスト",
+      "link": "https://coinpost.jp/?p=731100",
+      "published": "Mon, 17 Aug 2026 08:34:29 +0900",
+      "isoDate": "2026-08-16T23:34:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "10年以上未移動のビットコイン、供給量の約18％に　紛失の可能性も",
+      "link": "https://coinpost.jp/?p=731095",
+      "published": "Mon, 17 Aug 2026 07:51:39 +0900",
+      "isoDate": "2026-08-16T22:51:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=730997",
+      "published": "Sun, 16 Aug 2026 11:30:01 +0900",
+      "isoDate": "2026-08-16T02:30:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（8/14）｜ヘイズの相場分析・BTCのフォーク・ETHのロードマップ刷新のまとめ",
+      "link": "https://coinpost.jp/?p=730975",
+      "published": "Sun, 16 Aug 2026 09:25:30 +0900",
+      "isoDate": "2026-08-16T00:25:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場ハイパースケール・データ、685BTCのビットコイン売却しAIデータセンター拡張へ",
+      "link": "https://coinpost.jp/?p=731072",
+      "published": "Sat, 15 Aug 2026 13:10:52 +0900",
+      "isoDate": "2026-08-15T04:10:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コンヴァノ、保有暗号資産の売却を完了　損失は約3億円",
+      "link": "https://coinpost.jp/?p=731057",
+      "published": "Sat, 15 Aug 2026 11:25:06 +0900",
+      "isoDate": "2026-08-15T02:25:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットが「BitBonds」創設、初回社債発行完了",
+      "link": "https://coinpost.jp/?p=731036",
+      "published": "Sat, 15 Aug 2026 10:30:05 +0900",
+      "isoDate": "2026-08-15T01:30:05Z"
+    }
+  ]
 }
