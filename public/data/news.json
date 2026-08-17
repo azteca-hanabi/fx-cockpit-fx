@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-17T19:31:18Z",
-  "last_checked": "2026-08-17T19:31:18Z",
+  "updated": "2026-08-17T20:31:18Z",
+  "last_checked": "2026-08-17T20:31:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物、クラッシュペース加速と原油高に支えられ上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651411",
+      "published": "2026-08-17 20:04:07",
+      "isoDate": "2026-08-17T20:04:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物上昇、プロ・ファーマー巡回調査の結果を市場が注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651408",
+      "published": "2026-08-17 20:01:18",
+      "isoDate": "2026-08-17T20:01:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Copper、6.60ドル付近で分岐点：最新シグナルを確認",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651053",
       "published": "2026-08-17 13:33:14",
       "isoDate": "2026-08-17T13:33:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "利益確定売りで小麦先物が下落、黒海の緊張続く",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651046",
-      "published": "2026-08-17 13:32:17",
-      "isoDate": "2026-08-17T13:32:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ウォール街ストラテジストが「金のロングが最善」と主張する理由",
-      "link": "https://jp.investing.com/news/commodities-news/article-1650607",
-      "published": "2026-08-17 11:00:12",
-      "isoDate": "2026-08-17T11:00:12Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDisk、RSI過熱で反落警戒：最新レベルを確認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
+      "published": "2026-08-17 19:11:58",
+      "isoDate": "2026-08-17T19:11:58Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカ、マイクロンテクノロジーのEPSが2030年度に230ドル超と予測",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650202",
       "published": "2026-08-17 05:09:44",
       "isoDate": "2026-08-17T05:09:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は小幅続伸、アドバンテと東エレクの2銘柄で約251円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650144",
-      "published": "2026-08-17 03:45:14",
-      "isoDate": "2026-08-17T03:45:14Z"
     },
     {
       "source": "Investing.com 外為",
