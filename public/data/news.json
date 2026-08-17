@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T23:26:13Z",
-  "last_checked": "2026-08-17T23:26:13Z",
+  "updated": "2026-08-17T23:48:42Z",
+  "last_checked": "2026-08-17T23:48:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ハーモニー、トークン不正発行分の巻き戻し計画を発表",
+      "link": "https://coinpost.jp/?p=731415",
+      "published": "Tue, 18 Aug 2026 08:25:05 +0900",
+      "isoDate": "2026-08-17T23:25:05Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン、2023年夏に似た停滞とグレースケール指摘",
       "link": "https://coinpost.jp/?p=731416",
       "published": "Tue, 18 Aug 2026 07:05:07 +0900",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=731095",
       "published": "Mon, 17 Aug 2026 07:51:39 +0900",
       "isoDate": "2026-08-16T22:51:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインCPI通過も中東リスクで上値重く、来週も軟調継続か｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=730997",
-      "published": "Sun, 16 Aug 2026 11:30:01 +0900",
-      "isoDate": "2026-08-16T02:30:01Z"
     }
   ]
 }
