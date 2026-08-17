@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-17T17:30:13Z",
-  "last_checked": "2026-08-17T17:30:13Z",
+  "updated": "2026-08-17T17:58:34Z",
+  "last_checked": "2026-08-17T17:58:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、供給不足で高水準維持も小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651339",
+      "published": "2026-08-17 17:27:38",
+      "isoDate": "2026-08-17T17:27:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "供給混乱でヨーロッパのディーゼルマージンが急上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651337",
+      "published": "2026-08-17 17:25:34",
+      "isoDate": "2026-08-17T17:25:34Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物が小幅上昇、プロ・ファーマーの作物ツアーを前に",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
       "published": "2026-08-17 07:08:25",
       "isoDate": "2026-08-17T07:08:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金が$4,457でもみ合い、$4,367割れでトレンド転換リスク：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-17 07:08:00",
-      "isoDate": "2026-08-17T07:08:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "強いイランリスクが続く中、原油価格は先週の大幅高に続き上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1650067",
-      "published": "2026-08-17 01:36:01",
-      "isoDate": "2026-08-17T01:36:01Z"
     }
   ],
   "usdjpy_items": [
