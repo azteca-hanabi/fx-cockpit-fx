@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T15:28:28Z",
-  "last_checked": "2026-08-17T15:28:28Z",
+  "updated": "2026-08-17T15:52:31Z",
+  "last_checked": "2026-08-17T15:52:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカ、マイクロンテクノロジーのEPSが2030年度に230ドル超と予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651222",
+      "published": "2026-08-17 15:02:02",
+      "isoDate": "2026-08-17T15:02:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがオハイオのOpenAIデータセンターに1,000億ドル超の支援を表明",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651137",
       "published": "2026-08-17 14:07:13",
       "isoDate": "2026-08-17T14:07:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX株が本日急騰した理由とは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651131",
+      "published": "2026-08-17 14:04:53",
+      "isoDate": "2026-08-17T14:04:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650929",
       "published": "2026-08-17 12:44:50",
       "isoDate": "2026-08-17T12:44:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがオハイオAIキャンパスでSBエナジーに15億ドルを投資",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1650907",
-      "published": "2026-08-17 12:41:02",
-      "isoDate": "2026-08-17T12:41:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650202",
       "published": "2026-08-17 05:09:44",
       "isoDate": "2026-08-17T05:09:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は小幅続伸、アドバンテと東エレクの2銘柄で約251円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650144",
-      "published": "2026-08-17 03:45:14",
-      "isoDate": "2026-08-17T03:45:14Z"
     },
     {
       "source": "Investing.com 外為",
