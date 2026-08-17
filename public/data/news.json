@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T03:03:36Z",
-  "last_checked": "2026-08-17T03:03:36Z",
+  "updated": "2026-08-17T04:12:14Z",
+  "last_checked": "2026-08-17T04:12:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比445円安の68735円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650082",
+      "published": "2026-08-17 01:45:14",
+      "isoDate": "2026-08-17T01:45:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "金価格が4,400ドル近辺に上昇、FED議事録とエネルギーリスクが金利見通しを左右",
       "link": "https://jp.investing.com/news/commodities-news/article-1650062",
       "published": "2026-08-17 01:21:07",
       "isoDate": "2026-08-17T01:21:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は158円98銭まで下落",
-      "link": "https://jp.investing.com/news/forex-news/article-1650058",
-      "published": "2026-08-17 01:15:09",
-      "isoDate": "2026-08-17T01:15:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハーバード大学、ビットコインETF「IBIT」の売却停止　チューダー氏ファンドは増加",
+      "link": "https://coinpost.jp/?p=731169",
+      "published": "Mon, 17 Aug 2026 12:52:24 +0900",
+      "isoDate": "2026-08-17T03:52:24Z"
+    },
     {
       "source": "CoinPost",
       "title": "SafePal、注文追跡プラグインに不正アクセス　約4万人に影響",
@@ -236,13 +243,6 @@
       "link": "https://coinpost.jp/?p=731037",
       "published": "Sat, 15 Aug 2026 08:10:07 +0900",
       "isoDate": "2026-08-14T23:10:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ノルウェー政府系ファンド、ビットコイン間接保有数が過去最高に",
-      "link": "https://coinpost.jp/?p=731028",
-      "published": "Sat, 15 Aug 2026 07:15:34 +0900",
-      "isoDate": "2026-08-14T22:15:34Z"
     }
   ]
 }
