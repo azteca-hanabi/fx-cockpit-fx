@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T07:33:08Z",
-  "last_checked": "2026-08-17T07:33:08Z",
+  "updated": "2026-08-17T08:48:42Z",
+  "last_checked": "2026-08-17T08:48:42Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡封鎖リスク拡大、欧州天然ガス4日続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1650370",
+      "published": "2026-08-17 08:28:18",
+      "isoDate": "2026-08-17T08:28:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、売られ過ぎで反発の火種：毎時更新中",
@@ -64,34 +71,34 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640276",
       "published": "2026-08-14 19:12:44",
       "isoDate": "2026-08-14T19:12:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、64.90で膠着-67.00突破が分岐点：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1640275",
-      "published": "2026-08-14 19:12:34",
-      "isoDate": "2026-08-14T19:12:34Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "楽天グループ---大幅続伸、独防衛スタートアップとの提携が報じられる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650236",
-      "published": "2026-08-17 06:00:18",
-      "isoDate": "2026-08-17T06:00:18Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は5日続伸、アドバンテストとキオクシアHDの2銘柄で約409円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650344",
+      "published": "2026-08-17 08:00:17",
+      "isoDate": "2026-08-17T08:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "差し迫ったFED利上げ観測が後退、小売決算に注目",
+      "link": "https://jp.investing.com/news/economy-news/article-1650339",
+      "published": "2026-08-17 07:55:33",
+      "isoDate": "2026-08-17T07:55:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI関連株が堅調で1カ月半ぶりに69000円台回復【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1650326",
+      "published": "2026-08-17 07:45:15",
+      "isoDate": "2026-08-17T07:45:15Z"
     },
     {
       "source": "Investing.com 外為",
       "title": "日経平均は413円高、米経済指標に関心",
       "link": "https://jp.investing.com/news/forex-news/article-1650235",
-      "published": "2026-08-17 06:00:17",
-      "isoDate": "2026-08-17T06:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は失速、原油相場は軟化",
-      "link": "https://jp.investing.com/news/forex-news/article-1650234",
       "published": "2026-08-17 06:00:17",
       "isoDate": "2026-08-17T06:00:17Z"
     },
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650144",
       "published": "2026-08-17 03:45:14",
       "isoDate": "2026-08-17T03:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～半導体関連が下支えも上値重く",
-      "link": "https://jp.investing.com/news/forex-news/article-1650143",
-      "published": "2026-08-17 03:45:13",
-      "isoDate": "2026-08-17T03:45:13Z"
     },
     {
       "source": "Investing.com 外為",
