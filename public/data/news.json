@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-17T18:51:56Z",
-  "last_checked": "2026-08-17T18:51:56Z",
+  "updated": "2026-08-17T19:31:18Z",
+  "last_checked": "2026-08-17T19:31:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、6.60ドル付近で分岐点：最新シグナルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-17 19:12:39",
+      "isoDate": "2026-08-17T19:12:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,460台で天井圏の踊り場：最新シグナル更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-17 19:12:35",
+      "isoDate": "2026-08-17T19:12:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、84.50ドル突破か失速か：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-17 19:12:28",
+      "isoDate": "2026-08-17T19:12:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent OilがBB上限突破で過熱警戒：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-17 19:12:25",
+      "isoDate": "2026-08-17T19:12:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、66円台で膠着-上抜け・反落の分岐点：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-17 19:12:21",
+      "isoDate": "2026-08-17T19:12:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧のガソリン精製マージン、供給不足で高水準維持も小幅下落",
@@ -36,41 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1650607",
       "published": "2026-08-17 11:00:12",
       "isoDate": "2026-08-17T11:00:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡封鎖リスク拡大、欧州天然ガス4日続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-1650370",
-      "published": "2026-08-17 08:28:18",
-      "isoDate": "2026-08-17T08:28:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、売られ過ぎで反発の火種：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-17 07:08:35",
-      "isoDate": "2026-08-17T07:08:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、$66収束で分岐点に：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-17 07:08:31",
-      "isoDate": "2026-08-17T07:08:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.86の二重天井か上抜けかが分岐点：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-17 07:08:29",
-      "isoDate": "2026-08-17T07:08:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、狭いレンジで膠着-ブレイク待ち: 毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-17 07:08:25",
-      "isoDate": "2026-08-17T07:08:25Z"
     }
   ],
   "usdjpy_items": [
