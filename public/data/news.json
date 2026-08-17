@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T20:31:18Z",
-  "last_checked": "2026-08-17T20:31:18Z",
+  "updated": "2026-08-17T21:28:56Z",
+  "last_checked": "2026-08-17T21:28:56Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "小麦先物、先週の上昇後に利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651480",
+      "published": "2026-08-17 20:35:46",
+      "isoDate": "2026-08-17T20:35:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆先物、クラッシュペース加速と原油高に支えられ上昇",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651337",
       "published": "2026-08-17 17:25:34",
       "isoDate": "2026-08-17T17:25:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物が小幅上昇、プロ・ファーマーの作物ツアーを前に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651053",
-      "published": "2026-08-17 13:33:14",
-      "isoDate": "2026-08-17T13:33:14Z"
     }
   ],
   "usdjpy_items": [
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットマイン、先週30億円相当のイーサリアムを追加購入",
+      "link": "https://coinpost.jp/?p=731419",
+      "published": "Tue, 18 Aug 2026 05:45:13 +0900",
+      "isoDate": "2026-08-17T20:45:13Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ストラテジー、ビットコイン購入停止継続　MSTR株売却で530億円調達",
       "link": "https://coinpost.jp/?p=731405",
       "published": "Mon, 17 Aug 2026 21:30:10 +0900",
@@ -222,20 +229,6 @@
       "link": "https://coinpost.jp/?p=731072",
       "published": "Sat, 15 Aug 2026 13:10:52 +0900",
       "isoDate": "2026-08-15T04:10:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コンヴァノ、保有暗号資産の売却を完了　損失は約3億円",
-      "link": "https://coinpost.jp/?p=731057",
-      "published": "Sat, 15 Aug 2026 11:25:06 +0900",
-      "isoDate": "2026-08-15T02:25:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットが「BitBonds」創設、初回社債発行完了",
-      "link": "https://coinpost.jp/?p=731036",
-      "published": "Sat, 15 Aug 2026 10:30:05 +0900",
-      "isoDate": "2026-08-15T01:30:05Z"
     }
   ]
 }
