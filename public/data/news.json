@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T21:28:56Z",
-  "last_checked": "2026-08-17T21:28:56Z",
+  "updated": "2026-08-17T21:53:31Z",
+  "last_checked": "2026-08-17T21:53:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ロケット・ラボ、米宇宙軍の9億8100万ドル規模NITE-STAR契約に参加",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1651516",
+      "published": "2026-08-17 21:14:01",
+      "isoDate": "2026-08-17T21:14:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SanDisk、RSI過熱で反落警戒：最新レベルを確認",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
       "published": "2026-08-17 19:11:58",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1651222",
       "published": "2026-08-17 15:02:02",
       "isoDate": "2026-08-17T15:02:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがオハイオのOpenAIデータセンターに1,000億ドル超の支援を表明",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651137",
-      "published": "2026-08-17 14:07:13",
-      "isoDate": "2026-08-17T14:07:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SECの仮想通貨会合延期背景、ホワイトハウス要請か＝報道",
+      "link": "https://coinpost.jp/?p=731417",
+      "published": "Tue, 18 Aug 2026 06:34:08 +0900",
+      "isoDate": "2026-08-17T21:34:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットマイン、先週30億円相当のイーサリアムを追加購入",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=730975",
       "published": "Sun, 16 Aug 2026 09:25:30 +0900",
       "isoDate": "2026-08-16T00:25:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場ハイパースケール・データ、685BTCのビットコイン売却しAIデータセンター拡張へ",
-      "link": "https://coinpost.jp/?p=731072",
-      "published": "Sat, 15 Aug 2026 13:10:52 +0900",
-      "isoDate": "2026-08-15T04:10:52Z"
     }
   ]
 }
