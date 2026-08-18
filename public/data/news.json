@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T22:53:46Z",
-  "last_checked": "2026-08-18T22:53:46Z",
+  "updated": "2026-08-18T23:26:03Z",
+  "last_checked": "2026-08-18T23:26:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY金：反落で4,399.76ドル、米金利上昇と原油高がダブルで重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1653179",
+      "published": "2026-08-18 22:45:06",
+      "isoDate": "2026-08-18T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは116.38ドル安、世界的な長期金利の上昇を警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1653122",
       "published": "2026-08-18 21:15:05",
       "isoDate": "2026-08-18T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "IONQがカナダの量子コンピューティングアクセス向けにCMCマイクロシステムズとMOUを締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1653010",
-      "published": "2026-08-18 20:07:04",
-      "isoDate": "2026-08-18T20:07:04Z"
     },
     {
       "source": "Investing.com 外為",
