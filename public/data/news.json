@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-18T19:30:30Z",
-  "last_checked": "2026-08-18T19:30:30Z",
+  "updated": "2026-08-18T20:28:27Z",
+  "last_checked": "2026-08-18T20:28:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米ドル建て銀スポット価格が本日上昇した理由",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652980",
+      "published": "2026-08-18 19:39:11",
+      "isoDate": "2026-08-18T19:39:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金スポット・プラチナ比率が本日上昇した理由",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652979",
+      "published": "2026-08-18 19:35:23",
+      "isoDate": "2026-08-18T19:35:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、$84.50レジスタンス攻防中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-18 19:12:56",
+      "isoDate": "2026-08-18T19:12:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅が200SMAに迫る下落：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-18 19:12:43",
+      "isoDate": "2026-08-18T19:12:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,410付近で強弱拮抗：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-18 19:12:37",
+      "isoDate": "2026-08-18T19:12:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$92.11抵抗線が目前-MFI過熱に注意：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-18 19:12:33",
+      "isoDate": "2026-08-18T19:12:33Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、短期MA割れで売り優勢：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-18 19:12:27",
+      "isoDate": "2026-08-18T19:12:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海の混乱がユーロネクスト小麦相場を押し上げ、需要低迷を相殺",
@@ -22,64 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652881",
       "published": "2026-08-18 16:44:42",
       "isoDate": "2026-08-18T16:44:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "砂糖先物（11番）が急騰、インドの輸入関税撤廃検討と南米の供給減が背景",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652861",
-      "published": "2026-08-18 16:08:51",
-      "isoDate": "2026-08-18T16:08:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "USDAが作物状況評価を引き下げ、トウモロコシ先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652688",
-      "published": "2026-08-18 13:35:14",
-      "isoDate": "2026-08-18T13:35:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の混乱が下落を抑制、小麦先物はやや軟調",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652685",
-      "published": "2026-08-18 13:34:16",
-      "isoDate": "2026-08-18T13:34:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック乾燥貨物指数、7月31日以来の最低水準に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652663",
-      "published": "2026-08-18 13:26:52",
-      "isoDate": "2026-08-18T13:26:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の封鎖深刻化、欧州天然ガスが5日続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-1652019",
-      "published": "2026-08-18 08:29:50",
-      "isoDate": "2026-08-18T08:29:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、$65レンジで攻防：毎時更新のライブ分析",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-18 07:08:31",
-      "isoDate": "2026-08-18T07:08:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が$84.50抵抗帯に挑戦：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-18 07:08:30",
-      "isoDate": "2026-08-18T07:08:30Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル安値から反発、原油高に連れ、トランプ米大統領はイランとの和平協議していないと断言",
-      "link": "https://jp.investing.com/news/forex-news/article-1652896",
-      "published": "2026-08-18 17:15:04",
-      "isoDate": "2026-08-18T17:15:04Z"
+      "title": "IONQ、$44.52でレンジ攻防中：最新シグナル更新中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651159",
+      "published": "2026-08-18 19:14:15",
+      "isoDate": "2026-08-18T19:14:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDiskがレンジ相場に突入、$1,610付近で攻防：毎時更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
+      "published": "2026-08-18 19:12:36",
+      "isoDate": "2026-08-18T19:12:36Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1652792",
       "published": "2026-08-18 14:33:43",
       "isoDate": "2026-08-18T14:33:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk、$1,670抵抗帯で買われ過ぎ警戒：リアルタイム更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
-      "published": "2026-08-18 14:12:23",
-      "isoDate": "2026-08-18T14:12:23Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米シティ、次世代カストディ基盤始動｜ビットコインカストディも年内開始",
+      "link": "https://coinpost.jp/?p=731649",
+      "published": "Wed, 19 Aug 2026 05:00:51 +0900",
+      "isoDate": "2026-08-18T20:00:51Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "仮想通貨市場デレバレッジ、2022年と異なる秩序ある減少＝ギャラクシー・リサーチ",
       "link": "https://coinpost.jp/?p=731617",
       "published": "Tue, 18 Aug 2026 16:30:15 +0900",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=731415",
       "published": "Tue, 18 Aug 2026 08:25:05 +0900",
       "isoDate": "2026-08-17T23:25:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、2023年夏に似た停滞とグレースケール指摘",
-      "link": "https://coinpost.jp/?p=731416",
-      "published": "Tue, 18 Aug 2026 07:05:07 +0900",
-      "isoDate": "2026-08-17T22:05:07Z"
     }
   ]
 }
