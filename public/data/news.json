@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T20:53:30Z",
-  "last_checked": "2026-08-18T20:53:30Z",
+  "updated": "2026-08-18T21:28:07Z",
+  "last_checked": "2026-08-18T21:28:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
+      "published": "2026-08-18 13:50:23",
+      "isoDate": "2026-08-18T13:50:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaとSandisk、機関投資家の保有状況をBofAが分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
       "published": "2026-08-18 10:44:30",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
-      "published": "2026-08-18 00:00:07",
-      "isoDate": "2026-08-18T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、2100BTC出資で米スーパーリーグをビットコイントレジャリー化",
+      "link": "https://coinpost.jp/?p=731658",
+      "published": "Wed, 19 Aug 2026 06:00:08 +0900",
+      "isoDate": "2026-08-18T21:00:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "米SEC、仮想通貨資金調達の新規則「レギュレーション・クリプトアセット」を提案",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=731445",
       "published": "Tue, 18 Aug 2026 09:45:28 +0900",
       "isoDate": "2026-08-18T00:45:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハーモニー、トークン不正発行分の巻き戻し計画を発表",
-      "link": "https://coinpost.jp/?p=731415",
-      "published": "Tue, 18 Aug 2026 08:25:05 +0900",
-      "isoDate": "2026-08-17T23:25:05Z"
     }
   ]
 }
