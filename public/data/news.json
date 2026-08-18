@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T08:41:17Z",
-  "last_checked": "2026-08-18T08:41:17Z",
+  "updated": "2026-08-18T09:37:24Z",
+  "last_checked": "2026-08-18T09:37:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡の封鎖深刻化、欧州天然ガスが5日続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1652019",
+      "published": "2026-08-18 08:29:50",
+      "isoDate": "2026-08-18T08:29:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、$65レンジで攻防：毎時更新のライブ分析",
@@ -39,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格が小幅上昇、イラン危機が継続する中で下支え",
+      "title": "米イラン和平交渉の停滞で原油価格が上昇、供給懸念が高まる",
       "link": "https://jp.investing.com/news/commodities-news/article-1651690",
       "published": "2026-08-18 01:37:00",
       "isoDate": "2026-08-18T01:37:00Z"
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651411",
       "published": "2026-08-17 20:04:07",
       "isoDate": "2026-08-17T20:04:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物上昇、プロ・ファーマー巡回調査の結果を市場が注視",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651408",
-      "published": "2026-08-17 20:01:18",
-      "isoDate": "2026-08-17T20:01:18Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "LGエレクトロニクスとNvidiaがソウルでロボティクス協業を強化",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1651999",
+      "published": "2026-08-18 08:21:01",
+      "isoDate": "2026-08-18T08:21:01Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ソフトバンクG---大幅続伸、エヌビディアがオープンAIの巨大データセンターの賃料保証と発表",
@@ -136,14 +143,57 @@
       "link": "https://jp.investing.com/news/forex-news/article-1650435",
       "published": "2026-08-17 09:30:12",
       "isoDate": "2026-08-17T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIは見抜いていた。プレマーケットで+11%、この素材株は8月の上昇率55%超へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650202",
-      "published": "2026-08-17 05:09:44",
-      "isoDate": "2026-08-17T05:09:44Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨市場デレバレッジ、2022年と異なる秩序ある減少＝ギャラクシー・リサーチ",
+      "link": "https://coinpost.jp/?p=731617",
+      "published": "Tue, 18 Aug 2026 16:30:15 +0900",
+      "isoDate": "2026-08-18T07:30:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインマイナーのハイブ、550億円超のAIクラウドサービス契約を締結",
+      "link": "https://coinpost.jp/?p=731496",
+      "published": "Tue, 18 Aug 2026 11:15:06 +0900",
+      "isoDate": "2026-08-18T02:15:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケン運営元ペイワード、脆弱性対策にクロード導入",
+      "link": "https://coinpost.jp/?p=731491",
+      "published": "Tue, 18 Aug 2026 10:50:30 +0900",
+      "isoDate": "2026-08-18T01:50:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "映画「オデュッセイア」海賊版に偽装、仮想通貨盗むマルウェア拡散",
+      "link": "https://coinpost.jp/?p=731484",
+      "published": "Tue, 18 Aug 2026 10:16:48 +0900",
+      "isoDate": "2026-08-18T01:16:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン取引高、2019年以来の低水準に　株市場に出遅れ＝ビットフィネックス分析",
+      "link": "https://coinpost.jp/?p=731445",
+      "published": "Tue, 18 Aug 2026 09:45:28 +0900",
+      "isoDate": "2026-08-18T00:45:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハーモニー、トークン不正発行分の巻き戻し計画を発表",
+      "link": "https://coinpost.jp/?p=731415",
+      "published": "Tue, 18 Aug 2026 08:25:05 +0900",
+      "isoDate": "2026-08-17T23:25:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、2023年夏に似た停滞とグレースケール指摘",
+      "link": "https://coinpost.jp/?p=731416",
+      "published": "Tue, 18 Aug 2026 07:05:07 +0900",
+      "isoDate": "2026-08-17T22:05:07Z"
+    }
+  ]
 }
