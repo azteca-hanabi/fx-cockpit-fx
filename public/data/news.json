@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T10:32:53Z",
-  "last_checked": "2026-08-18T10:32:53Z",
+  "updated": "2026-08-18T11:28:45Z",
+  "last_checked": "2026-08-18T11:28:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 6日ぶり反落、三役好転が終了",
-      "link": "https://jp.investing.com/news/forex-news/article-1652075",
-      "published": "2026-08-18 09:30:12",
-      "isoDate": "2026-08-18T09:30:12Z"
+      "title": "NvidiaとSandisk、機関投資家の保有状況をBofAが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
+      "published": "2026-08-18 10:44:30",
+      "isoDate": "2026-08-18T10:44:30Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "EinrideがアマゾンのためにテスラのSemi 500台を北米に展開",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1652199",
+      "published": "2026-08-18 10:37:03",
+      "isoDate": "2026-08-18T10:37:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
       "isoDate": "2026-08-17T22:20:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、マイクロンテクノロジーのEPSが2030年度に230ドル超と予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651222",
-      "published": "2026-08-17 15:02:02",
-      "isoDate": "2026-08-17T15:02:02Z"
     },
     {
       "source": "Investing.com 外為",
