@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T22:27:48Z",
-  "last_checked": "2026-08-18T22:27:48Z",
+  "updated": "2026-08-18T22:53:46Z",
+  "last_checked": "2026-08-18T22:53:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,55 +145,5 @@
       "isoDate": "2026-08-17T22:20:36Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、2100BTC出資で米スーパーリーグをビットコイントレジャリー化",
-      "link": "https://coinpost.jp/?p=731658",
-      "published": "Wed, 19 Aug 2026 06:00:08 +0900",
-      "isoDate": "2026-08-18T21:00:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、仮想通貨資金調達の新規則「レギュレーション・クリプトアセット」を提案",
-      "link": "https://coinpost.jp/?p=731659",
-      "published": "Wed, 19 Aug 2026 05:40:10 +0900",
-      "isoDate": "2026-08-18T20:40:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米シティ、次世代カストディ基盤始動｜ビットコインカストディも年内開始",
-      "link": "https://coinpost.jp/?p=731649",
-      "published": "Wed, 19 Aug 2026 05:00:51 +0900",
-      "isoDate": "2026-08-18T20:00:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨市場デレバレッジ、2022年と異なる秩序ある減少＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=731617",
-      "published": "Tue, 18 Aug 2026 16:30:15 +0900",
-      "isoDate": "2026-08-18T07:30:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインマイナーのハイブ、550億円超のAIクラウドサービス契約を締結",
-      "link": "https://coinpost.jp/?p=731496",
-      "published": "Tue, 18 Aug 2026 11:15:06 +0900",
-      "isoDate": "2026-08-18T02:15:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラーケン運営元ペイワード、脆弱性対策にクロード導入",
-      "link": "https://coinpost.jp/?p=731491",
-      "published": "Tue, 18 Aug 2026 10:50:30 +0900",
-      "isoDate": "2026-08-18T01:50:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "映画「オデュッセイア」海賊版に偽装、仮想通貨盗むマルウェア拡散",
-      "link": "https://coinpost.jp/?p=731484",
-      "published": "Tue, 18 Aug 2026 10:16:48 +0900",
-      "isoDate": "2026-08-18T01:16:48Z"
-    }
-  ]
+  "btc_items": []
 }
