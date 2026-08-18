@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T17:30:17Z",
-  "last_checked": "2026-08-18T17:30:17Z",
+  "updated": "2026-08-18T18:42:53Z",
+  "last_checked": "2026-08-18T18:42:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海の混乱がユーロネクスト小麦相場を押し上げ、需要低迷を相殺",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652906",
+      "published": "2026-08-18 17:32:06",
+      "isoDate": "2026-08-18T17:32:06Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧のガソリン精製マージン、供給逼迫で上昇",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
       "published": "2026-08-18 07:08:30",
       "isoDate": "2026-08-18T07:08:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$91.50抵抗帯で反転リスク上昇：最新シグナル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-18 07:08:23",
-      "isoDate": "2026-08-18T07:08:23Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル安値から反発、原油高に連れ、トランプ米大統領はイランとの和平協議していないと断言",
+      "link": "https://jp.investing.com/news/forex-news/article-1652896",
+      "published": "2026-08-18 17:15:04",
+      "isoDate": "2026-08-18T17:15:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "VinSpaceがSpaceXと2027年の相乗り打ち上げ契約を締結",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
       "published": "2026-08-18 14:12:23",
       "isoDate": "2026-08-18T14:12:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
-      "published": "2026-08-18 13:50:23",
-      "isoDate": "2026-08-18T13:50:23Z"
     },
     {
       "source": "Investing.com 外為",
