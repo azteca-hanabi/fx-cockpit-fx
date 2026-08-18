@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T04:39:22Z",
-  "last_checked": "2026-08-18T04:39:22Z",
+  "updated": "2026-08-18T05:33:13Z",
+  "last_checked": "2026-08-18T05:33:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅に6日ぶり反落、アドバンテストが1銘柄で約376円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651775",
-      "published": "2026-08-18 03:45:17",
-      "isoDate": "2026-08-18T03:45:17Z"
+      "title": "ジーデップアドバンス Research Memo（6）：プライベートAIやフィジカルAI向けの環境整備が進捗（1）",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651805",
+      "published": "2026-08-18 04:45:18",
+      "isoDate": "2026-08-18T04:45:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ジーデップアドバンス Research Memo（7）：プライベートAIやフィジカルAI向けの環境整備が進捗（2）",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651790",
+      "published": "2026-08-18 04:15:19",
+      "isoDate": "2026-08-18T04:15:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ジーデップアドバンス Research Memo（3）：技術力、企画力・製品調達力が強み（1）",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651787",
+      "published": "2026-08-18 04:15:18",
+      "isoDate": "2026-08-18T04:15:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ジーデップアドバンス Research Memo（2）：NVIDIA最上位パートナー",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651786",
+      "published": "2026-08-18 04:15:18",
+      "isoDate": "2026-08-18T04:15:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "グーグル、2027年までに中国でのPixel生産終了を計画＝日経",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651766",
-      "published": "2026-08-18 03:16:21",
-      "isoDate": "2026-08-18T03:16:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
       "published": "2026-08-18 00:00:07",
       "isoDate": "2026-08-18T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体やAI関連株の押し目狙いのスタンスに",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651605",
-      "published": "2026-08-17 23:45:08",
-      "isoDate": "2026-08-17T23:45:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1650202",
       "published": "2026-08-17 05:09:44",
       "isoDate": "2026-08-17T05:09:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIがいち早く捉えた中小型株、月初来+39%と+34%の急騰に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1649976",
-      "published": "2026-08-16 15:01:35",
-      "isoDate": "2026-08-16T15:01:35Z"
     }
   ],
   "btc_items": [
@@ -208,13 +208,6 @@
       "link": "https://coinpost.jp/?p=731405",
       "published": "Mon, 17 Aug 2026 21:30:10 +0900",
       "isoDate": "2026-08-17T12:30:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米消費者信頼感が最低水準、ビットコインは資金流入蚊帳の外＝グラスノード",
-      "link": "https://coinpost.jp/?p=731262",
-      "published": "Mon, 17 Aug 2026 16:24:16 +0900",
-      "isoDate": "2026-08-17T07:24:16Z"
     }
   ]
 }
