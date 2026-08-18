@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T16:35:57Z",
-  "last_checked": "2026-08-18T16:35:57Z",
+  "updated": "2026-08-18T17:30:17Z",
+  "last_checked": "2026-08-18T17:30:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、供給逼迫で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652893",
+      "published": "2026-08-18 17:11:48",
+      "isoDate": "2026-08-18T17:11:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ヨーロッパのディーゼル裕度が供給混乱で過去最高値を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652881",
+      "published": "2026-08-18 16:44:42",
+      "isoDate": "2026-08-18T16:44:42Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "砂糖先物（11番）が急騰、インドの輸入関税撤廃検討と南米の供給減が背景",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
       "published": "2026-08-18 07:08:23",
       "isoDate": "2026-08-18T07:08:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.55サポート攻防で分岐点：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-18 07:08:22",
-      "isoDate": "2026-08-18T07:08:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、高値圏でモメンタム鈍化：最新レベルを毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-18 07:08:10",
-      "isoDate": "2026-08-18T07:08:10Z"
     }
   ],
   "usdjpy_items": [
