@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-18T20:28:27Z",
-  "last_checked": "2026-08-18T20:28:27Z",
+  "updated": "2026-08-18T20:53:30Z",
+  "last_checked": "2026-08-18T20:53:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米天然ガス先物が上昇、原油価格の値上がりが追い風に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653026",
+      "published": "2026-08-18 20:09:26",
+      "isoDate": "2026-08-18T20:09:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米天然ガス先物が上昇、原油価格の上昇が追い風に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653025",
+      "published": "2026-08-18 20:09:25",
+      "isoDate": "2026-08-18T20:09:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米ドル建て銀スポット価格が本日上昇した理由",
@@ -57,29 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652906",
       "published": "2026-08-18 17:32:06",
       "isoDate": "2026-08-18T17:32:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、供給逼迫で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652893",
-      "published": "2026-08-18 17:11:48",
-      "isoDate": "2026-08-18T17:11:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパのディーゼル裕度が供給混乱で過去最高値を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652881",
-      "published": "2026-08-18 16:44:42",
-      "isoDate": "2026-08-18T16:44:42Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "IONQ、$44.52でレンジ攻防中：最新シグナル更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651159",
-      "published": "2026-08-18 19:14:15",
-      "isoDate": "2026-08-18T19:14:15Z"
+      "title": "IONQがカナダの量子コンピューティングアクセス向けにCMCマイクロシステムズとMOUを締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1653010",
+      "published": "2026-08-18 20:07:04",
+      "isoDate": "2026-08-18T20:07:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
       "published": "2026-08-18 19:12:36",
       "isoDate": "2026-08-18T19:12:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "VinSpaceがSpaceXと2027年の相乗り打ち上げ契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1652798",
-      "published": "2026-08-18 14:43:01",
-      "isoDate": "2026-08-18T14:43:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +132,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
+      "published": "2026-08-18 00:00:07",
+      "isoDate": "2026-08-18T00:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC、仮想通貨資金調達の新規則「レギュレーション・クリプトアセット」を提案",
+      "link": "https://coinpost.jp/?p=731659",
+      "published": "Wed, 19 Aug 2026 05:40:10 +0900",
+      "isoDate": "2026-08-18T20:40:10Z"
+    },
     {
       "source": "CoinPost",
       "title": "米シティ、次世代カストディ基盤始動｜ビットコインカストディも年内開始",
