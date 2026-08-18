@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T21:50:53Z",
-  "last_checked": "2026-08-18T21:50:53Z",
+  "updated": "2026-08-18T22:27:48Z",
+  "last_checked": "2026-08-18T22:27:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは116.38ドル安、世界的な長期金利の上昇を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1653122",
+      "published": "2026-08-18 21:15:05",
+      "isoDate": "2026-08-18T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "IONQがカナダの量子コンピューティングアクセス向けにCMCマイクロシステムズとMOUを締結",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1653010",
       "published": "2026-08-18 20:07:04",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1651831",
       "published": "2026-08-18 05:30:19",
       "isoDate": "2026-08-18T05:30:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "太陽誘電の株価急落、ヘッジファンドが8月に持ち株を大幅削減",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651818",
-      "published": "2026-08-18 05:22:14",
-      "isoDate": "2026-08-18T05:22:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -194,13 +194,6 @@
       "link": "https://coinpost.jp/?p=731484",
       "published": "Tue, 18 Aug 2026 10:16:48 +0900",
       "isoDate": "2026-08-18T01:16:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン取引高、2019年以来の低水準に　株市場に出遅れ＝ビットフィネックス分析",
-      "link": "https://coinpost.jp/?p=731445",
-      "published": "Tue, 18 Aug 2026 09:45:28 +0900",
-      "isoDate": "2026-08-18T00:45:28Z"
     }
   ]
 }
