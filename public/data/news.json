@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T05:33:13Z",
-  "last_checked": "2026-08-18T05:33:13Z",
+  "updated": "2026-08-18T06:50:39Z",
+  "last_checked": "2026-08-18T06:50:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -11,7 +11,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、4,450ドル近辺に上昇――Fed利上げ観測後退とドル安が支援",
+      "title": "金価格が4,400ドルを割り込む、米国債利回りと原油高が圧迫",
       "link": "https://jp.investing.com/news/commodities-news/article-1651649",
       "published": "2026-08-18 00:54:25",
       "isoDate": "2026-08-18T00:54:25Z"
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は1528円安、米経済指標などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1651841",
+      "published": "2026-08-18 06:00:18",
+      "isoDate": "2026-08-18T06:00:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは大幅に上昇、金利上昇など警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1651831",
+      "published": "2026-08-18 05:30:19",
+      "isoDate": "2026-08-18T05:30:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "太陽誘電の株価急落、ヘッジファンドが8月に持ち株を大幅削減",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651818",
+      "published": "2026-08-18 05:22:14",
+      "isoDate": "2026-08-18T05:22:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ジーデップアドバンス Research Memo（6）：プライベートAIやフィジカルAI向けの環境整備が進捗（1）",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651805",
       "published": "2026-08-18 04:45:18",
@@ -83,22 +104,8 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ジーデップアドバンス Research Memo（7）：プライベートAIやフィジカルAI向けの環境整備が進捗（2）",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651790",
-      "published": "2026-08-18 04:15:19",
-      "isoDate": "2026-08-18T04:15:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ジーデップアドバンス Research Memo（3）：技術力、企画力・製品調達力が強み（1）",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651787",
-      "published": "2026-08-18 04:15:18",
-      "isoDate": "2026-08-18T04:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ジーデップアドバンス Research Memo（2）：NVIDIA最上位パートナー",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651786",
       "published": "2026-08-18 04:15:18",
       "isoDate": "2026-08-18T04:15:18Z"
     },
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
       "published": "2026-08-18 00:00:07",
       "isoDate": "2026-08-18T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バンク・オブ・アメリカ、マイクロンテクノロジーのEPSが2030年度に230ドル超と予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651222",
-      "published": "2026-08-17 15:02:02",
-      "isoDate": "2026-08-17T15:02:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -194,20 +194,6 @@
       "link": "https://coinpost.jp/?p=731417",
       "published": "Tue, 18 Aug 2026 06:34:08 +0900",
       "isoDate": "2026-08-17T21:34:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットマイン、先週30億円相当のイーサリアムを追加購入",
-      "link": "https://coinpost.jp/?p=731419",
-      "published": "Tue, 18 Aug 2026 05:45:13 +0900",
-      "isoDate": "2026-08-17T20:45:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン購入停止継続　MSTR株売却で530億円調達",
-      "link": "https://coinpost.jp/?p=731405",
-      "published": "Mon, 17 Aug 2026 21:30:10 +0900",
-      "isoDate": "2026-08-17T12:30:10Z"
     }
   ]
 }
