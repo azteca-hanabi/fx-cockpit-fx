@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T11:28:45Z",
-  "last_checked": "2026-08-18T11:28:45Z",
+  "updated": "2026-08-18T11:53:48Z",
+  "last_checked": "2026-08-18T11:53:48Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SoFi Tech Solutionsの第2四半期デビットインデックス、旅行・燃料・体験支出が増加",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1652242",
+      "published": "2026-08-18 11:04:03",
+      "isoDate": "2026-08-18T11:04:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NTT DOCOMOがD-Wave量子技術を活用した2つ目のアプリをネットワーク運用に導入",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1652233",
+      "published": "2026-08-18 11:03:04",
+      "isoDate": "2026-08-18T11:03:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaとSandisk、機関投資家の保有状況をBofAが分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
       "published": "2026-08-18 10:44:30",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
-      "published": "2026-08-18 00:00:07",
-      "isoDate": "2026-08-18T00:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
       "isoDate": "2026-08-17T22:20:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ホワイトハウスがアップルに中国製メモリチップ回避を要求、マイクロンテクノロジー株が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650929",
-      "published": "2026-08-17 12:44:50",
-      "isoDate": "2026-08-17T12:44:50Z"
     },
     {
       "source": "Investing.com 外為",
