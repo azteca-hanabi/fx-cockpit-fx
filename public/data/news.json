@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-17T23:48:42Z",
-  "last_checked": "2026-08-17T23:48:42Z",
+  "updated": "2026-08-18T01:25:52Z",
+  "last_checked": "2026-08-18T01:25:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、4,450ドル近辺に上昇――Fed利上げ観測後退とドル安が支援",
+      "link": "https://jp.investing.com/news/commodities-news/article-1651649",
+      "published": "2026-08-18 00:54:25",
+      "isoDate": "2026-08-18T00:54:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物、先週の上昇後に利益確定売りで下落",
@@ -64,43 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651339",
       "published": "2026-08-17 17:27:38",
       "isoDate": "2026-08-17T17:27:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "供給混乱でヨーロッパのディーゼルマージンが急上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1651337",
-      "published": "2026-08-17 17:25:34",
-      "isoDate": "2026-08-17T17:25:34Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part2 LiNKX、JDSC、キオクシアHDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651575",
-      "published": "2026-08-17 22:45:05",
-      "isoDate": "2026-08-17T22:45:05Z"
+      "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
+      "published": "2026-08-18 00:00:07",
+      "isoDate": "2026-08-18T00:00:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米8月NY連銀製造業景気指数などが予想外に改善",
-      "link": "https://jp.investing.com/news/forex-news/article-1651537",
-      "published": "2026-08-17 21:45:05",
-      "isoDate": "2026-08-17T21:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ロケット・ラボ、米宇宙軍の9億8100万ドル規模NITE-STAR契約に参加",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1651516",
-      "published": "2026-08-17 21:14:01",
-      "isoDate": "2026-08-17T21:14:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDisk、RSI過熱で反落警戒：最新レベルを確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
-      "published": "2026-08-17 19:11:58",
-      "isoDate": "2026-08-17T19:11:58Z"
+      "title": "半導体やAI関連株の押し目狙いのスタンスに",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651605",
+      "published": "2026-08-17 23:45:08",
+      "isoDate": "2026-08-17T23:45:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +118,20 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は5日続伸、アドバンテストとキオクシアHDの2銘柄で約409円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1650344",
+      "published": "2026-08-17 08:00:17",
+      "isoDate": "2026-08-17T08:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は413円高、米経済指標に関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1650235",
+      "published": "2026-08-17 06:00:17",
+      "isoDate": "2026-08-17T06:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIは見抜いていた。プレマーケットで+11%、この素材株は8月の上昇率55%超へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1650202",
       "published": "2026-08-17 05:09:44",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "映画「オデュッセイア」海賊版に偽装、仮想通貨盗むマルウェア拡散",
+      "link": "https://coinpost.jp/?p=731484",
+      "published": "Tue, 18 Aug 2026 10:16:48 +0900",
+      "isoDate": "2026-08-18T01:16:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン取引高、2019年以来の低水準に　株市場に出遅れ＝ビットフィネックス分析",
+      "link": "https://coinpost.jp/?p=731445",
+      "published": "Tue, 18 Aug 2026 09:45:28 +0900",
+      "isoDate": "2026-08-18T00:45:28Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハーモニー、トークン不正発行分の巻き戻し計画を発表",
@@ -208,27 +222,6 @@
       "link": "https://coinpost.jp/?p=731162",
       "published": "Mon, 17 Aug 2026 11:13:11 +0900",
       "isoDate": "2026-08-17T02:13:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "macOS「画面共有」脆弱性が悪用され不正マイニング被害、アップルは緊急パッチ公開",
-      "link": "https://coinpost.jp/?p=731108",
-      "published": "Mon, 17 Aug 2026 09:38:21 +0900",
-      "isoDate": "2026-08-17T00:38:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン含み益比率53％に回復、需要回復は未確定＝アナリスト",
-      "link": "https://coinpost.jp/?p=731100",
-      "published": "Mon, 17 Aug 2026 08:34:29 +0900",
-      "isoDate": "2026-08-16T23:34:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "10年以上未移動のビットコイン、供給量の約18％に　紛失の可能性も",
-      "link": "https://coinpost.jp/?p=731095",
-      "published": "Mon, 17 Aug 2026 07:51:39 +0900",
-      "isoDate": "2026-08-16T22:51:39Z"
     }
   ]
 }
