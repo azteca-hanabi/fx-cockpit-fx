@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T23:26:03Z",
-  "last_checked": "2026-08-18T23:26:03Z",
+  "updated": "2026-08-18T23:48:47Z",
+  "last_checked": "2026-08-18T23:48:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：反落で4,399.76ドル、米金利上昇と原油高がダブルで重し",
-      "link": "https://jp.investing.com/news/forex-news/article-1653179",
-      "published": "2026-08-18 22:45:06",
-      "isoDate": "2026-08-18T22:45:06Z"
+      "title": "米国株式市場は続落、世界的な長期金利の上昇を警戒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653191",
+      "published": "2026-08-18 23:15:06",
+      "isoDate": "2026-08-18T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "18日のNY市場は続落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653192",
+      "published": "2026-08-18 23:15:06",
+      "isoDate": "2026-08-18T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
       "published": "2026-08-18 19:12:36",
       "isoDate": "2026-08-18T19:12:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaとブロードコムのQ決算：主要な論点は解消されないとTD Cowanが指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1652792",
-      "published": "2026-08-18 14:33:43",
-      "isoDate": "2026-08-18T14:33:43Z"
     },
     {
       "source": "Investing.com 外為",
