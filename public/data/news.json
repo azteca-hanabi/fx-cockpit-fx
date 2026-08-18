@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T15:35:14Z",
-  "last_checked": "2026-08-18T15:35:14Z",
+  "updated": "2026-08-18T16:35:57Z",
+  "last_checked": "2026-08-18T16:35:57Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "砂糖先物（11番）が急騰、インドの輸入関税撤廃検討と南米の供給減が背景",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652861",
+      "published": "2026-08-18 16:08:51",
+      "isoDate": "2026-08-18T16:08:51Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "USDAが作物状況評価を引き下げ、トウモロコシ先物が上昇",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
       "published": "2026-08-18 07:08:10",
       "isoDate": "2026-08-18T07:08:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの和平交渉が暗礁、原油価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1651690",
-      "published": "2026-08-18 01:37:00",
-      "isoDate": "2026-08-18T01:37:00Z"
     }
   ],
   "usdjpy_items": [
@@ -90,17 +90,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "IonQ、$44〜$47で圧縮相場--毎時更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651159",
-      "published": "2026-08-18 14:15:06",
-      "isoDate": "2026-08-18T14:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "SanDisk、$1,670抵抗帯で買われ過ぎ警戒：リアルタイム更新",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
       "published": "2026-08-18 14:12:23",
       "isoDate": "2026-08-18T14:12:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
+      "published": "2026-08-18 13:50:23",
+      "isoDate": "2026-08-18T13:50:23Z"
     },
     {
       "source": "Investing.com 外為",
