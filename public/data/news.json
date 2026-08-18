@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T02:38:47Z",
-  "last_checked": "2026-08-18T02:38:47Z",
+  "updated": "2026-08-18T03:48:27Z",
+  "last_checked": "2026-08-18T03:48:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "グーグル、2027年までに中国でのPixel生産終了を計画＝日経",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651766",
+      "published": "2026-08-18 03:16:21",
+      "isoDate": "2026-08-18T03:16:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "キオクシアＨＤ、ＫＯＫＵＳＡＩ◆今日のフィスコ注目銘柄◆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651609",
       "published": "2026-08-18 00:00:07",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1651222",
       "published": "2026-08-17 15:02:02",
       "isoDate": "2026-08-17T15:02:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ハーバード大学、スペースXに22億ドル出資――米国株ポートフォリオの過半数占める",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651035",
-      "published": "2026-08-17 13:27:33",
-      "isoDate": "2026-08-17T13:27:33Z"
     },
     {
       "source": "Investing.com 外為",
