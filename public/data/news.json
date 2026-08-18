@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T03:48:27Z",
-  "last_checked": "2026-08-18T03:48:27Z",
+  "updated": "2026-08-18T04:39:22Z",
+  "last_checked": "2026-08-18T04:39:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は大幅に6日ぶり反落、アドバンテストが1銘柄で約376円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1651775",
+      "published": "2026-08-18 03:45:17",
+      "isoDate": "2026-08-18T03:45:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～直近の上昇に対する短期的な売り優勢",
+      "link": "https://jp.investing.com/news/forex-news/article-1651774",
+      "published": "2026-08-18 03:45:15",
+      "isoDate": "2026-08-18T03:45:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "グーグル、2027年までに中国でのPixel生産終了を計画＝日経",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651766",
       "published": "2026-08-18 03:16:21",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1650435",
       "published": "2026-08-17 09:30:12",
       "isoDate": "2026-08-17T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は5日続伸、アドバンテストとキオクシアHDの2銘柄で約409円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1650344",
-      "published": "2026-08-17 08:00:17",
-      "isoDate": "2026-08-17T08:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は413円高、米経済指標に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1650235",
-      "published": "2026-08-17 06:00:17",
-      "isoDate": "2026-08-17T06:00:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -215,20 +215,6 @@
       "link": "https://coinpost.jp/?p=731262",
       "published": "Mon, 17 Aug 2026 16:24:16 +0900",
       "isoDate": "2026-08-17T07:24:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イスラエル最大の規制下仮想通貨ブローカー「Bits of Gold」で顧客情報流出の可能性",
-      "link": "https://coinpost.jp/?p=731182",
-      "published": "Mon, 17 Aug 2026 15:08:19 +0900",
-      "isoDate": "2026-08-17T06:08:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハーバード大学、ビットコインETF「IBIT」の売却停止　チューダー氏ファンドは増加",
-      "link": "https://coinpost.jp/?p=731169",
-      "published": "Mon, 17 Aug 2026 12:52:24 +0900",
-      "isoDate": "2026-08-17T03:52:24Z"
     }
   ]
 }
