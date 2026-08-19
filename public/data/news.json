@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T15:35:23Z",
-  "last_checked": "2026-08-19T15:35:23Z",
+  "updated": "2026-08-19T16:35:30Z",
+  "last_checked": "2026-08-19T16:35:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫、先週440万バレル増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654477",
+      "published": "2026-08-19 15:38:47",
+      "isoDate": "2026-08-19T15:38:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "プラチナ現物価格が本日急騰した理由とは",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1653292",
       "published": "2026-08-19 01:33:02",
       "isoDate": "2026-08-19T01:33:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの対立続く中、原油価格が4日連続上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1653223",
-      "published": "2026-08-19 00:14:29",
-      "isoDate": "2026-08-19T00:14:29Z"
     }
   ],
   "usdjpy_items": [
