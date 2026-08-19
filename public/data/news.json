@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T03:49:45Z",
-  "last_checked": "2026-08-19T03:49:45Z",
+  "updated": "2026-08-19T04:40:27Z",
+  "last_checked": "2026-08-19T04:40:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "韓国KOSPIがSKハイニックスとサムスンの急落で5%超下落し取引一時停止",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1653321",
-      "published": "2026-08-19 01:55:22",
-      "isoDate": "2026-08-19T01:55:22Z"
+      "title": "後場に注目すべき3つのポイント～半導体関連の全面安で下げ幅拡大",
+      "link": "https://jp.investing.com/news/forex-news/article-1653382",
+      "published": "2026-08-19 03:45:15",
+      "isoDate": "2026-08-19T03:45:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY金は底入れ観測強まる　サンワード証券の陳氏",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653376",
+      "published": "2026-08-19 03:30:14",
+      "isoDate": "2026-08-19T03:30:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
       "published": "2026-08-18 10:44:30",
       "isoDate": "2026-08-18T10:44:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に6日ぶり反落、アドバンテストや東エレクが2銘柄で約836円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651949",
-      "published": "2026-08-18 07:45:19",
-      "isoDate": "2026-08-18T07:45:19Z"
     },
     {
       "source": "Investing.com 外為",
