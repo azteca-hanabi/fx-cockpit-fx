@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T18:40:16Z",
-  "last_checked": "2026-08-19T18:40:16Z",
+  "updated": "2026-08-19T19:29:13Z",
+  "last_checked": "2026-08-19T19:29:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -90,13 +90,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループ、カスタムチップ契約に関連しGoogleにワラントを発行",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1654131",
-      "published": "2026-08-19 12:39:02",
-      "isoDate": "2026-08-19T12:39:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "プレマーケット動向：モデルナが急騰、ターゲットは下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1653942",
       "published": "2026-08-19 11:29:20",
@@ -143,6 +136,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
       "published": "2026-08-18 22:20:10",
       "isoDate": "2026-08-18T22:20:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
+      "published": "2026-08-18 13:50:23",
+      "isoDate": "2026-08-18T13:50:23Z"
     }
   ],
   "btc_items": [
