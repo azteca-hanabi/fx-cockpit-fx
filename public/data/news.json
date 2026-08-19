@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-19T06:51:02Z",
-  "last_checked": "2026-08-19T06:51:02Z",
+  "updated": "2026-08-19T07:42:02Z",
+  "last_checked": "2026-08-19T07:42:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、RSI39台で重要サポートを試す攻防：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-19 07:08:40",
+      "isoDate": "2026-08-19T07:08:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,380〜$4,495のレンジで膠着：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-19 07:08:36",
+      "isoDate": "2026-08-19T07:08:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が$84.80の強力レジスタンスを試す：リアルタイム更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-19 07:08:36",
+      "isoDate": "2026-08-19T07:08:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、200SMAに接近し下落加速：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-19 07:08:34",
+      "isoDate": "2026-08-19T07:08:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、過熱感で$92.80抵抗帯に接近：リアルタイム更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-19 07:08:25",
+      "isoDate": "2026-08-19T07:08:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ドル安・利回り低下でFED議事録控え金価格が小幅反発",
@@ -36,41 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652980",
       "published": "2026-08-18 19:39:11",
       "isoDate": "2026-08-18T19:39:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金スポット・プラチナ比率が本日上昇した理由",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652979",
-      "published": "2026-08-18 19:35:23",
-      "isoDate": "2026-08-18T19:35:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$84.50レジスタンス攻防中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-18 19:12:56",
-      "isoDate": "2026-08-18T19:12:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅が200SMAに迫る下落：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-18 19:12:43",
-      "isoDate": "2026-08-18T19:12:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,410付近で強弱拮抗：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-18 19:12:37",
-      "isoDate": "2026-08-18T19:12:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$92.11抵抗線が目前-MFI過熱に注意：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-18 19:12:33",
-      "isoDate": "2026-08-18T19:12:33Z"
     }
   ],
   "usdjpy_items": [
@@ -111,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "本日さらに+16%。AIが選んだ医療テック株は選定以降+92%に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
+      "published": "2026-08-18 22:20:10",
+      "isoDate": "2026-08-18T22:20:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が本日下落している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
       "published": "2026-08-18 13:50:23",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均VIは大幅に上昇、金利上昇など警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1651831",
-      "published": "2026-08-18 05:30:19",
-      "isoDate": "2026-08-18T05:30:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットバンク、ビットコイン入出金一時停止　eCash分岐へ対応",
+      "link": "https://coinpost.jp/?p=731789",
+      "published": "Wed, 19 Aug 2026 16:03:53 +0900",
+      "isoDate": "2026-08-19T07:03:53Z"
+    },
     {
       "source": "CoinPost",
       "title": "カルシ、CFTCに米国株指数「US500」の無期限先物を申請",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=731658",
       "published": "Wed, 19 Aug 2026 06:00:08 +0900",
       "isoDate": "2026-08-18T21:00:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、仮想通貨資金調達の新規則「レギュレーション・クリプトアセット」を提案",
-      "link": "https://coinpost.jp/?p=731659",
-      "published": "Wed, 19 Aug 2026 05:40:10 +0900",
-      "isoDate": "2026-08-18T20:40:10Z"
     }
   ]
 }
