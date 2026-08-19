@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T16:35:30Z",
-  "last_checked": "2026-08-19T16:35:30Z",
+  "updated": "2026-08-19T17:29:33Z",
+  "last_checked": "2026-08-19T17:29:33Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、供給逼迫で上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654526",
+      "published": "2026-08-19 17:03:10",
+      "isoDate": "2026-08-19T17:03:10Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米原油在庫、先週440万バレル増加",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
       "published": "2026-08-19 07:08:25",
       "isoDate": "2026-08-19T07:08:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "財務省が買い戻し規模の倍増計画を発表、金価格が上昇を継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-1653292",
-      "published": "2026-08-19 01:33:02",
-      "isoDate": "2026-08-19T01:33:02Z"
     }
   ],
   "usdjpy_items": [
