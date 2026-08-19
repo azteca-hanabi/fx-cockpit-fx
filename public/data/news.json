@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T12:54:33Z",
-  "last_checked": "2026-08-19T12:54:33Z",
+  "updated": "2026-08-19T13:48:06Z",
+  "last_checked": "2026-08-19T13:48:06Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "プラチナ現物価格が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654260",
+      "published": "2026-08-19 13:25:19",
+      "isoDate": "2026-08-19T13:25:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1653223",
       "published": "2026-08-19 00:14:29",
       "isoDate": "2026-08-19T00:14:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米天然ガス先物が上昇、原油価格の値上がりが追い風に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653026",
-      "published": "2026-08-18 20:09:26",
-      "isoDate": "2026-08-18T20:09:26Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ネビウス・グループ、総額45億ドルの転換社債発行を計画",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1653956",
-      "published": "2026-08-19 11:36:02",
-      "isoDate": "2026-08-19T11:36:02Z"
+      "title": "マーベル・テクノロジー・グループ、Google向けカスタムチップ契約でワラント発行後に株価急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1654162",
+      "published": "2026-08-19 12:55:01",
+      "isoDate": "2026-08-19T12:55:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、カスタムチップ契約に関連しGoogleにワラントを発行",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1654131",
+      "published": "2026-08-19 12:39:02",
+      "isoDate": "2026-08-19T12:39:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
       "published": "2026-08-18 22:20:10",
       "isoDate": "2026-08-18T22:20:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
-      "published": "2026-08-18 13:50:23",
-      "isoDate": "2026-08-18T13:50:23Z"
     }
   ],
   "btc_items": [
