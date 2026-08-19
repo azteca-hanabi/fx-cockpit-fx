@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-18T23:48:47Z",
-  "last_checked": "2026-08-18T23:48:47Z",
+  "updated": "2026-08-19T01:28:15Z",
+  "last_checked": "2026-08-19T01:28:15Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランと米国のホルムズ海峡をめぐる対立が続き、原油価格が4日続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-1653223",
+      "published": "2026-08-19 00:14:29",
+      "isoDate": "2026-08-19T00:14:29Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米天然ガス先物が上昇、原油価格の値上がりが追い風に",
@@ -64,16 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
       "published": "2026-08-18 19:12:27",
       "isoDate": "2026-08-18T19:12:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の混乱がユーロネクスト小麦相場を押し上げ、需要低迷を相殺",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652906",
-      "published": "2026-08-18 17:32:06",
-      "isoDate": "2026-08-18T17:32:06Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は648円安でスタート、キオクシアHDや古河電工などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653238",
+      "published": "2026-08-19 00:45:08",
+      "isoDate": "2026-08-19T00:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 8/19",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653206",
+      "published": "2026-08-19 00:00:06",
+      "isoDate": "2026-08-19T00:00:06Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米国株式市場は続落、世界的な長期金利の上昇を警戒",
@@ -83,24 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "18日のNY市場は続落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1653192",
-      "published": "2026-08-18 23:15:06",
-      "isoDate": "2026-08-18T23:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは116.38ドル安、世界的な長期金利の上昇を警戒",
       "link": "https://jp.investing.com/news/forex-news/article-1653122",
       "published": "2026-08-18 21:15:05",
       "isoDate": "2026-08-18T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SanDiskがレンジ相場に突入、$1,610付近で攻防：毎時更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1651148",
-      "published": "2026-08-18 19:12:36",
-      "isoDate": "2026-08-18T19:12:36Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,48 @@
       "isoDate": "2026-08-17T22:20:36Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "サイファーパンク、ジーキャッシュのマイニング設備を米国で展開",
+      "link": "https://coinpost.jp/?p=731676",
+      "published": "Wed, 19 Aug 2026 10:10:59 +0900",
+      "isoDate": "2026-08-19T01:10:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ヴァンエック、ビットコインの降伏指標12中8点灯と分析",
+      "link": "https://coinpost.jp/?p=731691",
+      "published": "Wed, 19 Aug 2026 10:03:46 +0900",
+      "isoDate": "2026-08-19T01:03:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、2100BTC出資で米スーパーリーグをビットコイントレジャリー化",
+      "link": "https://coinpost.jp/?p=731658",
+      "published": "Wed, 19 Aug 2026 06:00:08 +0900",
+      "isoDate": "2026-08-18T21:00:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、仮想通貨資金調達の新規則「レギュレーション・クリプトアセット」を提案",
+      "link": "https://coinpost.jp/?p=731659",
+      "published": "Wed, 19 Aug 2026 05:40:10 +0900",
+      "isoDate": "2026-08-18T20:40:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米シティ、次世代カストディ基盤始動｜ビットコインカストディも年内開始",
+      "link": "https://coinpost.jp/?p=731649",
+      "published": "Wed, 19 Aug 2026 05:00:51 +0900",
+      "isoDate": "2026-08-18T20:00:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨市場デレバレッジ、2022年と異なる秩序ある減少＝ギャラクシー・リサーチ",
+      "link": "https://coinpost.jp/?p=731617",
+      "published": "Tue, 18 Aug 2026 16:30:15 +0900",
+      "isoDate": "2026-08-18T07:30:15Z"
+    }
+  ]
 }
