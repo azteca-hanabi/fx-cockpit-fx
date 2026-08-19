@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T10:32:29Z",
-  "last_checked": "2026-08-19T10:32:29Z",
+  "updated": "2026-08-19T11:28:55Z",
+  "last_checked": "2026-08-19T11:28:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か",
+      "link": "https://jp.investing.com/news/commodities-news/article-1653839",
+      "published": "2026-08-19 10:24:19",
+      "isoDate": "2026-08-19T10:24:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス、5カ月ぶり高値から反落－利益確定売りで上昇一服",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653026",
       "published": "2026-08-18 20:09:26",
       "isoDate": "2026-08-18T20:09:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米天然ガス先物が上昇、原油価格の上昇が追い風に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653025",
-      "published": "2026-08-18 20:09:25",
-      "isoDate": "2026-08-18T20:09:25Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か",
+      "link": "https://jp.investing.com/news/commodities-news/article-1653839",
+      "published": "2026-08-19 10:24:19",
+      "isoDate": "2026-08-19T10:24:19Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NvidiaのCDSスプレッドが新高値、ソフトバンクが過去最大規模の社債発行へ",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
       "published": "2026-08-18 13:50:23",
       "isoDate": "2026-08-18T13:50:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaとSandisk、機関投資家の保有状況をBofAが分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
-      "published": "2026-08-18 10:44:30",
-      "isoDate": "2026-08-18T10:44:30Z"
     }
   ],
   "btc_items": [
