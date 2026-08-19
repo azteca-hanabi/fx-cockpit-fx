@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T20:32:37Z",
-  "last_checked": "2026-08-19T20:32:37Z",
+  "updated": "2026-08-19T21:28:52Z",
+  "last_checked": "2026-08-19T21:28:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アドバンスト・マイクロ・デバイセズ、シティのテクノロジー幹部ティム・ライアンを取締役に任命",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1654664",
+      "published": "2026-08-19 20:22:02",
+      "isoDate": "2026-08-19T20:22:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY外為：ドル売り加速、米財務省が長期債市場の流動性支援発表で",
       "link": "https://jp.investing.com/news/forex-news/article-1654270",
       "published": "2026-08-19 13:30:04",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
       "published": "2026-08-18 22:20:10",
       "isoDate": "2026-08-18T22:20:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1652726",
-      "published": "2026-08-18 13:50:23",
-      "isoDate": "2026-08-18T13:50:23Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米OCC長官、新設銀行免許申請の仮想通貨関連比率が約6割に急増",
+      "link": "https://coinpost.jp/?p=731835",
+      "published": "Thu, 20 Aug 2026 06:15:25 +0900",
+      "isoDate": "2026-08-19T21:15:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、「仮想通貨業界への逆風に完全に終止符を打った」と発言　ビットコインは6月以来の高値",
+      "link": "https://coinpost.jp/?p=731836",
+      "published": "Thu, 20 Aug 2026 05:50:27 +0900",
+      "isoDate": "2026-08-19T20:50:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "SkyBridge創業者、弱気相場でもビットコイン底堅さ指摘",
@@ -187,20 +201,6 @@
       "link": "https://coinpost.jp/?p=731701",
       "published": "Wed, 19 Aug 2026 11:15:47 +0900",
       "isoDate": "2026-08-19T02:15:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "サイファーパンク、ジーキャッシュのマイニング設備を米国で展開",
-      "link": "https://coinpost.jp/?p=731676",
-      "published": "Wed, 19 Aug 2026 10:10:59 +0900",
-      "isoDate": "2026-08-19T01:10:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ヴァンエック、ビットコインの降伏指標12中8点灯と分析",
-      "link": "https://coinpost.jp/?p=731691",
-      "published": "Wed, 19 Aug 2026 10:03:46 +0900",
-      "isoDate": "2026-08-19T01:03:46Z"
     }
   ]
 }
