@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T11:54:03Z",
-  "last_checked": "2026-08-19T11:54:03Z",
+  "updated": "2026-08-19T12:54:33Z",
+  "last_checked": "2026-08-19T12:54:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ネビウス・グループ、総額45億ドルの転換社債発行を計画",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1653956",
+      "published": "2026-08-19 11:36:02",
+      "isoDate": "2026-08-19T11:36:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "プレマーケット動向：モデルナが急騰、ターゲットは下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1653942",
+      "published": "2026-08-19 11:29:20",
+      "isoDate": "2026-08-19T11:29:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "Palantir、30日以内に2回目のAI主権ブートキャンプを開催",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1653889",
       "published": "2026-08-19 11:02:03",
       "isoDate": "2026-08-19T11:02:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSが金価格の目標を1オンス5,400ドルに設定、上昇トレンドは継続か",
-      "link": "https://jp.investing.com/news/commodities-news/article-1653839",
-      "published": "2026-08-19 10:24:19",
-      "isoDate": "2026-08-19T10:24:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1653706",
       "published": "2026-08-19 09:26:05",
       "isoDate": "2026-08-19T09:26:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックス、40兆ウォン規模の自社株買い・消却計画を承認",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1653548",
-      "published": "2026-08-19 07:23:02",
-      "isoDate": "2026-08-19T07:23:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,62 @@
       "isoDate": "2026-08-18T13:50:23Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "SkyBridge創業者、弱気相場でもビットコイン底堅さ指摘",
+      "link": "https://coinpost.jp/?p=731797",
+      "published": "Wed, 19 Aug 2026 16:55:55 +0900",
+      "isoDate": "2026-08-19T07:55:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットバンク、ビットコイン入出金一時停止　eCash分岐へ対応",
+      "link": "https://coinpost.jp/?p=731789",
+      "published": "Wed, 19 Aug 2026 16:03:53 +0900",
+      "isoDate": "2026-08-19T07:03:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "カルシ、CFTCに米国株指数「US500」の無期限先物を申請",
+      "link": "https://coinpost.jp/?p=731778",
+      "published": "Wed, 19 Aug 2026 15:26:38 +0900",
+      "isoDate": "2026-08-19T06:26:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン小口投資家の需要、2年ぶり高水準に接近＝アナリスト",
+      "link": "https://coinpost.jp/?p=731757",
+      "published": "Wed, 19 Aug 2026 14:51:44 +0900",
+      "isoDate": "2026-08-19T05:51:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "15年間休眠8.54BTCのビットコイン始動、含み益4000倍超",
+      "link": "https://coinpost.jp/?p=731737",
+      "published": "Wed, 19 Aug 2026 13:44:12 +0900",
+      "isoDate": "2026-08-19T04:44:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブラックロック、ビットコイン下落でも分散効果健在と分析",
+      "link": "https://coinpost.jp/?p=731701",
+      "published": "Wed, 19 Aug 2026 11:15:47 +0900",
+      "isoDate": "2026-08-19T02:15:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "サイファーパンク、ジーキャッシュのマイニング設備を米国で展開",
+      "link": "https://coinpost.jp/?p=731676",
+      "published": "Wed, 19 Aug 2026 10:10:59 +0900",
+      "isoDate": "2026-08-19T01:10:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ヴァンエック、ビットコインの降伏指標12中8点灯と分析",
+      "link": "https://coinpost.jp/?p=731691",
+      "published": "Wed, 19 Aug 2026 10:03:46 +0900",
+      "isoDate": "2026-08-19T01:03:46Z"
+    }
+  ]
 }
