@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T08:41:56Z",
-  "last_checked": "2026-08-19T08:41:56Z",
+  "updated": "2026-08-19T09:37:55Z",
+  "last_checked": "2026-08-19T09:37:55Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、5カ月ぶり高値から反落－利益確定売りで上昇一服",
+      "link": "https://jp.investing.com/news/commodities-news/article-1653660",
+      "published": "2026-08-19 09:01:02",
+      "isoDate": "2026-08-19T09:01:02Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、RSI39台で重要サポートを試す攻防：リアルタイム更新中",
@@ -46,7 +53,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランと米国のホルムズ海峡をめぐる対立が続き、原油価格が4日続伸",
+      "title": "ホルムズ海峡を巡る米イラン対立が続き、原油価格が4日続伸",
       "link": "https://jp.investing.com/news/commodities-news/article-1653223",
       "published": "2026-08-19 00:14:29",
       "isoDate": "2026-08-19T00:14:29Z"
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1653025",
       "published": "2026-08-18 20:09:25",
       "isoDate": "2026-08-18T20:09:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米ドル建て銀スポット価格が本日上昇した理由",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1652980",
-      "published": "2026-08-18 19:39:11",
-      "isoDate": "2026-08-18T19:39:11Z"
     }
   ],
   "usdjpy_items": [
@@ -94,6 +94,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1653395",
       "published": "2026-08-19 04:15:16",
       "isoDate": "2026-08-19T04:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンクグループ株が本日急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1653388",
+      "published": "2026-08-19 03:57:33",
+      "isoDate": "2026-08-19T03:57:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1652218",
       "published": "2026-08-18 10:44:30",
       "isoDate": "2026-08-18T10:44:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
-      "published": "2026-08-17 22:20:36",
-      "isoDate": "2026-08-17T22:20:36Z"
     }
   ],
   "btc_items": [
