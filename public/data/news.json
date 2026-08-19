@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T07:42:02Z",
-  "last_checked": "2026-08-19T07:42:02Z",
+  "updated": "2026-08-19T08:41:56Z",
+  "last_checked": "2026-08-19T08:41:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SKハイニックス、40兆ウォン規模の自社株買い・消却計画を承認",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1653548",
+      "published": "2026-08-19 07:23:02",
+      "isoDate": "2026-08-19T07:23:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株見通し：下げ渋りか、ハイテクの買戻しに期待",
       "link": "https://jp.investing.com/news/forex-news/article-1653413",
       "published": "2026-08-19 05:00:17",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "+41%、+37%、+35%。好決算のAI選定銘柄が相次ぎ急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1651837",
-      "published": "2026-08-18 05:46:42",
-      "isoDate": "2026-08-18T05:46:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが選んだAI関連銘柄、すでに+76%。それでもフェアバリューは63%超の上値余地を示唆",
       "link": "https://jp.investing.com/news/stock-market-news/article-1651562",
       "published": "2026-08-17 22:20:36",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "SkyBridge創業者、弱気相場でもビットコイン底堅さ指摘",
+      "link": "https://coinpost.jp/?p=731797",
+      "published": "Wed, 19 Aug 2026 16:55:55 +0900",
+      "isoDate": "2026-08-19T07:55:55Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットバンク、ビットコイン入出金一時停止　eCash分岐へ対応",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=731691",
       "published": "Wed, 19 Aug 2026 10:03:46 +0900",
       "isoDate": "2026-08-19T01:03:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、2100BTC出資で米スーパーリーグをビットコイントレジャリー化",
-      "link": "https://coinpost.jp/?p=731658",
-      "published": "Wed, 19 Aug 2026 06:00:08 +0900",
-      "isoDate": "2026-08-18T21:00:08Z"
     }
   ]
 }
