@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-19T17:53:54Z",
-  "last_checked": "2026-08-19T17:53:54Z",
+  "updated": "2026-08-19T18:40:16Z",
+  "last_checked": "2026-08-19T18:40:16Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ダンゴテ製油所の原油輸入量、8月に1日64万バレルに増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654549",
+      "published": "2026-08-19 17:50:39",
+      "isoDate": "2026-08-19T17:50:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージン、供給逼迫で上昇",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
       "published": "2026-08-19 07:08:34",
       "isoDate": "2026-08-19T07:08:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、過熱感で$92.80抵抗帯に接近：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-19 07:08:25",
-      "isoDate": "2026-08-19T07:08:25Z"
     }
   ],
   "usdjpy_items": [
