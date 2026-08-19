@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-19T19:29:13Z",
-  "last_checked": "2026-08-19T19:29:13Z",
+  "updated": "2026-08-19T19:53:08Z",
+  "last_checked": "2026-08-19T19:53:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、$84.28で膠着-ブレイク待ちの攻防：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-19 19:13:15",
+      "isoDate": "2026-08-19T19:13:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$67.00レジスタンスに接近中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-19 19:13:14",
+      "isoDate": "2026-08-19T19:13:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$91.49で強いレジスタンスに挑戦中：最新レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-19 19:13:11",
+      "isoDate": "2026-08-19T19:13:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold急伸¥4,561.94-買われすぎ警戒：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-19 19:13:10",
+      "isoDate": "2026-08-19T19:13:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.39サポート攻防で急落リスク：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-19 19:12:55",
+      "isoDate": "2026-08-19T19:12:55Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ダンゴテ製油所の原油輸入量、8月に1日64万バレルに増加",
@@ -36,41 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1653839",
       "published": "2026-08-19 10:24:19",
       "isoDate": "2026-08-19T10:24:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、5カ月ぶり高値から反落－利益確定売りで上昇一服",
-      "link": "https://jp.investing.com/news/commodities-news/article-1653660",
-      "published": "2026-08-19 09:01:02",
-      "isoDate": "2026-08-19T09:01:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、RSI39台で重要サポートを試す攻防：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-19 07:08:40",
-      "isoDate": "2026-08-19T07:08:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,380〜$4,495のレンジで膠着：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-19 07:08:36",
-      "isoDate": "2026-08-19T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が$84.80の強力レジスタンスを試す：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-19 07:08:36",
-      "isoDate": "2026-08-19T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅、200SMAに接近し下落加速：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-19 07:08:34",
-      "isoDate": "2026-08-19T07:08:34Z"
     }
   ],
   "usdjpy_items": [
