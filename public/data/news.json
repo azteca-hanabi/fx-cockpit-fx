@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T21:54:00Z",
-  "last_checked": "2026-08-19T21:54:00Z",
+  "updated": "2026-08-19T22:28:26Z",
+  "last_checked": "2026-08-19T22:28:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ、シティのテクノロジー幹部ティム・ライアンを取締役に任命",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1654664",
-      "published": "2026-08-19 20:22:02",
-      "isoDate": "2026-08-19T20:22:02Z"
+      "title": "NY為替：米財務省 長期債市場の流動性支援買戻しで、1回あたりの実施上限額を2倍に引き上げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1654780",
+      "published": "2026-08-19 22:00:04",
+      "isoDate": "2026-08-19T22:00:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "8月19日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1654602",
-      "published": "2026-08-19 19:45:04",
-      "isoDate": "2026-08-19T19:45:04Z"
+      "title": "NY株式：NYダウは119.65ドル高、財務省の介入による長期金利低下を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1654733",
+      "published": "2026-08-19 21:15:04",
+      "isoDate": "2026-08-19T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,69 @@
       "isoDate": "2026-08-18T22:20:10Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ジーキャッシュ現物ETFへ申請　DCGが20万ZEC取得検討",
+      "link": "https://coinpost.jp/?p=731840",
+      "published": "Thu, 20 Aug 2026 06:40:07 +0900",
+      "isoDate": "2026-08-19T21:40:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米OCC長官、新設銀行免許申請の仮想通貨関連比率が約6割に急増",
+      "link": "https://coinpost.jp/?p=731835",
+      "published": "Thu, 20 Aug 2026 06:15:25 +0900",
+      "isoDate": "2026-08-19T21:15:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、政府によるビットコイン購入検討を表明　BTCは6月以来の高値",
+      "link": "https://coinpost.jp/?p=731836",
+      "published": "Thu, 20 Aug 2026 05:50:27 +0900",
+      "isoDate": "2026-08-19T20:50:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "SkyBridge創業者、弱気相場でもビットコイン底堅さ指摘",
+      "link": "https://coinpost.jp/?p=731797",
+      "published": "Wed, 19 Aug 2026 16:55:55 +0900",
+      "isoDate": "2026-08-19T07:55:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットバンク、ビットコイン入出金一時停止　eCash分岐へ対応",
+      "link": "https://coinpost.jp/?p=731789",
+      "published": "Wed, 19 Aug 2026 16:03:53 +0900",
+      "isoDate": "2026-08-19T07:03:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "カルシ、CFTCに米国株指数「US500」の無期限先物を申請",
+      "link": "https://coinpost.jp/?p=731778",
+      "published": "Wed, 19 Aug 2026 15:26:38 +0900",
+      "isoDate": "2026-08-19T06:26:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン小口投資家の需要、2年ぶり高水準に接近＝アナリスト",
+      "link": "https://coinpost.jp/?p=731757",
+      "published": "Wed, 19 Aug 2026 14:51:44 +0900",
+      "isoDate": "2026-08-19T05:51:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "15年間休眠8.54BTCのビットコイン始動、含み益4000倍超",
+      "link": "https://coinpost.jp/?p=731737",
+      "published": "Wed, 19 Aug 2026 13:44:12 +0900",
+      "isoDate": "2026-08-19T04:44:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブラックロック、ビットコイン下落でも分散効果健在と分析",
+      "link": "https://coinpost.jp/?p=731701",
+      "published": "Wed, 19 Aug 2026 11:15:47 +0900",
+      "isoDate": "2026-08-19T02:15:47Z"
+    }
+  ]
 }
