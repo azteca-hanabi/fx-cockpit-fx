@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T16:38:59Z",
-  "last_checked": "2026-08-20T16:38:59Z",
+  "updated": "2026-08-20T17:33:10Z",
+  "last_checked": "2026-08-20T17:33:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,13 +83,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米7月景気先行指数は予想上回る、ドル買い優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1656066",
-      "published": "2026-08-20 14:30:04",
-      "isoDate": "2026-08-20T14:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、メモリとAIに特化した100億ドルの研究施設を設立",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1655811",
       "published": "2026-08-20 12:40:03",
@@ -108,6 +101,13 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1655617",
       "published": "2026-08-20 11:24:28",
       "isoDate": "2026-08-20T11:24:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "機関投資家が保有比率を最も拡大したS&P500銘柄25選（第2四半期）",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1655490",
+      "published": "2026-08-20 10:27:08",
+      "isoDate": "2026-08-20T10:27:08Z"
     },
     {
       "source": "Investing.com 外為",
