@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T23:29:01Z",
-  "last_checked": "2026-08-20T23:29:01Z",
+  "updated": "2026-08-20T23:53:31Z",
+  "last_checked": "2026-08-20T23:53:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "20日のNY市場は大幅反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656480",
+      "published": "2026-08-20 23:15:06",
+      "isoDate": "2026-08-20T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "前日に動いた銘柄 part2キオクシアHD、オキサイド、ヘリオスなど",
       "link": "https://jp.investing.com/news/stock-market-news/article-1656463",
       "published": "2026-08-20 22:45:05",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1655617",
       "published": "2026-08-20 11:24:28",
       "isoDate": "2026-08-20T11:24:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日ぶり反発、ソフトバンクGやファーストリテが2銘柄で236円分押上",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1655228",
-      "published": "2026-08-20 07:30:13",
-      "isoDate": "2026-08-20T07:30:13Z"
     },
     {
       "source": "Investing.com 外為",
