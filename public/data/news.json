@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-20T18:45:29Z",
-  "last_checked": "2026-08-20T18:45:29Z",
+  "updated": "2026-08-20T19:34:13Z",
+  "last_checked": "2026-08-20T19:34:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、BB上限に迫り過熱警戒：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-20 19:12:53",
+      "isoDate": "2026-08-20T19:12:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が87.52ドルのレジスタンスに攻防中：今時間の判断は",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-20 19:12:53",
+      "isoDate": "2026-08-20T19:12:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$93.61で高値圏に接近-毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-20 19:12:49",
+      "isoDate": "2026-08-20T19:12:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、6.40-6.55レンジで膠着-分岐点を毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-20 19:12:43",
+      "isoDate": "2026-08-20T19:12:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,627レジスタンスでダブルトップ警戒：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-20 19:12:39",
+      "isoDate": "2026-08-20T19:12:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、黒海混乱で約4週間ぶり高値に上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656240",
+      "published": "2026-08-20 18:45:05",
+      "isoDate": "2026-08-20T18:45:05Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トゥルーストが金の格付けをニュートラルに引き上げ、金利見通しとドル安を背景に",
@@ -29,57 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655959",
       "published": "2026-08-20 13:36:53",
       "isoDate": "2026-08-20T13:36:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "8月13日終了週、米国のトウモロコシと大豆の輸出販売が増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655940",
-      "published": "2026-08-20 13:32:18",
-      "isoDate": "2026-08-20T13:32:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "石油備蓄はいつ「枯渇」するのか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1655860",
-      "published": "2026-08-20 12:58:18",
-      "isoDate": "2026-08-20T12:58:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米天然ガス供給の底堅さは価格低下を上回るか？UBSが予測を引き下げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1655746",
-      "published": "2026-08-20 12:03:16",
-      "isoDate": "2026-08-20T12:03:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア、大豆輸出関税を2028年8月末まで延長",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655672",
-      "published": "2026-08-20 11:55:37",
-      "isoDate": "2026-08-20T11:55:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "モルガン・スタンレー、2027年の金価格見通しを発表",
-      "link": "https://jp.investing.com/news/commodities-news/article-1655617",
-      "published": "2026-08-20 11:24:28",
-      "isoDate": "2026-08-20T11:24:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、50%フィボナッチ抵抗$67.13を試す：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-20 07:08:42",
-      "isoDate": "2026-08-20T07:08:42Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：一時ドル売り加速、ベッセント米財務長官が長期債買戻し額拡大の可能性も示唆",
-      "link": "https://jp.investing.com/news/forex-news/article-1656143",
-      "published": "2026-08-20 15:45:04",
-      "isoDate": "2026-08-20T15:45:04Z"
+      "title": "アンソロピック、スペースXを超える史上最大規模のIPOを計画",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656229",
+      "published": "2026-08-20 18:13:43",
+      "isoDate": "2026-08-20T18:13:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXがゴールデンドームの契約で80億ドル超を獲得",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656226",
+      "published": "2026-08-20 18:09:20",
+      "isoDate": "2026-08-20T18:09:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1655617",
       "published": "2026-08-20 11:24:28",
       "isoDate": "2026-08-20T11:24:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "機関投資家が保有比率を最も拡大したS&P500銘柄25選（第2四半期）",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1655490",
-      "published": "2026-08-20 10:27:08",
-      "isoDate": "2026-08-20T10:27:08Z"
     },
     {
       "source": "Investing.com 外為",
