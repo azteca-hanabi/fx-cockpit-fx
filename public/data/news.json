@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-20T11:30:17Z",
-  "last_checked": "2026-08-20T11:30:17Z",
+  "updated": "2026-08-20T12:56:29Z",
+  "last_checked": "2026-08-20T12:56:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米天然ガス供給の底堅さは価格低下を上回るか？UBSが予測を引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1655746",
+      "published": "2026-08-20 12:03:16",
+      "isoDate": "2026-08-20T12:03:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシア、大豆輸出関税を2028年8月末まで延長",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655672",
+      "published": "2026-08-20 11:55:37",
+      "isoDate": "2026-08-20T11:55:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "モルガン・スタンレー、2027年の金価格見通しを発表",
+      "link": "https://jp.investing.com/news/commodities-news/article-1655617",
+      "published": "2026-08-20 11:24:28",
+      "isoDate": "2026-08-20T11:24:28Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、50%フィボナッチ抵抗$67.13を試す：毎時更新",
@@ -50,36 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1655024",
       "published": "2026-08-20 02:47:22",
       "isoDate": "2026-08-20T02:47:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランへの追加制裁を発表、原油価格は安定",
-      "link": "https://jp.investing.com/news/commodities-news/article-1654907",
-      "published": "2026-08-20 00:55:59",
-      "isoDate": "2026-08-20T00:55:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ダンゴテ製油所の原油輸入量、8月に1日64万バレルに増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654549",
-      "published": "2026-08-19 17:50:39",
-      "isoDate": "2026-08-19T17:50:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西ヨーロッパのガソリン精製マージン、供給逼迫で上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1654526",
-      "published": "2026-08-19 17:03:10",
-      "isoDate": "2026-08-19T17:03:10Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は下げ渋り、原油高で根強いドル買い",
-      "link": "https://jp.investing.com/news/forex-news/article-1655542",
-      "published": "2026-08-20 11:00:08",
-      "isoDate": "2026-08-20T11:00:08Z"
+      "title": "CoreWeaveとハドソン・リバー・トレーディングが複数年契約を締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1655719",
+      "published": "2026-08-20 12:08:01",
+      "isoDate": "2026-08-20T12:08:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウルフ・リサーチ、AI半導体株に強気継続―Nvidiaをトップピックに指名",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1655690",
+      "published": "2026-08-20 12:02:10",
+      "isoDate": "2026-08-20T12:02:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "モルガン・スタンレー、2027年の金価格見通しを発表",
+      "link": "https://jp.investing.com/news/commodities-news/article-1655617",
+      "published": "2026-08-20 11:24:28",
+      "isoDate": "2026-08-20T11:24:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1655490",
       "published": "2026-08-20 10:27:08",
       "isoDate": "2026-08-20T10:27:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は失速、ドル売り優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1655466",
-      "published": "2026-08-20 10:15:10",
-      "isoDate": "2026-08-20T10:15:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1654834",
       "published": "2026-08-19 23:14:19",
       "isoDate": "2026-08-19T23:14:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル：大幅続落、下向き転換した25日線割れ",
-      "link": "https://jp.investing.com/news/forex-news/article-1653713",
-      "published": "2026-08-19 09:30:12",
-      "isoDate": "2026-08-19T09:30:12Z"
     }
   ],
   "btc_items": [
