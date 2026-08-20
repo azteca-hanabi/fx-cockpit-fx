@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T15:37:22Z",
-  "last_checked": "2026-08-20T15:37:22Z",
+  "updated": "2026-08-20T16:38:59Z",
+  "last_checked": "2026-08-20T16:38:59Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Waymoがロボタクシー向けカスタムチップを開発、性能向上を図る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656071",
-      "published": "2026-08-20 14:32:25",
-      "isoDate": "2026-08-20T14:32:25Z"
+      "title": "NY外為：一時ドル売り加速、ベッセント米財務長官が長期債買戻し額拡大の可能性も示唆",
+      "link": "https://jp.investing.com/news/forex-news/article-1656143",
+      "published": "2026-08-20 15:45:04",
+      "isoDate": "2026-08-20T15:45:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1656066",
       "published": "2026-08-20 14:30:04",
       "isoDate": "2026-08-20T14:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米先週分新規失業保険申請件数は予想下振れ、フィリー連銀景況指数は予想上回る、ドル上値限定的",
-      "link": "https://jp.investing.com/news/forex-news/article-1655934",
-      "published": "2026-08-20 13:30:05",
-      "isoDate": "2026-08-20T13:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1655228",
       "published": "2026-08-20 07:30:13",
       "isoDate": "2026-08-20T07:30:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは上昇、株価堅調だが警戒感緩まず",
+      "link": "https://jp.investing.com/news/forex-news/article-1655087",
+      "published": "2026-08-20 05:15:18",
+      "isoDate": "2026-08-20T05:15:18Z"
     },
     {
       "source": "Investing.com 外為",
