@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-20T17:33:10Z",
-  "last_checked": "2026-08-20T17:33:10Z",
+  "updated": "2026-08-20T18:45:29Z",
+  "last_checked": "2026-08-20T18:45:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トゥルーストが金の格付けをニュートラルに引き上げ、金利見通しとドル安を背景に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656200",
+      "published": "2026-08-20 17:27:41",
+      "isoDate": "2026-08-20T17:27:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格上昇でノースダコタ州の油田活動が増加へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656195",
+      "published": "2026-08-20 17:25:14",
+      "isoDate": "2026-08-20T17:25:14Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "砂糖先物が1年超ぶり高値、供給懸念が強まる",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
       "published": "2026-08-20 07:08:42",
       "isoDate": "2026-08-20T07:08:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$88.07レジスタンス前に過熱感：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-20 07:08:39",
-      "isoDate": "2026-08-20T07:08:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent原油が$92.81抵抗線に攻防中：最新レベルを確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-20 07:08:37",
-      "isoDate": "2026-08-20T07:08:37Z"
     }
   ],
   "usdjpy_items": [
