@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T22:31:27Z",
-  "last_checked": "2026-08-20T22:31:27Z",
+  "updated": "2026-08-20T23:29:01Z",
+  "last_checked": "2026-08-20T23:29:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part2キオクシアHD、オキサイド、ヘリオスなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656463",
+      "published": "2026-08-20 22:45:05",
+      "isoDate": "2026-08-20T22:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：米8月フィラデルフィア連銀製造業景況指数などが予想を上回る",
       "link": "https://jp.investing.com/news/forex-news/article-1656430",
       "published": "2026-08-20 21:45:04",
       "isoDate": "2026-08-20T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは703.84ドル安、原油や金利上昇懸念が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1656416",
+      "published": "2026-08-20 21:30:04",
+      "isoDate": "2026-08-20T21:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アンソロピック、スペースXを超える史上最大規模のIPOを計画",
+      "title": "アンソロピックが「スペースX超え」のIPOを画策中、月内に申請書類公開へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1656229",
       "published": "2026-08-20 18:13:43",
       "isoDate": "2026-08-20T18:13:43Z"
@@ -104,24 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア、中国向け新型AI特化チップの出荷計画を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656198",
-      "published": "2026-08-20 17:24:31",
-      "isoDate": "2026-08-20T17:24:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、メモリとAIに特化した100億ドルの研究施設を設立",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1655811",
       "published": "2026-08-20 12:40:03",
       "isoDate": "2026-08-20T12:40:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウルフ・リサーチ、AI半導体株に強気継続―Nvidiaをトップピックに指名",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1655690",
-      "published": "2026-08-20 12:02:10",
-      "isoDate": "2026-08-20T12:02:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,76 +145,5 @@
       "isoDate": "2026-08-19T23:14:19Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、AIエージェント向けプラットフォーム「Binance Agent OS」をローンチ",
-      "link": "https://coinpost.jp/?p=732233",
-      "published": "Fri, 21 Aug 2026 07:20:33 +0900",
-      "isoDate": "2026-08-20T22:20:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーのMSTR株、前四半期に上位15機関投資家のうち12社が保有増",
-      "link": "https://coinpost.jp/?p=732218",
-      "published": "Fri, 21 Aug 2026 07:10:53 +0900",
-      "isoDate": "2026-08-20T22:10:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC委員長、クラリティー法案未成立でも仮想通貨規制整備へ",
-      "link": "https://coinpost.jp/?p=732220",
-      "published": "Fri, 21 Aug 2026 05:50:57 +0900",
-      "isoDate": "2026-08-20T20:50:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急騰、短期保有者が年初来最大利確＝アナリスト",
-      "link": "https://coinpost.jp/?p=732138",
-      "published": "Thu, 20 Aug 2026 16:37:00 +0900",
-      "isoDate": "2026-08-20T07:37:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴー、韓国で仮想通貨事業者に登録＝報道",
-      "link": "https://coinpost.jp/?p=732067",
-      "published": "Thu, 20 Aug 2026 15:20:26 +0900",
-      "isoDate": "2026-08-20T06:20:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開",
-      "link": "https://coinpost.jp/?p=732025",
-      "published": "Thu, 20 Aug 2026 14:15:13 +0900",
-      "isoDate": "2026-08-20T05:15:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・トレジャリー企業H100、上半期決算　BTC含み損40億円超計上",
-      "link": "https://coinpost.jp/?p=731983",
-      "published": "Thu, 20 Aug 2026 13:15:23 +0900",
-      "isoDate": "2026-08-20T04:15:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急伸、仮想通貨関連株も全面高",
-      "link": "https://coinpost.jp/?p=731950",
-      "published": "Thu, 20 Aug 2026 11:23:31 +0900",
-      "isoDate": "2026-08-20T02:23:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン6万9000ドル台へ急伸、10カ月ぶり200日移動平均線上抜け　国債買い戻し倍増が起点",
-      "link": "https://coinpost.jp/?p=731917",
-      "published": "Thu, 20 Aug 2026 10:53:21 +0900",
-      "isoDate": "2026-08-20T01:53:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国債利回り低下などの条件なければ弱気相場継続の可能性＝グラスノード見解",
-      "link": "https://coinpost.jp/?p=731868",
-      "published": "Thu, 20 Aug 2026 10:30:44 +0900",
-      "isoDate": "2026-08-20T01:30:44Z"
-    }
-  ]
+  "btc_items": []
 }
