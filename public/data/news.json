@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T05:34:43Z",
-  "last_checked": "2026-08-20T05:34:43Z",
+  "updated": "2026-08-20T06:52:32Z",
+  "last_checked": "2026-08-20T06:52:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "米国債買い戻しが利回りとドルを押し下げ、金は2カ月ぶり高値付近で推移",
+      "title": "金、4,500ドル近辺を維持―財務省の買い戻しとFED議事録が金利見通しを左右",
       "link": "https://jp.investing.com/news/commodities-news/article-1655024",
       "published": "2026-08-20 02:47:22",
       "isoDate": "2026-08-20T02:47:22Z"
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は高値付近、ドルに買戻し",
-      "link": "https://jp.investing.com/news/forex-news/article-1655078",
-      "published": "2026-08-20 05:00:15",
-      "isoDate": "2026-08-20T05:00:15Z"
+      "title": "東京為替：ドル・円は値を小高い、値を戻す展開",
+      "link": "https://jp.investing.com/news/forex-news/article-1655127",
+      "published": "2026-08-20 06:00:15",
+      "isoDate": "2026-08-20T06:00:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～直近の下落に対する買戻し優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1655045",
-      "published": "2026-08-20 03:45:13",
-      "isoDate": "2026-08-20T03:45:13Z"
+      "title": "日経平均は3日ぶり反発、ソフトバンクGが1銘柄で約159円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1655046",
+      "published": "2026-08-20 03:45:15",
+      "isoDate": "2026-08-20T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、Google向けカスタムチップ契約でワラント発行後に株価急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1654162",
+      "published": "2026-08-19 12:55:01",
+      "isoDate": "2026-08-19T12:55:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "プレマーケット動向：モデルナが急騰、ターゲットは下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1653942",
       "published": "2026-08-19 11:29:20",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は1645円安でスタート、パンパシHDやソフトバンクGなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1653395",
-      "published": "2026-08-19 04:15:16",
-      "isoDate": "2026-08-19T04:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "本日さらに+16%。AIが選んだ医療テック株は選定以降+92%に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
       "published": "2026-08-18 22:20:10",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットゴー、韓国で仮想通貨事業者に登録＝報道",
+      "link": "https://coinpost.jp/?p=732067",
+      "published": "Thu, 20 Aug 2026 15:20:26 +0900",
+      "isoDate": "2026-08-20T06:20:26Z"
+    },
     {
       "source": "CoinPost",
       "title": "Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開",
@@ -215,20 +222,6 @@
       "link": "https://coinpost.jp/?p=731840",
       "published": "Thu, 20 Aug 2026 06:40:07 +0900",
       "isoDate": "2026-08-19T21:40:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米OCC長官、新設銀行免許申請の仮想通貨関連比率が約6割に急増",
-      "link": "https://coinpost.jp/?p=731835",
-      "published": "Thu, 20 Aug 2026 06:15:25 +0900",
-      "isoDate": "2026-08-19T21:15:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、政府によるビットコイン購入検討を表明　BTCは6月以来の高値",
-      "link": "https://coinpost.jp/?p=731836",
-      "published": "Thu, 20 Aug 2026 05:50:27 +0900",
-      "isoDate": "2026-08-19T20:50:27Z"
     }
   ]
 }
