@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T07:44:31Z",
-  "last_checked": "2026-08-20T07:44:31Z",
+  "updated": "2026-08-20T08:42:57Z",
+  "last_checked": "2026-08-20T08:42:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "システナ、日立、伊藤忠など",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1655248",
+      "published": "2026-08-20 07:45:19",
+      "isoDate": "2026-08-20T07:45:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "バンク・オブ・アメリカ、177%急騰後にモデルナを格上げ――がんワクチン突破口で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1655207",
+      "published": "2026-08-20 07:02:38",
+      "isoDate": "2026-08-20T07:02:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は上昇一服、高値圏を維持",
       "link": "https://jp.investing.com/news/forex-news/article-1655152",
       "published": "2026-08-20 06:30:15",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1655087",
       "published": "2026-08-20 05:15:18",
       "isoDate": "2026-08-20T05:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は3日ぶり反発、ソフトバンクGが1銘柄で約159円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1655046",
-      "published": "2026-08-20 03:45:15",
-      "isoDate": "2026-08-20T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,92 +143,7 @@
       "link": "https://jp.investing.com/news/forex-news/article-1653713",
       "published": "2026-08-19 09:30:12",
       "isoDate": "2026-08-19T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "本日さらに+16%。AIが選んだ医療テック株は選定以降+92%に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1653176",
-      "published": "2026-08-18 22:20:10",
-      "isoDate": "2026-08-18T22:20:10Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急騰、短期保有者が年初来最大利確＝アナリスト",
-      "link": "https://coinpost.jp/?p=732138",
-      "published": "Thu, 20 Aug 2026 16:37:00 +0900",
-      "isoDate": "2026-08-20T07:37:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴー、韓国で仮想通貨事業者に登録＝報道",
-      "link": "https://coinpost.jp/?p=732067",
-      "published": "Thu, 20 Aug 2026 15:20:26 +0900",
-      "isoDate": "2026-08-20T06:20:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開",
-      "link": "https://coinpost.jp/?p=732025",
-      "published": "Thu, 20 Aug 2026 14:15:13 +0900",
-      "isoDate": "2026-08-20T05:15:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・トレジャリー企業H100、上半期決算　BTC含み損40億円超計上",
-      "link": "https://coinpost.jp/?p=731983",
-      "published": "Thu, 20 Aug 2026 13:15:23 +0900",
-      "isoDate": "2026-08-20T04:15:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急伸、仮想通貨関連株も全面高",
-      "link": "https://coinpost.jp/?p=731950",
-      "published": "Thu, 20 Aug 2026 11:23:31 +0900",
-      "isoDate": "2026-08-20T02:23:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン6万9000ドル台へ急伸、10カ月ぶり200日移動平均線上抜け　国債買い戻し倍増が起点",
-      "link": "https://coinpost.jp/?p=731917",
-      "published": "Thu, 20 Aug 2026 10:53:21 +0900",
-      "isoDate": "2026-08-20T01:53:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米国債利回り低下などの条件なければ弱気相場継続の可能性＝グラスノード見解",
-      "link": "https://coinpost.jp/?p=731868",
-      "published": "Thu, 20 Aug 2026 10:30:44 +0900",
-      "isoDate": "2026-08-20T01:30:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ガレゴ米上院議員、クラリティー法案の成立に自信示すも倫理条項で膠着",
-      "link": "https://coinpost.jp/?p=731857",
-      "published": "Thu, 20 Aug 2026 10:15:35 +0900",
-      "isoDate": "2026-08-20T01:15:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急騰、米国の金利介入が大規模ショート清算を誘発｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=731856",
-      "published": "Thu, 20 Aug 2026 09:35:42 +0900",
-      "isoDate": "2026-08-20T00:35:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨投資家の3つの誤解、ビットワイズ幹部が指摘",
-      "link": "https://coinpost.jp/?p=731850",
-      "published": "Thu, 20 Aug 2026 08:45:58 +0900",
-      "isoDate": "2026-08-19T23:45:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、バンコクでブロックチェーンウィークのアジア版開催予定",
-      "link": "https://coinpost.jp/?p=731846",
-      "published": "Thu, 20 Aug 2026 07:55:55 +0900",
-      "isoDate": "2026-08-19T22:55:55Z"
-    }
-  ]
+  "btc_items": []
 }
