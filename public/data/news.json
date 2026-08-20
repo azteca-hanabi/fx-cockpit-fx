@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-20T12:56:29Z",
-  "last_checked": "2026-08-20T12:56:29Z",
+  "updated": "2026-08-20T13:51:30Z",
+  "last_checked": "2026-08-20T13:51:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "石油備蓄はいつ「枯渇」するのか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1655860",
+      "published": "2026-08-20 12:58:18",
+      "isoDate": "2026-08-20T12:58:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米天然ガス供給の底堅さは価格低下を上回るか？UBSが予測を引き下げ",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1655329",
       "published": "2026-08-20 06:59:28",
       "isoDate": "2026-08-20T06:59:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国債買い戻しが金価格を2カ月超の高値に押し上げた後、反落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1655024",
-      "published": "2026-08-20 02:47:22",
-      "isoDate": "2026-08-20T02:47:22Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、メモリとAIに特化した100億ドルの研究施設を設立",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1655811",
+      "published": "2026-08-20 12:40:03",
+      "isoDate": "2026-08-20T12:40:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "CoreWeaveとハドソン・リバー・トレーディングが複数年契約を締結",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1655228",
       "published": "2026-08-20 07:30:13",
       "isoDate": "2026-08-20T07:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、トランプ発言と利回り低下を受け7万ドル近くに反発",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1655149",
-      "published": "2026-08-20 06:24:16",
-      "isoDate": "2026-08-20T06:24:16Z"
     },
     {
       "source": "Investing.com 外為",
