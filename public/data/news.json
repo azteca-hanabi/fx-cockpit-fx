@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-20T06:52:32Z",
-  "last_checked": "2026-08-20T06:52:32Z",
+  "updated": "2026-08-20T07:44:31Z",
+  "last_checked": "2026-08-20T07:44:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、50%フィボナッチ抵抗$67.13を試す：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-20 07:08:42",
+      "isoDate": "2026-08-20T07:08:42Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、$88.07レジスタンス前に過熱感：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-20 07:08:39",
+      "isoDate": "2026-08-20T07:08:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent原油が$92.81抵抗線に攻防中：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-20 07:08:37",
+      "isoDate": "2026-08-20T07:08:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、ダブルトップ形成で高値圏停滞：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-20 07:08:32",
+      "isoDate": "2026-08-20T07:08:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.37サポート攻防で下落リスク拡大：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-20 07:08:30",
+      "isoDate": "2026-08-20T07:08:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金、4,500ドル近辺を維持―財務省の買い戻しとFED議事録が金利見通しを左右",
@@ -15,41 +50,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1654907",
       "published": "2026-08-20 00:55:59",
       "isoDate": "2026-08-20T00:55:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$84.28で膠着-ブレイク待ちの攻防：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-19 19:13:15",
-      "isoDate": "2026-08-19T19:13:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、$67.00レジスタンスに接近中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-19 19:13:14",
-      "isoDate": "2026-08-19T19:13:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$91.49で強いレジスタンスに挑戦中：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-19 19:13:11",
-      "isoDate": "2026-08-19T19:13:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold急伸¥4,561.94-買われすぎ警戒：最新レベルを確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-19 19:13:10",
-      "isoDate": "2026-08-19T19:13:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.39サポート攻防で急落リスク：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-19 19:12:55",
-      "isoDate": "2026-08-19T19:12:55Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は値を小高い、値を戻す展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1655127",
-      "published": "2026-08-20 06:00:15",
-      "isoDate": "2026-08-20T06:00:15Z"
+      "title": "東京為替：ドル・円は上昇一服、高値圏を維持",
+      "link": "https://jp.investing.com/news/forex-news/article-1655152",
+      "published": "2026-08-20 06:30:15",
+      "isoDate": "2026-08-20T06:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、トランプ発言と利回り低下を受け7万ドル近くに反発",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1655149",
+      "published": "2026-08-20 06:24:16",
+      "isoDate": "2026-08-20T06:24:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは上昇、株価堅調だが警戒感緩まず",
+      "link": "https://jp.investing.com/news/forex-news/article-1655087",
+      "published": "2026-08-20 05:15:18",
+      "isoDate": "2026-08-20T05:15:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ネビウス・グループ、50億ドルの転換社債発行を増額決定",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1655033",
-      "published": "2026-08-20 03:15:01",
-      "isoDate": "2026-08-20T03:15:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は409円高、寄り後はもみ合い",
       "link": "https://jp.investing.com/news/forex-news/article-1654874",
       "published": "2026-08-20 00:15:06",
       "isoDate": "2026-08-20T00:15:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は反発、財務省の介入による長期金利低下を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1654830",
-      "published": "2026-08-19 23:15:06",
-      "isoDate": "2026-08-19T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン急騰、短期保有者が年初来最大利確＝アナリスト",
+      "link": "https://coinpost.jp/?p=732138",
+      "published": "Thu, 20 Aug 2026 16:37:00 +0900",
+      "isoDate": "2026-08-20T07:37:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットゴー、韓国で仮想通貨事業者に登録＝報道",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=731846",
       "published": "Thu, 20 Aug 2026 07:55:55 +0900",
       "isoDate": "2026-08-19T22:55:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グレースケール、ジーキャッシュ現物ETFへ申請　DCGが20万ZEC取得検討",
-      "link": "https://coinpost.jp/?p=731840",
-      "published": "Thu, 20 Aug 2026 06:40:07 +0900",
-      "isoDate": "2026-08-19T21:40:07Z"
     }
   ]
 }
