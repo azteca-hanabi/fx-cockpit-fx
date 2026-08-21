@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T17:32:22Z",
-  "last_checked": "2026-08-21T17:32:22Z",
+  "updated": "2026-08-21T18:41:30Z",
+  "last_checked": "2026-08-21T18:41:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州ディーゼルマージンが上昇、製油所の生産増加が背景に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657561",
+      "published": "2026-08-21 17:39:47",
+      "isoDate": "2026-08-21T17:39:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧のガソリン精製マージン、強い需要を背景に上昇",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
       "published": "2026-08-21 07:08:34",
       "isoDate": "2026-08-21T07:08:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、ドル安と米国債買い戻しに支えられ4,500ドル超で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-1656642",
-      "published": "2026-08-21 02:21:34",
-      "isoDate": "2026-08-21T02:21:34Z"
     }
   ],
   "usdjpy_items": [
