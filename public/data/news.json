@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T08:06:10Z",
-  "last_checked": "2026-08-21T08:06:10Z",
+  "updated": "2026-08-21T09:08:30Z",
+  "last_checked": "2026-08-21T09:08:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -46,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格、1カ月ぶり高値から下落も週間では上昇へ――米イラン緊張が続く",
+      "title": "原油価格、1カ月ぶり高値から下落も週間では上昇へ――中東緊張が続く",
       "link": "https://jp.investing.com/news/commodities-news/article-1656590",
       "published": "2026-08-21 01:26:30",
       "isoDate": "2026-08-21T01:26:30Z"
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は反落、ファーストリテやソフトバンクGが2銘柄で約329円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656848",
+      "published": "2026-08-21 07:45:15",
+      "isoDate": "2026-08-21T07:45:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "+48%、+37%：AIが選んだブレイクアウト銘柄、高ボラティリティの中で決算勝利",
       "link": "https://jp.investing.com/news/stock-market-news/article-1656827",
       "published": "2026-08-21 07:27:19",
       "isoDate": "2026-08-21T07:27:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟調、米金利にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1656815",
-      "published": "2026-08-21 07:15:16",
-      "isoDate": "2026-08-21T07:15:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -155,6 +155,13 @@
     },
     {
       "source": "CoinPost",
+      "title": "「先物上場が転換点」中国著名エコノミストが語るビットコイン資産化の本質",
+      "link": "https://coinpost.jp/?p=732109",
+      "published": "Fri, 21 Aug 2026 15:00:24 +0900",
+      "isoDate": "2026-08-21T06:00:24Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "バイナンス利用者、メモリ関連株急落で売り　仮想通貨関連銘柄買いへシフト＝バイナンスリサーチ分析",
       "link": "https://coinpost.jp/?p=732376",
       "published": "Fri, 21 Aug 2026 13:40:13 +0900",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732218",
       "published": "Fri, 21 Aug 2026 07:10:53 +0900",
       "isoDate": "2026-08-20T22:10:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC委員長、クラリティー法案未成立でも仮想通貨規制整備へ",
-      "link": "https://coinpost.jp/?p=732220",
-      "published": "Fri, 21 Aug 2026 05:50:57 +0900",
-      "isoDate": "2026-08-20T20:50:57Z"
     }
   ]
 }
