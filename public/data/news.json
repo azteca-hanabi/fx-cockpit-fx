@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T14:38:59Z",
-  "last_checked": "2026-08-21T14:38:59Z",
+  "updated": "2026-08-21T15:37:12Z",
+  "last_checked": "2026-08-21T15:37:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaがCloverleaf Infrastructureに少数株主投資を実施",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1657474",
+      "published": "2026-08-21 14:42:03",
+      "isoDate": "2026-08-21T14:42:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イランのペゼシュキアン大統領、米国との戦争終結を呼びかけ",
       "link": "https://jp.investing.com/news/economy-news/article-1657392",
       "published": "2026-08-21 13:39:21",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657338",
       "published": "2026-08-21 13:08:07",
       "isoDate": "2026-08-21T13:08:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "寄り付き前の注目銘柄：暗号資産株が上昇、ロス・ストアーズも急伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657124",
-      "published": "2026-08-21 11:16:20",
-      "isoDate": "2026-08-21T11:16:20Z"
     },
     {
       "source": "Investing.com 外為",
