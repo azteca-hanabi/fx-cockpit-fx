@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T21:28:23Z",
-  "last_checked": "2026-08-21T21:28:23Z",
+  "updated": "2026-08-21T21:53:13Z",
+  "last_checked": "2026-08-21T21:53:13Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "レイ・ダリオ、米債務危機警告し金とビットコイン推奨",
+      "link": "https://coinpost.jp/?p=732556",
+      "published": "Sat, 22 Aug 2026 06:40:11 +0900",
+      "isoDate": "2026-08-21T21:40:11Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "英大手銀アナリスト分析、ビットコインが10万ドルを上回る可能性",
       "link": "https://coinpost.jp/?p=732554",
       "published": "Sat, 22 Aug 2026 05:55:41 +0900",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732257",
       "published": "Fri, 21 Aug 2026 09:45:48 +0900",
       "isoDate": "2026-08-21T00:45:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "約6割の米国民、トランプ大統領の仮想通貨利益を「不適切」と回答＝報道",
-      "link": "https://coinpost.jp/?p=732216",
-      "published": "Fri, 21 Aug 2026 09:30:47 +0900",
-      "isoDate": "2026-08-21T00:30:47Z"
     }
   ]
 }
