@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T21:53:13Z",
-  "last_checked": "2026-08-21T21:53:13Z",
+  "updated": "2026-08-21T22:28:49Z",
+  "last_checked": "2026-08-21T22:28:49Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米8月総合PMIが予想を上回る",
+      "link": "https://jp.investing.com/news/forex-news/article-1657706",
+      "published": "2026-08-21 22:00:05",
+      "isoDate": "2026-08-21T22:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "8月21日のNY為替概況",
       "link": "https://jp.investing.com/news/forex-news/article-1657592",
       "published": "2026-08-21 19:15:04",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1657474",
       "published": "2026-08-21 14:42:03",
       "isoDate": "2026-08-21T14:42:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがCloverleaf Infrastructureに数億ドルの投資を検討中――WSJ報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657338",
-      "published": "2026-08-21 13:08:07",
-      "isoDate": "2026-08-21T13:08:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン反発の主因をコインシェアーズが分析、次の材料は？",
+      "link": "https://coinpost.jp/?p=732563",
+      "published": "Sat, 22 Aug 2026 07:20:06 +0900",
+      "isoDate": "2026-08-21T22:20:06Z"
+    },
     {
       "source": "CoinPost",
       "title": "レイ・ダリオ、米債務危機警告し金とビットコイン推奨",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732243",
       "published": "Fri, 21 Aug 2026 10:12:30 +0900",
       "isoDate": "2026-08-21T01:12:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETF、19日に820億円超が純流入　5月5日以降最大規模",
-      "link": "https://coinpost.jp/?p=732257",
-      "published": "Fri, 21 Aug 2026 09:45:48 +0900",
-      "isoDate": "2026-08-21T00:45:48Z"
     }
   ]
 }
