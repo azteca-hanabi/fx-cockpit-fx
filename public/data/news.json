@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-21T01:37:22Z",
-  "last_checked": "2026-08-21T01:37:22Z",
+  "updated": "2026-08-21T03:06:57Z",
+  "last_checked": "2026-08-21T03:06:57Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、ドル安と米国債買い戻しを追い風に週間上昇を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1656642",
+      "published": "2026-08-21 02:21:34",
+      "isoDate": "2026-08-21T02:21:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、1カ月ぶり高値から下落も週間では上昇へ――米イラン緊張が続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1656590",
+      "published": "2026-08-21 01:26:30",
+      "isoDate": "2026-08-21T01:26:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、BB上限に迫り過熱警戒：最新レベルを確認",
@@ -57,23 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656195",
       "published": "2026-08-20 17:25:14",
       "isoDate": "2026-08-20T17:25:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "砂糖先物が1年超ぶり高値、供給懸念が強まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655973",
-      "published": "2026-08-20 13:43:28",
-      "isoDate": "2026-08-20T13:43:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "砂糖先物が1年超ぶり高値、供給懸念が高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1655959",
-      "published": "2026-08-20 13:36:53",
-      "isoDate": "2026-08-20T13:36:53Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "金価格、ドル安と米国債買い戻しを追い風に週間上昇を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1656642",
+      "published": "2026-08-21 02:21:34",
+      "isoDate": "2026-08-21T02:21:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比330円安の65585円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656578",
+      "published": "2026-08-21 01:15:08",
+      "isoDate": "2026-08-21T01:15:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "強弱材料 8/21",
@@ -97,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ブロードコム、AI半導体取引で600億ドル超の資金調達を交渉中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656327",
-      "published": "2026-08-20 20:19:53",
-      "isoDate": "2026-08-20T20:19:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アンソロピックが「スペースX超え」のIPOを画策中、月内に申請書類公開へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1656229",
       "published": "2026-08-20 18:13:43",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1656226",
       "published": "2026-08-20 18:09:20",
       "isoDate": "2026-08-20T18:09:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、メモリとAIに特化した100億ドルの研究施設を設立",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1655811",
-      "published": "2026-08-20 12:40:03",
-      "isoDate": "2026-08-20T12:40:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、仮想通貨3銘柄を9月3日上場廃止",
+      "link": "https://coinpost.jp/?p=732335",
+      "published": "Fri, 21 Aug 2026 11:24:56 +0900",
+      "isoDate": "2026-08-21T02:24:56Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速｜仮想NISHI",
@@ -208,20 +215,6 @@
       "link": "https://coinpost.jp/?p=732067",
       "published": "Thu, 20 Aug 2026 15:20:26 +0900",
       "isoDate": "2026-08-20T06:20:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開",
-      "link": "https://coinpost.jp/?p=732025",
-      "published": "Thu, 20 Aug 2026 14:15:13 +0900",
-      "isoDate": "2026-08-20T05:15:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン・トレジャリー企業H100、上半期決算　BTC含み損40億円超計上",
-      "link": "https://coinpost.jp/?p=731983",
-      "published": "Thu, 20 Aug 2026 13:15:23 +0900",
-      "isoDate": "2026-08-20T04:15:23Z"
     }
   ]
 }
