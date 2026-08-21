@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T19:50:33Z",
-  "last_checked": "2026-08-21T19:50:33Z",
+  "updated": "2026-08-21T20:29:44Z",
+  "last_checked": "2026-08-21T20:29:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "8月21日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1657592",
-      "published": "2026-08-21 19:15:04",
-      "isoDate": "2026-08-21T19:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AnthropicはSpaceXのIPOを上回れるか？数字が示す「可能性」と課題",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
       "published": "2026-08-21 15:32:21",
@@ -139,6 +132,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、目先の金融政策を見極め",
+      "link": "https://jp.investing.com/news/forex-news/article-1656710",
+      "published": "2026-08-21 05:00:19",
+      "isoDate": "2026-08-21T05:00:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "モルガン・スタンレー、2027年の金価格見通しを発表",
       "link": "https://jp.investing.com/news/commodities-news/article-1655617",
       "published": "2026-08-20 11:24:28",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に",
+      "link": "https://coinpost.jp/?p=732545",
+      "published": "Sat, 22 Aug 2026 05:00:15 +0900",
+      "isoDate": "2026-08-21T20:00:15Z"
+    },
     {
       "source": "CoinPost",
       "title": "野村系レーザー・デジタル、暗号資産交換業に登録　約4年ぶり新規参入",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732217",
       "published": "Fri, 21 Aug 2026 08:10:49 +0900",
       "isoDate": "2026-08-20T23:10:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、AIエージェント向けプラットフォーム「Binance Agent OS」をローンチ",
-      "link": "https://coinpost.jp/?p=732233",
-      "published": "Fri, 21 Aug 2026 07:20:33 +0900",
-      "isoDate": "2026-08-20T22:20:33Z"
     }
   ]
 }
