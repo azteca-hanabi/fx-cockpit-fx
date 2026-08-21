@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-21T16:38:46Z",
-  "last_checked": "2026-08-21T16:38:46Z",
+  "updated": "2026-08-21T17:32:22Z",
+  "last_checked": "2026-08-21T17:32:22Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、強い需要を背景に上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657539",
+      "published": "2026-08-21 16:44:54",
+      "isoDate": "2026-08-21T16:44:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、4週間ぶり高値後の利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657538",
+      "published": "2026-08-21 16:44:47",
+      "isoDate": "2026-08-21T16:44:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの無関税砂糖輸入発表を受け、砂糖先物が下落",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1656642",
       "published": "2026-08-21 02:21:34",
       "isoDate": "2026-08-21T02:21:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格、中東緊張で2週連続の週間上昇へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1656590",
-      "published": "2026-08-21 01:26:30",
-      "isoDate": "2026-08-21T01:26:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、黒海混乱で約4週間ぶり高値に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656240",
-      "published": "2026-08-20 18:45:05",
-      "isoDate": "2026-08-20T18:45:05Z"
     }
   ],
   "usdjpy_items": [
