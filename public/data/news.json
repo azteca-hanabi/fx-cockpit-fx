@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T12:55:30Z",
-  "last_checked": "2026-08-21T12:55:30Z",
+  "updated": "2026-08-21T13:49:54Z",
+  "last_checked": "2026-08-21T13:49:54Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -46,14 +46,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、ドル安と米国債買い入れ拡大を背景に4,500ドル超で推移",
+      "title": "金価格、ドル安と米国債買い戻しに支えられ4,500ドル超で推移",
       "link": "https://jp.investing.com/news/commodities-news/article-1656642",
       "published": "2026-08-21 02:21:34",
       "isoDate": "2026-08-21T02:21:34Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "中東緊張で原油価格、2週連続の週間上昇へ",
+      "title": "原油価格、中東緊張で2週連続の週間上昇へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1656590",
       "published": "2026-08-21 01:26:30",
       "isoDate": "2026-08-21T01:26:30Z"
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaがCloverleaf Infrastructureに数億ドルの投資を検討中――WSJ報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657338",
+      "published": "2026-08-21 13:08:07",
+      "isoDate": "2026-08-21T13:08:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "寄り付き前の注目銘柄：暗号資産株が上昇、ロス・ストアーズも急伸",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657124",
       "published": "2026-08-21 11:16:20",
       "isoDate": "2026-08-21T11:16:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は値を戻す展開、原油・米金利に追随",
-      "link": "https://jp.investing.com/news/forex-news/article-1657116",
-      "published": "2026-08-21 11:15:09",
-      "isoDate": "2026-08-21T11:15:09Z"
     },
     {
       "source": "Investing.com 外為",
