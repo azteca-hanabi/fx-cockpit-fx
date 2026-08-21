@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T10:01:19Z",
-  "last_checked": "2026-08-21T10:01:19Z",
+  "updated": "2026-08-21T10:57:57Z",
+  "last_checked": "2026-08-21T10:57:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SKハイニックス、日本での半導体施設建設検討に関する韓国取引所の照会に回答",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1657023",
+      "published": "2026-08-21 10:15:01",
+      "isoDate": "2026-08-21T10:15:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "欧州為替：ドル・円は弱含み、原油・米金利の下落で",
       "link": "https://jp.investing.com/news/forex-news/article-1656931",
       "published": "2026-08-21 09:00:13",
       "isoDate": "2026-08-21T09:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟調、夕方にかけて一段安",
-      "link": "https://jp.investing.com/news/forex-news/article-1656918",
-      "published": "2026-08-21 08:45:13",
-      "isoDate": "2026-08-21T08:45:13Z"
     },
     {
       "source": "Investing.com 外為",
