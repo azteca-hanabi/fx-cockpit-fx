@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T15:37:12Z",
-  "last_checked": "2026-08-21T15:37:12Z",
+  "updated": "2026-08-21T16:38:46Z",
+  "last_checked": "2026-08-21T16:38:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AnthropicはSpaceXのIPOを上回れるか？数字が示す「可能性」と課題",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
+      "published": "2026-08-21 15:32:21",
+      "isoDate": "2026-08-21T15:32:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがCloverleaf Infrastructureに少数株主投資を実施",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1657474",
       "published": "2026-08-21 14:42:03",
       "isoDate": "2026-08-21T14:42:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランのペゼシュキアン大統領、米国との戦争終結を呼びかけ",
-      "link": "https://jp.investing.com/news/economy-news/article-1657392",
-      "published": "2026-08-21 13:39:21",
-      "isoDate": "2026-08-21T13:39:21Z"
     },
     {
       "source": "Investing.com 外為",
