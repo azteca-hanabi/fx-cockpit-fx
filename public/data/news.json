@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-21T07:01:03Z",
-  "last_checked": "2026-08-21T07:01:03Z",
+  "updated": "2026-08-21T08:06:10Z",
+  "last_checked": "2026-08-21T08:06:10Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、87.70ドルで攻防膠着：毎時更新の分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
+      "published": "2026-08-21 07:09:01",
+      "isoDate": "2026-08-21T07:09:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、フィボ61.8%水準$70に接近：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
+      "published": "2026-08-21 07:08:54",
+      "isoDate": "2026-08-21T07:08:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$94抵抗帯で攻防中：リアルタイム更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
+      "published": "2026-08-21 07:08:52",
+      "isoDate": "2026-08-21T07:08:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.57レジスタンス直下で攻防：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
+      "published": "2026-08-21 07:08:52",
+      "isoDate": "2026-08-21T07:08:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、4,627ドル高値前で過熱感：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
+      "published": "2026-08-21 07:08:34",
+      "isoDate": "2026-08-21T07:08:34Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "金価格、ドル安と米財務省の動きに支えられ4,500ドル超を維持",
@@ -15,41 +50,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1656590",
       "published": "2026-08-21 01:26:30",
       "isoDate": "2026-08-21T01:26:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、BB上限に迫り過熱警戒：最新レベルを確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
-      "published": "2026-08-20 19:12:53",
-      "isoDate": "2026-08-20T19:12:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が87.52ドルのレジスタンスに攻防中：今時間の判断は",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-20 19:12:53",
-      "isoDate": "2026-08-20T19:12:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$93.61で高値圏に接近-毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650291",
-      "published": "2026-08-20 19:12:49",
-      "isoDate": "2026-08-20T19:12:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅、6.40-6.55レンジで膠着-分岐点を毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650292",
-      "published": "2026-08-20 19:12:43",
-      "isoDate": "2026-08-20T19:12:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,627レジスタンスでダブルトップ警戒：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650290",
-      "published": "2026-08-20 19:12:39",
-      "isoDate": "2026-08-20T19:12:39Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は安値もみ合い、ドル売り継続",
-      "link": "https://jp.investing.com/news/forex-news/article-1656740",
-      "published": "2026-08-21 06:00:16",
-      "isoDate": "2026-08-21T06:00:16Z"
+      "title": "+48%、+37%：AIが選んだブレイクアウト銘柄、高ボラティリティの中で決算勝利",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1656827",
+      "published": "2026-08-21 07:27:19",
+      "isoDate": "2026-08-21T07:27:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント財務長官、イランに「史上最も厳しい制裁」を科すと表明",
-      "link": "https://jp.investing.com/news/economy-news/article-1656725",
-      "published": "2026-08-21 05:28:29",
-      "isoDate": "2026-08-21T05:28:29Z"
+      "title": "東京為替：ドル・円は軟調、米金利にらみ",
+      "link": "https://jp.investing.com/news/forex-news/article-1656815",
+      "published": "2026-08-21 07:15:16",
+      "isoDate": "2026-08-21T07:15:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの強気指数、10カ月ぶり60超え＝アナリスト",
+      "link": "https://coinpost.jp/?p=732457",
+      "published": "Fri, 21 Aug 2026 16:49:27 +0900",
+      "isoDate": "2026-08-21T07:49:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイナンス利用者、メモリ関連株急落で売り　仮想通貨関連銘柄買いへシフト＝バイナンスリサーチ分析",
