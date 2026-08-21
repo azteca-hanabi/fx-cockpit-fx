@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T23:27:34Z",
-  "last_checked": "2026-08-21T23:27:34Z",
+  "updated": "2026-08-21T23:51:30Z",
+  "last_checked": "2026-08-21T23:51:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットコイン、8.2万ドルが強気相場転換の分岐点に＝ギャラクシー・リサーチ",
+      "link": "https://coinpost.jp/?p=732564",
+      "published": "Sat, 22 Aug 2026 08:40:08 +0900",
+      "isoDate": "2026-08-21T23:40:08Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン反発の主因をコインシェアーズが分析、次の材料は？",
       "link": "https://coinpost.jp/?p=732563",
       "published": "Sat, 22 Aug 2026 07:20:06 +0900",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732335",
       "published": "Fri, 21 Aug 2026 11:24:56 +0900",
       "isoDate": "2026-08-21T02:24:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=732243",
-      "published": "Fri, 21 Aug 2026 10:12:30 +0900",
-      "isoDate": "2026-08-21T01:12:30Z"
     }
   ]
 }
