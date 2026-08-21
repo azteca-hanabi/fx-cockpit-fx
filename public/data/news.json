@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-21T13:49:54Z",
-  "last_checked": "2026-08-21T13:49:54Z",
+  "updated": "2026-08-21T14:38:59Z",
+  "last_checked": "2026-08-21T14:38:59Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドの無関税砂糖輸入発表を受け、砂糖先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657436",
+      "published": "2026-08-21 14:04:14",
+      "isoDate": "2026-08-21T14:04:14Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡の混乱が続く中、欧州天然ガス価格が3月以来の高値に上昇",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656240",
       "published": "2026-08-20 18:45:05",
       "isoDate": "2026-08-20T18:45:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トゥルーストが金の格付けをニュートラルに引き上げ、金利見通しとドル安を背景に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1656200",
-      "published": "2026-08-20 17:27:41",
-      "isoDate": "2026-08-20T17:27:41Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "イランのペゼシュキアン大統領、米国との戦争終結を呼びかけ",
+      "link": "https://jp.investing.com/news/economy-news/article-1657392",
+      "published": "2026-08-21 13:39:21",
+      "isoDate": "2026-08-21T13:39:21Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NvidiaがCloverleaf Infrastructureに数億ドルの投資を検討中――WSJ報道",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657124",
       "published": "2026-08-21 11:16:20",
       "isoDate": "2026-08-21T11:16:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン急騰の背景は規制ニュース、マクロ要因ではない＝アナリスト",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657028",
-      "published": "2026-08-21 10:14:11",
-      "isoDate": "2026-08-21T10:14:11Z"
     },
     {
       "source": "Investing.com 外為",
