@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T03:06:57Z",
-  "last_checked": "2026-08-21T03:06:57Z",
+  "updated": "2026-08-21T04:10:07Z",
+  "last_checked": "2026-08-21T04:10:07Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ビットコイン続伸、仮想通貨関連株も軒並み高",
+      "link": "https://coinpost.jp/?p=732355",
+      "published": "Fri, 21 Aug 2026 12:21:05 +0900",
+      "isoDate": "2026-08-21T03:21:05Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "バイナンス、仮想通貨3銘柄を9月3日上場廃止",
       "link": "https://coinpost.jp/?p=732335",
       "published": "Fri, 21 Aug 2026 11:24:56 +0900",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=732138",
       "published": "Thu, 20 Aug 2026 16:37:00 +0900",
       "isoDate": "2026-08-20T07:37:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゴー、韓国で仮想通貨事業者に登録＝報道",
-      "link": "https://coinpost.jp/?p=732067",
-      "published": "Thu, 20 Aug 2026 15:20:26 +0900",
-      "isoDate": "2026-08-20T06:20:26Z"
     }
   ]
 }
