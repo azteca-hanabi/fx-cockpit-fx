@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T03:44:29Z",
-  "last_checked": "2026-08-22T03:44:29Z",
+  "updated": "2026-08-22T04:36:46Z",
+  "last_checked": "2026-08-22T04:36:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ザ・サンドボックス、5億SAND不正発行発生か　韓国大手2社が対応",
+      "link": "https://coinpost.jp/?p=732613",
+      "published": "Sat, 22 Aug 2026 13:25:41 +0900",
+      "isoDate": "2026-08-22T04:25:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ソラナカンパニー、SOLのインフレ抑制・手数料変更案に反対を表明",
+      "link": "https://coinpost.jp/?p=732598",
+      "published": "Sat, 22 Aug 2026 13:05:42 +0900",
+      "isoDate": "2026-08-22T04:05:42Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン金融のバウンスビット、BBトークン不正流出でL1廃止",
       "link": "https://coinpost.jp/?p=732576",
       "published": "Sat, 22 Aug 2026 11:12:55 +0900",
@@ -222,13 +236,6 @@
       "link": "https://coinpost.jp/?p=732109",
       "published": "Fri, 21 Aug 2026 15:00:24 +0900",
       "isoDate": "2026-08-21T06:00:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス利用者、メモリ関連株急落で売り　仮想通貨関連銘柄買いへシフト＝バイナンスリサーチ分析",
-      "link": "https://coinpost.jp/?p=732376",
-      "published": "Fri, 21 Aug 2026 13:40:13 +0900",
-      "isoDate": "2026-08-21T04:40:13Z"
     }
   ]
 }
