@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T10:52:24Z",
-  "last_checked": "2026-08-22T10:52:24Z",
+  "updated": "2026-08-22T11:24:11Z",
+  "last_checked": "2026-08-22T11:24:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米財務省主導のショートスクイーズを受け、ビットコインは7万7,000ドル超を維持",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657836",
+      "published": "2026-08-22 09:52:07",
+      "isoDate": "2026-08-22T09:52:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "中央銀行はどこに金を保管しているのか？",
       "link": "https://jp.investing.com/news/economy-news/article-1657825",
       "published": "2026-08-22 08:03:55",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
       "published": "2026-08-21 15:32:21",
       "isoDate": "2026-08-21T15:32:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラ株が本日急騰した理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1657495",
-      "published": "2026-08-21 15:28:13",
-      "isoDate": "2026-08-21T15:28:13Z"
     },
     {
       "source": "Investing.com 外為",
