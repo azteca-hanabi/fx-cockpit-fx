@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T16:54:01Z",
-  "last_checked": "2026-08-22T16:54:01Z",
+  "updated": "2026-08-22T17:24:27Z",
+  "last_checked": "2026-08-22T17:24:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ジョン・テルナス氏の下でアップルのリスク選好度は変わるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657855",
+      "published": "2026-08-22 17:04:56",
+      "isoDate": "2026-08-22T17:04:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "CTAの株式ポジション、イラン紛争前の水準に回復――BofA",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657849",
       "published": "2026-08-22 13:47:56",
@@ -118,6 +125,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "キャシー・ウッドのARK、Palantir株を売却しSpaceX株を購入",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1657740",
+      "published": "2026-08-22 00:18:03",
+      "isoDate": "2026-08-22T00:18:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは517.80ドル高、良好な小売り決算や経済指標を好感",
       "link": "https://jp.investing.com/news/forex-news/article-1657681",
       "published": "2026-08-21 21:15:04",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラ株が本日急騰した理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1657495",
-      "published": "2026-08-21 15:28:13",
-      "isoDate": "2026-08-21T15:28:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "今ならInvestingProが55％オフ。AIが教える「投資の勝ちパターン」にアクセス",
       "link": "https://jp.investing.com/news/stock-market-news/article-1656829",
       "published": "2026-08-21 07:28:57",
       "isoDate": "2026-08-21T07:28:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "48%と37%の急騰――AIが選んだ『注目銘柄』が市場をアウトパフォームしている理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656827",
-      "published": "2026-08-21 07:27:19",
-      "isoDate": "2026-08-21T07:27:19Z"
     }
   ],
   "btc_items": [
