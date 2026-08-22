@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T11:24:11Z",
-  "last_checked": "2026-08-22T11:24:11Z",
+  "updated": "2026-08-22T11:47:12Z",
+  "last_checked": "2026-08-22T11:47:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ヘッジファンドとミューチュアルファンドが共に買い増したAI関連株3銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657842",
+      "published": "2026-08-22 11:01:13",
+      "isoDate": "2026-08-22T11:01:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米財務省主導のショートスクイーズを受け、ビットコインは7万7,000ドル超を維持",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657836",
       "published": "2026-08-22 09:52:07",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1657681",
       "published": "2026-08-21 21:15:04",
       "isoDate": "2026-08-21T21:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AnthropicはSpaceXのIPOを上回れるか？数字が示す「可能性」と課題",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
-      "published": "2026-08-21 15:32:21",
-      "isoDate": "2026-08-21T15:32:21Z"
     },
     {
       "source": "Investing.com 外為",
