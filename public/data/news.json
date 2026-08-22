@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T14:25:23Z",
-  "last_checked": "2026-08-22T14:25:23Z",
+  "updated": "2026-08-22T14:49:47Z",
+  "last_checked": "2026-08-22T14:49:47Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "CTAの株式ポジション、イラン紛争前の水準に回復――BofA",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657849",
+      "published": "2026-08-22 13:47:56",
+      "isoDate": "2026-08-22T13:47:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ヘッジファンドとミューチュアルファンドが共に買い増したAI関連株3銘柄",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657842",
       "published": "2026-08-22 11:01:13",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1657681",
       "published": "2026-08-21 21:15:04",
       "isoDate": "2026-08-21T21:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "テスラ株が本日急騰した理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1657495",
-      "published": "2026-08-21 15:28:13",
-      "isoDate": "2026-08-21T15:28:13Z"
     },
     {
       "source": "Investing.com 外為",
