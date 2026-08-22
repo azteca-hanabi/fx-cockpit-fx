@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T23:51:30Z",
-  "last_checked": "2026-08-21T23:51:30Z",
+  "updated": "2026-08-22T01:26:12Z",
+  "last_checked": "2026-08-22T01:26:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場は反発、良好な小売り決算や経済指標を好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657725",
+      "published": "2026-08-21 23:00:05",
+      "isoDate": "2026-08-21T23:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY為替：米8月総合PMIが予想を上回る",
       "link": "https://jp.investing.com/news/forex-news/article-1657706",
       "published": "2026-08-21 22:00:05",
@@ -83,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "8月21日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1657592",
-      "published": "2026-08-21 19:15:04",
-      "isoDate": "2026-08-21T19:15:04Z"
+      "title": "NY株式：NYダウは517.80ドル高、良好な小売り決算や経済指標を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1657681",
+      "published": "2026-08-21 21:15:04",
+      "isoDate": "2026-08-21T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
       "published": "2026-08-21 15:32:21",
       "isoDate": "2026-08-21T15:32:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがCloverleaf Infrastructureに少数株主投資を実施",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1657474",
-      "published": "2026-08-21 14:42:03",
-      "isoDate": "2026-08-21T14:42:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハッキング被害のビットコイン専門ウォレット「コールドカード」、ファームウェアの更新を推奨",
+      "link": "https://coinpost.jp/?p=732568",
+      "published": "Sat, 22 Aug 2026 09:30:13 +0900",
+      "isoDate": "2026-08-22T00:30:13Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、8.2万ドルが強気相場転換の分岐点に＝ギャラクシー・リサーチ",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732355",
       "published": "Fri, 21 Aug 2026 12:21:05 +0900",
       "isoDate": "2026-08-21T03:21:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、仮想通貨3銘柄を9月3日上場廃止",
-      "link": "https://coinpost.jp/?p=732335",
-      "published": "Fri, 21 Aug 2026 11:24:56 +0900",
-      "isoDate": "2026-08-21T02:24:56Z"
     }
   ]
 }
