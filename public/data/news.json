@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T01:26:12Z",
-  "last_checked": "2026-08-22T01:26:12Z",
+  "updated": "2026-08-22T02:37:34Z",
+  "last_checked": "2026-08-22T02:37:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,83 +145,5 @@
       "isoDate": "2026-08-20T11:24:28Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ハッキング被害のビットコイン専門ウォレット「コールドカード」、ファームウェアの更新を推奨",
-      "link": "https://coinpost.jp/?p=732568",
-      "published": "Sat, 22 Aug 2026 09:30:13 +0900",
-      "isoDate": "2026-08-22T00:30:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8.2万ドルが強気相場転換の分岐点に＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=732564",
-      "published": "Sat, 22 Aug 2026 08:40:08 +0900",
-      "isoDate": "2026-08-21T23:40:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン反発の主因をコインシェアーズが分析、次の材料は？",
-      "link": "https://coinpost.jp/?p=732563",
-      "published": "Sat, 22 Aug 2026 07:20:06 +0900",
-      "isoDate": "2026-08-21T22:20:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "レイ・ダリオ、米債務危機警告し金とビットコイン推奨",
-      "link": "https://coinpost.jp/?p=732556",
-      "published": "Sat, 22 Aug 2026 06:40:11 +0900",
-      "isoDate": "2026-08-21T21:40:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英大手銀アナリスト分析、ビットコインが10万ドルを上回る可能性",
-      "link": "https://coinpost.jp/?p=732554",
-      "published": "Sat, 22 Aug 2026 05:55:41 +0900",
-      "isoDate": "2026-08-21T20:55:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に",
-      "link": "https://coinpost.jp/?p=732545",
-      "published": "Sat, 22 Aug 2026 05:00:15 +0900",
-      "isoDate": "2026-08-21T20:00:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "野村系レーザー・デジタル、暗号資産交換業に登録　約4年ぶり新規参入",
-      "link": "https://coinpost.jp/?p=732536",
-      "published": "Fri, 21 Aug 2026 20:06:28 +0900",
-      "isoDate": "2026-08-21T11:06:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの強気指数、10カ月ぶり60超え＝アナリスト",
-      "link": "https://coinpost.jp/?p=732457",
-      "published": "Fri, 21 Aug 2026 16:49:27 +0900",
-      "isoDate": "2026-08-21T07:49:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「先物上場が転換点」中国著名エコノミストが語るビットコイン資産化の本質",
-      "link": "https://coinpost.jp/?p=732109",
-      "published": "Fri, 21 Aug 2026 15:00:24 +0900",
-      "isoDate": "2026-08-21T06:00:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス利用者、メモリ関連株急落で売り　仮想通貨関連銘柄買いへシフト＝バイナンスリサーチ分析",
-      "link": "https://coinpost.jp/?p=732376",
-      "published": "Fri, 21 Aug 2026 13:40:13 +0900",
-      "isoDate": "2026-08-21T04:40:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン続伸、仮想通貨関連株も軒並み高",
-      "link": "https://coinpost.jp/?p=732355",
-      "published": "Fri, 21 Aug 2026 12:21:05 +0900",
-      "isoDate": "2026-08-21T03:21:05Z"
-    }
-  ]
+  "btc_items": []
 }
