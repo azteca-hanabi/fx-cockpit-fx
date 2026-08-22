@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T07:35:00Z",
-  "last_checked": "2026-08-22T07:35:00Z",
+  "updated": "2026-08-22T08:34:24Z",
+  "last_checked": "2026-08-22T08:34:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "中央銀行はどこに金を保管しているのか？",
+      "link": "https://jp.investing.com/news/economy-news/article-1657825",
+      "published": "2026-08-22 08:03:55",
+      "isoDate": "2026-08-22T08:03:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：米エヌビディア決算、ジャクソンホール会議、外国為替平衡操作の実施状況",
       "link": "https://jp.investing.com/news/forex-news/article-1657819",
       "published": "2026-08-22 07:00:03",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1656962",
       "published": "2026-08-21 09:30:13",
       "isoDate": "2026-08-21T09:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は反落、ファーストリテやソフトバンクGが2銘柄で約329円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656848",
-      "published": "2026-08-21 07:45:15",
-      "isoDate": "2026-08-21T07:45:15Z"
     },
     {
       "source": "Investing.com 外為",
