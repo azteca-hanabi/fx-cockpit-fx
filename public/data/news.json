@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T08:34:24Z",
-  "last_checked": "2026-08-22T08:34:24Z",
+  "updated": "2026-08-22T09:30:23Z",
+  "last_checked": "2026-08-22T09:30:23Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -118,6 +118,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "AnthropicはSpaceXのIPOを上回れるか？数字が示す「可能性」と課題",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657499",
+      "published": "2026-08-21 15:32:21",
+      "isoDate": "2026-08-21T15:32:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均テクニカル：小反落、25日線の下降続く",
       "link": "https://jp.investing.com/news/forex-news/article-1656962",
       "published": "2026-08-21 09:30:13",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1656827",
       "published": "2026-08-21 07:27:19",
       "isoDate": "2026-08-21T07:27:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン7万3000ドル台への急騰がアジア関連株に波及、メタプラネットも20%急伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656723",
-      "published": "2026-08-21 05:15:28",
-      "isoDate": "2026-08-21T05:15:28Z"
     }
   ],
   "btc_items": [
