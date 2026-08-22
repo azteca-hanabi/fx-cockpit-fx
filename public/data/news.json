@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T05:30:50Z",
-  "last_checked": "2026-08-22T05:30:50Z",
+  "updated": "2026-08-22T06:46:41Z",
+  "last_checked": "2026-08-22T06:46:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "モデルナのがんワクチンが突破口、バイオテク復活への期待高まる",
-      "link": "https://jp.investing.com/news/company-news/article-1657790",
-      "published": "2026-08-22 03:06:03",
-      "isoDate": "2026-08-22T03:06:03Z"
+      "title": "国内株式市場見通し：ジャクソンホール会議とエヌビディア決算が二大イベントに",
+      "link": "https://jp.investing.com/news/forex-news/article-1657807",
+      "published": "2026-08-22 05:30:05",
+      "isoDate": "2026-08-22T05:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：二大イベントでは決算発表後のエヌビディアの動向に警戒感",
+      "link": "https://jp.investing.com/news/forex-news/article-1657805",
+      "published": "2026-08-22 05:30:03",
+      "isoDate": "2026-08-22T05:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1656723",
       "published": "2026-08-21 05:15:28",
       "isoDate": "2026-08-21T05:15:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は162円安、韓国KOSPI上げに転じ東京市場の株価支援要因に",
-      "link": "https://jp.investing.com/news/forex-news/article-1656709",
-      "published": "2026-08-21 05:00:19",
-      "isoDate": "2026-08-21T05:00:19Z"
     }
   ],
   "btc_items": [
