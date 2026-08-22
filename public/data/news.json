@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T06:46:41Z",
-  "last_checked": "2026-08-22T06:46:41Z",
+  "updated": "2026-08-22T07:35:00Z",
+  "last_checked": "2026-08-22T07:35:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：米エヌビディア決算、ジャクソンホール会議、外国為替平衡操作の実施状況",
+      "link": "https://jp.investing.com/news/forex-news/article-1657819",
+      "published": "2026-08-22 07:00:03",
+      "isoDate": "2026-08-22T07:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "国内株式市場見通し：ジャクソンホール会議とエヌビディア決算が二大イベントに",
       "link": "https://jp.investing.com/news/forex-news/article-1657807",
       "published": "2026-08-22 05:30:05",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1657805",
       "published": "2026-08-22 05:30:03",
       "isoDate": "2026-08-22T05:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場は反発、良好な小売り決算や経済指標を好感",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657725",
-      "published": "2026-08-21 23:00:05",
-      "isoDate": "2026-08-21T23:00:05Z"
     },
     {
       "source": "Investing.com 外為",
