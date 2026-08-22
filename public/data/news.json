@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T22:50:35Z",
-  "last_checked": "2026-08-22T22:50:35Z",
+  "updated": "2026-08-22T23:24:14Z",
+  "last_checked": "2026-08-22T23:24:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "CTAの株式ポジション、イラン紛争前の水準に回復――BofA",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657849",
-      "published": "2026-08-22 13:47:56",
-      "isoDate": "2026-08-22T13:47:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米財務省主導のショートスクイーズを受け、ビットコインは7万7,000ドル超を維持",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657836",
       "published": "2026-08-22 09:52:07",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1657805",
       "published": "2026-08-22 05:30:03",
       "isoDate": "2026-08-22T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キャシー・ウッドのARK、Palantir株を売却しSpaceX株を購入",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1657740",
+      "published": "2026-08-22 00:18:03",
+      "isoDate": "2026-08-22T00:18:03Z"
     },
     {
       "source": "Investing.com 外為",
