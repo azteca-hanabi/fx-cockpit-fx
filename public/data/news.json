@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T05:55:51Z",
-  "last_checked": "2026-08-23T05:55:51Z",
+  "updated": "2026-08-23T06:51:11Z",
+  "last_checked": "2026-08-23T06:51:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国の個人投資家、歴史的株価急落後に高利回りELS商品に殺到",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657870",
+      "published": "2026-08-23 06:09:09",
+      "isoDate": "2026-08-23T06:09:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、6月に1,000件超の有価証券取引を実施——報告",
+      "link": "https://jp.investing.com/news/company-news/article-1657868",
+      "published": "2026-08-23 06:03:55",
+      "isoDate": "2026-08-23T06:03:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "メモリコスト急騰でNvidia搭載サーバー価格が15%以上上昇との報道",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657860",
       "published": "2026-08-22 20:47:44",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1657819",
       "published": "2026-08-22 07:00:03",
       "isoDate": "2026-08-22T07:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：ジャクソンホール会議とエヌビディア決算が二大イベントに",
-      "link": "https://jp.investing.com/news/forex-news/article-1657807",
-      "published": "2026-08-22 05:30:05",
-      "isoDate": "2026-08-22T05:30:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：二大イベントでは決算発表後のエヌビディアの動向に警戒感",
-      "link": "https://jp.investing.com/news/forex-news/article-1657805",
-      "published": "2026-08-22 05:30:03",
-      "isoDate": "2026-08-22T05:30:03Z"
     },
     {
       "source": "Investing.com 外為",
