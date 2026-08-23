@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T11:24:00Z",
-  "last_checked": "2026-08-23T11:24:00Z",
+  "updated": "2026-08-23T11:47:39Z",
+  "last_checked": "2026-08-23T11:47:39Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米ドルを売り、韓国ウォンや円などへの投資をBCAが推奨",
-      "link": "https://jp.investing.com/news/forex-news/article-1657876",
-      "published": "2026-08-23 08:30:07",
-      "isoDate": "2026-08-23T08:30:07Z"
+      "title": "シティ、決算後にNvidiaの株価が上昇すると予想",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657889",
+      "published": "2026-08-23 11:17:07",
+      "isoDate": "2026-08-23T11:17:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,6 +94,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657869",
       "published": "2026-08-23 07:58:44",
       "isoDate": "2026-08-23T07:58:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AlibabaがAI投資のため香港で1兆円超の株式売却を計画",
+      "link": "https://jp.investing.com/news/company-news/article-1657872",
+      "published": "2026-08-23 07:50:09",
+      "isoDate": "2026-08-23T07:50:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657855",
       "published": "2026-08-22 17:04:56",
       "isoDate": "2026-08-22T17:04:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務省主導のショートスクイーズを受け、ビットコインは7万7,000ドル超を維持",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657836",
-      "published": "2026-08-22 09:52:07",
-      "isoDate": "2026-08-22T09:52:07Z"
     },
     {
       "source": "Investing.com 外為",
