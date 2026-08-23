@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T21:25:30Z",
-  "last_checked": "2026-08-23T21:25:30Z",
+  "updated": "2026-08-23T21:47:59Z",
+  "last_checked": "2026-08-23T21:47:59Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "カシュカリ米ミネアポリス連銀総裁、国債利回り上昇は懸念材料でないと発言",
+      "link": "https://jp.investing.com/news/economy-news/article-1657911",
+      "published": "2026-08-23 16:37:12",
+      "isoDate": "2026-08-23T16:37:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが選んだエネルギー株、金曜日にさらに12%上昇し累計+90%超に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657890",
       "published": "2026-08-23 13:10:59",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657889",
       "published": "2026-08-23 11:17:07",
       "isoDate": "2026-08-23T11:17:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、最近の上昇に勢い回復し損失を縮小",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657883",
-      "published": "2026-08-23 09:58:05",
-      "isoDate": "2026-08-23T09:58:05Z"
     },
     {
       "source": "Investing.com 外為",
