@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T05:02:43Z",
-  "last_checked": "2026-08-23T05:02:43Z",
+  "updated": "2026-08-23T05:55:51Z",
+  "last_checked": "2026-08-23T05:55:51Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "CTAの株式ポジション、イラン紛争前の水準に回復――BofA",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657849",
+      "published": "2026-08-22 13:47:56",
+      "isoDate": "2026-08-22T13:47:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ヘッジファンドとミューチュアルファンドが共に買い増したAI関連株3銘柄",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657842",
       "published": "2026-08-22 11:01:13",
@@ -132,17 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キャシー・ウッドのARK、Palantir株を売却しSpaceX株を購入",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1657740",
-      "published": "2026-08-22 00:18:03",
-      "isoDate": "2026-08-22T00:18:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今ならInvestingProが55％オフ。AIが教える「投資の勝ちパターン」にアクセス",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1656829",
-      "published": "2026-08-21 07:28:57",
-      "isoDate": "2026-08-21T07:28:57Z"
+      "title": "FRBの株式バリュエーションモデルは再び機能しているか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657744",
+      "published": "2026-08-22 00:37:50",
+      "isoDate": "2026-08-22T00:37:50Z"
     }
   ],
   "btc_items": [
