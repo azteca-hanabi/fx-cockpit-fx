@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T11:47:39Z",
-  "last_checked": "2026-08-23T11:47:39Z",
+  "updated": "2026-08-23T12:48:02Z",
+  "last_checked": "2026-08-23T12:48:02Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "ビットコインが7万7000ドルを割り込む、採掘経済性は改善",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1657883",
+      "published": "2026-08-23 09:58:05",
+      "isoDate": "2026-08-23T09:58:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "イランが近隣諸国に警告、ホルムズ海峡は依然封鎖中",
       "link": "https://jp.investing.com/news/economy-news/article-1657875",
       "published": "2026-08-23 08:09:55",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657869",
       "published": "2026-08-23 07:58:44",
       "isoDate": "2026-08-23T07:58:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AlibabaがAI投資のため香港で1兆円超の株式売却を計画",
-      "link": "https://jp.investing.com/news/company-news/article-1657872",
-      "published": "2026-08-23 07:50:09",
-      "isoDate": "2026-08-23T07:50:09Z"
     },
     {
       "source": "Investing.com 外為",
