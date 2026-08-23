@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-23T19:46:35Z",
-  "last_checked": "2026-08-23T19:46:35Z",
+  "updated": "2026-08-23T20:27:52Z",
+  "last_checked": "2026-08-23T20:27:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イタリア、燃料価格高騰を受けディーゼル減税を水曜日まで延長",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657916",
+      "published": "2026-08-23 19:40:19",
+      "isoDate": "2026-08-23T19:40:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "シルバーが61.8%フィボナッチ抵抗線に迫る：毎時更新",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657436",
       "published": "2026-08-21 14:04:14",
       "isoDate": "2026-08-21T14:04:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の混乱が続く中、欧州天然ガス価格が3月以来の高値に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1656954",
-      "published": "2026-08-21 07:50:44",
-      "isoDate": "2026-08-21T07:50:44Z"
     }
   ],
   "usdjpy_items": [
