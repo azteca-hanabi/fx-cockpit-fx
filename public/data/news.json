@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T13:35:10Z",
-  "last_checked": "2026-08-23T13:35:10Z",
+  "updated": "2026-08-23T14:27:03Z",
+  "last_checked": "2026-08-23T14:27:03Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "AIが選んだエネルギー株、金曜日にさらに12%上昇し累計+90%超に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657890",
+      "published": "2026-08-23 13:10:59",
+      "isoDate": "2026-08-23T13:10:59Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "シティ、決算後にNvidiaの株価が上昇すると予想",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657889",
       "published": "2026-08-23 11:17:07",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1657875",
       "published": "2026-08-23 08:09:55",
       "isoDate": "2026-08-23T08:09:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップル、折りたたみiPhone参入とAI戦略転換で格上げ――アナリスト注目の5大AI動向",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657869",
-      "published": "2026-08-23 07:58:44",
-      "isoDate": "2026-08-23T07:58:44Z"
     },
     {
       "source": "Investing.com 外為",
