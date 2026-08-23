@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T01:40:13Z",
-  "last_checked": "2026-08-23T01:40:13Z",
+  "updated": "2026-08-23T03:06:25Z",
+  "last_checked": "2026-08-23T03:06:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,97 +145,5 @@
       "isoDate": "2026-08-21T07:28:57Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（8/21）｜相場上昇・米政府のBTC購入検討・米SECの新規則提案のまとめ",
-      "link": "https://coinpost.jp/?p=732315",
-      "published": "Sun, 23 Aug 2026 09:25:32 +0900",
-      "isoDate": "2026-08-23T00:25:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ザ・サンドボックス、5億SAND不正発行発生か　韓国大手2社が対応",
-      "link": "https://coinpost.jp/?p=732613",
-      "published": "Sat, 22 Aug 2026 13:25:41 +0900",
-      "isoDate": "2026-08-22T04:25:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナカンパニー、SOLのインフレ抑制・手数料変更案に反対を表明",
-      "link": "https://coinpost.jp/?p=732598",
-      "published": "Sat, 22 Aug 2026 13:05:42 +0900",
-      "isoDate": "2026-08-22T04:05:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン金融のバウンスビット、BBトークン不正流出でL1廃止",
-      "link": "https://coinpost.jp/?p=732576",
-      "published": "Sat, 22 Aug 2026 11:12:55 +0900",
-      "isoDate": "2026-08-22T02:12:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン7.9万ドル突破、イラン制裁観測で逃避買い　オプション市場は9万ドルを意識｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=732566",
-      "published": "Sat, 22 Aug 2026 10:35:13 +0900",
-      "isoDate": "2026-08-22T01:35:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハッキング被害のビットコイン専門ウォレット「コールドカード」、ファームウェアの更新を推奨",
-      "link": "https://coinpost.jp/?p=732568",
-      "published": "Sat, 22 Aug 2026 09:30:13 +0900",
-      "isoDate": "2026-08-22T00:30:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8.2万ドルが強気相場転換の分岐点に＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=732564",
-      "published": "Sat, 22 Aug 2026 08:40:08 +0900",
-      "isoDate": "2026-08-21T23:40:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン反発の主因をコインシェアーズが分析、次の材料は？",
-      "link": "https://coinpost.jp/?p=732563",
-      "published": "Sat, 22 Aug 2026 07:20:06 +0900",
-      "isoDate": "2026-08-21T22:20:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "レイ・ダリオ、米債務危機警告し金とビットコイン推奨",
-      "link": "https://coinpost.jp/?p=732556",
-      "published": "Sat, 22 Aug 2026 06:40:11 +0900",
-      "isoDate": "2026-08-21T21:40:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英大手銀アナリスト分析、ビットコインが10万ドルを上回る可能性",
-      "link": "https://coinpost.jp/?p=732554",
-      "published": "Sat, 22 Aug 2026 05:55:41 +0900",
-      "isoDate": "2026-08-21T20:55:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に",
-      "link": "https://coinpost.jp/?p=732545",
-      "published": "Sat, 22 Aug 2026 05:00:15 +0900",
-      "isoDate": "2026-08-21T20:00:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "野村系レーザー・デジタル、暗号資産交換業に登録　約4年ぶり新規参入",
-      "link": "https://coinpost.jp/?p=732536",
-      "published": "Fri, 21 Aug 2026 20:06:28 +0900",
-      "isoDate": "2026-08-21T11:06:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの強気指数、10カ月ぶり60超え＝アナリスト",
-      "link": "https://coinpost.jp/?p=732457",
-      "published": "Fri, 21 Aug 2026 16:49:27 +0900",
-      "isoDate": "2026-08-21T07:49:27Z"
-    }
-  ]
+  "btc_items": []
 }
