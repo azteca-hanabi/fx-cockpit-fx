@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T22:26:10Z",
-  "last_checked": "2026-08-23T22:26:10Z",
+  "updated": "2026-08-23T22:50:46Z",
+  "last_checked": "2026-08-23T22:50:46Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "エリック・トランプ氏、新トランプコイン報道を「詐欺」と否定",
+      "link": "https://coinpost.jp/?p=732627",
+      "published": "Mon, 24 Aug 2026 07:39:30 +0900",
+      "isoDate": "2026-08-23T22:39:30Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点｜bitbankアナリスト寄稿",
       "link": "https://coinpost.jp/?p=732405",
       "published": "Sun, 23 Aug 2026 11:30:23 +0900",
@@ -236,13 +243,6 @@
       "link": "https://coinpost.jp/?p=732536",
       "published": "Fri, 21 Aug 2026 20:06:28 +0900",
       "isoDate": "2026-08-21T11:06:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの強気指数、10カ月ぶり60超え＝アナリスト",
-      "link": "https://coinpost.jp/?p=732457",
-      "published": "Fri, 21 Aug 2026 16:49:27 +0900",
-      "isoDate": "2026-08-21T07:49:27Z"
     }
   ]
 }
