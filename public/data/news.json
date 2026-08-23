@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T23:24:53Z",
-  "last_checked": "2026-08-23T23:24:53Z",
+  "updated": "2026-08-23T23:47:35Z",
+  "last_checked": "2026-08-23T23:47:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "今日の為替市場ポイント：今週のジャクソンホール会議でのウォーシュFRB議長講演待ち",
+      "link": "https://jp.investing.com/news/forex-news/article-1657930",
+      "published": "2026-08-23 23:30:04",
+      "isoDate": "2026-08-23T23:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NYの視点：【今週の注目イベント】ジャクソンホール、ウォーシュFRB議長講演、米PCE、東京CPI",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657926",
       "published": "2026-08-23 22:45:03",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1657860",
       "published": "2026-08-22 20:47:44",
       "isoDate": "2026-08-22T20:47:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベッセント財務長官の介入は円相場の転換点となるか",
-      "link": "https://jp.investing.com/news/forex-news/article-1657859",
-      "published": "2026-08-22 20:18:41",
-      "isoDate": "2026-08-22T20:18:41Z"
     },
     {
       "source": "Investing.com 外為",
