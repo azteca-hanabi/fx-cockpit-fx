@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T21:33:11Z",
-  "last_checked": "2026-08-24T21:33:11Z",
+  "updated": "2026-08-24T22:30:29Z",
+  "last_checked": "2026-08-24T22:30:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Brent Oil、$90.62で雲サポート攻防中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-24 19:13:16",
-      "isoDate": "2026-08-24T19:13:16Z"
+      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、エヌビディア決算控え半導体が冴えず",
+      "link": "https://jp.investing.com/news/forex-news/article-1659295",
+      "published": "2026-08-24 22:00:03",
+      "isoDate": "2026-08-24T22:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：ベッセント米財務長官が新たな対イラン経済制裁措置を発表",
+      "link": "https://jp.investing.com/news/forex-news/article-1659281",
+      "published": "2026-08-24 21:30:03",
+      "isoDate": "2026-08-24T21:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは140.15ドル高、エヌビディア決算控え半導体が冴えず",
+      "link": "https://jp.investing.com/news/forex-news/article-1659272",
+      "published": "2026-08-24 21:15:04",
+      "isoDate": "2026-08-24T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,20 +108,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1659032",
       "published": "2026-08-24 15:07:02",
       "isoDate": "2026-08-24T15:07:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがGroq 3 LPX推論アクセラレータの量産開始を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1659020",
-      "published": "2026-08-24 15:02:02",
-      "isoDate": "2026-08-24T15:02:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaマネージャーがAIチップ密輸事件で台湾で起訴される",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1658993",
-      "published": "2026-08-24 14:35:05",
-      "isoDate": "2026-08-24T14:35:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,62 @@
       "isoDate": "2026-08-23T13:10:59Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米財務省、150兆円相当TGA口座を国債買い戻しの原資に利用検討　ビットコインに恩恵か",
+      "link": "https://coinpost.jp/?p=732866",
+      "published": "Tue, 25 Aug 2026 07:00:56 +0900",
+      "isoDate": "2026-08-24T22:00:56Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米財務省がイラン制裁を拡大、デジタル資産やゴールドも対象に",
+      "link": "https://coinpost.jp/?p=732868",
+      "published": "Tue, 25 Aug 2026 06:00:01 +0900",
+      "isoDate": "2026-08-24T21:00:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、新設『USD Cash』で機動力強化　ビットコイン購入停止継続",
+      "link": "https://coinpost.jp/?p=732849",
+      "published": "Mon, 24 Aug 2026 21:40:57 +0900",
+      "isoDate": "2026-08-24T12:40:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン保有企業ストライブCEO、弱気相場終了との見方",
+      "link": "https://coinpost.jp/?p=732674",
+      "published": "Mon, 24 Aug 2026 10:16:41 +0900",
+      "isoDate": "2026-08-24T01:16:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン・イーサリアム現物ETFの純流入、昨年10月以来最大規模に",
+      "link": "https://coinpost.jp/?p=732638",
+      "published": "Mon, 24 Aug 2026 09:34:26 +0900",
+      "isoDate": "2026-08-24T00:34:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン週間26％急伸、底打ち型の反発か＝アナリスト",
+      "link": "https://coinpost.jp/?p=732631",
+      "published": "Mon, 24 Aug 2026 08:16:11 +0900",
+      "isoDate": "2026-08-23T23:16:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "エリック・トランプ氏、新トランプコイン報道を「詐欺」と否定",
+      "link": "https://coinpost.jp/?p=732627",
+      "published": "Mon, 24 Aug 2026 07:39:30 +0900",
+      "isoDate": "2026-08-23T22:39:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=732405",
+      "published": "Sun, 23 Aug 2026 11:30:23 +0900",
+      "isoDate": "2026-08-23T02:30:23Z"
+    }
+  ]
 }
