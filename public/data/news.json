@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-24T19:32:48Z",
-  "last_checked": "2026-08-24T19:32:48Z",
+  "updated": "2026-08-24T20:34:32Z",
+  "last_checked": "2026-08-24T20:34:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、最高値圏で反落警戒：毎時更新のライブ分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
+      "published": "2026-08-24 19:13:39",
+      "isoDate": "2026-08-24T19:13:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅が$6.60直下で膠着、ADX17台で方向感欠如：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
+      "published": "2026-08-24 19:13:33",
+      "isoDate": "2026-08-24T19:13:33Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、$85付近で膠着―ブレイク待ちの今: 毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
+      "published": "2026-08-24 19:13:24",
+      "isoDate": "2026-08-24T19:13:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$70ダブルトップで反転リスク：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
+      "published": "2026-08-24 19:13:17",
+      "isoDate": "2026-08-24T19:13:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$90.62で雲サポート攻防中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-24 19:13:16",
+      "isoDate": "2026-08-24T19:13:16Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆先物が下落、原油安が圧迫も堅調な輸出が下支え",
@@ -32,41 +67,6 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "WTI原油、$87.69が分水嶺の高値圏膠着：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-24 07:09:10",
-      "isoDate": "2026-08-24T07:09:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、69ドル台で61.8%戻し＋買われ過ぎ点灯：今時間の注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
-      "published": "2026-08-24 07:09:07",
-      "isoDate": "2026-08-24T07:09:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、6.50サポート割れが分岐点：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
-      "published": "2026-08-24 07:09:06",
-      "isoDate": "2026-08-24T07:09:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oilが$90台サポートで攻防、ダブルトップ点灯：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-24 07:09:03",
-      "isoDate": "2026-08-24T07:09:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、RSI76超で過熱圏：急落リスクに注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
-      "published": "2026-08-24 07:08:00",
-      "isoDate": "2026-08-24T07:08:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
       "title": "米財政懸念でゴールドが4,650ドルに上昇、3カ月ぶり高値圏を維持",
       "link": "https://jp.investing.com/news/commodities-news/article-1658019",
       "published": "2026-08-24 02:02:33",
@@ -74,6 +74,20 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Brent Oil、$90.62で雲サポート攻防中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-24 19:13:16",
+      "isoDate": "2026-08-24T19:13:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、6月にSpaceX株を購入",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659112",
+      "published": "2026-08-24 17:31:21",
+      "isoDate": "2026-08-24T17:31:21Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "SpaceXAIがNvidia Vera CPUをエージェントAIと軌道上利用に展開へ",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は393円安、今週は米エヌビディア決算やジャクソンホール会議に関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1658108",
-      "published": "2026-08-24 06:00:12",
-      "isoDate": "2026-08-24T06:00:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "Q2決算前に28%高、「誰もが知るソフトウェア大手株」に49%超の上昇余地",
       "link": "https://jp.investing.com/news/stock-market-news/article-1658090",
       "published": "2026-08-24 05:13:47",
       "isoDate": "2026-08-24T05:13:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベッセント説明会とNvidia決算を前に米株先物が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657962",
-      "published": "2026-08-24 00:30:10",
-      "isoDate": "2026-08-24T00:30:10Z"
     },
     {
       "source": "Investing.com 外為",
