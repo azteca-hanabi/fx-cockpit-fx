@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T22:30:29Z",
-  "last_checked": "2026-08-24T22:30:29Z",
+  "updated": "2026-08-24T23:25:31Z",
+  "last_checked": "2026-08-24T23:25:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、エヌビディア決算控え半導体が冴えず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659316",
+      "published": "2026-08-24 23:00:05",
+      "isoDate": "2026-08-24T23:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、エヌビディア決算控え半導体が冴えず",
       "link": "https://jp.investing.com/news/forex-news/article-1659295",
       "published": "2026-08-24 22:00:03",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659112",
       "published": "2026-08-24 17:31:21",
       "isoDate": "2026-08-24T17:31:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXAIがNvidia Vera CPUをエージェントAIと軌道上利用に展開へ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1659032",
-      "published": "2026-08-24 15:07:02",
-      "isoDate": "2026-08-24T15:07:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -194,13 +194,6 @@
       "link": "https://coinpost.jp/?p=732627",
       "published": "Mon, 24 Aug 2026 07:39:30 +0900",
       "isoDate": "2026-08-23T22:39:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン米財政懸念で5月以来の高値、来週はGDP・PCEが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=732405",
-      "published": "Sun, 23 Aug 2026 11:30:23 +0900",
-      "isoDate": "2026-08-23T02:30:23Z"
     }
   ]
 }
