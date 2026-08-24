@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T05:18:41Z",
-  "last_checked": "2026-08-24T05:18:41Z",
+  "updated": "2026-08-24T06:04:24Z",
+  "last_checked": "2026-08-24T06:04:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "中国EV株が急落、ドアハンドル安全性問題で過去最大規模のリコール",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1658101",
+      "published": "2026-08-24 05:40:44",
+      "isoDate": "2026-08-24T05:40:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "第2四半期決算前に28%高、このソフトウェア大手にはまだ49%超の上昇余地がある",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1658090",
+      "published": "2026-08-24 05:13:47",
+      "isoDate": "2026-08-24T05:13:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "サムスン・Alibabaがアジアのテック株急落を主導、NvidiaとFRBに注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1658068",
       "published": "2026-08-24 04:35:54",
       "isoDate": "2026-08-24T04:35:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は底堅い、高値圏で推移",
-      "link": "https://jp.investing.com/news/forex-news/article-1658057",
-      "published": "2026-08-24 04:15:14",
-      "isoDate": "2026-08-24T04:15:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1658019",
       "published": "2026-08-24 02:02:33",
       "isoDate": "2026-08-24T02:02:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトバンク、AI投資加速で過去最大規模の1兆円社債発行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657995",
-      "published": "2026-08-24 01:17:01",
-      "isoDate": "2026-08-24T01:17:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -222,13 +222,6 @@
       "link": "https://coinpost.jp/?p=732568",
       "published": "Sat, 22 Aug 2026 09:30:13 +0900",
       "isoDate": "2026-08-22T00:30:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8.2万ドルが強気相場転換の分岐点に＝ギャラクシー・リサーチ",
-      "link": "https://coinpost.jp/?p=732564",
-      "published": "Sat, 22 Aug 2026 08:40:08 +0900",
-      "isoDate": "2026-08-21T23:40:08Z"
     }
   ]
 }
