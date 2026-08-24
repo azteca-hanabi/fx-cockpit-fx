@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-24T17:34:18Z",
-  "last_checked": "2026-08-24T17:34:18Z",
+  "updated": "2026-08-24T18:46:37Z",
+  "last_checked": "2026-08-24T18:46:37Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州のディーゼルマージンが低硫黄軽油プレミアム低下で7%超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659116",
+      "published": "2026-08-24 17:41:32",
+      "isoDate": "2026-08-24T17:41:32Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "モロッコ、9月中旬より小麦輸入を再開へ",
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1657956",
       "published": "2026-08-24 00:22:16",
       "isoDate": "2026-08-24T00:22:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イタリア、燃料価格高騰を受けディーゼル減税を水曜日まで延長",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1657916",
-      "published": "2026-08-23 19:40:19",
-      "isoDate": "2026-08-23T19:40:19Z"
     }
   ],
   "usdjpy_items": [
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント説明会とNvidia決算を前に米株先物が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1657962",
-      "published": "2026-08-24 00:30:10",
-      "isoDate": "2026-08-24T00:30:10Z"
+      "title": "AIが見抜いた「エネルギー株」が金曜日に12%続伸、累計90%のリターンに",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1657890",
+      "published": "2026-08-23 13:10:59",
+      "isoDate": "2026-08-23T13:10:59Z"
     }
   ],
   "btc_items": [
