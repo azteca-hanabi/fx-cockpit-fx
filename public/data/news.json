@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T10:40:19Z",
-  "last_checked": "2026-08-24T10:40:19Z",
+  "updated": "2026-08-24T11:32:25Z",
+  "last_checked": "2026-08-24T11:32:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "プレマーケット動向：Alibabaが割引株売却で下落、半導体株も軟調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1658386",
+      "published": "2026-08-24 10:29:48",
+      "isoDate": "2026-08-24T10:29:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均寄与度ランキング（大引け）～日経平均は続落、アドバンテとソフトバンクGの2銘柄で約563円押し下げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1658197",
       "published": "2026-08-24 08:00:13",
       "isoDate": "2026-08-24T08:00:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIトレードに注目、イラン制裁が迫る―市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1658187",
-      "published": "2026-08-24 07:47:25",
-      "isoDate": "2026-08-24T07:47:25Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,7 +125,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント財務長官説明会とNvidia決算を前に米株先物が下落",
+      "title": "ベッセント説明会とNvidia決算を前に米株先物が下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657962",
       "published": "2026-08-24 00:30:10",
       "isoDate": "2026-08-24T00:30:10Z"
