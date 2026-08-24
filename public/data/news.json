@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T14:49:49Z",
-  "last_checked": "2026-08-24T14:49:49Z",
+  "updated": "2026-08-24T15:42:43Z",
+  "last_checked": "2026-08-24T15:42:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "サンディスクの株価が本日急落した理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1658888",
-      "published": "2026-08-24 13:55:44",
-      "isoDate": "2026-08-24T13:55:44Z"
+      "title": "SpaceXAIがNvidia Vera CPUをエージェントAIと軌道上利用に展開へ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1659032",
+      "published": "2026-08-24 15:07:02",
+      "isoDate": "2026-08-24T15:07:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米7月シカゴ連銀全米活動指数は悪化、ドル軟調",
-      "link": "https://jp.investing.com/news/forex-news/article-1658735",
-      "published": "2026-08-24 13:00:04",
-      "isoDate": "2026-08-24T13:00:04Z"
+      "title": "NvidiaがGroq 3 LPX推論アクセラレータの量産開始を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1659020",
+      "published": "2026-08-24 15:02:02",
+      "isoDate": "2026-08-24T15:02:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaマネージャーがAIチップ密輸事件で台湾で起訴される",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1658993",
+      "published": "2026-08-24 14:35:05",
+      "isoDate": "2026-08-24T14:35:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1658090",
       "published": "2026-08-24 05:13:47",
       "isoDate": "2026-08-24T05:13:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスン・Alibaba急落でアジア株安、Nvidia決算に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1658068",
-      "published": "2026-08-24 04:35:54",
-      "isoDate": "2026-08-24T04:35:54Z"
     },
     {
       "source": "Investing.com 外為",
