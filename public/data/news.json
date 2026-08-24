@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T09:52:20Z",
-  "last_checked": "2026-08-24T09:52:20Z",
+  "updated": "2026-08-24T10:40:19Z",
+  "last_checked": "2026-08-24T10:40:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は続落、アドバンテとソフトバンクGの2銘柄で約563円押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1658197",
+      "published": "2026-08-24 08:00:13",
+      "isoDate": "2026-08-24T08:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIトレードに注目、イラン制裁が迫る―市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1658187",
       "published": "2026-08-24 07:47:25",
@@ -83,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランへの制裁強化を前に欧州株は横ばい推移",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1658162",
-      "published": "2026-08-24 07:14:34",
-      "isoDate": "2026-08-24T07:14:34Z"
+      "title": "米韓テック株安を映して売りが勝る展開に【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1658172",
+      "published": "2026-08-24 07:30:13",
+      "isoDate": "2026-08-24T07:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1658102",
       "published": "2026-08-24 05:45:13",
       "isoDate": "2026-08-24T05:45:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国EV株が急落、ドアハンドル安全性問題で過去最大規模のリコール",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1658101",
-      "published": "2026-08-24 05:40:44",
-      "isoDate": "2026-08-24T05:40:44Z"
     },
     {
       "source": "Investing.com 外為",
