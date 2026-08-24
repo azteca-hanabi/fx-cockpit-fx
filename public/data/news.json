@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-24T08:52:57Z",
-  "last_checked": "2026-08-24T08:52:57Z",
+  "updated": "2026-08-24T09:52:20Z",
+  "last_checked": "2026-08-24T09:52:20Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "天然ガス相場の上昇一服、米国の対イラン制裁発表を前に",
+      "link": "https://jp.investing.com/news/commodities-news/article-1658233",
+      "published": "2026-08-24 08:46:08",
+      "isoDate": "2026-08-24T08:46:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、$87.69が分水嶺の高値圏膠着：リアルタイム更新中",
@@ -39,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国債務懸念が金需要を支え、金価格が1オンス4,650ドルを突破",
+      "title": "米財政懸念で金が4,650ドル超に上昇、3カ月ぶり高値圏を維持",
       "link": "https://jp.investing.com/news/commodities-news/article-1658019",
       "published": "2026-08-24 02:02:33",
       "isoDate": "2026-08-24T02:02:33Z"
@@ -64,13 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650293",
       "published": "2026-08-21 19:13:52",
       "isoDate": "2026-08-21T19:13:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が$88.07レジスタンスに接近：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1650294",
-      "published": "2026-08-21 19:13:46",
-      "isoDate": "2026-08-21T19:13:46Z"
     }
   ],
   "usdjpy_items": [
@@ -111,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "第2四半期決算前に28%高、このソフトウェア大手にはまだ49%超の上昇余地がある",
+      "title": "Q2決算前に28%高、「誰もが知るソフトウェア大手株」に49%超の上昇余地",
       "link": "https://jp.investing.com/news/stock-market-news/article-1658090",
       "published": "2026-08-24 05:13:47",
       "isoDate": "2026-08-24T05:13:47Z"
@@ -125,7 +125,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物が下落、エヌビディア決算とジャクソンホール会議に注目",
+      "title": "ベッセント財務長官説明会とNvidia決算を前に米株先物が下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1657962",
       "published": "2026-08-24 00:30:10",
       "isoDate": "2026-08-24T00:30:10Z"
