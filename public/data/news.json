@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T13:53:30Z",
-  "last_checked": "2026-08-25T13:53:30Z",
+  "updated": "2026-08-25T14:50:26Z",
+  "last_checked": "2026-08-25T14:50:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -67,13 +67,27 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格は3カ月超ぶり高値から小幅下落、米インフレ指標とウォーシュ発言に注目",
+      "title": "金価格、米インフレ指標とウォーシュFRB議長の講演を前に小幅下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1659419",
       "published": "2026-08-25 01:15:35",
       "isoDate": "2026-08-25T01:15:35Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "S&P 500が7,689で下落継続、SMA200が攻防の焦点：今すぐ確認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1659172",
+      "published": "2026-08-25 14:12:09",
+      "isoDate": "2026-08-25T14:12:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、M6およびM5 Proチップ搭載の新型Mac miniを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1660262",
+      "published": "2026-08-25 13:02:03",
+      "isoDate": "2026-08-25T13:02:03Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "シスコ・システムズ、スーパーマイクロとの提携でAIインフラを拡充",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659651",
       "published": "2026-08-25 07:45:17",
       "isoDate": "2026-08-25T07:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均VIは大幅に上昇、イベント控え警戒感",
-      "link": "https://jp.investing.com/news/forex-news/article-1659538",
-      "published": "2026-08-25 05:15:17",
-      "isoDate": "2026-08-25T05:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は3日ぶり反発、フジクラが1銘柄で約60円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659508",
-      "published": "2026-08-25 03:45:16",
-      "isoDate": "2026-08-25T03:45:16Z"
     },
     {
       "source": "Investing.com 外為",
