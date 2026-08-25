@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T08:08:15Z",
-  "last_checked": "2026-08-25T08:08:15Z",
+  "updated": "2026-08-25T09:08:43Z",
+  "last_checked": "2026-08-25T09:08:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランへの「Dデイ」制裁、供給ショック招かず——天然ガス相場の上昇一服",
+      "link": "https://jp.investing.com/news/commodities-news/article-1659676",
+      "published": "2026-08-25 08:07:01",
+      "isoDate": "2026-08-25T08:07:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、5時間足でダブルトップ形成中：最新レベルを確認",
@@ -64,36 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659155",
       "published": "2026-08-24 19:02:31",
       "isoDate": "2026-08-24T19:02:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州のディーゼルマージンが低硫黄軽油プレミアム低下で7%超下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659116",
-      "published": "2026-08-24 17:41:32",
-      "isoDate": "2026-08-24T17:41:32Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "東証グロ－ス指数は大幅に続伸、終日底堅く推移",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659671",
+      "published": "2026-08-25 08:00:15",
+      "isoDate": "2026-08-25T08:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "売り先行スタートもKOSPI高に連動してAI関連株が買い直される【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1659648",
+      "published": "2026-08-25 07:45:15",
+      "isoDate": "2026-08-25T07:45:15Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "日経平均は反発、売り先行も買い戻し広がりプラス圏に浮上",
       "link": "https://jp.investing.com/news/stock-market-news/article-1659621",
       "published": "2026-08-25 07:15:16",
       "isoDate": "2026-08-25T07:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランへの制裁脅威が不発に終わり、欧州株が反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659617",
-      "published": "2026-08-25 07:11:19",
-      "isoDate": "2026-08-25T07:11:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Brent Oilがダブルトップ崩壊、$89.34が攻防の鍵：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-25 07:08:35",
-      "isoDate": "2026-08-25T07:08:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -201,13 +201,6 @@
       "link": "https://coinpost.jp/?p=732866",
       "published": "Tue, 25 Aug 2026 07:00:56 +0900",
       "isoDate": "2026-08-24T22:00:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省がイラン制裁を拡大、デジタル資産やゴールドも対象に",
-      "link": "https://coinpost.jp/?p=732868",
-      "published": "Tue, 25 Aug 2026 06:00:01 +0900",
-      "isoDate": "2026-08-24T21:00:01Z"
     }
   ]
 }
