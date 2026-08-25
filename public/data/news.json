@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T22:31:31Z",
-  "last_checked": "2026-08-25T22:31:31Z",
+  "updated": "2026-08-25T23:27:52Z",
+  "last_checked": "2026-08-25T23:27:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは160.24ドル高、原油安を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1660683",
+      "published": "2026-08-25 21:30:04",
+      "isoDate": "2026-08-25T21:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "OpenAI、2027年IPO前に幹部4人が相次いで退社",
       "link": "https://jp.investing.com/news/stock-market-news/article-1660595",
       "published": "2026-08-25 19:40:48",
       "isoDate": "2026-08-25T19:40:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500、7655割れが下落の分岐点：今すぐ確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1659172",
-      "published": "2026-08-25 19:13:43",
-      "isoDate": "2026-08-25T19:13:43Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,55 @@
       "isoDate": "2026-08-24T23:06:44Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン下落より資金調達力にリスク＝レポート分析",
+      "link": "https://coinpost.jp/?p=733212",
+      "published": "Wed, 26 Aug 2026 08:15:22 +0900",
+      "isoDate": "2026-08-25T23:15:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーロン率いる「X」、投稿から仮想通貨売買できるボタンを近日追加へ",
+      "link": "https://coinpost.jp/?p=733213",
+      "published": "Wed, 26 Aug 2026 07:00:24 +0900",
+      "isoDate": "2026-08-25T22:00:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ジーキャッシュがビットコインに対抗と見解",
+      "link": "https://coinpost.jp/?p=733209",
+      "published": "Wed, 26 Aug 2026 05:45:09 +0900",
+      "isoDate": "2026-08-25T20:45:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "香港ハッシュキー、米フランクリン・テンプルトンのトークン化ファンドをアジアで提供",
+      "link": "https://coinpost.jp/?p=733202",
+      "published": "Wed, 26 Aug 2026 05:00:38 +0900",
+      "isoDate": "2026-08-25T20:00:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米仮想通貨推進団体「Stand With Crypto」、中間選挙で下院現職32議員を新たに支持",
+      "link": "https://coinpost.jp/?p=733024",
+      "published": "Tue, 25 Aug 2026 14:30:20 +0900",
+      "isoDate": "2026-08-25T05:30:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁予算が過去最大に、暗号資産・AI監視も強化対象に",
+      "link": "https://coinpost.jp/?p=733036",
+      "published": "Tue, 25 Aug 2026 13:50:45 +0900",
+      "isoDate": "2026-08-25T04:50:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族の銀行設立に米当局が仮承認、利益相反懸念高まる",
+      "link": "https://coinpost.jp/?p=732949",
+      "published": "Tue, 25 Aug 2026 13:00:05 +0900",
+      "isoDate": "2026-08-25T04:00:05Z"
+    }
+  ]
 }
