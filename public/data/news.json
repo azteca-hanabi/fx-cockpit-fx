@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-25T18:43:59Z",
-  "last_checked": "2026-08-25T18:43:59Z",
+  "updated": "2026-08-25T19:34:56Z",
+  "last_checked": "2026-08-25T19:34:56Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、3年ぶり抵抗帯に挑戦中-過熱警戒：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
+      "published": "2026-08-25 19:13:08",
+      "isoDate": "2026-08-25T19:13:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent原油が主要サポート割れ、ベア優勢：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-25 19:12:59",
+      "isoDate": "2026-08-25T19:12:59Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が下限ボリンジャーに接近、売り圧力加速：今時間の水準",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
+      "published": "2026-08-25 19:12:57",
+      "isoDate": "2026-08-25T19:12:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$70.00の壁で足踏み：最新レベルをチェック",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
+      "published": "2026-08-25 19:12:54",
+      "isoDate": "2026-08-25T19:12:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、高値4754から反転シグナル点灯：毎時更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
+      "published": "2026-08-25 19:12:48",
+      "isoDate": "2026-08-25T19:12:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "CMEグループ、米国亜鉛先物を開始――グレンコアとトラフィグラが初取引",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1660567",
+      "published": "2026-08-25 18:34:49",
+      "isoDate": "2026-08-25T18:34:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海協議の可能性を受け、欧州小麦先物が下落",
@@ -29,48 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659753",
       "published": "2026-08-25 09:13:47",
       "isoDate": "2026-08-25T09:13:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランへの「Dデイ」制裁、供給ショック招かず——天然ガス相場の上昇一服",
-      "link": "https://jp.investing.com/news/commodities-news/article-1659676",
-      "published": "2026-08-25 08:07:01",
-      "isoDate": "2026-08-25T08:07:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、5時間足でダブルトップ形成中：最新レベルを確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
-      "published": "2026-08-25 07:09:08",
-      "isoDate": "2026-08-25T07:09:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が雲の中で攻防：ブレイク方向を毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-25 07:08:53",
-      "isoDate": "2026-08-25T07:08:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.55〜$6.65の膠着からブレイク迫る：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
-      "published": "2026-08-25 07:08:36",
-      "isoDate": "2026-08-25T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oilがダブルトップ崩壊、$89.34が攻防の鍵：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-25 07:08:35",
-      "isoDate": "2026-08-25T07:08:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,696台で反転シグナル点灯：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
-      "published": "2026-08-25 07:08:33",
-      "isoDate": "2026-08-25T07:08:33Z"
     }
   ],
   "usdjpy_items": [
