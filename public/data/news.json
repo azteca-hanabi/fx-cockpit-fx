@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-25T07:01:29Z",
-  "last_checked": "2026-08-25T07:01:29Z",
+  "updated": "2026-08-25T08:08:15Z",
+  "last_checked": "2026-08-25T08:08:15Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、5時間足でダブルトップ形成中：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
+      "published": "2026-08-25 07:09:08",
+      "isoDate": "2026-08-25T07:09:08Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油が雲の中で攻防：ブレイク方向を毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
+      "published": "2026-08-25 07:08:53",
+      "isoDate": "2026-08-25T07:08:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.55〜$6.65の膠着からブレイク迫る：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
+      "published": "2026-08-25 07:08:36",
+      "isoDate": "2026-08-25T07:08:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oilがダブルトップ崩壊、$89.34が攻防の鍵：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-25 07:08:35",
+      "isoDate": "2026-08-25T07:08:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,696台で反転シグナル点灯：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
+      "published": "2026-08-25 07:08:33",
+      "isoDate": "2026-08-25T07:08:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米国のイラン制裁強化を受け、原油価格が小幅上昇",
@@ -25,41 +60,6 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "Gold、最高値圏で反落警戒：毎時更新のライブ分析",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
-      "published": "2026-08-24 19:13:39",
-      "isoDate": "2026-08-24T19:13:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅が$6.60直下で膠着、ADX17台で方向感欠如：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
-      "published": "2026-08-24 19:13:33",
-      "isoDate": "2026-08-24T19:13:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、$85付近で膠着―ブレイク待ちの今: 毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-24 19:13:24",
-      "isoDate": "2026-08-24T19:13:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、$70ダブルトップで反転リスク：今すぐ確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
-      "published": "2026-08-24 19:13:17",
-      "isoDate": "2026-08-24T19:13:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$90.62で雲サポート攻防中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-24 19:13:16",
-      "isoDate": "2026-08-24T19:13:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
       "title": "大豆先物が下落、原油安が圧迫も堅調な輸出が下支え",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659155",
       "published": "2026-08-24 19:02:31",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "日経平均は反発、売り先行も買い戻し広がりプラス圏に浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659621",
+      "published": "2026-08-25 07:15:16",
+      "isoDate": "2026-08-25T07:15:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランへの制裁脅威が不発に終わり、欧州株が反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659617",
+      "published": "2026-08-25 07:11:19",
+      "isoDate": "2026-08-25T07:11:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Brent Oilがダブルトップ崩壊、$89.34が攻防の鍵：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-25 07:08:35",
+      "isoDate": "2026-08-25T07:08:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均VIは大幅に上昇、イベント控え警戒感",
       "link": "https://jp.investing.com/news/forex-news/article-1659538",
       "published": "2026-08-25 05:15:17",
@@ -83,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株、Nvidia決算控えテック株不安で下落",
+      "title": "アジア株は高安まちまち、Nvidia決算を前に日本・韓国が回復",
       "link": "https://jp.investing.com/news/stock-market-news/article-1659520",
       "published": "2026-08-25 04:18:30",
       "isoDate": "2026-08-25T04:18:30Z"
@@ -94,20 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659508",
       "published": "2026-08-25 03:45:16",
       "isoDate": "2026-08-25T03:45:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "下げ幅を消して小幅高で前場終了",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659504",
-      "published": "2026-08-25 03:30:14",
-      "isoDate": "2026-08-25T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンテスト---大幅続落、エヌビディア決算接近で半導体関連売りが優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659424",
-      "published": "2026-08-25 01:30:09",
-      "isoDate": "2026-08-25T01:30:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659322",
       "published": "2026-08-24 23:06:44",
       "isoDate": "2026-08-24T23:06:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "24日の米国市場ダイジェスト：米国株式市場はまちまち、エヌビディア決算控え半導体が冴えず",
-      "link": "https://jp.investing.com/news/forex-news/article-1659295",
-      "published": "2026-08-24 22:00:03",
-      "isoDate": "2026-08-24T22:00:03Z"
     },
     {
       "source": "Investing.com 外為",
