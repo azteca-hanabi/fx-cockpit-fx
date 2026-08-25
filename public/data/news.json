@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T14:50:26Z",
-  "last_checked": "2026-08-25T14:50:26Z",
+  "updated": "2026-08-25T15:47:14Z",
+  "last_checked": "2026-08-25T15:47:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "Nvidiaがロボティクス向けエッジAIコンピューター「Jetson Orin Nano 2」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1660479",
+      "published": "2026-08-25 15:07:02",
+      "isoDate": "2026-08-25T15:07:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "S&P 500が7,689で下落継続、SMA200が攻防の焦点：今すぐ確認",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1659172",
       "published": "2026-08-25 14:12:09",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1660053",
       "published": "2026-08-25 11:44:03",
       "isoDate": "2026-08-25T11:44:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアのAI融資拡大、新たな信用リスクをモルガン・スタンレーが指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1660044",
-      "published": "2026-08-25 11:41:22",
-      "isoDate": "2026-08-25T11:41:22Z"
     },
     {
       "source": "Investing.com 外為",
