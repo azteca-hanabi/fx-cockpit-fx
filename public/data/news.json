@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T23:27:52Z",
-  "last_checked": "2026-08-25T23:27:52Z",
+  "updated": "2026-08-25T23:51:25Z",
+  "last_checked": "2026-08-25T23:51:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "25日の米国市場ダイジェスト：米国株式市場は上昇、原油安を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1660738",
+      "published": "2026-08-25 23:15:06",
+      "isoDate": "2026-08-25T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は上昇、原油安を好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660731",
+      "published": "2026-08-25 23:00:06",
+      "isoDate": "2026-08-25T23:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは160.24ドル高、原油安を好感",
       "link": "https://jp.investing.com/news/forex-news/article-1660683",
       "published": "2026-08-25 21:30:04",
@@ -122,20 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659671",
       "published": "2026-08-25 08:00:15",
       "isoDate": "2026-08-25T08:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は3日ぶり反発、ソフトバンクGやイビデンが2銘柄で約169円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659651",
-      "published": "2026-08-25 07:45:17",
-      "isoDate": "2026-08-25T07:45:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は3日ぶり反発、フジクラが1銘柄で約60円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659508",
-      "published": "2026-08-25 03:45:16",
-      "isoDate": "2026-08-25T03:45:16Z"
     },
     {
       "source": "Investing.com 外為",
