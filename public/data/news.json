@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T03:02:04Z",
-  "last_checked": "2026-08-25T03:02:04Z",
+  "updated": "2026-08-25T04:08:55Z",
+  "last_checked": "2026-08-25T04:08:55Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "下げ幅を消して小幅高で前場終了",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1659504",
+      "published": "2026-08-25 03:30:14",
+      "isoDate": "2026-08-25T03:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アドバンテスト---大幅続落、エヌビディア決算接近で半導体関連売りが優勢",
       "link": "https://jp.investing.com/news/stock-market-news/article-1659424",
       "published": "2026-08-25 01:30:09",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659402",
       "published": "2026-08-25 01:05:31",
       "isoDate": "2026-08-25T01:05:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアの決算待ちのなかで内需シフトも",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659344",
-      "published": "2026-08-24 23:45:06",
-      "isoDate": "2026-08-24T23:45:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族の銀行設立に米当局が仮承認、利益相反懸念高まる",
+      "link": "https://coinpost.jp/?p=732949",
+      "published": "Tue, 25 Aug 2026 13:00:05 +0900",
+      "isoDate": "2026-08-25T04:00:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン8万ドル目前、現物買いが上昇主導　対イラン制裁と米金利低下が追い風｜仮想NISHI",
