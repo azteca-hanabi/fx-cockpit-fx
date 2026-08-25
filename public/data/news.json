@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T05:05:59Z",
-  "last_checked": "2026-08-25T05:05:59Z",
+  "updated": "2026-08-25T05:58:22Z",
+  "last_checked": "2026-08-25T05:58:22Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米仮想通貨推進団体「Stand With Crypto」、中間選挙で下院現職32議員を新たに支持",
+      "link": "https://coinpost.jp/?p=733024",
+      "published": "Tue, 25 Aug 2026 14:30:20 +0900",
+      "isoDate": "2026-08-25T05:30:20Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "金融庁予算が過去最大に、暗号資産・AI監視も強化対象に",
       "link": "https://coinpost.jp/?p=733036",
       "published": "Tue, 25 Aug 2026 13:50:45 +0900",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=732868",
       "published": "Tue, 25 Aug 2026 06:00:01 +0900",
       "isoDate": "2026-08-24T21:00:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、新設『USD Cash』で機動力強化　ビットコイン購入停止継続",
-      "link": "https://coinpost.jp/?p=732849",
-      "published": "Mon, 24 Aug 2026 21:40:57 +0900",
-      "isoDate": "2026-08-24T12:40:57Z"
     }
   ]
 }
