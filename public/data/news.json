@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-25T11:00:06Z",
-  "last_checked": "2026-08-25T11:00:06Z",
+  "updated": "2026-08-25T11:36:37Z",
+  "last_checked": "2026-08-25T11:36:37Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ：金の上昇は投機主導、ジャクソンホールが焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-1659915",
+      "published": "2026-08-25 10:57:19",
+      "isoDate": "2026-08-25T10:57:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "シティ、エルニーニョリスクを受けトウモロコシ・大豆・小麦の目標価格を引き上げ",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1659419",
       "published": "2026-08-25 01:15:35",
       "isoDate": "2026-08-25T01:15:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アラビカコーヒー、納会期間開始で6週間ぶり高値に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1659250",
-      "published": "2026-08-24 20:37:35",
-      "isoDate": "2026-08-24T20:37:35Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "シティ：金の上昇は投機主導、ジャクソンホールが焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-1659915",
+      "published": "2026-08-25 10:57:19",
+      "isoDate": "2026-08-25T10:57:19Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカ、8銘柄の半導体株に買い増し好機と指摘",
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア株は高安まちまち、Nvidia決算を前に日本・韓国が回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1659520",
-      "published": "2026-08-25 04:18:30",
-      "isoDate": "2026-08-25T04:18:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は3日ぶり反発、フジクラが1銘柄で約60円分押し上げ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1659508",
       "published": "2026-08-25 03:45:16",
@@ -125,7 +125,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物が上昇、Nvidia決算とインフレ指標に注目",
+      "title": "米国株先物が上昇、Nvidia決算とインフレ指標を前に投資家が注目",
       "link": "https://jp.investing.com/news/stock-market-news/article-1659402",
       "published": "2026-08-25 01:05:31",
       "isoDate": "2026-08-25T01:05:31Z"
