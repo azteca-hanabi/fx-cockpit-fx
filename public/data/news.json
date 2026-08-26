@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T07:26:08Z",
-  "last_checked": "2026-08-26T07:26:08Z",
+  "updated": "2026-08-26T08:09:14Z",
+  "last_checked": "2026-08-26T08:09:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "原油急落がECBタカ派警告を相殺、欧州株は小幅上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1661053",
+      "published": "2026-08-26 07:03:32",
+      "isoDate": "2026-08-26T07:03:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "日経平均は461円高、米経済指標や米エヌビディア決算などに関心",
       "link": "https://jp.investing.com/news/forex-news/article-1660993",
       "published": "2026-08-26 06:00:15",
@@ -136,14 +143,71 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1659870",
       "published": "2026-08-25 10:32:48",
       "isoDate": "2026-08-25T10:32:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 3日ぶり反発、終値25日線上方に復帰",
-      "link": "https://jp.investing.com/news/forex-news/article-1659770",
-      "published": "2026-08-25 09:30:11",
-      "isoDate": "2026-08-25T09:30:11Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "みずほ、仮想通貨反発の質を分析　現物・ETF主導でレバ低水準",
+      "link": "https://coinpost.jp/?p=733424",
+      "published": "Wed, 26 Aug 2026 16:19:00 +0900",
+      "isoDate": "2026-08-26T07:19:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレット狙う偽装アドオン40件、Firefox公式ストアで発覚",
+      "link": "https://coinpost.jp/?p=733325",
+      "published": "Wed, 26 Aug 2026 13:55:36 +0900",
+      "isoDate": "2026-08-26T04:55:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族関与のワールド・リバティ、ステーブルコインUSD1をカントンでローンチ",
+      "link": "https://coinpost.jp/?p=733252",
+      "published": "Wed, 26 Aug 2026 13:00:33 +0900",
+      "isoDate": "2026-08-26T04:00:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国債買い戻しでドル安警戒、ビットコインETF「IBIT」急伸",
+      "link": "https://coinpost.jp/?p=733274",
+      "published": "Wed, 26 Aug 2026 10:49:44 +0900",
+      "isoDate": "2026-08-26T01:49:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケンに「ダスト攻撃」、制裁対象HTXウォレットからの送金でユーザー口座凍結",
+      "link": "https://coinpost.jp/?p=733229",
+      "published": "Wed, 26 Aug 2026 10:30:25 +0900",
+      "isoDate": "2026-08-26T01:30:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=733210",
+      "published": "Wed, 26 Aug 2026 09:20:17 +0900",
+      "isoDate": "2026-08-26T00:20:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン下落より資金調達力にリスク＝レポート分析",
+      "link": "https://coinpost.jp/?p=733212",
+      "published": "Wed, 26 Aug 2026 08:15:22 +0900",
+      "isoDate": "2026-08-25T23:15:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーロン率いる「X」、投稿から仮想通貨売買できるボタンを近日追加へ",
+      "link": "https://coinpost.jp/?p=733213",
+      "published": "Wed, 26 Aug 2026 07:00:24 +0900",
+      "isoDate": "2026-08-25T22:00:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ジーキャッシュがビットコインに対抗と見解",
+      "link": "https://coinpost.jp/?p=733209",
+      "published": "Wed, 26 Aug 2026 05:45:09 +0900",
+      "isoDate": "2026-08-25T20:45:09Z"
+    }
+  ]
 }
