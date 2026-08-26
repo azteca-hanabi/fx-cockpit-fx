@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-26T11:57:59Z",
-  "last_checked": "2026-08-26T11:57:59Z",
+  "updated": "2026-08-26T13:07:14Z",
+  "last_checked": "2026-08-26T13:07:14Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "CPCブレンド原油、9月の輸出量は日量150万バレルに設定",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661543",
+      "published": "2026-08-26 12:30:18",
+      "isoDate": "2026-08-26T12:30:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "フランス産軟質小麦のタンパク質含有量、過去平均を上回る－FranceAgriMer",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661534",
+      "published": "2026-08-26 12:24:13",
+      "isoDate": "2026-08-26T12:24:13Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "中東停戦期待でホルムズ海峡リスクプレミアム解消、欧州天然ガス3%急落",
@@ -57,23 +71,80 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1660834",
       "published": "2026-08-26 01:24:10",
       "isoDate": "2026-08-26T01:24:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東外交進展への期待で原油価格が2%超下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1660783",
-      "published": "2026-08-26 00:22:09",
-      "isoDate": "2026-08-26T00:22:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CMEグループ、米国亜鉛先物を開始――グレンコアとトラフィグラが初取引",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1660567",
-      "published": "2026-08-25 18:34:49",
-      "isoDate": "2026-08-25T18:34:49Z"
     }
   ],
-  "usdjpy_items": [],
+  "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "シティ、「最も極端な」株価下落後にOracle Financial Softwareに好機を見出す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1661503",
+      "published": "2026-08-26 12:14:53",
+      "isoDate": "2026-08-26T12:14:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、経営幹部再編で新たに2名の社長を任命",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1661483",
+      "published": "2026-08-26 12:08:03",
+      "isoDate": "2026-08-26T12:08:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアのQ2決算より注目される2000億ドルのオフバランス与信リスク",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1661187",
+      "published": "2026-08-26 09:27:06",
+      "isoDate": "2026-08-26T09:27:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia決算発表とPCEに注目―市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1661116",
+      "published": "2026-08-26 08:02:20",
+      "isoDate": "2026-08-26T08:02:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアの決算発表を前に出遅れ株物色も続く【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1661093",
+      "published": "2026-08-26 07:45:13",
+      "isoDate": "2026-08-26T07:45:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は461円高、米経済指標や米エヌビディア決算などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1660993",
+      "published": "2026-08-26 06:00:15",
+      "isoDate": "2026-08-26T06:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、エヌビディア決算に思惑",
+      "link": "https://jp.investing.com/news/forex-news/article-1660974",
+      "published": "2026-08-26 05:30:16",
+      "isoDate": "2026-08-26T05:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（前引け）～日経平均は続伸、アドバンテストが1銘柄で約164円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660917",
+      "published": "2026-08-26 03:30:15",
+      "isoDate": "2026-08-26T03:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジアの半導体株、Nvidia決算を前に反発――AIトレードが正念場",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660912",
+      "published": "2026-08-26 03:10:32",
+      "isoDate": "2026-08-26T03:10:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが急騰を察知した「米小型株2銘柄」、8月にそろって40%超上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660716",
+      "published": "2026-08-25 22:18:36",
+      "isoDate": "2026-08-25T22:18:36Z"
+    }
+  ],
   "btc_items": [
     {
       "source": "CoinPost",
