@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T04:10:26Z",
-  "last_checked": "2026-08-26T04:10:26Z",
+  "updated": "2026-08-26T05:06:01Z",
+  "last_checked": "2026-08-26T05:06:01Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アジアの半導体株、Nvidia決算を前に反発――AIトレードが正念場",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660912",
+      "published": "2026-08-26 03:10:32",
+      "isoDate": "2026-08-26T03:10:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米国株先物下落、PCEインフレ指標とNvidiaの決算発表を前に投資家が慎重姿勢",
       "link": "https://jp.investing.com/news/stock-market-news/article-1660808",
       "published": "2026-08-26 00:56:40",
@@ -92,13 +99,6 @@
       "source": "Investing.com 外為",
       "title": "強弱材料 8/26",
       "link": "https://jp.investing.com/news/stock-market-news/article-1660773",
-      "published": "2026-08-26 00:15:07",
-      "isoDate": "2026-08-26T00:15:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～エヌビディアの決算待ちのなかで買い戻しも～",
-      "link": "https://jp.investing.com/news/forex-news/article-1660772",
       "published": "2026-08-26 00:15:07",
       "isoDate": "2026-08-26T00:15:07Z"
     },
@@ -145,5 +145,69 @@
       "isoDate": "2026-08-24T23:06:44Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレット狙う偽装アドオン40件、Firefox公式ストアで発覚",
+      "link": "https://coinpost.jp/?p=733325",
+      "published": "Wed, 26 Aug 2026 13:55:36 +0900",
+      "isoDate": "2026-08-26T04:55:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族関与のワールド・リバティ、ステーブルコインUSD1をカントンでローンチ",
+      "link": "https://coinpost.jp/?p=733252",
+      "published": "Wed, 26 Aug 2026 13:00:33 +0900",
+      "isoDate": "2026-08-26T04:00:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国債買い戻しでドル安警戒、ビットコインETF「IBIT」急伸",
+      "link": "https://coinpost.jp/?p=733274",
+      "published": "Wed, 26 Aug 2026 10:49:44 +0900",
+      "isoDate": "2026-08-26T01:49:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケンに「ダスト攻撃」、制裁対象HTXウォレットからの送金でユーザー口座凍結",
+      "link": "https://coinpost.jp/?p=733229",
+      "published": "Wed, 26 Aug 2026 10:30:25 +0900",
+      "isoDate": "2026-08-26T01:30:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=733210",
+      "published": "Wed, 26 Aug 2026 09:20:17 +0900",
+      "isoDate": "2026-08-26T00:20:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン下落より資金調達力にリスク＝レポート分析",
+      "link": "https://coinpost.jp/?p=733212",
+      "published": "Wed, 26 Aug 2026 08:15:22 +0900",
+      "isoDate": "2026-08-25T23:15:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーロン率いる「X」、投稿から仮想通貨売買できるボタンを近日追加へ",
+      "link": "https://coinpost.jp/?p=733213",
+      "published": "Wed, 26 Aug 2026 07:00:24 +0900",
+      "isoDate": "2026-08-25T22:00:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ジーキャッシュがビットコインに対抗と見解",
+      "link": "https://coinpost.jp/?p=733209",
+      "published": "Wed, 26 Aug 2026 05:45:09 +0900",
+      "isoDate": "2026-08-25T20:45:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "香港ハッシュキー、米フランクリン・テンプルトンのトークン化ファンドをアジアで提供",
+      "link": "https://coinpost.jp/?p=733202",
+      "published": "Wed, 26 Aug 2026 05:00:38 +0900",
+      "isoDate": "2026-08-25T20:00:38Z"
+    }
+  ]
 }
