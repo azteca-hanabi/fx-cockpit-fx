@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-26T14:11:55Z",
-  "last_checked": "2026-08-26T14:11:55Z",
+  "updated": "2026-08-26T16:00:30Z",
+  "last_checked": "2026-08-26T16:00:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫が増加、ガソリン・留出油在庫は減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661858",
+      "published": "2026-08-26 14:42:08",
+      "isoDate": "2026-08-26T14:42:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、2023年7月以来の最高値を更新",
@@ -64,36 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
       "published": "2026-08-26 07:08:57",
       "isoDate": "2026-08-26T07:08:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、保ち合いゾーンで押し目と天井の攻防：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
-      "published": "2026-08-26 07:08:55",
-      "isoDate": "2026-08-26T07:08:55Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platforms、170億ドルのSNS大規模和解に合意",
+      "title": "Meta Platforms、18億ドルの大規模SNS訴訟和解に合意",
       "link": "https://jp.investing.com/news/stock-market-news/article-1661657",
       "published": "2026-08-26 13:19:04",
       "isoDate": "2026-08-26T13:19:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Metaが子ども被害訴訟で10年間に180億ドルの和解に合意",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1661637",
-      "published": "2026-08-26 13:10:18",
-      "isoDate": "2026-08-26T13:10:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コディアック・AIが自律走行トラックにアドバンスト・マイクロ・デバイセズのEPYCプロセッサを採用",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1661626",
-      "published": "2026-08-26 13:07:02",
-      "isoDate": "2026-08-26T13:07:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,6 +118,20 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "今なら週2ドル以下でInvestingProに加入可能。終了間近の夏のセールに急げ！",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660966",
+      "published": "2026-08-26 05:15:28",
+      "isoDate": "2026-08-26T05:15:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（前引け）～日経平均は続伸、アドバンテストが1銘柄で約164円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1660917",
+      "published": "2026-08-26 03:30:15",
+      "isoDate": "2026-08-26T03:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アジアの半導体株、Nvidia決算を前に反発――AIトレードが正念場",
       "link": "https://jp.investing.com/news/stock-market-news/article-1660912",
       "published": "2026-08-26 03:10:32",
@@ -145,5 +145,62 @@
       "isoDate": "2026-08-25T22:18:36Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "みずほ、仮想通貨反発の質を分析　現物・ETF主導でレバ低水準",
+      "link": "https://coinpost.jp/?p=733424",
+      "published": "Wed, 26 Aug 2026 16:19:00 +0900",
+      "isoDate": "2026-08-26T07:19:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレット狙う偽装アドオン40件、Firefox公式ストアで発覚",
+      "link": "https://coinpost.jp/?p=733325",
+      "published": "Wed, 26 Aug 2026 13:55:36 +0900",
+      "isoDate": "2026-08-26T04:55:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ一族関与のワールド・リバティ、ステーブルコインUSD1をカントンでローンチ",
+      "link": "https://coinpost.jp/?p=733252",
+      "published": "Wed, 26 Aug 2026 13:00:33 +0900",
+      "isoDate": "2026-08-26T04:00:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米国債買い戻しでドル安警戒、ビットコインETF「IBIT」急伸",
+      "link": "https://coinpost.jp/?p=733274",
+      "published": "Wed, 26 Aug 2026 10:49:44 +0900",
+      "isoDate": "2026-08-26T01:49:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケンに「ダスト攻撃」、制裁対象HTXウォレットからの送金でユーザー口座凍結",
+      "link": "https://coinpost.jp/?p=733229",
+      "published": "Wed, 26 Aug 2026 10:30:25 +0900",
+      "isoDate": "2026-08-26T01:30:25Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン8万ドル突破後も底堅く推移　現物買い優勢で上昇基調を維持｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=733210",
+      "published": "Wed, 26 Aug 2026 09:20:17 +0900",
+      "isoDate": "2026-08-26T00:20:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、ビットコイン下落より資金調達力にリスク＝レポート分析",
+      "link": "https://coinpost.jp/?p=733212",
+      "published": "Wed, 26 Aug 2026 08:15:22 +0900",
+      "isoDate": "2026-08-25T23:15:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーロン率いる「X」、投稿から仮想通貨売買できるボタンを近日追加へ",
+      "link": "https://coinpost.jp/?p=733213",
+      "published": "Wed, 26 Aug 2026 07:00:24 +0900",
+      "isoDate": "2026-08-25T22:00:24Z"
+    }
+  ]
 }
