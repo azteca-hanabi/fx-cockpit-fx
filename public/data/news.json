@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-26T16:00:30Z",
-  "last_checked": "2026-08-26T16:00:30Z",
+  "updated": "2026-08-26T18:17:24Z",
+  "last_checked": "2026-08-26T18:17:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Meta Platforms、18億ドルの大規模SNS訴訟和解に合意",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1661657",
-      "published": "2026-08-26 13:19:04",
-      "isoDate": "2026-08-26T13:19:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、経営幹部再編で新たに2名の社長を任命",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1661483",
       "published": "2026-08-26 12:08:03",
@@ -101,6 +94,13 @@
       "link": "https://jp.investing.com/news/economy-news/article-1661116",
       "published": "2026-08-26 08:02:20",
       "isoDate": "2026-08-26T08:02:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアの決算発表を前に出遅れ株物色も続く【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1661093",
+      "published": "2026-08-26 07:45:13",
+      "isoDate": "2026-08-26T07:45:13Z"
     },
     {
       "source": "Investing.com 外為",
