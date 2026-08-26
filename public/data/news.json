@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-26T18:17:24Z",
-  "last_checked": "2026-08-26T18:17:24Z",
+  "updated": "2026-08-26T20:39:47Z",
+  "last_checked": "2026-08-26T20:39:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、200SMAを前に短期下落継続：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
+      "published": "2026-08-26 19:12:55",
+      "isoDate": "2026-08-26T19:12:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シルバー、68～70ドルのレンジで膠着：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
+      "published": "2026-08-26 19:12:53",
+      "isoDate": "2026-08-26T19:12:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、200SMA割れリスク急浮上：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-26 19:12:50",
+      "isoDate": "2026-08-26T19:12:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold $4,650付近で分配型パターン進行中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
+      "published": "2026-08-26 19:12:48",
+      "isoDate": "2026-08-26T19:12:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、$6.60割れで下落リスク拡大：今すぐ確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
+      "published": "2026-08-26 19:12:45",
+      "isoDate": "2026-08-26T19:12:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシと小麦先物、水曜日に数年ぶりの高値を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1662011",
+      "published": "2026-08-26 18:33:04",
+      "isoDate": "2026-08-26T18:33:04Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米原油在庫が増加、ガソリン・留出油在庫は減少",
@@ -29,48 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661644",
       "published": "2026-08-26 13:13:08",
       "isoDate": "2026-08-26T13:13:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CPCブレンド原油、9月の輸出量は日量150万バレルに設定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661543",
-      "published": "2026-08-26 12:30:18",
-      "isoDate": "2026-08-26T12:30:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フランス産軟質小麦のタンパク質含有量、過去平均を上回る－FranceAgriMer",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1661534",
-      "published": "2026-08-26 12:24:13",
-      "isoDate": "2026-08-26T12:24:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東停戦期待でホルムズ海峡リスクプレミアム解消、欧州天然ガス3%急落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1661156",
-      "published": "2026-08-26 08:43:37",
-      "isoDate": "2026-08-26T08:43:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油WTI、主要サポートで売買攻防中：今時間の水準を確認",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-26 07:09:05",
-      "isoDate": "2026-08-26T07:09:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銀が70.00ドル抵抗直下で膠着：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
-      "published": "2026-08-26 07:09:03",
-      "isoDate": "2026-08-26T07:09:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銅、MFI90超の買われすぎで$6.86手前が分岐点：今時間の水準",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
-      "published": "2026-08-26 07:08:57",
-      "isoDate": "2026-08-26T07:08:57Z"
     }
   ],
   "usdjpy_items": [
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バーンスタイン、ビットコイン30万ドル予想維持　「ディベースメント・トレード」を追い風に",
+      "link": "https://coinpost.jp/?p=733508",
+      "published": "Thu, 27 Aug 2026 05:00:20 +0900",
+      "isoDate": "2026-08-26T20:00:20Z"
+    },
     {
       "source": "CoinPost",
       "title": "みずほ、仮想通貨反発の質を分析　現物・ETF主導でレバ低水準",
