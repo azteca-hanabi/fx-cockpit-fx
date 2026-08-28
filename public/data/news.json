@@ -1,10 +1,59 @@
 {
-  "updated": "2026-08-28T05:33:14Z",
-  "last_checked": "2026-08-28T05:33:14Z",
+  "updated": "2026-08-28T18:24:28Z",
+  "last_checked": "2026-08-28T18:24:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "ウォーシュ議長のジャクソンホール講演を前に金価格が下落、週間でも下落へ",
+      "title": "ロブスタコーヒーの気候変動耐性に新研究が疑問を呈す",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1664906",
+      "published": "2026-08-28 17:56:50",
+      "isoDate": "2026-08-28T17:56:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、3週連続の週間上昇へ――3月高値から反落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1664502",
+      "published": "2026-08-28 11:39:44",
+      "isoDate": "2026-08-28T11:39:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、$70.40レジスタンス突破を試行中：今時間の攻防",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
+      "published": "2026-08-28 07:10:30",
+      "isoDate": "2026-08-28T07:10:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、一目雲内でレンジ継続中：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
+      "published": "2026-08-28 07:10:22",
+      "isoDate": "2026-08-28T07:10:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、90ドルの壁でレンジ攻防継続：最新シグナル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
+      "published": "2026-08-28 07:10:19",
+      "isoDate": "2026-08-28T07:10:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、レンジ内で調整リスク上昇中：最新シグナル確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
+      "published": "2026-08-28 07:10:17",
+      "isoDate": "2026-08-28T07:10:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、$4,654.9で天井形成リスク高まる：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
+      "published": "2026-08-28 07:10:12",
+      "isoDate": "2026-08-28T07:10:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウォーシュFRB議長のジャクソンホール講演を前に金価格は小動き",
       "link": "https://jp.investing.com/news/commodities-news/article-1664096",
       "published": "2026-08-28 03:18:06",
       "isoDate": "2026-08-28T03:18:06Z"
@@ -22,113 +71,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1663841",
       "published": "2026-08-27 20:50:07",
       "isoDate": "2026-08-27T20:50:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.589の狭いレンジで膠着中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658154",
-      "published": "2026-08-27 19:12:44",
-      "isoDate": "2026-08-27T19:12:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、70.10レジスタンス直下で膠着：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658155",
-      "published": "2026-08-27 19:12:41",
-      "isoDate": "2026-08-27T19:12:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油が雲抜け$83.90へ上昇、$84壁に注目：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-27 19:12:41",
-      "isoDate": "2026-08-27T19:12:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、$90抵抗帯に挑む攻防：最新シグナル更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658153",
-      "published": "2026-08-27 19:12:40",
-      "isoDate": "2026-08-27T19:12:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,650サポート攻防で弱気圧力が顕在化：最新シグナル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658152",
-      "published": "2026-08-27 19:12:31",
-      "isoDate": "2026-08-27T19:12:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、2022年半ば以来の最高値に到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1663636",
-      "published": "2026-08-27 16:30:04",
-      "isoDate": "2026-08-27T16:30:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、ロシア・ウクライナ輸出懸念で1カ月ぶり高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1663634",
-      "published": "2026-08-27 16:28:17",
-      "isoDate": "2026-08-27T16:28:17Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ウォーシュ議長のジャクソンホール講演を前に金価格が下落、週間でも下落へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1664096",
-      "published": "2026-08-28 03:18:06",
-      "isoDate": "2026-08-28T03:18:06Z"
+      "title": "NY外為：ドル反発、ウォーシュFRB議長はインフレ懸念表明、9月利上げ確率50％超に上昇",
+      "link": "https://jp.investing.com/news/forex-news/article-1664840",
+      "published": "2026-08-28 15:00:04",
+      "isoDate": "2026-08-28T15:00:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は反発、米ハイテク株高を受け上げ幅拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1664094",
-      "published": "2026-08-28 03:15:12",
-      "isoDate": "2026-08-28T03:15:12Z"
+      "title": "ウォーシュFRB議長、ジャクソンホール基調講演を開始",
+      "link": "https://jp.investing.com/news/economy-news/article-1664761",
+      "published": "2026-08-28 14:02:08",
+      "isoDate": "2026-08-28T14:02:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウォール街先物が横ばい、Nvidia主導の上昇後―ウォーシュ議長のジャクソンホール講演に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1664016",
-      "published": "2026-08-28 00:54:24",
-      "isoDate": "2026-08-28T00:54:24Z"
+      "title": "ドル高止まり、ウォーシュFRB議長のタカ派発言織り込む＝ジャクソンホール講演",
+      "link": "https://jp.investing.com/news/forex-news/article-1664733",
+      "published": "2026-08-28 13:45:04",
+      "isoDate": "2026-08-28T13:45:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は27円安でスタート、オリックスや住友電工などが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1664010",
-      "published": "2026-08-28 00:45:08",
-      "isoDate": "2026-08-28T00:45:08Z"
+      "title": "モルガン・スタンレー、SpaceXのルイジアナ州1,000億ドル施設を軌道上AIの未評価触媒と見なす",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1664659",
+      "published": "2026-08-28 13:06:20",
+      "isoDate": "2026-08-28T13:06:20Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア、AIクラウド企業との収益分配契約を一時停止＝WSJ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1663965",
-      "published": "2026-08-27 23:31:43",
-      "isoDate": "2026-08-27T23:31:43Z"
+      "title": "プレマーケット動向：ギャップが13%急騰、ペイパル・ホールディングスは買収破談報道で急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1664390",
+      "published": "2026-08-28 10:12:41",
+      "isoDate": "2026-08-28T10:12:41Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "27日の米国市場ダイジェスト：米国株式市場は反発、AIへの期待再燃でハイテクがけん引",
-      "link": "https://jp.investing.com/news/forex-news/article-1663926",
-      "published": "2026-08-27 22:30:05",
-      "isoDate": "2026-08-27T22:30:05Z"
+      "title": "ウォーシュ発言、Nvidia、原油に注目――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1664264",
+      "published": "2026-08-28 07:58:52",
+      "isoDate": "2026-08-28T07:58:52Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "+54%、+52%、+40%：AIが選んだ決算勝ち銘柄が上昇を続けている",
+      "title": "キオクシア---大幅反落、サンディスクとの5兆円投資計画を発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1664137",
+      "published": "2026-08-28 05:30:16",
+      "isoDate": "2026-08-28T05:30:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場の日経平均は710円高でスタート、太陽誘電やNECなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1664105",
+      "published": "2026-08-28 04:00:15",
+      "isoDate": "2026-08-28T04:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "54%高、52%高、40%高の急上昇株が続出、AI予測が選んだ「勝ち組株」",
       "link": "https://jp.investing.com/news/stock-market-news/article-1663931",
       "published": "2026-08-27 22:26:57",
       "isoDate": "2026-08-27T22:26:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは105.56ドル高、AIへの期待再燃でハイテクがけん引",
-      "link": "https://jp.investing.com/news/forex-news/article-1663872",
-      "published": "2026-08-27 21:15:04",
-      "isoDate": "2026-08-27T21:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,30 @@
       "link": "https://jp.investing.com/news/earnings/article-1663788",
       "published": "2026-08-27 20:21:35",
       "isoDate": "2026-08-27T20:21:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI予測的中で13％急騰、セールスフォース株の上昇を予見できた理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1662243",
-      "published": "2026-08-26 22:07:54",
-      "isoDate": "2026-08-26T22:07:54Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米加州、公職者ミームコイン発行禁止法案が上下院通過",
+      "link": "https://coinpost.jp/?p=734099",
+      "published": "Fri, 28 Aug 2026 17:39:40 +0900",
+      "isoDate": "2026-08-28T08:39:40Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、1週間で23.5％高　金額ベースで史上最大＝ギャラクシー・リサーチ",
+      "link": "https://coinpost.jp/?p=734066",
+      "published": "Fri, 28 Aug 2026 16:28:49 +0900",
+      "isoDate": "2026-08-28T07:28:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビッサム、誤配布ビットコイン返還訴訟で1審勝訴",
+      "link": "https://coinpost.jp/?p=734041",
+      "published": "Fri, 28 Aug 2026 15:13:08 +0900",
+      "isoDate": "2026-08-28T06:13:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "XRPトレジャリー企業エバーノース、米SECの届出書効力発生でナスダック上場へ前進",
@@ -194,27 +215,6 @@
       "link": "https://coinpost.jp/?p=733839",
       "published": "Fri, 28 Aug 2026 07:15:42 +0900",
       "isoDate": "2026-08-27T22:15:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場ジーニアス・グループ、5年間で1300億円超のビットコイン準備金を構築へ",
-      "link": "https://coinpost.jp/?p=733840",
-      "published": "Fri, 28 Aug 2026 06:40:45 +0900",
-      "isoDate": "2026-08-27T21:40:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米証券大手シュワブ、仮想通貨取引でソラナ・アバランチ・チェーンリンク追加へ",
-      "link": "https://coinpost.jp/?p=733841",
-      "published": "Fri, 28 Aug 2026 06:00:47 +0900",
-      "isoDate": "2026-08-27T21:00:47Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBI、インドネシアのアジャイブに430億円出資し仮想通貨で協業へ",
-      "link": "https://coinpost.jp/?p=733842",
-      "published": "Fri, 28 Aug 2026 05:45:50 +0900",
-      "isoDate": "2026-08-27T20:45:50Z"
     }
   ]
 }
