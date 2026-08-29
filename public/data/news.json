@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29T17:48:58Z",
-  "last_checked": "2026-08-29T17:48:58Z",
+  "updated": "2026-08-29T20:43:16Z",
+  "last_checked": "2026-08-29T20:43:16Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "米財務長官ベッセント氏、円相場の変動が世界市場に波及するリスクを警告",
+      "link": "https://jp.investing.com/news/economy-news/article-1665133",
+      "published": "2026-08-29 17:23:31",
+      "isoDate": "2026-08-29T17:23:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ビットコインが7万8000ドルを割り込む、「デジタルゴールド」論に新たな試練",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1665112",
       "published": "2026-08-29 09:19:14",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1665098",
       "published": "2026-08-29 07:15:04",
       "isoDate": "2026-08-29T07:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OpenAIがSpaceXによる買収を受けCursorとの提携終了へ",
-      "link": "https://jp.investing.com/news/company-news/article-1665072",
-      "published": "2026-08-29 03:19:10",
-      "isoDate": "2026-08-29T03:19:10Z"
     },
     {
       "source": "Investing.com 外為",
