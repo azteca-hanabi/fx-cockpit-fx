@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-30T13:55:53Z",
-  "last_checked": "2026-08-30T13:55:53Z",
+  "updated": "2026-08-30T18:00:05Z",
+  "last_checked": "2026-08-30T18:00:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,21 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "終了まで24時間を切りました：InvestingProが55%オフ、この機会をお見逃しなく！",
+      "title": "7月から+57%上昇、AIが選んだソフトウェア大手の勢いが止まらない",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665200",
+      "published": "2026-08-30 13:51:38",
+      "isoDate": "2026-08-30T13:51:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国・イラン紛争は世界をどう変えるか",
+      "link": "https://jp.investing.com/news/economy-news/article-1665199",
+      "published": "2026-08-30 13:41:58",
+      "isoDate": "2026-08-30T13:41:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "InvestingPro、55%オフ：残り24時間を切った限定サマーセール",
       "link": "https://jp.investing.com/news/stock-market-news/article-1665166",
       "published": "2026-08-30 10:07:54",
       "isoDate": "2026-08-30T10:07:54Z"
@@ -101,13 +115,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1665186",
       "published": "2026-08-30 08:56:50",
       "isoDate": "2026-08-30T08:56:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ソフトラインズ株、長期投資家にとっての妙味はどこにあるか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1665158",
-      "published": "2026-08-30 02:45:55",
-      "isoDate": "2026-08-30T02:45:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1665111",
       "published": "2026-08-29 09:00:04",
       "isoDate": "2026-08-29T09:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "BioNTech、mRNA試験失敗で10%下落——モデルナとの明暗が鮮明に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1664727",
-      "published": "2026-08-28 13:39:49",
-      "isoDate": "2026-08-28T13:39:49Z"
     }
   ],
   "btc_items": [
