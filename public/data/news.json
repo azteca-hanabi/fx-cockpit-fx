@@ -1,41 +1,62 @@
 {
-  "updated": "2026-08-31T16:19:17Z",
-  "last_checked": "2026-08-31T16:19:17Z",
+  "updated": "2026-08-31T21:34:29Z",
+  "last_checked": "2026-08-31T21:34:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物、利益確定売りで高値から反落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666136",
+      "published": "2026-08-31 19:37:41",
+      "isoDate": "2026-08-31T19:37:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トルコの黒海穀物計画提案を受け、CBOT小麦先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666135",
+      "published": "2026-08-31 19:32:11",
+      "isoDate": "2026-08-31T19:32:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、USD 66.80の攻防が焦点：リアルタイム更新中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
+      "published": "2026-08-31 19:16:55",
+      "isoDate": "2026-08-31T19:16:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "WTI原油、88ドル手前でダブルトップ警戒：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
+      "published": "2026-08-31 19:16:36",
+      "isoDate": "2026-08-31T19:16:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、$92.38フィボナッチ壁に挑む：今時間の注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
+      "published": "2026-08-31 19:16:09",
+      "isoDate": "2026-08-31T19:16:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅、6.56～6.78ドルのレンジ膠着でブレイク待ち：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666126",
+      "published": "2026-08-31 19:16:05",
+      "isoDate": "2026-08-31T19:16:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、5時間足で急落加速-重要サポート攻防：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
+      "published": "2026-08-31 19:16:03",
+      "isoDate": "2026-08-31T19:16:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米軍のイラン攻撃を受け、欧州天然ガス価格が急騰",
       "link": "https://jp.investing.com/news/commodities-news/article-1665556",
       "published": "2026-08-31 10:13:22",
       "isoDate": "2026-08-31T10:13:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油WTI、$87.70レジスタンスに急伸中：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
-      "published": "2026-08-31 07:12:06",
-      "isoDate": "2026-08-31T07:12:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金、ダブルトップ崩壊で6.2%急落：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
-      "published": "2026-08-31 07:11:45",
-      "isoDate": "2026-08-31T07:11:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、66.475割れリスク急浮上：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
-      "published": "2026-08-31 07:11:42",
-      "isoDate": "2026-08-31T07:11:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、91.50ドル手前で雲上抜け強気継続：最新シグナル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
-      "published": "2026-08-31 07:11:38",
-      "isoDate": "2026-08-31T07:11:38Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -50,27 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1665243",
       "published": "2026-08-31 00:16:30",
       "isoDate": "2026-08-31T00:16:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物、中国の需要増加を受けて契約最高値を更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1664943",
-      "published": "2026-08-28 20:09:12",
-      "isoDate": "2026-08-28T20:09:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米エネルギーリグ稼働数、588基で横ばい＝ベーカー・ヒューズ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1664939",
-      "published": "2026-08-28 19:51:58",
-      "isoDate": "2026-08-28T19:51:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油WTIが200SMAと50SMAに挟まれ膠着：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1658156",
-      "published": "2026-08-28 19:16:54",
-      "isoDate": "2026-08-28T19:16:54Z"
     }
   ],
   "usdjpy_items": [
@@ -148,7 +148,7 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "ストラテジー、2カ月ぶりビットコイン購入再開　590億円相当",
+      "title": "ストラテジー、2カ月ぶりにビットコイン購入再開　590億円相当",
       "link": "https://coinpost.jp/?p=734476",
       "published": "Mon, 31 Aug 2026 21:20:45 +0900",
       "isoDate": "2026-08-31T12:20:45Z"
