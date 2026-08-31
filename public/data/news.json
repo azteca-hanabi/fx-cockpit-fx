@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-30T23:24:24Z",
-  "last_checked": "2026-08-30T23:24:24Z",
+  "updated": "2026-08-31T01:31:19Z",
+  "last_checked": "2026-08-31T01:31:19Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウォーシュ発言が利上げ観測を再燃、急落後に金価格が下げ止まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1665267",
+      "published": "2026-08-31 01:03:49",
+      "isoDate": "2026-08-31T01:03:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米軍がラーラク島のイラン発射台を攻撃、原油価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1665243",
+      "published": "2026-08-31 00:16:30",
+      "isoDate": "2026-08-31T00:16:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆先物、中国の需要増加を受けて契約最高値を更新",
@@ -57,29 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1664906",
       "published": "2026-08-28 17:56:50",
       "isoDate": "2026-08-28T17:56:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、3週連続の週間上昇へ――3月高値から反落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1664502",
-      "published": "2026-08-28 11:39:44",
-      "isoDate": "2026-08-28T11:39:44Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ウォーシュFRB議長のジャクソンホール講演を前に金価格は小動き",
-      "link": "https://jp.investing.com/news/commodities-news/article-1664096",
-      "published": "2026-08-28 03:18:06",
-      "isoDate": "2026-08-28T03:18:06Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part2オンコリス、シリコンスタ、エコモットなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1665224",
-      "published": "2026-08-30 22:45:03",
-      "isoDate": "2026-08-30T22:45:03Z"
+      "title": "ウォーシュ発言が利上げ観測を再燃、急落後に金価格が下げ止まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1665267",
+      "published": "2026-08-31 01:03:49",
+      "isoDate": "2026-08-31T01:03:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランとの緊張再燃で米株価指数先物が下落、原油急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665244",
+      "published": "2026-08-31 00:32:22",
+      "isoDate": "2026-08-31T00:32:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体やAI関連からソフトウェアや金融株へシフトか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665233",
+      "published": "2026-08-31 00:00:06",
+      "isoDate": "2026-08-31T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシアＨＤ---煮詰まり感が台頭す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665232",
+      "published": "2026-08-31 00:00:06",
+      "isoDate": "2026-08-31T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 8/31",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665231",
+      "published": "2026-08-30 23:45:05",
+      "isoDate": "2026-08-30T23:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ハイテク株安を映して売り先行スタートへ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1665228",
+      "published": "2026-08-30 23:30:04",
+      "isoDate": "2026-08-30T23:30:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,45 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "7月から+57%上昇、AIが選んだソフトウェア大手の勢いが止まらない",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1665200",
-      "published": "2026-08-30 13:51:38",
-      "isoDate": "2026-08-30T13:51:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国・イラン紛争は世界をどう変えるか",
-      "link": "https://jp.investing.com/news/economy-news/article-1665199",
-      "published": "2026-08-30 13:41:58",
-      "isoDate": "2026-08-30T13:41:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "InvestingPro、55%オフ：残り24時間を切った限定サマーセール",
+      "title": "残り24時間未満：InvestingProを55%オフで手に入れるチャンス",
       "link": "https://jp.investing.com/news/stock-market-news/article-1665166",
       "published": "2026-08-30 10:07:54",
       "isoDate": "2026-08-30T10:07:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週の注目アナリスト評価まとめ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1665192",
-      "published": "2026-08-30 10:00:02",
-      "isoDate": "2026-08-30T10:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがNASAの43億ドル規模のローマン宇宙望遠鏡を打ち上げ",
-      "link": "https://jp.investing.com/news/economy-news/article-1665191",
-      "published": "2026-08-30 09:57:47",
-      "isoDate": "2026-08-30T09:57:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米財務長官ベッセント氏、円相場の変動が世界市場に波及するリスクを警告",
-      "link": "https://jp.investing.com/news/economy-news/article-1665133",
-      "published": "2026-08-29 17:23:31",
-      "isoDate": "2026-08-29T17:23:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -236,20 +236,6 @@
       "link": "https://coinpost.jp/?p=734142",
       "published": "Sat, 29 Aug 2026 06:15:42 +0900",
       "isoDate": "2026-08-28T21:15:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "USDC発行企業サークル、英チェルシーとスポンサー契約",
-      "link": "https://coinpost.jp/?p=734135",
-      "published": "Sat, 29 Aug 2026 05:00:35 +0900",
-      "isoDate": "2026-08-28T20:00:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米加州、公職者ミームコイン発行禁止法案が上下院通過",
-      "link": "https://coinpost.jp/?p=734099",
-      "published": "Fri, 28 Aug 2026 17:39:40 +0900",
-      "isoDate": "2026-08-28T08:39:40Z"
     }
   ]
 }
