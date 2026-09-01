@@ -1,10 +1,17 @@
 {
-  "updated": "2026-09-01T01:07:08Z",
-  "last_checked": "2026-09-01T01:07:08Z",
+  "updated": "2026-09-01T06:39:35Z",
+  "last_checked": "2026-09-01T06:39:35Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランへの追加攻撃を警告、原油価格が続伸",
+      "title": "イランへの攻撃再開でインフレリスク高まり、金は2日間の下落後に安定",
+      "link": "https://jp.investing.com/news/commodities-news/article-1666350",
+      "published": "2026-09-01 01:37:57",
+      "isoDate": "2026-09-01T01:37:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイランへの追加攻撃を警告、原油価格が上昇を継続",
       "link": "https://jp.investing.com/news/commodities-news/article-1666327",
       "published": "2026-09-01 00:43:30",
       "isoDate": "2026-09-01T00:43:30Z"
@@ -64,50 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1665556",
       "published": "2026-08-31 10:13:22",
       "isoDate": "2026-08-31T10:13:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格は下落、ただし8月は1月以来最大の月間上昇へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1665267",
-      "published": "2026-08-31 01:03:49",
-      "isoDate": "2026-08-31T01:03:49Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント米財務長官、日本に財政健全化と利上げへの道筋提示を要求",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666323",
-      "published": "2026-09-01 00:32:33",
-      "isoDate": "2026-09-01T00:32:33Z"
+      "title": "日経平均は96円安、金利上昇が警戒材料に",
+      "link": "https://jp.investing.com/news/forex-news/article-1666421",
+      "published": "2026-09-01 05:00:15",
+      "isoDate": "2026-09-01T05:00:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は足元で急速に持ち直す",
-      "link": "https://jp.investing.com/news/forex-news/article-1666304",
-      "published": "2026-09-01 00:15:09",
-      "isoDate": "2026-09-01T00:15:09Z"
+      "title": "米国株見通し：下げ渋りか、AI関連の決算発表を注視",
+      "link": "https://jp.investing.com/news/forex-news/article-1666417",
+      "published": "2026-09-01 05:00:13",
+      "isoDate": "2026-09-01T05:00:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比110円高の65890円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666305",
-      "published": "2026-09-01 00:15:09",
-      "isoDate": "2026-09-01T00:15:09Z"
+      "title": "円が160円近辺で推移、ベッセント氏が日銀利上げを支持",
+      "link": "https://jp.investing.com/news/forex-news/article-1666407",
+      "published": "2026-09-01 04:25:06",
+      "isoDate": "2026-09-01T04:25:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体やAI関連のリバウンドを見極め",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666290",
-      "published": "2026-08-31 23:45:06",
-      "isoDate": "2026-08-31T23:45:06Z"
+      "title": "NvidiaがMediaTekに35億ドル投資、株価が急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1666360",
+      "published": "2026-09-01 01:47:08",
+      "isoDate": "2026-09-01T01:47:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は続落、対イラン紛争の長期化を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666273",
-      "published": "2026-08-31 23:15:05",
-      "isoDate": "2026-08-31T23:15:05Z"
+      "title": "日経平均は426円安でスタート、SUMCOや東エレクなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1666312",
+      "published": "2026-09-01 00:30:09",
+      "isoDate": "2026-09-01T00:30:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "9月のAIおすすめ銘柄リストが数時間後に公開予定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1666264",
+      "published": "2026-08-31 22:36:07",
+      "isoDate": "2026-08-31T22:36:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,13 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "夏のセール最終日、InvestingProに55%オフで入会する最後のチャンス",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1665202",
-      "published": "2026-08-30 14:27:23",
-      "isoDate": "2026-08-30T14:27:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "7月から57％急騰、AIが予見した「セールスフォース株の急反発」",
       "link": "https://jp.investing.com/news/stock-market-news/article-1665200",
       "published": "2026-08-30 13:51:38",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド、クラーケン親会社ペイワードと米国進出を協議＝報道",
+      "link": "https://coinpost.jp/?p=734612",
+      "published": "Tue, 01 Sep 2026 14:22:18 +0900",
+      "isoDate": "2026-09-01T05:22:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イオレ、ハイパーリキッド追加取得完了　累計1億円に到達",
+      "link": "https://coinpost.jp/?p=734572",
+      "published": "Tue, 01 Sep 2026 10:57:08 +0900",
+      "isoDate": "2026-09-01T01:57:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストライブ、先週1800BTCのビットコインを買い増し",
+      "link": "https://coinpost.jp/?p=734507",
+      "published": "Tue, 01 Sep 2026 10:27:13 +0900",
+      "isoDate": "2026-09-01T01:27:13Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットマイン、先週5万3501ETHのイーサリアムを買い増し",
@@ -187,27 +208,6 @@
       "link": "https://coinpost.jp/?p=734296",
       "published": "Mon, 31 Aug 2026 11:11:46 +0900",
       "isoDate": "2026-08-31T02:11:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイビット、スペースXとエヌビディアの無期限先物オプション開始へ",
-      "link": "https://coinpost.jp/?p=734232",
-      "published": "Mon, 31 Aug 2026 08:23:33 +0900",
-      "isoDate": "2026-08-30T23:23:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン実現時価総額、週間約7360億円増　資金流入の兆候＝アナリスト",
-      "link": "https://coinpost.jp/?p=734227",
-      "published": "Mon, 31 Aug 2026 07:23:19 +0900",
-      "isoDate": "2026-08-30T22:23:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン1300万円手前で上げ渋り、ジャクソンホール後のイールドカーブが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=734100",
-      "published": "Sun, 30 Aug 2026 11:30:49 +0900",
-      "isoDate": "2026-08-30T02:30:49Z"
     }
   ]
 }
