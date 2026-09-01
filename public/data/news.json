@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T19:47:24Z",
-  "last_checked": "2026-09-01T19:47:24Z",
+  "updated": "2026-09-01T22:29:05Z",
+  "last_checked": "2026-09-01T22:29:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "IONQが$37.85サポート割れ、下降加速中：最新レベル確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1666006",
-      "published": "2026-09-01 19:13:51",
-      "isoDate": "2026-09-01T19:13:51Z"
+      "title": "NY株式：NYダウは419.02ドル安、対イラン紛争激化による原油高を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1667431",
+      "published": "2026-09-01 21:30:03",
+      "isoDate": "2026-09-01T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "テスラが$356付近でレンジ入り、上値重い：毎時更新中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1666003",
-      "published": "2026-09-01 19:12:51",
-      "isoDate": "2026-09-01T19:12:51Z"
+      "title": "アップル、テルナス氏とクック氏の報酬をCEO交代に際して発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667406",
+      "published": "2026-09-01 20:56:32",
+      "isoDate": "2026-09-01T20:56:32Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Micronが高出来高ゾーンで膠着：毎時更新",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1665999",
-      "published": "2026-09-01 19:12:32",
-      "isoDate": "2026-09-01T19:12:32Z"
+      "title": "アップルの新CEO・ターナス氏、初のメモで「驚異的な」iPhone発表を予告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667265",
+      "published": "2026-09-01 17:50:42",
+      "isoDate": "2026-09-01T17:50:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ストラテジー、MSCIの指数除外提案に反対表明",
+      "link": "https://coinpost.jp/?p=734803",
+      "published": "Wed, 02 Sep 2026 06:05:49 +0900",
+      "isoDate": "2026-09-01T21:05:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケン親会社、ロンドン証券取引所と英国株トークン化で提携",
+      "link": "https://coinpost.jp/?p=734791",
+      "published": "Wed, 02 Sep 2026 05:00:43 +0900",
+      "isoDate": "2026-09-01T20:00:43Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "金融庁、仮想通貨関連サービス「IZAKA-YA」運営会社に警告書　無登録で交換業",
       "link": "https://coinpost.jp/?p=734772",
       "published": "Tue, 01 Sep 2026 18:55:08 +0900",
@@ -187,27 +201,6 @@
       "link": "https://coinpost.jp/?p=734507",
       "published": "Tue, 01 Sep 2026 10:27:13 +0900",
       "isoDate": "2026-09-01T01:27:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットマイン、先週5万3501ETHのイーサリアムを買い増し",
-      "link": "https://coinpost.jp/?p=734487",
-      "published": "Tue, 01 Sep 2026 09:02:27 +0900",
-      "isoDate": "2026-09-01T00:02:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、2カ月ぶりにビットコイン購入再開　590億円相当",
-      "link": "https://coinpost.jp/?p=734476",
-      "published": "Mon, 31 Aug 2026 21:20:45 +0900",
-      "isoDate": "2026-08-31T12:20:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁27年度予算134億円増を要求、暗号資産監視で新室設置へ",
-      "link": "https://coinpost.jp/?p=734395",
-      "published": "Mon, 31 Aug 2026 14:50:38 +0900",
-      "isoDate": "2026-08-31T05:50:38Z"
     }
   ]
 }
