@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-02T13:49:26Z",
-  "last_checked": "2026-09-02T13:49:26Z",
+  "updated": "2026-09-02T17:45:38Z",
+  "last_checked": "2026-09-02T17:45:38Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫、先週は450万バレル減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668547",
+      "published": "2026-09-02 14:53:20",
+      "isoDate": "2026-09-02T14:53:20Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物、数年ぶり高値後に続落見込み",
@@ -64,16 +71,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1667580",
       "published": "2026-09-02 01:57:59",
       "isoDate": "2026-09-02T01:57:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランの緊張再燃を受けた最近の上昇後、原油価格は小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1667556",
-      "published": "2026-09-02 01:03:24",
-      "isoDate": "2026-09-02T01:03:24Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "Palantir株急落、GoogleがAI防衛市場に参入",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1668584",
+      "published": "2026-09-02 16:25:45",
+      "isoDate": "2026-09-02T16:25:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1668555",
+      "published": "2026-09-02 15:13:42",
+      "isoDate": "2026-09-02T15:13:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Palantirの株価が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1668500",
+      "published": "2026-09-02 14:22:14",
+      "isoDate": "2026-09-02T14:22:14Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米8月ADP雇用統計は予想外に伸び鈍化、ドル伸び悩む",
@@ -83,24 +104,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップルの折りたたみiPhoneは140億ドルの機会となるか？モルガン・スタンレーが分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1668268",
-      "published": "2026-09-02 12:45:00",
-      "isoDate": "2026-09-02T12:45:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ファン・フンCEO、G20イベントでAIを「偉大な平等化装置」と称賛",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1668223",
       "published": "2026-09-02 12:25:02",
       "isoDate": "2026-09-02T12:25:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "EquinixがNvidiaおよびTogether AIとともにAI推論プログラムを開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1668194",
-      "published": "2026-09-02 12:10:02",
-      "isoDate": "2026-09-02T12:10:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1667676",
       "published": "2026-09-02 05:29:09",
       "isoDate": "2026-09-02T05:29:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "金利高や地政学リスク高まりで全面安",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667617",
-      "published": "2026-09-02 03:15:12",
-      "isoDate": "2026-09-02T03:15:12Z"
     },
     {
       "source": "Investing.com 外為",
