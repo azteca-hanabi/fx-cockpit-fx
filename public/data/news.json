@@ -1,17 +1,52 @@
 {
-  "updated": "2026-09-02T04:58:52Z",
-  "last_checked": "2026-09-02T04:58:52Z",
+  "updated": "2026-09-02T09:29:00Z",
+  "last_checked": "2026-09-02T09:29:00Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格下落、イラン情勢緊迫化で原油高・利上げ観測強まる",
+      "title": "WTI原油、RSI77超の過熱でパラボリック上昇：毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
+      "published": "2026-09-02 07:09:38",
+      "isoDate": "2026-09-02T07:09:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、RSI76超・MFI99で過熱警報：今時間の注目レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
+      "published": "2026-09-02 07:08:50",
+      "isoDate": "2026-09-02T07:08:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Silver、雲割れで中期ベア転換：最新レベルを確認",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
+      "published": "2026-09-02 07:08:31",
+      "isoDate": "2026-09-02T07:08:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、200SMAと38.2%フィボナッチで攻防中：最新レベル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666126",
+      "published": "2026-09-02 07:08:17",
+      "isoDate": "2026-09-02T07:08:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Gold、RSI急落で売られすぎ-転換点を毎時更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
+      "published": "2026-09-02 07:07:50",
+      "isoDate": "2026-09-02T07:07:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が3週間ぶり安値、イラン緊張でFRB利上げ懸念高まる",
       "link": "https://jp.investing.com/news/commodities-news/article-1667580",
       "published": "2026-09-02 01:57:59",
       "isoDate": "2026-09-02T01:57:59Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油3日続伸、ブレント原油が96ドル超え――米イラン衝突激化で供給懸念",
+      "title": "米国・イラン緊張で供給懸念高まり、原油価格3日続伸",
       "link": "https://jp.investing.com/news/commodities-news/article-1667556",
       "published": "2026-09-02 01:03:24",
       "isoDate": "2026-09-02T01:03:24Z"
@@ -36,57 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1667299",
       "published": "2026-09-01 19:21:03",
       "isoDate": "2026-09-01T19:21:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold急落$4,378でサポート攻防：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
-      "published": "2026-09-01 19:12:53",
-      "isoDate": "2026-09-01T19:12:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、移動平均線・雲を下抜け弱気継続：最新レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666126",
-      "published": "2026-09-01 19:12:53",
-      "isoDate": "2026-09-01T19:12:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油がRSI76.9で過熱：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
-      "published": "2026-09-01 19:12:50",
-      "isoDate": "2026-09-01T19:12:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、雲下抜けでベア転換：リアルタイム更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
-      "published": "2026-09-01 19:12:49",
-      "isoDate": "2026-09-01T19:12:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent原油、RSI74超で買われすぎ警戒：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
-      "published": "2026-09-01 19:12:38",
-      "isoDate": "2026-09-01T19:12:38Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国とイランが再び攻撃を応酬、ホルムズ海峡の緊張が高まる",
-      "link": "https://jp.investing.com/news/economy-news/article-1667632",
-      "published": "2026-09-02 04:06:48",
-      "isoDate": "2026-09-02T04:06:48Z"
+      "title": "金は下げ止まりからもち合いに移行するか？　サンワード証券の陳氏",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667866",
+      "published": "2026-09-02 08:30:15",
+      "isoDate": "2026-09-02T08:30:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅に3日続落、ソフトバンクGが1銘柄で約248円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667627",
-      "published": "2026-09-02 03:45:14",
-      "isoDate": "2026-09-02T03:45:14Z"
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続落、ソフトバンクGやアドバンテストが2銘柄で約474円分押下",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667829",
+      "published": "2026-09-02 08:00:13",
+      "isoDate": "2026-09-02T08:00:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1732円安、米経済指標やブロードコム決算などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1667686",
+      "published": "2026-09-02 06:00:15",
+      "isoDate": "2026-09-02T06:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI予測で知る「日本株の勝ち組」、40％超え金融株に続く9月の20銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667676",
+      "published": "2026-09-02 05:29:09",
+      "isoDate": "2026-09-02T05:29:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1961円安、金利上昇でリスク回避ムード強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1667660",
+      "published": "2026-09-02 05:00:14",
+      "isoDate": "2026-09-02T05:00:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "住友金属鉱山の株価が本日急落した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1667605",
-      "published": "2026-09-02 02:55:01",
-      "isoDate": "2026-09-02T02:55:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は1019円安でスタート、住友鉱やソフトバンクGなどが下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1667535",
       "published": "2026-09-02 00:45:08",
       "isoDate": "2026-09-02T00:45:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "個別銘柄戦略: 伊藤園やラクスに注目",
-      "link": "https://jp.investing.com/news/forex-news/article-1667519",
-      "published": "2026-09-02 00:15:08",
-      "isoDate": "2026-09-02T00:15:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは419.02ドル安、対イラン紛争激化による原油高を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1667431",
-      "published": "2026-09-01 21:30:03",
-      "isoDate": "2026-09-01T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットフィネックス証券、メタプラネット等株連動商品5種上場",
+      "link": "https://coinpost.jp/?p=735064",
+      "published": "Wed, 02 Sep 2026 17:30:00 +0900",
+      "isoDate": "2026-09-02T08:30:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "TDコーウェン、ビットコイン年末目標9万7500ドルに下方修正＝報道",
+      "link": "https://coinpost.jp/?p=735024",
+      "published": "Wed, 02 Sep 2026 15:50:22 +0900",
+      "isoDate": "2026-09-02T06:50:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ラザルス関連ウォレット、ハイパーリキッド経由で3000万ドル超を移動",
+      "link": "https://coinpost.jp/?p=734904",
+      "published": "Wed, 02 Sep 2026 14:50:36 +0900",
+      "isoDate": "2026-09-02T05:50:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、監査性・所有分布などで高評価　主要3銘柄の分散性調査",
+      "link": "https://coinpost.jp/?p=734974",
+      "published": "Wed, 02 Sep 2026 14:15:56 +0900",
+      "isoDate": "2026-09-02T05:15:56Z"
+    },
     {
       "source": "CoinPost",
       "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
@@ -173,27 +201,6 @@
       "link": "https://coinpost.jp/?p=734799",
       "published": "Wed, 02 Sep 2026 09:33:08 +0900",
       "isoDate": "2026-09-02T00:33:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、MSCIの指数除外提案に反対表明",
-      "link": "https://coinpost.jp/?p=734803",
-      "published": "Wed, 02 Sep 2026 06:05:49 +0900",
-      "isoDate": "2026-09-01T21:05:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラーケン親会社、ロンドン証券取引所と英国株トークン化で提携",
-      "link": "https://coinpost.jp/?p=734791",
-      "published": "Wed, 02 Sep 2026 05:00:43 +0900",
-      "isoDate": "2026-09-01T20:00:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、仮想通貨関連サービス「IZAKA-YA」運営会社に警告書　無登録で交換業",
-      "link": "https://coinpost.jp/?p=734772",
-      "published": "Tue, 01 Sep 2026 18:55:08 +0900",
-      "isoDate": "2026-09-01T09:55:08Z"
     }
   ]
 }
