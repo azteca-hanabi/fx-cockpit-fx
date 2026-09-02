@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-02T00:28:40Z",
-  "last_checked": "2026-09-02T00:28:40Z",
+  "updated": "2026-09-02T04:58:52Z",
+  "last_checked": "2026-09-02T04:58:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格下落、イラン情勢緊迫化で原油高・利上げ観測強まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1667580",
+      "published": "2026-09-02 01:57:59",
+      "isoDate": "2026-09-02T01:57:59Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油3日続伸、ブレント原油が96ドル超え――米イラン衝突激化で供給懸念",
+      "link": "https://jp.investing.com/news/commodities-news/article-1667556",
+      "published": "2026-09-02 01:03:24",
+      "isoDate": "2026-09-02T01:03:24Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州ディーゼルマージンが記録的高水準、製油所問題が背景",
@@ -57,36 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
       "published": "2026-09-01 19:12:38",
       "isoDate": "2026-09-01T19:12:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "シカゴ小麦先物、3年半ぶりの高値に到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1667200",
-      "published": "2026-09-01 16:03:56",
-      "isoDate": "2026-09-01T16:03:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "シカゴ小麦先物、3年半ぶりの高値に到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1667197",
-      "published": "2026-09-01 15:59:34",
-      "isoDate": "2026-09-01T15:59:34Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：続落で4,375.54ドル、ウォーシュFRB議長のタカ派発言を受けた利上げ観測の高まりが継続し200日線割れ",
-      "link": "https://jp.investing.com/news/forex-news/article-1667472",
-      "published": "2026-09-01 23:00:05",
-      "isoDate": "2026-09-01T23:00:05Z"
+      "title": "米国とイランが再び攻撃を応酬、ホルムズ海峡の緊張が高まる",
+      "link": "https://jp.investing.com/news/economy-news/article-1667632",
+      "published": "2026-09-02 04:06:48",
+      "isoDate": "2026-09-02T04:06:48Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は続落、対イラン紛争激化による原油高を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667473",
-      "published": "2026-09-01 23:00:05",
-      "isoDate": "2026-09-01T23:00:05Z"
+      "title": "日経平均は大幅に3日続落、ソフトバンクGが1銘柄で約248円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667627",
+      "published": "2026-09-02 03:45:14",
+      "isoDate": "2026-09-02T03:45:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "金利高や地政学リスク高まりで全面安",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667617",
+      "published": "2026-09-02 03:15:12",
+      "isoDate": "2026-09-02T03:15:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "住友金属鉱山の株価が本日急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1667605",
+      "published": "2026-09-02 02:55:01",
+      "isoDate": "2026-09-02T02:55:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1019円安でスタート、住友鉱やソフトバンクGなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1667535",
+      "published": "2026-09-02 00:45:08",
+      "isoDate": "2026-09-02T00:45:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "個別銘柄戦略: 伊藤園やラクスに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1667519",
+      "published": "2026-09-02 00:15:08",
+      "isoDate": "2026-09-02T00:15:08Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,20 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、テルナス氏とクック氏の報酬をCEO交代に際して発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667406",
-      "published": "2026-09-01 20:56:32",
-      "isoDate": "2026-09-01T20:56:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルの新CEO・ターナス氏、初のメモで「驚異的な」iPhone発表を予告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667265",
-      "published": "2026-09-01 17:50:42",
-      "isoDate": "2026-09-01T17:50:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー株が下落、台湾でのインセンティブ報酬報道と半導体株売りが重荷",
       "link": "https://jp.investing.com/news/stock-market-news/article-1666900",
       "published": "2026-09-01 12:15:56",
@@ -118,10 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンクG出資のSBエナジー、米IPOを申請",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1666664",
-      "published": "2026-09-01 10:17:02",
-      "isoDate": "2026-09-01T10:17:02Z"
+      "title": "累積リターン187％の『AI選定』銘柄、9月の最新リストを公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1666530",
+      "published": "2026-09-01 07:54:38",
+      "isoDate": "2026-09-01T07:54:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,37 @@
       "link": "https://jp.investing.com/news/forex-news/article-1666436",
       "published": "2026-09-01 05:15:15",
       "isoDate": "2026-09-01T05:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがMediaTekに35億ドル投資、株価が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666360",
-      "published": "2026-09-01 01:47:08",
-      "isoDate": "2026-09-01T01:47:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "9月のAIおすすめ銘柄リストが数時間後に公開予定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1666264",
-      "published": "2026-08-31 22:36:07",
-      "isoDate": "2026-08-31T22:36:07Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
+      "link": "https://coinpost.jp/?p=734815",
+      "published": "Wed, 02 Sep 2026 13:47:15 +0900",
+      "isoDate": "2026-09-02T04:47:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "エセナ、金融アプリ「Ethena Pay」をローンチ開始　決済層でアバランチ採用",
+      "link": "https://coinpost.jp/?p=734886",
+      "published": "Wed, 02 Sep 2026 13:15:29 +0900",
+      "isoDate": "2026-09-02T04:15:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物ETF、8月に35億ドル純流入　1年ぶりの高水準",
+      "link": "https://coinpost.jp/?p=734854",
+      "published": "Wed, 02 Sep 2026 09:54:57 +0900",
+      "isoDate": "2026-09-02T00:54:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ・ジュニア関与のファンド、ポリマーケットに480億円追加出資",
+      "link": "https://coinpost.jp/?p=734799",
+      "published": "Wed, 02 Sep 2026 09:33:08 +0900",
+      "isoDate": "2026-09-02T00:33:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、MSCIの指数除外提案に反対表明",
@@ -166,34 +194,6 @@
       "link": "https://coinpost.jp/?p=734772",
       "published": "Tue, 01 Sep 2026 18:55:08 +0900",
       "isoDate": "2026-09-01T09:55:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トム・リー氏、ビットコイン「15万ドル」視野に　機関マネー流入を指摘",
-      "link": "https://coinpost.jp/?p=734756",
-      "published": "Tue, 01 Sep 2026 18:09:43 +0900",
-      "isoDate": "2026-09-01T09:09:43Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アルパカ、カルシと提携　株式・仮想通貨などの基盤に予測市場追加へ",
-      "link": "https://coinpost.jp/?p=734719",
-      "published": "Tue, 01 Sep 2026 17:31:22 +0900",
-      "isoDate": "2026-09-01T08:31:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハイパーリキッド、クラーケン親会社ペイワードと米国進出を協議＝報道",
-      "link": "https://coinpost.jp/?p=734612",
-      "published": "Tue, 01 Sep 2026 14:22:18 +0900",
-      "isoDate": "2026-09-01T05:22:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イオレ、ハイパーリキッド追加取得完了　累計1億円に到達",
-      "link": "https://coinpost.jp/?p=734572",
-      "published": "Tue, 01 Sep 2026 10:57:08 +0900",
-      "isoDate": "2026-09-01T01:57:08Z"
     }
   ]
 }
