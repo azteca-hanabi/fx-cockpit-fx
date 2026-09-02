@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T20:48:53Z",
-  "last_checked": "2026-09-02T20:48:53Z",
+  "updated": "2026-09-02T23:09:10Z",
+  "last_checked": "2026-09-02T23:09:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SanDisk、圧縮ゾーンで方向感なし：最新レベルを確認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1666000",
-      "published": "2026-09-02 19:12:12",
-      "isoDate": "2026-09-02T19:12:12Z"
+      "title": "2日の米国市場ダイジェスト：米国株式市場は反発、ハイテクがけん引",
+      "link": "https://jp.investing.com/news/forex-news/article-1668811",
+      "published": "2026-09-02 22:15:04",
+      "isoDate": "2026-09-02T22:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米8月ADP雇用統計が予想外に7月から伸びが鈍化",
+      "link": "https://jp.investing.com/news/forex-news/article-1668800",
+      "published": "2026-09-02 21:45:04",
+      "isoDate": "2026-09-02T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト、Azureの四半期売上高を独立開示へ――事業セグメントを大幅再編",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1668778",
+      "published": "2026-09-02 21:13:41",
+      "isoDate": "2026-09-02T21:13:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコム株が時間外取引で下落、第4四半期ガイダンスが失望を招く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1668773",
+      "published": "2026-09-02 21:08:46",
+      "isoDate": "2026-09-02T21:08:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ブロードコム、第4四半期売上高見通しが市場予想を下回る",
+      "link": "https://jp.investing.com/news/earnings/article-1668757",
+      "published": "2026-09-02 20:45:57",
+      "isoDate": "2026-09-02T20:45:57Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,31 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Palantirの株価が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1668500",
-      "published": "2026-09-02 14:22:14",
-      "isoDate": "2026-09-02T14:22:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米8月ADP雇用統計は予想外に伸び鈍化、ドル伸び悩む",
-      "link": "https://jp.investing.com/news/forex-news/article-1668287",
-      "published": "2026-09-02 13:00:04",
-      "isoDate": "2026-09-02T13:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "中東情勢の緊迫化を背景にリスク回避の動きが強まる【クロージング】",
       "link": "https://jp.investing.com/news/forex-news/article-1667782",
       "published": "2026-09-02 07:30:13",
       "isoDate": "2026-09-02T07:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は1732円安、米経済指標やブロードコム決算などに関心",
-      "link": "https://jp.investing.com/news/forex-news/article-1667686",
-      "published": "2026-09-02 06:00:15",
-      "isoDate": "2026-09-02T06:00:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -132,89 +139,11 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は1019円安でスタート、住友鉱やソフトバンクGなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1667535",
-      "published": "2026-09-02 00:45:08",
-      "isoDate": "2026-09-02T00:45:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "累積リターン187％の『AI選定』銘柄、9月の最新リストを公開",
       "link": "https://jp.investing.com/news/stock-market-news/article-1666530",
       "published": "2026-09-01 07:54:38",
       "isoDate": "2026-09-01T07:54:38Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "ハイパーリキッドのHYPEトークン、米仮想通貨指数ETFに初組み入れ",
-      "link": "https://coinpost.jp/?p=735152",
-      "published": "Thu, 03 Sep 2026 05:40:57 +0900",
-      "isoDate": "2026-09-02T20:40:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジーCEO、「ビットコイン売却は戦略的取引」と説明",
-      "link": "https://coinpost.jp/?p=735130",
-      "published": "Thu, 03 Sep 2026 05:00:03 +0900",
-      "isoDate": "2026-09-02T20:00:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットフィネックス証券、メタプラネット等株連動商品5種上場",
-      "link": "https://coinpost.jp/?p=735064",
-      "published": "Wed, 02 Sep 2026 17:30:00 +0900",
-      "isoDate": "2026-09-02T08:30:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "TDコーウェン、ビットコイン年末目標9万7500ドルに下方修正＝報道",
-      "link": "https://coinpost.jp/?p=735024",
-      "published": "Wed, 02 Sep 2026 15:50:22 +0900",
-      "isoDate": "2026-09-02T06:50:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ラザルス関連ウォレット、ハイパーリキッド経由で3000万ドル超を移動",
-      "link": "https://coinpost.jp/?p=734904",
-      "published": "Wed, 02 Sep 2026 14:50:36 +0900",
-      "isoDate": "2026-09-02T05:50:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、監査性・所有分布などで高評価　主要3銘柄の分散性調査",
-      "link": "https://coinpost.jp/?p=734974",
-      "published": "Wed, 02 Sep 2026 14:15:56 +0900",
-      "isoDate": "2026-09-02T05:15:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
-      "link": "https://coinpost.jp/?p=734815",
-      "published": "Wed, 02 Sep 2026 13:47:15 +0900",
-      "isoDate": "2026-09-02T04:47:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "エセナ、金融アプリ「Ethena Pay」をローンチ開始　決済層でアバランチ採用",
-      "link": "https://coinpost.jp/?p=734886",
-      "published": "Wed, 02 Sep 2026 13:15:29 +0900",
-      "isoDate": "2026-09-02T04:15:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETF、8月に35億ドル純流入　1年ぶりの高水準",
-      "link": "https://coinpost.jp/?p=734854",
-      "published": "Wed, 02 Sep 2026 09:54:57 +0900",
-      "isoDate": "2026-09-02T00:54:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ・ジュニア関与のファンド、ポリマーケットに480億円追加出資",
-      "link": "https://coinpost.jp/?p=734799",
-      "published": "Wed, 02 Sep 2026 09:33:08 +0900",
-      "isoDate": "2026-09-02T00:33:08Z"
-    }
-  ]
+  "btc_items": []
 }
