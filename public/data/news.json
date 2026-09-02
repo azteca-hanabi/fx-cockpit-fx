@@ -1,79 +1,86 @@
 {
-  "updated": "2026-09-02T17:45:38Z",
-  "last_checked": "2026-09-02T17:45:38Z",
+  "updated": "2026-09-02T20:48:53Z",
+  "last_checked": "2026-09-02T20:48:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "米原油在庫、先週は450万バレル減少",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668547",
-      "published": "2026-09-02 14:53:20",
-      "isoDate": "2026-09-02T14:53:20Z"
+      "title": "米国の原油生産量と需要が6月に増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668681",
+      "published": "2026-09-02 19:57:57",
+      "isoDate": "2026-09-02T19:57:57Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "小麦先物、数年ぶり高値後に続落見込み",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668359",
-      "published": "2026-09-02 13:30:22",
-      "isoDate": "2026-09-02T13:30:22Z"
+      "title": "供給懸念でICE原糖先物が16カ月ぶり高値に到達",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668676",
+      "published": "2026-09-02 19:48:09",
+      "isoDate": "2026-09-02T19:48:09Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イラク、割引とイランの承認で8月の石油輸出が増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668357",
-      "published": "2026-09-02 13:30:14",
-      "isoDate": "2026-09-02T13:30:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格が2023年以来の高値、イラン紛争時の最高値を更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-1668044",
-      "published": "2026-09-02 10:54:51",
-      "isoDate": "2026-09-02T10:54:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "WTI原油、RSI77超の過熱でパラボリック上昇：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
-      "published": "2026-09-02 07:09:38",
-      "isoDate": "2026-09-02T07:09:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Brent Oil、RSI76超・MFI99で過熱警報：今時間の注目レベル",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
-      "published": "2026-09-02 07:08:50",
-      "isoDate": "2026-09-02T07:08:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、雲割れで中期ベア転換：最新レベルを確認",
+      "title": "Silver、出来高帯と移動平均の狭間で停滞中：今すぐ確認",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
-      "published": "2026-09-02 07:08:31",
-      "isoDate": "2026-09-02T07:08:31Z"
+      "published": "2026-09-02 19:13:08",
+      "isoDate": "2026-09-02T19:13:08Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "Copper、200SMAと38.2%フィボナッチで攻防中：最新レベル",
+      "title": "原油WTI、RSI過熱＆ドージで反落リスク：今時間の注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665427",
+      "published": "2026-09-02 19:12:57",
+      "isoDate": "2026-09-02T19:12:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Brent Oil、RSI72超で買われすぎ警戒：最新レベルをチェック",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665424",
+      "published": "2026-09-02 19:12:46",
+      "isoDate": "2026-09-02T19:12:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Copper、6.60付近でレンジ圧縮中：毎時更新",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666126",
-      "published": "2026-09-02 07:08:17",
-      "isoDate": "2026-09-02T07:08:17Z"
+      "published": "2026-09-02 19:12:42",
+      "isoDate": "2026-09-02T19:12:42Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "Gold、RSI急落で売られすぎ-転換点を毎時更新",
+      "title": "Gold、$4,755高値から急落し弱気継続：最新レベルを確認",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
-      "published": "2026-09-02 07:07:50",
-      "isoDate": "2026-09-02T07:07:50Z"
+      "published": "2026-09-02 19:12:33",
+      "isoDate": "2026-09-02T19:12:33Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドルと米利上げ期待が重荷、金は3週間ぶり安値に下落続く",
-      "link": "https://jp.investing.com/news/commodities-news/article-1667580",
-      "published": "2026-09-02 01:57:59",
-      "isoDate": "2026-09-02T01:57:59Z"
+      "title": "西アフリカ産原油の価格差、需要懸念の中で横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668656",
+      "published": "2026-09-02 18:56:13",
+      "isoDate": "2026-09-02T18:56:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州ディーゼルマージンは安定、米在庫増加にもかかわらず",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668655",
+      "published": "2026-09-02 18:49:23",
+      "isoDate": "2026-09-02T18:49:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒Sea Ltd地域の緊張懸念でユーロネクスト小麦が最高値を更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1668651",
+      "published": "2026-09-02 18:37:30",
+      "isoDate": "2026-09-02T18:37:30Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "SanDisk、圧縮ゾーンで方向感なし：最新レベルを確認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1666000",
+      "published": "2026-09-02 19:12:12",
+      "isoDate": "2026-09-02T19:12:12Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "Palantir株急落、GoogleがAI防衛市場に参入",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1668287",
       "published": "2026-09-02 13:00:04",
       "isoDate": "2026-09-02T13:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ファン・フンCEO、G20イベントでAIを「偉大な平等化装置」と称賛",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1668223",
-      "published": "2026-09-02 12:25:02",
-      "isoDate": "2026-09-02T12:25:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッドのHYPEトークン、米仮想通貨指数ETFに初組み入れ",
+      "link": "https://coinpost.jp/?p=735152",
+      "published": "Thu, 03 Sep 2026 05:40:57 +0900",
+      "isoDate": "2026-09-02T20:40:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーCEO、「ビットコイン売却は戦略的取引」と説明",
+      "link": "https://coinpost.jp/?p=735130",
+      "published": "Thu, 03 Sep 2026 05:00:03 +0900",
+      "isoDate": "2026-09-02T20:00:03Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットフィネックス証券、メタプラネット等株連動商品5種上場",
