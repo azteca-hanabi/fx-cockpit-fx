@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T23:09:10Z",
-  "last_checked": "2026-09-02T23:09:10Z",
+  "updated": "2026-09-03T01:20:38Z",
+  "last_checked": "2026-09-03T01:20:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "2日の米国市場ダイジェスト：米国株式市場は反発、ハイテクがけん引",
-      "link": "https://jp.investing.com/news/forex-news/article-1668811",
-      "published": "2026-09-02 22:15:04",
-      "isoDate": "2026-09-02T22:15:04Z"
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株を買い戻す動きが意識される～",
+      "link": "https://jp.investing.com/news/forex-news/article-1668846",
+      "published": "2026-09-02 23:45:07",
+      "isoDate": "2026-09-02T23:45:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米8月ADP雇用統計が予想外に7月から伸びが鈍化",
-      "link": "https://jp.investing.com/news/forex-news/article-1668800",
-      "published": "2026-09-02 21:45:04",
-      "isoDate": "2026-09-02T21:45:04Z"
+      "title": "半導体やAI関連株を買い戻す動きが意識される",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1668845",
+      "published": "2026-09-02 23:45:06",
+      "isoDate": "2026-09-02T23:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前日の急落の反動や米テック株の上昇を映して買い戻しが先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1668839",
+      "published": "2026-09-02 23:30:06",
+      "isoDate": "2026-09-02T23:30:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/earnings/article-1668757",
       "published": "2026-09-02 20:45:57",
       "isoDate": "2026-09-02T20:45:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Palantir株急落、GoogleがAI防衛市場に参入",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1668584",
-      "published": "2026-09-02 16:25:45",
-      "isoDate": "2026-09-02T16:25:45Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,104 @@
       "isoDate": "2026-09-01T07:54:38Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "コインベース、カナダで規制準拠の仮想通貨先物取引を提供開始",
+      "link": "https://coinpost.jp/?p=735168",
+      "published": "Thu, 03 Sep 2026 10:10:20 +0900",
+      "isoDate": "2026-09-03T01:10:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "強気相場の次の柱はRWAか、ウィンターミュート分析",
+      "link": "https://coinpost.jp/?p=735188",
+      "published": "Thu, 03 Sep 2026 10:00:51 +0900",
+      "isoDate": "2026-09-03T01:00:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン頭打ち、当面はレンジ相場か＝グラスノード",
+      "link": "https://coinpost.jp/?p=735170",
+      "published": "Thu, 03 Sep 2026 09:40:39 +0900",
+      "isoDate": "2026-09-03T00:40:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "予測市場含む新種ETFめぐり一律規制に反対、米仮想通貨団体がSECに提言",
+      "link": "https://coinpost.jp/?p=735148",
+      "published": "Thu, 03 Sep 2026 08:20:48 +0900",
+      "isoDate": "2026-09-02T23:20:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「ビットコイン、初のハッシュレート弱気相場に」トゥエンティワンCEOが指摘",
+      "link": "https://coinpost.jp/?p=735150",
+      "published": "Thu, 03 Sep 2026 06:30:53 +0900",
+      "isoDate": "2026-09-02T21:30:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "キャピタルB、アダム・バック引受で14億円増資　ビットコイン追加購入へ",
+      "link": "https://coinpost.jp/?p=735151",
+      "published": "Thu, 03 Sep 2026 05:55:55 +0900",
+      "isoDate": "2026-09-02T20:55:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッドのHYPEトークン、米仮想通貨指数ETFに初組み入れ",
+      "link": "https://coinpost.jp/?p=735152",
+      "published": "Thu, 03 Sep 2026 05:40:57 +0900",
+      "isoDate": "2026-09-02T20:40:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーCEO、「ビットコイン売却は戦略的取引」と説明",
+      "link": "https://coinpost.jp/?p=735130",
+      "published": "Thu, 03 Sep 2026 05:00:03 +0900",
+      "isoDate": "2026-09-02T20:00:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットフィネックス証券、メタプラネット等株連動商品5種上場",
+      "link": "https://coinpost.jp/?p=735064",
+      "published": "Wed, 02 Sep 2026 17:30:00 +0900",
+      "isoDate": "2026-09-02T08:30:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "TDコーウェン、ビットコイン年末目標9万7500ドルに下方修正＝報道",
+      "link": "https://coinpost.jp/?p=735024",
+      "published": "Wed, 02 Sep 2026 15:50:22 +0900",
+      "isoDate": "2026-09-02T06:50:22Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ラザルス関連ウォレット、ハイパーリキッド経由で3000万ドル超を移動",
+      "link": "https://coinpost.jp/?p=734904",
+      "published": "Wed, 02 Sep 2026 14:50:36 +0900",
+      "isoDate": "2026-09-02T05:50:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、監査性・所有分布などで高評価　主要3銘柄の分散性調査",
+      "link": "https://coinpost.jp/?p=734974",
+      "published": "Wed, 02 Sep 2026 14:15:56 +0900",
+      "isoDate": "2026-09-02T05:15:56Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リミックスポイント、保有中のアルトコイン4銘柄を全売却",
+      "link": "https://coinpost.jp/?p=734815",
+      "published": "Wed, 02 Sep 2026 13:47:15 +0900",
+      "isoDate": "2026-09-02T04:47:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "エセナ、金融アプリ「Ethena Pay」をローンチ開始　決済層でアバランチ採用",
+      "link": "https://coinpost.jp/?p=734886",
+      "published": "Wed, 02 Sep 2026 13:15:29 +0900",
+      "isoDate": "2026-09-02T04:15:29Z"
+    }
+  ]
 }
