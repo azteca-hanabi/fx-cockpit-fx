@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-03T16:08:12Z",
-  "last_checked": "2026-09-03T16:08:12Z",
+  "updated": "2026-09-03T19:22:50Z",
+  "last_checked": "2026-09-03T19:22:50Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、2022年エネルギー危機以来の水準に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1669976",
+      "published": "2026-09-03 18:05:49",
+      "isoDate": "2026-09-03T18:05:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金相場の急騰は投資需要が主導、米国債買い戻しだけが要因ではない＝アナリスト",
+      "link": "https://jp.investing.com/news/commodities-news/article-1669943",
+      "published": "2026-09-03 16:01:07",
+      "isoDate": "2026-09-03T16:01:07Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック乾燥貨物運賃指数、約5年ぶりの高値に上昇",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665425",
       "published": "2026-09-03 07:09:42",
       "isoDate": "2026-09-03T07:09:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Copper、$6.58で200SMA攻防の重要局面：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1666126",
-      "published": "2026-09-03 07:09:38",
-      "isoDate": "2026-09-03T07:09:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ゴールド、$4,489〜$4,581の壁で攻防：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
-      "published": "2026-09-03 07:08:47",
-      "isoDate": "2026-09-03T07:08:47Z"
     }
   ],
   "usdjpy_items": [
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1669800",
       "published": "2026-09-03 13:52:11",
       "isoDate": "2026-09-03T13:52:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォラーFRB理事、ディスインフレ継続なら9月利上げ見送りも",
-      "link": "https://jp.investing.com/news/economy-news/article-1669663",
-      "published": "2026-09-03 12:56:46",
-      "isoDate": "2026-09-03T12:56:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,6 +122,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1668959",
       "published": "2026-09-03 03:30:12",
       "isoDate": "2026-09-03T03:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般買い優勢、シカゴは大阪日中比135円安の64735円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1668883",
+      "published": "2026-09-03 01:00:08",
+      "isoDate": "2026-09-03T01:00:08Z"
     },
     {
       "source": "Investing.com 外為",
