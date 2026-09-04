@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-04T16:58:41Z",
-  "last_checked": "2026-09-04T16:58:41Z",
+  "updated": "2026-09-04T19:25:40Z",
+  "last_checked": "2026-09-04T19:25:40Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー掘削リグ稼働数、2週連続で横ばい＝ベーカー・ヒューズ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671140",
+      "published": "2026-09-04 17:52:07",
+      "isoDate": "2026-09-04T17:52:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の天然ガス掘削リグが2基減少、石油リグは増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671123",
+      "published": "2026-09-04 17:23:27",
+      "isoDate": "2026-09-04T17:23:27Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧のガソリン精製マージン、依然として危機水準付近で推移",
@@ -57,20 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1665426",
       "published": "2026-09-04 07:08:43",
       "isoDate": "2026-09-04T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの緊張でホルムズ海峡の供給リスク高まる中、原油は6週間ぶり高値付近で小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1670287",
-      "published": "2026-09-04 01:32:11",
-      "isoDate": "2026-09-04T01:32:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、4,500ドル近辺で推移――米雇用統計でFRBの手がかりを探る",
-      "link": "https://jp.investing.com/news/commodities-news/article-1670278",
-      "published": "2026-09-04 01:13:43",
-      "isoDate": "2026-09-04T01:13:43Z"
     }
   ],
   "usdjpy_items": [
