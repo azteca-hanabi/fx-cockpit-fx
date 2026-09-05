@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T21:34:36Z",
-  "last_checked": "2026-09-05T21:34:36Z",
+  "updated": "2026-09-05T23:39:43Z",
+  "last_checked": "2026-09-05T23:39:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "円の急反発は本物か？",
+      "link": "https://jp.investing.com/news/forex-news/article-1671406",
+      "published": "2026-09-05 23:02:37",
+      "isoDate": "2026-09-05T23:02:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "UBSがコモディティの分散投資効果を推奨、インフレと地政学リスクの高まりを受け",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671402",
+      "published": "2026-09-05 19:17:20",
+      "isoDate": "2026-09-05T19:17:20Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "記録的な利益にもかかわらず、日本株はリスク回避が続く可能性＝野村",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671397",
+      "published": "2026-09-05 15:35:47",
+      "isoDate": "2026-09-05T15:35:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示",
       "link": "https://jp.investing.com/news/commodities-news/article-1671381",
       "published": "2026-09-05 10:20:28",
@@ -104,13 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、利上げ警戒感が再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671279",
-      "published": "2026-09-04 23:00:04",
-      "isoDate": "2026-09-04T23:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは271.86ドル安、利上げ警戒感が再燃",
       "link": "https://jp.investing.com/news/forex-news/article-1671244",
       "published": "2026-09-04 21:30:03",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671013",
       "published": "2026-09-04 14:06:27",
       "isoDate": "2026-09-04T14:06:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均VIは低下、金利低下・株高で警戒感緩和",
-      "link": "https://jp.investing.com/news/forex-news/article-1670388",
-      "published": "2026-09-04 05:15:14",
-      "isoDate": "2026-09-04T05:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円高×高金利で上昇する「日本の金融株」、AIが3銘柄を特定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1670383",
-      "published": "2026-09-04 04:52:44",
-      "isoDate": "2026-09-04T04:52:44Z"
     }
   ],
   "btc_items": [
