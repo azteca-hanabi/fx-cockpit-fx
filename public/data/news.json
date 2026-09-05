@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T11:57:40Z",
-  "last_checked": "2026-09-05T11:57:40Z",
+  "updated": "2026-09-05T15:03:04Z",
+  "last_checked": "2026-09-05T15:03:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,17 +104,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落、利上げ警戒感が再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671279",
-      "published": "2026-09-04 23:00:04",
-      "isoDate": "2026-09-04T23:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは271.86ドル安、利上げ警戒感が再燃",
       "link": "https://jp.investing.com/news/forex-news/article-1671244",
       "published": "2026-09-04 21:30:03",
       "isoDate": "2026-09-04T21:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ポーラー・キャピタル・テクノロジー・トラスト、ポートフォリオ保有銘柄を開示",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1671064",
+      "published": "2026-09-04 14:55:13",
+      "isoDate": "2026-09-04T14:55:13Z"
     },
     {
       "source": "Investing.com 外為",
