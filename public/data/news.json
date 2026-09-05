@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-05T08:13:05Z",
-  "last_checked": "2026-09-05T08:13:05Z",
+  "updated": "2026-09-05T11:57:40Z",
+  "last_checked": "2026-09-05T11:57:40Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1671381",
+      "published": "2026-09-05 10:20:28",
+      "isoDate": "2026-09-05T10:20:28Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物が下落、ロシア・ウクライナ和平交渉を市場が注視",
@@ -64,22 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671123",
       "published": "2026-09-04 17:23:27",
       "isoDate": "2026-09-04T17:23:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西欧のガソリン精製マージン、依然として危機水準付近で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671098",
-      "published": "2026-09-04 16:14:13",
-      "isoDate": "2026-09-04T16:14:13Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "為替週間見通し：下げ渋りか、日銀引き締めにらみ円買いもドルに買戻し",
-      "link": "https://jp.investing.com/news/forex-news/article-1671366",
-      "published": "2026-09-05 07:30:02",
-      "isoDate": "2026-09-05T07:30:02Z"
+      "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1671381",
+      "published": "2026-09-05 10:20:28",
+      "isoDate": "2026-09-05T10:20:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：GDP改定値、メジャーSQ算出日、米CPI",
+      "link": "https://jp.investing.com/news/forex-news/article-1671375",
+      "published": "2026-09-05 08:45:03",
+      "isoDate": "2026-09-05T08:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "新興市場見通し：新規材料の出た銘柄を個別物色、自動運転関連株は値幅整理か",
+      "link": "https://jp.investing.com/news/forex-news/article-1671347",
+      "published": "2026-09-05 05:30:03",
+      "isoDate": "2026-09-05T05:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671279",
       "published": "2026-09-04 23:00:04",
       "isoDate": "2026-09-04T23:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P、S&P 100・500・400の主要指数に大幅な変更を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1671252",
-      "published": "2026-09-04 21:39:01",
-      "isoDate": "2026-09-04T21:39:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1670383",
       "published": "2026-09-04 04:52:44",
       "isoDate": "2026-09-04T04:52:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "累積リターン187％の『AI選定』銘柄、9月の最新リストを公開",
-      "link": "https://jp.investing.com/news/investment-ideas/article-1669189",
-      "published": "2026-09-03 08:45:07",
-      "isoDate": "2026-09-03T08:45:07Z"
     }
   ],
   "btc_items": [
