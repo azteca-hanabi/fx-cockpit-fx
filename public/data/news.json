@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T17:29:46Z",
-  "last_checked": "2026-09-05T17:29:46Z",
+  "updated": "2026-09-05T19:24:34Z",
+  "last_checked": "2026-09-05T19:24:34Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,13 +76,6 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "記録的な利益にもかかわらず、日本株はリスク回避が続く可能性＝野村",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671397",
-      "published": "2026-09-05 15:35:47",
-      "isoDate": "2026-09-05T15:35:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示",
       "link": "https://jp.investing.com/news/commodities-news/article-1671381",
       "published": "2026-09-05 10:20:28",
@@ -108,6 +101,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1671348",
       "published": "2026-09-05 05:30:03",
       "isoDate": "2026-09-05T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場は反落、利上げ警戒感が再燃",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671279",
+      "published": "2026-09-04 23:00:04",
+      "isoDate": "2026-09-04T23:00:04Z"
     },
     {
       "source": "Investing.com 外為",
