@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-05T23:39:43Z",
-  "last_checked": "2026-09-05T23:39:43Z",
+  "updated": "2026-09-06T03:51:31Z",
+  "last_checked": "2026-09-06T03:51:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -125,10 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは271.86ドル安、利上げ警戒感が再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1671244",
-      "published": "2026-09-04 21:30:03",
-      "isoDate": "2026-09-04T21:30:03Z"
+      "title": "HowmetへのSpaceXの脅威は買い場の可能性＝バーンスタイン",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671334",
+      "published": "2026-09-05 03:01:19",
+      "isoDate": "2026-09-05T03:01:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（9/4）｜相場分析・ストラテジーBTC戦略・金融庁の税制改正要望のまとめ",
+      "link": "https://coinpost.jp/?p=735559",
+      "published": "Sun, 06 Sep 2026 09:25:57 +0900",
+      "isoDate": "2026-09-06T00:25:57Z"
+    },
     {
       "source": "CoinPost",
       "title": "リップル社、フロリダ大学アスレティクスと提携　スタジアムにXRPロゴ掲出へ",
@@ -208,13 +215,6 @@
       "link": "https://coinpost.jp/?p=735603",
       "published": "Fri, 04 Sep 2026 13:15:26 +0900",
       "isoDate": "2026-09-04T04:15:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "英投資サービス大手ハーグリーブス・ランズダウン、仮想通貨ETN取引を解禁",
-      "link": "https://coinpost.jp/?p=735514",
-      "published": "Fri, 04 Sep 2026 13:00:29 +0900",
-      "isoDate": "2026-09-04T04:00:29Z"
     }
   ]
 }
