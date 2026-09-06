@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T18:33:04Z",
-  "last_checked": "2026-09-06T18:33:04Z",
+  "updated": "2026-09-06T21:09:09Z",
+  "last_checked": "2026-09-06T21:09:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アマゾンの貨物機がマイアミ空港付近で墜落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671487",
+      "published": "2026-09-06 19:26:44",
+      "isoDate": "2026-09-06T19:26:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "キーバンク、アップルのiPhone 18発表が株価の下落要因になると警告",
       "link": "https://jp.investing.com/news/stock-market-news/article-1671484",
       "published": "2026-09-06 17:05:45",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1671406",
       "published": "2026-09-05 23:02:37",
       "isoDate": "2026-09-05T23:02:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSがコモディティの分散投資効果を推奨、インフレと地政学リスクの高まりを受け",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671402",
-      "published": "2026-09-05 19:17:20",
-      "isoDate": "2026-09-05T19:17:20Z"
     },
     {
       "source": "Investing.com 外為",
