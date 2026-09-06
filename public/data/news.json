@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T16:04:01Z",
-  "last_checked": "2026-09-06T16:04:01Z",
+  "updated": "2026-09-06T18:33:04Z",
+  "last_checked": "2026-09-06T18:33:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXの欧州ライバル、イザー・エアロスペースが初の軌道投入後に急速拡大を計画",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1671464",
-      "published": "2026-09-06 12:16:19",
-      "isoDate": "2026-09-06T12:16:19Z"
+      "title": "キーバンク、アップルのiPhone 18発表が株価の下落要因になると警告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671484",
+      "published": "2026-09-06 17:05:45",
+      "isoDate": "2026-09-06T17:05:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ルルレモン創業者チップ・ウィルソン、妻と離婚か――資産を巡る不透明感が増大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671481",
+      "published": "2026-09-06 15:55:50",
+      "isoDate": "2026-09-06T15:55:50Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671402",
       "published": "2026-09-05 19:17:20",
       "isoDate": "2026-09-05T19:17:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "記録的な利益にもかかわらず、日本株はリスク回避が続く可能性＝野村",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671397",
-      "published": "2026-09-05 15:35:47",
-      "isoDate": "2026-09-05T15:35:47Z"
     },
     {
       "source": "Investing.com 外為",
