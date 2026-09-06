@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-06T21:09:09Z",
-  "last_checked": "2026-09-06T21:09:09Z",
+  "updated": "2026-09-06T23:00:57Z",
+  "last_checked": "2026-09-06T23:00:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,34 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "前日に動いた銘柄 part1ソフトバンクグループ、マネーフォワード、ヘッドウォーターなど",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671499",
+      "published": "2026-09-06 22:30:04",
+      "isoDate": "2026-09-06T22:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "4日のNY市場は反落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671498",
+      "published": "2026-09-06 22:15:02",
+      "isoDate": "2026-09-06T22:15:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーライリリー・アンド・カンパニーの1,000億ドル規模インクレチン市場、さらなる上昇余地はあるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671493",
+      "published": "2026-09-06 21:19:22",
+      "isoDate": "2026-09-06T21:19:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ゴールドマン、サイバーキャブがテスラにロボタクシーでコスト優位をもたらすと予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671491",
+      "published": "2026-09-06 21:16:58",
+      "isoDate": "2026-09-06T21:16:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アマゾンの貨物機がマイアミ空港付近で墜落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1671487",
       "published": "2026-09-06 19:26:44",
@@ -90,38 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ルルレモン創業者チップ・ウィルソン、妻と離婚か――資産を巡る不透明感が増大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671481",
-      "published": "2026-09-06 15:55:50",
-      "isoDate": "2026-09-06T15:55:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週のストリート・コール：注目アナリスト評価まとめ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671447",
-      "published": "2026-09-06 10:00:02",
-      "isoDate": "2026-09-06T10:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "中国が世界の金需要においてより強力な存在となった経緯",
       "link": "https://jp.investing.com/news/economy-news/article-1671446",
       "published": "2026-09-06 09:56:15",
       "isoDate": "2026-09-06T09:56:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、8万ドル付近で推移――企業需要と米国の暗号資産政策が焦点",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1671444",
-      "published": "2026-09-06 09:22:00",
-      "isoDate": "2026-09-06T09:22:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OPEC+、10月の石油生産方針を据え置く見通し――ロイター",
-      "link": "https://jp.investing.com/news/economy-news/article-1671441",
-      "published": "2026-09-06 08:17:31",
-      "isoDate": "2026-09-06T08:17:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットCEO、透明性強化を表明　MMXX出資巡り説明",
+      "link": "https://coinpost.jp/?p=735784",
+      "published": "Mon, 07 Sep 2026 07:32:39 +0900",
+      "isoDate": "2026-09-06T22:32:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "週刊仮想通貨ニュース（9/4）｜相場分析・ストラテジーBTC戦略・金融庁の税制改正要望のまとめ",
