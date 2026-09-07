@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T13:22:56Z",
-  "last_checked": "2026-09-07T13:22:56Z",
+  "updated": "2026-09-07T18:20:15Z",
+  "last_checked": "2026-09-07T18:20:15Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -60,7 +60,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "強い雇用統計がFRB利上げ観測を再燃、金は4,400ドルを下回る",
+      "title": "強い雇用統計が利上げ観測を再燃、金価格は小幅下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1671531",
       "published": "2026-09-07 00:57:35",
       "isoDate": "2026-09-07T00:57:35Z"
@@ -76,10 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランの議会議長、米エネルギー企業への攻撃を警告",
-      "link": "https://jp.investing.com/news/economy-news/article-1671771",
-      "published": "2026-09-07 10:12:11",
-      "isoDate": "2026-09-07T10:12:11Z"
+      "title": "AnthropicとOpenAIのIPOが早期の節税目的売りを誘発する可能性",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671820",
+      "published": "2026-09-07 13:13:44",
+      "isoDate": "2026-09-07T13:13:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,6 +94,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1671733",
       "published": "2026-09-07 08:30:15",
       "isoDate": "2026-09-07T08:30:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、ソフトバンクGとアドバンテストの2銘柄で約839円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671727",
+      "published": "2026-09-07 08:00:15",
+      "isoDate": "2026-09-07T08:00:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671538",
       "published": "2026-09-07 01:30:08",
       "isoDate": "2026-09-07T01:30:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのファウンダーCEO黄仁勲氏、OpenAIのGPT-6 Astra発表後「AGIが到来した」と表明",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671517",
-      "published": "2026-09-07 00:16:58",
-      "isoDate": "2026-09-07T00:16:58Z"
     },
     {
       "source": "Investing.com 外為",
