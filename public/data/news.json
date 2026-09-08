@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-08T09:59:21Z",
-  "last_checked": "2026-09-08T09:59:21Z",
+  "updated": "2026-09-08T14:24:49Z",
+  "last_checked": "2026-09-08T14:24:49Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ダンゴテ製油所CEO、イランとの戦争終結後も燃料不足が続くと警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672754",
+      "published": "2026-09-08 13:50:32",
+      "isoDate": "2026-09-08T13:50:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数、ケープサイズ船の上昇に支えられ小幅高",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672614",
+      "published": "2026-09-08 12:49:14",
+      "isoDate": "2026-09-08T12:49:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの脅威で欧州天然ガス価格が2023年以来の高値に急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1672372",
+      "published": "2026-09-08 11:10:36",
+      "isoDate": "2026-09-08T11:10:36Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの8月燃料需要、前年比2.8%減少",
@@ -43,50 +64,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671694",
       "published": "2026-09-08 07:07:58",
       "isoDate": "2026-09-08T07:07:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドル安がFED利上げ懸念を相殺、金相場は上昇後に小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1671907",
-      "published": "2026-09-08 02:29:45",
-      "isoDate": "2026-09-08T02:29:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イランの湾岸エネルギーインフラへの脅威を受け、ブレント原油が1バレル100ドル近くに上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1671905",
-      "published": "2026-09-08 02:24:51",
-      "isoDate": "2026-09-08T02:24:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパ天然ガス、テヘランの脅威を受け2%上昇し多年来高値付近で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-1671752",
-      "published": "2026-09-07 09:17:07",
-      "isoDate": "2026-09-07T09:17:07Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "GPT-6 AstraはメモリチップとKOSPIの取引を再点火できるか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672153",
-      "published": "2026-09-08 09:04:28",
-      "isoDate": "2026-09-08T09:04:28Z"
+      "title": "コーニング株、ベライゾンとの数十億ドル規模の光ファイバー契約で3%上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672684",
+      "published": "2026-09-08 13:19:48",
+      "isoDate": "2026-09-08T13:19:48Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "欧米為替見通し: ドル・円は下げ渋りか、下値模索も米インフレを注視",
-      "link": "https://jp.investing.com/news/forex-news/article-1672115",
-      "published": "2026-09-08 08:30:12",
-      "isoDate": "2026-09-08T08:30:12Z"
+      "title": "クアルコム株が9.5%急騰、アマゾンとのAI提携と2500万株ワラントを発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672665",
+      "published": "2026-09-08 13:09:51",
+      "isoDate": "2026-09-08T13:09:51Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "円高メリット株が急騰、「まだ上がっていない」日本株をAIで特定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672100",
-      "published": "2026-09-08 08:15:24",
-      "isoDate": "2026-09-08T08:15:24Z"
+      "title": "IONQとCongruity360、818万ドルの量子セキュリティ契約を締結",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1672542",
+      "published": "2026-09-08 12:17:02",
+      "isoDate": "2026-09-08T12:17:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQが256ビット暗号を26日で解読するロードマップを公開",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1672453",
+      "published": "2026-09-08 11:48:02",
+      "isoDate": "2026-09-08T11:48:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQが2026年通期売上高見通しを4億5,000万〜4億6,000万ドルに引き上げ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1672421",
+      "published": "2026-09-08 11:38:02",
+      "isoDate": "2026-09-08T11:38:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとNebius、ソブリンAIインフラで提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1672351",
+      "published": "2026-09-08 11:07:02",
+      "isoDate": "2026-09-08T11:07:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体株、夏の18%急落後の展望をシティが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672269",
+      "published": "2026-09-08 10:24:37",
+      "isoDate": "2026-09-08T10:24:37Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,37 +136,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671926",
       "published": "2026-09-08 04:15:14",
       "isoDate": "2026-09-08T04:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "下げ幅を消してプラス圏を回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671919",
-      "published": "2026-09-08 03:30:12",
-      "isoDate": "2026-09-08T03:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は556円安でスタート、太陽誘電やIHIなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671867",
-      "published": "2026-09-08 01:00:07",
-      "isoDate": "2026-09-08T01:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円急伸で日本株に再注目、「バフェット保有の5大商社」は買い時か？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671761",
-      "published": "2026-09-07 09:30:27",
-      "isoDate": "2026-09-07T09:30:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は反落、後場は様子見ムード",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671728",
-      "published": "2026-09-07 08:00:16",
-      "isoDate": "2026-09-07T08:00:16Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、先週ビットコイン追加購入なし",
+      "link": "https://coinpost.jp/?p=736370",
+      "published": "Tue, 08 Sep 2026 22:00:25 +0900",
+      "isoDate": "2026-09-08T13:00:25Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン需給構造改善も現物需要が課題＝レポート",
@@ -187,13 +194,6 @@
       "link": "https://coinpost.jp/?p=736068",
       "published": "Tue, 08 Sep 2026 05:00:49 +0900",
       "isoDate": "2026-09-07T20:00:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物ETFに先週約1539億円純流入、3週連続",
-      "link": "https://coinpost.jp/?p=735999",
-      "published": "Mon, 07 Sep 2026 16:32:12 +0900",
-      "isoDate": "2026-09-07T07:32:12Z"
     }
   ]
 }
