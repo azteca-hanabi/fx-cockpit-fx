@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-08T00:04:41Z",
-  "last_checked": "2026-09-08T00:04:41Z",
+  "updated": "2026-09-08T05:03:02Z",
+  "last_checked": "2026-09-08T05:03:02Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "円急騰でドル安、金価格が上昇――原油高とFED観測が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1671907",
+      "published": "2026-09-08 02:29:45",
+      "isoDate": "2026-09-08T02:29:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの湾岸エネルギーインフラへの脅威を受け、原油価格が上昇を継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-1671905",
+      "published": "2026-09-08 02:24:51",
+      "isoDate": "2026-09-08T02:24:51Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "Silver、$65.80サポート攻防のレンジ相場：毎時更新",
@@ -57,50 +71,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1671544",
       "published": "2026-09-07 01:30:58",
       "isoDate": "2026-09-07T01:30:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "強い雇用統計が利上げ観測を再燃、金価格は小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1671531",
-      "published": "2026-09-07 00:57:35",
-      "isoDate": "2026-09-07T00:57:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ジェフリーズ、金価格が5,000ドルを超える3つのシナリオを提示",
-      "link": "https://jp.investing.com/news/commodities-news/article-1671381",
-      "published": "2026-09-05 10:20:28",
-      "isoDate": "2026-09-05T10:20:28Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 9/8",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671852",
-      "published": "2026-09-07 23:45:06",
-      "isoDate": "2026-09-07T23:45:06Z"
+      "title": "後場に注目すべき3つのポイント～下げ幅を消してプラス圏を回復",
+      "link": "https://jp.investing.com/news/forex-news/article-1671921",
+      "published": "2026-09-08 03:30:13",
+      "isoDate": "2026-09-08T03:30:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "売り一巡後の半導体やAI関連株の底堅さを見極め",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671850",
-      "published": "2026-09-07 23:45:05",
-      "isoDate": "2026-09-07T23:45:05Z"
+      "title": "下げ幅を消してプラス圏を回復",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671919",
+      "published": "2026-09-08 03:30:12",
+      "isoDate": "2026-09-08T03:30:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前日の大幅上昇の反動や円高進行を受け利食い売りが先行へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671849",
-      "published": "2026-09-07 23:30:05",
-      "isoDate": "2026-09-07T23:30:05Z"
+      "title": "東京為替：ドル・円は大幅安、円売りの巻き戻しで",
+      "link": "https://jp.investing.com/news/forex-news/article-1671920",
+      "published": "2026-09-08 03:30:12",
+      "isoDate": "2026-09-08T03:30:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1ソフトバンクグループ、キオクシアHD、レーザーテックなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671846",
-      "published": "2026-09-07 22:30:04",
-      "isoDate": "2026-09-07T22:30:04Z"
+      "title": "円が続伸、日銀利上げ観測が強まる中で7カ月ぶり高値を更新",
+      "link": "https://jp.investing.com/news/forex-news/article-1671914",
+      "published": "2026-09-08 03:14:39",
+      "isoDate": "2026-09-08T03:14:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "円急騰でドル安、金価格が上昇――原油高とFED観測が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1671907",
+      "published": "2026-09-08 02:29:45",
+      "isoDate": "2026-09-08T02:29:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マツダ---大幅続落、円高の進行で自動車関連株が軟調に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671889",
+      "published": "2026-09-08 02:00:11",
+      "isoDate": "2026-09-08T02:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は556円安でスタート、太陽誘電やIHIなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671867",
+      "published": "2026-09-08 01:00:07",
+      "isoDate": "2026-09-08T01:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本の第2四半期GDP成長率が上方修正、日銀利上げの根拠を強化",
+      "link": "https://jp.investing.com/news/economic-indicators/article-1671862",
+      "published": "2026-09-08 00:15:04",
+      "isoDate": "2026-09-08T00:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,37 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671761",
       "published": "2026-09-07 09:30:27",
       "isoDate": "2026-09-07T09:30:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は大幅安、夕方にかけて急落",
-      "link": "https://jp.investing.com/news/forex-news/article-1671733",
-      "published": "2026-09-07 08:30:15",
-      "isoDate": "2026-09-07T08:30:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国とイランが新たな攻撃を交わす、NvidiaのファンCEOがAGI到来を宣言",
-      "link": "https://jp.investing.com/news/economy-news/article-1671724",
-      "published": "2026-09-07 07:54:13",
-      "isoDate": "2026-09-07T07:54:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は大幅安、ドル安進行で",
-      "link": "https://jp.investing.com/news/forex-news/article-1671676",
-      "published": "2026-09-07 06:45:13",
-      "isoDate": "2026-09-07T06:45:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続伸、半導体関連主導で上げ幅拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671568",
-      "published": "2026-09-07 03:15:11",
-      "isoDate": "2026-09-07T03:15:11Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "AIエージェント経済の「通貨」を目指すFLOP、AIが計算資源を自律的に調達できるネットワーク",
+      "link": "https://coinpost.jp/?p=736215",
+      "published": "Tue, 08 Sep 2026 13:50:49 +0900",
+      "isoDate": "2026-09-08T04:50:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「ジーキャッシュなどプライバシー銘柄のリターンが他を圧倒」グラスノード報告",
+      "link": "https://coinpost.jp/?p=736097",
+      "published": "Tue, 08 Sep 2026 10:00:27 +0900",
+      "isoDate": "2026-09-08T01:00:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "リキッドのビットコイン流出事件、自称ホワイトハットが3400BTC返還",
@@ -187,20 +201,6 @@
       "link": "https://coinpost.jp/?p=735899",
       "published": "Mon, 07 Sep 2026 14:09:32 +0900",
       "isoDate": "2026-09-07T05:09:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハーモニー、ONEトークンのイーサリアム移行を提案　新たにAI動画事業も構想",
-      "link": "https://coinpost.jp/?p=735800",
-      "published": "Mon, 07 Sep 2026 09:16:36 +0900",
-      "isoDate": "2026-09-07T00:16:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "2010年採掘の100ビットコイン、16年半ぶりに移動か",
-      "link": "https://coinpost.jp/?p=735795",
-      "published": "Mon, 07 Sep 2026 09:11:41 +0900",
-      "isoDate": "2026-09-07T00:11:41Z"
     }
   ]
 }
