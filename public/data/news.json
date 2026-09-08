@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-08T14:24:49Z",
-  "last_checked": "2026-09-08T14:24:49Z",
+  "updated": "2026-09-08T18:01:08Z",
+  "last_checked": "2026-09-08T18:01:08Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ・プーチン電話会談でウクライナ和平への期待高まり、ユーロネクスト小麦先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672994",
+      "published": "2026-09-08 17:36:11",
+      "isoDate": "2026-09-08T17:36:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、原油高で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672987",
+      "published": "2026-09-08 17:29:58",
+      "isoDate": "2026-09-08T17:29:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "関税不透明感が銅相場を押し上げ、1トン1万5000ドルに迫る",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672882",
+      "published": "2026-09-08 15:04:47",
+      "isoDate": "2026-09-08T15:04:47Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ダンゴテ製油所CEO、イランとの戦争終結後も燃料不足が続くと警告",
@@ -43,43 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671695",
       "published": "2026-09-08 07:08:59",
       "isoDate": "2026-09-08T07:08:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油WTI、RSI75超えで過熱警戒：毎時更新中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671698",
-      "published": "2026-09-08 07:08:57",
-      "isoDate": "2026-09-08T07:08:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Silver、65～68ドルのレンジで膠着中：毎時更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671697",
-      "published": "2026-09-08 07:08:55",
-      "isoDate": "2026-09-08T07:08:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "Gold、$4,453でサポート攻防中：リアルタイム更新",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671694",
-      "published": "2026-09-08 07:07:58",
-      "isoDate": "2026-09-08T07:07:58Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "コーニング株、ベライゾンとの数十億ドル規模の光ファイバー契約で3%上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672684",
-      "published": "2026-09-08 13:19:48",
-      "isoDate": "2026-09-08T13:19:48Z"
+      "title": "アドバンスト・マイクロ・デバイセズ株が急騰、2兆ドルのAI市場を狙う",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672944",
+      "published": "2026-09-08 16:20:44",
+      "isoDate": "2026-09-08T16:20:44Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "クアルコム株が9.5%急騰、アマゾンとのAI提携と2500万株ワラントを発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672665",
-      "published": "2026-09-08 13:09:51",
-      "isoDate": "2026-09-08T13:09:51Z"
+      "title": "S&P 500、7,650サポートで分岐点：今時間の水準を確認",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1671827",
+      "published": "2026-09-08 14:12:21",
+      "isoDate": "2026-09-08T14:12:21Z"
     },
     {
       "source": "Investing.com 外為",
