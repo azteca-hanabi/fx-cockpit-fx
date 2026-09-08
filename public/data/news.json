@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T21:19:59Z",
-  "last_checked": "2026-09-08T21:19:59Z",
+  "updated": "2026-09-08T23:34:11Z",
+  "last_checked": "2026-09-08T23:34:11Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NY為替：米財務省による国債買い戻しを見込んだ債券利回りが低下",
+      "link": "https://jp.investing.com/news/forex-news/article-1673263",
+      "published": "2026-09-08 21:15:04",
+      "isoDate": "2026-09-08T21:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "S&P 500、7640サポート攻防で急変前夜：今時間の水準は",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1671827",
       "published": "2026-09-08 19:12:54",
@@ -83,17 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ株が急騰、2兆ドルのAI市場を狙う",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672944",
-      "published": "2026-09-08 16:20:44",
-      "isoDate": "2026-09-08T16:20:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "IONQが256ビット暗号を26日で解読するロードマップを公開",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1672453",
-      "published": "2026-09-08 11:48:02",
-      "isoDate": "2026-09-08T11:48:02Z"
+      "title": "TernusのCEO就任後初のiPhoneイベント、投資家が注目すべき点",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672782",
+      "published": "2026-09-08 14:07:20",
+      "isoDate": "2026-09-08T14:07:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米カースル、ストラテジー優先株配当をビットコインに自動転換する機能を提供",
+      "link": "https://coinpost.jp/?p=736382",
+      "published": "Wed, 09 Sep 2026 08:05:24 +0900",
+      "isoDate": "2026-09-08T23:05:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロビンフッド、クリプトドットコムから独立した予測市場「オージードットコム」と提携",
+      "link": "https://coinpost.jp/?p=736401",
+      "published": "Wed, 09 Sep 2026 07:45:16 +0900",
+      "isoDate": "2026-09-08T22:45:16Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ストライブ、1375BTCを追加購入し保有2.4万ビットコインに拡大",
       "link": "https://coinpost.jp/?p=736385",
       "published": "Wed, 09 Sep 2026 06:10:31 +0900",
@@ -187,13 +201,6 @@
       "link": "https://coinpost.jp/?p=736097",
       "published": "Tue, 08 Sep 2026 10:00:27 +0900",
       "isoDate": "2026-09-08T01:00:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "リキッドのビットコイン流出事件、自称ホワイトハットが3400BTC返還",
-      "link": "https://coinpost.jp/?p=736080",
-      "published": "Tue, 08 Sep 2026 06:15:16 +0900",
-      "isoDate": "2026-09-07T21:15:16Z"
     }
   ]
 }
