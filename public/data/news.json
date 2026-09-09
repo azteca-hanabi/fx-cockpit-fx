@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-08T23:34:11Z",
-  "last_checked": "2026-09-08T23:34:11Z",
+  "updated": "2026-09-09T03:58:51Z",
+  "last_checked": "2026-09-09T03:58:51Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドル安で金価格上昇、FRB利上げ懸念が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1673437",
+      "published": "2026-09-09 01:43:53",
+      "isoDate": "2026-09-09T01:43:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油相場が続伸、ブレント原油は1バレル100ドル迫る－米イラン緊張激化",
+      "link": "https://jp.investing.com/news/commodities-news/article-1673427",
+      "published": "2026-09-09 01:40:59",
+      "isoDate": "2026-09-09T01:40:59Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "WTI原油、MACDベアクロスで反落警戒：リアルタイム更新中",
@@ -57,57 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672882",
       "published": "2026-09-08 15:04:47",
       "isoDate": "2026-09-08T15:04:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ダンゴテ製油所CEO、イランとの戦争終結後も燃料不足が続くと警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672754",
-      "published": "2026-09-08 13:50:32",
-      "isoDate": "2026-09-08T13:50:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、ケープサイズ船の上昇に支えられ小幅高",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1672614",
-      "published": "2026-09-08 12:49:14",
-      "isoDate": "2026-09-08T12:49:14Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米財務省による国債買い戻しを見込んだ債券利回りが低下",
-      "link": "https://jp.investing.com/news/forex-news/article-1673263",
-      "published": "2026-09-08 21:15:04",
-      "isoDate": "2026-09-08T21:15:04Z"
+      "title": "東京為替：ドル・円は底堅い、ドルに買戻し",
+      "link": "https://jp.investing.com/news/forex-news/article-1673490",
+      "published": "2026-09-09 03:30:13",
+      "isoDate": "2026-09-09T03:30:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "S&P 500、7640サポート攻防で急変前夜：今時間の水準は",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1671827",
-      "published": "2026-09-08 19:12:54",
-      "isoDate": "2026-09-08T19:12:54Z"
+      "title": "プラス圏で推移も上げ幅限定的",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1673483",
+      "published": "2026-09-09 03:15:15",
+      "isoDate": "2026-09-09T03:15:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "TernusのCEO就任後初のiPhoneイベント、投資家が注目すべき点",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672782",
-      "published": "2026-09-08 14:07:20",
-      "isoDate": "2026-09-08T14:07:20Z"
+      "title": "日経平均は反発、プラス圏で推移も上げ幅限定的",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1673482",
+      "published": "2026-09-09 03:15:14",
+      "isoDate": "2026-09-09T03:15:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "PalantirとNebius、ソブリンAIインフラで提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1672351",
-      "published": "2026-09-08 11:07:02",
-      "isoDate": "2026-09-08T11:07:02Z"
+      "title": "ドル安で金価格上昇、FRB利上げ懸念が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1673437",
+      "published": "2026-09-09 01:43:53",
+      "isoDate": "2026-09-09T01:43:53Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体株、夏の18%急落後の展望をシティが分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672269",
-      "published": "2026-09-08 10:24:37",
-      "isoDate": "2026-09-08T10:24:37Z"
+      "title": "個別銘柄戦略: Fスターズやセルソースに注目",
+      "link": "https://jp.investing.com/news/forex-news/article-1673375",
+      "published": "2026-09-09 00:15:07",
+      "isoDate": "2026-09-09T00:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体やAI関連株の底堅さを見極め買い戻しの動きへ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1673361",
+      "published": "2026-09-08 23:45:06",
+      "isoDate": "2026-09-08T23:45:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,71 +143,7 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671926",
       "published": "2026-09-08 04:15:14",
       "isoDate": "2026-09-08T04:15:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "下げ幅を消してプラス圏を回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671919",
-      "published": "2026-09-08 03:30:12",
-      "isoDate": "2026-09-08T03:30:12Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米カースル、ストラテジー優先株配当をビットコインに自動転換する機能を提供",
-      "link": "https://coinpost.jp/?p=736382",
-      "published": "Wed, 09 Sep 2026 08:05:24 +0900",
-      "isoDate": "2026-09-08T23:05:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロビンフッド、クリプトドットコムから独立した予測市場「オージードットコム」と提携",
-      "link": "https://coinpost.jp/?p=736401",
-      "published": "Wed, 09 Sep 2026 07:45:16 +0900",
-      "isoDate": "2026-09-08T22:45:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライブ、1375BTCを追加購入し保有2.4万ビットコインに拡大",
-      "link": "https://coinpost.jp/?p=736385",
-      "published": "Wed, 09 Sep 2026 06:10:31 +0900",
-      "isoDate": "2026-09-08T21:10:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、先週ビットコイン追加購入なし",
-      "link": "https://coinpost.jp/?p=736370",
-      "published": "Tue, 08 Sep 2026 22:00:25 +0900",
-      "isoDate": "2026-09-08T13:00:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン需給構造改善も現物需要が課題＝レポート",
-      "link": "https://coinpost.jp/?p=736325",
-      "published": "Tue, 08 Sep 2026 17:39:24 +0900",
-      "isoDate": "2026-09-08T08:39:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン8月25％高、上位銘柄8割上昇＝CryptoRank",
-      "link": "https://coinpost.jp/?p=736308",
-      "published": "Tue, 08 Sep 2026 16:51:30 +0900",
-      "isoDate": "2026-09-08T07:51:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AIエージェント経済の「通貨」を目指すFLOP、AIが計算資源を自律的に調達できるネットワーク",
-      "link": "https://coinpost.jp/?p=736215",
-      "published": "Tue, 08 Sep 2026 13:50:49 +0900",
-      "isoDate": "2026-09-08T04:50:49Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ジーキャッシュなどプライバシー銘柄のリターンが他を圧倒」グラスノード報告",
-      "link": "https://coinpost.jp/?p=736097",
-      "published": "Tue, 08 Sep 2026 10:00:27 +0900",
-      "isoDate": "2026-09-08T01:00:27Z"
-    }
-  ]
+  "btc_items": []
 }
