@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09T20:44:01Z",
-  "last_checked": "2026-09-09T20:44:01Z",
+  "updated": "2026-09-09T23:05:02Z",
+  "last_checked": "2026-09-09T23:05:02Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "【随時更新】Micronが主要レジスタンス$1,030～1,050に迫り上ヒゲ点灯",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1672787",
-      "published": "2026-09-09 19:11:51",
-      "isoDate": "2026-09-09T19:11:51Z"
+      "title": "NY金：小反発で4,443.10ドル、原油高によるインフレ警戒と利上げ観測が交錯し方向感を欠く",
+      "link": "https://jp.investing.com/news/forex-news/article-1675069",
+      "published": "2026-09-09 22:30:05",
+      "isoDate": "2026-09-09T22:30:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、折りたたみ式「iPhone Duo」を1,999ドルで発表——ラインナップの高価格化が加速",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1674803",
-      "published": "2026-09-09 18:37:04",
-      "isoDate": "2026-09-09T18:37:04Z"
+      "title": "9日の米国市場ダイジェスト：米国株式市場は続落、原油高でインフレ懸念が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1675031",
+      "published": "2026-09-09 21:45:04",
+      "isoDate": "2026-09-09T21:45:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、iPhone 18 ProおよびiPhone 18 Pro Maxを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1674727",
-      "published": "2026-09-09 17:15:01",
-      "isoDate": "2026-09-09T17:15:01Z"
+      "title": "円高でトヨタも下落、「売られすぎ自動車株」3銘柄をAIで特定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1674702",
+      "published": "2026-09-09 16:50:34",
+      "isoDate": "2026-09-09T16:50:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースX株が本日下落している理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1674641",
+      "published": "2026-09-09 15:50:24",
+      "isoDate": "2026-09-09T15:50:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ダウ株が本日上昇している理由とは？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1674323",
+      "published": "2026-09-09 13:15:22",
+      "isoDate": "2026-09-09T13:15:22Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "+196%超の利益を記録中：AIが選んだ半導体株がS&P 500を大幅に上回る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1673687",
-      "published": "2026-09-09 07:47:13",
-      "isoDate": "2026-09-09T07:47:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "後場の日経平均は267円高でスタート、古河電工やフジクラなどが上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1673497",
       "published": "2026-09-09 04:00:17",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1673437",
       "published": "2026-09-09 01:43:53",
       "isoDate": "2026-09-09T01:43:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円急伸で上昇期待の内需株、「これから上がる銘柄」をAIで特定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672100",
-      "published": "2026-09-08 08:15:24",
-      "isoDate": "2026-09-08T08:15:24Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "カナリー・キャピタル、トロン現物ステーキングETFを米国で初上場",
+      "link": "https://coinpost.jp/?p=736600",
+      "published": "Thu, 10 Sep 2026 06:10:46 +0900",
+      "isoDate": "2026-09-09T21:10:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イタリア中央銀行、決済・仮想通貨事業者に制裁順守強化を要請",
+      "link": "https://coinpost.jp/?p=736601",
+      "published": "Thu, 10 Sep 2026 05:50:48 +0900",
+      "isoDate": "2026-09-09T20:50:48Z"
+    },
     {
       "source": "CoinPost",
       "title": "ドイツ財務省、仮想通貨売却益に一律25%課税を提案",
@@ -187,20 +201,6 @@
       "link": "https://coinpost.jp/?p=736424",
       "published": "Wed, 09 Sep 2026 09:51:20 +0900",
       "isoDate": "2026-09-09T00:51:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米カースル、ストラテジー優先株配当をビットコインに自動転換する機能を提供",
-      "link": "https://coinpost.jp/?p=736382",
-      "published": "Wed, 09 Sep 2026 08:05:24 +0900",
-      "isoDate": "2026-09-08T23:05:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロビンフッド、クリプトドットコムから独立した予測市場「オージードットコム」と提携",
-      "link": "https://coinpost.jp/?p=736401",
-      "published": "Wed, 09 Sep 2026 07:45:16 +0900",
-      "isoDate": "2026-09-08T22:45:16Z"
     }
   ]
 }
