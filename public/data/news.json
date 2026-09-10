@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T16:07:26Z",
-  "last_checked": "2026-09-10T16:07:26Z",
+  "updated": "2026-09-10T19:11:52Z",
+  "last_checked": "2026-09-10T19:11:52Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaのファウンダーCEO、サイバーセキュリティがAIの次の主要ユースケースになると発言",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1676648",
+      "published": "2026-09-10 17:22:28",
+      "isoDate": "2026-09-10T17:22:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アップル、折りたたみiPhone「Duo」発表後にアナリストの評価が分かれる",
       "link": "https://jp.investing.com/news/stock-market-news/article-1675947",
       "published": "2026-09-10 11:34:33",
@@ -101,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1675624",
       "published": "2026-09-10 09:15:12",
       "isoDate": "2026-09-10T09:15:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾セミコンダクター・マニュファクチャリングの8月売上高、AI需要に支えられ53%増",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1675404",
-      "published": "2026-09-10 05:55:53",
-      "isoDate": "2026-09-10T05:55:53Z"
     },
     {
       "source": "Investing.com 外為",
