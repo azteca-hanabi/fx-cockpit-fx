@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T01:20:08Z",
-  "last_checked": "2026-09-10T01:20:08Z",
+  "updated": "2026-09-10T06:29:24Z",
+  "last_checked": "2026-09-10T06:29:24Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Nvидiaがオーストラリアのデータセンター拡張に向けてパートナーシップを締結",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1675181",
-      "published": "2026-09-10 00:32:38",
-      "isoDate": "2026-09-10T00:32:38Z"
+      "title": "台湾セミコンダクター・マニュファクチャリングの8月売上高、AI需要に支えられ53%増",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1675404",
+      "published": "2026-09-10 05:55:53",
+      "isoDate": "2026-09-10T05:55:53Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前場に注目すべき3つのポイント～戻り待ち狙いの売りが入りやすい～",
-      "link": "https://jp.investing.com/news/forex-news/article-1675137",
-      "published": "2026-09-10 00:00:07",
-      "isoDate": "2026-09-10T00:00:07Z"
+      "title": "金利上昇と原油高が重し",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1675320",
+      "published": "2026-09-10 03:15:16",
+      "isoDate": "2026-09-10T03:15:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "9日の米国市場ダイジェスト：米国株式市場は続落、原油高でインフレ懸念が再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1675031",
-      "published": "2026-09-09 21:45:04",
-      "isoDate": "2026-09-09T21:45:04Z"
+      "title": "AI需要がガイダンス引き上げを牽引、半導体株が12%急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1675236",
+      "published": "2026-09-10 01:34:40",
+      "isoDate": "2026-09-10T01:34:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物は横ばい、長期金利上昇でウォール街下落——PPIとCPIに注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1675195",
+      "published": "2026-09-10 00:50:04",
+      "isoDate": "2026-09-10T00:50:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は374円安でスタート、三井金属や丸紅などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1675190",
+      "published": "2026-09-10 00:45:09",
+      "isoDate": "2026-09-10T00:45:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,20 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ダウ株が本日上昇している理由とは？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1674323",
-      "published": "2026-09-09 13:15:22",
-      "isoDate": "2026-09-09T13:15:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "プレマーケット動向：Meta PlatformsがAIエージェント発表で急騰、NETGEARも大幅高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1673990",
-      "published": "2026-09-09 11:28:15",
-      "isoDate": "2026-09-09T11:28:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "S&P 500が短期的に最大10%下落の可能性、RBCが3要因を指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1673910",
       "published": "2026-09-09 10:56:22",
@@ -132,20 +132,62 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は267円高でスタート、古河電工やフジクラなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1673497",
-      "published": "2026-09-09 04:00:17",
-      "isoDate": "2026-09-09T04:00:17Z"
+      "title": "中東情勢悪化でエネルギー株上昇、AIが選ぶ「まだ上がる銘柄」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1673798",
+      "published": "2026-09-09 09:41:30",
+      "isoDate": "2026-09-09T09:41:30Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格が1オンス4,440ドル超に上昇、ドル安と中東情勢が支援",
-      "link": "https://jp.investing.com/news/commodities-news/article-1673437",
-      "published": "2026-09-09 01:43:53",
-      "isoDate": "2026-09-09T01:43:53Z"
+      "title": "ビットコイン、Zcash 急騰を背景に7万9400ドルに反発、米利上げと原油高が上値を抑制",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1673553",
+      "published": "2026-09-09 06:21:51",
+      "isoDate": "2026-09-09T06:21:51Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、8.3万〜8.6万ドル手前で足踏み＝Glassnode分析",
+      "link": "https://coinpost.jp/?p=736687",
+      "published": "Thu, 10 Sep 2026 14:00:15 +0900",
+      "isoDate": "2026-09-10T05:00:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米当局、中国系違法市場シンビ摘発｜ステーブルコインUSDTを80億円相当凍結",
+      "link": "https://coinpost.jp/?p=736664",
+      "published": "Thu, 10 Sep 2026 13:00:20 +0900",
+      "isoDate": "2026-09-10T04:00:20Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米カルシ、金と銀の無期限先物提供を申請",
+      "link": "https://coinpost.jp/?p=736619",
+      "published": "Thu, 10 Sep 2026 11:40:57 +0900",
+      "isoDate": "2026-09-10T02:40:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米業界2団体、イリノイ州仮想通貨税の差止め申立て",
+      "link": "https://coinpost.jp/?p=736655",
+      "published": "Thu, 10 Sep 2026 11:01:38 +0900",
+      "isoDate": "2026-09-10T02:01:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イラン中央銀行、仮想通貨での輸出代金還流を容認＝報道",
+      "link": "https://coinpost.jp/?p=736595",
+      "published": "Thu, 10 Sep 2026 10:45:36 +0900",
+      "isoDate": "2026-09-10T01:45:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米老舗レストラン、加盟店売上19％増　ビットコイン決済効果",
+      "link": "https://coinpost.jp/?p=736635",
+      "published": "Thu, 10 Sep 2026 10:15:02 +0900",
+      "isoDate": "2026-09-10T01:15:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "ハイパーリキッド関連団体、無期限先物めぐりCFTCを支持　CME原告訴訟で",
@@ -173,20 +215,6 @@
       "link": "https://coinpost.jp/?p=736581",
       "published": "Thu, 10 Sep 2026 05:00:50 +0900",
       "isoDate": "2026-09-09T20:00:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応",
-      "link": "https://coinpost.jp/?p=736534",
-      "published": "Wed, 09 Sep 2026 17:00:27 +0900",
-      "isoDate": "2026-09-09T08:00:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米NY州都市、仮想通貨採掘・AIデータセンター新設承認の一時停止措置検討",
-      "link": "https://coinpost.jp/?p=736451",
-      "published": "Wed, 09 Sep 2026 12:00:23 +0900",
-      "isoDate": "2026-09-09T03:00:23Z"
     }
   ]
 }
