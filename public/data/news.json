@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T21:46:50Z",
-  "last_checked": "2026-09-10T21:46:50Z",
+  "updated": "2026-09-10T23:51:29Z",
+  "last_checked": "2026-09-10T23:51:29Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -145,83 +145,5 @@
       "isoDate": "2026-09-09T06:21:51Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "コインベースのアームストロングCEO、ビットコイン底打ちの見解示す",
-      "link": "https://coinpost.jp/?p=736805",
-      "published": "Fri, 11 Sep 2026 06:40:24 +0900",
-      "isoDate": "2026-09-10T21:40:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズ、ドージコイン現物ETFを運用終了へ　上場から1年足らずで",
-      "link": "https://coinpost.jp/?p=736808",
-      "published": "Fri, 11 Sep 2026 06:20:32 +0900",
-      "isoDate": "2026-09-10T21:20:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ナスダック、ペイワードに1億ドル出資　トークン化株式を来年始動へ",
-      "link": "https://coinpost.jp/?p=736798",
-      "published": "Fri, 11 Sep 2026 05:00:22 +0900",
-      "isoDate": "2026-09-10T20:00:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン反発、現物より先物優勢　準備高は改善傾向＝アナリスト",
-      "link": "https://coinpost.jp/?p=736765",
-      "published": "Thu, 10 Sep 2026 17:29:26 +0900",
-      "isoDate": "2026-09-10T08:29:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8.3万〜8.6万ドル手前で足踏み＝Glassnode分析",
-      "link": "https://coinpost.jp/?p=736687",
-      "published": "Thu, 10 Sep 2026 14:00:15 +0900",
-      "isoDate": "2026-09-10T05:00:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米当局、中国系違法市場シンビ摘発｜ステーブルコインUSDTを80億円相当凍結",
-      "link": "https://coinpost.jp/?p=736664",
-      "published": "Thu, 10 Sep 2026 13:00:20 +0900",
-      "isoDate": "2026-09-10T04:00:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米カルシ、金と銀の無期限先物提供を申請",
-      "link": "https://coinpost.jp/?p=736619",
-      "published": "Thu, 10 Sep 2026 11:40:57 +0900",
-      "isoDate": "2026-09-10T02:40:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米業界2団体、イリノイ州仮想通貨税の差止め申立て",
-      "link": "https://coinpost.jp/?p=736655",
-      "published": "Thu, 10 Sep 2026 11:01:38 +0900",
-      "isoDate": "2026-09-10T02:01:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イラン中央銀行、仮想通貨での輸出代金還流を容認＝報道",
-      "link": "https://coinpost.jp/?p=736595",
-      "published": "Thu, 10 Sep 2026 10:45:36 +0900",
-      "isoDate": "2026-09-10T01:45:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米老舗レストラン、加盟店売上19％増　ビットコイン決済効果",
-      "link": "https://coinpost.jp/?p=736635",
-      "published": "Thu, 10 Sep 2026 10:15:02 +0900",
-      "isoDate": "2026-09-10T01:15:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハイパーリキッド関連団体、無期限先物めぐりCFTCを支持　CME原告訴訟で",
-      "link": "https://coinpost.jp/?p=736620",
-      "published": "Thu, 10 Sep 2026 10:00:08 +0900",
-      "isoDate": "2026-09-10T01:00:08Z"
-    }
-  ]
+  "btc_items": []
 }
