@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-11T19:57:27Z",
-  "last_checked": "2026-09-11T19:57:27Z",
+  "updated": "2026-09-11T22:27:12Z",
+  "last_checked": "2026-09-11T22:27:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の掘削活動増加とホルムズ海峡協議の進展で原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678148",
+      "published": "2026-09-11 20:33:22",
+      "isoDate": "2026-09-11T20:33:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アルゼンチン農家、価格上昇を受けて大豆販売を増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678139",
+      "published": "2026-09-11 20:29:35",
+      "isoDate": "2026-09-11T20:29:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】WTI原油、$104.44急騰後に反落サイン-$97.54が分岐点",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1677950",
       "published": "2026-09-11 14:17:34",
       "isoDate": "2026-09-11T14:17:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金対プラチナ：第4四半期に投資家が保有すべき金属はどちらか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1677944",
-      "published": "2026-09-11 14:11:21",
-      "isoDate": "2026-09-11T14:11:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック乾燥貨物指数、1週間超ぶりの安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1677830",
-      "published": "2026-09-11 13:09:59",
-      "isoDate": "2026-09-11T13:09:59Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：米8月消費者物価指数（CPI）が前月比で伸び加速",
+      "link": "https://jp.investing.com/news/forex-news/article-1678197",
+      "published": "2026-09-11 21:45:04",
+      "isoDate": "2026-09-11T21:45:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米8月CPI、ドルは乱高下",
@@ -104,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "AIが見抜いた「台湾ハイテク株」の実力、1カ月で91%の急騰に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671927",
+      "published": "2026-09-11 08:20:07",
+      "isoDate": "2026-09-11T08:20:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "シティが選ぶ中国インターネットセクターのトップ5銘柄",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1677315",
       "published": "2026-09-11 07:02:48",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1677187",
       "published": "2026-09-11 03:30:19",
       "isoDate": "2026-09-11T03:30:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アジア株急落、原油高と利上げ観測がチップ楽観論を圧倒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1677176",
-      "published": "2026-09-11 03:14:47",
-      "isoDate": "2026-09-11T03:14:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比160円安の64015円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1677129",
-      "published": "2026-09-11 01:45:11",
-      "isoDate": "2026-09-11T01:45:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米8月CPI、コア指数が予想上振れ｜ビットコインは急伸後反落",
+      "link": "https://coinpost.jp/?p=737057",
+      "published": "Sat, 12 Sep 2026 06:50:41 +0900",
+      "isoDate": "2026-09-11T21:50:41Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、株主意見を踏まえ第10回の潜在株式を41%削減",
+      "link": "https://coinpost.jp/?p=737059",
+      "published": "Sat, 12 Sep 2026 05:55:52 +0900",
+      "isoDate": "2026-09-11T20:55:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットが香港子会社設立へ、ビットコイン資産運用体制を強化",
+      "link": "https://coinpost.jp/?p=737046",
+      "published": "Sat, 12 Sep 2026 05:00:02 +0900",
+      "isoDate": "2026-09-11T20:00:02Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン市場が弱含み、変わらねば調整局面も＝アナリスト",
@@ -187,27 +208,6 @@
       "link": "https://coinpost.jp/?p=736804",
       "published": "Fri, 11 Sep 2026 09:30:15 +0900",
       "isoDate": "2026-09-11T00:30:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "100人超の研究者ら、ビットコインとイーサリアムの量子攻撃計算量見積もりを半減",
-      "link": "https://coinpost.jp/?p=736806",
-      "published": "Fri, 11 Sep 2026 07:10:27 +0900",
-      "isoDate": "2026-09-10T22:10:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースCEO「ビットコイン底打ち」、40万ドル目標を維持",
-      "link": "https://coinpost.jp/?p=736805",
-      "published": "Fri, 11 Sep 2026 06:40:24 +0900",
-      "isoDate": "2026-09-10T21:40:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズ、ドージコイン現物ETFを運用終了へ　上場から1年足らずで",
-      "link": "https://coinpost.jp/?p=736808",
-      "published": "Fri, 11 Sep 2026 06:20:32 +0900",
-      "isoDate": "2026-09-10T21:20:32Z"
     }
   ]
 }
