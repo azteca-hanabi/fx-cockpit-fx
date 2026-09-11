@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-11T17:06:07Z",
-  "last_checked": "2026-09-11T17:06:07Z",
+  "updated": "2026-09-11T19:57:27Z",
+  "last_checked": "2026-09-11T19:57:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、$104.44急騰後に反落サイン-$97.54が分岐点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671698",
+      "published": "2026-09-11 19:12:35",
+      "isoDate": "2026-09-11T19:12:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$104.87でパラボリック急騰後の反落リスク高まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671696",
+      "published": "2026-09-11 19:12:29",
+      "isoDate": "2026-09-11T19:12:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、下落トレンド継続中-$63.20割れで一段安警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671697",
+      "published": "2026-09-11 19:11:53",
+      "isoDate": "2026-09-11T19:11:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper急落、売られすぎシグナル点灯で攻防継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671695",
+      "published": "2026-09-11 19:11:49",
+      "isoDate": "2026-09-11T19:11:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、$4,356のSMA200サポートが分水嶺-転換点を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671694",
+      "published": "2026-09-11 19:11:34",
+      "isoDate": "2026-09-11T19:11:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、金曜日に1バレル当たり16.92ドル上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678055",
+      "published": "2026-09-11 17:19:50",
+      "isoDate": "2026-09-11T17:19:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銀スポット価格が本日上昇している理由とは",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678047",
+      "published": "2026-09-11 17:03:13",
+      "isoDate": "2026-09-11T17:03:13Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "牛ひき肉の価格、トランプ政権の輸入促進策にもかかわらず過去最高値を更新",
@@ -22,65 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1677830",
       "published": "2026-09-11 13:09:59",
       "isoDate": "2026-09-11T13:09:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが9月利上げで金価格が短期的に下落する可能性を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1677644",
-      "published": "2026-09-11 11:28:42",
-      "isoDate": "2026-09-11T11:28:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、5週連続の週間上昇を記録——中東リスクが下支え",
-      "link": "https://jp.investing.com/news/commodities-news/article-1677408",
-      "published": "2026-09-11 08:27:30",
-      "isoDate": "2026-09-11T08:27:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Crude Oil WTI、$104.44高値から急反落-転換点に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671698",
-      "published": "2026-09-11 07:09:34",
-      "isoDate": "2026-09-11T07:09:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、109.68ドルから急反落で調整局面入り",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671696",
-      "published": "2026-09-11 07:09:33",
-      "isoDate": "2026-09-11T07:09:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、下落トレンド継続で200SMA（63.64）が焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671697",
-      "published": "2026-09-11 07:09:31",
-      "isoDate": "2026-09-11T07:09:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、200SMA＆フィボ61.8%の分水嶺で売り継続か反発か",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671695",
-      "published": "2026-09-11 07:09:29",
-      "isoDate": "2026-09-11T07:09:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、4,340ドルのサポート攻防でトレンド分岐点に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671694",
-      "published": "2026-09-11 07:09:00",
-      "isoDate": "2026-09-11T07:09:00Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米9月ミシガン大消費者信頼感指数は予想以上に悪化、期待インフレ率は上昇、ドル安値圏",
-      "link": "https://jp.investing.com/news/forex-news/article-1677985",
-      "published": "2026-09-11 14:45:04",
-      "isoDate": "2026-09-11T14:45:04Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米8月CPI、ドルは乱高下",
@@ -122,6 +115,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1677187",
       "published": "2026-09-11 03:30:19",
       "isoDate": "2026-09-11T03:30:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジア株急落、原油高と利上げ観測がチップ楽観論を圧倒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1677176",
+      "published": "2026-09-11 03:14:47",
+      "isoDate": "2026-09-11T03:14:47Z"
     },
     {
       "source": "Investing.com 外為",
