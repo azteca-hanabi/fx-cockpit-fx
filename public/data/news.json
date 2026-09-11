@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-11T13:24:23Z",
-  "last_checked": "2026-09-11T13:24:23Z",
+  "updated": "2026-09-11T17:06:07Z",
+  "last_checked": "2026-09-11T17:06:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "牛ひき肉の価格、トランプ政権の輸入促進策にもかかわらず過去最高値を更新",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1677950",
+      "published": "2026-09-11 14:17:34",
+      "isoDate": "2026-09-11T14:17:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金対プラチナ：第4四半期に投資家が保有すべき金属はどちらか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1677944",
+      "published": "2026-09-11 14:11:21",
+      "isoDate": "2026-09-11T14:11:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック乾燥貨物指数、1週間超ぶりの安値に下落",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1671694",
       "published": "2026-09-11 07:09:00",
       "isoDate": "2026-09-11T07:09:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格上昇、ブレント原油が1バレル110ドルに迫る―中東供給リスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1677107",
-      "published": "2026-09-11 01:01:03",
-      "isoDate": "2026-09-11T01:01:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、重要な米インフレ指標の発表を前に小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1677097",
-      "published": "2026-09-11 00:53:24",
-      "isoDate": "2026-09-11T00:53:24Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】米9月ミシガン大消費者信頼感指数は予想以上に悪化、期待インフレ率は上昇、ドル安値圏",
+      "link": "https://jp.investing.com/news/forex-news/article-1677985",
+      "published": "2026-09-11 14:45:04",
+      "isoDate": "2026-09-11T14:45:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "【市場反応】米8月CPI、ドルは乱高下",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1677637",
       "published": "2026-09-11 11:26:55",
       "isoDate": "2026-09-11T11:26:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "9月にS&P500を上回るAI搭載戦略が3つ登場",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1677556",
-      "published": "2026-09-11 10:30:13",
-      "isoDate": "2026-09-11T10:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -145,5 +145,69 @@
       "isoDate": "2026-09-10T09:18:06Z"
     }
   ],
-  "btc_items": []
+  "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン市場が弱含み、変わらねば調整局面も＝アナリスト",
+      "link": "https://coinpost.jp/?p=737016",
+      "published": "Fri, 11 Sep 2026 17:32:47 +0900",
+      "isoDate": "2026-09-11T08:32:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁、4〜6月期の投資商品・暗号資産など詐欺勧誘1961件相談　8割超被害",
+      "link": "https://coinpost.jp/?p=736988",
+      "published": "Fri, 11 Sep 2026 16:40:13 +0900",
+      "isoDate": "2026-09-11T07:40:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブロックストリーム、リキッド攻撃者への身代金拒否を表明",
+      "link": "https://coinpost.jp/?p=736967",
+      "published": "Fri, 11 Sep 2026 16:14:07 +0900",
+      "isoDate": "2026-09-11T07:14:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "英国上院、仮想通貨戦略の策定義務化案を可決　規制競争で欧米に対抗",
+      "link": "https://coinpost.jp/?p=736891",
+      "published": "Fri, 11 Sep 2026 11:33:38 +0900",
+      "isoDate": "2026-09-11T02:33:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "マネーグラム、ステーブルコインカードをローンチ　ステラチェーン採用",
+      "link": "https://coinpost.jp/?p=736859",
+      "published": "Fri, 11 Sep 2026 11:00:49 +0900",
+      "isoDate": "2026-09-11T02:00:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米地域銀行にステーブルコイン決済基盤、コインベースとムーブが提供",
+      "link": "https://coinpost.jp/?p=736804",
+      "published": "Fri, 11 Sep 2026 09:30:15 +0900",
+      "isoDate": "2026-09-11T00:30:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "100人超の研究者ら、ビットコインとイーサリアムの量子攻撃計算量見積もりを半減",
+      "link": "https://coinpost.jp/?p=736806",
+      "published": "Fri, 11 Sep 2026 07:10:27 +0900",
+      "isoDate": "2026-09-10T22:10:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベースCEO「ビットコイン底打ち」、40万ドル目標を維持",
+      "link": "https://coinpost.jp/?p=736805",
+      "published": "Fri, 11 Sep 2026 06:40:24 +0900",
+      "isoDate": "2026-09-10T21:40:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズ、ドージコイン現物ETFを運用終了へ　上場から1年足らずで",
+      "link": "https://coinpost.jp/?p=736808",
+      "published": "Fri, 11 Sep 2026 06:20:32 +0900",
+      "isoDate": "2026-09-10T21:20:32Z"
+    }
+  ]
 }
