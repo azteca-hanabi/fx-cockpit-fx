@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T05:29:47Z",
-  "last_checked": "2026-09-12T05:29:47Z",
+  "updated": "2026-09-12T09:32:33Z",
+  "last_checked": "2026-09-12T09:32:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "来週・再来週の相場で注目すべき3つのポイント：米小売売上高、米FOMC、日銀会合",
+      "link": "https://jp.investing.com/news/forex-news/article-1678322",
+      "published": "2026-09-12 08:00:05",
+      "isoDate": "2026-09-12T08:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがAnthropicのIPOに最大100億ドル投資を協議中＝ロイター",
       "link": "https://jp.investing.com/news/company-news/article-1678267",
       "published": "2026-09-12 00:46:05",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1677458",
       "published": "2026-09-11 09:30:14",
       "isoDate": "2026-09-11T09:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国のAI半導体「燧原科技」がIPO、時価総額4兆円に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1677194",
-      "published": "2026-09-11 08:52:38",
-      "isoDate": "2026-09-11T08:52:38Z"
     },
     {
       "source": "Investing.com 外為",
