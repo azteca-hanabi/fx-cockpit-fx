@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T09:32:33Z",
-  "last_checked": "2026-09-12T09:32:33Z",
+  "updated": "2026-09-12T13:27:37Z",
+  "last_checked": "2026-09-12T13:27:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -83,6 +83,20 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "為替週間見通し：底堅いか、日米中銀会合通過後はドル売り・円買い一服も",
+      "link": "https://jp.investing.com/news/forex-news/article-1678321",
+      "published": "2026-09-12 07:00:04",
+      "isoDate": "2026-09-12T07:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：大型イベント通過後のリバウンドを見据える局面にも",
+      "link": "https://jp.investing.com/news/forex-news/article-1678317",
+      "published": "2026-09-12 06:45:04",
+      "isoDate": "2026-09-12T06:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがAnthropicのIPOに最大100億ドル投資を協議中＝ロイター",
       "link": "https://jp.investing.com/news/company-news/article-1678267",
       "published": "2026-09-12 00:46:05",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1671927",
       "published": "2026-09-11 08:20:07",
       "isoDate": "2026-09-11T08:20:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティが選ぶ中国インターネットセクターのトップ5銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1677315",
-      "published": "2026-09-11 07:02:48",
-      "isoDate": "2026-09-11T07:02:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "円急伸で日本株に再注目、「バフェット保有の5大商社」は買い時か？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1671761",
-      "published": "2026-09-10 12:28:05",
-      "isoDate": "2026-09-10T12:28:05Z"
     }
   ],
   "btc_items": [
