@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-11T22:27:12Z",
-  "last_checked": "2026-09-11T22:27:12Z",
+  "updated": "2026-09-12T00:32:44Z",
+  "last_checked": "2026-09-12T00:32:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米8月消費者物価指数（CPI）が前月比で伸び加速",
-      "link": "https://jp.investing.com/news/forex-news/article-1678197",
-      "published": "2026-09-11 21:45:04",
-      "isoDate": "2026-09-11T21:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】米8月CPI、ドルは乱高下",
-      "link": "https://jp.investing.com/news/forex-news/article-1677836",
-      "published": "2026-09-11 13:15:05",
-      "isoDate": "2026-09-11T13:15:05Z"
+      "title": "米国株式市場は反発、原油安を好感",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678225",
+      "published": "2026-09-11 23:00:06",
+      "isoDate": "2026-09-11T23:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "AIが特定した「円高メリット株」の本命、上昇余地は30％",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1672100",
+      "published": "2026-09-11 08:25:40",
+      "isoDate": "2026-09-11T08:25:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIが見抜いた「台湾ハイテク株」の実力、1カ月で91%の急騰に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1671927",
       "published": "2026-09-11 08:20:07",
@@ -125,17 +125,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反落、アドバンテストが1銘柄で約617円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1677187",
-      "published": "2026-09-11 03:30:19",
-      "isoDate": "2026-09-11T03:30:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "OpenAIのアルトマンCEO、安全性懸念でAI開発の減速を検討",
       "link": "https://jp.investing.com/news/stock-market-news/article-1677116",
       "published": "2026-09-11 01:17:48",
       "isoDate": "2026-09-11T01:17:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "円急伸で日本株に再注目、「バフェット保有の5大商社」は買い時か？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1671761",
+      "published": "2026-09-10 12:28:05",
+      "isoDate": "2026-09-10T12:28:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨スカイ価格5倍予想、オフチェーン中央銀行的存在＝スタンダードチャータード",
+      "link": "https://coinpost.jp/?p=737056",
+      "published": "Sat, 12 Sep 2026 08:25:44 +0900",
+      "isoDate": "2026-09-11T23:25:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "米8月CPI、コア指数が予想上振れ｜ビットコインは急伸後反落",
