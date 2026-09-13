@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T23:11:56Z",
-  "last_checked": "2026-09-12T23:11:56Z",
+  "updated": "2026-09-13T01:20:12Z",
+  "last_checked": "2026-09-13T01:20:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（9/11）｜クラリティー法案審議・8月の相場解説・ETH量子耐性化計画のまとめ",
+      "link": "https://coinpost.jp/?p=736890",
+      "published": "Sun, 13 Sep 2026 09:25:07 +0900",
+      "isoDate": "2026-09-13T00:25:07Z"
+    },
     {
       "source": "CoinPost",
       "title": "コインベース、ソーシャル機能撤退　ウォレット名を旧称に戻す",
