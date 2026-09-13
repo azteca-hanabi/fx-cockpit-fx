@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T06:39:16Z",
-  "last_checked": "2026-09-13T06:39:16Z",
+  "updated": "2026-09-13T12:37:43Z",
+  "last_checked": "2026-09-13T12:37:43Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,14 +76,42 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "韓国、半導体技術保護のためスパイ法を拡大",
-      "link": "https://jp.investing.com/news/economy-news/article-1678384",
-      "published": "2026-09-13 05:32:57",
-      "isoDate": "2026-09-13T05:32:57Z"
+      "title": "フランスのAIブーム、欧州の資金調達格差を浮き彫りに――新興企業は米国へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678403",
+      "published": "2026-09-13 09:50:55",
+      "isoDate": "2026-09-13T09:50:55Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXのナスダック100における構成比率、今月末に2倍以上に拡大へ――ブルームバーグ",
+      "title": "韓国、海外投資家誘致へ株式取引時間を延長",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678401",
+      "published": "2026-09-13 09:07:59",
+      "isoDate": "2026-09-13T09:07:59Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "株式市場を襲う「5つの危機シナリオ」、米銀行大手が指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678400",
+      "published": "2026-09-13 08:41:58",
+      "isoDate": "2026-09-13T08:41:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "投機筋、2月以来初めて円に強気転換",
+      "link": "https://jp.investing.com/news/forex-news/article-1678389",
+      "published": "2026-09-13 06:44:32",
+      "isoDate": "2026-09-13T06:44:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ、長年延期されてきた新型ロードスターを10月1日に発表へ",
+      "link": "https://jp.investing.com/news/company-news/article-1678388",
+      "published": "2026-09-13 05:58:53",
+      "isoDate": "2026-09-13T05:58:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXのナスダック100における構成比率、今月末に倍増超へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1678372",
       "published": "2026-09-13 00:07:59",
       "isoDate": "2026-09-13T00:07:59Z"
@@ -115,34 +143,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1678322",
       "published": "2026-09-12 08:00:05",
       "isoDate": "2026-09-12T08:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "為替週間見通し：底堅いか、日米中銀会合通過後はドル売り・円買い一服も",
-      "link": "https://jp.investing.com/news/forex-news/article-1678321",
-      "published": "2026-09-12 07:00:04",
-      "isoDate": "2026-09-12T07:00:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは509.19ドル高、原油安を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1678196",
-      "published": "2026-09-11 21:45:04",
-      "isoDate": "2026-09-11T21:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "カルシ、テスラとアップル株を対象とした株式先物計画を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1678136",
-      "published": "2026-09-11 20:25:32",
-      "isoDate": "2026-09-11T20:25:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが特定した「円高メリット株」の本命、上昇余地は30％",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1672100",
-      "published": "2026-09-11 08:25:40",
-      "isoDate": "2026-09-11T08:25:40Z"
     }
   ],
   "btc_items": [
