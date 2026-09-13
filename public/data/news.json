@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T16:53:57Z",
-  "last_checked": "2026-09-13T16:53:57Z",
+  "updated": "2026-09-13T19:14:33Z",
+  "last_checked": "2026-09-13T19:14:33Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ベセント長官は「バズーカ」発動する？　米長期金利5%超え阻止で",
+      "link": "https://jp.investing.com/news/economy-news/article-1678419",
+      "published": "2026-09-13 16:19:42",
+      "isoDate": "2026-09-13T16:19:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中央銀行はインフレ期待の設定において市場の見通しを重視すべき＝UBS",
+      "link": "https://jp.investing.com/news/economy-news/article-1678417",
+      "published": "2026-09-13 15:05:33",
+      "isoDate": "2026-09-13T15:05:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプの「解放の日2.0」、2028年に急激な政策転換をもたらすリスク＝BCA",
+      "link": "https://jp.investing.com/news/economy-news/article-1678412",
+      "published": "2026-09-13 13:34:14",
+      "isoDate": "2026-09-13T13:34:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "フランスのAIブーム、欧州の資金調達格差を浮き彫りに――新興企業は米国へ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1678403",
       "published": "2026-09-13 09:50:55",
       "isoDate": "2026-09-13T09:50:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "韓国、海外投資家誘致へ株式取引時間を延長",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678401",
-      "published": "2026-09-13 09:07:59",
-      "isoDate": "2026-09-13T09:07:59Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "投機筋、2月以来初めて円に強気転換",
+      "title": "投機筋が「円買い」に方向転換、2月以来初めて「強気」に",
       "link": "https://jp.investing.com/news/forex-news/article-1678389",
       "published": "2026-09-13 06:44:32",
       "isoDate": "2026-09-13T06:44:32Z"
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "Oracle Financial SoftwareのエリソンCTO、最大5000万株の売却計画を撤回",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678356",
-      "published": "2026-09-12 18:03:28",
-      "isoDate": "2026-09-12T18:03:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ゴールドマンが買い推奨の「バイオ株」、大型新薬で30%上昇期待",
       "link": "https://jp.investing.com/news/pro/article-432SI-1676917",
       "published": "2026-09-12 13:10:45",
       "isoDate": "2026-09-12T13:10:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティ、来週のFOMCで「ハト派的利上げ」を予想",
-      "link": "https://jp.investing.com/news/economy-news/article-1678337",
-      "published": "2026-09-12 10:57:57",
-      "isoDate": "2026-09-12T10:57:57Z"
     },
     {
       "source": "Investing.com 外為",
