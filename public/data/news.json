@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-13T23:58:35Z",
-  "last_checked": "2026-09-13T23:58:35Z",
+  "updated": "2026-09-14T04:43:59Z",
+  "last_checked": "2026-09-14T04:43:59Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米インフレ加速でFRB利上げ観測強まり、金価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1678498",
+      "published": "2026-09-14 01:38:00",
+      "isoDate": "2026-09-14T01:38:00Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "原油価格が3%超上昇、中東情勢緊迫化とホルムズ会議延期で",
@@ -64,22 +71,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678055",
       "published": "2026-09-11 17:19:50",
       "isoDate": "2026-09-11T17:19:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "銀スポット価格が本日上昇している理由とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678047",
-      "published": "2026-09-11 17:03:13",
-      "isoDate": "2026-09-11T17:03:13Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ＢＲＡＮＵ、キオクシアＨＤ◆今日のフィスコ注目銘柄◆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678448",
-      "published": "2026-09-13 23:45:06",
-      "isoDate": "2026-09-13T23:45:06Z"
+      "title": "後場の日経平均は449円安でスタート、ソフトバンクGやアドバンテストなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678546",
+      "published": "2026-09-14 04:00:15",
+      "isoDate": "2026-09-14T04:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場に注目すべき3つのポイント～値がさ株の下げが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1678543",
+      "published": "2026-09-14 03:30:14",
+      "isoDate": "2026-09-14T03:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンクＧ---大幅に続落も25日線接近で押し目狙い",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678534",
+      "published": "2026-09-14 03:00:14",
+      "isoDate": "2026-09-14T03:00:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジアのテック・半導体株が急落、FRBと日銀の決定を前にAI取引への懸念深まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678521",
+      "published": "2026-09-14 02:35:24",
+      "isoDate": "2026-09-14T02:35:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "フジクラ---大幅続落、アンソロピックCEOがAI開発減速を呼びかけ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678505",
+      "published": "2026-09-14 02:00:11",
+      "isoDate": "2026-09-14T02:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は351円安でスタート、キオクシアHDや東京エレクトロンなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678482",
+      "published": "2026-09-14 00:45:09",
+      "isoDate": "2026-09-14T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Amazon.com、致死的墜落事故後に21Airとの業務を一時停止",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678475",
+      "published": "2026-09-14 00:42:39",
+      "isoDate": "2026-09-14T00:42:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が急落、AI開発減速論と中東情勢悪化が重荷に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1678465",
+      "published": "2026-09-14 00:26:04",
+      "isoDate": "2026-09-14T00:26:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,62 +139,34 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NYの視点：【今週の注目イベント】FOMCや英中銀は据え置き、日銀は利上げ予想、米小売、日英CPIなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678435",
-      "published": "2026-09-13 22:45:03",
-      "isoDate": "2026-09-13T22:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1エアトリ、ファーマF、キオクシアHDなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678434",
-      "published": "2026-09-13 22:30:03",
-      "isoDate": "2026-09-13T22:30:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "11日のNY市場は反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678432",
-      "published": "2026-09-13 21:45:02",
-      "isoDate": "2026-09-13T21:45:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ベセント長官は「バズーカ」発動する？　金利5%超え阻止で",
-      "link": "https://jp.investing.com/news/economy-news/article-1678419",
-      "published": "2026-09-13 18:56:43",
-      "isoDate": "2026-09-13T18:56:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "株式市場を襲う「5つの危機シナリオ」、米銀行大手が指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1678400",
       "published": "2026-09-13 08:41:58",
       "isoDate": "2026-09-13T08:41:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceX、ナスダック100の構成比率が2倍超へ　今月末に引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678372",
-      "published": "2026-09-13 00:07:59",
-      "isoDate": "2026-09-13T00:07:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマンが買い推奨の「バイオ株」、大型新薬で30%上昇期待",
-      "link": "https://jp.investing.com/news/pro/article-432SI-1676917",
-      "published": "2026-09-12 13:10:45",
-      "isoDate": "2026-09-12T13:10:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週・再来週の相場で注目すべき3つのポイント：米小売売上高、米FOMC、日銀会合",
-      "link": "https://jp.investing.com/news/forex-news/article-1678322",
-      "published": "2026-09-12 08:00:05",
-      "isoDate": "2026-09-12T08:00:05Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法案、トランプ大統領が倫理規定に譲歩　ルミス氏らが最終案公表",
+      "link": "https://coinpost.jp/?p=737231",
+      "published": "Mon, 14 Sep 2026 11:56:15 +0900",
+      "isoDate": "2026-09-14T02:56:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米下院歳入委員会、仮想通貨税制やウォッシュセール規制で法案審査へ",
+      "link": "https://coinpost.jp/?p=737155",
+      "published": "Mon, 14 Sep 2026 10:05:47 +0900",
+      "isoDate": "2026-09-14T01:05:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "レボリュート、偽の政府要求でビットコイン履歴など顧客情報開示",
+      "link": "https://coinpost.jp/?p=737159",
+      "published": "Mon, 14 Sep 2026 09:18:29 +0900",
+      "isoDate": "2026-09-14T00:18:29Z"
+    },
     {
       "source": "CoinPost",
       "title": "ブラジル中銀の資本規制、仮想通貨業者9割超が撤退の可能性＝報道",
@@ -194,20 +215,6 @@
       "link": "https://coinpost.jp/?p=737056",
       "published": "Sat, 12 Sep 2026 08:25:44 +0900",
       "isoDate": "2026-09-11T23:25:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米8月CPI、コア指数が予想上振れ｜ビットコインは急伸後反落",
-      "link": "https://coinpost.jp/?p=737057",
-      "published": "Sat, 12 Sep 2026 06:50:41 +0900",
-      "isoDate": "2026-09-11T21:50:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、株主意見を踏まえ第10回の潜在株式を41%削減",
-      "link": "https://coinpost.jp/?p=737059",
-      "published": "Sat, 12 Sep 2026 05:55:52 +0900",
-      "isoDate": "2026-09-11T20:55:52Z"
     }
   ]
 }
