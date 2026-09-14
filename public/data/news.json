@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-14T16:29:04Z",
-  "last_checked": "2026-09-14T16:29:04Z",
+  "updated": "2026-09-14T20:28:24Z",
+  "last_checked": "2026-09-14T20:28:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679689",
+      "published": "2026-09-14 19:40:24",
+      "isoDate": "2026-09-14T19:40:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "黒海紛争の緊張緩和期待で小麦先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679688",
+      "published": "2026-09-14 19:40:16",
+      "isoDate": "2026-09-14T19:40:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper、売られ過ぎでも長期下落トレンド継続中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
+      "published": "2026-09-14 19:12:24",
+      "isoDate": "2026-09-14T19:12:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、$104.91から急反落-ベアリッシュエンガルフィングで短期天井示唆",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
+      "published": "2026-09-14 19:12:03",
+      "isoDate": "2026-09-14T19:12:03Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、ヘッド＆ショルダー完成で4,313ドルサポート目前に迫る",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
+      "published": "2026-09-14 19:11:47",
+      "isoDate": "2026-09-14T19:11:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$63.00割れで下落加速リスク--短期下降チャネルに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
+      "published": "2026-09-14 19:11:45",
+      "isoDate": "2026-09-14T19:11:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$109.97から急落し$105.35付近で売り圧力が継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
+      "published": "2026-09-14 19:11:44",
+      "isoDate": "2026-09-14T19:11:44Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージンが1バレルあたり約3ドル上昇し52ドルに",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679587",
+      "published": "2026-09-14 17:14:25",
+      "isoDate": "2026-09-14T17:14:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、USDAの収穫見通し引き下げを受けて上昇",
@@ -15,65 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679298",
       "published": "2026-09-14 13:30:47",
       "isoDate": "2026-09-14T13:30:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格が5%急騰、JERAトップが備蓄枯渇を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1678713",
-      "published": "2026-09-14 08:47:31",
-      "isoDate": "2026-09-14T08:47:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$104.46の史上高値に迫るもRSI過熱で反転リスク点灯",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
-      "published": "2026-09-14 07:09:07",
-      "isoDate": "2026-09-14T07:09:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、200SMA割れ＆ダブルトップ完成でベアトレンド鮮明",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
-      "published": "2026-09-14 07:08:58",
-      "isoDate": "2026-09-14T07:08:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、200SMA（$63.86）攻防で下落リスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
-      "published": "2026-09-14 07:08:58",
-      "isoDate": "2026-09-14T07:08:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$107.60攻防と$109.97レジスタンスの揉み合い継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
-      "published": "2026-09-14 07:08:55",
-      "isoDate": "2026-09-14T07:08:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、200SMA＆50%フィボ付近で強弱攻防-崖っぷちの正念場",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
-      "published": "2026-09-14 07:08:18",
-      "isoDate": "2026-09-14T07:08:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "根強いインフレでFED利上げ観測強まり、金価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1678498",
-      "published": "2026-09-14 01:38:00",
-      "isoDate": "2026-09-14T01:38:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格が3%超上昇、中東情勢緊迫化とホルムズ会議延期で",
-      "link": "https://jp.investing.com/news/commodities-news/article-1678451",
-      "published": "2026-09-13 23:48:44",
-      "isoDate": "2026-09-13T23:48:44Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "9月14日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1679665",
+      "published": "2026-09-14 19:15:04",
+      "isoDate": "2026-09-14T19:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる",
+      "link": "https://jp.investing.com/news/forex-news/article-1679597",
+      "published": "2026-09-14 17:30:05",
+      "isoDate": "2026-09-14T17:30:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1679430",
       "published": "2026-09-14 14:34:21",
       "isoDate": "2026-09-14T14:34:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがオープンソースCUDA-Qプラットフォームにフォールトトレラント層を追加",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1679250",
-      "published": "2026-09-14 13:09:02",
-      "isoDate": "2026-09-14T13:09:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1678667",
       "published": "2026-09-14 08:03:54",
       "isoDate": "2026-09-14T08:03:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AnthropicはAIの減速を訴えながら、5170億ドルの投資計画を推進",
-      "link": "https://jp.investing.com/news/economy-news/article-1678622",
-      "published": "2026-09-14 06:59:27",
-      "isoDate": "2026-09-14T06:59:27Z"
     },
     {
       "source": "Investing.com 外為",
