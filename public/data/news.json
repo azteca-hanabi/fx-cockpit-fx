@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T20:28:24Z",
-  "last_checked": "2026-09-14T20:28:24Z",
+  "updated": "2026-09-14T23:22:51Z",
+  "last_checked": "2026-09-14T23:22:51Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ICE キャノーラ先物、政府の作物報告を前に上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679882",
+      "published": "2026-09-14 21:11:21",
+      "isoDate": "2026-09-14T21:11:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落",
@@ -64,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679303",
       "published": "2026-09-14 13:32:06",
       "isoDate": "2026-09-14T13:32:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米中首脳会談を前に大豆先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679298",
-      "published": "2026-09-14 13:30:47",
-      "isoDate": "2026-09-14T13:30:47Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "9月14日のNY為替概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1679665",
-      "published": "2026-09-14 19:15:04",
-      "isoDate": "2026-09-14T19:15:04Z"
+      "title": "トランプ氏、AI規制論を一蹴　エヌビディアCEOとの公開通話で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1679869",
+      "published": "2026-09-14 21:03:24",
+      "isoDate": "2026-09-14T21:03:24Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル買い後退、トランプ米大統領が米イラン軍事紛争長期化しないと言及、金利低下に転じる",
-      "link": "https://jp.investing.com/news/forex-news/article-1679597",
-      "published": "2026-09-14 17:30:05",
-      "isoDate": "2026-09-14T17:30:05Z"
+      "title": "NY株式：NYダウは152.09ドル安、原油高やAI減速を警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1679852",
+      "published": "2026-09-14 21:00:05",
+      "isoDate": "2026-09-14T21:00:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1679430",
       "published": "2026-09-14 14:34:21",
       "isoDate": "2026-09-14T14:34:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI開発「減速」で生まれるデータセンターの勝ち組・負け組",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1679131",
+      "published": "2026-09-14 12:26:06",
+      "isoDate": "2026-09-14T12:26:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,44 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1678506",
       "published": "2026-09-14 02:04:37",
       "isoDate": "2026-09-14T02:04:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は351円安でスタート、キオクシアHDや東京エレクトロンなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678482",
-      "published": "2026-09-14 00:45:09",
-      "isoDate": "2026-09-14T00:45:09Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米KULR、保有ビットコインを全て売却　財務運営の一環で",
+      "link": "https://coinpost.jp/?p=737395",
+      "published": "Tue, 15 Sep 2026 08:05:23 +0900",
+      "isoDate": "2026-09-14T23:05:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタマスク、投資・ロマンス詐欺を送金前に警告する新機能導入",
+      "link": "https://coinpost.jp/?p=737377",
+      "published": "Tue, 15 Sep 2026 07:15:06 +0900",
+      "isoDate": "2026-09-14T22:15:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場ストライブが469ビットコイン追加購入、保有量2.5万BTCに",
+      "link": "https://coinpost.jp/?p=737378",
+      "published": "Tue, 15 Sep 2026 06:55:08 +0900",
+      "isoDate": "2026-09-14T21:55:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
+      "link": "https://coinpost.jp/?p=737372",
+      "published": "Tue, 15 Sep 2026 06:25:26 +0900",
+      "isoDate": "2026-09-14T21:25:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラリティー法案に18州司法長官ら反対、投資家保護に懸念",
+      "link": "https://coinpost.jp/?p=737379",
+      "published": "Tue, 15 Sep 2026 06:00:10 +0900",
+      "isoDate": "2026-09-14T21:00:10Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、2週連続ビットコイン購入見送り｜優先株買い戻しを継続",
@@ -194,34 +229,6 @@
       "link": "https://coinpost.jp/?p=737143",
       "published": "Mon, 14 Sep 2026 07:35:32 +0900",
       "isoDate": "2026-09-13T22:35:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインPPI上振れで1200万円割れ、FOMCと原油高が焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=737000",
-      "published": "Sun, 13 Sep 2026 11:30:20 +0900",
-      "isoDate": "2026-09-13T02:30:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（9/11）｜クラリティー法案審議・8月の相場解説・ETH量子耐性化計画のまとめ",
-      "link": "https://coinpost.jp/?p=736890",
-      "published": "Sun, 13 Sep 2026 09:25:07 +0900",
-      "isoDate": "2026-09-13T00:25:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、ソーシャル機能撤退　ウォレット名を旧称に戻す",
-      "link": "https://coinpost.jp/?p=737111",
-      "published": "Sat, 12 Sep 2026 14:14:55 +0900",
-      "isoDate": "2026-09-12T05:14:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "機関向け融資のクリアプール、XRPレジャーへ事業拡大",
-      "link": "https://coinpost.jp/?p=737054",
-      "published": "Sat, 12 Sep 2026 13:20:39 +0900",
-      "isoDate": "2026-09-12T04:20:39Z"
     }
   ]
 }
