@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-15T17:33:55Z",
-  "last_checked": "2026-09-15T17:33:55Z",
+  "updated": "2026-09-15T21:02:58Z",
+  "last_checked": "2026-09-15T21:02:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper、6.46ドル付近でベアフラッグ形成-転換点か罠か",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
+      "published": "2026-09-15 19:12:36",
+      "isoDate": "2026-09-15T19:12:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、50%フィボナッチ水準下でベアフラッグ継続--戻り売り圧力が優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
+      "published": "2026-09-15 19:12:34",
+      "isoDate": "2026-09-15T19:12:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、108ドル台の高値圏で持ち合い-転換点に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
+      "published": "2026-09-15 19:11:53",
+      "isoDate": "2026-09-15T19:11:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油105.52ドル：パラボリック上昇でRSI過熱、調整リスクに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
+      "published": "2026-09-15 19:11:52",
+      "isoDate": "2026-09-15T19:11:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$64.34で保ち合い継続――上下に強い壁が立ちはだかる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
+      "published": "2026-09-15 19:11:50",
+      "isoDate": "2026-09-15T19:11:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給混乱の中、西アフリカ産原油の格差は安定",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681380",
+      "published": "2026-09-15 17:35:26",
+      "isoDate": "2026-09-15T17:35:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、ドル高と作況改善を受けて下落",
@@ -29,57 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1680350",
       "published": "2026-09-15 08:32:23",
       "isoDate": "2026-09-15T08:32:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、2023年高値から小幅反落―輸送リスクと低在庫が下支え",
-      "link": "https://jp.investing.com/news/commodities-news/article-1680336",
-      "published": "2026-09-15 08:16:30",
-      "isoDate": "2026-09-15T08:16:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、歴史的サポート$6.38をテスト中-RSI売られすぎ圏接近",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
-      "published": "2026-09-15 07:09:28",
-      "isoDate": "2026-09-15T07:09:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$103.39でオーバーボットから調整の兆し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
-      "published": "2026-09-15 07:08:51",
-      "isoDate": "2026-09-15T07:08:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$107.68で強気トレンド継続もMACDに弱気ダイバージェンス",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
-      "published": "2026-09-15 07:08:50",
-      "isoDate": "2026-09-15T07:08:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】シルバー、50%フィボナッチ$63.66をテスト--下落トレンド継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
-      "published": "2026-09-15 07:08:49",
-      "isoDate": "2026-09-15T07:08:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,320サポート攻防-Ichimoku雲下で弱気優勢",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
-      "published": "2026-09-15 07:08:32",
-      "isoDate": "2026-09-15T07:08:32Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：円売り一服、ベッセント米財務長官は円高が米輸出にとり有効と指摘",
-      "link": "https://jp.investing.com/news/forex-news/article-1681326",
-      "published": "2026-09-15 16:15:04",
-      "isoDate": "2026-09-15T16:15:04Z"
+      "title": "マイクロンテクノロジー、ディアドル・ハンフォードをマイクロン研究所所長に任命",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1681448",
+      "published": "2026-09-15 20:08:03",
+      "isoDate": "2026-09-15T20:08:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】IONQが移動平均線と雲の下で下降トレンド継続、$35.13割れに警戒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1679393",
+      "published": "2026-09-15 19:13:24",
+      "isoDate": "2026-09-15T19:13:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1680971",
       "published": "2026-09-15 13:08:04",
       "isoDate": "2026-09-15T13:08:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SalesforceとNvidiaがCRM推論モデル「Koa」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1680822",
-      "published": "2026-09-15 12:25:02",
-      "isoDate": "2026-09-15T12:25:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ウォーレン上院議員、クラリティー法案不支持でも法制化には意欲",
+      "link": "https://coinpost.jp/?p=737620",
+      "published": "Wed, 16 Sep 2026 05:45:16 +0900",
+      "isoDate": "2026-09-15T20:45:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "X、キャッシュタグに仮想通貨・株式取引機能追加",
+      "link": "https://coinpost.jp/?p=737619",
+      "published": "Wed, 16 Sep 2026 05:20:03 +0900",
+      "isoDate": "2026-09-15T20:20:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米下院委、仮想通貨税制法案を17日に審議へ　売却損失の控除制限を拡大",
+      "link": "https://coinpost.jp/?p=737599",
+      "published": "Wed, 16 Sep 2026 05:00:07 +0900",
+      "isoDate": "2026-09-15T20:00:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米クラリティー法案、上院で審議入り採決失敗　60票に届かず",
+      "link": "https://coinpost.jp/?p=737408",
+      "published": "Wed, 16 Sep 2026 04:20:17 +0900",
+      "isoDate": "2026-09-15T19:20:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "新経済連盟、2027年度税制改正提言を説明",
@@ -201,27 +229,6 @@
       "link": "https://coinpost.jp/?p=737395",
       "published": "Tue, 15 Sep 2026 08:05:23 +0900",
       "isoDate": "2026-09-14T23:05:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタマスク、投資・ロマンス詐欺を送金前に警告する新機能導入",
-      "link": "https://coinpost.jp/?p=737377",
-      "published": "Tue, 15 Sep 2026 07:15:06 +0900",
-      "isoDate": "2026-09-14T22:15:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場ストライブが469ビットコイン追加購入、保有量2.5万BTCに",
-      "link": "https://coinpost.jp/?p=737378",
-      "published": "Tue, 15 Sep 2026 06:55:08 +0900",
-      "isoDate": "2026-09-14T21:55:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "審議入り採決直前のクラリティー法案、銀行・仮想通貨業界も懸念示す",
-      "link": "https://coinpost.jp/?p=737372",
-      "published": "Tue, 15 Sep 2026 06:25:26 +0900",
-      "isoDate": "2026-09-14T21:25:26Z"
     }
   ]
 }
