@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-15T21:02:58Z",
-  "last_checked": "2026-09-15T21:02:58Z",
+  "updated": "2026-09-15T23:36:24Z",
+  "last_checked": "2026-09-15T23:36:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのガソリン精製マージン、原油高騰で7ドル超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681564",
+      "published": "2026-09-15 21:15:19",
+      "isoDate": "2026-09-15T21:15:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Copper、6.46ドル付近でベアフラッグ形成-転換点か罠か",
@@ -64,29 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1680926",
       "published": "2026-09-15 13:00:30",
       "isoDate": "2026-09-15T13:00:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "サウジのパイプライン停止は石油市場の供給不足を深刻化させるか？HSBCが分析",
-      "link": "https://jp.investing.com/news/commodities-news/article-1680350",
-      "published": "2026-09-15 08:32:23",
-      "isoDate": "2026-09-15T08:32:23Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY金：4営業日続落で4,335.55ドル、原油高と米10年債利回り5％突破でFOMC前のポジション圧縮",
+      "link": "https://jp.investing.com/news/forex-news/article-1681610",
+      "published": "2026-09-15 22:45:06",
+      "isoDate": "2026-09-15T22:45:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト、四半期配当を7.7%増の1株当たり0.98ドルに引き上げ",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1681602",
+      "published": "2026-09-15 22:13:01",
+      "isoDate": "2026-09-15T22:13:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：9月連邦公開市場委員会（FOMC）での利上げを織り込むドル買いが再開",
+      "link": "https://jp.investing.com/news/forex-news/article-1681563",
+      "published": "2026-09-15 21:15:05",
+      "isoDate": "2026-09-15T21:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは328.09ドル安、利上げを警戒",
+      "link": "https://jp.investing.com/news/forex-news/article-1681548",
+      "published": "2026-09-15 21:00:05",
+      "isoDate": "2026-09-15T21:00:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "マイクロンテクノロジー、ディアドル・ハンフォードをマイクロン研究所所長に任命",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1681448",
       "published": "2026-09-15 20:08:03",
       "isoDate": "2026-09-15T20:08:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【随時更新】IONQが移動平均線と雲の下で下降トレンド継続、$35.13割れに警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1679393",
-      "published": "2026-09-15 19:13:24",
-      "isoDate": "2026-09-15T19:13:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,27 +139,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ氏、AI規制論を一蹴　エヌビディアCEOとの公開通話で",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1679869",
-      "published": "2026-09-14 21:03:24",
-      "isoDate": "2026-09-14T21:03:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI開発「減速」で生まれるデータセンターの勝ち組・負け組",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1679131",
-      "published": "2026-09-14 12:26:06",
-      "isoDate": "2026-09-14T12:26:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIバブル崩壊ならS&P 500は30%急落、英調査会社が警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1679049",
-      "published": "2026-09-14 12:03:25",
-      "isoDate": "2026-09-14T12:03:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "今なら55%オフで「AI厳選銘柄」にアクセス、InvestingProの期間限定セール",
       "link": "https://jp.investing.com/news/stock-market-news/article-1678823",
       "published": "2026-09-14 10:15:04",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン急落、クラリティー審議入り否決を受け｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=737633",
+      "published": "Wed, 16 Sep 2026 08:00:09 +0900",
+      "isoDate": "2026-09-15T23:00:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "英スタックBTC、ビットコイン購入資金確保に向けて貴金属会社買収提案",
+      "link": "https://coinpost.jp/?p=737617",
+      "published": "Wed, 16 Sep 2026 07:35:09 +0900",
+      "isoDate": "2026-09-15T22:35:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米検察当局、イラン原油収益に絡む94億円相当の仮想通貨を没収提訴",
+      "link": "https://coinpost.jp/?p=737618",
+      "published": "Wed, 16 Sep 2026 06:30:12 +0900",
+      "isoDate": "2026-09-15T21:30:12Z"
+    },
     {
       "source": "CoinPost",
       "title": "ウォーレン上院議員、クラリティー法案不支持でも法制化には意欲",
@@ -208,27 +229,6 @@
       "link": "https://coinpost.jp/?p=737465",
       "published": "Tue, 15 Sep 2026 11:57:09 +0900",
       "isoDate": "2026-09-15T02:57:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアムとベースがアカウント抽象化で別々の規格を採用か、Ethlabsメンバーが報告",
-      "link": "https://coinpost.jp/?p=737431",
-      "published": "Tue, 15 Sep 2026 11:30:24 +0900",
-      "isoDate": "2026-09-15T02:30:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "上場ビットコインマイナー3社が8月の採掘実績を報告、明暗分かれる",
-      "link": "https://coinpost.jp/?p=737404",
-      "published": "Tue, 15 Sep 2026 09:40:01 +0900",
-      "isoDate": "2026-09-15T00:40:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米KULR、保有ビットコインを全て売却　財務運営の一環で",
-      "link": "https://coinpost.jp/?p=737395",
-      "published": "Tue, 15 Sep 2026 08:05:23 +0900",
-      "isoDate": "2026-09-14T23:05:23Z"
     }
   ]
 }
