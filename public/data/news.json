@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-14T23:22:51Z",
-  "last_checked": "2026-09-14T23:22:51Z",
+  "updated": "2026-09-15T01:47:29Z",
+  "last_checked": "2026-09-15T01:47:29Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "フーシ派がサウジアラビアを攻撃、ホルムズ協議も延期で原油価格上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1680022",
+      "published": "2026-09-15 00:55:08",
+      "isoDate": "2026-09-15T00:55:08Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ICE キャノーラ先物、政府の作物報告を前に上昇",
@@ -64,16 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679587",
       "published": "2026-09-14 17:14:25",
       "isoDate": "2026-09-14T17:14:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物、USDAの収穫見通し引き下げを受けて上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679303",
-      "published": "2026-09-14 13:32:06",
-      "isoDate": "2026-09-14T13:32:06Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物は横ばい――AI開発減速論と米連邦準備制度理事会への警戒感が交錯",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1679997",
+      "published": "2026-09-15 00:08:43",
+      "isoDate": "2026-09-15T00:08:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 9/15",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1679987",
+      "published": "2026-09-15 00:00:08",
+      "isoDate": "2026-09-15T00:00:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "トランプ氏、AI規制論を一蹴　エヌビディアCEOとの公開通話で",
@@ -87,20 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1679852",
       "published": "2026-09-14 21:00:05",
       "isoDate": "2026-09-14T21:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1679491",
-      "published": "2026-09-14 15:24:45",
-      "isoDate": "2026-09-14T15:24:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、AIとデータセンターへの「病的な陰謀」を主張",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1679430",
-      "published": "2026-09-14 14:34:21",
-      "isoDate": "2026-09-14T14:34:21Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "上場ビットコインマイナー3社が8月の採掘実績を報告、明暗分かれる",
+      "link": "https://coinpost.jp/?p=737404",
+      "published": "Tue, 15 Sep 2026 09:40:01 +0900",
+      "isoDate": "2026-09-15T00:40:01Z"
+    },
     {
       "source": "CoinPost",
       "title": "米KULR、保有ビットコインを全て売却　財務運営の一環で",
@@ -215,20 +222,6 @@
       "link": "https://coinpost.jp/?p=737159",
       "published": "Mon, 14 Sep 2026 09:18:29 +0900",
       "isoDate": "2026-09-14T00:18:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ブラジル中銀の資本規制、仮想通貨業者9割超が撤退の可能性＝報道",
-      "link": "https://coinpost.jp/?p=737146",
-      "published": "Mon, 14 Sep 2026 08:01:18 +0900",
-      "isoDate": "2026-09-13T23:01:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、ATH未更新365日に接近　更新ペース加速の可能性＝アナリスト",
-      "link": "https://coinpost.jp/?p=737143",
-      "published": "Mon, 14 Sep 2026 07:35:32 +0900",
-      "isoDate": "2026-09-13T22:35:32Z"
     }
   ]
 }
