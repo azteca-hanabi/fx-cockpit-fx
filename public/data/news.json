@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T07:28:18Z",
-  "last_checked": "2026-09-15T07:28:18Z",
+  "updated": "2026-09-15T12:51:21Z",
+  "last_checked": "2026-09-15T12:51:21Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジのパイプライン停止は石油市場の供給不足を深刻化させるか？HSBCが分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-1680350",
+      "published": "2026-09-15 08:32:23",
+      "isoDate": "2026-09-15T08:32:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、2023年高値から小幅反落―輸送リスクと低在庫が下支え",
+      "link": "https://jp.investing.com/news/commodities-news/article-1680336",
+      "published": "2026-09-15 08:16:30",
+      "isoDate": "2026-09-15T08:16:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】銅、歴史的サポート$6.38をテスト中-RSI売られすぎ圏接近",
@@ -39,14 +53,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドルと米国債利回りの上昇でゴールドが4,300ドルを割り込む",
+      "title": "金価格、FRBの利上げ観測強まる中で下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1680078",
       "published": "2026-09-15 02:24:25",
       "isoDate": "2026-09-15T02:24:25Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "フーシ派がサウジアラビアを攻撃、ホルムズ協議も延期で原油価格上昇",
+      "title": "フーシ派がサウジアラビアを攻撃、ホルムズ海峡協議も延期で原油価格上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1680022",
       "published": "2026-09-15 00:55:08",
       "isoDate": "2026-09-15T00:55:08Z"
@@ -57,43 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679882",
       "published": "2026-09-14 21:11:21",
       "isoDate": "2026-09-14T21:11:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海紛争の緊張緩和期待でシカゴ小麦先物が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679689",
-      "published": "2026-09-14 19:40:24",
-      "isoDate": "2026-09-14T19:40:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海紛争の緊張緩和期待で小麦先物が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1679688",
-      "published": "2026-09-14 19:40:16",
-      "isoDate": "2026-09-14T19:40:16Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は322円高でスタート、メイコーやソフトバンクGなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680130",
-      "published": "2026-09-15 04:00:19",
-      "isoDate": "2026-09-15T04:00:19Z"
+      "title": "AWSとSalesforceがAI統合を拡大し、新たな連携を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1680819",
+      "published": "2026-09-15 12:24:04",
+      "isoDate": "2026-09-15T12:24:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は3日ぶり反発、ソフトバンクGが1銘柄で約428円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680117",
-      "published": "2026-09-15 03:45:16",
-      "isoDate": "2026-09-15T03:45:16Z"
+      "title": "アンソロピックCEOの論文後もGPU需要に減速なし、AI半導体売りは過剰反応",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680679",
+      "published": "2026-09-15 11:38:55",
+      "isoDate": "2026-09-15T11:38:55Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場に注目すべき3つのポイント～買い戻し優勢で64000円台を回復",
-      "link": "https://jp.investing.com/news/forex-news/article-1680116",
-      "published": "2026-09-15 03:30:16",
-      "isoDate": "2026-09-15T03:30:16Z"
+      "title": "SOXの調整は買い場か？シティが見解を示す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680533",
+      "published": "2026-09-15 11:00:11",
+      "isoDate": "2026-09-15T11:00:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "利上げ開始後、株式は上昇する傾向がある",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680510",
+      "published": "2026-09-15 10:40:44",
+      "isoDate": "2026-09-15T10:40:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅に3日続落、アドバンテストや東エレクが2銘柄で約250円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680320",
+      "published": "2026-09-15 08:00:17",
+      "isoDate": "2026-09-15T08:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は206円高、米経済指標などに関心",
+      "link": "https://jp.investing.com/news/forex-news/article-1680206",
+      "published": "2026-09-15 06:00:20",
+      "isoDate": "2026-09-15T06:00:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,30 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1678823",
       "published": "2026-09-14 10:15:04",
       "isoDate": "2026-09-14T10:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 続落、5日連続で安値切り下げ",
-      "link": "https://jp.investing.com/news/forex-news/article-1678743",
-      "published": "2026-09-14 09:30:11",
-      "isoDate": "2026-09-14T09:30:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが急騰予見の「米医療テック株」が20%急伸、CEOの自社株買いで",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678667",
-      "published": "2026-09-14 08:03:54",
-      "isoDate": "2026-09-14T08:03:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "8月以降に40％高、AIが選定「エネルギー株」の上昇は続くか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678506",
-      "published": "2026-09-14 02:04:37",
-      "isoDate": "2026-09-14T02:04:37Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "新経済連盟、2027年度税制改正提言を説明",
+      "link": "https://coinpost.jp/?p=737543",
+      "published": "Tue, 15 Sep 2026 18:00:27 +0900",
+      "isoDate": "2026-09-15T09:00:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットマイン、先週2.7万のイーサリアムを買い増し　供給4.9％保有に到達",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=737372",
       "published": "Tue, 15 Sep 2026 06:25:26 +0900",
       "isoDate": "2026-09-14T21:25:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラリティー法案に18州司法長官ら反対、投資家保護に懸念",
-      "link": "https://coinpost.jp/?p=737379",
-      "published": "Tue, 15 Sep 2026 06:00:10 +0900",
-      "isoDate": "2026-09-14T21:00:10Z"
     }
   ]
 }
