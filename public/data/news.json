@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T14:18:18Z",
-  "last_checked": "2026-09-16T14:18:18Z",
+  "updated": "2026-09-16T18:20:04Z",
+  "last_checked": "2026-09-16T18:20:04Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "コンチネンタル・リソーシズ、ベネズエラの石油開発で覚書に署名",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682813",
+      "published": "2026-09-16 17:25:01",
+      "isoDate": "2026-09-16T17:25:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油安が重荷、原糖先物が小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682744",
+      "published": "2026-09-16 15:49:24",
+      "isoDate": "2026-09-16T15:49:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米原油在庫が減少、燃料在庫は増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682683",
+      "published": "2026-09-16 14:46:30",
+      "isoDate": "2026-09-16T14:46:30Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物、テクニカル売りと原油安で下落",
@@ -50,30 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
       "published": "2026-09-16 07:08:32",
       "isoDate": "2026-09-16T07:08:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、一目雲の中で膠着-売り買い両シナリオが拮抗",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
-      "published": "2026-09-16 07:08:31",
-      "isoDate": "2026-09-16T07:08:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ゴールド、Ichimoku雲内で膠着―$4,418突破か$4,355割れで次の方向性が決定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
-      "published": "2026-09-16 07:08:26",
-      "isoDate": "2026-09-16T07:08:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格の2日間の上昇が一服、米在庫増加が中東供給懸念を相殺",
-      "link": "https://jp.investing.com/news/commodities-news/article-1681743",
-      "published": "2026-09-16 02:09:32",
-      "isoDate": "2026-09-16T02:09:32Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQら、AIを活用して量子最適化回路の高速化に成功",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1682631",
+      "published": "2026-09-16 14:03:02",
+      "isoDate": "2026-09-16T14:03:02Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "アップル、M8 AIサーバーを開発中——Nvidiaとも協議",
@@ -83,31 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【市場反応】米8月小売売上高は予想上回る、ドル続伸",
-      "link": "https://jp.investing.com/news/forex-news/article-1682523",
-      "published": "2026-09-16 13:15:04",
-      "isoDate": "2026-09-16T13:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ファーウェイ、2035年までにAIエージェントがトークントラフィックの90%超を占めると予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1682487",
-      "published": "2026-09-16 13:03:54",
-      "isoDate": "2026-09-16T13:03:54Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "TSX先物、連邦準備制度の金利決定を前に上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1682387",
       "published": "2026-09-16 12:32:13",
       "isoDate": "2026-09-16T12:32:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円は上昇、米長期金利上昇で高値切り上げ",
-      "link": "https://jp.investing.com/news/forex-news/article-1682293",
-      "published": "2026-09-16 12:00:06",
-      "isoDate": "2026-09-16T12:00:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,6 +111,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "米国株見通し：下げ渋りか、FOMC後に買戻しも",
+      "link": "https://jp.investing.com/news/forex-news/article-1681745",
+      "published": "2026-09-16 02:15:13",
+      "isoDate": "2026-09-16T02:15:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米金融大手が「半導体メモリ株」トップ5選出、AI需要拡大で恩恵",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1681310",
       "published": "2026-09-15 15:54:22",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1680679",
       "published": "2026-09-15 11:38:55",
       "isoDate": "2026-09-15T11:38:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "残り2日、最大55%オフで「AI厳選銘柄」にアクセス　InvestingProが今だけ特別価格",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680347",
+      "published": "2026-09-15 08:03:53",
+      "isoDate": "2026-09-15T08:03:53Z"
     },
     {
       "source": "Investing.com 外為",
