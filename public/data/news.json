@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-16T09:26:13Z",
-  "last_checked": "2026-09-16T09:26:13Z",
+  "updated": "2026-09-16T14:18:18Z",
+  "last_checked": "2026-09-16T14:18:18Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "小麦先物、テクニカル売りと原油安で下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682619",
+      "published": "2026-09-16 13:57:47",
+      "isoDate": "2026-09-16T13:57:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "エクイノールが2030年代初頭までにLNG供給量1,000～1,500万トンを目標に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682520",
+      "published": "2026-09-16 13:12:30",
+      "isoDate": "2026-09-16T13:12:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "日本ガス協会、政府のペトロナスとのLNG契約を歓迎",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682230",
+      "published": "2026-09-16 11:13:35",
+      "isoDate": "2026-09-16T11:13:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "EUガス価格が上昇、枯渇した備蓄とECB利上げが相場を支える",
@@ -46,75 +67,61 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米国在庫の予想外の積み増しが中東の供給懸念を相殺し、原油価格が下落",
+      "title": "原油価格の2日間の上昇が一服、米在庫増加が中東供給懸念を相殺",
       "link": "https://jp.investing.com/news/commodities-news/article-1681743",
       "published": "2026-09-16 02:09:32",
       "isoDate": "2026-09-16T02:09:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、Fed決定前に4,350ドル付近へ反発――利上げ観測は高水準維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1681744",
-      "published": "2026-09-16 02:09:23",
-      "isoDate": "2026-09-16T02:09:23Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "北西ヨーロッパのガソリン精製マージン、原油高騰で7ドル超下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681564",
-      "published": "2026-09-15 21:15:19",
-      "isoDate": "2026-09-15T21:15:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東の供給混乱の中、西アフリカ産原油の格差は安定",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681380",
-      "published": "2026-09-15 17:35:26",
-      "isoDate": "2026-09-15T17:35:26Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、M8 AIサーバーを開発中——Nvidiaとも協議",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1682538",
+      "published": "2026-09-16 13:19:27",
+      "isoDate": "2026-09-16T13:19:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】米8月小売売上高は予想上回る、ドル続伸",
+      "link": "https://jp.investing.com/news/forex-news/article-1682523",
+      "published": "2026-09-16 13:15:04",
+      "isoDate": "2026-09-16T13:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ファーウェイ、2035年までにAIエージェントがトークントラフィックの90%超を占めると予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1682487",
+      "published": "2026-09-16 13:03:54",
+      "isoDate": "2026-09-16T13:03:54Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "TSX先物、連邦準備制度の金利決定を前に上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1682387",
+      "published": "2026-09-16 12:32:13",
+      "isoDate": "2026-09-16T12:32:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "欧州為替：ドル・円は上昇、米長期金利上昇で高値切り上げ",
+      "link": "https://jp.investing.com/news/forex-news/article-1682293",
+      "published": "2026-09-16 12:00:06",
+      "isoDate": "2026-09-16T12:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株は2年以内に100%上昇可能か？アナリストが強気見解",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1682269",
+      "published": "2026-09-16 11:38:42",
+      "isoDate": "2026-09-16T11:38:42Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "FOMCの結果待ちで様子見ムードも強まったが米韓半導体株高が追い風に【クロージング】",
       "link": "https://jp.investing.com/news/forex-news/article-1681970",
       "published": "2026-09-16 08:00:18",
       "isoDate": "2026-09-16T08:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Fed決定が迫る；ザッカーバーグがAI安全性懸念に言及―市場を動かす要因",
-      "link": "https://jp.investing.com/news/economy-news/article-1681963",
-      "published": "2026-09-16 07:49:08",
-      "isoDate": "2026-09-16T07:49:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "レボリューション・メディシンズ上級顧問が約187億円相当の株式を売却",
-      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1681851",
-      "published": "2026-09-16 06:01:55",
-      "isoDate": "2026-09-16T06:01:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は278円高でスタート、パナHDやINPEXなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1681803",
-      "published": "2026-09-16 04:15:17",
-      "isoDate": "2026-09-16T04:15:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、FOMC後に買戻しも",
-      "link": "https://jp.investing.com/news/forex-news/article-1681745",
-      "published": "2026-09-16 02:15:13",
-      "isoDate": "2026-09-16T02:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや売り優勢、シカゴは大阪日中比285円高の63405円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1681693",
-      "published": "2026-09-16 01:00:10",
-      "isoDate": "2026-09-16T01:00:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,17 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "残り2日、最大55%オフで「AI厳選銘柄」にアクセス　InvestingProが今だけ特別価格",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680347",
-      "published": "2026-09-15 08:03:53",
-      "isoDate": "2026-09-15T08:03:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は小幅に3日続落、アドバンテストや東エレクが2銘柄で約250円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680320",
-      "published": "2026-09-15 08:00:17",
-      "isoDate": "2026-09-15T08:00:17Z"
+      "title": "AI半導体株は「売られすぎ」、GPU需要は堅調と米投資大手が主張",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680679",
+      "published": "2026-09-15 11:38:55",
+      "isoDate": "2026-09-15T11:38:55Z"
     },
     {
       "source": "Investing.com 外為",
