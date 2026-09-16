@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-15T23:36:24Z",
-  "last_checked": "2026-09-15T23:36:24Z",
+  "updated": "2026-09-16T04:09:46Z",
+  "last_checked": "2026-09-16T04:09:46Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国在庫の予想外の積み増しが中東の供給懸念を相殺し、原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1681743",
+      "published": "2026-09-16 02:09:32",
+      "isoDate": "2026-09-16T02:09:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "連邦準備制度の決定を前に金価格が下落、原油高と利回り上昇が利上げ観測を支持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1681744",
+      "published": "2026-09-16 02:09:23",
+      "isoDate": "2026-09-16T02:09:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西ヨーロッパのガソリン精製マージン、原油高騰で7ドル超下落",
@@ -57,43 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681042",
       "published": "2026-09-15 13:29:14",
       "isoDate": "2026-09-15T13:29:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "小麦先物、ドル高と外交交渉への期待で下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1681039",
-      "published": "2026-09-15 13:28:32",
-      "isoDate": "2026-09-15T13:28:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドイツ財務相、ガソリン価格の負担軽減を求める",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1680926",
-      "published": "2026-09-15 13:00:30",
-      "isoDate": "2026-09-15T13:00:30Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：4営業日続落で4,335.55ドル、原油高と米10年債利回り5％突破でFOMC前のポジション圧縮",
-      "link": "https://jp.investing.com/news/forex-news/article-1681610",
-      "published": "2026-09-15 22:45:06",
-      "isoDate": "2026-09-15T22:45:06Z"
+      "title": "ドル・円は強含み、米利上げ観測でドル買い",
+      "link": "https://jp.investing.com/news/forex-news/article-1681784",
+      "published": "2026-09-16 03:30:16",
+      "isoDate": "2026-09-16T03:30:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロソフト、四半期配当を7.7%増の1株当たり0.98ドルに引き上げ",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1681602",
-      "published": "2026-09-15 22:13:01",
-      "isoDate": "2026-09-15T22:13:01Z"
+      "title": "売り買い交錯でさえない値動き",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1681781",
+      "published": "2026-09-16 03:15:18",
+      "isoDate": "2026-09-16T03:15:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：9月連邦公開市場委員会（FOMC）での利上げを織り込むドル買いが再開",
-      "link": "https://jp.investing.com/news/forex-news/article-1681563",
-      "published": "2026-09-15 21:15:05",
-      "isoDate": "2026-09-15T21:15:05Z"
+      "title": "MetaのザッカーバーグCEO、AI開発の減速より独立した安全評価機関の活用を支持",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1681783",
+      "published": "2026-09-16 03:14:29",
+      "isoDate": "2026-09-16T03:14:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "連邦準備制度の決定を前に金価格が下落、原油高と利回り上昇が利上げ観測を支持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1681744",
+      "published": "2026-09-16 02:09:23",
+      "isoDate": "2026-09-16T02:09:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアCEOのファン氏、トランプ大統領主催の習近平国賓晩餐会に出席へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1681705",
+      "published": "2026-09-16 01:05:10",
+      "isoDate": "2026-09-16T01:05:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～やや売り優勢、シカゴは大阪日中比285円高の63405円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1681693",
+      "published": "2026-09-16 01:00:10",
+      "isoDate": "2026-09-16T01:00:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が小幅上昇、FRBの利上げに注目集まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1681675",
+      "published": "2026-09-16 00:34:28",
+      "isoDate": "2026-09-16T00:34:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、ディアドル・ハンフォードをマイクロン研究所所長に任命",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1681448",
-      "published": "2026-09-15 20:08:03",
-      "isoDate": "2026-09-15T20:08:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、サーバー向け512GB DDR5メモリモジュールを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1680971",
-      "published": "2026-09-15 13:08:04",
-      "isoDate": "2026-09-15T13:08:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピックCEOの論文後もGPU需要に減速なし、AI半導体売りは過剰反応",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680679",
-      "published": "2026-09-15 11:38:55",
-      "isoDate": "2026-09-15T11:38:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SOXの調整は買い場か？シティが見解を示す",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680533",
-      "published": "2026-09-15 11:00:11",
-      "isoDate": "2026-09-15T11:00:11Z"
+      "title": "残り2日、最大55%オフで「AI厳選銘柄」にアクセス　InvestingProが今だけ特別価格",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1680347",
+      "published": "2026-09-15 08:03:53",
+      "isoDate": "2026-09-15T08:03:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1680320",
       "published": "2026-09-15 08:00:17",
       "isoDate": "2026-09-15T08:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今なら55%オフで「AI厳選銘柄」にアクセス、InvestingProの期間限定セール",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1678823",
-      "published": "2026-09-14 10:15:04",
-      "isoDate": "2026-09-14T10:15:04Z"
     }
   ],
   "btc_items": [
@@ -208,27 +208,6 @@
       "link": "https://coinpost.jp/?p=737528",
       "published": "Tue, 15 Sep 2026 14:49:31 +0900",
       "isoDate": "2026-09-15T05:49:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "海外仮想通貨取引所CoinExが全サービス終了へ、約9年間の運営に幕",
-      "link": "https://coinpost.jp/?p=737414",
-      "published": "Tue, 15 Sep 2026 13:45:08 +0900",
-      "isoDate": "2026-09-15T04:45:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースCEO「トークン化株式で新たな業界標準確立」　ロビンフッドとの違いを強調か",
-      "link": "https://coinpost.jp/?p=737448",
-      "published": "Tue, 15 Sep 2026 13:15:09 +0900",
-      "isoDate": "2026-09-15T04:15:09Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの量子耐性、主要提案の全体像を整理　複数提案が連動へ＝レポート",
-      "link": "https://coinpost.jp/?p=737465",
-      "published": "Tue, 15 Sep 2026 11:57:09 +0900",
-      "isoDate": "2026-09-15T02:57:09Z"
     }
   ]
 }
