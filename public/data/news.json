@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-17T00:13:24Z",
-  "last_checked": "2026-09-17T00:13:24Z",
+  "updated": "2026-09-17T05:09:47Z",
+  "last_checked": "2026-09-17T05:09:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給懸念が緩和、原油価格は横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-1683291",
+      "published": "2026-09-17 02:11:29",
+      "isoDate": "2026-09-17T02:11:29Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "米中高官会談への期待からシカゴ大豆先物が上昇",
@@ -64,36 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682744",
       "published": "2026-09-16 15:49:24",
       "isoDate": "2026-09-16T15:49:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米原油在庫が減少、燃料在庫は増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1682683",
-      "published": "2026-09-16 14:46:30",
-      "isoDate": "2026-09-16T14:46:30Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NYの視点：米9月FOMCは予想外のタカ派利上げ、ドル大幅続伸",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1683160",
-      "published": "2026-09-16 22:45:07",
-      "isoDate": "2026-09-16T22:45:07Z"
+      "title": "日銀、9月会合で25bp利上げ予想－タカ派的見通しも示唆か",
+      "link": "https://jp.investing.com/news/economy-news/article-1683368",
+      "published": "2026-09-17 04:32:48",
+      "isoDate": "2026-09-17T04:32:48Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "16日の米国市場ダイジェスト：米国株式市場は続落、利上げを嫌気",
-      "link": "https://jp.investing.com/news/forex-news/article-1683142",
-      "published": "2026-09-16 22:15:04",
-      "isoDate": "2026-09-16T22:15:04Z"
+      "title": "後場に注目すべき3つのポイント～上げ幅縮小して上値の重い値動き",
+      "link": "https://jp.investing.com/news/forex-news/article-1683360",
+      "published": "2026-09-17 04:00:19",
+      "isoDate": "2026-09-17T04:00:19Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：連邦公開市場委員会（FOMC）が3年ぶりの利上げに踏み切る",
-      "link": "https://jp.investing.com/news/forex-news/article-1683136",
-      "published": "2026-09-16 22:00:04",
-      "isoDate": "2026-09-16T22:00:04Z"
+      "title": "米国株見通し：下げ渋りか、重要イベント通過で買戻し",
+      "link": "https://jp.investing.com/news/forex-news/article-1683308",
+      "published": "2026-09-17 02:30:14",
+      "isoDate": "2026-09-17T02:30:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "利上げ再開でもAIが選んだ保険株は上昇を続ける",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1683313",
+      "published": "2026-09-17 02:29:43",
+      "isoDate": "2026-09-17T02:29:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は上げ幅縮小、ドル円156円台で円安進行　半導体株はまちまち",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1683283",
+      "published": "2026-09-17 01:51:33",
+      "isoDate": "2026-09-17T01:51:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は720円高でスタート、商船三井や大塚HDなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1683239",
+      "published": "2026-09-17 00:45:11",
+      "isoDate": "2026-09-17T00:45:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,20 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1683089",
       "published": "2026-09-16 21:00:05",
       "isoDate": "2026-09-16T21:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【市場反応】FOMC、市場の予想通り利上げに踏み切る、ドル買い加速",
-      "link": "https://jp.investing.com/news/forex-news/article-1682884",
-      "published": "2026-09-16 18:45:04",
-      "isoDate": "2026-09-16T18:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "IONQら、AIを活用して量子最適化回路の高速化に成功",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1682631",
-      "published": "2026-09-16 14:03:02",
-      "isoDate": "2026-09-16T14:03:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,78 +143,7 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1680679",
       "published": "2026-09-15 11:38:55",
       "isoDate": "2026-09-15T11:38:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "残り2日、最大55%オフで「AI厳選銘柄」にアクセス　InvestingProが今だけ特別価格",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1680347",
-      "published": "2026-09-15 08:03:53",
-      "isoDate": "2026-09-15T08:03:53Z"
     }
   ],
-  "btc_items": [
-    {
-      "source": "CoinPost",
-      "title": "米下院委員会、仮想通貨税制法案を38対5で可決　本会議へ送付",
-      "link": "https://coinpost.jp/?p=737917",
-      "published": "Thu, 17 Sep 2026 06:50:32 +0900",
-      "isoDate": "2026-09-16T21:50:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米下院委員会、ビットコイン準備金法案を可決丨保有BTC20年凍結を規定",
-      "link": "https://coinpost.jp/?p=737916",
-      "published": "Thu, 17 Sep 2026 06:30:30 +0900",
-      "isoDate": "2026-09-16T21:30:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米団体、各上院議員のクラリティー法案投票結果を評価丨中間選挙の判断材料に",
-      "link": "https://coinpost.jp/?p=737899",
-      "published": "Thu, 17 Sep 2026 05:00:15 +0900",
-      "isoDate": "2026-09-16T20:00:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ドイツ銀行、ビットコイン・イーサリアムのカストディサービス開始へ",
-      "link": "https://coinpost.jp/?p=737858",
-      "published": "Wed, 16 Sep 2026 18:04:38 +0900",
-      "isoDate": "2026-09-16T09:04:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マイニング大手MARA、1292ビットコイン購入＝Lookonchain",
-      "link": "https://coinpost.jp/?p=737807",
-      "published": "Wed, 16 Sep 2026 17:07:21 +0900",
-      "isoDate": "2026-09-16T08:07:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の分離課税20％、得するのは誰か　BCCC税制部会が指摘",
-      "link": "https://coinpost.jp/?p=737443",
-      "published": "Wed, 16 Sep 2026 17:00:15 +0900",
-      "isoDate": "2026-09-16T08:00:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC・CFTC規制主導へ期待シフト、クラリティー法案頓挫から",
-      "link": "https://coinpost.jp/?p=737790",
-      "published": "Wed, 16 Sep 2026 15:50:51 +0900",
-      "isoDate": "2026-09-16T06:50:51Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "マイニング企業のAIシフトは不可逆的か　完全撤退も相次ぐ＝コインシェアーズ分析",
-      "link": "https://coinpost.jp/?p=737722",
-      "published": "Wed, 16 Sep 2026 14:57:52 +0900",
-      "isoDate": "2026-09-16T05:57:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "カザフスタン、「国家仮想通貨分析センター」設立へ　取引拡大を背景に",
-      "link": "https://coinpost.jp/?p=737692",
-      "published": "Wed, 16 Sep 2026 14:42:34 +0900",
-      "isoDate": "2026-09-16T05:42:34Z"
-    }
-  ]
+  "btc_items": []
 }
