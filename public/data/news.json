@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T00:42:16Z",
-  "last_checked": "2026-09-18T00:42:16Z",
+  "updated": "2026-09-18T05:40:51Z",
+  "last_checked": "2026-09-18T05:40:51Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "供給懸念が後退、外交動向に注目——原油価格3日続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1684836",
+      "published": "2026-09-18 02:37:00",
+      "isoDate": "2026-09-18T02:37:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が週間ベースで上昇、原油安と利回り低下が追い風",
+      "link": "https://jp.investing.com/news/commodities-news/article-1684802",
+      "published": "2026-09-18 01:40:35",
+      "isoDate": "2026-09-18T01:40:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "CBOTの小麦先物、強気材料の欠如で下落",
@@ -57,71 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684471",
       "published": "2026-09-17 18:03:20",
       "isoDate": "2026-09-17T18:03:20Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSは短期的な金の変動を予想、12カ月見通しには強気姿勢を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1684246",
-      "published": "2026-09-17 13:37:15",
-      "isoDate": "2026-09-17T13:37:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "売り局面後、中国の買い手が戻りで銅価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684159",
-      "published": "2026-09-17 13:15:11",
-      "isoDate": "2026-09-17T13:15:11Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ＮＥＣ---来週にもトレンド転換の可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684744",
-      "published": "2026-09-18 00:00:07",
-      "isoDate": "2026-09-18T00:00:07Z"
+      "title": "アジア通貨はまちまち、日銀利上げにもかかわらず円安進む",
+      "link": "https://jp.investing.com/news/forex-news/article-1684880",
+      "published": "2026-09-18 05:07:17",
+      "isoDate": "2026-09-18T05:07:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日銀会合後のアク抜けを意識",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684733",
-      "published": "2026-09-17 23:45:07",
-      "isoDate": "2026-09-17T23:45:07Z"
+      "title": "半導体関連主導で上げ幅拡大",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684861",
+      "published": "2026-09-18 03:45:12",
+      "isoDate": "2026-09-18T03:45:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株高を映して買い先行スタートへ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684725",
-      "published": "2026-09-17 23:30:06",
-      "isoDate": "2026-09-17T23:30:06Z"
+      "title": "日本銀行、インフレリスク拡大を受け31年ぶりの高水準に利上げ",
+      "link": "https://jp.investing.com/news/economy-news/article-1684847",
+      "published": "2026-09-18 03:11:02",
+      "isoDate": "2026-09-18T03:11:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "17日のNY市場は反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684721",
-      "published": "2026-09-17 23:15:06",
-      "isoDate": "2026-09-17T23:15:06Z"
+      "title": "原油価格の下落がインフレ懸念を緩和、アジア株が上昇―日銀決定に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684845",
+      "published": "2026-09-18 03:04:28",
+      "isoDate": "2026-09-18T03:04:28Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "17日の米国市場ダイジェスト：米国株式市場は反発、原油安を好感",
-      "link": "https://jp.investing.com/news/forex-news/article-1684696",
-      "published": "2026-09-17 22:15:04",
-      "isoDate": "2026-09-17T22:15:04Z"
+      "title": "米国株見通し：伸び悩みか、政策不透明感を払拭も週末に向け調整",
+      "link": "https://jp.investing.com/news/forex-news/article-1684838",
+      "published": "2026-09-18 02:45:14",
+      "isoDate": "2026-09-18T02:45:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ファン氏、Nvidia来年のチップ販売は今年の2倍になると発言",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684487",
-      "published": "2026-09-17 18:29:57",
-      "isoDate": "2026-09-17T18:29:57Z"
+      "title": "アドバンテスト---大幅反発、米半導体株高で国内関連銘柄も上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684808",
+      "published": "2026-09-18 02:00:12",
+      "isoDate": "2026-09-18T02:00:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、iPhone値上げ――通信キャリアの補助金が負担を軽減か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684404",
-      "published": "2026-09-17 16:05:48",
-      "isoDate": "2026-09-17T16:05:48Z"
+      "title": "日経平均は545円高でスタート、レーザーテックや日東紡などが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684779",
+      "published": "2026-09-18 01:00:10",
+      "isoDate": "2026-09-18T01:00:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,55 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ECBラガルド総裁が自ら介入か、バイナンスEUライセンス取得の阻止めぐり",
+      "link": "https://coinpost.jp/?p=738460",
+      "published": "Fri, 18 Sep 2026 13:35:03 +0900",
+      "isoDate": "2026-09-18T04:35:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ステラ、アップグレード「Adapter」をメインネットで稼働開始",
+      "link": "https://coinpost.jp/?p=738374",
+      "published": "Fri, 18 Sep 2026 11:35:54 +0900",
+      "isoDate": "2026-09-18T02:35:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベース、地銀の仮想通貨取引サービス提供を支援",
+      "link": "https://coinpost.jp/?p=738263",
+      "published": "Fri, 18 Sep 2026 10:50:55 +0900",
+      "isoDate": "2026-09-18T01:50:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ヴィタリック氏「セキュリティは防御側が有利」、AIハッキング悲観論に反論",
+      "link": "https://coinpost.jp/?p=738342",
+      "published": "Fri, 18 Sep 2026 10:45:52 +0900",
+      "isoDate": "2026-09-18T01:45:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米財務省、イラン仮想通貨取引所BitBankを制裁",
+      "link": "https://coinpost.jp/?p=738326",
+      "published": "Fri, 18 Sep 2026 10:30:21 +0900",
+      "isoDate": "2026-09-18T01:30:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインETFのヘッジ減れば、需要が金超えに＝JPモルガン",
+      "link": "https://coinpost.jp/?p=738242",
+      "published": "Fri, 18 Sep 2026 10:15:54 +0900",
+      "isoDate": "2026-09-18T01:15:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール「米利上げは中期調整」ビットコインへの影響限定的",
+      "link": "https://coinpost.jp/?p=738295",
+      "published": "Fri, 18 Sep 2026 09:45:22 +0900",
+      "isoDate": "2026-09-18T00:45:22Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "「ビットコインは依然として強気圏内も勢い鈍化」＝クリプトクアント",
       "link": "https://coinpost.jp/?p=738273",
       "published": "Fri, 18 Sep 2026 09:30:18 +0900",
@@ -166,55 +215,6 @@
       "link": "https://coinpost.jp/?p=738247",
       "published": "Fri, 18 Sep 2026 06:20:12 +0900",
       "isoDate": "2026-09-17T21:20:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "モスクワ証券取引所、仮想通貨5銘柄の無期限先物を22日より提供開始",
-      "link": "https://coinpost.jp/?p=738230",
-      "published": "Fri, 18 Sep 2026 05:00:26 +0900",
-      "isoDate": "2026-09-17T20:00:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、暗号資産の「販売所」誘導に懸念表明",
-      "link": "https://coinpost.jp/?p=738218",
-      "published": "Thu, 17 Sep 2026 18:17:31 +0900",
-      "isoDate": "2026-09-17T09:17:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPYC、韓国アップビット上場へ　岡部氏「大きな可能性」",
-      "link": "https://coinpost.jp/?p=738117",
-      "published": "Thu, 17 Sep 2026 15:41:38 +0900",
-      "isoDate": "2026-09-17T06:41:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Q2の仮想通貨ベンチャー投資額、冷え込んだ前期から大幅回復＝レポート",
-      "link": "https://coinpost.jp/?p=738036",
-      "published": "Thu, 17 Sep 2026 14:05:06 +0900",
-      "isoDate": "2026-09-17T05:05:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "レボリュート攻撃者、6000モネロ要求　当初の1万ビットコイン要求は否認",
-      "link": "https://coinpost.jp/?p=738095",
-      "published": "Thu, 17 Sep 2026 13:51:31 +0900",
-      "isoDate": "2026-09-17T04:51:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クリプト富裕層はどこに住むか、移住を意識した世界の仮想通貨採用度ランキング",
-      "link": "https://coinpost.jp/?p=738008",
-      "published": "Thu, 17 Sep 2026 13:20:40 +0900",
-      "isoDate": "2026-09-17T04:20:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインコア、新版が最終テスト段階に　脆弱性2件も修正",
-      "link": "https://coinpost.jp/?p=738003",
-      "published": "Thu, 17 Sep 2026 11:43:46 +0900",
-      "isoDate": "2026-09-17T02:43:46Z"
     }
   ]
 }
