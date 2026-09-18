@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-18T10:53:37Z",
-  "last_checked": "2026-09-18T10:53:37Z",
+  "updated": "2026-09-18T14:51:43Z",
+  "last_checked": "2026-09-18T14:51:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "LNGタンカーが地中海でサイバー攻撃を受けた疑い",
+      "link": "https://jp.investing.com/news/commodities-news/article-1685545",
+      "published": "2026-09-18 14:09:45",
+      "isoDate": "2026-09-18T14:09:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アジアのナフサ価格、原油安を受けて3日続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1685392",
+      "published": "2026-09-18 12:45:19",
+      "isoDate": "2026-09-18T12:45:19Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス、5週連続の上昇streak終焉へ",
@@ -46,40 +60,47 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格、供給懸念の緩和と外交努力を受けて続落",
+      "title": "中東原油供給見通しを見極める中、原油価格は下落幅を縮小",
       "link": "https://jp.investing.com/news/commodities-news/article-1684836",
       "published": "2026-09-18 02:37:00",
       "isoDate": "2026-09-18T02:37:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、週間ベースで上昇へ－原油安が下支え",
-      "link": "https://jp.investing.com/news/commodities-news/article-1684802",
-      "published": "2026-09-18 01:40:35",
-      "isoDate": "2026-09-18T01:40:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CBOTの小麦先物、強気材料の欠如で下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684668",
-      "published": "2026-09-17 21:16:30",
-      "isoDate": "2026-09-17T21:16:30Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州為替：ドル・円はじり高、追加利上げペースに警戒後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1685139",
-      "published": "2026-09-18 10:15:08",
-      "isoDate": "2026-09-18T10:15:08Z"
+      "title": "アップル、予想を上回るiPhoneの買い替えサイクルを調査が示す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1685465",
+      "published": "2026-09-18 13:13:59",
+      "isoDate": "2026-09-18T13:13:59Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ドル・円は堅調、日銀の追加利上げ加速の観測の後退で円安が進む",
-      "link": "https://jp.investing.com/news/forex-news/article-1685006",
-      "published": "2026-09-18 08:15:06",
-      "isoDate": "2026-09-18T08:15:06Z"
+      "title": "ドル・円は堅調、円安さらに進む",
+      "link": "https://jp.investing.com/news/forex-news/article-1685339",
+      "published": "2026-09-18 12:15:10",
+      "isoDate": "2026-09-18T12:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Saudi Aramcoが欧州顧客への原油供給を停止",
+      "link": "https://jp.investing.com/news/economy-news/article-1685284",
+      "published": "2026-09-18 11:40:30",
+      "isoDate": "2026-09-18T11:40:30Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "S&P 500は「利益バブル」の状態にあるのか？ゴールドマン・サックスが見解を示す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1685238",
+      "published": "2026-09-18 11:10:55",
+      "isoDate": "2026-09-18T11:10:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは低下、株価堅調で警戒感は緩和",
+      "link": "https://jp.investing.com/news/forex-news/article-1685162",
+      "published": "2026-09-18 10:30:09",
+      "isoDate": "2026-09-18T10:30:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,17 +111,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米テック株高で買い優勢も植田日銀総裁会見待ちで伸び悩む【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1684993",
-      "published": "2026-09-18 08:00:07",
-      "isoDate": "2026-09-18T08:00:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日銀が利上げ、NvidiaのファンCEOがチップ販売倍増を予告――市場を動かす要因",
       "link": "https://jp.investing.com/news/economy-news/article-1684986",
       "published": "2026-09-18 07:55:52",
       "isoDate": "2026-09-18T07:55:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが真価を見抜いた旅行サイト「トリバゴ」株が急騰、34％高に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684967",
+      "published": "2026-09-18 07:18:40",
+      "isoDate": "2026-09-18T07:18:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "植田総裁がタカ派的引き締めを否定、BOJ利上げでも円急落",
-      "link": "https://jp.investing.com/news/forex-news/article-1684880",
-      "published": "2026-09-18 05:07:17",
-      "isoDate": "2026-09-18T05:07:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日銀利上げで日本株上昇、原油安がインフレ懸念を緩和しアジア株も堅調",
       "link": "https://jp.investing.com/news/stock-market-news/article-1684845",
       "published": "2026-09-18 03:04:28",
       "isoDate": "2026-09-18T03:04:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は545円高でスタート、レーザーテックや日東紡などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684779",
-      "published": "2026-09-18 01:00:10",
-      "isoDate": "2026-09-18T01:00:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「日経225mini上場20周年記念」～日経225先物～指数のポイントと先物の魅力と活用法～vol.2",
-      "link": "https://jp.investing.com/news/forex-news/article-1683560",
-      "published": "2026-09-17 08:15:15",
-      "isoDate": "2026-09-17T08:15:15Z"
     }
   ],
   "btc_items": [
