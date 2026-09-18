@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-17T22:22:15Z",
-  "last_checked": "2026-09-17T22:22:15Z",
+  "updated": "2026-09-18T00:42:16Z",
+  "last_checked": "2026-09-18T00:42:16Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アライド・ゴールド、クルムク鉱山をエチオピア国家電力網に接続し初鉱石を投入",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1684652",
-      "published": "2026-09-17 21:02:03",
-      "isoDate": "2026-09-17T21:02:03Z"
+      "title": "ＮＥＣ---来週にもトレンド転換の可能性",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684744",
+      "published": "2026-09-18 00:00:07",
+      "isoDate": "2026-09-18T00:00:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "9月17日のNY為替・原油概況",
-      "link": "https://jp.investing.com/news/forex-news/article-1684499",
-      "published": "2026-09-17 19:00:04",
-      "isoDate": "2026-09-17T19:00:04Z"
+      "title": "日銀会合後のアク抜けを意識",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684733",
+      "published": "2026-09-17 23:45:07",
+      "isoDate": "2026-09-17T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株高を映して買い先行スタートへ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684725",
+      "published": "2026-09-17 23:30:06",
+      "isoDate": "2026-09-17T23:30:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "17日のNY市場は反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684721",
+      "published": "2026-09-17 23:15:06",
+      "isoDate": "2026-09-17T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "17日の米国市場ダイジェスト：米国株式市場は反発、原油安を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1684696",
+      "published": "2026-09-17 22:15:04",
+      "isoDate": "2026-09-17T22:15:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,31 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "IONQとシノプシス、最大14.6%のシミュレーション高速化を報告",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1684110",
-      "published": "2026-09-17 13:02:10",
-      "isoDate": "2026-09-17T13:02:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフト、マーベル・テクノロジー・グループ、Utimacoがクラウド決済セキュリティプラットフォームを発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1684108",
-      "published": "2026-09-17 13:02:09",
-      "isoDate": "2026-09-17T13:02:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "「日経225mini上場20周年記念」～日経225先物～指数のポイントと先物の魅力と活用法～vol.2",
       "link": "https://jp.investing.com/news/forex-news/article-1683560",
       "published": "2026-09-17 08:15:15",
       "isoDate": "2026-09-17T08:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅反発、FOMC通過でひとまず買い優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1683549",
-      "published": "2026-09-17 08:00:18",
-      "isoDate": "2026-09-17T08:00:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "「ビットコインは依然として強気圏内も勢い鈍化」＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=738273",
+      "published": "Fri, 18 Sep 2026 09:30:18 +0900",
+      "isoDate": "2026-09-18T00:30:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "XRPとRLUSDの利用拡大へ、XRPLのAIエージェント決済向け開発ツールの新版ローンチ",
+      "link": "https://coinpost.jp/?p=738270",
+      "published": "Fri, 18 Sep 2026 09:25:19 +0900",
+      "isoDate": "2026-09-18T00:25:19Z"
+    },
     {
       "source": "CoinPost",
       "title": "米CFTC、仮想通貨ウォレットの仲介ブローカー登録を免除",
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=738003",
       "published": "Thu, 17 Sep 2026 11:43:46 +0900",
       "isoDate": "2026-09-17T02:43:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、下落幅は限定的も需要は停滞　クラリティー法案否決後の現在地分析＝グラスノード",
-      "link": "https://coinpost.jp/?p=737954",
-      "published": "Thu, 17 Sep 2026 11:15:53 +0900",
-      "isoDate": "2026-09-17T02:15:53Z"
     }
   ]
 }
