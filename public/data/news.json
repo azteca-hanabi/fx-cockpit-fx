@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-18T18:11:40Z",
-  "last_checked": "2026-09-18T18:11:40Z",
+  "updated": "2026-09-18T21:08:24Z",
+  "last_checked": "2026-09-18T21:08:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、$99.50サポート攻防でダブルトップ崩れのリスク浮上",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
+      "published": "2026-09-18 19:13:03",
+      "isoDate": "2026-09-18T19:13:03Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、68.00ドルのレジスタンス直前でADX低下--上抜けか反落か",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
+      "published": "2026-09-18 19:12:48",
+      "isoDate": "2026-09-18T19:12:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、¥4,434.88の壁を前に突破か反落かの正念場",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
+      "published": "2026-09-18 19:12:17",
+      "isoDate": "2026-09-18T19:12:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅：61.8%フィボナッチ抵抗帯（$6.69〜$6.70）で攻防、反転リスク急上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
+      "published": "2026-09-18 19:12:12",
+      "isoDate": "2026-09-18T19:12:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent原油、$103.09サポートをギリギリ死守-ダブルトップ後の攻防",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
+      "published": "2026-09-18 19:12:10",
+      "isoDate": "2026-09-18T19:12:10Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロネクスト小麦、黒海輸出混乱を受けて続落",
@@ -36,34 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1685392",
       "published": "2026-09-18 12:45:19",
       "isoDate": "2026-09-18T12:45:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、5週連続の上昇streak終焉へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1685022",
-      "published": "2026-09-18 08:32:34",
-      "isoDate": "2026-09-18T08:32:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油$100.30、$99.50サポートが強気シナリオの分水嶺",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
-      "published": "2026-09-18 07:09:17",
-      "isoDate": "2026-09-18T07:09:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、61.8%フィボナッチ$6.68前で反落リスク急上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
-      "published": "2026-09-18 07:09:15",
-      "isoDate": "2026-09-18T07:09:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、$67.94の主要レジスタンスに急接近-ブルトラップに警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
-      "published": "2026-09-18 07:09:13",
-      "isoDate": "2026-09-18T07:09:13Z"
     }
   ],
   "usdjpy_items": [
@@ -90,13 +97,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、予想を上回るiPhoneの買い替えサイクルを調査が示す",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1685465",
-      "published": "2026-09-18 13:13:59",
-      "isoDate": "2026-09-18T13:13:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ビットコイン・米ドルが本日上昇した理由とは",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-93CH-1685448",
       "published": "2026-09-18 13:06:47",
@@ -108,6 +108,13 @@
       "link": "https://jp.investing.com/news/forex-news/article-1685162",
       "published": "2026-09-18 10:30:09",
       "isoDate": "2026-09-18T10:30:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約652円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1685112",
+      "published": "2026-09-18 10:00:09",
+      "isoDate": "2026-09-18T10:00:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米CFTC、仮想通貨規則案2件をホワイトハウスに提出｜セリグ委員長方針を実行",
+      "link": "https://coinpost.jp/?p=738611",
+      "published": "Sat, 19 Sep 2026 05:50:33 +0900",
+      "isoDate": "2026-09-18T20:50:33Z"
+    },
     {
       "source": "CoinPost",
       "title": "日米豪独7機関、北朝鮮ハッカー「WaterPlum」が仮想通貨17億円窃取と公表",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=738295",
       "published": "Fri, 18 Sep 2026 09:45:22 +0900",
       "isoDate": "2026-09-18T00:45:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインは依然として強気圏内も勢い鈍化」＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=738273",
-      "published": "Fri, 18 Sep 2026 09:30:18 +0900",
-      "isoDate": "2026-09-18T00:30:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPとRLUSDの利用拡大へ、XRPLのAIエージェント決済向け開発ツールの新版ローンチ",
-      "link": "https://coinpost.jp/?p=738270",
-      "published": "Fri, 18 Sep 2026 09:25:19 +0900",
-      "isoDate": "2026-09-18T00:25:19Z"
     }
   ]
 }
