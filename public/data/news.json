@@ -1,17 +1,59 @@
 {
-  "updated": "2026-09-18T05:40:51Z",
-  "last_checked": "2026-09-18T05:40:51Z",
+  "updated": "2026-09-18T10:53:37Z",
+  "last_checked": "2026-09-18T10:53:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "供給懸念が後退、外交動向に注目——原油価格3日続落",
+      "title": "欧州天然ガス、5週連続の上昇streak終焉へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1685022",
+      "published": "2026-09-18 08:32:34",
+      "isoDate": "2026-09-18T08:32:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油$100.30、$99.50サポートが強気シナリオの分水嶺",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
+      "published": "2026-09-18 07:09:17",
+      "isoDate": "2026-09-18T07:09:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper、61.8%フィボナッチ$6.68前で反落リスク急上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
+      "published": "2026-09-18 07:09:15",
+      "isoDate": "2026-09-18T07:09:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$67.94の主要レジスタンスに急接近-ブルトラップに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
+      "published": "2026-09-18 07:09:13",
+      "isoDate": "2026-09-18T07:09:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、101.50～103.00のサポート帯が崩れるか重大局面",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
+      "published": "2026-09-18 07:09:01",
+      "isoDate": "2026-09-18T07:09:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、SMA(200)とIchimoku雲を突破し38.2%フィボナッチ抵抗に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
+      "published": "2026-09-18 07:08:37",
+      "isoDate": "2026-09-18T07:08:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、供給懸念の緩和と外交努力を受けて続落",
       "link": "https://jp.investing.com/news/commodities-news/article-1684836",
       "published": "2026-09-18 02:37:00",
       "isoDate": "2026-09-18T02:37:00Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が週間ベースで上昇、原油安と利回り低下が追い風",
+      "title": "金価格、週間ベースで上昇へ－原油安が下支え",
       "link": "https://jp.investing.com/news/commodities-news/article-1684802",
       "published": "2026-09-18 01:40:35",
       "isoDate": "2026-09-18T01:40:35Z"
@@ -22,99 +64,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684668",
       "published": "2026-09-17 21:16:30",
       "isoDate": "2026-09-17T21:16:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "JPモルガン・チェース・アンド・カンパニー、イラン紛争で原油市場の基本見通しを喪失",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684517",
-      "published": "2026-09-17 19:33:14",
-      "isoDate": "2026-09-17T19:33:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$99.51〜$102.82の攻防：押し目買いと戻り売りが拮抗",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678630",
-      "published": "2026-09-17 19:12:51",
-      "isoDate": "2026-09-17T19:12:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、65.90〜66.30ドルの主要レジスタンスで攻防",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678629",
-      "published": "2026-09-17 19:12:40",
-      "isoDate": "2026-09-17T19:12:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅：6.62の複合抵抗帯で強気・弱気が激突、分岐点到来",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678628",
-      "published": "2026-09-17 19:12:21",
-      "isoDate": "2026-09-17T19:12:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent原油がダブルトップ下抜け、104.13ドルまで下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678627",
-      "published": "2026-09-17 19:12:14",
-      "isoDate": "2026-09-17T19:12:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、50SMAと一目雲に挟まれ膠着-$4,410超えが強気転換の鍵",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1678626",
-      "published": "2026-09-17 19:12:11",
-      "isoDate": "2026-09-17T19:12:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパのディーゼルマージンが過去最高水準から約3%下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1684471",
-      "published": "2026-09-17 18:03:20",
-      "isoDate": "2026-09-17T18:03:20Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アジア通貨はまちまち、日銀利上げにもかかわらず円安進む",
+      "title": "欧州為替：ドル・円はじり高、追加利上げペースに警戒後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1685139",
+      "published": "2026-09-18 10:15:08",
+      "isoDate": "2026-09-18T10:15:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ドル・円は堅調、日銀の追加利上げ加速の観測の後退で円安が進む",
+      "link": "https://jp.investing.com/news/forex-news/article-1685006",
+      "published": "2026-09-18 08:15:06",
+      "isoDate": "2026-09-18T08:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経VI：大幅に低下、株価堅調で警戒感は緩和",
+      "link": "https://jp.investing.com/news/forex-news/article-1685003",
+      "published": "2026-09-18 08:15:05",
+      "isoDate": "2026-09-18T08:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米テック株高で買い優勢も植田日銀総裁会見待ちで伸び悩む【クロージング】",
+      "link": "https://jp.investing.com/news/forex-news/article-1684993",
+      "published": "2026-09-18 08:00:07",
+      "isoDate": "2026-09-18T08:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日銀が利上げ、NvidiaのファンCEOがチップ販売倍増を予告――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1684986",
+      "published": "2026-09-18 07:55:52",
+      "isoDate": "2026-09-18T07:55:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今日の日経平均：一時1200円超値上がり、半導体株急騰、利上げでも銀行株に売り",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684885",
+      "published": "2026-09-18 05:34:09",
+      "isoDate": "2026-09-18T05:34:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "植田総裁がタカ派的引き締めを否定、BOJ利上げでも円急落",
       "link": "https://jp.investing.com/news/forex-news/article-1684880",
       "published": "2026-09-18 05:07:17",
       "isoDate": "2026-09-18T05:07:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体関連主導で上げ幅拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684861",
-      "published": "2026-09-18 03:45:12",
-      "isoDate": "2026-09-18T03:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本銀行、インフレリスク拡大を受け31年ぶりの高水準に利上げ",
-      "link": "https://jp.investing.com/news/economy-news/article-1684847",
-      "published": "2026-09-18 03:11:02",
-      "isoDate": "2026-09-18T03:11:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "原油価格の下落がインフレ懸念を緩和、アジア株が上昇―日銀決定に注目",
+      "title": "日銀利上げで日本株上昇、原油安がインフレ懸念を緩和しアジア株も堅調",
       "link": "https://jp.investing.com/news/stock-market-news/article-1684845",
       "published": "2026-09-18 03:04:28",
       "isoDate": "2026-09-18T03:04:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：伸び悩みか、政策不透明感を払拭も週末に向け調整",
-      "link": "https://jp.investing.com/news/forex-news/article-1684838",
-      "published": "2026-09-18 02:45:14",
-      "isoDate": "2026-09-18T02:45:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンテスト---大幅反発、米半導体株高で国内関連銘柄も上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684808",
-      "published": "2026-09-18 02:00:12",
-      "isoDate": "2026-09-18T02:00:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +136,16 @@
       "link": "https://jp.investing.com/news/forex-news/article-1683560",
       "published": "2026-09-17 08:15:15",
       "isoDate": "2026-09-17T08:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は255円高でスタート、サンリオや三菱重などが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1683363",
-      "published": "2026-09-17 04:15:18",
-      "isoDate": "2026-09-17T04:15:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "FRB利上げに負けない「AI厳選銘柄」、InvestingProが55%オフのセール、本日終了",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1682007",
-      "published": "2026-09-16 08:26:32",
-      "isoDate": "2026-09-16T08:26:32Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "日米豪独7機関、北朝鮮ハッカー「WaterPlum」が仮想通貨17億円窃取と公表",
+      "link": "https://coinpost.jp/?p=738590",
+      "published": "Fri, 18 Sep 2026 18:12:55 +0900",
+      "isoDate": "2026-09-18T09:12:55Z"
+    },
     {
       "source": "CoinPost",
       "title": "ECBラガルド総裁が自ら介入か、バイナンスEUライセンス取得の阻止めぐり",
@@ -208,13 +208,6 @@
       "link": "https://coinpost.jp/?p=738270",
       "published": "Fri, 18 Sep 2026 09:25:19 +0900",
       "isoDate": "2026-09-18T00:25:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC、仮想通貨ウォレットの仲介ブローカー登録を免除",
-      "link": "https://coinpost.jp/?p=738247",
-      "published": "Fri, 18 Sep 2026 06:20:12 +0900",
-      "isoDate": "2026-09-17T21:20:12Z"
     }
   ]
 }
