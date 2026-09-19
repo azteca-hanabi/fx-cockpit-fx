@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T08:44:29Z",
-  "last_checked": "2026-09-19T08:44:29Z",
+  "updated": "2026-09-19T12:59:09Z",
+  "last_checked": "2026-09-19T12:59:09Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -97,6 +97,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "ビットコインとイーサリアムの急騰で暗号資産関連株が大幅上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1685635",
+      "published": "2026-09-18 16:36:55",
+      "isoDate": "2026-09-18T16:36:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SanDisk株が本日急騰している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1685560",
       "published": "2026-09-18 14:24:46",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1684967",
       "published": "2026-09-18 07:18:40",
       "isoDate": "2026-09-18T07:18:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今日の日経平均：一時1200円超値上がり、半導体株急騰、利上げでも銀行株に売り",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1684885",
-      "published": "2026-09-18 05:34:09",
-      "isoDate": "2026-09-18T05:34:09Z"
     }
   ],
   "btc_items": [
