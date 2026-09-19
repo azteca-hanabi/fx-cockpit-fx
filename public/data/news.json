@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T12:59:09Z",
-  "last_checked": "2026-09-19T12:59:09Z",
+  "updated": "2026-09-19T16:22:38Z",
+  "last_checked": "2026-09-19T16:22:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -104,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "NASAがスペースXにISS乗員輸送3ミッション追加、契約額9億4600万ドル",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1685634",
+      "published": "2026-09-18 16:31:03",
+      "isoDate": "2026-09-18T16:31:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "SanDisk株が本日急騰している理由とは",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1685560",
       "published": "2026-09-18 14:24:46",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1685162",
       "published": "2026-09-18 10:30:09",
       "isoDate": "2026-09-18T10:30:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約652円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1685112",
-      "published": "2026-09-18 10:00:09",
-      "isoDate": "2026-09-18T10:00:09Z"
     },
     {
       "source": "Investing.com 外為",
