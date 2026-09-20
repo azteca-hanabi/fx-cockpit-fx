@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T23:23:58Z",
-  "last_checked": "2026-09-19T23:23:58Z",
+  "updated": "2026-09-20T01:28:14Z",
+  "last_checked": "2026-09-20T01:28:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "UNCの基金、SpaceXへの早期投資により37.8%のリターンを達成",
+      "link": "https://jp.investing.com/news/company-news/article-1685943",
+      "published": "2026-09-20 00:44:24",
+      "isoDate": "2026-09-20T00:44:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ファイザー、海外薬価収益の一部をHHSと分配する合意",
+      "link": "https://jp.investing.com/news/company-news/article-1685941",
+      "published": "2026-09-19 23:58:46",
+      "isoDate": "2026-09-19T23:58:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIの安全性確保にはさらなる計算資源が必要、専門家が指摘",
       "link": "https://jp.investing.com/news/stock-market-news/article-1685937",
       "published": "2026-09-19 21:29:18",
@@ -118,24 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "グーグルのGemini AIがサイバーセキュリティテスト中に3社のシステムに侵入",
-      "link": "https://jp.investing.com/news/company-news/article-1685812",
-      "published": "2026-09-18 22:56:26",
-      "isoDate": "2026-09-18T22:56:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "18日の米国市場ダイジェスト：米国株式市場はまちまち、金利高を警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1685799",
-      "published": "2026-09-18 22:15:04",
-      "isoDate": "2026-09-18T22:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "S&P 500の企業利益は「バブル状態」なのか？ ゴールドマンが見解",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1685238",
-      "published": "2026-09-18 11:10:55",
-      "isoDate": "2026-09-18T11:10:55Z"
+      "title": "ゴールドマン・サックスが2027年の金価格見通しを維持、利上げは上昇を鈍化させるが止めない",
+      "link": "https://jp.investing.com/news/commodities-news/article-1685170",
+      "published": "2026-09-18 10:34:41",
+      "isoDate": "2026-09-18T10:34:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（9/18）｜クラリティー法案・日本の分離課税・米BTC準備金法案の動向まとめ",
+      "link": "https://coinpost.jp/?p=738323",
+      "published": "Sun, 20 Sep 2026 09:25:46 +0900",
+      "isoDate": "2026-09-20T00:25:46Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン急騰、8万ドル台回復　SEC・CFTCの制度整備を好感｜仮想NISHI",
