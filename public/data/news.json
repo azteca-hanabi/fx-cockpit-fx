@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T12:08:28Z",
-  "last_checked": "2026-09-20T12:08:28Z",
+  "updated": "2026-09-20T16:24:10Z",
+  "last_checked": "2026-09-20T16:24:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "アップルとマイクロソフト株、どっちが買い？　「投資特化型AI」の回答",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1685981",
+      "published": "2026-09-20 12:46:45",
+      "isoDate": "2026-09-20T12:46:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "株式市場のバリュエーションに「重大なリスク」をもたらす3つの要因",
       "link": "https://jp.investing.com/news/stock-market-news/article-1685978",
       "published": "2026-09-20 11:19:02",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1685935",
       "published": "2026-09-19 20:16:51",
       "isoDate": "2026-09-19T20:16:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "大幅下落にもかかわらずナイキ株を避けるべき理由をアナリストが解説",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1685932",
-      "published": "2026-09-19 20:10:04",
-      "isoDate": "2026-09-19T20:10:04Z"
     },
     {
       "source": "Investing.com 外為",
