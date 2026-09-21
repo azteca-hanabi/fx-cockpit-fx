@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21T19:16:42Z",
-  "last_checked": "2026-09-21T19:16:42Z",
+  "updated": "2026-09-21T22:45:27Z",
+  "last_checked": "2026-09-21T22:45:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ICEキャノーラ先物、大豆製品の上昇と加ドル安に支えられ上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1687064",
+      "published": "2026-09-21 20:22:13",
+      "isoDate": "2026-09-21T20:22:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、史上最高値付近のレジスタンスでダブルトップ警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686133",
+      "published": "2026-09-21 19:12:28",
+      "isoDate": "2026-09-21T19:12:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、38.2%フィボサポート$91.58に接近しベア継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
+      "published": "2026-09-21 19:12:16",
+      "isoDate": "2026-09-21T19:12:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、フィボ50%戻し66.95ドルが分岐点-方向感に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
+      "published": "2026-09-21 19:12:11",
+      "isoDate": "2026-09-21T19:12:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、100ドル攻防でダブルトップ下抜け加速",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
+      "published": "2026-09-21 19:12:04",
+      "isoDate": "2026-09-21T19:12:04Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold 5時間足で下降トライアングル形成、$4,315サポート割れに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
+      "published": "2026-09-21 19:11:51",
+      "isoDate": "2026-09-21T19:11:51Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "今週のトランプ・習会談を前に大豆先物が上昇",
@@ -29,51 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1686529",
       "published": "2026-09-21 11:39:08",
       "isoDate": "2026-09-21T11:39:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国のディーゼル価格が1ガロン6.50ドルの記録的高値に到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-1686403",
-      "published": "2026-09-21 11:03:16",
-      "isoDate": "2026-09-21T11:03:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが2026年末から2027年初頭のパラジウム価格目標を引き上げ、供給逼迫を反映",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686210",
-      "published": "2026-09-21 08:50:36",
-      "isoDate": "2026-09-21T08:50:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格が下落、ECBはインフレへの波及加速を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1686201",
-      "published": "2026-09-21 08:32:03",
-      "isoDate": "2026-09-21T08:32:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、$65〜$67のレンジで膠着-ブレイク待ちの局面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
-      "published": "2026-09-21 07:09:08",
-      "isoDate": "2026-09-21T07:09:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、ダブルトップ完成後に$94.00サポート攻防",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
-      "published": "2026-09-21 07:09:05",
-      "isoDate": "2026-09-21T07:09:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oilが$101.50サポート際で攻防、MACD売り圧力が強まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
-      "published": "2026-09-21 07:09:03",
-      "isoDate": "2026-09-21T07:09:03Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウはダウ平均は366.19ドル高、原油安やAI期待が支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1687100",
+      "published": "2026-09-21 21:00:02",
+      "isoDate": "2026-09-21T21:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】SanDisk、$1,830の強いレジスタンス前にダブルトップ警戒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686851",
+      "published": "2026-09-21 19:11:32",
+      "isoDate": "2026-09-21T19:11:32Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "アドバンスト・マイクロ・デバイセズ、AI需要を背景に時価総額1兆ドルクラブ入り",
@@ -115,20 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1686643",
       "published": "2026-09-21 12:11:06",
       "isoDate": "2026-09-21T12:11:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "バーンスタイン、2030年の金価格見通しを新たに発表",
-      "link": "https://jp.investing.com/news/commodities-news/article-1686573",
-      "published": "2026-09-21 11:57:27",
-      "isoDate": "2026-09-21T11:57:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXとテスラのAI連携が深化、モルガン・スタンレーの見解",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1686186",
-      "published": "2026-09-21 08:07:42",
-      "isoDate": "2026-09-21T08:07:42Z"
     },
     {
       "source": "Investing.com 外為",
