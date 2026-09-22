@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-22T13:14:35Z",
-  "last_checked": "2026-09-22T13:14:35Z",
+  "updated": "2026-09-22T17:42:13Z",
+  "last_checked": "2026-09-22T17:42:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、月曜日の上昇後に利益確定売りで下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1687984",
+      "published": "2026-09-22 13:02:46",
+      "isoDate": "2026-09-22T13:02:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦先物、CBOT開場前の利食い売りで下落",
@@ -64,57 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
       "published": "2026-09-22 07:08:46",
       "isoDate": "2026-09-22T07:08:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドル高を受け金価格が下落、FRBの利上げ見通しに注目集まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-1687212",
-      "published": "2026-09-22 01:24:14",
-      "isoDate": "2026-09-22T01:24:14Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "NY外為：ドル買いに転じる、米長期金利動向に連れ、トランプ米大統領は米経済や軍の強さを強調＝国連総会演説",
+      "link": "https://jp.investing.com/news/forex-news/article-1688240",
+      "published": "2026-09-22 16:30:03",
+      "isoDate": "2026-09-22T16:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】SanDisk、$1,884付近で過熱感が極めて強い状態に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686851",
+      "published": "2026-09-22 14:09:34",
+      "isoDate": "2026-09-22T14:09:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "独占：SBエナジーのナスダックIPO、計画通り進行中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1688125",
+      "published": "2026-09-22 14:09:17",
+      "isoDate": "2026-09-22T14:09:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サンディスクの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1688101",
+      "published": "2026-09-22 13:52:43",
+      "isoDate": "2026-09-22T13:52:43Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ローゼンブラット、サンディスクをBuy評価で新規カバレッジ開始",
       "link": "https://jp.investing.com/news/stock-market-news/article-1687917",
       "published": "2026-09-22 12:33:10",
       "isoDate": "2026-09-22T12:33:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Mizuho、Meta Platformsの強気シナリオが現実化しつつあると指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1687826",
-      "published": "2026-09-22 12:04:48",
-      "isoDate": "2026-09-22T12:04:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SoFi Technologies、マスターカードのネットワークでステーブルコイン決済を開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1687812",
-      "published": "2026-09-22 12:04:07",
-      "isoDate": "2026-09-22T12:04:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アクセンチュア・エッジ、中堅企業向けにAWSの6つのサービスを提供開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1687788",
-      "published": "2026-09-22 12:01:01",
-      "isoDate": "2026-09-22T12:01:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、世界のインフレ動向に意外な逆転現象を指摘",
-      "link": "https://jp.investing.com/news/economy-news/article-1687775",
-      "published": "2026-09-22 11:44:37",
-      "isoDate": "2026-09-22T11:44:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "TSX先物が小幅上昇、中東外交への期待とトランプ・習会談を前に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1687760",
-      "published": "2026-09-22 11:38:18",
-      "isoDate": "2026-09-22T11:38:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1687215",
       "published": "2026-09-22 01:44:50",
       "isoDate": "2026-09-22T01:44:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "21日のNY市場は上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1687164",
+      "published": "2026-09-21 23:00:03",
+      "isoDate": "2026-09-21T23:00:03Z"
     },
     {
       "source": "Investing.com 外為",
