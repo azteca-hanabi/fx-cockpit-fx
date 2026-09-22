@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-22T17:42:13Z",
-  "last_checked": "2026-09-22T17:42:13Z",
+  "updated": "2026-09-22T21:04:12Z",
+  "last_checked": "2026-09-22T21:04:12Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トレーダーが米中貿易協議を待つ中、トウモロコシ先物が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1688406",
+      "published": "2026-09-22 20:20:45",
+      "isoDate": "2026-09-22T20:20:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】原油WTI、売られ過ぎ水準で下落トレンド継続-SMA200が焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
+      "published": "2026-09-22 19:12:25",
+      "isoDate": "2026-09-22T19:12:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$99.17で戻り売り優勢-抵抗帯$101.73～$103.51に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
+      "published": "2026-09-22 19:12:22",
+      "isoDate": "2026-09-22T19:12:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、66〜68ドルのレンジで膠着：ADX低水準でブレイク待ち",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
+      "published": "2026-09-22 19:12:20",
+      "isoDate": "2026-09-22T19:12:20Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、4,376〜4,409ドルの狭いレンジで膠着-200SMAが重い抵抗",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
+      "published": "2026-09-22 19:12:19",
+      "isoDate": "2026-09-22T19:12:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copperが史上最高値$6.903の抵抗線を再テスト、過熱シグナル点灯",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686133",
+      "published": "2026-09-22 19:12:19",
+      "isoDate": "2026-09-22T19:12:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米中首脳会談を前に大豆先物が小幅な動きにとどまる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1688310",
+      "published": "2026-09-22 18:35:12",
+      "isoDate": "2026-09-22T18:35:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジアラビアのパイプライン再稼働で欧州ディーゼルマージンが3%上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1688282",
+      "published": "2026-09-22 17:49:10",
+      "isoDate": "2026-09-22T17:49:10Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トウモロコシ先物、月曜日の上昇後に利益確定売りで下落",
@@ -15,78 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1687954",
       "published": "2026-09-22 12:44:22",
       "isoDate": "2026-09-22T12:44:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バンク・オブ・アメリカ、地政学的緊張を背景に下半期ブレント原油予測を引き上げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1687891",
-      "published": "2026-09-22 12:25:37",
-      "isoDate": "2026-09-22T12:25:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トルコの黒海穀物計画をめぐり、ロシアが外交協議を継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1687560",
-      "published": "2026-09-22 10:16:45",
-      "isoDate": "2026-09-22T10:16:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、2週間ぶり安値から安定回復——国連協議に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1687431",
-      "published": "2026-09-22 08:59:54",
-      "isoDate": "2026-09-22T08:59:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$100サポート攻防でダブルトップ形成の分岐点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
-      "published": "2026-09-22 07:09:08",
-      "isoDate": "2026-09-22T07:09:08Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油が50%フィボナッチ（93.42ドル）をサポートテスト中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
-      "published": "2026-09-22 07:09:04",
-      "isoDate": "2026-09-22T07:09:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、移動平均線のレンジで膠着--上下抜けを待つ局面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
-      "published": "2026-09-22 07:09:00",
-      "isoDate": "2026-09-22T07:09:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、史上最高値6.8915手前でダブルトップ形成リスク急上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686133",
-      "published": "2026-09-22 07:08:49",
-      "isoDate": "2026-09-22T07:08:49Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,320サポート割れ迫る-200SMA・雲下で弱気継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
-      "published": "2026-09-22 07:08:46",
-      "isoDate": "2026-09-22T07:08:46Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY外為：ドル買いに転じる、米長期金利動向に連れ、トランプ米大統領は米経済や軍の強さを強調＝国連総会演説",
-      "link": "https://jp.investing.com/news/forex-news/article-1688240",
-      "published": "2026-09-22 16:30:03",
-      "isoDate": "2026-09-22T16:30:03Z"
+      "title": "IONQが単一CPUによるリアルタイム量子エラーデコーダーを初めて実証",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1688353",
+      "published": "2026-09-22 20:02:04",
+      "isoDate": "2026-09-22T20:02:04Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "【随時更新】SanDisk、$1,884付近で過熱感が極めて強い状態に",
+      "title": "トランプ大統領、7月のSpaceX株取引を開示",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1688339",
+      "published": "2026-09-22 19:37:34",
+      "isoDate": "2026-09-22T19:37:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】IONQが39.50〜41.50ドルで膠着、ADX11.74でトレンド低下",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686862",
+      "published": "2026-09-22 19:13:24",
+      "isoDate": "2026-09-22T19:13:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】SanDisk、20SMAから13.2%乖離の過熱状態で$1,941レジスタンスに接近",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686851",
-      "published": "2026-09-22 14:09:34",
-      "isoDate": "2026-09-22T14:09:34Z"
+      "published": "2026-09-22 19:11:47",
+      "isoDate": "2026-09-22T19:11:47Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1687215",
       "published": "2026-09-22 01:44:50",
       "isoDate": "2026-09-22T01:44:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "21日のNY市場は上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1687164",
-      "published": "2026-09-21 23:00:03",
-      "isoDate": "2026-09-21T23:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Meta AIエージェント「Muse」が半導体株とウォール街を席巻する大規模なテック株急騰を誘発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1686942",
-      "published": "2026-09-21 15:26:42",
-      "isoDate": "2026-09-21T15:26:42Z"
     }
   ],
   "btc_items": [
