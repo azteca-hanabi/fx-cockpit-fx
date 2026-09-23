@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T09:26:52Z",
-  "last_checked": "2026-09-23T09:26:52Z",
+  "updated": "2026-09-23T14:20:53Z",
+  "last_checked": "2026-09-23T14:20:53Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -46,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイラン協議の進展を示唆、原油は1バレル100ドル以下で推移",
+      "title": "イラン協議の進展を見極める中、原油価格は1バレル100ドル前後で推移",
       "link": "https://jp.investing.com/news/commodities-news/article-1688546",
       "published": "2026-09-23 00:38:30",
       "isoDate": "2026-09-23T00:38:30Z"
@@ -76,56 +76,63 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円はしっかり、ドル買い継続で",
-      "link": "https://jp.investing.com/news/forex-news/article-1688755",
-      "published": "2026-09-23 08:30:03",
-      "isoDate": "2026-09-23T08:30:03Z"
+      "title": "【随時更新】Micron、RSI72台の買われすぎで1,100ドル突破か調整か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686854",
+      "published": "2026-09-23 14:10:29",
+      "isoDate": "2026-09-23T14:10:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は小じっかり、ドル買い継続で",
-      "link": "https://jp.investing.com/news/forex-news/article-1688690",
-      "published": "2026-09-23 07:15:03",
-      "isoDate": "2026-09-23T07:15:03Z"
+      "title": "NY外為：ドル続伸、米長期金利が上昇、米軽油の輸出禁止を検討",
+      "link": "https://jp.investing.com/news/forex-news/article-1689388",
+      "published": "2026-09-23 13:15:03",
+      "isoDate": "2026-09-23T13:15:03Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "FTSE 100：米・イラン外交進展で原油高懸念が後退、英国株が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1688692",
-      "published": "2026-09-23 07:13:39",
-      "isoDate": "2026-09-23T07:13:39Z"
+      "title": "Super MicroがNvidia Vera Rubin NVL72ラックの出荷を開始",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1689380",
+      "published": "2026-09-23 13:12:02",
+      "isoDate": "2026-09-23T13:12:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "+42%、+39%、+36%：AIが選んだ半導体株が9月に急騰——その理由とは",
+      "title": "TSX先物、金価格下落で小幅安―中東和平への期待とMeta AIに注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1689129",
+      "published": "2026-09-23 11:42:08",
+      "isoDate": "2026-09-23T11:42:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリスト、ビットコインの強気相場入りを宣言し2029年目標を設定",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1688955",
+      "published": "2026-09-23 10:42:44",
+      "isoDate": "2026-09-23T10:42:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スティフェルがマイクロソフトを買いに格上げ、「軌道に戻りつつある」と評価",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1688909",
+      "published": "2026-09-23 10:19:08",
+      "isoDate": "2026-09-23T10:19:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IonQ株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1688759",
+      "published": "2026-09-23 08:34:44",
+      "isoDate": "2026-09-23T08:34:44Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI選定の「半導体株」が軒並み好調、AMDは9月に36%高、アームは42%高",
       "link": "https://jp.investing.com/news/stock-market-news/article-1688651",
       "published": "2026-09-23 06:34:00",
       "isoDate": "2026-09-23T06:34:00Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は変わらず、日米首脳会談を注視",
-      "link": "https://jp.investing.com/news/forex-news/article-1688619",
-      "published": "2026-09-23 05:45:05",
-      "isoDate": "2026-09-23T05:45:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだ銘柄、今月約20%上昇——AIラップトップ契約が追い風に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1688595",
-      "published": "2026-09-23 04:19:27",
-      "isoDate": "2026-09-23T04:19:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、長期金利の動向を注視",
-      "link": "https://jp.investing.com/news/forex-news/article-1688592",
-      "published": "2026-09-23 04:00:03",
-      "isoDate": "2026-09-23T04:00:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株先物は横ばい――イラン協議とAI楽観論を市場が消化",
+      "title": "米国株先物は横ばい圏、AI熱狂と中東外交に注目――トランプ・習会談も",
       "link": "https://jp.investing.com/news/stock-market-news/article-1688545",
       "published": "2026-09-23 00:34:38",
       "isoDate": "2026-09-23T00:34:38Z"
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1688339",
       "published": "2026-09-22 19:37:34",
       "isoDate": "2026-09-22T19:37:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シティ、世界株式ポジション悪化でショートカバーリスクを警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1687404",
-      "published": "2026-09-22 08:19:59",
-      "isoDate": "2026-09-22T08:19:59Z"
     }
   ],
   "btc_items": [
