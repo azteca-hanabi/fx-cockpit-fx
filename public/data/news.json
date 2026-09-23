@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-23T14:20:53Z",
-  "last_checked": "2026-09-23T14:20:53Z",
+  "updated": "2026-09-23T18:31:53Z",
+  "last_checked": "2026-09-23T18:31:53Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の原油在庫が増加、ガソリンと留出油在庫は減少＝EIA",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1689658",
+      "published": "2026-09-23 16:30:44",
+      "isoDate": "2026-09-23T16:30:44Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "テヘランがホルムズ海峡再開を示唆、欧州ガス先物は3週間ぶり安値近辺で推移",
@@ -64,22 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1688310",
       "published": "2026-09-22 18:35:12",
       "isoDate": "2026-09-22T18:35:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "サウジアラビアのパイプライン再稼働で欧州ディーゼルマージンが3%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1688282",
-      "published": "2026-09-22 17:49:10",
-      "isoDate": "2026-09-22T17:49:10Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "【随時更新】Micron、RSI72台の買われすぎで1,100ドル突破か調整か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1686854",
-      "published": "2026-09-23 14:10:29",
-      "isoDate": "2026-09-23T14:10:29Z"
+      "title": "シティ、マイクロンテクノロジー株がSEMICON Westで上昇と予想",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1689576",
+      "published": "2026-09-23 14:31:19",
+      "isoDate": "2026-09-23T14:31:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Palantirの株価が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1689499",
+      "published": "2026-09-23 13:53:11",
+      "isoDate": "2026-09-23T13:53:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,13 +115,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1688955",
       "published": "2026-09-23 10:42:44",
       "isoDate": "2026-09-23T10:42:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スティフェルがマイクロソフトを買いに格上げ、「軌道に戻りつつある」と評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1688909",
-      "published": "2026-09-23 10:19:08",
-      "isoDate": "2026-09-23T10:19:08Z"
     },
     {
       "source": "Investing.com 外為",
