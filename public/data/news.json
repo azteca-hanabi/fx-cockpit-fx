@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T11:34:34Z",
-  "last_checked": "2026-09-24T11:34:34Z",
+  "updated": "2026-09-24T16:50:23Z",
+  "last_checked": "2026-09-24T16:50:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAEとサウジアラビア、インドの製油所への投資に関心＝石油相",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1691193",
+      "published": "2026-09-24 14:45:39",
+      "isoDate": "2026-09-24T14:45:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "世界の粗鋼生産量、8月に前年比1.2%減少",
@@ -64,29 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1690070",
       "published": "2026-09-24 01:22:12",
       "isoDate": "2026-09-24T01:22:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン外交への懐疑から原油価格が上昇を継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-1690051",
-      "published": "2026-09-24 00:53:01",
-      "isoDate": "2026-09-24T00:53:01Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "レッドワイア、総額9億8000万ドルの宇宙軍IDIQ契約を獲得",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1690668",
-      "published": "2026-09-24 11:03:08",
-      "isoDate": "2026-09-24T11:03:08Z"
+      "title": "グーグル、SpaceXミッションでカスタムAIチップの宇宙テストを実施へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1691234",
+      "published": "2026-09-24 15:14:11",
+      "isoDate": "2026-09-24T15:14:11Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "JPモルガン・チェース・アンド・カンパニー、CoreWeaveを格上げ――コンピューティング価格の上昇を評価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690661",
-      "published": "2026-09-24 11:01:49",
-      "isoDate": "2026-09-24T11:01:49Z"
+      "title": "【市場反応】米新規失業保険申請件数は2カ月ぶり低水準、ドル高値圏",
+      "link": "https://jp.investing.com/news/forex-news/article-1690985",
+      "published": "2026-09-24 13:15:05",
+      "isoDate": "2026-09-24T13:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Oracleが「プロジェクト・ジュピター」データセンターで不可抗力条項を発動",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1690921",
+      "published": "2026-09-24 12:53:17",
+      "isoDate": "2026-09-24T12:53:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "クアルコム、アップルと長期特許契約を締結し収益懸念が後退",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1690774",
+      "published": "2026-09-24 11:45:38",
+      "isoDate": "2026-09-24T11:45:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,20 +122,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1690219",
       "published": "2026-09-24 06:00:18",
       "isoDate": "2026-09-24T06:00:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は841円高でスタート、イビデンやアドバンテストなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690158",
-      "published": "2026-09-24 04:00:16",
-      "isoDate": "2026-09-24T04:00:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は続伸、アドバンテが約316円分押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690150",
-      "published": "2026-09-24 03:45:15",
-      "isoDate": "2026-09-24T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
