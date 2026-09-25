@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-24T23:19:23Z",
-  "last_checked": "2026-09-24T23:19:23Z",
+  "updated": "2026-09-25T01:46:15Z",
+  "last_checked": "2026-09-25T01:46:15Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は週間ベースで2%超の下落へ、原油高がFRB利上げ観測を強化",
+      "link": "https://jp.investing.com/news/commodities-news/article-1691632",
+      "published": "2026-09-25 01:12:15",
+      "isoDate": "2026-09-25T01:12:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国とイランがホルムズ海峡合意を模索、原油は急騰後に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1691618",
+      "published": "2026-09-25 00:47:21",
+      "isoDate": "2026-09-25T00:47:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆先物が下落、中国との貿易交渉の行方を市場が注視",
@@ -57,29 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1690575",
       "published": "2026-09-24 10:24:37",
       "isoDate": "2026-09-24T10:24:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東和平交渉が行き詰まり、欧州天然ガス価格が数週間ぶり安値から反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1690408",
-      "published": "2026-09-24 09:08:06",
-      "isoDate": "2026-09-24T09:08:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アジアのエネルギー株、イラン供給懸念で原油反発を受け上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1690099",
-      "published": "2026-09-24 02:04:30",
-      "isoDate": "2026-09-24T02:04:30Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY金：4営業日続落で4,302.20ドル、米経済指標の上振れと長期金利上昇でドル高が重しに",
-      "link": "https://jp.investing.com/news/forex-news/article-1691560",
-      "published": "2026-09-24 22:45:06",
-      "isoDate": "2026-09-24T22:45:06Z"
+      "title": "米国とイランがホルムズ海峡合意を模索、原油は急騰後に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1691618",
+      "published": "2026-09-25 00:47:21",
+      "isoDate": "2026-09-25T00:47:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "24日のNY市場はまちまち",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1691570",
+      "published": "2026-09-24 23:15:06",
+      "isoDate": "2026-09-24T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,17 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米先週分新規失業保険申請件数が予想を下回る",
-      "link": "https://jp.investing.com/news/forex-news/article-1691532",
-      "published": "2026-09-24 22:00:05",
-      "isoDate": "2026-09-24T22:00:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OpenAIの元データセンター責任者がNvidiaに入社",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1691343",
-      "published": "2026-09-24 18:11:47",
-      "isoDate": "2026-09-24T18:11:47Z"
+      "title": "9月24日のNY為替概況",
+      "link": "https://jp.investing.com/news/forex-news/article-1691376",
+      "published": "2026-09-24 19:15:05",
+      "isoDate": "2026-09-24T19:15:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの「新たな強気相場到来」か　シグナルを観測＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=739160",
+      "published": "Fri, 25 Sep 2026 10:00:16 +0900",
+      "isoDate": "2026-09-25T01:00:16Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイナンス、ハイパーリキッド現物上場へ　3ペアで取引予定",
@@ -229,13 +236,6 @@
       "link": "https://coinpost.jp/?p=738932",
       "published": "Thu, 24 Sep 2026 09:40:29 +0900",
       "isoDate": "2026-09-24T00:40:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "CMEグループ、ビットコインキャッシュとユニスワップの先物上場へ",
-      "link": "https://coinpost.jp/?p=738868",
-      "published": "Wed, 23 Sep 2026 12:02:52 +0900",
-      "isoDate": "2026-09-23T03:02:52Z"
     }
   ]
 }
