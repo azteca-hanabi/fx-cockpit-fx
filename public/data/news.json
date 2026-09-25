@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-25T17:50:40Z",
-  "last_checked": "2026-09-25T17:50:40Z",
+  "updated": "2026-09-25T21:19:05Z",
+  "last_checked": "2026-09-25T21:19:05Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "大豆先物が上昇、米中貿易協議の詳細を市場が注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1692593",
+      "published": "2026-09-25 19:41:32",
+      "isoDate": "2026-09-25T19:41:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、92.43ドルで回復途上も中期下落バイアス継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
+      "published": "2026-09-25 19:12:28",
+      "isoDate": "2026-09-25T19:12:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、高値圏フラッグで持ち合い-103.50ドルのサポートが焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
+      "published": "2026-09-25 19:12:15",
+      "isoDate": "2026-09-25T19:12:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）$4,328付近で下落トレンド継続、抵抗帯突破が焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
+      "published": "2026-09-25 19:11:58",
+      "isoDate": "2026-09-25T19:11:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、移動平均線群の下で停滞-$63.08サポートが分岐点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
+      "published": "2026-09-25 19:11:57",
+      "isoDate": "2026-09-25T19:11:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper 5時間足、$6.78で持ち合い継続-20SMA上抜けが強気転換の分岐点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686133",
+      "published": "2026-09-25 19:11:49",
+      "isoDate": "2026-09-25T19:11:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの国営LPG輸入業者、米国から275万トンの調達入札を実施",
@@ -18,41 +60,6 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$93.20で雲とSuperTrendの強い抵抗帯に直面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686135",
-      "published": "2026-09-25 07:09:17",
-      "isoDate": "2026-09-25T07:09:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、63.50ドル割れで下落加速リスク――主要サポートが正念場",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686136",
-      "published": "2026-09-25 07:09:17",
-      "isoDate": "2026-09-25T07:09:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,260サポート攻防で下落トレンド継続中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686132",
-      "published": "2026-09-25 07:09:15",
-      "isoDate": "2026-09-25T07:09:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、移動平均線に挟まれた膠着ゾーンで方向感を模索",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686134",
-      "published": "2026-09-25 07:09:14",
-      "isoDate": "2026-09-25T07:09:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅の5時間足、$6.730～$6.790の膠着ゾーンで方向感を模索中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1686133",
-      "published": "2026-09-25 07:09:05",
-      "isoDate": "2026-09-25T07:09:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
       "title": "金価格、週間ベースで下落軌道――Fed利上げ観測とドル高が重荷",
       "link": "https://jp.investing.com/news/commodities-news/article-1691632",
       "published": "2026-09-25 01:12:15",
@@ -64,16 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1691618",
       "published": "2026-09-25 00:47:21",
       "isoDate": "2026-09-25T00:47:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物が下落、中国との貿易交渉の行方を市場が注視",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1691490",
-      "published": "2026-09-24 20:48:49",
-      "isoDate": "2026-09-24T20:48:49Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、1株当たり0.06ドルの四半期配当を発表――利回りは0.1%",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1692633",
+      "published": "2026-09-25 20:13:02",
+      "isoDate": "2026-09-25T20:13:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Investing.comが選ぶ今週の注目株",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1692558",
+      "published": "2026-09-25 18:00:46",
+      "isoDate": "2026-09-25T18:00:46Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NscaleがIPO前に33億6000万ドルの資金調達を完了、上場が迫る",
@@ -97,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロソフト、統合版Copilotを発表——消費者向けAI市場から撤退し企業向けに注力",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1692260",
-      "published": "2026-09-25 12:34:16",
-      "isoDate": "2026-09-25T12:34:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "東京為替：ドル・円は軟調、午後は一時157円台に失速",
       "link": "https://jp.investing.com/news/forex-news/article-1691864",
       "published": "2026-09-25 08:15:17",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1690387",
       "published": "2026-09-25 07:15:43",
       "isoDate": "2026-09-25T07:15:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マスク氏、Colossus 2データセンターが年内にNvidia AIチップを倍増する計画と発言",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1691763",
-      "published": "2026-09-25 06:34:35",
-      "isoDate": "2026-09-25T06:34:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC、トークン買戻しや実用性宣伝は投資契約非該当と新FAQ公表",
+      "link": "https://coinpost.jp/?p=739398",
+      "published": "Sat, 26 Sep 2026 05:45:39 +0900",
+      "isoDate": "2026-09-25T20:45:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、優先株の日次配当化を提案｜ビットコイン調達強化狙い",
+      "link": "https://coinpost.jp/?p=739390",
+      "published": "Sat, 26 Sep 2026 05:00:27 +0900",
+      "isoDate": "2026-09-25T20:00:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
@@ -187,27 +201,6 @@
       "link": "https://coinpost.jp/?p=739110",
       "published": "Thu, 24 Sep 2026 17:36:25 +0900",
       "isoDate": "2026-09-24T08:36:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン実現利益は週約8060億円、過去の高値圏に及ばず＝グラスノード",
-      "link": "https://coinpost.jp/?p=739092",
-      "published": "Thu, 24 Sep 2026 17:12:05 +0900",
-      "isoDate": "2026-09-24T08:12:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインチェック、レバレッジ取引に約6年半ぶり再参入　最大2倍",
-      "link": "https://coinpost.jp/?p=739053",
-      "published": "Thu, 24 Sep 2026 16:16:52 +0900",
-      "isoDate": "2026-09-24T07:16:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、オンチェーン指標が強気相場入りを示唆＝アナリスト",
-      "link": "https://coinpost.jp/?p=739036",
-      "published": "Thu, 24 Sep 2026 15:48:57 +0900",
-      "isoDate": "2026-09-24T06:48:57Z"
     }
   ]
 }
