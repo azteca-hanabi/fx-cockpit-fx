@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T21:24:40Z",
-  "last_checked": "2026-09-26T21:24:40Z",
+  "updated": "2026-09-26T23:46:18Z",
+  "last_checked": "2026-09-26T23:46:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "FRBの引き締めは新興国資産のゲームチェンジャーとなるか？UBSが見解を示す",
+      "link": "https://jp.investing.com/news/economy-news/article-1692849",
+      "published": "2026-09-26 19:25:33",
+      "isoDate": "2026-09-26T19:25:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "「AI厳選ハイテク株」が9月に相次ぎ上昇、インテルは37%高、AMDは34%高",
       "link": "https://jp.investing.com/news/stock-market-news/article-1691839",
       "published": "2026-09-26 13:58:13",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1692694",
       "published": "2026-09-25 21:15:05",
       "isoDate": "2026-09-25T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟調、午後は一時157円台に失速",
-      "link": "https://jp.investing.com/news/forex-news/article-1691864",
-      "published": "2026-09-25 08:15:17",
-      "isoDate": "2026-09-25T08:15:17Z"
     },
     {
       "source": "Investing.com 外為",
