@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-26T10:06:26Z",
-  "last_checked": "2026-09-26T10:06:26Z",
+  "updated": "2026-09-26T14:39:34Z",
+  "last_checked": "2026-09-26T14:39:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "EUがエネルギー価格危機を警告、ガス需要削減を要請",
+      "link": "https://jp.investing.com/news/commodities-news/article-1692833",
+      "published": "2026-09-26 11:52:40",
+      "isoDate": "2026-09-26T11:52:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "スーパーエルニーニョはLNG需要にどう影響するか？",
+      "link": "https://jp.investing.com/news/commodities-news/article-1692831",
+      "published": "2026-09-26 11:12:12",
+      "isoDate": "2026-09-26T11:12:12Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "大豆先物が上昇、米中貿易協議の詳細を市場が注視",
@@ -57,29 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1691911",
       "published": "2026-09-25 08:57:51",
       "isoDate": "2026-09-25T08:57:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、週間ベースで下落軌道――Fed利上げ観測とドル高が重荷",
-      "link": "https://jp.investing.com/news/commodities-news/article-1691632",
-      "published": "2026-09-25 01:12:15",
-      "isoDate": "2026-09-25T01:12:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国とイランがホルムズ海峡合意を模索、原油価格が続落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1691618",
-      "published": "2026-09-25 00:47:21",
-      "isoDate": "2026-09-25T00:47:21Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡和平案への米国の回答を待つ中、トランプ大統領は拒否と報道",
-      "link": "https://jp.investing.com/news/economy-news/article-1692799",
-      "published": "2026-09-26 06:03:49",
-      "isoDate": "2026-09-26T06:03:49Z"
+      "title": "中国と米国、300億ドルの関税削減とAI対話開始で合意",
+      "link": "https://jp.investing.com/news/economy-news/article-1692824",
+      "published": "2026-09-26 09:37:25",
+      "isoDate": "2026-09-26T09:37:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【更新】1週間で36％急騰の半導体「アーム」株は買いか？　「投資特化型AI」の結論",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1688849",
+      "published": "2026-09-26 08:57:32",
+      "isoDate": "2026-09-26T08:57:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：米コアPCE価格指数、日銀短観、米雇用統計",
+      "link": "https://jp.investing.com/news/forex-news/article-1692811",
+      "published": "2026-09-26 07:15:04",
+      "isoDate": "2026-09-26T07:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "台湾、米国の武器支援は米国の国益に資すると主張――トランプ・習会談後",
+      "link": "https://jp.investing.com/news/economy-news/article-1692800",
+      "published": "2026-09-26 06:14:42",
+      "isoDate": "2026-09-26T06:14:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,17 +111,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、債券利回り上昇と規制進展が相殺し8万4000ドル付近で推移",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1692786",
-      "published": "2026-09-26 04:54:37",
-      "isoDate": "2026-09-26T04:54:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが真価を見抜いた旅行サイト「トリバゴ」株が急騰、34％高に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1684967",
       "published": "2026-09-26 04:46:00",
       "isoDate": "2026-09-26T04:46:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：片山財務相がベッセント米財務長官と電話会談",
+      "link": "https://jp.investing.com/news/forex-news/article-1692706",
+      "published": "2026-09-25 21:30:05",
+      "isoDate": "2026-09-25T21:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【更新】急騰したイビデン株はまだ「買い」か？　「投資特化型AI」の回答",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690387",
-      "published": "2026-09-25 07:15:43",
-      "isoDate": "2026-09-25T07:15:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【更新】今から買うべき日本の半導体株は？　「投資特化型AI」の結論",
       "link": "https://jp.investing.com/news/stock-market-news/article-1685951",
       "published": "2026-09-25 06:31:40",
       "isoDate": "2026-09-25T06:31:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "最高値を更新した「JPモルガン」株は買いか？　「投資特化型AI」の回答",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690432",
-      "published": "2026-09-24 09:17:42",
-      "isoDate": "2026-09-24T09:17:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "推奨株の9割が上昇、AI活用の「ハイテク株投資戦略」が累積リターン200%超え",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1690365",
-      "published": "2026-09-24 07:50:51",
-      "isoDate": "2026-09-24T07:50:51Z"
     }
   ],
   "btc_items": [
