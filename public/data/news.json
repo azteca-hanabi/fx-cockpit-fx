@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T05:19:30Z",
-  "last_checked": "2026-09-26T05:19:30Z",
+  "updated": "2026-09-26T10:06:26Z",
+  "last_checked": "2026-09-26T10:06:26Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は上昇、対イラン協議の進展期待",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1692738",
-      "published": "2026-09-25 23:00:07",
-      "isoDate": "2026-09-25T23:00:07Z"
+      "title": "イランがホルムズ海峡和平案への米国の回答を待つ中、トランプ大統領は拒否と報道",
+      "link": "https://jp.investing.com/news/economy-news/article-1692799",
+      "published": "2026-09-26 06:03:49",
+      "isoDate": "2026-09-26T06:03:49Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：片山財務相がベッセント米財務長官と電話会談",
-      "link": "https://jp.investing.com/news/forex-news/article-1692706",
-      "published": "2026-09-25 21:30:05",
-      "isoDate": "2026-09-25T21:30:05Z"
+      "title": "米国株式市場見通し：PCEデフレーターやマイクロン決算などが注目点に",
+      "link": "https://jp.investing.com/news/forex-news/article-1692790",
+      "published": "2026-09-26 05:30:03",
+      "isoDate": "2026-09-26T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、債券利回り上昇と規制進展が相殺し8万4000ドル付近で推移",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1692786",
+      "published": "2026-09-26 04:54:37",
+      "isoDate": "2026-09-26T04:54:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが真価を見抜いた旅行サイト「トリバゴ」株が急騰、34％高に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1684967",
+      "published": "2026-09-26 04:46:00",
+      "isoDate": "2026-09-26T04:46:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +108,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1692694",
       "published": "2026-09-25 21:15:05",
       "isoDate": "2026-09-25T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループ、1株当たり0.06ドルの四半期配当を発表――利回りは0.1%",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1692633",
-      "published": "2026-09-25 20:13:02",
-      "isoDate": "2026-09-25T20:13:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,13 +129,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1685951",
       "published": "2026-09-25 06:31:40",
       "isoDate": "2026-09-25T06:31:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は778円高でスタート、東エレクや三菱UFJなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1691702",
-      "published": "2026-09-25 04:30:15",
-      "isoDate": "2026-09-25T04:30:15Z"
     },
     {
       "source": "Investing.com 外為",
