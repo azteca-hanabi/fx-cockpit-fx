@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T14:39:34Z",
-  "last_checked": "2026-09-26T14:39:34Z",
+  "updated": "2026-09-26T18:25:56Z",
+  "last_checked": "2026-09-26T18:25:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "「AI厳選ハイテク株」が9月に相次ぎ上昇、インテルは37%高、AMDは34%高",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1691839",
+      "published": "2026-09-26 13:58:13",
+      "isoDate": "2026-09-26T13:58:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "中国と米国、300億ドルの関税削減とAI対話開始で合意",
       "link": "https://jp.investing.com/news/economy-news/article-1692824",
       "published": "2026-09-26 09:37:25",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1684967",
       "published": "2026-09-26 04:46:00",
       "isoDate": "2026-09-26T04:46:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY為替：片山財務相がベッセント米財務長官と電話会談",
-      "link": "https://jp.investing.com/news/forex-news/article-1692706",
-      "published": "2026-09-25 21:30:05",
-      "isoDate": "2026-09-25T21:30:05Z"
     },
     {
       "source": "Investing.com 外為",
