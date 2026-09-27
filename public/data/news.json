@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T19:11:18Z",
-  "last_checked": "2026-09-27T19:11:18Z",
+  "updated": "2026-09-27T22:29:12Z",
+  "last_checked": "2026-09-27T22:29:12Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "25日の米国市場ダイジェスト：米国株式市場は上昇、対イラン協議の進展期待",
+      "link": "https://jp.investing.com/news/forex-news/article-1692986",
+      "published": "2026-09-27 21:30:02",
+      "isoDate": "2026-09-27T21:30:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "25日のNY市場は上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1692987",
+      "published": "2026-09-27 21:30:02",
+      "isoDate": "2026-09-27T21:30:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "債券利回り上昇が欧州株式に与える影響——UBSが分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1692971",
       "published": "2026-09-27 17:04:33",
@@ -97,14 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア取締役マーク・スティーブンス氏、約3億ドル相当の株式を売却",
-      "link": "https://jp.investing.com/news/insider-trading-news/article-93CH-1692930",
-      "published": "2026-09-27 09:01:46",
-      "isoDate": "2026-09-27T09:01:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領：イランとの戦争終結で原油価格は急落すると予測",
+      "title": "トランプ大統領：戦争終結「まもなく」で原油価格は急落へ",
       "link": "https://jp.investing.com/news/economy-news/article-1692928",
       "published": "2026-09-27 08:49:01",
       "isoDate": "2026-09-27T08:49:01Z"
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1692906",
       "published": "2026-09-27 05:41:33",
       "isoDate": "2026-09-27T05:41:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "MuseのようなAIエージェントは小売電力事業にリスクをもたらすか？",
-      "link": "https://jp.investing.com/news/technology-news/article-1692873",
-      "published": "2026-09-27 01:58:29",
-      "isoDate": "2026-09-27T01:58:29Z"
     },
     {
       "source": "Investing.com 外為",
