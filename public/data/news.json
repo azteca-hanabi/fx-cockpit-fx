@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T23:46:18Z",
-  "last_checked": "2026-09-26T23:46:18Z",
+  "updated": "2026-09-27T04:37:20Z",
+  "last_checked": "2026-09-27T04:37:20Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "FRBの引き締めは新興国資産のゲームチェンジャーとなるか？UBSが見解を示す",
-      "link": "https://jp.investing.com/news/economy-news/article-1692849",
-      "published": "2026-09-26 19:25:33",
-      "isoDate": "2026-09-26T19:25:33Z"
+      "title": "MuseのようなAIエージェントは小売電力事業にリスクをもたらすか？",
+      "link": "https://jp.investing.com/news/technology-news/article-1692873",
+      "published": "2026-09-27 01:58:29",
+      "isoDate": "2026-09-27T01:58:29Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "次世代CPUで注目の富士通、「AI銘柄」として株価急騰の可能性は？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1692858",
+      "published": "2026-09-26 23:45:48",
+      "isoDate": "2026-09-26T23:45:48Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/forex-news/article-1692694",
       "published": "2026-09-25 21:15:05",
       "isoDate": "2026-09-25T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【更新】今から買うべき日本の半導体株は？　「投資特化型AI」の結論",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1685951",
-      "published": "2026-09-25 06:31:40",
-      "isoDate": "2026-09-25T06:31:40Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "週刊仮想通貨ニュース（9/25）｜BTC相場・ストラテジーの財務戦略・機関投資家の動向まとめ",
+      "link": "https://coinpost.jp/?p=739190",
+      "published": "Sun, 27 Sep 2026 09:25:50 +0900",
+      "isoDate": "2026-09-27T00:25:50Z"
+    },
     {
       "source": "CoinPost",
       "title": "米CFTC、顧客資金の投資対象トークン化と記録管理を容認",
@@ -194,13 +201,6 @@
       "link": "https://coinpost.jp/?p=739390",
       "published": "Sat, 26 Sep 2026 05:00:27 +0900",
       "isoDate": "2026-09-25T20:00:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスの1日のビットコイン純流出、2023年以来最大＝アナリスト",
-      "link": "https://coinpost.jp/?p=739348",
-      "published": "Fri, 25 Sep 2026 15:57:28 +0900",
-      "isoDate": "2026-09-25T06:57:28Z"
     }
   ]
 }
