@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T15:14:11Z",
-  "last_checked": "2026-09-27T15:14:11Z",
+  "updated": "2026-09-27T19:11:18Z",
+  "last_checked": "2026-09-27T19:11:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "債券利回り上昇が欧州株式に与える影響——UBSが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1692971",
+      "published": "2026-09-27 17:04:33",
+      "isoDate": "2026-09-27T17:04:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国、Alibaba・ByteDanceによるNvidiaの新型チップ購入を許可か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1692969",
+      "published": "2026-09-27 17:00:17",
+      "isoDate": "2026-09-27T17:00:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米財政危機はどのように展開するか――キャピタル・エコノミクスが分析",
       "link": "https://jp.investing.com/news/economy-news/article-1692962",
       "published": "2026-09-27 13:18:51",
       "isoDate": "2026-09-27T13:18:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ヨーロッパのデータセンター拡大が原子力発電の復活を促すか？",
-      "link": "https://jp.investing.com/news/economy-news/article-1692934",
-      "published": "2026-09-27 09:59:58",
-      "isoDate": "2026-09-27T09:59:58Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、「まもなく終結」するイラン戦争後に原油価格が急落すると予言",
+      "title": "トランプ大統領：イランとの戦争終結で原油価格は急落すると予測",
       "link": "https://jp.investing.com/news/economy-news/article-1692928",
       "published": "2026-09-27 08:49:01",
       "isoDate": "2026-09-27T08:49:01Z"
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1691839",
       "published": "2026-09-26 13:58:13",
       "isoDate": "2026-09-26T13:58:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国と米国、300億ドルの関税削減とAI対話開始で合意",
-      "link": "https://jp.investing.com/news/economy-news/article-1692824",
-      "published": "2026-09-26 09:37:25",
-      "isoDate": "2026-09-26T09:37:25Z"
     },
     {
       "source": "Investing.com 外為",
