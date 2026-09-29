@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T08:08:51Z",
-  "last_checked": "2026-09-29T08:08:51Z",
+  "updated": "2026-09-29T14:59:58Z",
+  "last_checked": "2026-09-29T14:59:58Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウェルズ・ファーゴ、金利懸念を背景に金価格目標を引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1695726",
+      "published": "2026-09-29 14:28:38",
+      "isoDate": "2026-09-29T14:28:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州ガス価格が2日間の調整後に上昇再開、年初来騰落率は160%超",
+      "link": "https://jp.investing.com/news/commodities-news/article-1694863",
+      "published": "2026-09-29 08:36:15",
+      "isoDate": "2026-09-29T08:36:15Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】WTI原油、ベアフラッグ80%進行-$91.20割れで続落加速か",
@@ -39,14 +53,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米イラン交渉の停滞が中東供給懸念を維持、原油価格が続伸",
+      "title": "米国・イラン外交の進展待ちで原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1694627",
       "published": "2026-09-29 01:40:50",
       "isoDate": "2026-09-29T01:40:50Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、FRB利上げ観測強まる中7週間ぶり安値圏で推移",
+      "title": "米イラン対立が重石、金相場は4%急落後に小幅反発－重要指標に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1694620",
       "published": "2026-09-29 01:21:33",
       "isoDate": "2026-09-29T01:21:33Z"
@@ -57,36 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1694342",
       "published": "2026-09-28 19:47:11",
       "isoDate": "2026-09-28T19:47:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物が下落、米中合意から主要農産物が除外",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1694341",
-      "published": "2026-09-28 19:46:01",
-      "isoDate": "2026-09-28T19:46:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金先物が本日急落した理由とは",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1694136",
-      "published": "2026-09-28 14:24:56",
-      "isoDate": "2026-09-28T14:24:56Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "【随時更新】Gold、$4,143サポート直上でRSI30台に到達-下落継続か反発か",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693224",
-      "published": "2026-09-29 07:07:59",
-      "isoDate": "2026-09-29T07:07:59Z"
+      "title": "【市場反応】米9月消費者信頼感指数は2014年以来の低水準、米8月JOLT求人件数は3月以来で最低、ドル高値から反落",
+      "link": "https://jp.investing.com/news/forex-news/article-1695725",
+      "published": "2026-09-29 14:30:05",
+      "isoDate": "2026-09-29T14:30:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟化、為替介入に警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1694735",
-      "published": "2026-09-29 06:15:14",
-      "isoDate": "2026-09-29T06:15:14Z"
+      "title": "MetaのAI「Muse」がアップルのモバイルコマース支配を脅かす",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1695687",
+      "published": "2026-09-29 14:09:58",
+      "isoDate": "2026-09-29T14:09:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXは「前例のないAIと宇宙」の機会に直面している――TDコーウェン",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1695664",
+      "published": "2026-09-29 14:03:31",
+      "isoDate": "2026-09-29T14:03:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【市場反応】米7月FHFA住宅価格指数/ CS20都市住宅価格指数は予想上回る、ドル買い強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1695588",
+      "published": "2026-09-29 13:30:04",
+      "isoDate": "2026-09-29T13:30:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "株式市場は上昇する金利にいつまで抗えるか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1695570",
+      "published": "2026-09-29 13:19:46",
+      "isoDate": "2026-09-29T13:19:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NetlistがマイクロンテクノロジーのHBM特許侵害でITCに申し立て",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1695338",
+      "published": "2026-09-29 12:07:07",
+      "isoDate": "2026-09-29T12:07:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "リスク選好、大型株に集中－シティ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1695056",
+      "published": "2026-09-29 10:30:17",
+      "isoDate": "2026-09-29T10:30:17Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,41 +129,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1694693",
       "published": "2026-09-29 05:00:14",
       "isoDate": "2026-09-29T05:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、AI拡大に伴うリスク分散で保険会社と協議",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1694690",
-      "published": "2026-09-29 04:51:45",
-      "isoDate": "2026-09-29T04:51:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや売り優勢、シカゴは大阪日中比670円安の65785円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1694608",
-      "published": "2026-09-29 01:00:11",
-      "isoDate": "2026-09-29T01:00:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーの目標株価、DRAMの価格上昇見通しでベアードが引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1694133",
-      "published": "2026-09-28 14:21:53",
-      "isoDate": "2026-09-28T14:21:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、AIの優位性を背景に過去最大1,500億ドルの自社株買いを発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1693586",
-      "published": "2026-09-28 11:13:07",
-      "isoDate": "2026-09-28T11:13:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 6日ぶり反落、「陰の大引け坊主」で上値重く",
-      "link": "https://jp.investing.com/news/forex-news/article-1693371",
-      "published": "2026-09-28 09:30:13",
-      "isoDate": "2026-09-28T09:30:13Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "Bitcoin Japan、初のビットコイン購入完了　約12BTC",
+      "link": "https://coinpost.jp/?p=739940",
+      "published": "Tue, 29 Sep 2026 17:17:21 +0900",
+      "isoDate": "2026-09-29T08:17:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "韓国金融委、マーケットメイク制度を検討　取引所規律でJPYCの急騰に言及",
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=739659",
       "published": "Tue, 29 Sep 2026 06:40:02 +0900",
       "isoDate": "2026-09-28T21:40:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "国税庁の新システム『KSK2』稼働、AI分析で仮想通貨の申告漏れ把握へ",
-      "link": "https://coinpost.jp/?p=739661",
-      "published": "Tue, 29 Sep 2026 06:20:06 +0900",
-      "isoDate": "2026-09-28T21:20:06Z"
     }
   ]
 }
