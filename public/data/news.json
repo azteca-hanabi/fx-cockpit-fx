@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-30T16:56:15Z",
-  "last_checked": "2026-09-30T16:56:15Z",
+  "updated": "2026-09-30T21:21:34Z",
+  "last_checked": "2026-09-30T21:21:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油：200SMA上で下げ渋るも下落トレンド継続、88.50割れに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693228",
+      "published": "2026-09-30 19:12:34",
+      "isoDate": "2026-09-30T19:12:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent原油$98.14、膠着ゾーンで次のブレイクに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693226",
+      "published": "2026-09-30 19:12:32",
+      "isoDate": "2026-09-30T19:12:32Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$60.00サポート攻防--強い下落トレンドが継続中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693227",
+      "published": "2026-09-30 19:12:22",
+      "isoDate": "2026-09-30T19:12:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、$6.60〜$6.72の狭いレンジで膠着―ブレイク方向に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693225",
+      "published": "2026-09-30 19:11:59",
+      "isoDate": "2026-09-30T19:11:59Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、$4,143サポートvs.$4,276レジスタンスの攻防が正念場",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693224",
+      "published": "2026-09-30 19:11:51",
+      "isoDate": "2026-09-30T19:11:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドがディーゼルおよびジェット燃料の輸出に対する超過利潤税を引き下げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1697471",
+      "published": "2026-09-30 17:28:13",
+      "isoDate": "2026-09-30T17:28:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ペメックスの原油輸出、精製拡大で8月に45%減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1697470",
+      "published": "2026-09-30 17:26:51",
+      "isoDate": "2026-09-30T17:26:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦が小幅下落、米国トウモロコシ在庫が穀物市場を圧迫",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1697467",
+      "published": "2026-09-30 17:22:01",
+      "isoDate": "2026-09-30T17:22:01Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "USDA四半期在庫報告を前にCBOTトウモロコシ先物が上昇",
@@ -15,92 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1697197",
       "published": "2026-09-30 13:30:31",
       "isoDate": "2026-09-30T13:30:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東の石油輸出が回復しても原油先物が高止まりする理由",
-      "link": "https://jp.investing.com/news/commodities-news/article-1697023",
-      "published": "2026-09-30 12:20:48",
-      "isoDate": "2026-09-30T12:20:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパ天然ガス小幅上昇、英国ガスは3カ月連続の月間上昇へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1696573",
-      "published": "2026-09-30 08:54:30",
-      "isoDate": "2026-09-30T08:54:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油が極端な売られ過ぎ水準に到達、反発か急落か",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693228",
-      "published": "2026-09-30 07:08:43",
-      "isoDate": "2026-09-30T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、200SMA付近で攻防中--ダブルトップ形成でベア優勢",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693225",
-      "published": "2026-09-30 07:08:41",
-      "isoDate": "2026-09-30T07:08:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、94.95ドルのサポート接近で下落トレンド鮮明化",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693226",
-      "published": "2026-09-30 07:08:41",
-      "isoDate": "2026-09-30T07:08:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、61.18ドルのフィボナッチサポート攻防で下降トレンド継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693227",
-      "published": "2026-09-30 07:08:40",
-      "isoDate": "2026-09-30T07:08:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold 5時間足、$4,226.80で下落チャネル継続-売りゾーン$4,276〜4,320に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693224",
-      "published": "2026-09-30 07:08:31",
-      "isoDate": "2026-09-30T07:08:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、ディーゼル輸出禁止を検討―国内燃料価格抑制へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1696404",
-      "published": "2026-09-30 05:23:35",
-      "isoDate": "2026-09-30T05:23:35Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "時間外取引の注目銘柄：GOOGL、MU、CEG、NU",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1697641",
+      "published": "2026-09-30 20:45:04",
+      "isoDate": "2026-09-30T20:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロンテクノロジー、AI需要で第4四半期決算が予想上回る―2027年度も強気見通し",
+      "link": "https://jp.investing.com/news/earnings/article-1697567",
+      "published": "2026-09-30 20:10:01",
+      "isoDate": "2026-09-30T20:10:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【決算速報】マイクロンテクノロジー.、売上高は予想を上回り、利益は予想を上回る結果に",
+      "link": "https://jp.investing.com/news/earnings/article-1697559",
+      "published": "2026-09-30 20:07:12",
+      "isoDate": "2026-09-30T20:07:12Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NvidiaがOpenAIの「超高速」tierを支援、Cerebrasの株価が7%下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1697264",
       "published": "2026-09-30 13:54:04",
       "isoDate": "2026-09-30T13:54:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CoreWeaveがNvidia Vera CPUをクラウドコンピュートに追加",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1697160",
-      "published": "2026-09-30 13:08:05",
-      "isoDate": "2026-09-30T13:08:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CoreWeaveがNvidia Vera Rubin NVL72を提供開始、Cognitionが初の顧客に",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1697158",
-      "published": "2026-09-30 13:08:02",
-      "isoDate": "2026-09-30T13:08:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東証グロ－ス指数は大幅に5日ぶり反発、押し目買い優勢",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1696516",
-      "published": "2026-09-30 08:00:18",
-      "isoDate": "2026-09-30T08:00:18Z"
     },
     {
       "source": "Investing.com 外為",
