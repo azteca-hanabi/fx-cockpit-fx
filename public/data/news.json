@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-29T23:37:00Z",
-  "last_checked": "2026-09-29T23:37:00Z",
+  "updated": "2026-09-30T04:53:34Z",
+  "last_checked": "2026-09-30T04:53:34Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給回復を受け、原油価格は急落後に小幅反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1696298",
+      "published": "2026-09-30 01:33:35",
+      "isoDate": "2026-09-30T01:33:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油安がインフレ懸念を緩和、金価格は前日比1.6%高の後に安定",
+      "link": "https://jp.investing.com/news/commodities-news/article-1696288",
+      "published": "2026-09-30 01:14:49",
+      "isoDate": "2026-09-30T01:14:49Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】WTI原油、200SMA直上$89.30で攻防クライマックス",
@@ -57,57 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1695726",
       "published": "2026-09-29 14:28:38",
       "isoDate": "2026-09-29T14:28:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格が2日間の調整後に上昇再開、年初来騰落率は160%超",
-      "link": "https://jp.investing.com/news/commodities-news/article-1694863",
-      "published": "2026-09-29 08:36:15",
-      "isoDate": "2026-09-29T08:36:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国・イラン外交の進展待ちで原油価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1694627",
-      "published": "2026-09-29 01:40:50",
-      "isoDate": "2026-09-29T01:40:50Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は続落、低調な経済指標や金利高を嫌気",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1696203",
-      "published": "2026-09-29 23:00:07",
-      "isoDate": "2026-09-29T23:00:07Z"
+      "title": "後場の日経平均は898円高でスタート、フジクラやみずほなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696360",
+      "published": "2026-09-30 04:00:14",
+      "isoDate": "2026-09-30T04:00:14Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY原油：大幅続落で88.86ドル、イランのホルムズ海峡再開条件提示で供給懸念が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1696194",
-      "published": "2026-09-29 22:45:06",
-      "isoDate": "2026-09-29T22:45:06Z"
+      "title": "岡三証券は40％以上の大幅高、「投資特化型AI」が見抜いた日本の金融株の実力",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696359",
+      "published": "2026-09-30 03:47:56",
+      "isoDate": "2026-09-30T03:47:56Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY金：反発で4,217.62ドル、米消費者信頼感指数などの悪化で10月利上げ観測が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1696192",
-      "published": "2026-09-29 22:45:05",
-      "isoDate": "2026-09-29T22:45:05Z"
+      "title": "日経平均は大幅反発、ソフトバンクGが約288円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696358",
+      "published": "2026-09-30 03:45:15",
+      "isoDate": "2026-09-30T03:45:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "29日の米国市場ダイジェスト：米国株式市場は続落、低調な経済指標や金利高を嫌気",
-      "link": "https://jp.investing.com/news/forex-news/article-1696168",
-      "published": "2026-09-29 22:15:04",
-      "isoDate": "2026-09-29T22:15:04Z"
+      "title": "プラス圏で堅調推移",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696352",
+      "published": "2026-09-30 03:30:13",
+      "isoDate": "2026-09-30T03:30:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アンソロピック、売上の47%をアマゾンとグーグル経由で計上",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1696052",
-      "published": "2026-09-29 20:58:20",
-      "isoDate": "2026-09-29T20:58:20Z"
+      "title": "日経平均は647円高でスタート、太陽誘電やソフトバンクGなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696262",
+      "published": "2026-09-30 00:45:09",
+      "isoDate": "2026-09-30T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株先物が小幅上昇、利回り上昇一服と原油価格の急落を受けて",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1696272",
+      "published": "2026-09-30 00:44:44",
+      "isoDate": "2026-09-30T00:44:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +122,13 @@
       "link": "https://jp.investing.com/news/company-news/article-93CH-1695271",
       "published": "2026-09-29 11:45:04",
       "isoDate": "2026-09-29T11:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2年弱で株価6倍の銘柄も、「AI厳選銘柄リスト」10月版が間もなく公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1695206",
+      "published": "2026-09-29 10:26:16",
+      "isoDate": "2026-09-29T10:26:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,30 @@
       "link": "https://jp.investing.com/news/forex-news/article-1694693",
       "published": "2026-09-29 05:00:14",
       "isoDate": "2026-09-29T05:00:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【今なら55%オフ】累積リターン207%の「AI厳選銘柄」とプロ級分析ツールが利用可能",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1694826",
-      "published": "2026-09-28 08:19:53",
-      "isoDate": "2026-09-28T08:19:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "月間29％高の米バイオ株も　9月も好調「AI厳選銘柄リスト」の実力",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1693266",
-      "published": "2026-09-28 07:54:53",
-      "isoDate": "2026-09-28T07:54:53Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンスペイ、訪日旅行者向けに仮想通貨でのPayPay加盟店決済に対応",
+      "link": "https://coinpost.jp/?p=740085",
+      "published": "Wed, 30 Sep 2026 13:25:04 +0900",
+      "isoDate": "2026-09-30T04:25:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット独立取締役が書簡、新株予約権の希薄化批判に回答",
+      "link": "https://coinpost.jp/?p=740029",
+      "published": "Wed, 30 Sep 2026 10:55:36 +0900",
+      "isoDate": "2026-09-30T01:55:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインに過熱の兆候、強気相場は維持＝クリプトクアント分析",
+      "link": "https://coinpost.jp/?p=739996",
+      "published": "Wed, 30 Sep 2026 08:58:01 +0900",
+      "isoDate": "2026-09-29T23:58:01Z"
+    },
     {
       "source": "CoinPost",
       "title": "米イリノイ州、仮想通貨取引に0.2％課税する規則案を公表",
@@ -187,27 +208,6 @@
       "link": "https://coinpost.jp/?p=739914",
       "published": "Tue, 29 Sep 2026 15:09:42 +0900",
       "isoDate": "2026-09-29T06:09:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アップル、悪用疑いのiOS脆弱性を修正　専門家はウォレット窃取を示唆",
-      "link": "https://coinpost.jp/?p=739908",
-      "published": "Tue, 29 Sep 2026 14:20:16 +0900",
-      "isoDate": "2026-09-29T05:20:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院小委員会、イランの影の銀行におけるUSDTの使用を分析",
-      "link": "https://coinpost.jp/?p=739886",
-      "published": "Tue, 29 Sep 2026 14:00:52 +0900",
-      "isoDate": "2026-09-29T05:00:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「Z世代は若年から投資始める傾向」仮想通貨人気の背景は格差拡大か＝グレースケール",
-      "link": "https://coinpost.jp/?p=739855",
-      "published": "Tue, 29 Sep 2026 13:10:42 +0900",
-      "isoDate": "2026-09-29T04:10:42Z"
     }
   ]
 }
