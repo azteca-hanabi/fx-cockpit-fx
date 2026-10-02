@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-01T20:13:15Z",
-  "last_checked": "2026-10-01T20:13:15Z",
+  "updated": "2026-10-02T00:03:21Z",
+  "last_checked": "2026-10-02T00:03:21Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ベネズエラの石油輸出、9月は日量108万バレルに減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1699212",
+      "published": "2026-10-01 20:14:42",
+      "isoDate": "2026-10-01T20:14:42Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Copperが61.8%フィボナッチサポートをテスト中、ベア優勢",
@@ -64,36 +71,57 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1698099",
       "published": "2026-10-01 08:38:03",
       "isoDate": "2026-10-01T08:38:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、インフレ鈍化データを受けて安定推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-1697788",
-      "published": "2026-10-01 01:18:00",
-      "isoDate": "2026-10-01T01:18:00Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "前日の急上昇の反動から利食い売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699396",
+      "published": "2026-10-01 23:30:07",
+      "isoDate": "2026-10-01T23:30:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI予測で知る「日本株の勝ち組」20銘柄、10月は半導体ルネサスとディスコが浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699393",
+      "published": "2026-10-01 23:15:10",
+      "isoDate": "2026-10-01T23:15:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "1日の米国市場ダイジェスト：米国株式市場は小幅上昇、早期の追加利上げ懸念が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1699368",
+      "published": "2026-10-01 22:15:05",
+      "isoDate": "2026-10-01T22:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "PalantirとArmadaが主権AI基盤で提携",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1699362",
+      "published": "2026-10-01 22:03:01",
+      "isoDate": "2026-10-01T22:03:01Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国の国家系ファンド、規制対象のエヌビディア製AIチップ購入を支援",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699333",
+      "published": "2026-10-01 21:29:42",
+      "isoDate": "2026-10-01T21:29:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは20.51ドル高、早期の追加利上げ懸念が後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1699314",
+      "published": "2026-10-01 21:15:05",
+      "isoDate": "2026-10-01T21:15:05Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "記録的な業績を背景に、マイクロンテクノロジーが台湾でのストライキリスクに直面",
       "link": "https://jp.investing.com/news/stock-market-news/article-1698918",
       "published": "2026-10-01 14:17:10",
       "isoDate": "2026-10-01T14:17:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ミズホ：AIチップ株は「超割安」、半導体セクターのオーバーウェイトを推奨",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1698665",
-      "published": "2026-10-01 12:39:22",
-      "isoDate": "2026-10-01T12:39:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アルファベット、SpaceXロケットでAIチップを宇宙へ打ち上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1698617",
-      "published": "2026-10-01 12:25:30",
-      "isoDate": "2026-10-01T12:25:30Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,20 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーの好決算がAI関連株を後押し、日本の半導体株が急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1697879",
-      "published": "2026-10-01 04:24:59",
-      "isoDate": "2026-10-01T04:24:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジーの好決算を受け、米株先物が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1697766",
-      "published": "2026-10-01 00:43:51",
-      "isoDate": "2026-10-01T00:43:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "高市政権が推進の「核融合」関連株、「次の大化け」候補を投資特化型AIで分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1697692",
       "published": "2026-09-30 21:48:58",
@@ -125,27 +139,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、AI需要で第4四半期決算が予想上回る―2027年度も強気見通し",
-      "link": "https://jp.investing.com/news/earnings/article-1697567",
-      "published": "2026-09-30 20:10:01",
-      "isoDate": "2026-09-30T20:10:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "【本日深夜まで55%オフ】InvestingProの「AI投資ツール」で何ができる？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1696552",
       "published": "2026-09-30 08:31:35",
       "isoDate": "2026-09-30T08:31:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "岡三証券は40％以上の大幅高、「投資特化型AI」が見抜いた日本の金融株の実力",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1696359",
-      "published": "2026-09-30 03:47:56",
-      "isoDate": "2026-09-30T03:47:56Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米イリノイ州、仮想通貨0.2％課税の延期へ合意",
+      "link": "https://coinpost.jp/?p=740516",
+      "published": "Fri, 02 Oct 2026 07:35:18 +0900",
+      "isoDate": "2026-10-01T22:35:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC、投資顧問の仮想通貨自己保管を認める規則案を公表──数兆ドル規模市場に適法な道筋",
+      "link": "https://coinpost.jp/?p=740520",
+      "published": "Fri, 02 Oct 2026 05:50:28 +0900",
+      "isoDate": "2026-10-01T20:50:28Z"
+    },
     {
       "source": "CoinPost",
       "title": "シティ、ビットコイン価格目標を11.3万ドルへ上方修正──今後12カ月の見通し",
@@ -194,27 +208,6 @@
       "link": "https://coinpost.jp/?p=740346",
       "published": "Thu, 01 Oct 2026 11:55:10 +0900",
       "isoDate": "2026-10-01T02:55:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットワイズCIO、クラリティー法案頓挫は追い風　SECの迅速対応を評価",
-      "link": "https://coinpost.jp/?p=740314",
-      "published": "Thu, 01 Oct 2026 10:00:16 +0900",
-      "isoDate": "2026-10-01T01:00:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットバンク、JADAT全株式を三井住友信託銀行に譲渡へ",
-      "link": "https://coinpost.jp/?p=740242",
-      "published": "Wed, 30 Sep 2026 17:27:45 +0900",
-      "isoDate": "2026-09-30T08:27:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "KDDIら、au PAYアプリで暗号資産ウォレット提供開始",
-      "link": "https://coinpost.jp/?p=740129",
-      "published": "Wed, 30 Sep 2026 15:01:27 +0900",
-      "isoDate": "2026-09-30T06:01:27Z"
     }
   ]
 }
