@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-02T13:01:52Z",
-  "last_checked": "2026-10-02T13:01:52Z",
+  "updated": "2026-10-02T18:37:30Z",
+  "last_checked": "2026-10-02T18:37:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドル高を背景に小麦先物が6週間ぶり安値付近で推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700400",
+      "published": "2026-10-02 17:53:01",
+      "isoDate": "2026-10-02T17:53:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国の石油・ガス掘削リグ数、今週1基減の598基に",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700394",
+      "published": "2026-10-02 17:39:01",
+      "isoDate": "2026-10-02T17:39:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "IEA、石油備蓄1億バレルの放出を発表",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700370",
+      "published": "2026-10-02 16:37:06",
+      "isoDate": "2026-10-02T16:37:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領、欧州が「大量」のディーゼル備蓄を放出すると発表",
+      "link": "https://jp.investing.com/news/commodities-news/article-1700293",
+      "published": "2026-10-02 14:14:05",
+      "isoDate": "2026-10-02T14:14:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バルチック海運指数、ケープサイズ上昇に支えられ小幅高",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700287",
+      "published": "2026-10-02 14:08:38",
+      "isoDate": "2026-10-02T14:08:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジアラビアの入札需要を受け、シカゴ小麦先物が続伸",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700155",
+      "published": "2026-10-02 12:59:17",
+      "isoDate": "2026-10-02T12:59:17Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPEC+、イラン戦争でクォータ見直しを延期",
@@ -22,71 +64,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1699884",
       "published": "2026-10-02 10:23:27",
       "isoDate": "2026-10-02T10:23:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格、中東供給回復の兆しで反落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1699711",
-      "published": "2026-10-02 08:28:25",
-      "isoDate": "2026-10-02T08:28:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、102.30ドル抵抗帯と95.85ドルサポートの狭間で膠着",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693226",
-      "published": "2026-10-02 07:08:51",
-      "isoDate": "2026-10-02T07:08:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$91.56圏でレンジ継続--上抜けで$100、下抜けで$88.5へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693228",
-      "published": "2026-10-02 07:08:50",
-      "isoDate": "2026-10-02T07:08:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、ベアフラッグ80%進行中でサポート割れに警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693227",
-      "published": "2026-10-02 07:08:47",
-      "isoDate": "2026-10-02T07:08:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅：主要サポート$6.55〜$6.57で攻防、下抜けなら急落加速",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693225",
-      "published": "2026-10-02 07:08:43",
-      "isoDate": "2026-10-02T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、主要抵抗帯でBear Flag進行中--売りシナリオ優勢",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693224",
-      "published": "2026-10-02 07:07:57",
-      "isoDate": "2026-10-02T07:07:57Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "AppLovinの株価急落、裁判所がUnityへの差し止め請求を却下",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700077",
-      "published": "2026-10-02 12:22:20",
-      "isoDate": "2026-10-02T12:22:20Z"
+      "title": "NvidiaがAI楽観論と自社株買いで過去最高値を更新",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700289",
+      "published": "2026-10-02 14:12:16",
+      "isoDate": "2026-10-02T14:12:16Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東芝のHDD増産計画でシーゲートとウエスタンデジタルの株価が下落",
+      "title": "東芝のHDD増産計画でシーゲートとウエスタンデジタルが急落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1700008",
       "published": "2026-10-02 11:48:19",
       "isoDate": "2026-10-02T11:48:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "シーゲートが9%下落、ウエスタンデジタルは6%安",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1699961",
-      "published": "2026-10-02 11:16:02",
-      "isoDate": "2026-10-02T11:16:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "高市政権で注目の「レアアース株」、大化け候補は？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1694712",
-      "published": "2026-10-02 06:08:35",
-      "isoDate": "2026-10-02T06:08:35Z"
+      "title": "米国株投資に必須の「AI厳選銘柄」10月版、AMDに続く優良ハイテク株も選出",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699675",
+      "published": "2026-10-02 07:54:12",
+      "isoDate": "2026-10-02T07:54:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1698016",
       "published": "2026-10-01 07:23:33",
       "isoDate": "2026-10-01T07:23:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "高市政権が推進の「核融合」関連株、「次の大化け」候補を投資特化型AIで分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1697692",
+      "published": "2026-09-30 21:48:58",
+      "isoDate": "2026-09-30T21:48:58Z"
     }
   ],
   "btc_items": [
