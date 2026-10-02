@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-02T00:03:21Z",
-  "last_checked": "2026-10-02T00:03:21Z",
+  "updated": "2026-10-02T06:02:05Z",
+  "last_checked": "2026-10-02T06:02:05Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は横ばい、強いドルと高利回りが重荷―米雇用統計待ち",
+      "link": "https://jp.investing.com/news/commodities-news/article-1699530",
+      "published": "2026-10-02 05:06:51",
+      "isoDate": "2026-10-02T05:06:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国が中東への軍事プレゼンス強化を検討、原油価格は高値を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1699447",
+      "published": "2026-10-02 01:50:13",
+      "isoDate": "2026-10-02T01:50:13Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ベネズエラの石油輸出、9月は日量108万バレルに減少",
@@ -57,29 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1698998",
       "published": "2026-10-01 15:26:24",
       "isoDate": "2026-10-01T15:26:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バンク・オブ・アメリカ、銅の長期価格予測を1トン1万2000ドルに引き上げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1698213",
-      "published": "2026-10-01 10:05:42",
-      "isoDate": "2026-10-01T10:05:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス市場、第4四半期の開幕と貯蔵不足を背景に上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1698099",
-      "published": "2026-10-01 08:38:03",
-      "isoDate": "2026-10-01T08:38:03Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "前日の急上昇の反動から利食い売り先行か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1699396",
-      "published": "2026-10-01 23:30:07",
-      "isoDate": "2026-10-01T23:30:07Z"
+      "title": "東京為替：ドル・円は安値圏、戻りは限定的",
+      "link": "https://jp.investing.com/news/forex-news/article-1699533",
+      "published": "2026-10-02 05:15:15",
+      "isoDate": "2026-10-02T05:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は反落、上昇分を削る",
+      "link": "https://jp.investing.com/news/forex-news/article-1699523",
+      "published": "2026-10-02 05:00:15",
+      "isoDate": "2026-10-02T05:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アマゾン、Nvideaチップ約80億ドル分を投資家に売却へ――FT報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699504",
+      "published": "2026-10-02 04:18:47",
+      "isoDate": "2026-10-02T04:18:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は反落、前日の急伸の反動で利益確定売り優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699483",
+      "published": "2026-10-02 03:15:14",
+      "isoDate": "2026-10-02T03:15:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トヨタとユニクロ株、長期保有するならどっち？　「投資特化型AI」の回答",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699480",
+      "published": "2026-10-02 02:46:59",
+      "isoDate": "2026-10-02T02:46:59Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は643円安でスタート、ソフトバンクGや中外薬などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1699432",
+      "published": "2026-10-02 01:00:10",
+      "isoDate": "2026-10-02T01:00:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,41 +125,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "1日の米国市場ダイジェスト：米国株式市場は小幅上昇、早期の追加利上げ懸念が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1699368",
-      "published": "2026-10-01 22:15:05",
-      "isoDate": "2026-10-01T22:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "PalantirとArmadaが主権AI基盤で提携",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1699362",
-      "published": "2026-10-01 22:03:01",
-      "isoDate": "2026-10-01T22:03:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国の国家系ファンド、規制対象のエヌビディア製AIチップ購入を支援",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1699333",
-      "published": "2026-10-01 21:29:42",
-      "isoDate": "2026-10-01T21:29:42Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは20.51ドル高、早期の追加利上げ懸念が後退",
-      "link": "https://jp.investing.com/news/forex-news/article-1699314",
-      "published": "2026-10-01 21:15:05",
-      "isoDate": "2026-10-01T21:15:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "記録的な業績を背景に、マイクロンテクノロジーが台湾でのストライキリスクに直面",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1698918",
-      "published": "2026-10-01 14:17:10",
-      "isoDate": "2026-10-01T14:17:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "バンク・オブ・アメリカが第4四半期に保有すべきAIチップ株5銘柄を選定",
       "link": "https://jp.investing.com/news/stock-market-news/article-1698432",
       "published": "2026-10-01 11:16:14",
@@ -132,20 +132,41 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "ハイテク株の好調続く米株式市場、10月の「AI厳選銘柄」が公開中",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1698016",
+      "published": "2026-10-01 07:23:33",
+      "isoDate": "2026-10-01T07:23:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "高市政権が推進の「核融合」関連株、「次の大化け」候補を投資特化型AIで分析",
       "link": "https://jp.investing.com/news/stock-market-news/article-1697692",
       "published": "2026-09-30 21:48:58",
       "isoDate": "2026-09-30T21:48:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【本日深夜まで55%オフ】InvestingProの「AI投資ツール」で何ができる？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1696552",
-      "published": "2026-09-30 08:31:35",
-      "isoDate": "2026-09-30T08:31:35Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド関連団体とサークル社、仮想通貨規制「MiCA」見直しで意見書",
+      "link": "https://coinpost.jp/?p=740611",
+      "published": "Fri, 02 Oct 2026 12:25:59 +0900",
+      "isoDate": "2026-10-02T03:25:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ポルシェのWeb3プロジェクトが終了、NFTはブロックチェーンに残存へ",
+      "link": "https://coinpost.jp/?p=740580",
+      "published": "Fri, 02 Oct 2026 10:45:42 +0900",
+      "isoDate": "2026-10-02T01:45:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、上昇の初期段階も売り注文の壁が上値抑制＝グラスノード",
+      "link": "https://coinpost.jp/?p=740555",
+      "published": "Fri, 02 Oct 2026 09:30:44 +0900",
+      "isoDate": "2026-10-02T00:30:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "米イリノイ州、仮想通貨0.2％課税の延期へ合意",
@@ -166,48 +187,6 @@
       "link": "https://coinpost.jp/?p=740504",
       "published": "Fri, 02 Oct 2026 05:00:32 +0900",
       "isoDate": "2026-10-01T20:00:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン短期保有者の含み益、13.7％に縮小＝アナリスト",
-      "link": "https://coinpost.jp/?p=740477",
-      "published": "Thu, 01 Oct 2026 17:41:17 +0900",
-      "isoDate": "2026-10-01T08:41:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIグループ、ビットバンクの完全子会社化を完了",
-      "link": "https://coinpost.jp/?p=740447",
-      "published": "Thu, 01 Oct 2026 16:30:00 +0900",
-      "isoDate": "2026-10-01T07:30:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物需要なお弱く　ETFは9月下旬から2.8万BTC増＝アナリスト",
-      "link": "https://coinpost.jp/?p=740420",
-      "published": "Thu, 01 Oct 2026 15:41:30 +0900",
-      "isoDate": "2026-10-01T06:41:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン政策研究所、MSCIの指数除外案に撤回要求",
-      "link": "https://coinpost.jp/?p=740397",
-      "published": "Thu, 01 Oct 2026 14:06:18 +0900",
-      "isoDate": "2026-10-01T05:06:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨投資商品に年初来最大の週間流入、約5600億円＝コインシェアーズ",
-      "link": "https://coinpost.jp/?p=740375",
-      "published": "Thu, 01 Oct 2026 13:30:08 +0900",
-      "isoDate": "2026-10-01T04:30:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "エルサルバドルでステーブルコイン送金アプリ始動、ビットコイン局は報道に反論",
-      "link": "https://coinpost.jp/?p=740346",
-      "published": "Thu, 01 Oct 2026 11:55:10 +0900",
-      "isoDate": "2026-10-01T02:55:10Z"
     }
   ]
 }
