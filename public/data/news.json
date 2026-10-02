@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-02T18:37:30Z",
-  "last_checked": "2026-10-02T18:37:30Z",
+  "updated": "2026-10-02T22:51:23Z",
+  "last_checked": "2026-10-02T22:51:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅（Copper）が6.53サポートを試す：売られすぎの中でベアトレンド継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693225",
+      "published": "2026-10-02 19:13:33",
+      "isoDate": "2026-10-02T19:13:33Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Crude Oil WTI、88〜94ドルのレンジ相場継続-突破待ちの局面",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693228",
+      "published": "2026-10-02 19:13:05",
+      "isoDate": "2026-10-02T19:13:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、全移動平均を下抜けベアフラッグ継続中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693224",
+      "published": "2026-10-02 19:12:46",
+      "isoDate": "2026-10-02T19:12:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、下降チャネル継続で60.84付近推移-抵抗帯61.20〜62.44が焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693227",
+      "published": "2026-10-02 19:12:39",
+      "isoDate": "2026-10-02T19:12:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$102.34でサポートとレジスタンスの綱引き状態",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1693226",
+      "published": "2026-10-02 19:12:37",
+      "isoDate": "2026-10-02T19:12:37Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ドル高を背景に小麦先物が6週間ぶり安値付近で推移",
@@ -36,34 +71,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700287",
       "published": "2026-10-02 14:08:38",
       "isoDate": "2026-10-02T14:08:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "サウジアラビアの入札需要を受け、シカゴ小麦先物が続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700155",
-      "published": "2026-10-02 12:59:17",
-      "isoDate": "2026-10-02T12:59:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPEC+、イラン戦争でクォータ見直しを延期",
-      "link": "https://jp.investing.com/news/commodities-news/article-1699997",
-      "published": "2026-10-02 11:44:17",
-      "isoDate": "2026-10-02T11:44:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシア、2027年の石油生産量を保守的シナリオで計画＝ノワク副首相",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1699984",
-      "published": "2026-10-02 11:41:10",
-      "isoDate": "2026-10-02T11:41:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロ圏のディーゼル価格急落、燃料備蓄放出を検討との報道",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1699884",
-      "published": "2026-10-02 10:23:27",
-      "isoDate": "2026-10-02T10:23:27Z"
     }
   ],
   "usdjpy_items": [
@@ -94,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1699675",
       "published": "2026-10-02 07:54:12",
       "isoDate": "2026-10-02T07:54:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "高市政権で注目の「レアアース株」、大化け候補は？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1694712",
+      "published": "2026-10-02 06:08:35",
+      "isoDate": "2026-10-02T06:08:35Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,16 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1698016",
       "published": "2026-10-01 07:23:33",
       "isoDate": "2026-10-01T07:23:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "高市政権が推進の「核融合」関連株、「次の大化け」候補を投資特化型AIで分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1697692",
-      "published": "2026-09-30 21:48:58",
-      "isoDate": "2026-09-30T21:48:58Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、元SEC委員長のクレイトン長官をAI担当に起用の見通し",
+      "link": "https://coinpost.jp/?p=740847",
+      "published": "Sat, 03 Oct 2026 06:55:49 +0900",
+      "isoDate": "2026-10-02T21:55:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC委員長、仮想通貨保管案を規制整備の一環と説明｜追加提案も予告",
+      "link": "https://coinpost.jp/?p=740849",
+      "published": "Sat, 03 Oct 2026 06:10:53 +0900",
+      "isoDate": "2026-10-02T21:10:53Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "bitFlyerが「クールダウン」導入、入金後48時間の暗号資産出金を制限",
+      "link": "https://coinpost.jp/?p=740830",
+      "published": "Sat, 03 Oct 2026 05:00:25 +0900",
+      "isoDate": "2026-10-02T20:00:25Z"
+    },
     {
       "source": "CoinPost",
       "title": "メタプラネット、CEOと株主MMXXの関係訂正｜議決権の過半数は保有せず",
@@ -194,13 +222,6 @@
       "link": "https://coinpost.jp/?p=740580",
       "published": "Fri, 02 Oct 2026 10:45:42 +0900",
       "isoDate": "2026-10-02T01:45:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、上昇の初期段階も売り注文の壁が上値抑制＝グラスノード",
-      "link": "https://coinpost.jp/?p=740555",
-      "published": "Fri, 02 Oct 2026 09:30:44 +0900",
-      "isoDate": "2026-10-02T00:30:44Z"
     }
   ]
 }
