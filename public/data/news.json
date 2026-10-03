@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-03T07:49:25Z",
-  "last_checked": "2026-10-03T07:49:25Z",
+  "updated": "2026-10-03T13:10:47Z",
+  "last_checked": "2026-10-03T13:10:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ガソリンスタンドの先へ：私たちは実際どれだけの石油を消費しているのか",
+      "link": "https://jp.investing.com/news/commodities-news/article-1700590",
+      "published": "2026-10-03 10:51:54",
+      "isoDate": "2026-10-03T10:51:54Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】銅（Copper）が6.53サポートを試す：売られすぎの中でベアトレンド継続",
@@ -64,20 +71,20 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1700293",
       "published": "2026-10-02 14:14:05",
       "isoDate": "2026-10-02T14:14:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、ケープサイズ上昇に支えられ小幅高",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700287",
-      "published": "2026-10-02 14:08:38",
-      "isoDate": "2026-10-02T14:08:38Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：長期金利の動向に警戒感持ちつつテーマ物色の流れに乗りたい",
-      "link": "https://jp.investing.com/news/forex-news/article-1700559",
+      "title": "来週の相場で注目すべき3つのポイント：高市首相所信表明演説、TOPIX新銘柄発表、6-8月期決算発表本格化",
+      "link": "https://jp.investing.com/news/forex-news/article-1700570",
+      "published": "2026-10-03 08:00:04",
+      "isoDate": "2026-10-03T08:00:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "新興市場見通し：米利上げ観測後退で買い優勢、IPOは空白期間",
+      "link": "https://jp.investing.com/news/forex-news/article-1700558",
       "published": "2026-10-03 05:15:04",
       "isoDate": "2026-10-03T05:15:04Z"
     },
@@ -97,17 +104,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、MetaのMuseに関する苦情を受けMacのAIデータアクセスに警告表示へ",
-      "link": "https://jp.investing.com/news/company-news/article-1700492",
-      "published": "2026-10-02 23:08:41",
-      "isoDate": "2026-10-02T23:08:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "スペースX株が急騰、3連続打ち上げとAI契約が追い風に",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1700296",
       "published": "2026-10-02 14:17:23",
       "isoDate": "2026-10-02T14:17:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スペースX株が本日約6%急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1700290",
+      "published": "2026-10-02 14:13:54",
+      "isoDate": "2026-10-02T14:13:54Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1699393",
       "published": "2026-10-01 23:15:10",
       "isoDate": "2026-10-01T23:15:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体株は「超割安」と米みずほ証券が指摘、「オーバーウェイト」を推奨",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1698665",
-      "published": "2026-10-01 12:39:22",
-      "isoDate": "2026-10-01T12:39:22Z"
     }
   ],
   "btc_items": [
