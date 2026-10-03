@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T01:48:17Z",
-  "last_checked": "2026-10-03T01:48:17Z",
+  "updated": "2026-10-03T07:49:25Z",
+  "last_checked": "2026-10-03T07:49:25Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：長期金利の動向に警戒感持ちつつテーマ物色の流れに乗りたい",
+      "link": "https://jp.investing.com/news/forex-news/article-1700559",
+      "published": "2026-10-03 05:15:04",
+      "isoDate": "2026-10-03T05:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：金利上昇への警戒感残る、決算本格化前にポジション整理も",
+      "link": "https://jp.investing.com/news/forex-news/article-1700557",
+      "published": "2026-10-03 05:15:03",
+      "isoDate": "2026-10-03T05:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "スターリンクの住宅向けブロードバンド事業はどこまで拡大できるか",
       "link": "https://jp.investing.com/news/company-news/article-1700508",
       "published": "2026-10-03 00:20:07",
       "isoDate": "2026-10-03T00:20:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NY金先物：反落、原油急落に伴うインフレ懸念の後退で売り優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1700494",
-      "published": "2026-10-02 23:30:06",
-      "isoDate": "2026-10-02T23:30:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1698665",
       "published": "2026-10-01 12:39:22",
       "isoDate": "2026-10-01T12:39:22Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ハイテク株の好調続く米株式市場、10月の「AI厳選銘柄」が公開中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1698016",
-      "published": "2026-10-01 07:23:33",
-      "isoDate": "2026-10-01T07:23:33Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC、ビットコインなど6資産の3倍レバレッジETFの上場を承認",
+      "link": "https://coinpost.jp/?p=740844",
+      "published": "Sat, 03 Oct 2026 11:10:43 +0900",
+      "isoDate": "2026-10-03T02:10:43Z"
+    },
     {
       "source": "CoinPost",
       "title": "米財務省、イラン利用の影の銀行ネットワークに制裁対応　8月開始の新プログラムの一環",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=740698",
       "published": "Fri, 02 Oct 2026 15:41:30 +0900",
       "isoDate": "2026-10-02T06:41:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院議員が仮想通貨税制法案提出、ステーブルコイン決済を非課税に",
-      "link": "https://coinpost.jp/?p=740658",
-      "published": "Fri, 02 Oct 2026 15:14:04 +0900",
-      "isoDate": "2026-10-02T06:14:04Z"
     }
   ]
 }
