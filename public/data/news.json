@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T15:55:38Z",
-  "last_checked": "2026-10-04T15:55:38Z",
+  "updated": "2026-10-04T19:23:10Z",
+  "last_checked": "2026-10-04T19:23:10Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "マスク氏、SpaceXの社名を「SpaceXSI」に変更すると発言",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700664",
+      "published": "2026-10-04 17:43:26",
+      "isoDate": "2026-10-04T17:43:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIはクリーンエネルギーと化石燃料、どちらを加速させるのか",
       "link": "https://jp.investing.com/news/general-news/article-1700656",
       "published": "2026-10-04 11:47:37",
       "isoDate": "2026-10-04T11:47:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIエージェントがオンライン旅行を再編、勝者と敗者は？",
-      "link": "https://jp.investing.com/news/general-news/article-1700649",
-      "published": "2026-10-04 09:21:24",
-      "isoDate": "2026-10-04T09:21:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,7 +104,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン、8万5000ドル付近で推移―SECが3倍レバレッジ型暗号資産ETPを初承認",
+      "title": "ビットコイン、レバレッジ型暗号資産商品の承認を受け8万5000ドル超に上昇",
       "link": "https://jp.investing.com/news/cryptocurrency-news/article-1700635",
       "published": "2026-10-04 05:30:13",
       "isoDate": "2026-10-04T05:30:13Z"
