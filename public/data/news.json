@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-04T22:27:11Z",
-  "last_checked": "2026-10-04T22:27:11Z",
+  "updated": "2026-10-05T01:10:28Z",
+  "last_checked": "2026-10-05T01:10:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,45 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "元Anthropic研究者、NYC市議会のAI公聴会で証言へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700672",
-      "published": "2026-10-04 20:38:24",
-      "isoDate": "2026-10-04T20:38:24Z"
+      "title": "日経平均は804円高でスタート、ソフトバンクGやアドバンテストなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700707",
+      "published": "2026-10-05 00:45:07",
+      "isoDate": "2026-10-05T00:45:07Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "Schneider Electric、米ソフトウェア大手PTCを約200億ドルで買収へ――報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700670",
-      "published": "2026-10-04 20:28:14",
-      "isoDate": "2026-10-04T20:28:14Z"
+      "title": "雇用統計が予想下回り、米株先物が小幅上昇－Fed利上げ観測後退",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700704",
+      "published": "2026-10-05 00:19:24",
+      "isoDate": "2026-10-05T00:19:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は1203円高、寄り後は上げ幅拡大",
+      "link": "https://jp.investing.com/news/forex-news/article-1700701",
+      "published": "2026-10-05 00:15:05",
+      "isoDate": "2026-10-05T00:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "前場に注目すべき3つのポイント～半導体やAI関連株に資金が集中しやすい需給状況～",
+      "link": "https://jp.investing.com/news/forex-news/article-1700696",
+      "published": "2026-10-05 00:00:06",
+      "isoDate": "2026-10-05T00:00:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体やAI関連株に資金が集中しやすい需給状況",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700695",
+      "published": "2026-10-04 23:45:04",
+      "isoDate": "2026-10-04T23:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米利上げ観測の後退を背景に上昇した米国市場の流れを映してリスク選好ムードに",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1700691",
+      "published": "2026-10-04 23:30:05",
+      "isoDate": "2026-10-04T23:30:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,38 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIはクリーンエネルギーと化石燃料、どちらを加速させるのか",
-      "link": "https://jp.investing.com/news/general-news/article-1700656",
-      "published": "2026-10-04 11:47:37",
-      "isoDate": "2026-10-04T11:47:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "OPEC+、中東紛争による供給逼迫の中、生産目標を据え置き",
-      "link": "https://jp.investing.com/news/commodities-news/article-1700646",
-      "published": "2026-10-04 08:32:50",
-      "isoDate": "2026-10-04T08:32:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米クラウド大手への依存、英国に戦略的リスク＝ブルームバーグ",
-      "link": "https://jp.investing.com/news/economy-news/article-1700641",
-      "published": "2026-10-04 07:23:27",
-      "isoDate": "2026-10-04T07:23:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、レバレッジ型暗号資産商品の承認を受け8万5000ドル超に上昇",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1700635",
-      "published": "2026-10-04 05:30:13",
-      "isoDate": "2026-10-04T05:30:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "MuseとOpenAIのDotsを比較する",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700615",
-      "published": "2026-10-03 22:24:00",
-      "isoDate": "2026-10-03T22:24:00Z"
+      "title": "AIエージェントがオンライン旅行を再編、勝者と敗者は？",
+      "link": "https://jp.investing.com/news/general-news/article-1700649",
+      "published": "2026-10-04 09:21:24",
+      "isoDate": "2026-10-04T09:21:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "日本政府、対露追加制裁　仮想通貨取引所ガランテックスなどが対象",
+      "link": "https://coinpost.jp/?p=740921",
+      "published": "Mon, 05 Oct 2026 09:50:24 +0900",
+      "isoDate": "2026-10-05T00:50:24Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン現物出来高、約3年ぶり低水準から小幅回復＝アナリスト",
+      "link": "https://coinpost.jp/?p=740918",
+      "published": "Mon, 05 Oct 2026 08:17:35 +0900",
+      "isoDate": "2026-10-04T23:17:35Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン長期保有者、弱気相場でも含み益維持　2015年以降初＝グラスノード",
@@ -208,20 +222,6 @@
       "link": "https://coinpost.jp/?p=740830",
       "published": "Sat, 03 Oct 2026 05:00:25 +0900",
       "isoDate": "2026-10-02T20:00:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット、CEOと株主MMXXの関係訂正｜議決権の過半数は保有せず",
-      "link": "https://coinpost.jp/?p=740780",
-      "published": "Fri, 02 Oct 2026 18:20:10 +0900",
-      "isoDate": "2026-10-02T09:20:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、デジタル金融施策に約13.3億円を予算要求　前年度の15倍",
-      "link": "https://coinpost.jp/?p=740761",
-      "published": "Fri, 02 Oct 2026 17:36:50 +0900",
-      "isoDate": "2026-10-02T08:36:50Z"
     }
   ]
 }
