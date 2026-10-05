@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-05T07:33:03Z",
-  "last_checked": "2026-10-05T07:33:03Z",
+  "updated": "2026-10-05T16:58:31Z",
+  "last_checked": "2026-10-05T16:58:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ユーロネクスト小麦、ユーロ安とサウジアラビアの大型購入で3週間ぶり高値",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1701839",
+      "published": "2026-10-05 15:29:34",
+      "isoDate": "2026-10-05T15:29:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Saudi Aramco CEO、ホルムズ海峡リスクで世界の石油在庫は「危険なほど薄い」と警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700979",
+      "published": "2026-10-05 08:44:31",
+      "isoDate": "2026-10-05T08:44:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス市場、中東情勢を見極める動きで小幅な値動き",
+      "link": "https://jp.investing.com/news/commodities-news/article-1700962",
+      "published": "2026-10-05 08:25:17",
+      "isoDate": "2026-10-05T08:25:17Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Silver、61.8%フィボナッチ付近で短期反転サインも下落トレンド継続",
@@ -39,54 +60,47 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "中東からの原油輸出が回復、G7が緊急備蓄を放出し原油価格下落",
+      "title": "中東からの原油輸出が回復、G7が緊急備蓄を放出へ－原油相場は乱高下",
       "link": "https://jp.investing.com/news/commodities-news/article-1700736",
       "published": "2026-10-05 02:03:06",
       "isoDate": "2026-10-05T02:03:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "雇用統計の低迷でFED利上げ観測が後退、金価格は下落後に安定",
-      "link": "https://jp.investing.com/news/commodities-news/article-1700724",
-      "published": "2026-10-05 01:16:10",
-      "isoDate": "2026-10-05T01:16:10Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPEC+、中東紛争による供給逼迫の中、生産目標を据え置き",
-      "link": "https://jp.investing.com/news/commodities-news/article-1700646",
-      "published": "2026-10-04 08:32:50",
-      "isoDate": "2026-10-04T08:32:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "イラク国営タンカー会社、ホルムズ海峡経由で原油を輸送",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700613",
-      "published": "2026-10-03 20:38:38",
-      "isoDate": "2026-10-03T20:38:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ガソリンスタンドの先へ：私たちは実際どれだけの石油を消費しているのか",
-      "link": "https://jp.investing.com/news/commodities-news/article-1700590",
-      "published": "2026-10-03 10:51:54",
-      "isoDate": "2026-10-03T10:51:54Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "欧州株が回復、米金利懸念が後退――PMI発表を控え",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700880",
-      "published": "2026-10-05 07:05:14",
-      "isoDate": "2026-10-05T07:05:14Z"
+      "title": "ダウ・ナスダック・S&P500週間展望：Q3決算開始と利回り急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1701543",
+      "published": "2026-10-05 12:23:46",
+      "isoDate": "2026-10-05T12:23:46Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は大幅反発、半導体関連株が指数押し上げ一時7万円に回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700871",
-      "published": "2026-10-05 07:00:15",
-      "isoDate": "2026-10-05T07:00:15Z"
+      "title": "ゴールドマン・サックスが決算前に買い推奨する半導体株3銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1701369",
+      "published": "2026-10-05 11:44:06",
+      "isoDate": "2026-10-05T11:44:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "この数兆ドル規模の株は「割安でさらに割安になっている」：モルガン・スタンレー",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1701232",
+      "published": "2026-10-05 10:55:08",
+      "isoDate": "2026-10-05T10:55:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株が急落、TSMCがテラファブとの提携を検討",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1701189",
+      "published": "2026-10-05 10:40:04",
+      "isoDate": "2026-10-05T10:40:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、8万6000ドル台を維持――雇用統計の軟化が高利回りの圧力を相殺",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1700844",
+      "published": "2026-10-05 06:32:50",
+      "isoDate": "2026-10-05T06:32:50Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "FOMC据え置き期待で70000円台を回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700768",
-      "published": "2026-10-05 03:30:14",
-      "isoDate": "2026-10-05T03:30:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日経平均は大幅反発、FOMC据え置き期待で70000円台を回復",
       "link": "https://jp.investing.com/news/stock-market-news/article-1700766",
       "published": "2026-10-05 03:15:16",
@@ -111,24 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日本の半導体株に「復調」の兆し、ディスコとルネサスをAIが新規で推奨",
+      "title": "【更新】AIが日本の半導体株「復調」を予見、10月の2銘柄が6%と8%の急伸",
       "link": "https://jp.investing.com/news/stock-market-news/article-1700725",
       "published": "2026-10-05 01:27:35",
       "isoDate": "2026-10-05T01:27:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は804円高でスタート、ソフトバンクGやアドバンテストなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700707",
-      "published": "2026-10-05 00:45:07",
-      "isoDate": "2026-10-05T00:45:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株先物、軟調な雇用統計と高水準の利回りを見極め小動き",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700704",
-      "published": "2026-10-05 00:19:24",
-      "isoDate": "2026-10-05T00:19:24Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +139,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "メタプラネットが資本配分方針再改定、ビットコイン85〜90％・戦略投資10〜15％が目安",
+      "link": "https://coinpost.jp/?p=741161",
+      "published": "Mon, 05 Oct 2026 21:35:30 +0900",
+      "isoDate": "2026-10-05T12:35:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジー、3週連続でビットコイン追加取得　848000BTCに到達",
+      "link": "https://coinpost.jp/?p=741160",
+      "published": "Mon, 05 Oct 2026 21:25:55 +0900",
+      "isoDate": "2026-10-05T12:25:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "国内暗号資産の現物取引高、8月は7644億円　2カ月ぶり増加",
+      "link": "https://coinpost.jp/?p=741119",
+      "published": "Mon, 05 Oct 2026 16:41:58 +0900",
+      "isoDate": "2026-10-05T07:41:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "NOT A HOTEL、住宅事業に参入　NAC発行元グループが新会社設立",
@@ -173,34 +187,6 @@
       "link": "https://coinpost.jp/?p=740921",
       "published": "Mon, 05 Oct 2026 09:50:24 +0900",
       "isoDate": "2026-10-05T00:50:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン現物出来高、約3年ぶり低水準から小幅回復＝アナリスト",
-      "link": "https://coinpost.jp/?p=740918",
-      "published": "Mon, 05 Oct 2026 08:17:35 +0900",
-      "isoDate": "2026-10-04T23:17:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン長期保有者、弱気相場でも含み益維持　2015年以降初＝グラスノード",
-      "link": "https://coinpost.jp/?p=740915",
-      "published": "Mon, 05 Oct 2026 07:26:23 +0900",
-      "isoDate": "2026-10-04T22:26:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=740798",
-      "published": "Sun, 04 Oct 2026 11:30:55 +0900",
-      "isoDate": "2026-10-04T02:30:55Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（10/2）｜国税庁の新システム稼働・相場分析・DAT企業の動向まとめ",
-      "link": "https://coinpost.jp/?p=740608",
-      "published": "Sun, 04 Oct 2026 09:25:57 +0900",
-      "isoDate": "2026-10-04T00:25:57Z"
     }
   ]
 }
