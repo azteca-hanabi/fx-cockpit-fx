@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-05T23:06:41Z",
-  "last_checked": "2026-10-05T23:06:41Z",
+  "updated": "2026-10-06T03:14:50Z",
+  "last_checked": "2026-10-06T03:14:50Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格は4,140ドル付近で推移、ドル高と利回り上昇がFed利上げ期待後退を相殺",
+      "link": "https://jp.investing.com/news/commodities-news/article-1702150",
+      "published": "2026-10-06 00:53:06",
+      "isoDate": "2026-10-06T00:53:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格が下落、Saudi Aramcoの値下げと中東供給を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-1702120",
+      "published": "2026-10-06 00:09:03",
+      "isoDate": "2026-10-06T00:09:03Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】WTI原油、50%フィボ＆200SMA攻防で次のトレンドが決まる局面",
@@ -57,36 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1701889",
       "published": "2026-10-05 16:56:31",
       "isoDate": "2026-10-05T16:56:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、ユーロ安とサウジアラビアの大型購入で3週間ぶり高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1701839",
-      "published": "2026-10-05 15:29:34",
-      "isoDate": "2026-10-05T15:29:34Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ウォール街、ブロードコム絡みの600億ドル融資団組成を試みる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1702052",
-      "published": "2026-10-05 21:17:05",
-      "isoDate": "2026-10-05T21:17:05Z"
+      "title": "ナスダックが最高値更新、FRBの利上げ観測後退で米株先物は横ばい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1702170",
+      "published": "2026-10-06 01:33:50",
+      "isoDate": "2026-10-06T01:33:50Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは90.94ドル高、ハイテクや早期利上げ警戒感の後退が支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1702049",
-      "published": "2026-10-05 21:15:05",
-      "isoDate": "2026-10-05T21:15:05Z"
+      "title": "強弱材料 10/6",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1702124",
+      "published": "2026-10-06 00:15:09",
+      "isoDate": "2026-10-06T00:15:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXの株価が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1701800",
-      "published": "2026-10-05 14:26:54",
-      "isoDate": "2026-10-05T14:26:54Z"
+      "title": "スペースXへの投資はもう手遅れか？　「100万円」が年末175万円になる強気シナリオも",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1702116",
+      "published": "2026-10-05 23:54:04",
+      "isoDate": "2026-10-05T23:54:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -141,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "米財務省、仮想通貨と偽慈善団体でハマスに送金した資金網を制裁",
+      "link": "https://coinpost.jp/?p=741187",
+      "published": "Tue, 06 Oct 2026 11:04:48 +0900",
+      "isoDate": "2026-10-06T02:04:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケン親企業ペイワード、一部の機関投資家向けに24時間決済を開始",
+      "link": "https://coinpost.jp/?p=741169",
+      "published": "Tue, 06 Oct 2026 10:15:26 +0900",
+      "isoDate": "2026-10-06T01:15:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、上昇上位15日を除くと3年間11%の損失に＝グレースケール分析",
+      "link": "https://coinpost.jp/?p=741170",
+      "published": "Tue, 06 Oct 2026 09:10:29 +0900",
+      "isoDate": "2026-10-06T00:10:29Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米財務省、仮想通貨ミキシング規則案を撤回　正当な活動を妨げる懸念で",
       "link": "https://coinpost.jp/?p=741174",
       "published": "Tue, 06 Oct 2026 06:34:37 +0900",
@@ -180,20 +208,6 @@
       "link": "https://coinpost.jp/?p=741119",
       "published": "Mon, 05 Oct 2026 16:41:58 +0900",
       "isoDate": "2026-10-05T07:41:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "NOT A HOTEL、住宅事業に参入　NAC発行元グループが新会社設立",
-      "link": "https://coinpost.jp/?p=741069",
-      "published": "Mon, 05 Oct 2026 15:45:32 +0900",
-      "isoDate": "2026-10-05T06:45:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "AI関連の仮想通貨が9月に54%上昇、グレースケールが分析",
-      "link": "https://coinpost.jp/?p=741022",
-      "published": "Mon, 05 Oct 2026 13:46:54 +0900",
-      "isoDate": "2026-10-05T04:46:54Z"
     }
   ]
 }
