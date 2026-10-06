@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-06T17:05:09Z",
-  "last_checked": "2026-10-06T17:05:09Z",
+  "updated": "2026-10-06T21:49:30Z",
+  "last_checked": "2026-10-06T21:49:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$62.02でレジスタンスに直面-短期強気・長期弱気の攻防",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700885",
+      "published": "2026-10-06 19:13:39",
+      "isoDate": "2026-10-06T19:13:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、下降トレンド継続中-$87.12サポートが焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700883",
+      "published": "2026-10-06 19:13:36",
+      "isoDate": "2026-10-06T19:13:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$97〜$103の持ち合いレンジで方向感なく膠着",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700884",
+      "published": "2026-10-06 19:13:15",
+      "isoDate": "2026-10-06T19:13:15Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copperが$6.67の主要抵抗帯に再挑戦、上下ブレイク待ち",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700882",
+      "published": "2026-10-06 19:13:11",
+      "isoDate": "2026-10-06T19:13:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、$4,200台でベア・フラッグ70％進行と短期MACD反転が交錯",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700881",
+      "published": "2026-10-06 19:13:10",
+      "isoDate": "2026-10-06T19:13:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米国LNGの競争力低下懸念、国内ガス価格上昇でフルクラムCEOが警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-1703415",
+      "published": "2026-10-06 18:13:17",
+      "isoDate": "2026-10-06T18:13:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、12カ月以内に1トロイオンス5,013ドルに達すると予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703406",
+      "published": "2026-10-06 18:00:22",
+      "isoDate": "2026-10-06T18:00:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック乾貨物運賃指数、6週間ぶり低水準に下落",
@@ -22,61 +71,12 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703113",
       "published": "2026-10-06 13:20:06",
       "isoDate": "2026-10-06T13:20:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海の混乱と米国の作付け遅延で小麦先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703106",
-      "published": "2026-10-06 13:19:11",
-      "isoDate": "2026-10-06T13:19:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが欧州天然ガス価格目標を引き上げ、湾岸LNG供給混乱を受け",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1702536",
-      "published": "2026-10-06 09:52:50",
-      "isoDate": "2026-10-06T09:52:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡のLNG輸送増加もタンカー攻撃リスクが欧州ガス価格を押し上げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1702445",
-      "published": "2026-10-06 08:21:01",
-      "isoDate": "2026-10-06T08:21:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、Ichimoku雲の中で膠着--$6.75突破で上昇加速なるか",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700882",
-      "published": "2026-10-06 07:09:09",
-      "isoDate": "2026-10-06T07:09:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、60.00ドルのサポート割れで下落加速リスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700885",
-      "published": "2026-10-06 07:09:09",
-      "isoDate": "2026-10-06T07:09:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oilが99.67でレンジ膠着：96.70か103.00の突破待ち",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700884",
-      "published": "2026-10-06 07:09:07",
-      "isoDate": "2026-10-06T07:09:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,133サポート直上で下降三角形が最終局面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700881",
-      "published": "2026-10-06 07:09:05",
-      "isoDate": "2026-10-06T07:09:05Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループ株、野心的な投資家向け説明会の目標を受けて急騰",
+      "title": "マーベル・テクノロジー・グループ株、意欲的な投資家向けデイの目標を受け急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1703208",
       "published": "2026-10-06 13:55:13",
       "isoDate": "2026-10-06T13:55:13Z"
@@ -148,6 +148,13 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "イーサリアムL2のAbstract、12月15日閉鎖へ──持続困難と判断",
+      "link": "https://coinpost.jp/?p=741438",
+      "published": "Wed, 07 Oct 2026 06:05:17 +0900",
+      "isoDate": "2026-10-06T21:05:17Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "東アジアの仮想通貨経済、日本が2位　分散型取引所の利用が盛ん＝チェイナリシス",
       "link": "https://coinpost.jp/?p=741243",
       "published": "Tue, 06 Oct 2026 13:15:33 +0900",
@@ -180,27 +187,6 @@
       "link": "https://coinpost.jp/?p=741170",
       "published": "Tue, 06 Oct 2026 09:10:29 +0900",
       "isoDate": "2026-10-06T00:10:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、仮想通貨ミキシング規則案を撤回　正当な活動を妨げる懸念で",
-      "link": "https://coinpost.jp/?p=741174",
-      "published": "Tue, 06 Oct 2026 06:34:37 +0900",
-      "isoDate": "2026-10-05T21:34:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTCとSEC、ビットコインやイーサリアム・XRPを原則証券でないと共同解釈",
-      "link": "https://coinpost.jp/?p=741180",
-      "published": "Tue, 06 Oct 2026 06:10:35 +0900",
-      "isoDate": "2026-10-05T21:10:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC、個人向けレバレッジ仮想通貨取引の規制枠組みを整備へ",
-      "link": "https://coinpost.jp/?p=741175",
-      "published": "Tue, 06 Oct 2026 05:55:39 +0900",
-      "isoDate": "2026-10-05T20:55:39Z"
     }
   ]
 }
