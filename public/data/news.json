@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-06T21:49:30Z",
-  "last_checked": "2026-10-06T21:49:30Z",
+  "updated": "2026-10-07T01:17:37Z",
+  "last_checked": "2026-10-07T01:17:37Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、中東の石油供給回復と米国債利回り低下で上昇維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1703651",
+      "published": "2026-10-07 01:00:12",
+      "isoDate": "2026-10-07T01:00:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東の供給不安が続く中、原油価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1703630",
+      "published": "2026-10-07 00:17:23",
+      "isoDate": "2026-10-07T00:17:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Silver、$62.02でレジスタンスに直面-短期強気・長期弱気の攻防",
@@ -57,43 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703183",
       "published": "2026-10-06 13:41:58",
       "isoDate": "2026-10-06T13:41:58Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米大豆収穫の遅れを受け、CBOT大豆相場が続伸",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703114",
-      "published": "2026-10-06 13:20:46",
-      "isoDate": "2026-10-06T13:20:46Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トウモロコシ先物が上昇、収穫進捗が平均を下回る",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1703113",
-      "published": "2026-10-06 13:20:06",
-      "isoDate": "2026-10-06T13:20:06Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "マーベル・テクノロジー・グループ株、意欲的な投資家向けデイの目標を受け急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1703208",
-      "published": "2026-10-06 13:55:13",
-      "isoDate": "2026-10-06T13:55:13Z"
+      "title": "テクノロジー株の上昇でS&P 500とナスダックが最高値更新、米株先物は横ばい",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1703628",
+      "published": "2026-10-07 00:14:54",
+      "isoDate": "2026-10-07T00:14:54Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "CrowdStrikeがAWSおよびNvidiaと第4回サイバーセキュリティ・スタートアップ・アクセラレーターを開始",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1702951",
-      "published": "2026-10-06 12:23:03",
-      "isoDate": "2026-10-06T12:23:03Z"
+      "title": "SpaceXがNvidiaチップ購入のため400億ドルの資金調達を計画——FT報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1703598",
+      "published": "2026-10-06 23:27:11",
+      "isoDate": "2026-10-06T23:27:11Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ネットリストとマイクロンテクノロジーが6億ドルの特許ライセンス契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1702911",
-      "published": "2026-10-06 12:10:04",
-      "isoDate": "2026-10-06T12:10:04Z"
+      "title": "NVIDIA株はまだ「割安」、モルガン・スタンレーが改めて買い推奨",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1703459",
+      "published": "2026-10-06 19:55:17",
+      "isoDate": "2026-10-06T19:55:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ウェイモ、投資ファンドなどから50億ドル調達　事業拡大を加速",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1703456",
+      "published": "2026-10-06 19:54:09",
+      "isoDate": "2026-10-06T19:54:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,19 +143,26 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1701232",
       "published": "2026-10-05 10:55:08",
       "isoDate": "2026-10-05T10:55:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが厳選する「米ハイテク株」リスト、10月は早くも急伸株が続出中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1700971",
-      "published": "2026-10-05 08:30:50",
-      "isoDate": "2026-10-05T08:30:50Z"
     }
   ],
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "イーサリアムL2のAbstract、12月15日閉鎖へ──持続困難と判断",
+      "title": "ウィンクルボス、ジーキャッシュ現物ETFを申請",
+      "link": "https://coinpost.jp/?p=741436",
+      "published": "Wed, 07 Oct 2026 06:50:12 +0900",
+      "isoDate": "2026-10-06T21:50:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "OKX、サークルやリップルら4社の戦略的投資が完了──投資前評価額約4兆円",
+      "link": "https://coinpost.jp/?p=741437",
+      "published": "Wed, 07 Oct 2026 06:25:15 +0900",
+      "isoDate": "2026-10-06T21:25:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "人気NFT発のイーサリアムL2『Abstract』、12月15日閉鎖へ──淘汰加速",
       "link": "https://coinpost.jp/?p=741438",
       "published": "Wed, 07 Oct 2026 06:05:17 +0900",
       "isoDate": "2026-10-06T21:05:17Z"
@@ -173,20 +187,6 @@
       "link": "https://coinpost.jp/?p=741187",
       "published": "Tue, 06 Oct 2026 11:04:48 +0900",
       "isoDate": "2026-10-06T02:04:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クラーケン親企業ペイワード、一部の機関投資家向けに24時間決済を開始",
-      "link": "https://coinpost.jp/?p=741169",
-      "published": "Tue, 06 Oct 2026 10:15:26 +0900",
-      "isoDate": "2026-10-06T01:15:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、上昇上位15日を除くと3年間11%の損失に＝グレースケール分析",
-      "link": "https://coinpost.jp/?p=741170",
-      "published": "Tue, 06 Oct 2026 09:10:29 +0900",
-      "isoDate": "2026-10-06T00:10:29Z"
     }
   ]
 }
