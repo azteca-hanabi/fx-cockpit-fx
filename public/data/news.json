@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T00:50:39Z",
-  "last_checked": "2026-10-08T00:50:39Z",
+  "updated": "2026-10-08T07:09:04Z",
+  "last_checked": "2026-10-08T07:09:04Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "キオクシア---反発、サムスン電子の好業績発表などで波及効果",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1705213",
+      "published": "2026-10-08 05:15:15",
+      "isoDate": "2026-10-08T05:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均VIは大幅に低下、株価下落で過熱感が緩和",
+      "link": "https://jp.investing.com/news/forex-news/article-1705211",
+      "published": "2026-10-08 05:15:15",
+      "isoDate": "2026-10-08T05:15:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マスク氏、インドでのStarlink参入を「一部の寡頭支配者」が妨害と非難",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1705185",
+      "published": "2026-10-08 04:31:13",
+      "isoDate": "2026-10-08T04:31:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "30％超えリターン続出の「日本株AI投資戦略」、海運株でも上昇を先取り",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1705174",
+      "published": "2026-10-08 04:06:03",
+      "isoDate": "2026-10-08T04:06:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は195円安でスタート、コマツや三井物などが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1705100",
+      "published": "2026-10-08 00:45:09",
+      "isoDate": "2026-10-08T00:45:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NVIDIA株、今から100万円投資すると年末いくらに？　AIの「意外な回答」",
       "link": "https://jp.investing.com/news/stock-market-news/article-1705089",
       "published": "2026-10-08 00:08:17",
@@ -83,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ---25日線水準からのリバウンド狙い",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1705079",
-      "published": "2026-10-08 00:00:08",
-      "isoDate": "2026-10-08T00:00:08Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "サムスン、第3四半期の営業利益が過去最高を更新も市場予想には届かず",
-      "link": "https://jp.investing.com/news/earnings/article-1705067",
-      "published": "2026-10-07 23:21:27",
-      "isoDate": "2026-10-07T23:21:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米データセンター開発「アプライド・デジタル」、Q1売上高がアナリスト予想を上回る",
       "link": "https://jp.investing.com/news/earnings/article-1704972",
       "published": "2026-10-07 20:37:20",
       "isoDate": "2026-10-07T20:37:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー株が上昇、台湾のストライキ懸念を投資家が払拭",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1704474",
-      "published": "2026-10-07 13:13:33",
-      "isoDate": "2026-10-07T13:13:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1703937",
       "published": "2026-10-07 09:09:03",
       "isoDate": "2026-10-07T09:09:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "高市政権が80兆円規模で後押しの「フィジカルAI」、安川電機株が「大化け候補」に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1703592",
-      "published": "2026-10-06 22:56:20",
-      "isoDate": "2026-10-06T22:56:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだ「米国株2銘柄」、防衛テックとエネルギー株が2倍超に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1702485",
-      "published": "2026-10-06 09:04:08",
-      "isoDate": "2026-10-06T09:04:08Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ゲーム広告企業、メタプラネット傘下入りへ　ゲーマーにビットコイン浸透狙う",
+      "link": "https://coinpost.jp/?p=741795",
+      "published": "Thu, 08 Oct 2026 14:34:02 +0900",
+      "isoDate": "2026-10-08T05:34:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米大手銀ウェルズ・ファーゴ、クラーケン親会社と仮想通貨流動性で協議か＝報道",
+      "link": "https://coinpost.jp/?p=741746",
+      "published": "Thu, 08 Oct 2026 11:52:35 +0900",
+      "isoDate": "2026-10-08T02:52:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "XRPトレジャリー企業エバーノース、ナスダック上場は12日の見込み　事務手続きが遅延",
+      "link": "https://coinpost.jp/?p=741685",
+      "published": "Thu, 08 Oct 2026 10:25:04 +0900",
+      "isoDate": "2026-10-08T01:25:04Z"
+    },
     {
       "source": "CoinPost",
       "title": "「ビットコインはデジタル・ゴールドに向かう軌道に」ビットワイズCIO見解",
@@ -201,13 +222,6 @@
       "link": "https://coinpost.jp/?p=741573",
       "published": "Wed, 07 Oct 2026 14:49:41 +0900",
       "isoDate": "2026-10-07T05:49:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アプトスのアップグレード案「MonoMove」、最大55倍の実行速度向上を社内テストで確認",
-      "link": "https://coinpost.jp/?p=741462",
-      "published": "Wed, 07 Oct 2026 10:50:36 +0900",
-      "isoDate": "2026-10-07T01:50:36Z"
     }
   ]
 }
