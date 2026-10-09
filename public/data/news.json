@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-09T07:51:54Z",
-  "last_checked": "2026-10-09T07:51:54Z",
+  "updated": "2026-10-09T15:07:04Z",
+  "last_checked": "2026-10-09T15:07:04Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ドイツ、石油備蓄から1,500万バレルを放出へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1707184",
+      "published": "2026-10-09 12:16:27",
+      "isoDate": "2026-10-09T12:16:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSが金価格の押し目買い参入水準を示唆",
+      "link": "https://jp.investing.com/news/commodities-news/article-1706888",
+      "published": "2026-10-09 08:46:51",
+      "isoDate": "2026-10-09T08:46:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がイラン攻撃を否定、欧州天然ガス価格が2週間ぶり高値から反落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1706875",
+      "published": "2026-10-09 08:36:12",
+      "isoDate": "2026-10-09T08:36:12Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSは2027年に銅の供給不足が拡大すると予測、買いポジションを推奨",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1706866",
+      "published": "2026-10-09 08:20:46",
+      "isoDate": "2026-10-09T08:20:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Brent Oilが低ボラレンジ継続-$104.50突破が次の起爆剤",
@@ -39,54 +67,40 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドル安・米国債利回り低下で金価格1%超上昇、週間でも上昇へ",
+      "title": "金価格上昇、原油安と米連邦準備制度の利上げ見通しに注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1706638",
       "published": "2026-10-09 02:56:31",
       "isoDate": "2026-10-09T02:56:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、中間選挙前のイラン攻撃なしと発言——原油価格は小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1706562",
-      "published": "2026-10-08 23:46:15",
-      "isoDate": "2026-10-08T23:46:15Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロ安が輸出見通しを押し上げ、ユーロネクスト小麦が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1706368",
-      "published": "2026-10-08 20:01:56",
-      "isoDate": "2026-10-08T20:01:56Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "中東の供給懸念で欧州ディーゼルマージンが約3%上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1706327",
-      "published": "2026-10-08 18:18:12",
-      "isoDate": "2026-10-08T18:18:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、6週間ぶり安値――ケープサイズ運賃が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1706195",
-      "published": "2026-10-08 14:55:25",
-      "isoDate": "2026-10-08T14:55:25Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "FTSE 100：トランプ大統領がイラン攻撃を否定、原油安で株高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1706792",
-      "published": "2026-10-09 07:20:09",
-      "isoDate": "2026-10-09T07:20:09Z"
+      "title": "【市場反応】米・10月ミシガン大学消費者信頼感指数速報値は予想以上に悪化、ドル買い後退",
+      "link": "https://jp.investing.com/news/forex-news/article-1707421",
+      "published": "2026-10-09 14:30:05",
+      "isoDate": "2026-10-09T14:30:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップル、需要低迷でiPhone 18 Proの部品発注を削減＝日経",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1706732",
-      "published": "2026-10-09 06:21:18",
-      "isoDate": "2026-10-09T06:21:18Z"
+      "title": "NY外為：ドル買い優勢、米長期金利は上昇、原油下げ止まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1707374",
+      "published": "2026-10-09 14:00:05",
+      "isoDate": "2026-10-09T14:00:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "IONQが光子リンクで毎秒1,000回以上の量子もつれを達成",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1707265",
+      "published": "2026-10-09 13:03:04",
+      "isoDate": "2026-10-09T13:03:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIが決算後の「急騰」を予見した米国株、72％高、71％高、68％高の事例も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1706779",
+      "published": "2026-10-09 07:08:04",
+      "isoDate": "2026-10-09T07:08:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +111,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ソフトバンク株急落、OpenAIの収益報告がAI楽観論に打撃",
+      "title": "ソフトバンク株、OpenAIの収益懸念が和らぎ下落幅を縮小",
       "link": "https://jp.investing.com/news/stock-market-news/article-1706602",
       "published": "2026-10-09 01:04:36",
       "isoDate": "2026-10-09T01:04:36Z"
@@ -129,23 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1706100",
       "published": "2026-10-08 13:48:30",
       "isoDate": "2026-10-08T13:48:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "キオクシア---反発、サムスン電子の好業績発表などで波及効果",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1705213",
-      "published": "2026-10-08 05:15:15",
-      "isoDate": "2026-10-08T05:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "10月も急騰銘柄続出の米国株、AIが厳選した「今が狙い目の株」",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1703911",
-      "published": "2026-10-07 08:01:04",
-      "isoDate": "2026-10-07T08:01:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン短期保有者、含み損での取引所送金が6月以来最大＝クリプトクアント",
+      "link": "https://coinpost.jp/?p=742191",
+      "published": "Fri, 09 Oct 2026 17:57:40 +0900",
+      "isoDate": "2026-10-09T08:57:40Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、利益確定が年内2番目の規模に　1日約10.3億ドル＝サンティメント",
@@ -162,7 +169,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "公開鍵露出のビットコイン、供給の31.2％に　量子リスクで移行論＝グラスノード",
+      "title": "量子攻撃受け得るビットコイン、現在供給量の31.2％に増加＝グラスノード",
       "link": "https://coinpost.jp/?p=742115",
       "published": "Fri, 09 Oct 2026 14:40:02 +0900",
       "isoDate": "2026-10-09T05:40:02Z"
@@ -201,13 +208,6 @@
       "link": "https://coinpost.jp/?p=741947",
       "published": "Fri, 09 Oct 2026 10:05:07 +0900",
       "isoDate": "2026-10-09T01:05:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "EU当局、MiCA非準拠ステーブルコインを排除へ｜事業是正期限は3カ月以内",
-      "link": "https://coinpost.jp/?p=741934",
-      "published": "Fri, 09 Oct 2026 08:15:17 +0900",
-      "isoDate": "2026-10-08T23:15:17Z"
     }
   ]
 }
