@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-08T20:34:57Z",
-  "last_checked": "2026-10-08T20:34:57Z",
+  "updated": "2026-10-09T01:03:52Z",
+  "last_checked": "2026-10-09T01:03:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領、中間選挙前のイラン攻撃なしと発言——原油価格は小幅下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1706562",
+      "published": "2026-10-08 23:46:15",
+      "isoDate": "2026-10-08T23:46:15Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ユーロ安が輸出見通しを押し上げ、ユーロネクスト小麦が上昇",
@@ -64,41 +71,62 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1705562",
       "published": "2026-10-08 10:36:42",
       "isoDate": "2026-10-08T10:36:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ペルシャ湾の海運攻撃激化でヨーロッパ天然ガス先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1705408",
-      "published": "2026-10-08 08:36:42",
-      "isoDate": "2026-10-08T08:36:42Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "トランプ大統領、Meta Platformsに最大2500万ドル、SpaceXにも数百万ドル投資",
+      "title": "キオクシア株、100万円買えば年末いくらに？ AIに聞く「押し目買い」の好機",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1706569",
+      "published": "2026-10-09 00:08:17",
+      "isoDate": "2026-10-09T00:08:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米テック株安を映して売り先行へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1706544",
+      "published": "2026-10-08 23:30:08",
+      "isoDate": "2026-10-08T23:30:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "8日の米国市場ダイジェスト：米国株式市場はまちまち、原油高やハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1706504",
+      "published": "2026-10-08 21:45:05",
+      "isoDate": "2026-10-08T21:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY株式：NYダウは51.77ドル高、原油高やハイテクが重し",
+      "link": "https://jp.investing.com/news/forex-news/article-1706481",
+      "published": "2026-10-08 21:15:04",
+      "isoDate": "2026-10-08T21:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX、800MHz帯スペクトル買収でテレコム株が急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1706437",
+      "published": "2026-10-08 20:32:11",
+      "isoDate": "2026-10-08T20:32:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米スターバックス、チポトレ買収に向けて協議中、英FTが報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1706329",
+      "published": "2026-10-08 18:21:46",
+      "isoDate": "2026-10-08T18:21:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、最大2500万ドルのメタ株保有、SpaceXにも数百万ドル投資",
       "link": "https://jp.investing.com/news/stock-market-news/article-1706100",
       "published": "2026-10-08 13:48:30",
       "isoDate": "2026-10-08T13:48:30Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "LynxがAI半導体の年末に向けた上昇継続を予測",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1706009",
-      "published": "2026-10-08 13:06:17",
-      "isoDate": "2026-10-08T13:06:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシア---反発、サムスン電子の好業績発表などで波及効果",
       "link": "https://jp.investing.com/news/stock-market-news/article-1705213",
-      "published": "2026-10-08 05:15:15",
-      "isoDate": "2026-10-08T05:15:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均VIは大幅に低下、株価下落で過熱感が緩和",
-      "link": "https://jp.investing.com/news/forex-news/article-1705211",
       "published": "2026-10-08 05:15:15",
       "isoDate": "2026-10-08T05:15:15Z"
     },
@@ -115,37 +143,44 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1705089",
       "published": "2026-10-08 00:08:17",
       "isoDate": "2026-10-08T00:08:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米データセンター開発「アプライド・デジタル」、Q1売上高がアナリスト予想を上回る",
-      "link": "https://jp.investing.com/news/earnings/article-1704972",
-      "published": "2026-10-07 20:37:20",
-      "isoDate": "2026-10-07T20:37:20Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI選定の「米ハイテク株」が軒並み上昇、HPEは7月以降に60％超えリターン",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1704483",
-      "published": "2026-10-07 13:14:45",
-      "isoDate": "2026-10-07T13:14:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米半導体マイクロン株に200%上昇余地、ウォール街最高の目標株価",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1704214",
-      "published": "2026-10-07 11:38:29",
-      "isoDate": "2026-10-07T11:38:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX、NVIDIA製GPU大量購入に向け400億ドル調達を計画",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1703976",
-      "published": "2026-10-07 09:40:35",
-      "isoDate": "2026-10-07T09:40:35Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "EU当局、MiCA非準拠ステーブルコインのサービス終了を排除へ｜事業是正期限は3カ月以内",
+      "link": "https://coinpost.jp/?p=741934",
+      "published": "Fri, 09 Oct 2026 08:15:17 +0900",
+      "isoDate": "2026-10-08T23:15:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン試算、仮想通貨流入は今年約500億ドル｜第4四半期に勢い",
+      "link": "https://coinpost.jp/?p=741913",
+      "published": "Fri, 09 Oct 2026 08:05:13 +0900",
+      "isoDate": "2026-10-08T23:05:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米投資銀行、ビットコイン年末予想を9.7万ドルから10.9万ドルに引き上げ",
+      "link": "https://coinpost.jp/?p=741912",
+      "published": "Fri, 09 Oct 2026 07:50:11 +0900",
+      "isoDate": "2026-10-08T22:50:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "2010年採掘のビットコインが16年ぶりに移動、現在13億円相当で価値が約28.6万倍増",
+      "link": "https://coinpost.jp/?p=741914",
+      "published": "Fri, 09 Oct 2026 06:50:15 +0900",
+      "isoDate": "2026-10-08T21:50:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米政府が1580億円相当ビットコインを移動、取引所入金は確認されず",
+      "link": "https://coinpost.jp/?p=741916",
+      "published": "Fri, 09 Oct 2026 05:50:21 +0900",
+      "isoDate": "2026-10-08T20:50:21Z"
+    },
     {
       "source": "CoinPost",
       "title": "ギリシャ、個人の仮想通貨売買益に10％課税する法案──15％から低下",
@@ -173,48 +208,6 @@
       "link": "https://coinpost.jp/?p=741795",
       "published": "Thu, 08 Oct 2026 14:34:02 +0900",
       "isoDate": "2026-10-08T05:34:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米大手銀ウェルズ・ファーゴ、クラーケン親会社と仮想通貨流動性で協議か＝報道",
-      "link": "https://coinpost.jp/?p=741746",
-      "published": "Thu, 08 Oct 2026 11:52:35 +0900",
-      "isoDate": "2026-10-08T02:52:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "XRPトレジャリー企業エバーノース、ナスダック上場は12日の見込み　事務手続きが遅延",
-      "link": "https://coinpost.jp/?p=741685",
-      "published": "Thu, 08 Oct 2026 10:25:04 +0900",
-      "isoDate": "2026-10-08T01:25:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインはデジタル・ゴールドに向かう軌道に」ビットワイズCIO見解",
-      "link": "https://coinpost.jp/?p=741669",
-      "published": "Thu, 08 Oct 2026 09:40:02 +0900",
-      "isoDate": "2026-10-08T00:40:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "南アフリカの大手銀FNB、仮想通貨取引を開始　BTCやETHなど5銘柄",
-      "link": "https://coinpost.jp/?p=741663",
-      "published": "Thu, 08 Oct 2026 09:15:35 +0900",
-      "isoDate": "2026-10-08T00:15:35Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁、無登録の暗号資産交換業者一覧を専用ページで公開",
-      "link": "https://coinpost.jp/?p=741650",
-      "published": "Wed, 07 Oct 2026 18:40:33 +0900",
-      "isoDate": "2026-10-07T09:40:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ロビンフッド、ビットコイン約39.5億円分を自社保有　慎重姿勢から転換か＝報道",
-      "link": "https://coinpost.jp/?p=741641",
-      "published": "Wed, 07 Oct 2026 17:52:07 +0900",
-      "isoDate": "2026-10-07T08:52:07Z"
     }
   ]
 }
