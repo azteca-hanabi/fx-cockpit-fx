@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T18:20:57Z",
-  "last_checked": "2026-10-11T18:20:57Z",
+  "updated": "2026-10-11T22:19:40Z",
+  "last_checked": "2026-10-11T22:19:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "SpaceXのスターシップ、技術的マイルストーンが投資家の注目を集める",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707927",
+      "published": "2026-10-11 20:28:24",
+      "isoDate": "2026-10-11T20:28:24Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ナスダック上昇にもかかわらず「ネット株」が今年大幅下落している理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1707885",
       "published": "2026-10-11 12:32:13",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/economy-news/article-1707852",
       "published": "2026-10-11 06:39:44",
       "isoDate": "2026-10-11T06:39:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルの中国サプライヤー、ラックスシェアが米国特許調査の影響を軽視",
-      "link": "https://jp.investing.com/news/company-news/article-1707844",
-      "published": "2026-10-11 04:22:31",
-      "isoDate": "2026-10-11T04:22:31Z"
     },
     {
       "source": "Investing.com 外為",
