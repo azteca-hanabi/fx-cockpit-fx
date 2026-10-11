@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T06:14:49Z",
-  "last_checked": "2026-10-11T06:14:49Z",
+  "updated": "2026-10-11T13:19:32Z",
+  "last_checked": "2026-10-11T13:19:32Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ナスダック上昇にもかかわらず「ネット株」が今年大幅下落している理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707885",
+      "published": "2026-10-11 12:32:13",
+      "isoDate": "2026-10-11T12:32:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2025年以降の円安はオフショア取引時間帯に限定――バンク・オブ・アメリカ分析",
+      "link": "https://jp.investing.com/news/forex-news/article-1707865",
+      "published": "2026-10-11 08:39:26",
+      "isoDate": "2026-10-11T08:39:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "マスク氏、テラファブ半導体工場が競合他社を凌駕する可能性を示唆",
       "link": "https://jp.investing.com/news/company-news/article-1707842",
       "published": "2026-10-11 03:37:59",
@@ -111,10 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベネズエラ、イーロン・マスクのスターリンクに全国展開を正式承認",
-      "link": "https://jp.investing.com/news/company-news/article-1707731",
-      "published": "2026-10-10 08:34:46",
-      "isoDate": "2026-10-10T08:34:46Z"
+      "title": "ジェミニエージェント発表後もアルファベットがトップ銘柄に——アナリスト動向5選",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707730",
+      "published": "2026-10-10 08:25:33",
+      "isoDate": "2026-10-10T08:25:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1707690",
       "published": "2026-10-10 01:28:09",
       "isoDate": "2026-10-10T01:28:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSが金価格の押し目買い参入水準を示唆",
-      "link": "https://jp.investing.com/news/commodities-news/article-1706888",
-      "published": "2026-10-09 08:46:51",
-      "isoDate": "2026-10-09T08:46:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本の半導体株「リバウンド」鮮明、ディスコ出荷額が60％増で過去最高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1702518",
-      "published": "2026-10-09 06:11:49",
-      "isoDate": "2026-10-09T06:11:49Z"
     }
   ],
   "btc_items": [
