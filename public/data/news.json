@@ -1,10 +1,45 @@
 {
-  "updated": "2026-10-12T01:36:35Z",
-  "last_checked": "2026-10-12T01:36:35Z",
+  "updated": "2026-10-12T08:52:41Z",
+  "last_checked": "2026-10-12T08:52:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、約4,200ドルに小幅上昇――エネルギー停戦と中東リスクを注視",
+      "title": "【随時更新】Brent原油、102.50～106.00ドルのレンジで膠着-ADX10.72で方向感なし",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708108",
+      "published": "2026-10-12 07:08:46",
+      "isoDate": "2026-10-12T07:08:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、雲上限とSuperTrend抵抗帯で逆張りショート優勢の重要局面",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708109",
+      "published": "2026-10-12 07:08:46",
+      "isoDate": "2026-10-12T07:08:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、移動平均線と一目雲に挟まれレンジ継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708107",
+      "published": "2026-10-12 07:08:41",
+      "isoDate": "2026-10-12T07:08:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、$6.75の61.8%フィボ抵抗線を出来高減少でテスト中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708105",
+      "published": "2026-10-12 07:08:39",
+      "isoDate": "2026-10-12T07:08:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）、$4,245のレジスタンス突破が長期トレンド転換の鍵",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708104",
+      "published": "2026-10-12 07:08:29",
+      "isoDate": "2026-10-12T07:08:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が4,200ドル近辺で小幅上昇、エネルギー停戦と中東リスクを注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1707961",
       "published": "2026-10-12 01:17:28",
       "isoDate": "2026-10-12T01:17:28Z"
@@ -36,44 +71,65 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1707544",
       "published": "2026-10-09 19:18:16",
       "isoDate": "2026-10-09T19:18:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、$62.00抵抗帯で売り圧力再燃の局面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700885",
-      "published": "2026-10-09 19:13:01",
-      "isoDate": "2026-10-09T19:13:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$105.00レジスタンスに跳ね返されレンジ相場継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700884",
-      "published": "2026-10-09 19:12:48",
-      "isoDate": "2026-10-09T19:12:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,242の主要レジスタンス突破か押し戻しか",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700881",
-      "published": "2026-10-09 19:12:38",
-      "isoDate": "2026-10-09T19:12:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Crude Oil WTI、$91付近でレンジ相場-ブレイク待ちが鍵",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700883",
-      "published": "2026-10-09 19:12:27",
-      "isoDate": "2026-10-09T19:12:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、61.8%フィボとBBバンド上限で頭打ちの兆し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1700882",
-      "published": "2026-10-09 19:12:22",
-      "isoDate": "2026-10-09T19:12:22Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は切り返し、夕方はじり高",
+      "link": "https://jp.investing.com/news/forex-news/article-1708174",
+      "published": "2026-10-12 08:15:03",
+      "isoDate": "2026-10-12T08:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "急増する株式供給は米国強気相場を崩すか？ゴールドマン・サックスが見解",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1708172",
+      "published": "2026-10-12 08:05:45",
+      "isoDate": "2026-10-12T08:05:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は切り返し、堅調地合いを強める",
+      "link": "https://jp.investing.com/news/forex-news/article-1708120",
+      "published": "2026-10-12 07:15:03",
+      "isoDate": "2026-10-12T07:15:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は高値圏、ドル買い一服",
+      "link": "https://jp.investing.com/news/forex-news/article-1708036",
+      "published": "2026-10-12 06:00:03",
+      "isoDate": "2026-10-12T06:00:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】日経225、SMA(50)とSMA(20)の間で膠着──どちらに抜けるか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1707956",
+      "published": "2026-10-12 05:04:16",
+      "isoDate": "2026-10-12T05:04:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスンとSKハイニックスの株価が急落、中国CXMTがDRAM開発の進展を発表",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1708006",
+      "published": "2026-10-12 05:04:08",
+      "isoDate": "2026-10-12T05:04:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アジア株は高安まちまち、韓国半導体株はCXMTの脅威で急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707983",
+      "published": "2026-10-12 03:25:35",
+      "isoDate": "2026-10-12T03:25:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "40%、+39%、+19%：AIが予測したブルーチップの急騰銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707976",
+      "published": "2026-10-12 02:32:04",
+      "isoDate": "2026-10-12T02:32:04Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "テスラへの投資はもう手遅れか？「100万円」が年末157万円になる強気シナリオも",
@@ -83,69 +139,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は安値もみ合い、ドル売り地合いで",
-      "link": "https://jp.investing.com/news/forex-news/article-1707953",
-      "published": "2026-10-12 00:45:03",
-      "isoDate": "2026-10-12T00:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は軟化、米金利・原油にらみ",
-      "link": "https://jp.investing.com/news/forex-news/article-1707950",
-      "published": "2026-10-12 00:15:03",
-      "isoDate": "2026-10-12T00:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アマゾン、AIスタートアップDecartを約70億ドルで買収交渉中＝WSJ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1707942",
-      "published": "2026-10-11 23:25:02",
-      "isoDate": "2026-10-11T23:25:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXのスターシップ、技術的マイルストーンが投資家の注目を集める",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1707927",
-      "published": "2026-10-11 20:28:24",
-      "isoDate": "2026-10-11T20:28:24Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ナスダック上昇にもかかわらず「ネット株」が今年大幅下落している理由",
       "link": "https://jp.investing.com/news/stock-market-news/article-1707885",
       "published": "2026-10-11 12:32:13",
       "isoDate": "2026-10-11T12:32:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡問題で米国の立場を拒否、トランプ氏はリヤド攻撃を受け軍事行動を検討",
-      "link": "https://jp.investing.com/news/economy-news/article-1707852",
-      "published": "2026-10-11 06:39:44",
-      "isoDate": "2026-10-11T06:39:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マスク氏、テラファブ半導体工場が競合他社を凌駕する可能性を示唆",
-      "link": "https://jp.investing.com/news/company-news/article-1707842",
-      "published": "2026-10-11 03:37:59",
-      "isoDate": "2026-10-11T03:37:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIバブル崩壊を恐れるな！「暴落したら買うべき米国株」をAIで探る",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1707740",
-      "published": "2026-10-10 10:18:46",
-      "isoDate": "2026-10-10T10:18:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "来週の相場で注目すべき3つのポイント：IMF世界経済見通し、国外大手半導体決算、米CPI",
-      "link": "https://jp.investing.com/news/forex-news/article-1707728",
-      "published": "2026-10-10 08:15:04",
-      "isoDate": "2026-10-10T08:15:04Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "カルシ、トランプ次期報道官の起用を的中させた取引を調査　確率1％",
+      "link": "https://coinpost.jp/?p=742393",
+      "published": "Mon, 12 Oct 2026 12:54:54 +0900",
+      "isoDate": "2026-10-12T03:54:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "FTX元幹部、ネットフリックスによる事件の「ラブストーリー」化を批判",
+      "link": "https://coinpost.jp/?p=742382",
+      "published": "Mon, 12 Oct 2026 12:05:44 +0900",
+      "isoDate": "2026-10-12T03:05:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "仮想通貨ウォレット大手レジャー、被害デバイス内に不正ハードウェアを確認",
@@ -194,13 +208,6 @@
       "link": "https://coinpost.jp/?p=742267",
       "published": "Sat, 10 Oct 2026 11:40:52 +0900",
       "isoDate": "2026-10-10T02:40:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン上昇継続の条件は？　コインシェアーズ分析",
-      "link": "https://coinpost.jp/?p=742259",
-      "published": "Sat, 10 Oct 2026 10:05:26 +0900",
-      "isoDate": "2026-10-10T01:05:26Z"
     }
   ]
 }
