@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-13T08:15:42Z",
-  "last_checked": "2026-10-13T08:15:42Z",
+  "updated": "2026-10-13T16:18:01Z",
+  "last_checked": "2026-10-13T16:18:01Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "OPECが2027年の石油需要見通しを引き上げ、2026年予測を下方修正",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1710257",
+      "published": "2026-10-13 13:32:13",
+      "isoDate": "2026-10-13T13:32:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシア産石油のインド向け運賃、10月に過去最高を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1710127",
+      "published": "2026-10-13 12:59:14",
+      "isoDate": "2026-10-13T12:59:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの輸送障害とノルウェーの供給停止で欧州天然ガス急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1709544",
+      "published": "2026-10-13 08:41:10",
+      "isoDate": "2026-10-13T08:41:10Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】Brent Oil、ADX10.67の超低水準でレンジ相場--だましに警戒",
@@ -46,40 +67,47 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドル安と中東緊張でインフレ懸念が持続、金価格が反発",
+      "title": "金価格が小幅上昇、原油安が支援―米インフレ指標に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1709249",
       "published": "2026-10-13 01:20:39",
       "isoDate": "2026-10-13T01:20:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ロシアのディーゼル輸出増加示唆を受け、原油価格が小幅下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1709225",
-      "published": "2026-10-13 00:30:32",
-      "isoDate": "2026-10-13T00:30:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アルジェリアが小麦購入入札を実施、欧州小麦先物が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1709071",
-      "published": "2026-10-12 18:49:28",
-      "isoDate": "2026-10-12T18:49:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、ロシアとのディーゼル取引を超党派の批判の中で擁護",
-      "link": "https://jp.investing.com/news/commodities-news/article-1709008",
-      "published": "2026-10-12 15:39:44",
-      "isoDate": "2026-10-12T15:39:44Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "【随時更新】日経225がダブルトップ完成・VWAP割れで下落バイアス強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1707956",
-      "published": "2026-10-13 05:08:03",
-      "isoDate": "2026-10-13T05:08:03Z"
+      "title": "SpaceXのD2C攻勢でパイパー・サンドラーがAst Spacemobileを格下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1710193",
+      "published": "2026-10-13 13:10:48",
+      "isoDate": "2026-10-13T13:10:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、マイクロソフト、Oracleがデータセンターセキュリティ作業部会を設立",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1710137",
+      "published": "2026-10-13 13:02:03",
+      "isoDate": "2026-10-13T13:02:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国CXMTの主張がマイクロンテクノロジーとSanDiskを脅かさない7つの理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1710134",
+      "published": "2026-10-13 12:59:09",
+      "isoDate": "2026-10-13T12:59:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "キオクシアが13％急落、半導体株に「絶好の買い場」到来か？　AIに聞く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1709594",
+      "published": "2026-10-13 09:23:26",
+      "isoDate": "2026-10-13T09:23:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今なら55%オフで「AI厳選銘柄」にアクセス、InvestingProの決算シーズン特別セール",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1709520",
+      "published": "2026-10-13 07:20:42",
+      "isoDate": "2026-10-13T07:20:42Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1709310",
       "published": "2026-10-13 04:00:17",
       "isoDate": "2026-10-13T04:00:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、アドバンテが約483円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1709293",
-      "published": "2026-10-13 03:30:16",
-      "isoDate": "2026-10-13T03:30:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,31 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロンテクノロジー、自社株買い上限を351.6億ドルに引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1708864",
-      "published": "2026-10-12 13:50:57",
-      "isoDate": "2026-10-12T13:50:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国BYD、2030年までに欧州で4万人雇用へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1708711",
-      "published": "2026-10-12 13:02:10",
-      "isoDate": "2026-10-12T13:02:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AI選定の「米ハイテク株」が月初来38%急騰、好決算とアナリスト強気評価が追い風",
       "link": "https://jp.investing.com/news/stock-market-news/article-1708492",
       "published": "2026-10-12 11:13:46",
       "isoDate": "2026-10-12T11:13:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は切り返し、夕方はじり高",
-      "link": "https://jp.investing.com/news/forex-news/article-1708174",
-      "published": "2026-10-12 08:15:03",
-      "isoDate": "2026-10-12T08:15:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,27 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット、初のユーロ円建転換社債を520億円相当分発行へ",
+      "link": "https://coinpost.jp/?p=742629",
+      "published": "Tue, 13 Oct 2026 21:30:11 +0900",
+      "isoDate": "2026-10-13T12:30:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "利上げ後アルトコイン中央値は21％上昇、実質金利が鍵＝バイナンス・リサーチ",
+      "link": "https://coinpost.jp/?p=742520",
+      "published": "Tue, 13 Oct 2026 19:16:03 +0900",
+      "isoDate": "2026-10-13T10:16:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国地銀、ビットコイン担保のウォン建て融資を開始",
+      "link": "https://coinpost.jp/?p=742478",
+      "published": "Tue, 13 Oct 2026 17:15:01 +0900",
+      "isoDate": "2026-10-13T08:15:01Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場ビットコインマイナーIREN、AIクラウドでアンソロピックと複数年契約か＝報道",
