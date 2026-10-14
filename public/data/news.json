@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-14T11:38:47Z",
-  "last_checked": "2026-10-14T11:38:47Z",
+  "updated": "2026-10-14T16:52:26Z",
+  "last_checked": "2026-10-14T16:52:26Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アジアの精製業者、タンカー運賃の記録的高騰で利益率が圧迫される",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1711953",
+      "published": "2026-10-14 14:52:50",
+      "isoDate": "2026-10-14T14:52:50Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ノルウェー供給回復で欧州ガス価格が下落、寒波が下値を支える",
@@ -53,40 +60,33 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格下落、Fed利上げ見通しと米インフレ指標を注視",
+      "title": "米インフレ加速でFRBの利上げ観測強まり、金価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1710835",
       "published": "2026-10-14 01:43:07",
       "isoDate": "2026-10-14T01:43:07Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡攻撃とフーシ派の脅威で原油価格が上昇",
+      "title": "ホルムズ海峡攻撃とフーシ派の脅威で原油相場が乱高下",
       "link": "https://jp.investing.com/news/commodities-news/article-1710781",
       "published": "2026-10-14 00:01:18",
       "isoDate": "2026-10-14T00:01:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPECが2027年の石油需要見通しを引き上げ、2026年予測を下方修正",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1710257",
-      "published": "2026-10-13 13:32:13",
-      "isoDate": "2026-10-13T13:32:13Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡で新たな戦術を採用、米中間選挙前に緊張高まる",
-      "link": "https://jp.investing.com/news/economy-news/article-1711337",
-      "published": "2026-10-14 11:01:13",
-      "isoDate": "2026-10-14T11:01:13Z"
+      "title": "【市場反応】米9月消費者物価指数（CPI）は加速、ドル買い強まる",
+      "link": "https://jp.investing.com/news/forex-news/article-1711691",
+      "published": "2026-10-14 13:00:05",
+      "isoDate": "2026-10-14T13:00:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "DanaherとNvidiaが提携、AIをラボ機器に統合",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1711242",
-      "published": "2026-10-14 10:07:03",
-      "isoDate": "2026-10-14T10:07:03Z"
+      "title": "IONQが1株40ドルで20億ドルの株式公募を実施",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1711679",
+      "published": "2026-10-14 12:53:02",
+      "isoDate": "2026-10-14T12:53:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ストライブ、2日連続でビットコイン追加購入を発表　上場企業保有量で世界4位に",
+      "link": "https://coinpost.jp/?p=742947",
+      "published": "Wed, 14 Oct 2026 21:45:00 +0900",
+      "isoDate": "2026-10-14T12:45:00Z"
+    },
     {
       "source": "CoinPost",
       "title": "韓国、仮想通貨の課税基準を11月にも告示へ　約30万円超に22％",
