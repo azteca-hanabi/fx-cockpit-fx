@@ -1,48 +1,62 @@
 {
-  "updated": "2026-10-15T18:31:19Z",
-  "last_checked": "2026-10-15T18:31:19Z",
+  "updated": "2026-10-15T22:00:48Z",
+  "last_checked": "2026-10-15T22:00:48Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "TDコーウェン、原油価格予測を引き上げ―カナダ産原油生産者に好機",
+      "link": "https://jp.investing.com/news/commodities-news/article-1713715",
+      "published": "2026-10-15 20:20:10",
+      "isoDate": "2026-10-15T20:20:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油が97.92ドルで過熱ゾーン突入、RSI・MFIが警戒サイン",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708107",
+      "published": "2026-10-15 19:12:49",
+      "isoDate": "2026-10-15T19:12:49Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper、$6.53-$6.55の主要サポートで攻防激化",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708105",
+      "published": "2026-10-15 19:12:39",
+      "isoDate": "2026-10-15T19:12:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、ベアフラッグ完成後も$55.56で強反発-戻り売り優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708109",
+      "published": "2026-10-15 19:12:35",
+      "isoDate": "2026-10-15T19:12:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent原油、$104〜$107.50のレンジで方向感喪失──ブレイク待ち",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708108",
+      "published": "2026-10-15 19:12:34",
+      "isoDate": "2026-10-15T19:12:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）が$4,150〜$4,220のレンジ中央で膠着、ブレイク待ち",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708104",
+      "published": "2026-10-15 19:12:07",
+      "isoDate": "2026-10-15T19:12:07Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西欧のガソリン精製マージン、月間最安値後に1バレルあたり約9ドル急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1713631",
+      "published": "2026-10-15 19:10:26",
+      "isoDate": "2026-10-15T19:10:26Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡の脅威を背景に、欧州天然ガス価格は数年ぶりの高値圏で推移",
       "link": "https://jp.investing.com/news/commodities-news/article-1712635",
       "published": "2026-10-15 08:43:22",
       "isoDate": "2026-10-15T08:43:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、38.2%フィボナッチ戻りに接近-MFI過熱で調整警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708107",
-      "published": "2026-10-15 07:11:30",
-      "isoDate": "2026-10-15T07:11:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent原油$104.39でレンジ膠着、ADX沈静化でブレイク待ち",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708108",
-      "published": "2026-10-15 07:11:12",
-      "isoDate": "2026-10-15T07:11:12Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、強い下落トレンド継続中-$55.10サポート攻防が焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708109",
-      "published": "2026-10-15 07:10:57",
-      "isoDate": "2026-10-15T07:10:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅が$6.52サポートをテスト、下落トレンド継続で転換点に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708105",
-      "published": "2026-10-15 07:10:41",
-      "isoDate": "2026-10-15T07:10:41Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金スポット、$4,200-4,215の抵抗帯で戻り売り圧力が継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708104",
-      "published": "2026-10-15 07:10:27",
-      "isoDate": "2026-10-15T07:10:27Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -57,26 +71,19 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1712330",
       "published": "2026-10-15 01:54:38",
       "isoDate": "2026-10-15T01:54:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格、ホルムズ海峡近くのタンカー攻撃と米制裁緩和報道で下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1712289",
-      "published": "2026-10-15 00:25:52",
-      "isoDate": "2026-10-15T00:25:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アジアの精製業者、タンカー運賃の記録的高騰で利益率が圧迫される",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1711953",
-      "published": "2026-10-14 14:52:50",
-      "isoDate": "2026-10-14T14:52:50Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaのCEO、CoreWeaveに財政支援不要と表明——株価は下落続く",
+      "title": "NY株式：NYダウは556.21ドル高、長期金利の低下を好感",
+      "link": "https://jp.investing.com/news/forex-news/article-1713792",
+      "published": "2026-10-15 21:30:05",
+      "isoDate": "2026-10-15T21:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コアウィーブに「財務支援は不要」、エヌビディアCEOが強調",
       "link": "https://jp.investing.com/news/stock-market-news/article-1713552",
       "published": "2026-10-15 15:57:23",
       "isoDate": "2026-10-15T15:57:23Z"
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1713325",
       "published": "2026-10-15 13:32:10",
       "isoDate": "2026-10-15T13:32:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は下げ渋り、戻りは鈍い",
-      "link": "https://jp.investing.com/news/forex-news/article-1712632",
-      "published": "2026-10-15 08:45:12",
-      "isoDate": "2026-10-15T08:45:12Z"
     },
     {
       "source": "Investing.com 外為",
