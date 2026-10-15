@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T09:04:27Z",
-  "last_checked": "2026-10-15T09:04:27Z",
+  "updated": "2026-10-15T14:19:17Z",
+  "last_checked": "2026-10-15T14:19:17Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -53,14 +53,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "米インフレ加速でFRB利上げ懸念、金価格は1%反発",
+      "title": "金価格が反発、利回り低下とドル軟化が支援――米インフレ指標は予想上回る",
       "link": "https://jp.investing.com/news/commodities-news/article-1712330",
       "published": "2026-10-15 01:54:38",
       "isoDate": "2026-10-15T01:54:38Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格下落、ホルムズ海峡付近のタンカー攻撃と米制裁緩和報道で",
+      "title": "ホルムズ海峡付近のタンカー攻撃と米制裁緩和報道で原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1712289",
       "published": "2026-10-15 00:25:52",
       "isoDate": "2026-10-15T00:25:52Z"
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ServiceNow、企業向けAIエージェントを管理する「AI Passport」を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1713233",
+      "published": "2026-10-15 13:08:08",
+      "isoDate": "2026-10-15T13:08:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "東京為替：ドル・円は下げ渋り、戻りは鈍い",
+      "link": "https://jp.investing.com/news/forex-news/article-1712632",
+      "published": "2026-10-15 08:45:12",
+      "isoDate": "2026-10-15T08:45:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【本日深夜まで最大55％オフ】米国株投資の「AIツール」と厳選銘柄リスト",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1712547",
+      "published": "2026-10-15 07:09:46",
+      "isoDate": "2026-10-15T07:09:46Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "月初から35％急落の「キオクシア株」はどこまで下がる？ 買い場はいくらか？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1712459",
       "published": "2026-10-15 06:12:17",
       "isoDate": "2026-10-15T06:12:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾セミコンダクター・マニュファクチャリング、AI需要でQ3純利益が過去最高を更新",
-      "link": "https://jp.investing.com/news/earnings/article-1712445",
-      "published": "2026-10-15 05:40:34",
-      "isoDate": "2026-10-15T05:40:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は大幅続落、アドバンテが約1213円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1712382",
-      "published": "2026-10-15 03:45:16",
-      "isoDate": "2026-10-15T03:45:16Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1712319",
       "published": "2026-10-15 01:15:12",
       "isoDate": "2026-10-15T01:15:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米利上げ観測を背景にテック株中心に売り優勢の展開へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1712255",
-      "published": "2026-10-14 23:15:06",
-      "isoDate": "2026-10-14T23:15:06Z"
     },
     {
       "source": "Investing.com 外為",
@@ -183,7 +183,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "仮想通貨アナリストの見方が強気に転換、2022年末の底からの回復より急速＝クリプトクアント",
+      "title": "仮想通貨アナリストの相場観が強気に、2022年末の底打ち反転より急速＝クリプトクアント",
       "link": "https://coinpost.jp/?p=742997",
       "published": "Thu, 15 Oct 2026 10:30:04 +0900",
       "isoDate": "2026-10-15T01:30:04Z"
