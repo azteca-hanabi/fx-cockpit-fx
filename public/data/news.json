@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15T14:19:17Z",
-  "last_checked": "2026-10-15T14:19:17Z",
+  "updated": "2026-10-15T18:31:19Z",
+  "last_checked": "2026-10-15T18:31:19Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -60,7 +60,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡付近のタンカー攻撃と米制裁緩和報道で原油価格が下落",
+      "title": "原油価格、ホルムズ海峡近くのタンカー攻撃と米制裁緩和報道で下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1712289",
       "published": "2026-10-15 00:25:52",
       "isoDate": "2026-10-15T00:25:52Z"
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ServiceNow、企業向けAIエージェントを管理する「AI Passport」を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1713233",
-      "published": "2026-10-15 13:08:08",
-      "isoDate": "2026-10-15T13:08:08Z"
+      "title": "NvidiaのCEO、CoreWeaveに財政支援不要と表明——株価は下落続く",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1713552",
+      "published": "2026-10-15 15:57:23",
+      "isoDate": "2026-10-15T15:57:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラとスペースXの合併、12月前に発表の可能性＝バークレイズ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1713325",
+      "published": "2026-10-15 13:32:10",
+      "isoDate": "2026-10-15T13:32:10Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1712108",
       "published": "2026-10-14 20:07:02",
       "isoDate": "2026-10-14T20:07:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが上昇を予知した米「石油精製株」が115％高、トランプ政権も支援表明",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1711128",
-      "published": "2026-10-14 08:30:54",
-      "isoDate": "2026-10-14T08:30:54Z"
     },
     {
       "source": "Investing.com 外為",
