@@ -1,48 +1,48 @@
 {
-  "updated": "2026-10-16T18:57:14Z",
-  "last_checked": "2026-10-16T18:57:14Z",
+  "updated": "2026-10-16T21:59:15Z",
+  "last_checked": "2026-10-16T21:59:15Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）5時間足、4,100-4,250ドルのレンジでだましブレイクに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708104",
+      "published": "2026-10-16 19:12:42",
+      "isoDate": "2026-10-16T19:12:42Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅が$6.56まで下落、MFI売られ過ぎで短期反発に警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708105",
+      "published": "2026-10-16 19:12:35",
+      "isoDate": "2026-10-16T19:12:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、RSI78超・BB上抜けで天井圏突入-押し目か反落か",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708107",
+      "published": "2026-10-16 19:12:14",
+      "isoDate": "2026-10-16T19:12:14Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent原油が110ドルの歴史的抵抗線に迫る、過熱サイン点灯",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708108",
+      "published": "2026-10-16 19:12:05",
+      "isoDate": "2026-10-16T19:12:05Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver（5時間足）強い下降トレンド継続、57.80〜58.60が上値の壁",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708109",
+      "published": "2026-10-16 19:12:05",
+      "isoDate": "2026-10-16T19:12:05Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "欧州天然ガス、2022年高値圏で推移し3週連続の週間上昇を確保",
       "link": "https://jp.investing.com/news/commodities-news/article-1714149",
       "published": "2026-10-16 08:26:50",
       "isoDate": "2026-10-16T08:26:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、MFI90超の買われすぎでレジスタンスに接近",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708107",
-      "published": "2026-10-16 07:08:35",
-      "isoDate": "2026-10-16T07:08:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（Silver）、$58.50～59.00の抵抗帯で下落トレンドと短期反発が拮抗",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708109",
-      "published": "2026-10-16 07:08:29",
-      "isoDate": "2026-10-16T07:08:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$104〜$107のレンジで方向感喪失-上抜け待ち",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708108",
-      "published": "2026-10-16 07:08:27",
-      "isoDate": "2026-10-16T07:08:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Copper、5時間足で売られすぎ水準に到達-サポート6.50が攻防の焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708105",
-      "published": "2026-10-16 07:08:25",
-      "isoDate": "2026-10-16T07:08:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ゴールド5時間足、$4,201付近の強力レジスタンス帯で分岐点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1708104",
-      "published": "2026-10-16 07:07:35",
-      "isoDate": "2026-10-16T07:07:35Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -148,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始　アジア展開も",
+      "link": "https://coinpost.jp/?p=743405",
+      "published": "Sat, 17 Oct 2026 06:50:33 +0900",
+      "isoDate": "2026-10-16T21:50:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "中国発老舗Coboの個人向け仮想通貨ウォレット終了へ、公開から約9年",
+      "link": "https://coinpost.jp/?p=743406",
+      "published": "Sat, 17 Oct 2026 06:15:36 +0900",
+      "isoDate": "2026-10-16T21:15:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "2022年以来初、米国がビットコイン純輸入国に",
+      "link": "https://coinpost.jp/?p=743388",
+      "published": "Sat, 17 Oct 2026 05:00:54 +0900",
+      "isoDate": "2026-10-16T20:00:54Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ANAP、ビットコイン評価損43.7億円を計上　前期の評価益12億円から反転",
       "link": "https://coinpost.jp/?p=743366",
       "published": "Fri, 16 Oct 2026 17:24:38 +0900",
@@ -194,20 +215,6 @@
       "link": "https://coinpost.jp/?p=743283",
       "published": "Fri, 16 Oct 2026 09:00:05 +0900",
       "isoDate": "2026-10-16T00:00:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
-      "link": "https://coinpost.jp/?p=743097",
-      "published": "Thu, 15 Oct 2026 14:30:19 +0900",
-      "isoDate": "2026-10-15T05:30:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "楽天ウォレット、現物と証拠金のアプリを統合　パスキー必須に",
-      "link": "https://coinpost.jp/?p=743139",
-      "published": "Thu, 15 Oct 2026 13:59:03 +0900",
-      "isoDate": "2026-10-15T04:59:03Z"
     }
   ]
 }
