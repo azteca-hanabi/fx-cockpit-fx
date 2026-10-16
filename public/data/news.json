@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-15T22:00:48Z",
-  "last_checked": "2026-10-15T22:00:48Z",
+  "updated": "2026-10-16T00:37:23Z",
+  "last_checked": "2026-10-16T00:37:23Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格が小幅下落、WTIは週間で大幅高の見通し",
+      "link": "https://jp.investing.com/news/commodities-news/article-1713851",
+      "published": "2026-10-15 23:57:39",
+      "isoDate": "2026-10-15T23:57:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "TDコーウェン、原油価格予測を引き上げ―カナダ産原油生産者に好機",
@@ -64,16 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1712393",
       "published": "2026-10-15 04:03:03",
       "isoDate": "2026-10-15T04:03:03Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が反発、利回り低下とドル軟化が支援――米インフレ指標は予想上回る",
-      "link": "https://jp.investing.com/news/commodities-news/article-1712330",
-      "published": "2026-10-15 01:54:38",
-      "isoDate": "2026-10-15T01:54:38Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "強弱材料 10/16",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1713838",
+      "published": "2026-10-15 23:45:08",
+      "isoDate": "2026-10-15T23:45:08Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NY株式：NYダウは556.21ドル高、長期金利の低下を好感",
@@ -83,10 +90,24 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "コアウィーブに「財務支援は不要」、エヌビディアCEOが強調",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1713552",
-      "published": "2026-10-15 15:57:23",
-      "isoDate": "2026-10-15T15:57:23Z"
+      "title": "プルデンシャル生命の不祥事、米親会社の信用力に波及、S&Pが格付け見通し引き下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1713557",
+      "published": "2026-10-15 16:03:28",
+      "isoDate": "2026-10-15T16:03:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーロン・マスク、アマゾンの競合サービス立ち上げを示唆",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1713365",
+      "published": "2026-10-15 13:47:47",
+      "isoDate": "2026-10-15T13:47:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "コカ・コーラ株が史上最高値、年間リターン40%も「割高」の指摘",
+      "link": "https://jp.investing.com/news/company-news/article-93CH-1713306",
+      "published": "2026-10-15 13:33:18",
+      "isoDate": "2026-10-15T13:33:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,34 +139,20 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "【今なら55％オフ】AI予測が捉えた「日本株の鉱脈」、金融・海運株で30％超えリターン続出",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1712321",
-      "published": "2026-10-15 01:25:05",
-      "isoDate": "2026-10-15T01:25:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均は863円安でスタート、イビデンやキオクシアHDなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1712319",
-      "published": "2026-10-15 01:15:12",
-      "isoDate": "2026-10-15T01:15:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップル、12月に中国でAIプラットフォームを提供開始へ――ブルームバーグ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1712108",
       "published": "2026-10-14 20:07:02",
       "isoDate": "2026-10-14T20:07:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルへの投資はもう手遅れか？ 今「100万円」投資すれば年末いくらになる？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1710868",
-      "published": "2026-10-14 02:55:27",
-      "isoDate": "2026-10-14T02:55:27Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレット大手レジャーが新機器「Ledger Atom」を発表、不正装置対策も計画",
+      "link": "https://coinpost.jp/?p=743283",
+      "published": "Fri, 16 Oct 2026 09:00:05 +0900",
+      "isoDate": "2026-10-16T00:00:05Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン相場が膠着状態、8万ドルが重要な分岐点に＝Glassnode分析",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=742983",
       "published": "Thu, 15 Oct 2026 08:22:44 +0900",
       "isoDate": "2026-10-14T23:22:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、コインベースなど一部企業の業績連動バイナリーオプションを承認",
-      "link": "https://coinpost.jp/?p=742971",
-      "published": "Thu, 15 Oct 2026 07:25:52 +0900",
-      "isoDate": "2026-10-14T22:25:52Z"
     }
   ]
 }
