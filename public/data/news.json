@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T13:06:51Z",
-  "last_checked": "2026-10-17T13:06:51Z",
+  "updated": "2026-10-17T16:35:57Z",
+  "last_checked": "2026-10-17T16:35:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,7 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "チップ指数SOX、AI懸念深まる中2008年以来最長の連続下落を記録",
+      "title": "米半導体株が全面安、SOX指数は2008年以来最長の8日連続安",
       "link": "https://jp.investing.com/news/stock-market-news/article-1715181",
       "published": "2026-10-17 12:04:36",
       "isoDate": "2026-10-17T12:04:36Z"
@@ -104,6 +104,13 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "スターリンク・モバイルはアップルに影響を与えるか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715087",
+      "published": "2026-10-17 00:39:39",
+      "isoDate": "2026-10-17T00:39:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "AIバブル崩壊を恐れるな！「暴落したら買うべき米国株」をAIで探る",
       "link": "https://jp.investing.com/news/stock-market-news/article-1707740",
       "published": "2026-10-16 22:51:33",
@@ -118,17 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、メモリ株急落で買い推奨の2銘柄を提示",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1714478",
-      "published": "2026-10-16 12:00:59",
-      "isoDate": "2026-10-16T12:00:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ共和党の敗北で米国株は上昇、日本株は「苦戦」という不穏なシナリオ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1703937",
-      "published": "2026-10-16 08:35:20",
-      "isoDate": "2026-10-16T08:35:20Z"
+      "title": "NYダウは175.28ドル安、AI債務不安が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1715032",
+      "published": "2026-10-16 21:30:03",
+      "isoDate": "2026-10-16T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
