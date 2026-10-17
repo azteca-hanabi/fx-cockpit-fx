@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T21:59:15Z",
-  "last_checked": "2026-10-16T21:59:15Z",
+  "updated": "2026-10-17T00:19:40Z",
+  "last_checked": "2026-10-17T00:19:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アップルの折りたたみ式iPhone、予約開始直後に完売",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1714540",
-      "published": "2026-10-16 12:29:35",
-      "isoDate": "2026-10-16T12:29:35Z"
+      "title": "AIバブル崩壊を恐れるな！「暴落したら買うべき米国株」をAIで探る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1707740",
+      "published": "2026-10-16 22:51:33",
+      "isoDate": "2026-10-16T22:51:33Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがRTX Sparkラップトップを発表、価格は2,599ドルから",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1714484",
-      "published": "2026-10-16 12:03:06",
-      "isoDate": "2026-10-16T12:03:06Z"
+      "title": "グーグルへの投資は手遅れか？　強気シナリオでは「100万円」が年末120万円に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1709204",
+      "published": "2026-10-16 22:46:41",
+      "isoDate": "2026-10-16T22:46:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NY為替：10月連邦公開市場委員会（FOMC）での追加利上げ確率が低下",
+      "link": "https://jp.investing.com/news/forex-news/article-1715041",
+      "published": "2026-10-16 21:45:04",
+      "isoDate": "2026-10-16T21:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NYダウは175.28ドル安、AI債務不安が再燃",
+      "link": "https://jp.investing.com/news/forex-news/article-1715032",
+      "published": "2026-10-16 21:30:03",
+      "isoDate": "2026-10-16T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,34 +132,34 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "プルデンシャル生命の不祥事、米親会社の信用力に波及、S&Pが格付け見通し引き下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1713557",
-      "published": "2026-10-15 16:03:28",
-      "isoDate": "2026-10-15T16:03:28Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーロン・マスク、アマゾンの競合サービス立ち上げを示唆",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1713365",
-      "published": "2026-10-15 13:47:47",
-      "isoDate": "2026-10-15T13:47:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "コカ・コーラ株が史上最高値、年間リターン40%も「割高」の指摘",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1713306",
-      "published": "2026-10-15 13:33:18",
-      "isoDate": "2026-10-15T13:33:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "急上昇続出の「米エネルギー株」、AI選定リストが年初来80％高に",
       "link": "https://jp.investing.com/news/stock-market-news/article-1712801",
       "published": "2026-10-15 10:25:37",
       "isoDate": "2026-10-15T10:25:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "月初から35％急落の「キオクシア株」はどこまで下がる？ 買い場はいくらか？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1712459",
+      "published": "2026-10-15 06:12:17",
+      "isoDate": "2026-10-15T06:12:17Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ウォーシュFRB議長が利上げ示唆せず観測後退、ビットコイン当面レンジ相場",
+      "link": "https://coinpost.jp/?p=743403",
+      "published": "Sat, 17 Oct 2026 09:10:57 +0900",
+      "isoDate": "2026-10-17T00:10:57Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "東証上場のunbanked、金連動トークン「Kinka」の暗号資産事業を廃止　採算難",
+      "link": "https://coinpost.jp/?p=743404",
+      "published": "Sat, 17 Oct 2026 07:30:59 +0900",
+      "isoDate": "2026-10-16T22:30:59Z"
+    },
     {
       "source": "CoinPost",
       "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始　アジア展開も",
@@ -201,20 +215,6 @@
       "link": "https://coinpost.jp/?p=743286",
       "published": "Fri, 16 Oct 2026 10:50:31 +0900",
       "isoDate": "2026-10-16T01:50:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "MSCI新ルール決定、メタプラネットなどビットコイン保有企業の指数除外可能性高まる",
-      "link": "https://coinpost.jp/?p=743293",
-      "published": "Fri, 16 Oct 2026 09:54:29 +0900",
-      "isoDate": "2026-10-16T00:54:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨ウォレット大手レジャーが新機器「Ledger Atom」を発表、不正装置対策も計画",
-      "link": "https://coinpost.jp/?p=743283",
-      "published": "Fri, 16 Oct 2026 09:00:05 +0900",
-      "isoDate": "2026-10-16T00:00:05Z"
     }
   ]
 }
