@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17T04:52:19Z",
-  "last_checked": "2026-10-17T04:52:19Z",
+  "updated": "2026-10-17T09:05:40Z",
+  "last_checked": "2026-10-17T09:05:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "円キャリートレードの巻き戻しはどの程度起こりうるか",
+      "link": "https://jp.investing.com/news/forex-news/article-1715158",
+      "published": "2026-10-17 08:18:04",
+      "isoDate": "2026-10-17T08:18:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "来週の相場で注目すべき3つのポイント：全国CPI、米PMI、米主要企業決算本格化",
+      "link": "https://jp.investing.com/news/forex-news/article-1715153",
+      "published": "2026-10-17 07:45:04",
+      "isoDate": "2026-10-17T07:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：本格化する米国主要企業の決算発表が最大の焦点か",
+      "link": "https://jp.investing.com/news/forex-news/article-1715129",
+      "published": "2026-10-17 05:30:03",
+      "isoDate": "2026-10-17T05:30:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "「ブラックマンデー」再来なら何を買う？ 著名投資家に学ぶ暴落時の投資術",
       "link": "https://jp.investing.com/news/stock-market-news/article-1715100",
       "published": "2026-10-17 02:00:55",
       "isoDate": "2026-10-17T02:00:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スターリンク・モバイルはアップルに影響を与えるか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1715087",
-      "published": "2026-10-17 00:39:39",
-      "isoDate": "2026-10-17T00:39:39Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1709204",
       "published": "2026-10-16 22:46:41",
       "isoDate": "2026-10-16T22:46:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NYダウは175.28ドル安、AI債務不安が再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1715032",
-      "published": "2026-10-16 21:30:03",
-      "isoDate": "2026-10-16T21:30:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,13 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1713862",
       "published": "2026-10-16 00:27:37",
       "isoDate": "2026-10-16T00:27:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "月初から35％急落の「キオクシア株」はどこまで下がる？ 買い場はいくらか？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1712459",
-      "published": "2026-10-15 06:12:17",
-      "isoDate": "2026-10-15T06:12:17Z"
     }
   ],
   "btc_items": [
