@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-19T00:00:54Z",
-  "last_checked": "2026-10-19T00:00:54Z",
+  "updated": "2026-10-19T05:07:07Z",
+  "last_checked": "2026-10-19T05:07:07Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウォーシュ発言でFED利上げ観測後退、金価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1715351",
+      "published": "2026-10-19 01:04:18",
+      "isoDate": "2026-10-19T01:04:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領がロシア制裁を免除、原油価格が急落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1715334",
+      "published": "2026-10-19 00:14:24",
+      "isoDate": "2026-10-19T00:14:24Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】金（ゴールド）5時間足、4,100-4,250ドルのレンジでだましブレイクに警戒",
@@ -43,36 +57,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1714149",
       "published": "2026-10-16 08:26:50",
       "isoDate": "2026-10-16T08:26:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が小幅上昇、ドル軟化とFRB金利見通しに注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1713891",
-      "published": "2026-10-16 01:26:11",
-      "isoDate": "2026-10-16T01:26:11Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "キオクシアＨＤ---52週線水準での攻防",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1715314",
-      "published": "2026-10-18 23:30:04",
-      "isoDate": "2026-10-18T23:30:04Z"
+      "title": "日経平均は大幅反落、アドバンテストとソフトバンクGの2銘柄で約405円押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715407",
+      "published": "2026-10-19 04:00:13",
+      "isoDate": "2026-10-19T04:00:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロース市場250指数先物見通し：反落か",
-      "link": "https://jp.investing.com/news/forex-news/article-1715311",
-      "published": "2026-10-18 23:15:04",
-      "isoDate": "2026-10-18T23:15:04Z"
+      "title": "後場の日経平均は612円安でスタート、アドバンテストやソフトバンクGなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715408",
+      "published": "2026-10-19 04:00:13",
+      "isoDate": "2026-10-19T04:00:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は反落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1715306",
-      "published": "2026-10-18 22:15:02",
-      "isoDate": "2026-10-18T22:15:02Z"
+      "title": "【随時更新】日経225が64,247付近で急落継続、戻り売り優勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1715348",
+      "published": "2026-10-19 01:05:08",
+      "isoDate": "2026-10-19T01:05:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比1865円安の63925円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715344",
+      "published": "2026-10-19 01:00:07",
+      "isoDate": "2026-10-19T01:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は982円安、寄り後は下げ幅拡大",
+      "link": "https://jp.investing.com/news/forex-news/article-1715330",
+      "published": "2026-10-19 00:15:06",
+      "isoDate": "2026-10-19T00:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "富士通は「第二のキオクシア」になるか？　日の丸CPUに高まる期待、29日決算が試金石",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715316",
+      "published": "2026-10-18 23:43:47",
+      "isoDate": "2026-10-18T23:43:47Z"
     },
     {
       "source": "Investing.com 外為",
@@ -101,30 +129,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1715198",
       "published": "2026-10-17 16:15:25",
       "isoDate": "2026-10-17T16:15:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トヨタとユニクロ株、長期保有するならどっち？　「投資特化型AI」の回答",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1699480",
-      "published": "2026-10-17 09:45:40",
-      "isoDate": "2026-10-17T09:45:40Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルへの投資はもう手遅れか？ 今「100万円」投資すれば年末いくらになる？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1710868",
-      "published": "2026-10-17 09:39:58",
-      "isoDate": "2026-10-17T09:39:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「ブラックマンデー」再来なら何を買う？ 著名投資家に学ぶ暴落時の投資術",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1715100",
-      "published": "2026-10-17 02:00:55",
-      "isoDate": "2026-10-17T02:00:55Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "7～9月の仮想通貨被害額は約1870億円、8割弱は直近の監査範囲外の経路＝レポート",
+      "link": "https://coinpost.jp/?p=743596",
+      "published": "Mon, 19 Oct 2026 11:38:15 +0900",
+      "isoDate": "2026-10-19T02:38:15Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン軟調、ETF流出と企業の買い鈍化が一因＝ギャラクシー・リサーチ",
@@ -180,27 +194,6 @@
       "link": "https://coinpost.jp/?p=743403",
       "published": "Sat, 17 Oct 2026 09:10:57 +0900",
       "isoDate": "2026-10-17T00:10:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "東証上場のunbanked、金連動トークン「Kinka」の暗号資産事業を廃止　採算難",
-      "link": "https://coinpost.jp/?p=743404",
-      "published": "Sat, 17 Oct 2026 07:30:59 +0900",
-      "isoDate": "2026-10-16T22:30:59Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ドイツ銀行、法人向け仮想通貨保管サービスを数週間以内に開始　アジア展開も",
-      "link": "https://coinpost.jp/?p=743405",
-      "published": "Sat, 17 Oct 2026 06:50:33 +0900",
-      "isoDate": "2026-10-16T21:50:33Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "中国発老舗Coboの個人向け仮想通貨ウォレット終了へ、公開から約9年",
-      "link": "https://coinpost.jp/?p=743406",
-      "published": "Sat, 17 Oct 2026 06:15:36 +0900",
-      "isoDate": "2026-10-16T21:15:36Z"
     }
   ]
 }
