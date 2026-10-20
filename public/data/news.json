@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T22:09:09Z",
-  "last_checked": "2026-10-19T22:09:09Z",
+  "updated": "2026-10-20T01:09:41Z",
+  "last_checked": "2026-10-20T01:09:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,20 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "3カ月で19％高の「スペースX株」は今売り時か？ 20日決算に浮かぶ不安要素",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1716777",
+      "published": "2026-10-19 23:24:21",
+      "isoDate": "2026-10-19T23:24:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場はまちまち、ハイテクの回復がけん引",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1716775",
+      "published": "2026-10-19 23:15:06",
+      "isoDate": "2026-10-19T23:15:06Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NvidiaがModalのCPU事業を獲得、従来はインテルとアドバンスト・マイクロ・デバイセズが独占",
       "link": "https://jp.investing.com/news/stock-market-news/article-1716393",
       "published": "2026-10-19 14:21:41",
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1716214",
       "published": "2026-10-19 13:21:17",
       "isoDate": "2026-10-19T13:21:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マスク氏、米国の全子供にSpaceX株1株を贈ると約束",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1716118",
-      "published": "2026-10-19 12:47:15",
-      "isoDate": "2026-10-19T12:47:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1715316",
       "published": "2026-10-18 23:43:47",
       "isoDate": "2026-10-18T23:43:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「注目の米国株」5銘柄、コアウィーブ、テスラ、マイクロンほか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1714935",
-      "published": "2026-10-18 08:53:55",
-      "isoDate": "2026-10-18T08:53:55Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "USD1、巨額償還で供給量が9%減少、少数保有者による動きか＝レポート",
+      "link": "https://coinpost.jp/?p=743846",
+      "published": "Tue, 20 Oct 2026 10:00:07 +0900",
+      "isoDate": "2026-10-20T01:00:07Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米スーパーリーグ株主、メタプラネットからの2100ビットコイン出資案を承認",
+      "link": "https://coinpost.jp/?p=743835",
+      "published": "Tue, 20 Oct 2026 09:07:25 +0900",
+      "isoDate": "2026-10-20T00:07:25Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、先週34億円相当ビットコインを追加購入　5週連続買い増し",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=743294",
       "published": "Sun, 18 Oct 2026 09:25:23 +0900",
       "isoDate": "2026-10-18T00:25:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "クロードAI、量子コンピュータの設計で従来超え｜仮想通貨の暗号を破る計算の一部も効率化",
-      "link": "https://coinpost.jp/?p=743421",
-      "published": "Sat, 17 Oct 2026 13:10:46 +0900",
-      "isoDate": "2026-10-17T04:10:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米証券大手シュワブ、BTCとETH取引を対象顧客全員に開放",
-      "link": "https://coinpost.jp/?p=743420",
-      "published": "Sat, 17 Oct 2026 11:00:42 +0900",
-      "isoDate": "2026-10-17T02:00:42Z"
     }
   ]
 }
