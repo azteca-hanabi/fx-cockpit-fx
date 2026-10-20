@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-20T16:47:49Z",
-  "last_checked": "2026-10-20T16:47:49Z",
+  "updated": "2026-10-20T20:19:51Z",
+  "last_checked": "2026-10-20T20:19:51Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トウモロコシ先物、収穫進捗で2カ月半ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1718297",
+      "published": "2026-10-20 19:57:30",
+      "isoDate": "2026-10-20T19:57:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米エネルギー当局、ディーゼル供給不足解消に向け精製業者と協議",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1718275",
+      "published": "2026-10-20 19:20:53",
+      "isoDate": "2026-10-20T19:20:53Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油$98.10、サポートとレジスタンス間で膠着状態",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
+      "published": "2026-10-20 19:12:24",
+      "isoDate": "2026-10-20T19:12:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、$57.97で抵抗帯に挟まれ分水嶺-ベアフラッグ進行中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
+      "published": "2026-10-20 19:11:57",
+      "isoDate": "2026-10-20T19:11:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、$6.52〜$6.65のレンジで膠着-次のブレイクに注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
+      "published": "2026-10-20 19:11:56",
+      "isoDate": "2026-10-20T19:11:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent原油、MFI過熱＆高値圏で急反落リスク高まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
+      "published": "2026-10-20 19:11:40",
+      "isoDate": "2026-10-20T19:11:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、$4,130サポートをテスト中--ベア優位の5時間足分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
+      "published": "2026-10-20 19:11:34",
+      "isoDate": "2026-10-20T19:11:34Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "穀物先物、週明けの複数週ぶり安値から反発",
@@ -22,64 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1717239",
       "published": "2026-10-20 09:37:17",
       "isoDate": "2026-10-20T09:37:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フーシ派攻撃でサウジ供給懸念、欧州ガス価格が2022年以来の高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-1717154",
-      "published": "2026-10-20 08:40:52",
-      "isoDate": "2026-10-20T08:40:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold、$4,152付近でベア優勢のコンソリデーション継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
-      "published": "2026-10-20 07:08:40",
-      "isoDate": "2026-10-20T07:08:40Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、61.8%フィボナッチ$99.24付近で攻防-上下どちらへ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
-      "published": "2026-10-20 07:08:30",
-      "isoDate": "2026-10-20T07:08:30Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅（Copper）、$6.59でレンジ攻防―200SMA・雲が上値を抑制",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
-      "published": "2026-10-20 07:08:19",
-      "isoDate": "2026-10-20T07:08:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（Silver）が$57.715へ反発も抵抗帯$58.60〜$59.20が壁",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
-      "published": "2026-10-20 07:08:13",
-      "isoDate": "2026-10-20T07:08:13Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$110.97の抵抗でダブルトップ形成--MFI過熱で反落リスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
-      "published": "2026-10-20 07:08:11",
-      "isoDate": "2026-10-20T07:08:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油高インフレ懸念で金価格下落、FRBの政策見通しに注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-1716872",
-      "published": "2026-10-20 02:32:09",
-      "isoDate": "2026-10-20T02:32:09Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "カタールとパキスタンによる未確認の仲介提案、株高・原油安を招く",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1718119",
-      "published": "2026-10-20 15:16:11",
-      "isoDate": "2026-10-20T15:16:11Z"
+      "title": "Amazon.com、電力供給前にNvidiaのAIハードウェアを大量調達",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1718273",
+      "published": "2026-10-20 19:16:15",
+      "isoDate": "2026-10-20T19:16:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "スイス、ビットコイン現物ETFを初承認　一般投資家向け",
+      "link": "https://coinpost.jp/?p=744035",
+      "published": "Wed, 21 Oct 2026 05:00:44 +0900",
+      "isoDate": "2026-10-20T20:00:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコインの長期的リターン、今後10〜15年で年率10％＝JPモルガンAM初予測",
@@ -222,13 +229,6 @@
       "link": "https://coinpost.jp/?p=743693",
       "published": "Mon, 19 Oct 2026 15:05:10 +0900",
       "isoDate": "2026-10-19T06:05:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セイラー氏、ビットコインは強気相場へ　BTC裏付けステーブルコインにも言及",
-      "link": "https://coinpost.jp/?p=743712",
-      "published": "Mon, 19 Oct 2026 14:50:53 +0900",
-      "isoDate": "2026-10-19T05:50:53Z"
     }
   ]
 }
