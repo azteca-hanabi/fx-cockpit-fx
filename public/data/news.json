@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T21:54:24Z",
-  "last_checked": "2026-10-21T21:54:24Z",
+  "updated": "2026-10-22T00:30:14Z",
+  "last_checked": "2026-10-22T00:30:14Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "テスラ、決算が予想上回り時間外取引で株価上昇－自動車粗利益率も改善",
+      "title": "米AI関連株高を映して買い戻しの動きが継続か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1720515",
+      "published": "2026-10-21 23:30:05",
+      "isoDate": "2026-10-21T23:30:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "21日のNY市場は上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1720509",
+      "published": "2026-10-21 23:15:05",
+      "isoDate": "2026-10-21T23:15:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "メタ決算、売上高26%増で市場予想超え　AI投資拡大で成長続く",
+      "link": "https://jp.investing.com/news/earnings/article-1720219",
+      "published": "2026-10-21 21:55:28",
+      "isoDate": "2026-10-21T21:55:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ラムリサーチ、第1四半期決算が予想超え——株価は下落",
+      "link": "https://jp.investing.com/news/earnings/article-1720282",
+      "published": "2026-10-21 20:22:28",
+      "isoDate": "2026-10-21T20:22:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ決算、利益が市場予想超え　自動車事業の収益性も改善",
       "link": "https://jp.investing.com/news/earnings/article-1720272",
       "published": "2026-10-21 20:20:13",
       "isoDate": "2026-10-21T20:20:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "Meta Platforms、第3四半期決算が予想を上回り新株式クラスを承認",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1720254",
-      "published": "2026-10-21 20:14:32",
-      "isoDate": "2026-10-21T20:14:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "PalantirがAI展開を防衛・医療・建設分野で拡大",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1720225",
-      "published": "2026-10-21 20:08:02",
-      "isoDate": "2026-10-21T20:08:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1718488",
       "published": "2026-10-20 21:56:51",
       "isoDate": "2026-10-20T21:56:51Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "約36万円の「折りたたみiPhone」はアップル株の追い風か？ 強気・弱気シナリオ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1718408",
-      "published": "2026-10-20 20:35:36",
-      "isoDate": "2026-10-20T20:35:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米HPE、月面探査車にAIコンピューター搭載へ　NASAも実験に参加",
-      "link": "https://jp.investing.com/news/company-news/article-93CH-1717949",
-      "published": "2026-10-20 14:04:53",
-      "isoDate": "2026-10-20T14:04:53Z"
     }
   ],
   "btc_items": []
