@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-23T17:47:24Z",
-  "last_checked": "2026-10-23T17:47:24Z",
+  "updated": "2026-10-23T21:12:30Z",
+  "last_checked": "2026-10-23T21:12:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "インドの原油輸入量、9月に前月比16%増加",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724087",
+      "published": "2026-10-23 19:24:39",
+      "isoDate": "2026-10-23T19:24:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、103.50ドルの強力レジスタンスで上昇トレンドが正念場",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
+      "published": "2026-10-23 19:12:23",
+      "isoDate": "2026-10-23T19:12:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$117台の過熱圏で上昇と調整リスクが共存",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
+      "published": "2026-10-23 19:12:21",
+      "isoDate": "2026-10-23T19:12:21Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、5時間足で強烈な下落トレンド継続中-$53.075割れが焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
+      "published": "2026-10-23 19:12:19",
+      "isoDate": "2026-10-23T19:12:19Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Copper、6.50付近でベア・フラッグ継続--下値リスク優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
+      "published": "2026-10-23 19:11:47",
+      "isoDate": "2026-10-23T19:11:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Gold、RSI23台の売られ過ぎで分岐点-戻り売りか反発か",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
+      "published": "2026-10-23 19:11:45",
+      "isoDate": "2026-10-23T19:11:45Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "小麦・大豆が銅を上回る好成績、コモディティの隠れた優良銘柄",
@@ -29,58 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1723133",
       "published": "2026-10-23 08:58:38",
       "isoDate": "2026-10-23T08:58:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、$101.90〜$102.56の抵抗帯が分岐点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
-      "published": "2026-10-23 07:08:45",
-      "isoDate": "2026-10-23T07:08:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、RSI27台の売られ過ぎで$54.07まで急落――下落トレンド継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
-      "published": "2026-10-23 07:08:43",
-      "isoDate": "2026-10-23T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oil、$114超で買われすぎ圏突入--パラボリック上昇の限界を試す",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
-      "published": "2026-10-23 07:08:36",
-      "isoDate": "2026-10-23T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅（Copper）が6.42ドルサポートに接近、戻り売り狙いの局面",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
-      "published": "2026-10-23 07:08:33",
-      "isoDate": "2026-10-23T07:08:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ゴールド、$3,993.8サポートに接近--深い売られすぎ圏で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
-      "published": "2026-10-23 07:08:09",
-      "isoDate": "2026-10-23T07:08:09Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格、週間ベースで4カ月超ぶりの大幅下落へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1722762",
-      "published": "2026-10-23 01:51:45",
-      "isoDate": "2026-10-23T01:51:45Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックスのSolidigm IPO撤回、マイクロンテクノロジーとSandiskに恩恵＝LYNX",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1723997",
-      "published": "2026-10-23 15:43:09",
-      "isoDate": "2026-10-23T15:43:09Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "日本人が知らない米国の「百貨店・ファミレス」株、10月に30％超急騰",
@@ -143,9 +136,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1721017",
       "published": "2026-10-22 09:09:32",
       "isoDate": "2026-10-22T09:09:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "28日決算のアルファベット株は「今が買い」か？ 強気予想では年末までに25%高",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1720644",
+      "published": "2026-10-22 04:27:49",
+      "isoDate": "2026-10-22T04:27:49Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC、トークン化とスーパーインテリジェンスのリスクを2027年の検査優先分野に",
+      "link": "https://coinpost.jp/?p=744498",
+      "published": "Sat, 24 Oct 2026 05:45:56 +0900",
+      "isoDate": "2026-10-23T20:45:56Z"
+    },
     {
       "source": "CoinPost",
       "title": "バンク・オブ・アメリカ傘下4社、メタプラネット株5.31％保有",
@@ -194,27 +201,6 @@
       "link": "https://coinpost.jp/?p=744134",
       "published": "Wed, 21 Oct 2026 16:30:30 +0900",
       "isoDate": "2026-10-21T07:30:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "カルダノ、取引処理能力を上げる「レイオス」を次期アップグレードに搭載予定",
-      "link": "https://coinpost.jp/?p=744105",
-      "published": "Wed, 21 Oct 2026 15:30:56 +0900",
-      "isoDate": "2026-10-21T06:30:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットゲット、GMO傘下のタイの仮想通貨取引所買収を計画",
-      "link": "https://coinpost.jp/?p=744106",
-      "published": "Wed, 21 Oct 2026 13:20:06 +0900",
-      "isoDate": "2026-10-21T04:20:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBI VCトレード、韓国カード大手Shinhan Cardと提携　店舗での円ステーブルコイン決済を検討",
-      "link": "https://coinpost.jp/?p=744095",
-      "published": "Wed, 21 Oct 2026 10:40:28 +0900",
-      "isoDate": "2026-10-21T01:40:28Z"
     }
   ]
 }
