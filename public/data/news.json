@@ -1,55 +1,69 @@
 {
-  "updated": "2026-10-23T07:13:14Z",
-  "last_checked": "2026-10-23T07:13:14Z",
+  "updated": "2026-10-23T12:46:56Z",
+  "last_checked": "2026-10-23T12:46:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が3カ月ぶり安値、原油高がインフレ懸念を強める",
+      "title": "UBSは金価格が4,000ドル水準で下値を支えられると予想",
+      "link": "https://jp.investing.com/news/commodities-news/article-1723263",
+      "published": "2026-10-23 10:30:39",
+      "isoDate": "2026-10-23T10:30:39Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、中東情勢悪化で週間ベースの大幅高を記録",
+      "link": "https://jp.investing.com/news/commodities-news/article-1723133",
+      "published": "2026-10-23 08:58:38",
+      "isoDate": "2026-10-23T08:58:38Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、$101.90〜$102.56の抵抗帯が分岐点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
+      "published": "2026-10-23 07:08:45",
+      "isoDate": "2026-10-23T07:08:45Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Silver、RSI27台の売られ過ぎで$54.07まで急落――下落トレンド継続",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
+      "published": "2026-10-23 07:08:43",
+      "isoDate": "2026-10-23T07:08:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】Brent Oil、$114超で買われすぎ圏突入--パラボリック上昇の限界を試す",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
+      "published": "2026-10-23 07:08:36",
+      "isoDate": "2026-10-23T07:08:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅（Copper）が6.42ドルサポートに接近、戻り売り狙いの局面",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
+      "published": "2026-10-23 07:08:33",
+      "isoDate": "2026-10-23T07:08:33Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ゴールド、$3,993.8サポートに接近--深い売られすぎ圏で推移",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
+      "published": "2026-10-23 07:08:09",
+      "isoDate": "2026-10-23T07:08:09Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、週間ベースで4カ月超ぶりの大幅下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1722762",
       "published": "2026-10-23 01:51:45",
       "isoDate": "2026-10-23T01:51:45Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領が国防生産法を発動、原油価格は5カ月ぶり高値から小幅反落",
+      "title": "原油価格、中東の供給不安で5月以来初めて1バレル114ドルに到達",
       "link": "https://jp.investing.com/news/commodities-news/article-1722730",
       "published": "2026-10-23 00:41:37",
       "isoDate": "2026-10-23T00:41:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Gold急落でRSI26台の売られ過ぎ、$3,993.8サポートが分岐点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715549",
-      "published": "2026-10-22 19:11:59",
-      "isoDate": "2026-10-22T19:11:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Silver、ベア旗崩れで$54.64に急落-売られ過ぎでも下降トレンド継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715554",
-      "published": "2026-10-22 19:11:54",
-      "isoDate": "2026-10-22T19:11:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、$6.35サポート割れ寸前--RSI27台の極度売られ過ぎ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715551",
-      "published": "2026-10-22 19:11:47",
-      "isoDate": "2026-10-22T19:11:47Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油$99.55、$100突破か反落か攻防続く",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715552",
-      "published": "2026-10-22 19:11:31",
-      "isoDate": "2026-10-22T19:11:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】Brent Oilが$113.39で過熱感-押し目買いか高値反落か",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1715553",
-      "published": "2026-10-22 19:11:29",
-      "isoDate": "2026-10-22T19:11:29Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -57,43 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1722294",
       "published": "2026-10-22 18:05:02",
       "isoDate": "2026-10-22T18:05:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ARAのガソリン在庫、2021年9月以来の最低水準に低下",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1722066",
-      "published": "2026-10-22 14:45:42",
-      "isoDate": "2026-10-22T14:45:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フーシ派攻撃でサウジ退避命令、欧州天然ガスが2022年以来の高値",
-      "link": "https://jp.investing.com/news/commodities-news/article-1720982",
-      "published": "2026-10-22 08:45:59",
-      "isoDate": "2026-10-22T08:45:59Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがAI動画スタートアップのHiggsfieldに投資―Bloomberg",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1722847",
-      "published": "2026-10-23 05:44:53",
-      "isoDate": "2026-10-23T05:44:53Z"
+      "title": "MetaのAI資金調達計画が露わにするAIブームの重大な弱点",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1723514",
+      "published": "2026-10-23 12:24:45",
+      "isoDate": "2026-10-23T12:24:45Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は843円安でスタート、三井金属やTDKなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1722801",
-      "published": "2026-10-23 04:15:13",
-      "isoDate": "2026-10-23T04:15:13Z"
+      "title": "日本人が知らない米国の「百貨店・ファミレス」株、10月に30％超急騰",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1722992",
+      "published": "2026-10-23 07:46:15",
+      "isoDate": "2026-10-23T07:46:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AI過剰投資懸念で半導体関連に売り",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1722791",
-      "published": "2026-10-23 03:30:11",
-      "isoDate": "2026-10-23T03:30:11Z"
+      "title": "今日の日経平均とドル円：一時1400円超安も急回復、円安157円台、半導体株に買い戻し",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1722950",
+      "published": "2026-10-23 07:21:17",
+      "isoDate": "2026-10-23T07:21:17Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株の新たなブームは「外食チェーン」、10月に31%高の老舗も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1714097",
+      "published": "2026-10-23 06:48:04",
+      "isoDate": "2026-10-23T06:48:04Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1721017",
       "published": "2026-10-22 09:09:32",
       "isoDate": "2026-10-22T09:09:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は大幅安、午後は円買い優勢",
-      "link": "https://jp.investing.com/news/forex-news/article-1720950",
-      "published": "2026-10-22 08:30:14",
-      "isoDate": "2026-10-22T08:30:14Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
+      "link": "https://coinpost.jp/?p=744436",
+      "published": "Fri, 23 Oct 2026 18:05:44 +0900",
+      "isoDate": "2026-10-23T09:05:44Z"
+    },
     {
       "source": "CoinPost",
       "title": "自民党、「サイバー有事前夜」と提言　暗号資産の追跡や耐量子暗号を明記",
@@ -201,20 +208,6 @@
       "link": "https://coinpost.jp/?p=744046",
       "published": "Wed, 21 Oct 2026 10:30:48 +0900",
       "isoDate": "2026-10-21T01:30:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "イーサリアムのステーキング数量、26年3Qに過去最高記録を更新＝ビットワイズ",
-      "link": "https://coinpost.jp/?p=744066",
-      "published": "Wed, 21 Oct 2026 09:30:45 +0900",
-      "isoDate": "2026-10-21T00:30:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CME、ユニスワップとビットコインキャッシュの先物取引を開始　初大口取引成立",
-      "link": "https://coinpost.jp/?p=744047",
-      "published": "Wed, 21 Oct 2026 07:30:52 +0900",
-      "isoDate": "2026-10-20T22:30:52Z"
     }
   ]
 }
