@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-23T12:46:56Z",
-  "last_checked": "2026-10-23T12:46:56Z",
+  "updated": "2026-10-23T17:47:24Z",
+  "last_checked": "2026-10-23T17:47:24Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "小麦・大豆が銅を上回る好成績、コモディティの隠れた優良銘柄",
+      "link": "https://jp.investing.com/news/commodities-news/article-1724042",
+      "published": "2026-10-23 16:56:55",
+      "isoDate": "2026-10-23T16:56:55Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "アジアのLNG輸入量、10月に3カ月ぶりの高水準に達する見通し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1723989",
+      "published": "2026-10-23 15:41:32",
+      "isoDate": "2026-10-23T15:41:32Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSは金価格が4,000ドル水準で下値を支えられると予想",
@@ -57,29 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1722762",
       "published": "2026-10-23 01:51:45",
       "isoDate": "2026-10-23T01:51:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格、中東の供給不安で5月以来初めて1バレル114ドルに到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-1722730",
-      "published": "2026-10-23 00:41:37",
-      "isoDate": "2026-10-23T00:41:37Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ウクライナ戦争中はロシアとのガス取引を行わないとフィンランド首相が表明",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1722294",
-      "published": "2026-10-22 18:05:02",
-      "isoDate": "2026-10-22T18:05:02Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "MetaのAI資金調達計画が露わにするAIブームの重大な弱点",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1723514",
-      "published": "2026-10-23 12:24:45",
-      "isoDate": "2026-10-23T12:24:45Z"
+      "title": "SKハイニックスのSolidigm IPO撤回、マイクロンテクノロジーとSandiskに恩恵＝LYNX",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1723997",
+      "published": "2026-10-23 15:43:09",
+      "isoDate": "2026-10-23T15:43:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,20 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "バンク・オブ・アメリカ傘下4社、メタプラネット株5.31％保有",
+      "link": "https://coinpost.jp/?p=744483",
+      "published": "Fri, 23 Oct 2026 21:55:08 +0900",
+      "isoDate": "2026-10-23T12:55:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "JPモルガン、クラリティー法案が前進しなかった悪影響を規制当局が一部相殺と分析　今後の課題は？",
+      "link": "https://coinpost.jp/?p=744481",
+      "published": "Fri, 23 Oct 2026 21:45:37 +0900",
+      "isoDate": "2026-10-23T12:45:37Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
       "link": "https://coinpost.jp/?p=744436",
       "published": "Fri, 23 Oct 2026 18:05:44 +0900",
@@ -201,13 +215,6 @@
       "link": "https://coinpost.jp/?p=744095",
       "published": "Wed, 21 Oct 2026 10:40:28 +0900",
       "isoDate": "2026-10-21T01:40:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SECの仮想通貨規則提案に100件超の意見、エアドロップの扱いなどで修正要請",
-      "link": "https://coinpost.jp/?p=744046",
-      "published": "Wed, 21 Oct 2026 10:30:48 +0900",
-      "isoDate": "2026-10-21T01:30:48Z"
     }
   ]
 }
