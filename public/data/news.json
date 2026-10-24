@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T13:30:33Z",
-  "last_checked": "2026-10-24T13:30:33Z",
+  "updated": "2026-10-24T17:16:05Z",
+  "last_checked": "2026-10-24T17:16:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "ファイザーの25価肺炎球菌ワクチン候補、第2相試験結果を発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1724319",
+      "published": "2026-10-24 15:25:02",
+      "isoDate": "2026-10-24T15:25:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ウクライナ軍のStarlinkサービス、10日間の障害後に復旧",
       "link": "https://jp.investing.com/news/economy-news/article-1724293",
       "published": "2026-10-24 09:24:43",
@@ -129,13 +136,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1724162",
       "published": "2026-10-23 21:15:03",
       "isoDate": "2026-10-23T21:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックスのSolidigm IPO撤回、マイクロンテクノロジーとSandiskに恩恵＝LYNX",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1723997",
-      "published": "2026-10-23 15:43:09",
-      "isoDate": "2026-10-23T15:43:09Z"
     },
     {
       "source": "Investing.com 外為",
