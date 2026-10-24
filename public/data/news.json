@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-24T19:40:58Z",
-  "last_checked": "2026-10-24T19:40:58Z",
+  "updated": "2026-10-24T22:18:44Z",
+  "last_checked": "2026-10-24T22:18:44Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銀相場は回復できるか？UBSが見通しを示す",
+      "link": "https://jp.investing.com/news/commodities-news/article-1724328",
+      "published": "2026-10-24 20:34:17",
+      "isoDate": "2026-10-24T20:34:17Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "インドの原油輸入量、9月に前月比16%増加",
@@ -64,26 +71,19 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1723263",
       "published": "2026-10-23 10:30:39",
       "isoDate": "2026-10-23T10:30:39Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、中東情勢悪化で週間ベースの大幅高を記録",
-      "link": "https://jp.investing.com/news/commodities-news/article-1723133",
-      "published": "2026-10-23 08:58:38",
-      "isoDate": "2026-10-23T08:58:38Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "ファイザーの25価肺炎球菌ワクチン候補、第2相試験結果を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1724319",
-      "published": "2026-10-24 15:25:02",
-      "isoDate": "2026-10-24T15:25:02Z"
+      "title": "銀相場は回復できるか？UBSが見通しを示す",
+      "link": "https://jp.investing.com/news/commodities-news/article-1724328",
+      "published": "2026-10-24 20:34:17",
+      "isoDate": "2026-10-24T20:34:17Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ウクライナ軍のStarlinkサービス、10日間の障害後に復旧",
+      "title": "ウクライナの軍事用スターリンク復旧、マスク氏は利用規約違反を指摘",
       "link": "https://jp.investing.com/news/economy-news/article-1724293",
       "published": "2026-10-24 09:24:43",
       "isoDate": "2026-10-24T09:24:43Z"
