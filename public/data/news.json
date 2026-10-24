@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-23T23:56:10Z",
-  "last_checked": "2026-10-23T23:56:10Z",
+  "updated": "2026-10-24T04:16:31Z",
+  "last_checked": "2026-10-24T04:16:31Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は下落、原油高でインフレ懸念再燃",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724209",
-      "published": "2026-10-23 23:00:05",
-      "isoDate": "2026-10-23T23:00:05Z"
+      "title": "AWSのクラウド容量、2027年まで大部分が売り切れ状態とAmazonCEOが発言",
+      "link": "https://jp.investing.com/news/company-news/article-1724233",
+      "published": "2026-10-24 02:29:19",
+      "isoDate": "2026-10-24T02:29:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国、マスク氏にスターリンクのアクセス制限・拡大を繰り返し要請＝ロイター",
+      "link": "https://jp.investing.com/news/company-news/article-1724229",
+      "published": "2026-10-24 01:19:07",
+      "isoDate": "2026-10-24T01:19:07Z"
     },
     {
       "source": "Investing.com 外為",
@@ -94,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1724162",
       "published": "2026-10-23 21:15:03",
       "isoDate": "2026-10-23T21:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SKハイニックスのSolidigm IPO撤回、マイクロンテクノロジーとSandiskに恩恵＝LYNX",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1723997",
-      "published": "2026-10-23 15:43:09",
-      "isoDate": "2026-10-23T15:43:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,10 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "半導体株が急落の一方、アップルが史上最高値、投資マネーの「大移動」開始か？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1722742",
-      "published": "2026-10-23 00:59:48",
-      "isoDate": "2026-10-23T00:59:48Z"
+      "title": "富士通は「第二のキオクシア」になるか？　日の丸CPUに高まる期待、29日決算が試金石",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1715316",
+      "published": "2026-10-22 12:45:40",
+      "isoDate": "2026-10-22T12:45:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,7 +148,56 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "中国、『情報化5カ年計画』で国家ブロックチェーンを2030年までに基本完成へ",
+      "title": "ビットコイン採掘の熱で湯を沸かす温水器用ヒーター、『Bitwater』装置が登場",
+      "link": "https://coinpost.jp/?p=744546",
+      "published": "Sat, 24 Oct 2026 13:10:01 +0900",
+      "isoDate": "2026-10-24T04:10:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "株式・金・原油などの無期限先物に高需要、10ヶ月で取引高33倍に＝レポート",
+      "link": "https://coinpost.jp/?p=744536",
+      "published": "Sat, 24 Oct 2026 12:00:55 +0900",
+      "isoDate": "2026-10-24T03:00:55Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジーキャッシュ、次期アップグレード『NU7』を11月5日ごろ実施へ",
+      "link": "https://coinpost.jp/?p=744567",
+      "published": "Sat, 24 Oct 2026 11:25:50 +0900",
+      "isoDate": "2026-10-24T02:25:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインハッシュレートが回復、上場マイナーのAI事業転換進む中",
+      "link": "https://coinpost.jp/?p=744556",
+      "published": "Sat, 24 Oct 2026 11:05:02 +0900",
+      "isoDate": "2026-10-24T02:05:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米フランクリン、配当金でビットコインへの投資を増やすETF2本を登録",
+      "link": "https://coinpost.jp/?p=744553",
+      "published": "Sat, 24 Oct 2026 10:55:18 +0900",
+      "isoDate": "2026-10-24T01:55:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ大統領、10億ドル近くの仮想通貨凍結に言及　「サイバーカレンシー」と表現",
+      "link": "https://coinpost.jp/?p=744499",
+      "published": "Sat, 24 Oct 2026 10:25:33 +0900",
+      "isoDate": "2026-10-24T01:25:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ネタニヤフ首相、制裁リスクに備え仮想通貨・ブロックチェーン活用の計画の準備を要請",
+      "link": "https://coinpost.jp/?p=744501",
+      "published": "Sat, 24 Oct 2026 09:30:38 +0900",
+      "isoDate": "2026-10-24T00:30:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "中国、『情報化5カ年計画』で国家ブロックチェーン網を2030年までに基本完成へ",
       "link": "https://coinpost.jp/?p=744529",
       "published": "Sat, 24 Oct 2026 07:55:00 +0900",
       "isoDate": "2026-10-23T22:55:00Z"
@@ -180,41 +229,6 @@
       "link": "https://coinpost.jp/?p=744498",
       "published": "Sat, 24 Oct 2026 05:45:56 +0900",
       "isoDate": "2026-10-23T20:45:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バンク・オブ・アメリカ傘下4社、メタプラネット株5.31％保有",
-      "link": "https://coinpost.jp/?p=744483",
-      "published": "Fri, 23 Oct 2026 21:55:08 +0900",
-      "isoDate": "2026-10-23T12:55:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "JPモルガン、クラリティー法案が前進しなかった悪影響を規制当局が一部相殺と分析　今後の課題は？",
-      "link": "https://coinpost.jp/?p=744481",
-      "published": "Fri, 23 Oct 2026 21:45:37 +0900",
-      "isoDate": "2026-10-23T12:45:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン8万1000ドル台に下落、米メタ決算でAI株安",
-      "link": "https://coinpost.jp/?p=744436",
-      "published": "Fri, 23 Oct 2026 18:05:44 +0900",
-      "isoDate": "2026-10-23T09:05:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "自民党、「サイバー有事前夜」と提言　暗号資産の追跡や耐量子暗号を明記",
-      "link": "https://coinpost.jp/?p=744293",
-      "published": "Fri, 23 Oct 2026 10:30:01 +0900",
-      "isoDate": "2026-10-23T01:30:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン短期クジラの含み益53％減、取引所に1万605BTC流入＝アナリスト",
-      "link": "https://coinpost.jp/?p=744219",
-      "published": "Wed, 21 Oct 2026 17:14:35 +0900",
-      "isoDate": "2026-10-21T08:14:35Z"
     }
   ]
 }
