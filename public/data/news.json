@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T05:09:49Z",
-  "last_checked": "2026-10-25T05:09:49Z",
+  "updated": "2026-10-25T10:02:36Z",
+  "last_checked": "2026-10-25T10:02:36Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "韓国株式市場がAI投資の最も純粋な指標となる理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724335",
-      "published": "2026-10-24 22:55:32",
-      "isoDate": "2026-10-24T22:55:32Z"
+      "title": "ゴールドマン・サックス、AI株売りでKOSPI目標を25%引き下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724381",
+      "published": "2026-10-25 08:50:52",
+      "isoDate": "2026-10-25T08:50:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXにとって「触媒豊富」な数カ月が到来、アナリスト5大AI動向",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724373",
+      "published": "2026-10-25 07:49:00",
+      "isoDate": "2026-10-25T07:49:00Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "BioNTechとブリストル マイヤーズ スクイブ、NSCLC対象のプミタミグのフェーズ2データを発表",
+      "link": "https://jp.investing.com/news/assorted/article-432SI-1724372",
+      "published": "2026-10-25 07:37:02",
+      "isoDate": "2026-10-25T07:37:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アマゾンやウーバーのビジネスをAIが破壊？ 米投資大手が警告",
+      "link": "https://jp.investing.com/news/economy-news/article-1724361",
+      "published": "2026-10-25 06:00:53",
+      "isoDate": "2026-10-25T06:00:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン本日の価格：FRB会合を前に8万800ドルへ回復",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1724358",
+      "published": "2026-10-25 04:54:18",
+      "isoDate": "2026-10-25T04:54:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,20 +115,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1724328",
       "published": "2026-10-24 20:34:17",
       "isoDate": "2026-10-24T20:34:17Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ファイザーの25価肺炎球菌ワクチン候補、第2相試験結果を発表",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1724319",
-      "published": "2026-10-24 15:25:02",
-      "isoDate": "2026-10-24T15:25:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウクライナの軍事用スターリンク復旧、マスク氏は利用規約違反を指摘",
-      "link": "https://jp.investing.com/news/economy-news/article-1724293",
-      "published": "2026-10-24 09:24:43",
-      "isoDate": "2026-10-24T09:24:43Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,20 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "為替週間見通し：底堅いか、日米中銀は政策維持の見通しで金利差縮小は見込みにくい",
-      "link": "https://jp.investing.com/news/forex-news/article-1724246",
-      "published": "2026-10-24 05:15:04",
-      "isoDate": "2026-10-24T05:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：イベント目白押しの中、主要企業の決算を受けた個別物色活発化へ",
-      "link": "https://jp.investing.com/news/forex-news/article-1724239",
-      "published": "2026-10-24 04:15:04",
-      "isoDate": "2026-10-24T04:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "ボーイング777貨物機、サプライヤーとの紛争で約2カ月間生産停止",
       "link": "https://jp.investing.com/news/company-news/article-1724231",
       "published": "2026-10-24 01:57:25",
@@ -139,10 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日本人が知らない米国の「百貨店・ファミレス」株、10月に30％超急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1722992",
-      "published": "2026-10-23 07:46:15",
-      "isoDate": "2026-10-23T07:46:15Z"
+      "title": "スペースX、400億ドルのAI向け資金調達が難航　金利条件で折り合わず",
+      "link": "https://jp.investing.com/news/company-news/article-1724207",
+      "published": "2026-10-23 22:52:42",
+      "isoDate": "2026-10-23T22:52:42Z"
     }
   ],
   "btc_items": [
