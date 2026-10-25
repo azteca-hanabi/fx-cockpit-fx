@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T22:18:44Z",
-  "last_checked": "2026-10-24T22:18:44Z",
+  "updated": "2026-10-25T00:27:27Z",
+  "last_checked": "2026-10-25T00:27:27Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,6 +76,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "韓国株式市場がAI投資の最も純粋な指標となる理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724335",
+      "published": "2026-10-24 22:55:32",
+      "isoDate": "2026-10-24T22:55:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "銀相場は回復できるか？UBSが見通しを示す",
       "link": "https://jp.investing.com/news/commodities-news/article-1724328",
       "published": "2026-10-24 20:34:17",
@@ -111,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：主要企業の決算発表やFOMCなど重要イベント目白押し",
-      "link": "https://jp.investing.com/news/forex-news/article-1724237",
-      "published": "2026-10-24 04:15:03",
-      "isoDate": "2026-10-24T04:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国、マスク氏にスターリンクのアクセス制限・拡大を繰り返し要請＝ロイター",
       "link": "https://jp.investing.com/news/company-news/article-1724229",
       "published": "2026-10-24 01:19:07",
@@ -132,17 +132,17 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは653.52ドル安、原油高でインフレ懸念再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1724162",
-      "published": "2026-10-23 21:15:03",
-      "isoDate": "2026-10-23T21:15:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日本人が知らない米国の「百貨店・ファミレス」株、10月に30％超急騰",
       "link": "https://jp.investing.com/news/stock-market-news/article-1722992",
       "published": "2026-10-23 07:46:15",
       "isoDate": "2026-10-23T07:46:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体株が急落の一方、アップルが史上最高値、投資マネーの「大移動」開始か？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1722742",
+      "published": "2026-10-23 00:59:48",
+      "isoDate": "2026-10-23T00:59:48Z"
     }
   ],
   "btc_items": [
@@ -222,13 +222,6 @@
       "link": "https://coinpost.jp/?p=744529",
       "published": "Sat, 24 Oct 2026 07:55:00 +0900",
       "isoDate": "2026-10-23T22:55:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット開示、キャピタル・リサーチが議決権11％超の主要株主に",
-      "link": "https://coinpost.jp/?p=744502",
-      "published": "Sat, 24 Oct 2026 07:35:40 +0900",
-      "isoDate": "2026-10-23T22:35:40Z"
     }
   ]
 }
