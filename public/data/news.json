@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-25T23:28:06Z",
-  "last_checked": "2026-10-25T23:28:06Z",
+  "updated": "2026-10-26T01:34:41Z",
+  "last_checked": "2026-10-26T01:34:41Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油、6カ月ぶり高値から下落――サウジへの攻撃で供給リスク続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1724510",
+      "published": "2026-10-26 01:09:56",
+      "isoDate": "2026-10-26T01:09:56Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "銀相場は回復できるか？UBSが見通しを示す",
@@ -57,36 +64,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1724042",
       "published": "2026-10-23 16:56:55",
       "isoDate": "2026-10-23T16:56:55Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "アジアのLNG輸入量、10月に3カ月ぶりの高水準に達する見通し",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1723989",
-      "published": "2026-10-23 15:41:32",
-      "isoDate": "2026-10-23T15:41:32Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "23日のNY市場は下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724455",
-      "published": "2026-10-25 22:45:05",
-      "isoDate": "2026-10-25T22:45:05Z"
+      "title": "原油、6カ月ぶり高値から下落――サウジへの攻撃で供給リスク続く",
+      "link": "https://jp.investing.com/news/commodities-news/article-1724510",
+      "published": "2026-10-26 01:09:56",
+      "isoDate": "2026-10-26T01:09:56Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "23日の米国市場ダイジェスト：米国株式市場は下落、原油高でインフレ懸念再燃",
-      "link": "https://jp.investing.com/news/forex-news/article-1724456",
-      "published": "2026-10-25 22:45:05",
-      "isoDate": "2026-10-25T22:45:05Z"
+      "title": "米国株先物、テック株急落後にわずかに上昇－FRB会合と決算に注目",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724498",
+      "published": "2026-10-26 00:41:51",
+      "isoDate": "2026-10-26T00:41:51Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "前日に動いた銘柄 part1 HENNGE、ファーストリテイリング、メルカリなど",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724448",
-      "published": "2026-10-25 22:30:03",
-      "isoDate": "2026-10-25T22:30:03Z"
+      "title": "日経平均は243円安でスタート、アドバンテストやリクルートHDなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724493",
+      "published": "2026-10-26 00:30:10",
+      "isoDate": "2026-10-26T00:30:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は440円安、寄り後は下げ幅拡大",
+      "link": "https://jp.investing.com/news/forex-news/article-1724483",
+      "published": "2026-10-26 00:15:07",
+      "isoDate": "2026-10-26T00:15:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ファナック決算を受けたフィジカルAI関連株への物色に期待",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724476",
+      "published": "2026-10-25 23:45:07",
+      "isoDate": "2026-10-25T23:45:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アップル、初の折りたたみスマホ「iPhone Duo」の需要急増で増産を要請",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724473",
+      "published": "2026-10-25 23:40:05",
+      "isoDate": "2026-10-25T23:40:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "野心的なAI投資計画を賄う資本は十分に存在するのか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724434",
-      "published": "2026-10-25 15:27:32",
-      "isoDate": "2026-10-25T15:27:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "2027年に向けてリアルアセットに注目すべき理由",
-      "link": "https://jp.investing.com/news/economy-news/article-1724402",
-      "published": "2026-10-25 12:24:38",
-      "isoDate": "2026-10-25T12:24:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップルに弱気、インテルに強気──AI関連の「最新投資判断」を総点検",
       "link": "https://jp.investing.com/news/stock-market-news/article-1724373",
       "published": "2026-10-25 09:00:00",
       "isoDate": "2026-10-25T09:00:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ゴールドマン・サックス、AI株売りでKOSPI目標を25%引き下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724381",
-      "published": "2026-10-25 08:50:52",
-      "isoDate": "2026-10-25T08:50:52Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,20 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインに3週間書き込まれ続ける「暗号風の文」とは？　ギャラクシーデジタル分析",
+      "link": "https://coinpost.jp/?p=744620",
+      "published": "Mon, 26 Oct 2026 09:45:31 +0900",
+      "isoDate": "2026-10-26T00:45:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "インド大手取引所CoinDCX、旧ウォレットから1599万USDT流出",
+      "link": "https://coinpost.jp/?p=744616",
+      "published": "Mon, 26 Oct 2026 08:52:28 +0900",
+      "isoDate": "2026-10-25T23:52:28Z"
+    },
     {
       "source": "CoinPost",
       "title": "X、いいね長押しで1ドル送金へ　仮想通貨は依然非対応",
@@ -194,20 +208,6 @@
       "link": "https://coinpost.jp/?p=744567",
       "published": "Sat, 24 Oct 2026 11:25:50 +0900",
       "isoDate": "2026-10-24T02:25:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインハッシュレートが回復、上場マイナーのAI事業転換進む中",
-      "link": "https://coinpost.jp/?p=744556",
-      "published": "Sat, 24 Oct 2026 11:05:02 +0900",
-      "isoDate": "2026-10-24T02:05:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米フランクリン、配当金でビットコインへの投資を増やすETF2本を登録",
-      "link": "https://coinpost.jp/?p=744553",
-      "published": "Sat, 24 Oct 2026 10:55:18 +0900",
-      "isoDate": "2026-10-24T01:55:18Z"
     }
   ]
 }
