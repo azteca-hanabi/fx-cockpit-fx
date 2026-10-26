@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-26T14:59:30Z",
-  "last_checked": "2026-10-26T14:59:30Z",
+  "updated": "2026-10-26T20:25:27Z",
+  "last_checked": "2026-10-26T20:25:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、下降トレンド内で反発もSMA50・SuperTrend抵抗帯に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
+      "published": "2026-10-26 19:12:58",
+      "isoDate": "2026-10-26T19:12:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銀（シルバー）、ベアフラッグ形成中--RSIが売られすぎ水準で反発示唆",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
+      "published": "2026-10-26 19:12:31",
+      "isoDate": "2026-10-26T19:12:31Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ブレント原油、117.45ドルで急反落--Vトップ形成で下落シナリオ優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
+      "published": "2026-10-26 19:12:25",
+      "isoDate": "2026-10-26T19:12:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、103.92ドル抵抗帯でダブルトップ形成の兆候",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
+      "published": "2026-10-26 19:12:23",
+      "isoDate": "2026-10-26T19:12:23Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）、ベアフラッグ形成中--下降トレンド継続の可能性",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
+      "published": "2026-10-26 19:12:21",
+      "isoDate": "2026-10-26T19:12:21Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの黒海穀物輸送協議を受け、欧州小麦価格が2カ月ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725906",
+      "published": "2026-10-26 17:33:58",
+      "isoDate": "2026-10-26T17:33:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの黒海穀物輸送協議を受け、欧州小麦価格が2カ月ぶり安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725907",
+      "published": "2026-10-26 17:33:58",
+      "isoDate": "2026-10-26T17:33:58Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米戦略石油備蓄、1982年10月以来の最低水準に低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725870",
+      "published": "2026-10-26 16:42:28",
+      "isoDate": "2026-10-26T16:42:28Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "バルチック海運指数、約1週間ぶりの安値近辺に下落",
@@ -15,71 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725441",
       "published": "2026-10-26 13:04:36",
       "isoDate": "2026-10-26T13:04:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ヨーロッパの天然ガス価格、中東紛争を背景に2022年来の高値に急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1724941",
-      "published": "2026-10-26 10:11:45",
-      "isoDate": "2026-10-26T10:11:45Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、103.50ドル付近でブルトラップのリスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
-      "published": "2026-10-26 07:08:36",
-      "isoDate": "2026-10-26T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（シルバー）が極度の売られ過ぎ圏で下降チャネルを継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
-      "published": "2026-10-26 07:08:33",
-      "isoDate": "2026-10-26T07:08:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ブレント原油、放物線型天井から急落--雲サポートを試す",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
-      "published": "2026-10-26 07:08:31",
-      "isoDate": "2026-10-26T07:08:31Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、50SMAとフィボナッチ38.2%の抵抗帯でベア優勢",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
-      "published": "2026-10-26 07:08:28",
-      "isoDate": "2026-10-26T07:08:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金（ゴールド）がUSD 4000を割り込み下降チャネル継続中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
-      "published": "2026-10-26 07:07:22",
-      "isoDate": "2026-10-26T07:07:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "サウジアラビア、2027年後半からシンガポールに原油を備蓄へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724596",
-      "published": "2026-10-26 05:34:42",
-      "isoDate": "2026-10-26T05:34:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格の下落がインフレ懸念を和らげ、金相場が反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1724546",
-      "published": "2026-10-26 03:00:45",
-      "isoDate": "2026-10-26T03:00:45Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXがアポロ・グローバルと400億ドルのGPUリース契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1725292",
-      "published": "2026-10-26 12:16:01",
-      "isoDate": "2026-10-26T12:16:01Z"
+      "title": "AnthropicはGoogleとAmazon、マイクロソフトから収益の約半分を得ている",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1725901",
+      "published": "2026-10-26 17:21:39",
+      "isoDate": "2026-10-26T17:21:39Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +87,6 @@
       "link": "https://jp.investing.com/news/assorted/article-432SI-1725257",
       "published": "2026-10-26 12:10:04",
       "isoDate": "2026-10-26T12:10:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ウォール街のS&P 500、2026年末目標に関する最新調査結果",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1725229",
-      "published": "2026-10-26 12:03:46",
-      "isoDate": "2026-10-26T12:03:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +108,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1724729",
       "published": "2026-10-26 08:03:50",
       "isoDate": "2026-10-26T08:03:50Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "後場の日経平均は491円安でスタート、キオクシアHDやディスコなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724561",
+      "published": "2026-10-26 04:15:13",
+      "isoDate": "2026-10-26T04:15:13Z"
     },
     {
       "source": "Investing.com 外為",
