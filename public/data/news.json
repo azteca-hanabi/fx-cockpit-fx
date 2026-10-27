@@ -1,85 +1,92 @@
 {
-  "updated": "2026-10-27T16:17:05Z",
-  "last_checked": "2026-10-27T16:17:05Z",
+  "updated": "2026-10-27T20:51:41Z",
+  "last_checked": "2026-10-27T20:51:41Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "南アフリカのトウモロコシ農家、作付面積を2019年以来最小に縮小へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1728010",
+      "published": "2026-10-27 19:15:03",
+      "isoDate": "2026-10-27T19:15:03Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、イチモク雲下で調整リスク高まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
+      "published": "2026-10-27 19:12:40",
+      "isoDate": "2026-10-27T19:12:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銀、下降チャネルで上値抵抗に直面-弱気シナリオ優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
+      "published": "2026-10-27 19:12:36",
+      "isoDate": "2026-10-27T19:12:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ブレント原油、50 SMAと38.2%フィボナッチの攻防で方向感模索",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
+      "published": "2026-10-27 19:12:34",
+      "isoDate": "2026-10-27T19:12:34Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、200SMAと50%フィボナッチの重要抵抗帯をテスト中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
+      "published": "2026-10-27 19:12:29",
+      "isoDate": "2026-10-27T19:12:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）、主要抵抗帯USD 4092-4116に接近しベア優勢",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
+      "published": "2026-10-27 19:12:11",
+      "isoDate": "2026-10-27T19:12:11Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ロシアの生産増加でディーゼル精製マージンが7%低下",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1728006",
+      "published": "2026-10-27 19:08:18",
+      "isoDate": "2026-10-27T19:08:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "Saudi Aramcoがパイプライン再稼働後、欧州向けスポット原油を提供",
+      "link": "https://jp.investing.com/news/commodities-news/article-1727893",
+      "published": "2026-10-27 17:20:25",
+      "isoDate": "2026-10-27T17:20:25Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ポーランド、11月末までに石油備蓄放出計画を策定へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1727861",
+      "published": "2026-10-27 17:01:21",
+      "isoDate": "2026-10-27T17:01:21Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UAEがインドネシアに最大3000万バレルの石油供給に合意",
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1727153",
       "published": "2026-10-27 12:07:16",
       "isoDate": "2026-10-27T12:07:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インドのディーゼル輸出、製油所拡張で2027年から急増へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1727099",
-      "published": "2026-10-27 11:54:16",
-      "isoDate": "2026-10-27T11:54:16Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、4日間の急騰から一時休止―貯蔵量の低水準が下支え",
-      "link": "https://jp.investing.com/news/commodities-news/article-1726693",
-      "published": "2026-10-27 09:49:14",
-      "isoDate": "2026-10-27T09:49:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSがパラジウム価格予測を引き下げ、投資家心理の悪化を反映",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1726628",
-      "published": "2026-10-27 09:15:22",
-      "isoDate": "2026-10-27T09:15:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSがパラジウム価格予測を引き下げ、投資家心理の悪化を背景に",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1726629",
-      "published": "2026-10-27 09:15:22",
-      "isoDate": "2026-10-27T09:15:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、USD103.53高値圏で上昇チャネルが80%完成",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
-      "published": "2026-10-27 07:08:57",
-      "isoDate": "2026-10-27T07:08:57Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金（ゴールド）、ベアフラッグ形成中でSMA(20)が上値抵抗",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
-      "published": "2026-10-27 07:08:43",
-      "isoDate": "2026-10-27T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（シルバー）、下降チャネルで極度の売られ過ぎ水準に到達",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
-      "published": "2026-10-27 07:08:27",
-      "isoDate": "2026-10-27T07:08:27Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ブレント原油、117.45ドル高値から急反落し一目均衡表クラウドをテスト",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
-      "published": "2026-10-27 07:08:05",
-      "isoDate": "2026-10-27T07:08:05Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、USD 6.57-6.63の抵抗帯でベアフラッグ形成中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
-      "published": "2026-10-27 07:08:03",
-      "isoDate": "2026-10-27T07:08:03Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "パイパー・サンドラーが2027年に向けて選ぶ半導体トップ2銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1727593",
-      "published": "2026-10-27 14:14:08",
-      "isoDate": "2026-10-27T14:14:08Z"
+      "title": "【随時更新】Tesla、ブルフラッグ突破も上値過熱でSMA回帰リスク高まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1725606",
+      "published": "2026-10-27 19:13:12",
+      "isoDate": "2026-10-27T19:13:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【随時更新】Micronが上値抵抗クラスターに直面、構造的反転には突破が必要",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1725602",
+      "published": "2026-10-27 19:12:01",
+      "isoDate": "2026-10-27T19:12:01Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1725488",
       "published": "2026-10-26 13:16:15",
       "isoDate": "2026-10-26T13:16:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【今なら55％オフ】米国株投資をAIで強化、「InvestingPro」が期間限定セール中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724729",
-      "published": "2026-10-26 08:03:50",
-      "isoDate": "2026-10-26T08:03:50Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米BNY、XRPの保管に対応開始　リップルと貿易金融トークン化を進める方針",
+      "link": "https://coinpost.jp/?p=745038",
+      "published": "Wed, 28 Oct 2026 05:40:37 +0900",
+      "isoDate": "2026-10-27T20:40:37Z"
+    },
     {
       "source": "CoinPost",
       "title": "マイクロソフトやIBMなど計26社が株式トークン化に反対、OKXとICEの計画めぐり",
