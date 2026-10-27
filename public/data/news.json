@@ -1,7 +1,21 @@
 {
-  "updated": "2026-10-27T00:00:57Z",
-  "last_checked": "2026-10-27T00:00:57Z",
+  "updated": "2026-10-27T05:25:43Z",
+  "last_checked": "2026-10-27T05:25:43Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、4,010ドル付近で下落——FRB決定とイラン外交に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1726256",
+      "published": "2026-10-27 01:06:56",
+      "isoDate": "2026-10-27T01:06:56Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランの仲介努力が緊張緩和、原油価格が続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1726243",
+      "published": "2026-10-27 00:24:23",
+      "isoDate": "2026-10-27T00:24:23Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】銅、下降トレンド内で反発もSMA50・SuperTrend抵抗帯に接近",
@@ -57,36 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725870",
       "published": "2026-10-26 16:42:28",
       "isoDate": "2026-10-26T16:42:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "バルチック海運指数、約1週間ぶりの安値近辺に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725653",
-      "published": "2026-10-26 14:32:53",
-      "isoDate": "2026-10-26T14:32:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "黒海和平交渉への期待でロシア産小麦の輸出価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1725441",
-      "published": "2026-10-26 13:04:36",
-      "isoDate": "2026-10-26T13:04:36Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは146.42ドル高、ハイテクが支援",
-      "link": "https://jp.investing.com/news/forex-news/article-1726174",
-      "published": "2026-10-26 22:00:03",
-      "isoDate": "2026-10-26T22:00:03Z"
+      "title": "+52%、+39%、+22%：AIが予測したブルーチップ株の躍進",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1726344",
+      "published": "2026-10-27 04:34:02",
+      "isoDate": "2026-10-27T04:34:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外取引の注目銘柄：CLS、AVGO、CDNS、AMKR、WHR",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1726134",
-      "published": "2026-10-26 21:13:02",
-      "isoDate": "2026-10-26T21:13:02Z"
+      "title": "今なら55％割引の「AI投資ツール」が急騰株を察知、米百貨店株は31％高、防衛株は2倍超に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1723299",
+      "published": "2026-10-27 00:59:12",
+      "isoDate": "2026-10-27T00:59:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,10 +97,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディア株が本日急騰した理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1725732",
-      "published": "2026-10-26 15:06:48",
-      "isoDate": "2026-10-26T15:06:48Z"
+      "title": "マイクロソフト、6万人に早期退職を提示　AI投資拡大で人員削減",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1725819",
+      "published": "2026-10-26 15:44:46",
+      "isoDate": "2026-10-26T15:44:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,10 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均テクニカル： 3日続落、一目均衡表は「変化日」到来",
-      "link": "https://jp.investing.com/news/forex-news/article-1724828",
-      "published": "2026-10-26 09:30:11",
-      "isoDate": "2026-10-26T09:30:11Z"
+      "title": "【今なら55％オフ】AI投資ツールで米国の有望株を発掘、決算で22％急騰の人材派遣株も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1724854",
+      "published": "2026-10-26 09:34:41",
+      "isoDate": "2026-10-26T09:34:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,34 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "ソラナ・カンパニーが香港の戦略企業に選出、バリデータ稼働などを計画",
+      "link": "https://coinpost.jp/?p=744862",
+      "published": "Tue, 27 Oct 2026 11:20:26 +0900",
+      "isoDate": "2026-10-27T02:20:26Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "デモと通信障害のフランスでビットチャットに注目、SNSアプリで首位",
+      "link": "https://coinpost.jp/?p=744792",
+      "published": "Tue, 27 Oct 2026 11:05:46 +0900",
+      "isoDate": "2026-10-27T02:05:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "クラーケン親会社、ハイパーリキッドで米規制下の仮想通貨無期限先物を展開へ",
+      "link": "https://coinpost.jp/?p=744773",
+      "published": "Tue, 27 Oct 2026 11:00:05 +0900",
+      "isoDate": "2026-10-27T02:00:05Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "リップルが米信託銀行設立で最終承認を獲得、ステーブルコイン準備金を保管可能に",
+      "link": "https://coinpost.jp/?p=744793",
+      "published": "Tue, 27 Oct 2026 09:50:48 +0900",
+      "isoDate": "2026-10-27T00:50:48Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "ビットコインの2026年末目標価格、シティなど3社が引き下げ　15万ドルまで約88％上昇必要",
       "link": "https://coinpost.jp/?p=744774",
       "published": "Tue, 27 Oct 2026 08:30:09 +0900",
@@ -162,7 +190,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "米資産運用大手バンガードの小型株ETF、メタプラネット株保有を初開示　12億円に相当",
+      "title": "世界2位の資産運用大手バンガード、12億円相当のメタプラネット株を保有　2025年から3倍増",
       "link": "https://coinpost.jp/?p=744776",
       "published": "Tue, 27 Oct 2026 06:25:15 +0900",
       "isoDate": "2026-10-26T21:25:15Z"
@@ -173,48 +201,6 @@
       "link": "https://coinpost.jp/?p=744763",
       "published": "Mon, 26 Oct 2026 21:40:31 +0900",
       "isoDate": "2026-10-26T12:40:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスへの個人ビットコイン入金が半年ぶり高水準　クジラは流入減＝アナリスト",
-      "link": "https://coinpost.jp/?p=744710",
-      "published": "Mon, 26 Oct 2026 13:43:15 +0900",
-      "isoDate": "2026-10-26T04:43:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国の大統領府、またも仮想通貨課税の延期を検討　実現なら4回目",
-      "link": "https://coinpost.jp/?p=744652",
-      "published": "Mon, 26 Oct 2026 12:55:48 +0900",
-      "isoDate": "2026-10-26T03:55:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨狙うiPhone攻撃、関連偽サイト1500件超＝スローミスト",
-      "link": "https://coinpost.jp/?p=744662",
-      "published": "Mon, 26 Oct 2026 11:26:53 +0900",
-      "isoDate": "2026-10-26T02:26:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインに3週間書き込まれ続ける「暗号風の文」とは？　ギャラクシーデジタル分析",
-      "link": "https://coinpost.jp/?p=744620",
-      "published": "Mon, 26 Oct 2026 09:45:31 +0900",
-      "isoDate": "2026-10-26T00:45:31Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "インド大手取引所CoinDCX、旧ウォレットから1599万USDT流出",
-      "link": "https://coinpost.jp/?p=744616",
-      "published": "Mon, 26 Oct 2026 08:52:28 +0900",
-      "isoDate": "2026-10-25T23:52:28Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "X、いいね長押しで1ドル送金へ　仮想通貨は依然非対応",
-      "link": "https://coinpost.jp/?p=744612",
-      "published": "Mon, 26 Oct 2026 08:09:45 +0900",
-      "isoDate": "2026-10-25T23:09:45Z"
     }
   ]
 }
