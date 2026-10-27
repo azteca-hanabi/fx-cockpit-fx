@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T20:25:27Z",
-  "last_checked": "2026-10-26T20:25:27Z",
+  "updated": "2026-10-27T00:00:57Z",
+  "last_checked": "2026-10-27T00:00:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,17 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "AnthropicはGoogleとAmazon、マイクロソフトから収益の約半分を得ている",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1725901",
-      "published": "2026-10-26 17:21:39",
-      "isoDate": "2026-10-26T17:21:39Z"
+      "title": "NY株式：NYダウは146.42ドル高、ハイテクが支援",
+      "link": "https://jp.investing.com/news/forex-news/article-1726174",
+      "published": "2026-10-26 22:00:03",
+      "isoDate": "2026-10-26T22:00:03Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "SpaceXがアポロ・グローバルと400億ドルのGPUリース契約を締結",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1725257",
-      "published": "2026-10-26 12:10:04",
-      "isoDate": "2026-10-26T12:10:04Z"
+      "title": "時間外取引の注目銘柄：CLS、AVGO、CDNS、AMKR、WHR",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1726134",
+      "published": "2026-10-26 21:13:02",
+      "isoDate": "2026-10-26T21:13:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピックIPOに潜む7つのリスク、AIの暴走から巨額投資負担まで",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1725948",
+      "published": "2026-10-26 18:51:45",
+      "isoDate": "2026-10-26T18:51:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア株が本日急騰した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1725732",
+      "published": "2026-10-26 15:06:48",
+      "isoDate": "2026-10-26T15:06:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピックがIPO申請、収益急増で評価額は最大315兆円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1725488",
+      "published": "2026-10-26 13:16:15",
+      "isoDate": "2026-10-26T13:16:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "後場の日経平均は491円安でスタート、キオクシアHDやディスコなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724561",
-      "published": "2026-10-26 04:15:13",
-      "isoDate": "2026-10-26T04:15:13Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "マスク氏、ネオクラウド200社超の「淘汰」を警告、スペースXは400億ドル調達と表明",
       "link": "https://jp.investing.com/news/stock-market-news/article-1724516",
       "published": "2026-10-26 01:21:49",
@@ -125,27 +139,34 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は243円安でスタート、アドバンテストやリクルートHDなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724493",
-      "published": "2026-10-26 00:30:10",
-      "isoDate": "2026-10-26T00:30:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "折りたたみiPhoneが発売直後にほぼ完売、アップルが30%増産要請と台湾紙",
       "link": "https://jp.investing.com/news/stock-market-news/article-1724473",
       "published": "2026-10-25 23:40:05",
       "isoDate": "2026-10-25T23:40:05Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アップルに弱気、インテルに強気──AI関連の「最新投資判断」を総点検",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1724373",
-      "published": "2026-10-25 09:00:00",
-      "isoDate": "2026-10-25T09:00:00Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの2026年末目標価格、シティなど3社が引き下げ　15万ドルまで約88％上昇必要",
+      "link": "https://coinpost.jp/?p=744774",
+      "published": "Tue, 27 Oct 2026 08:30:09 +0900",
+      "isoDate": "2026-10-26T23:30:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "予測市場カルシ、S&P指数の公式値で決済する契約を提供へ　指数大手と提携",
+      "link": "https://coinpost.jp/?p=744775",
+      "published": "Tue, 27 Oct 2026 07:30:12 +0900",
+      "isoDate": "2026-10-26T22:30:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米資産運用大手バンガードの小型株ETF、メタプラネット株保有を初開示　12億円に相当",
+      "link": "https://coinpost.jp/?p=744776",
+      "published": "Tue, 27 Oct 2026 06:25:15 +0900",
+      "isoDate": "2026-10-26T21:25:15Z"
+    },
     {
       "source": "CoinPost",
       "title": "米上場ストライブ、780億円相当ビットコインを追加購入　保有量4.3万BTCに",
@@ -194,27 +215,6 @@
       "link": "https://coinpost.jp/?p=744612",
       "published": "Mon, 26 Oct 2026 08:09:45 +0900",
       "isoDate": "2026-10-25T23:09:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=744399",
-      "published": "Sun, 25 Oct 2026 11:30:17 +0900",
-      "isoDate": "2026-10-25T02:30:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、8万ドルまで下落後　ETF・企業の取得単価付近で反発＝グラスノード",
-      "link": "https://coinpost.jp/?p=744525",
-      "published": "Sat, 24 Oct 2026 17:00:17 +0900",
-      "isoDate": "2026-10-24T08:00:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ソラナ、取引確定時間が約85分の1に　「アルペングロー」がメインネットで稼働",
-      "link": "https://coinpost.jp/?p=744547",
-      "published": "Sat, 24 Oct 2026 14:00:03 +0900",
-      "isoDate": "2026-10-24T05:00:03Z"
     }
   ]
 }
