@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-28T19:00:16Z",
-  "last_checked": "2026-10-28T19:00:16Z",
+  "updated": "2026-10-28T23:25:35Z",
+  "last_checked": "2026-10-28T23:25:35Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、103.50ドルの抵抗帯でダブルトップ形成の兆し",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
+      "published": "2026-10-28 19:13:02",
+      "isoDate": "2026-10-28T19:13:02Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅が61.8%フィボナッチ抵抗線をテスト、MFI過買いで強気トラップに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
+      "published": "2026-10-28 19:12:40",
+      "isoDate": "2026-10-28T19:12:40Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銀（シルバー）、ベアフラッグ形成中で上値抵抗帯を試す",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
+      "published": "2026-10-28 19:12:22",
+      "isoDate": "2026-10-28T19:12:22Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ブレント原油、20日・50日SMA間で膠着--上下どちらへ？",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
+      "published": "2026-10-28 19:12:16",
+      "isoDate": "2026-10-28T19:12:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）、弱気フラグ形成中で4110ドルの抵抗帯に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
+      "published": "2026-10-28 19:12:06",
+      "isoDate": "2026-10-28T19:12:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "北西ヨーロッパのディーゼルマージン、強弱混在のシグナルの中で横ばい",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1730383",
+      "published": "2026-10-28 19:03:37",
+      "isoDate": "2026-10-28T19:03:37Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSがブレント原油価格予測を引き上げ、中東供給リスクが相場を下支え",
@@ -18,41 +60,6 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、98.50ドルのサポートゾーンでレンジ継続",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
-      "published": "2026-10-28 07:08:43",
-      "isoDate": "2026-10-28T07:08:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（シルバー）、ベアフラッグ80%完成で下落継続リスク高まる",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
-      "published": "2026-10-28 07:08:36",
-      "isoDate": "2026-10-28T07:08:36Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ブレント原油、117.45ドルの急反落後にSMA(50)付近で攻防",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
-      "published": "2026-10-28 07:08:35",
-      "isoDate": "2026-10-28T07:08:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅が200SMAを突破も過熱感が強く反落リスクに警戒",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
-      "published": "2026-10-28 07:07:42",
-      "isoDate": "2026-10-28T07:07:42Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金（ゴールド）、ベアフラッグ80%完成でUSD 3989サポートに試練",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
-      "published": "2026-10-28 07:07:38",
-      "isoDate": "2026-10-28T07:07:38Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
       "title": "フーシ派のサウジアラビア攻撃が外交努力に影を落とし、原油価格が上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1728436",
       "published": "2026-10-28 01:42:31",
@@ -64,36 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1728413",
       "published": "2026-10-28 00:57:07",
       "isoDate": "2026-10-28T00:57:07Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "南アフリカのトウモロコシ農家、作付面積を2019年以来最小に縮小へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1728010",
-      "published": "2026-10-27 19:15:03",
-      "isoDate": "2026-10-27T19:15:03Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "PalantirのAI責任者、中国が台湾侵攻に踏み切る可能性を警告",
+      "title": "マーベル・テクノロジー・グループの株価が時間外取引で急落した理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1730923",
+      "published": "2026-10-28 22:03:52",
+      "isoDate": "2026-10-28T22:03:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、光学機器メーカーのルーメンタム買収交渉か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1730909",
+      "published": "2026-10-28 21:56:16",
+      "isoDate": "2026-10-28T21:56:16Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アルファベットQ3 2026決算、利益予想を大幅に下回り時間外取引で10%急落",
+      "link": "https://jp.investing.com/news/transcripts/article-93CH-1730900",
+      "published": "2026-10-28 21:52:27",
+      "isoDate": "2026-10-28T21:52:27Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国は台湾侵攻でTSMC掌握を狙う、パランティア幹部が警告",
       "link": "https://jp.investing.com/news/stock-market-news/article-1730268",
-      "published": "2026-10-28 17:45:14",
-      "isoDate": "2026-10-28T17:45:14Z"
+      "published": "2026-10-28 21:17:09",
+      "isoDate": "2026-10-28T21:17:09Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテルが量子コンピューター企業を23億ドルで買収へ、関連株に追い風か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1729724",
-      "published": "2026-10-28 13:13:11",
-      "isoDate": "2026-10-28T13:13:11Z"
+      "title": "アルファベット株が8.5%急落、決算ミスがクラウド好調を上回る",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1730501",
+      "published": "2026-10-28 20:08:21",
+      "isoDate": "2026-10-28T20:08:21Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "今日の日経平均とドル円：6万4000円台回復、円安158円目前、キオクシア15％急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1728606",
-      "published": "2026-10-28 06:32:23",
-      "isoDate": "2026-10-28T06:32:23Z"
+      "title": "アマゾンが「家庭内AI」を強化、アレクサに3Dマップ機能搭載",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1729702",
+      "published": "2026-10-28 13:08:19",
+      "isoDate": "2026-10-28T13:08:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,13 +132,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "メタが最大15兆円のAI資金調達に奔走、ザッカーバーグが競合に先手",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1727463",
-      "published": "2026-10-27 13:36:46",
-      "isoDate": "2026-10-27T13:36:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップルが1,999ドルからの新型MacBook Pro発表、M6チップ搭載",
       "link": "https://jp.investing.com/news/assorted/article-432SI-1727367",
       "published": "2026-10-27 13:06:04",
@@ -125,24 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "今なら55%オフの「AI投資戦略」を決算シーズンに徹底活用、10月に急騰の米国株は？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1726789",
-      "published": "2026-10-27 10:10:44",
-      "isoDate": "2026-10-27T10:10:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIが急上昇を察知の「米エネルギー株」2銘柄、数カ月で株価2倍近くに",
       "link": "https://jp.investing.com/news/stock-market-news/article-1726639",
       "published": "2026-10-27 09:12:34",
       "isoDate": "2026-10-27T09:12:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本では無名の米「外食チェーン株」が10月に30%急伸、AIが上昇を察知",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1726355",
-      "published": "2026-10-27 05:01:43",
-      "isoDate": "2026-10-27T05:01:43Z"
     }
   ],
   "btc_items": [
