@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-30T08:20:55Z",
-  "last_checked": "2026-10-30T08:20:55Z",
+  "updated": "2026-10-30T15:12:50Z",
+  "last_checked": "2026-10-30T15:12:50Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、米・イラン軍事緊張で10月に40%急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1734704",
+      "published": "2026-10-30 11:05:14",
+      "isoDate": "2026-10-30T11:05:14Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】WTI原油、103.55ドル抵抗線下で上昇三角形を形成中",
@@ -39,7 +46,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイランへの軍事オプションを検討、原油価格が約6カ月ぶり高値に接近",
+      "title": "米国がイランへの軍事オプションを検討、原油は月間上昇軌道を維持",
       "link": "https://jp.investing.com/news/commodities-news/article-1733815",
       "published": "2026-10-30 01:40:06",
       "isoDate": "2026-10-30T01:40:06Z"
@@ -64,43 +71,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1732958",
       "published": "2026-10-29 15:02:24",
       "isoDate": "2026-10-29T15:02:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格、利益確定売りで2022年高値から反落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1731831",
-      "published": "2026-10-29 10:18:55",
-      "isoDate": "2026-10-29T10:18:55Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米AI関連株安を映してリスク回避の売りが強まる【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1734053",
-      "published": "2026-10-30 08:00:14",
-      "isoDate": "2026-10-30T08:00:14Z"
+      "title": "なぜ北京はSpaceXとテスラの合併を阻止できるのか",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1734923",
+      "published": "2026-10-30 12:20:25",
+      "isoDate": "2026-10-30T12:20:25Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "東証グロース市場250指数先物概況：インテル株安や日銀のETF売却ペース加速で続落",
-      "link": "https://jp.investing.com/news/forex-news/article-1734034",
-      "published": "2026-10-30 07:45:15",
-      "isoDate": "2026-10-30T07:45:15Z"
+      "title": "インテルの弱い見通しを受け、世界の半導体株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1734809",
+      "published": "2026-10-30 11:34:59",
+      "isoDate": "2026-10-30T11:34:59Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株見通し：下げ渋りか、ハイテク売りを見極め",
-      "link": "https://jp.investing.com/news/forex-news/article-1733922",
-      "published": "2026-10-30 05:00:17",
-      "isoDate": "2026-10-30T05:00:17Z"
+      "title": "アマゾン株が時間外で7%急落、AI関連の設備投資が15兆円増加",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1734137",
+      "published": "2026-10-30 08:34:58",
+      "isoDate": "2026-10-30T08:34:58Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "時間外23％急落のインテル株は「買い」か？　AIで100万円投資をシミュレーション",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1733911",
-      "published": "2026-10-30 04:46:15",
-      "isoDate": "2026-10-30T04:46:15Z"
+      "title": "富士通株が16%急落、上期減益を嫌気　半導体コスト上昇が重荷",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1733903",
+      "published": "2026-10-30 04:29:28",
+      "isoDate": "2026-10-30T04:29:28Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,7 +118,14 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "インテル株が20%急落、第4四半期の弱い見通しが好決算を上回る",
+      "title": "スペースX、売上の3分の1以上をアンソロピックが占める　AI計算資源の提供で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1733806",
+      "published": "2026-10-30 01:14:51",
+      "isoDate": "2026-10-30T01:14:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "インテル株が28%超急落、弱い見通しが好決算を打ち消す",
       "link": "https://jp.investing.com/news/stock-market-news/article-1733358",
       "published": "2026-10-29 20:13:56",
       "isoDate": "2026-10-29T20:13:56Z"
@@ -136,16 +143,23 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1732245",
       "published": "2026-10-29 11:37:31",
       "isoDate": "2026-10-29T11:37:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【本日深夜まで55％割引】AI投資ツールで急騰株を発掘、米国株から新興国株まで",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1728951",
-      "published": "2026-10-28 09:35:27",
-      "isoDate": "2026-10-28T09:35:27Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "SBI VCトレードとビットバンク、バイナンスの暗号資産流出で顧客資産に影響なし",
+      "link": "https://coinpost.jp/?p=745755",
+      "published": "Fri, 30 Oct 2026 21:25:00 +0900",
+      "isoDate": "2026-10-30T12:25:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、ハッキング調査で複数の侵入箇所が判明",
+      "link": "https://coinpost.jp/?p=745739",
+      "published": "Fri, 30 Oct 2026 19:10:27 +0900",
+      "isoDate": "2026-10-30T10:10:27Z"
+    },
     {
       "source": "CoinPost",
       "title": "フランス上院、仮想通貨の税務報告枠組み「CARF」合意の法案可決",
@@ -176,7 +190,7 @@
     },
     {
       "source": "CoinPost",
-      "title": "バイナンス約1兆円流出、TRMが北朝鮮の犯行と分析",
+      "title": "約1兆円の不正流出を受けたバイナンス、TRMが北朝鮮の犯行と分析",
       "link": "https://coinpost.jp/?p=745651",
       "published": "Fri, 30 Oct 2026 14:10:37 +0900",
       "isoDate": "2026-10-30T05:10:37Z"
@@ -236,13 +250,6 @@
       "link": "https://coinpost.jp/?p=745516",
       "published": "Fri, 30 Oct 2026 09:58:58 +0900",
       "isoDate": "2026-10-30T00:58:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ムーディーズ、リップルのステーブルコインRLUSDに『A2』格付けを付与",
-      "link": "https://coinpost.jp/?p=745457",
-      "published": "Fri, 30 Oct 2026 09:45:46 +0900",
-      "isoDate": "2026-10-30T00:45:46Z"
     }
   ]
 }
