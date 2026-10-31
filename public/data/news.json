@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-31T16:15:02Z",
-  "last_checked": "2026-10-31T16:15:02Z",
+  "updated": "2026-10-31T20:11:28Z",
+  "last_checked": "2026-10-31T20:11:28Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "シティ、中東リスクで2027年の欧州ガス価格上昇を予測",
+      "link": "https://jp.investing.com/news/commodities-news/article-1735715",
+      "published": "2026-10-31 19:33:24",
+      "isoDate": "2026-10-31T19:33:24Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "石炭供給、アジアの需要増加に追いつけず",
@@ -64,23 +71,9 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1733815",
       "published": "2026-10-30 01:40:06",
       "isoDate": "2026-10-30T01:40:06Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が4,000ドルを割り込む、インフレ懸念が重石に",
-      "link": "https://jp.investing.com/news/commodities-news/article-1733810",
-      "published": "2026-10-30 01:16:13",
-      "isoDate": "2026-10-30T01:16:13Z"
     }
   ],
   "usdjpy_items": [
-    {
-      "source": "Investing.com 外為",
-      "title": "ハイテク株は「売られすぎ」、ドイツ銀行が投資判断を引き上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735687",
-      "published": "2026-10-31 11:02:38",
-      "isoDate": "2026-10-31T11:02:38Z"
-    },
     {
       "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：米中間選挙、米雇用統計、国内決算発表本格化",
@@ -136,6 +129,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1735199",
       "published": "2026-10-30 14:53:10",
       "isoDate": "2026-10-30T14:53:10Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に4日ぶり反落、アドバンテストや東エレクが2銘柄で約731円分押し下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1734092",
+      "published": "2026-10-30 08:15:16",
+      "isoDate": "2026-10-30T08:15:16Z"
     },
     {
       "source": "Investing.com 外為",
