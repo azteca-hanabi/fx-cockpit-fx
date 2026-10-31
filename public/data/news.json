@@ -1,7 +1,14 @@
 {
-  "updated": "2026-10-31T20:11:28Z",
-  "last_checked": "2026-10-31T20:11:28Z",
+  "updated": "2026-10-31T23:34:30Z",
+  "last_checked": "2026-10-31T23:34:30Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "OPEC+、12月の石油生産目標を維持へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1735718",
+      "published": "2026-10-31 20:44:25",
+      "isoDate": "2026-10-31T20:44:25Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "シティ、中東リスクで2027年の欧州ガス価格上昇を予測",
@@ -64,22 +71,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1734704",
       "published": "2026-10-30 11:05:14",
       "isoDate": "2026-10-30T11:05:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米国がイランへの軍事オプションを検討、原油は月間上昇軌道を維持",
-      "link": "https://jp.investing.com/news/commodities-news/article-1733815",
-      "published": "2026-10-30 01:40:06",
-      "isoDate": "2026-10-30T01:40:06Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ハイテク株は「売られすぎ」、ドイツ銀行が投資判断を引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1735687",
+      "published": "2026-10-31 11:02:38",
+      "isoDate": "2026-10-31T11:02:38Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "来週の相場で注目すべき3つのポイント：米中間選挙、米雇用統計、国内決算発表本格化",
       "link": "https://jp.investing.com/news/forex-news/article-1735673",
       "published": "2026-10-31 09:15:04",
       "isoDate": "2026-10-31T09:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンクG出資のフィンテックOPay、米IPOを直前に撤回",
+      "link": "https://jp.investing.com/news/company-news/article-1735671",
+      "published": "2026-10-31 09:08:56",
+      "isoDate": "2026-10-31T09:08:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,13 +118,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "タイトル：NY株式：NYダウは572.25ドル安、ハイテク企業の低調な決算でAI巨大投資への警戒強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1735525",
-      "published": "2026-10-30 21:30:04",
-      "isoDate": "2026-10-30T21:30:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アップルが時価総額で世界首位に返り咲き、エヌビディア急落で逆転",
       "link": "https://jp.investing.com/news/stock-market-news/article-1735519",
       "published": "2026-10-30 21:17:53",
@@ -132,17 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に4日ぶり反落、アドバンテストや東エレクが2銘柄で約731円分押し下げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1734092",
-      "published": "2026-10-30 08:15:16",
-      "isoDate": "2026-10-30T08:15:16Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "13%急落のグーグル株を100万円「押し目買い」、半年後いくらになる？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1733850",
-      "published": "2026-10-30 02:36:54",
-      "isoDate": "2026-10-30T02:36:54Z"
+      "title": "決算で29％急落のインテル株は「買い」か？　AIで100万円投資をシミュレーション",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1733911",
+      "published": "2026-10-30 04:46:15",
+      "isoDate": "2026-10-30T04:46:15Z"
     }
   ],
   "btc_items": [
