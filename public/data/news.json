@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T23:58:03Z",
-  "last_checked": "2026-10-30T23:58:03Z",
+  "updated": "2026-10-31T05:20:37Z",
+  "last_checked": "2026-10-31T05:20:37Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,21 +76,21 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "BasetenがIPO前に300億ドル評価額を目指す20億ドルの資金調達へ",
-      "link": "https://jp.investing.com/news/company-news/article-1735578",
-      "published": "2026-10-30 22:55:58",
-      "isoDate": "2026-10-30T22:55:58Z"
+      "title": "米国株式市場は続落、ハイテク企業の低調な決算でAI巨大投資への警戒強まる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1735603",
+      "published": "2026-10-31 00:30:06",
+      "isoDate": "2026-10-31T00:30:06Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "タイトル：NY株式：NYダウは572.25ドル安、ハイテク企業の低調な決算でAI巨大投資への警戒強まる",
-      "link": "https://jp.investing.com/news/forex-news/article-1735525",
-      "published": "2026-10-30 21:30:04",
-      "isoDate": "2026-10-30T21:30:04Z"
+      "title": "グーグル、米ミサイル防衛「ゴールデンドーム」に参画か　国防総省と協議",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1735543",
+      "published": "2026-10-30 21:50:59",
+      "isoDate": "2026-10-30T21:50:59Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アップルがエヌビディアを抜き世界最大の時価総額企業に返り咲き",
+      "title": "アップルが時価総額で世界首位に返り咲き、エヌビディア急落で逆転",
       "link": "https://jp.investing.com/news/stock-market-news/article-1735519",
       "published": "2026-10-30 21:17:53",
       "isoDate": "2026-10-30T21:17:53Z"
@@ -148,14 +148,28 @@
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "米CFTC委員長、バイナンス被害に触れ仮想通貨取引所が選べる伝統金融並みの保護を提案",
-      "link": "https://coinpost.jp/?p=745771",
-      "published": "Sat, 31 Oct 2026 08:57:45 +0900",
-      "isoDate": "2026-10-30T23:57:45Z"
+      "title": "ブロックチェーン分析大手チェイナリシスに不正アクセス、10月だけでも日米で個人情報漏えい10事例以上",
+      "link": "https://coinpost.jp/?p=745824",
+      "published": "Sat, 31 Oct 2026 14:02:04 +0900",
+      "isoDate": "2026-10-31T05:02:04Z"
     },
     {
       "source": "CoinPost",
-      "title": "米CFTC委員長、バイナンス被害の事案受け仮想通貨取引所に連邦登録を提供へ",
+      "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+      "link": "https://coinpost.jp/?p=745789",
+      "published": "Sat, 31 Oct 2026 13:45:50 +0900",
+      "isoDate": "2026-10-31T04:45:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当",
+      "link": "https://coinpost.jp/?p=745770",
+      "published": "Sat, 31 Oct 2026 10:20:48 +0900",
+      "isoDate": "2026-10-31T01:20:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米CFTC委員長、バイナンス被害めぐり仮想通貨取引所が選べる伝統金融並みの保護を提案",
       "link": "https://coinpost.jp/?p=745772",
       "published": "Sat, 31 Oct 2026 07:32:52 +0900",
       "isoDate": "2026-10-30T22:32:52Z"
@@ -208,41 +222,6 @@
       "link": "https://coinpost.jp/?p=745506",
       "published": "Fri, 30 Oct 2026 16:00:12 +0900",
       "isoDate": "2026-10-30T07:00:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットCEO、バイナンス流出受け声明　保有ビットコインは全量コールド保管",
-      "link": "https://coinpost.jp/?p=745669",
-      "published": "Fri, 30 Oct 2026 15:29:54 +0900",
-      "isoDate": "2026-10-30T06:29:54Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "約1兆円の不正流出を受けたバイナンス、TRMが北朝鮮の犯行と分析",
-      "link": "https://coinpost.jp/?p=745651",
-      "published": "Fri, 30 Oct 2026 14:10:37 +0900",
-      "isoDate": "2026-10-30T05:10:37Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンスジャパンが暗号資産入出金を一時停止、ビットフライヤーはバイナンス送金を制限",
-      "link": "https://coinpost.jp/?p=745638",
-      "published": "Fri, 30 Oct 2026 13:40:48 +0900",
-      "isoDate": "2026-10-30T04:40:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス、ハッキング流出額が約1兆円に上る　全額補償を表明",
-      "link": "https://coinpost.jp/?p=745631",
-      "published": "Fri, 30 Oct 2026 13:25:24 +0900",
-      "isoDate": "2026-10-30T04:25:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン急落、バイナンス1兆円規模の流出で市場に動揺｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=745576",
-      "published": "Fri, 30 Oct 2026 12:35:57 +0900",
-      "isoDate": "2026-10-30T03:35:57Z"
     }
   ]
 }
