@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T05:18:05Z",
-  "last_checked": "2026-11-01T05:18:05Z",
+  "updated": "2026-11-01T11:57:58Z",
+  "last_checked": "2026-11-01T11:57:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,7 +76,28 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "AI投資家、テクノロジー市場の下落リスクに対するヘッジを急ぐ",
+      "title": "パキスタン向けLNGタンカー、イラン許可後もホルムズ海峡付近で攻撃される",
+      "link": "https://jp.investing.com/news/economy-news/article-1735818",
+      "published": "2026-11-01 09:59:33",
+      "isoDate": "2026-11-01T09:59:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イラン、ホルムズ海峡「2日以内に再開」を提案、トランプは交渉進展を示唆",
+      "link": "https://jp.investing.com/news/economy-news/article-1735749",
+      "published": "2026-11-01 07:18:26",
+      "isoDate": "2026-11-01T07:18:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコインの市場心理が「恐怖」に転換、7万5000ドル割れも視野に",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1735739",
+      "published": "2026-11-01 05:19:12",
+      "isoDate": "2026-11-01T05:19:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AI投資ブームに異変、ウォール街で下落リスクへの備えが加速=WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1735731",
       "published": "2026-11-01 02:32:11",
       "isoDate": "2026-11-01T02:32:11Z"
@@ -118,31 +139,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株式市場は続落、ハイテク企業の低調な決算でAI巨大投資への警戒強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735603",
-      "published": "2026-10-31 00:30:06",
-      "isoDate": "2026-10-31T00:30:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "グーグル、米ミサイル防衛「ゴールデンドーム」に参画か　国防総省と協議",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735543",
-      "published": "2026-10-30 21:50:59",
-      "isoDate": "2026-10-30T21:50:59Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "キオクシアのNAND価格警告を受け、サンディスクが急落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1735287",
       "published": "2026-10-30 15:48:34",
       "isoDate": "2026-10-30T15:48:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "スペースX株が本日下落している理由とは",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1735199",
-      "published": "2026-10-30 14:53:10",
-      "isoDate": "2026-10-30T14:53:10Z"
     }
   ],
   "btc_items": [
