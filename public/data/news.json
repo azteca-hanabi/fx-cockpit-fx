@@ -1,7 +1,56 @@
 {
-  "updated": "2026-11-02T01:22:13Z",
-  "last_checked": "2026-11-02T01:22:13Z",
+  "updated": "2026-11-02T08:03:31Z",
+  "last_checked": "2026-11-02T08:03:31Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ブレント原油、イチモク雲を下抜けダブルトップ形成中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736195",
+      "published": "2026-11-02 07:08:57",
+      "isoDate": "2026-11-02T07:08:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銀（シルバー）、強い下降チャネルで売り優勢--RSIは売られ過ぎ圏",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736194",
+      "published": "2026-11-02 07:08:51",
+      "isoDate": "2026-11-02T07:08:51Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、雲サポートで十字線形成：レンジ継続か上抜けか",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736193",
+      "published": "2026-11-02 07:08:50",
+      "isoDate": "2026-11-02T07:08:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金（ゴールド）、RSI過売りで急落継続-3879ドル割れに警戒",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736192",
+      "published": "2026-11-02 07:08:46",
+      "isoDate": "2026-11-02T07:08:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、移動平均線とクラウド下で下落継続シグナル",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736191",
+      "published": "2026-11-02 07:08:28",
+      "isoDate": "2026-11-02T07:08:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "トランプ大統領、中間選挙前にイラン外交を優先　原油3%超下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1735981",
+      "published": "2026-11-02 01:27:37",
+      "isoDate": "2026-11-02T01:27:37Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が3,900ドル超に反発、10月の急落後に押し目買い",
+      "link": "https://jp.investing.com/news/commodities-news/article-1735972",
+      "published": "2026-11-02 01:05:53",
+      "isoDate": "2026-11-02T01:05:53Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "OPEC+、12月の石油生産目標を維持へ",
@@ -22,92 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1735661",
       "published": "2026-10-31 07:58:28",
       "isoDate": "2026-10-31T07:58:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（シルバー）、極度の売られ過ぎで下降チャネル継続中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724677",
-      "published": "2026-10-30 19:13:02",
-      "isoDate": "2026-10-30T19:13:02Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、106.75ドルの主要抵抗でダブルトップ形成中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724678",
-      "published": "2026-10-30 19:13:01",
-      "isoDate": "2026-10-30T19:13:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ブレント原油、SuperTrendレジスタンス下で圧縮中",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724676",
-      "published": "2026-10-30 19:12:59",
-      "isoDate": "2026-10-30T19:12:59Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、ダブルトップ崩壊で下落継続--6.34ドルが次の焦点",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724675",
-      "published": "2026-10-30 19:12:54",
-      "isoDate": "2026-10-30T19:12:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金（ゴールド）が全主要サポートを割り込み極度の売られ過ぎ圏へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1724672",
-      "published": "2026-10-30 19:12:51",
-      "isoDate": "2026-10-30T19:12:51Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "セルビアのNIS石油会社、米制裁の免除を12月11日まで延長取得",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1735371",
-      "published": "2026-10-30 17:16:43",
-      "isoDate": "2026-10-30T17:16:43Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、米・イラン軍事緊張で10月に40%急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1734704",
-      "published": "2026-10-30 11:05:14",
-      "isoDate": "2026-10-30T11:05:14Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は318円安でスタート、アドバンテストや三菱UFJなどが下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735960",
-      "published": "2026-11-02 00:45:08",
-      "isoDate": "2026-11-02T00:45:08Z"
+      "title": "米民主党勝利で「ヘルスケア株」急伸か？　上昇余地40％超えの大手も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736128",
+      "published": "2026-11-02 06:28:05",
+      "isoDate": "2026-11-02T06:28:05Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物、10月の急落後に小幅上昇－決算と中間選挙に注目",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735958",
-      "published": "2026-11-02 00:31:38",
-      "isoDate": "2026-11-02T00:31:38Z"
+      "title": "アップル決算控え、韓国KOSPIなどアジア株上昇、半導体株がけん引",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736028",
+      "published": "2026-11-02 04:21:47",
+      "isoDate": "2026-11-02T04:21:47Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "日経平均は395円安、寄り後はもみ合い",
-      "link": "https://jp.investing.com/news/forex-news/article-1735954",
-      "published": "2026-11-02 00:15:08",
-      "isoDate": "2026-11-02T00:15:08Z"
+      "title": "後場の日経平均は79円高でスタート、アドバンテストや東京エレクトロンなどが上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736025",
+      "published": "2026-11-02 04:00:12",
+      "isoDate": "2026-11-02T04:00:12Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "強弱材料 11/2",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735949",
-      "published": "2026-11-02 00:00:06",
-      "isoDate": "2026-11-02T00:00:06Z"
+      "title": "AI予測で知る「日本株の勝ち組」20選、11月は地銀2行を採用し「守り」を強化",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736002",
+      "published": "2026-11-02 02:31:13",
+      "isoDate": "2026-11-02T02:31:13Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "米テック株安を映してリスク回避の動き継続へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735940",
-      "published": "2026-11-01 23:30:05",
-      "isoDate": "2026-11-01T23:30:05Z"
+      "title": "キオクシア株が本日急落した理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1735987",
+      "published": "2026-11-02 02:05:55",
+      "isoDate": "2026-11-02T02:05:55Z"
     },
     {
       "source": "Investing.com 外為",
@@ -146,6 +146,13 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場企業、5833BTCのビットコイン売却か担保化を検討　バイナンス事件受け",
+      "link": "https://coinpost.jp/?p=745949",
+      "published": "Mon, 02 Nov 2026 14:55:04 +0900",
+      "isoDate": "2026-11-02T05:55:04Z"
+    },
     {
       "source": "CoinPost",
       "title": "トランプ氏、北朝鮮関与なら対話の意向　バイナンス攻撃でFBIが関与発表",
@@ -201,27 +208,6 @@
       "link": "https://coinpost.jp/?p=745770",
       "published": "Sat, 31 Oct 2026 10:20:48 +0900",
       "isoDate": "2026-10-31T01:20:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC委員長、バイナンス被害めぐり仮想通貨取引所が選べる伝統金融並みの保護を提案",
-      "link": "https://coinpost.jp/?p=745772",
-      "published": "Sat, 31 Oct 2026 07:32:52 +0900",
-      "isoDate": "2026-10-30T22:32:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米仮想通貨関連株が全面安、1兆円規模のハッキングも市場全体への脅威は限定的とアナリストが見解",
-      "link": "https://coinpost.jp/?p=745773",
-      "published": "Sat, 31 Oct 2026 07:05:00 +0900",
-      "isoDate": "2026-10-30T22:05:00Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「まだ分からない」トランプ大統領、バイナンス1兆円被害めぐり北朝鮮関与の可能性を調査中",
-      "link": "https://coinpost.jp/?p=745774",
-      "published": "Sat, 31 Oct 2026 06:20:03 +0900",
-      "isoDate": "2026-10-30T21:20:03Z"
     }
   ]
 }
