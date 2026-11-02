@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-02T08:03:31Z",
-  "last_checked": "2026-11-02T08:03:31Z",
+  "updated": "2026-11-02T18:43:28Z",
+  "last_checked": "2026-11-02T18:43:28Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UAEはイラン戦争にもかかわらず石油輸出を増加、エネルギー相が表明",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1737394",
+      "published": "2026-11-02 16:03:41",
+      "isoDate": "2026-11-02T16:03:41Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス価格、10月に30%急騰後に2022年以来の高値から反落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1736753",
+      "published": "2026-11-02 12:05:56",
+      "isoDate": "2026-11-02T12:05:56Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "【随時更新】ブレント原油、イチモク雲を下抜けダブルトップ形成中",
@@ -39,41 +53,55 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、中間選挙前にイラン外交を優先　原油3%超下落",
+      "title": "中東外交進展で原油4%急落、数カ月ぶり高値から反落",
       "link": "https://jp.investing.com/news/commodities-news/article-1735981",
       "published": "2026-11-02 01:27:37",
       "isoDate": "2026-11-02T01:27:37Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格が3,900ドル超に反発、10月の急落後に押し目買い",
+      "title": "金相場が3,900ドル超に反発、10月の急落後に押し目買い戻る",
       "link": "https://jp.investing.com/news/commodities-news/article-1735972",
       "published": "2026-11-02 01:05:53",
       "isoDate": "2026-11-02T01:05:53Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "OPEC+、12月の石油生産目標を維持へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1735718",
-      "published": "2026-10-31 20:44:25",
-      "isoDate": "2026-10-31T20:44:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "シティ、中東リスクで2027年の欧州ガス価格上昇を予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1735715",
-      "published": "2026-10-31 19:33:24",
-      "isoDate": "2026-10-31T19:33:24Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "石炭供給、アジアの需要増加に追いつけず",
-      "link": "https://jp.investing.com/news/commodities-news/article-1735661",
-      "published": "2026-10-31 07:58:28",
-      "isoDate": "2026-10-31T07:58:28Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXとテスラの全株式交換合併、市場反応をアナリストが試算",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1737354",
+      "published": "2026-11-02 15:14:43",
+      "isoDate": "2026-11-02T15:14:43Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ハイテク株に逆風、次の上昇候補は？ 11月のAI厳選銘柄を公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1734605",
+      "published": "2026-11-02 12:43:42",
+      "isoDate": "2026-11-02T12:43:42Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループとLumentumが1,150億ドルのAI巨大合併へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736823",
+      "published": "2026-11-02 12:19:52",
+      "isoDate": "2026-11-02T12:19:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マーベル・テクノロジー・グループ、ルーメンタムを1150億ドルの全株式交換で買収合意",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736828",
+      "published": "2026-11-02 12:19:36",
+      "isoDate": "2026-11-02T12:19:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株の主役は小売やヘルスケアに？ 11月の「AI推奨銘柄」リスト公開",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1736385",
+      "published": "2026-11-02 09:26:44",
+      "isoDate": "2026-11-02T09:26:44Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "米民主党勝利で「ヘルスケア株」急伸か？　上昇余地40％超えの大手も",
@@ -87,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1736028",
       "published": "2026-11-02 04:21:47",
       "isoDate": "2026-11-02T04:21:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "後場の日経平均は79円高でスタート、アドバンテストや東京エレクトロンなどが上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1736025",
-      "published": "2026-11-02 04:00:12",
-      "isoDate": "2026-11-02T04:00:12Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,38 +132,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イラン、ホルムズ海峡「2日以内に再開」を提案、トランプは交渉進展を示唆",
-      "link": "https://jp.investing.com/news/economy-news/article-1735749",
-      "published": "2026-11-01 07:18:26",
-      "isoDate": "2026-11-01T07:18:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国DeepSeekが自律型AIエージェント公開、Claude Codeに対抗",
-      "link": "https://jp.investing.com/news/company-news/article-1735740",
-      "published": "2026-11-01 05:45:12",
-      "isoDate": "2026-11-01T05:45:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコインの市場心理が「恐怖」に転換、7万5000ドル割れも視野に",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1735739",
-      "published": "2026-11-01 05:19:12",
-      "isoDate": "2026-11-01T05:19:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AI投資ブームに異変、ウォール街で下落リスクへの備えが加速=WSJ",
       "link": "https://jp.investing.com/news/stock-market-news/article-1735731",
       "published": "2026-11-01 02:32:11",
       "isoDate": "2026-11-01T02:32:11Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米メタが中国新興と「家事を手伝う」人型ロボット開発へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1735710",
-      "published": "2026-10-31 17:29:26",
-      "isoDate": "2026-10-31T17:29:26Z"
     }
   ],
   "btc_items": [
