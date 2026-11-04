@@ -1,55 +1,69 @@
 {
-  "updated": "2026-11-04T02:01:27Z",
-  "last_checked": "2026-11-04T02:01:27Z",
+  "updated": "2026-11-04T17:51:42Z",
+  "last_checked": "2026-11-04T17:51:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "米国・イランの交渉に엇갈うシグナル、原油価格は小幅上昇",
+      "title": "世界の石油市場は供給過剰に回帰か――JPモルガン・チェース・アンド・カンパニーが分析",
+      "link": "https://jp.investing.com/news/commodities-news/article-1742128",
+      "published": "2026-11-04 15:15:57",
+      "isoDate": "2026-11-04T15:15:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米中間選挙とホルムズ海峡協議の停滞で欧州ガス価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1740881",
+      "published": "2026-11-04 09:46:28",
+      "isoDate": "2026-11-04T09:46:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】WTI原油、200SMAで弱気モメンタム継続－$94.56が次の焦点",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736193",
+      "published": "2026-11-04 07:08:57",
+      "isoDate": "2026-11-04T07:08:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銀（シルバー）、マクロ下降トレンド中に反発--SMA(50)が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736194",
+      "published": "2026-11-04 07:07:57",
+      "isoDate": "2026-11-04T07:07:57Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】ブレント原油、200SMAサポートをテスト中--ダブルトップ後の下落継続シナリオ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736195",
+      "published": "2026-11-04 07:07:50",
+      "isoDate": "2026-11-04T07:07:50Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】金：ダブルボトム後のブレイクアウト、23.6%フィボナッチ抵抗に接近",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736192",
+      "published": "2026-11-04 07:07:48",
+      "isoDate": "2026-11-04T07:07:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "【随時更新】銅、ベアフラッグ崩壊後も下降トレンド継続中",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736191",
+      "published": "2026-11-04 07:07:47",
+      "isoDate": "2026-11-04T07:07:47Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油相場が続落、米中間選挙の結果とイラン情勢を市場が注視",
       "link": "https://jp.investing.com/news/commodities-news/article-1740305",
       "published": "2026-11-04 01:27:16",
       "isoDate": "2026-11-04T01:27:16Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、イラン交渉と米中間選挙を注視しながら3,930ドル近辺で推移",
+      "title": "民主党の中間選挙勝利でドル下落、金が4,000ドル超に急騰",
       "link": "https://jp.investing.com/news/commodities-news/article-1740296",
       "published": "2026-11-04 01:02:32",
       "isoDate": "2026-11-04T01:02:32Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】ブレント原油、200SMA下方でダブルトップ崩壊--下値目標USD 98.19",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736195",
-      "published": "2026-11-03 19:12:35",
-      "isoDate": "2026-11-03T19:12:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】WTI原油、主要サポート割れでダブルトップ完成",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736193",
-      "published": "2026-11-03 19:12:29",
-      "isoDate": "2026-11-03T19:12:29Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銀（シルバー）、強い下降トレンド継続中-$51.08の抵抗帯に注目",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736194",
-      "published": "2026-11-03 19:12:22",
-      "isoDate": "2026-11-03T19:12:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】金（ゴールド）、ベアフラッグ形成中--USD 3,980抵抗帯に接近",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736192",
-      "published": "2026-11-03 19:12:19",
-      "isoDate": "2026-11-03T19:12:19Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "【随時更新】銅、ベアフラッグ崩壊後に6.55ドル抵抗帯でショート好機",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1736191",
-      "published": "2026-11-03 19:12:12",
-      "isoDate": "2026-11-03T19:12:12Z"
     },
     {
       "source": "Investing.com 商品先物",
@@ -57,22 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1739694",
       "published": "2026-11-03 18:56:50",
       "isoDate": "2026-11-03T18:56:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "米軍がイランのケシュム島を攻撃、欧州天然ガス価格が急騰",
-      "link": "https://jp.investing.com/news/commodities-news/article-1738487",
-      "published": "2026-11-03 09:48:45",
-      "isoDate": "2026-11-03T09:48:45Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米国株先物は横ばい、中間選挙に注目——アドバンスト・マイクロ・デバイセズは好決算で急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1740277",
-      "published": "2026-11-04 00:36:43",
-      "isoDate": "2026-11-04T00:36:43Z"
+      "title": "クアルコム、スペースXの全国5G地上ネットワーク向けに機器を供給",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1741805",
+      "published": "2026-11-04 14:16:26",
+      "isoDate": "2026-11-04T14:16:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceX・テスラが下落、選挙リスク高まる中でモルガン・スタンレーは強気に転換",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1741488",
+      "published": "2026-11-04 12:36:45",
+      "isoDate": "2026-11-04T12:36:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "BMO、アマゾンをAIハイパースケーラーのトップ銘柄に再選定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1741483",
+      "published": "2026-11-04 12:35:05",
+      "isoDate": "2026-11-04T12:35:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "民主党が議会を制圧、アドバンスト・マイクロ・デバイセズ株が急騰――市場を動かす要因",
+      "link": "https://jp.investing.com/news/economy-news/article-1740756",
+      "published": "2026-11-04 08:56:25",
+      "isoDate": "2026-11-04T08:56:25Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアの中国顧客、700億ドル分RTXチップ注文のわずか1%受領へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1740426",
+      "published": "2026-11-04 05:01:11",
+      "isoDate": "2026-11-04T05:01:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は108円安でスタート、京セラやINPEXなどが下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1740289",
+      "published": "2026-11-04 01:00:09",
+      "isoDate": "2026-11-04T01:00:09Z"
     },
     {
       "source": "Investing.com 外為",
@@ -80,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1740144",
       "published": "2026-11-03 22:42:46",
       "isoDate": "2026-11-03T22:42:46Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ株、好決算と売上高見通しを受け時間外取引で急騰",
-      "link": "https://jp.investing.com/news/earnings/article-1739922",
-      "published": "2026-11-03 21:20:33",
-      "isoDate": "2026-11-03T21:20:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,40 +143,89 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1728463",
       "published": "2026-11-03 13:17:07",
       "isoDate": "2026-11-03T13:17:07Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "世界の成長株を先取りする「AI投資戦略」、6倍に急伸した香港テック株も",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1738254",
-      "published": "2026-11-03 07:31:47",
-      "isoDate": "2026-11-03T07:31:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "モルガン・スタンレー、アップル目標株価を引き下げ、サービス事業の減速を警戒",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1738245",
-      "published": "2026-11-03 07:25:37",
-      "isoDate": "2026-11-03T07:25:37Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、1ヶ月超ぶり安値7万7333ドルに下落——米中間選挙を前に警戒感",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1738213",
-      "published": "2026-11-03 06:41:10",
-      "isoDate": "2026-11-03T06:41:10Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "「株式」ADR日本株ランキング～やや買い優勢、シカゴは大阪日中比180円高の62780円",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1738087",
-      "published": "2026-11-03 01:15:05",
-      "isoDate": "2026-11-03T01:15:05Z"
     }
   ],
   "btc_items": [
     {
       "source": "CoinPost",
-      "title": "GitBookにAI悪用の不正アクセス　仮想通貨DEXも文書を一時停止",
+      "title": "民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇",
+      "link": "https://coinpost.jp/?p=746369",
+      "published": "Wed, 04 Nov 2026 22:00:37 +0900",
+      "isoDate": "2026-11-04T13:00:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン売り手に枯渇の兆し　需要はなお不足＝アナリスト",
+      "link": "https://coinpost.jp/?p=746347",
+      "published": "Wed, 04 Nov 2026 17:17:51 +0900",
+      "isoDate": "2026-11-04T08:17:51Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ブロック社、ビットコイン関連粗利益が半減　Cash Appの手数料引き下げで",
+      "link": "https://coinpost.jp/?p=746317",
+      "published": "Wed, 04 Nov 2026 16:26:23 +0900",
+      "isoDate": "2026-11-04T07:26:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米中間選挙で民主党が両院奪還へ、仮想通貨政策の主導権が交代か",
+      "link": "https://coinpost.jp/?p=746298",
+      "published": "Wed, 04 Nov 2026 15:16:28 +0900",
+      "isoDate": "2026-11-04T06:16:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス創設者CZ氏、仮想通貨業界へのAI攻撃増加を警告",
+      "link": "https://coinpost.jp/?p=746257",
+      "published": "Wed, 04 Nov 2026 14:30:43 +0900",
+      "isoDate": "2026-11-04T05:30:43Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "フランス国民議会、仮想通貨を「出国税」に含める修正案2件を否決",
+      "link": "https://coinpost.jp/?p=746225",
+      "published": "Wed, 04 Nov 2026 13:40:47 +0900",
+      "isoDate": "2026-11-04T04:40:47Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット傘下入り控えるスーパーリーグ、ビットコイン購入を倍々に　計15BTC",
+      "link": "https://coinpost.jp/?p=746249",
+      "published": "Wed, 04 Nov 2026 12:48:02 +0900",
+      "isoDate": "2026-11-04T03:48:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米SEC企業金融局、カントンコイン（CC）は証券に非該当との認識示す",
+      "link": "https://coinpost.jp/?p=746185",
+      "published": "Wed, 04 Nov 2026 12:15:33 +0900",
+      "isoDate": "2026-11-04T03:15:33Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "オンチェーン調査員ZachXBT、204億円超の仮想通貨流出元は仏銀行アルケアと特定",
+      "link": "https://coinpost.jp/?p=746223",
+      "published": "Wed, 04 Nov 2026 12:12:31 +0900",
+      "isoDate": "2026-11-04T03:12:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブータン・ゲレフ特区に中央銀行設立へ　仮想通貨の準備資産組み入れを容認",
+      "link": "https://coinpost.jp/?p=746218",
+      "published": "Wed, 04 Nov 2026 12:00:59 +0900",
+      "isoDate": "2026-11-04T03:00:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、バイナンス巨額流出で機関カストディの重要性を強調",
+      "link": "https://coinpost.jp/?p=746205",
+      "published": "Wed, 04 Nov 2026 11:30:23 +0900",
+      "isoDate": "2026-11-04T02:30:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "技術文書サービス大手GitBookにAI悪用で不正アクセス、DEXも資料を一時非公開に",
       "link": "https://coinpost.jp/?p=746183",
       "published": "Wed, 04 Nov 2026 11:00:51 +0900",
       "isoDate": "2026-11-04T02:00:51Z"
@@ -152,83 +236,6 @@
       "link": "https://coinpost.jp/?p=746175",
       "published": "Wed, 04 Nov 2026 10:30:39 +0900",
       "isoDate": "2026-11-04T01:30:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テザーが1.8兆円相当ビットコインを保有、ストラテジー以外の上場企業を大幅超過",
-      "link": "https://coinpost.jp/?p=746116",
-      "published": "Wed, 04 Nov 2026 08:20:03 +0900",
-      "isoDate": "2026-11-03T23:20:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBIの上期決算、暗号資産事業収益は231億円　前年同期比30.1％減",
-      "link": "https://coinpost.jp/?p=746135",
-      "published": "Wed, 04 Nov 2026 07:55:57 +0900",
-      "isoDate": "2026-11-03T22:55:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場のストライブが43124BTC保有、世界2位のメタプラネットへ接近",
-      "link": "https://coinpost.jp/?p=746115",
-      "published": "Wed, 04 Nov 2026 07:20:01 +0900",
-      "isoDate": "2026-11-03T22:20:01Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米CFTC、個別株の無期限先物上場を承認",
-      "link": "https://coinpost.jp/?p=746117",
-      "published": "Wed, 04 Nov 2026 06:50:05 +0900",
-      "isoDate": "2026-11-03T21:50:05Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "予測市場が「青い津波」予想、仮想通貨に関わるオハイオなど4州も民主党優勢　米中間選挙",
-      "link": "https://coinpost.jp/?p=746119",
-      "published": "Wed, 04 Nov 2026 06:20:10 +0900",
-      "isoDate": "2026-11-03T21:20:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ハッキングを受けたMercado Bitcoin、顧客は被害を負担しないと説明",
-      "link": "https://coinpost.jp/?p=746118",
-      "published": "Wed, 04 Nov 2026 05:50:07 +0900",
-      "isoDate": "2026-11-03T20:50:07Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "民主党が議会を制したら仮想通貨市場の法整備に逆風か、米中間選挙投票は3日夜から",
-      "link": "https://coinpost.jp/?p=746093",
-      "published": "Tue, 03 Nov 2026 20:20:44 +0900",
-      "isoDate": "2026-11-03T11:20:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネットが253億円の自社株買い　ビットコイン購入配分を80億円戻す",
-      "link": "https://coinpost.jp/?p=746072",
-      "published": "Tue, 03 Nov 2026 12:15:56 +0900",
-      "isoDate": "2026-11-03T03:15:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン8万ドル割れ、ウィンターミュートは7.68万ドルを注視",
-      "link": "https://coinpost.jp/?p=746073",
-      "published": "Tue, 03 Nov 2026 11:18:45 +0900",
-      "isoDate": "2026-11-03T02:18:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米SEC、トークン投票だけでは「管理者」に当たらず　FAQで見解",
-      "link": "https://coinpost.jp/?p=746068",
-      "published": "Tue, 03 Nov 2026 10:38:48 +0900",
-      "isoDate": "2026-11-03T01:38:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "EU拠点の組織から167億円以上の仮想通貨が不正流出の疑い",
-      "link": "https://coinpost.jp/?p=746056",
-      "published": "Tue, 03 Nov 2026 10:15:08 +0900",
-      "isoDate": "2026-11-03T01:15:08Z"
     }
   ]
 }
