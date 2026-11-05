@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T11:59:51Z",
-  "last_checked": "2026-11-05T11:59:51Z",
+  "updated": "2026-11-05T19:51:40Z",
+  "last_checked": "2026-11-05T19:51:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -46,14 +46,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、米中間選挙後のドル安・利回り低下を受け上昇",
+      "title": "金価格が上昇、ドル安定と米国債利回り低下が追い風に",
       "link": "https://jp.investing.com/news/commodities-news/article-1743382",
       "published": "2026-11-05 02:03:19",
       "isoDate": "2026-11-05T02:03:19Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "イランとの戦争をめぐる不確実性の中、原油価格が上昇",
+      "title": "米中間選挙後、イラン戦争の不透明感で原油価格が上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1743319",
       "published": "2026-11-05 00:56:32",
       "isoDate": "2026-11-05T00:56:32Z"
@@ -76,7 +76,21 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "大規模な市場ローテーション：AI売りトレードは定着するのか？",
+      "title": "マイクロンテクノロジー株が急落、その理由とは",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1745112",
+      "published": "2026-11-05 16:04:32",
+      "isoDate": "2026-11-05T16:04:32Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "S&P 500のサーキットブレーカー水準に注目、売りが加速",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1745106",
+      "published": "2026-11-05 15:58:12",
+      "isoDate": "2026-11-05T15:58:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "半導体株は下落、巨大テック株は上昇―この流れは続くのか？",
       "link": "https://jp.investing.com/news/stock-market-news/article-1744054",
       "published": "2026-11-05 11:17:27",
       "isoDate": "2026-11-05T11:17:27Z"
@@ -87,13 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1743835",
       "published": "2026-11-05 09:30:12",
       "isoDate": "2026-11-05T09:30:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI関連株への売りが継続し、一時61000円台割れ【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1743660",
-      "published": "2026-11-05 07:30:14",
-      "isoDate": "2026-11-05T07:30:14Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "クアルコム株が約10%急落、マージン圧迫とコスト上昇が重荷",
+      "title": "クアルコム株が10%超急落、マージン圧迫とコスト上昇が重荷",
       "link": "https://jp.investing.com/news/stock-market-news/article-1742635",
       "published": "2026-11-04 21:09:19",
       "isoDate": "2026-11-04T21:09:19Z"
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1740972",
       "published": "2026-11-04 09:39:41",
       "isoDate": "2026-11-04T09:39:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプが勝っても負けても上がる株は？ 今注目すべき「米国株5選」",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1740144",
-      "published": "2026-11-03 22:42:46",
-      "isoDate": "2026-11-03T22:42:46Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、シグナルプラス連携のAPIキー全削除　利用者への影響なし",
+      "link": "https://coinpost.jp/?p=746658",
+      "published": "Thu, 05 Nov 2026 21:35:50 +0900",
+      "isoDate": "2026-11-05T12:35:50Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイデン前米大統領の次男に聞くミームコイン「LAPTOP」 透明性の設計と民主党への提言",
