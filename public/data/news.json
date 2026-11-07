@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T01:04:48Z",
-  "last_checked": "2026-11-07T01:04:48Z",
+  "updated": "2026-11-07T07:39:41Z",
+  "last_checked": "2026-11-07T07:39:41Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -69,10 +69,17 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY為替：米10月雇用統計で失業率が予想外に低下",
-      "link": "https://jp.investing.com/news/forex-news/article-1747323",
-      "published": "2026-11-06 23:00:05",
-      "isoDate": "2026-11-06T23:00:05Z"
+      "title": "マスク氏、利益相反を理由にGoogleの幹部がSpaceXの取締役を辞任",
+      "link": "https://jp.investing.com/news/company-news/article-1747379",
+      "published": "2026-11-07 02:22:21",
+      "isoDate": "2026-11-07T02:22:21Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "OpenAIがデータセンター投資継続を表明、「反対運動」の逆風にめげず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1747177",
+      "published": "2026-11-06 18:49:26",
+      "isoDate": "2026-11-06T18:49:26Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,17 +125,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "韓国KOSPIがAI株急落で8%暴落、取引一時停止",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1745766",
-      "published": "2026-11-06 00:47:44",
-      "isoDate": "2026-11-06T00:47:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ハイテク株急落でも好調の「ヘルスケア株」、AIが選んだ割安株が30％急騰",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1745039",
-      "published": "2026-11-05 15:30:57",
-      "isoDate": "2026-11-05T15:30:57Z"
+      "title": "AIが選んだ米医療機器株が月初から21％急騰、好決算と買収観測が追い風に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1743842",
+      "published": "2026-11-05 09:33:44",
+      "isoDate": "2026-11-05T09:33:44Z"
     },
     {
       "source": "Investing.com 外為",
@@ -139,6 +139,48 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ジーキャッシュ、手数料の60％を将来の報酬に再発行する仕組みが稼働",
+      "link": "https://coinpost.jp/?p=746996",
+      "published": "Sat, 07 Nov 2026 14:00:48 +0900",
+      "isoDate": "2026-11-07T05:00:48Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "テラウルフ決算　HPC事業拡大進み、BTC採掘収益は7割減",
+      "link": "https://coinpost.jp/?p=746987",
+      "published": "Sat, 07 Nov 2026 12:55:39 +0900",
+      "isoDate": "2026-11-07T03:55:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米IREN決算、ビットコイン採掘から年内に実質撤退見込み　AI事業へ移行",
+      "link": "https://coinpost.jp/?p=746965",
+      "published": "Sat, 07 Nov 2026 12:50:46 +0900",
+      "isoDate": "2026-11-07T03:50:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国取引所ゴパックス（GOPAX）、ハッキング脅迫メールで入出金・売買を停止　攻撃は未発生",
+      "link": "https://coinpost.jp/?p=746949",
+      "published": "Sat, 07 Nov 2026 11:10:44 +0900",
+      "isoDate": "2026-11-07T02:10:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "イーサリアム『グラムスターダム』、テスト稼働保留　脆弱性の恐れで",
+      "link": "https://coinpost.jp/?p=746927",
+      "published": "Sat, 07 Nov 2026 10:40:15 +0900",
+      "isoDate": "2026-11-07T01:40:15Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスのハッキングに便乗、補償装うフィッシングメールが日本も標的",
+      "link": "https://coinpost.jp/?p=746967",
+      "published": "Sat, 07 Nov 2026 10:12:58 +0900",
+      "isoDate": "2026-11-07T01:12:58Z"
+    },
     {
       "source": "CoinPost",
       "title": "量子コンピュータによるBTC盗難に担保で対抗、ビットコインコア開発者が3案提案",
@@ -194,48 +236,6 @@
       "link": "https://coinpost.jp/?p=746914",
       "published": "Fri, 06 Nov 2026 21:50:57 +0900",
       "isoDate": "2026-11-06T12:50:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "iPhone攻撃キット「DarkSword」、仮想通貨窃盗に悪用か",
-      "link": "https://coinpost.jp/?p=746889",
-      "published": "Fri, 06 Nov 2026 17:33:03 +0900",
-      "isoDate": "2026-11-06T08:33:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "NOT A HOTELのNOTA、12月9日に東証上場へ　NAC発行元の親会社",
-      "link": "https://coinpost.jp/?p=746860",
-      "published": "Fri, 06 Nov 2026 16:55:13 +0900",
-      "isoDate": "2026-11-06T07:55:13Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、米株と連動する時間が増加　長期指標が初のゼロ超え＝アナリスト",
-      "link": "https://coinpost.jp/?p=746854",
-      "published": "Fri, 06 Nov 2026 16:43:06 +0900",
-      "isoDate": "2026-11-06T07:43:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アメリカンビットコイン7～9月期決算で黒字転換、保有BTCは8427枚に増加",
-      "link": "https://coinpost.jp/?p=746776",
-      "published": "Fri, 06 Nov 2026 16:00:04 +0900",
-      "isoDate": "2026-11-06T07:00:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨懐疑派ウォーレン氏、米上院銀行委員長へ　予測市場調査も視野＝WSJ",
-      "link": "https://coinpost.jp/?p=746832",
-      "published": "Fri, 06 Nov 2026 15:05:50 +0900",
-      "isoDate": "2026-11-06T06:05:50Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "チェイナリシス、全ユーザーのパスワードハッシュ露出　KYTも停止",
-      "link": "https://coinpost.jp/?p=746798",
-      "published": "Fri, 06 Nov 2026 12:30:17 +0900",
-      "isoDate": "2026-11-06T03:30:17Z"
     }
   ]
 }
