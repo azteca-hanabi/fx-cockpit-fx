@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-09T18:32:19Z",
-  "last_checked": "2026-11-09T18:32:19Z",
+  "updated": "2026-11-10T01:55:45Z",
+  "last_checked": "2026-11-10T01:55:45Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、原油下落でインフレ懸念が後退し1オンス4,130ドル近辺を維持",
+      "link": "https://jp.investing.com/news/commodities-news/article-1749680",
+      "published": "2026-11-10 01:12:29",
+      "isoDate": "2026-11-10T01:12:29Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "イランとの和平期待と供給改善で原油価格が下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1749614",
+      "published": "2026-11-10 00:03:35",
+      "isoDate": "2026-11-10T00:03:35Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡での攻撃がトランプ大統領の対イラン停戦を相殺、欧州ガス価格が小幅上昇",
@@ -27,17 +41,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Nvidia、チップ密輸調査の司法省移管前に商務省に接触",
+      "title": "NVIDIAショック「市場全体に波及」の懸念、CEO退任の可能性も浮上",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1749097",
+      "published": "2026-11-09 17:01:18",
+      "isoDate": "2026-11-09T17:01:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAスキャンダルに新展開、トランプ政権高官との「接点」が浮上",
       "link": "https://jp.investing.com/news/stock-market-news/article-1749027",
       "published": "2026-11-09 16:19:50",
       "isoDate": "2026-11-09T16:19:50Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "GoogleがAIチップラインナップを拡大、NvidiaはCEOスパイ疑惑に直面",
+      "title": "AI関連株の下落はまだ序章？ 「さらなる下落」を米調査会社が警告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1748588",
+      "published": "2026-11-09 13:37:08",
+      "isoDate": "2026-11-09T13:37:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Googleが新型AI半導体発表、スキャンダルで揺れるNVIDIAに追い打ち",
       "link": "https://jp.investing.com/news/stock-market-news/article-1748418",
       "published": "2026-11-09 12:44:04",
       "isoDate": "2026-11-09T12:44:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAに代わり上昇期待の「AIインフラ株」5選、半導体から電力関連まで",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1748072",
+      "published": "2026-11-09 10:26:36",
+      "isoDate": "2026-11-09T10:26:36Z"
     },
     {
       "source": "Investing.com 外為",
@@ -45,6 +80,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1747930",
       "published": "2026-11-09 08:00:38",
       "isoDate": "2026-11-09T08:00:38Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1747925",
+      "published": "2026-11-09 08:00:15",
+      "isoDate": "2026-11-09T08:00:15Z"
     },
     {
       "source": "Investing.com 外為",
@@ -66,37 +108,37 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1747668",
       "published": "2026-11-09 01:16:33",
       "isoDate": "2026-11-09T01:16:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、CEOの「中国人女性との関係」を独立調査へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747615",
-      "published": "2026-11-08 20:36:56",
-      "isoDate": "2026-11-08T20:36:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国「新興ハイテク株」が総崩れ、習近平の「AI産業育成」の野望に暗雲",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747610",
-      "published": "2026-11-08 16:47:12",
-      "isoDate": "2026-11-08T16:47:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "今週決算発表、AI投資ブームの行方を占う米国株5選",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747603",
-      "published": "2026-11-08 15:50:25",
-      "isoDate": "2026-11-08T15:50:25Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピック、自前の電源確保に向け34億ドルのガス発電設備を購入へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747584",
-      "published": "2026-11-08 11:36:02",
-      "isoDate": "2026-11-08T11:36:02Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ウォーレン議員が米上院銀行委員長へ、予測市場とトランプ一族の仮想通貨事業の監督を計画",
+      "link": "https://coinpost.jp/?p=747145",
+      "published": "Tue, 10 Nov 2026 10:00:29 +0900",
+      "isoDate": "2026-11-10T01:00:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブラジルMercado Bitcoin、流出後に残高照会を再開　出金時期は未定",
+      "link": "https://coinpost.jp/?p=747161",
+      "published": "Tue, 10 Nov 2026 09:40:27 +0900",
+      "isoDate": "2026-11-10T00:40:27Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米証券大手シュワブ、個人取引向けにソラナ・アバランチ・チェーンリンクを追加",
+      "link": "https://coinpost.jp/?p=747129",
+      "published": "Tue, 10 Nov 2026 07:02:42 +0900",
+      "isoDate": "2026-11-09T22:02:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストライブ、29BTCのビットコインを追加購入",
+      "link": "https://coinpost.jp/?p=747127",
+      "published": "Tue, 10 Nov 2026 06:25:38 +0900",
+      "isoDate": "2026-11-09T21:25:38Z"
+    },
     {
       "source": "CoinPost",
       "title": "ストラテジー、129億円相当のビットコインを買い増し　2週連続",
@@ -110,83 +152,6 @@
       "link": "https://coinpost.jp/?p=747107",
       "published": "Mon, 09 Nov 2026 21:45:20 +0900",
       "isoDate": "2026-11-09T12:45:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ヴィタリック、イーサリアムは手数料バーンより価値の保存を重視すべきと主張",
-      "link": "https://coinpost.jp/?p=747054",
-      "published": "Mon, 09 Nov 2026 14:40:38 +0900",
-      "isoDate": "2026-11-09T05:40:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上院議員、バイナンスとテザーなど4社に記録提出を再要求　期限は1月4日",
-      "link": "https://coinpost.jp/?p=747033",
-      "published": "Mon, 09 Nov 2026 08:56:30 +0900",
-      "isoDate": "2026-11-08T23:56:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米財務省、カナダの両替業者8社を制裁　イランの仮想通貨取引を仲介",
-      "link": "https://coinpost.jp/?p=747029",
-      "published": "Mon, 09 Nov 2026 08:27:03 +0900",
-      "isoDate": "2026-11-08T23:27:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "金融庁と欧州委員会、ステーブルコインやトークン化で意見交換",
-      "link": "https://coinpost.jp/?p=747025",
-      "published": "Mon, 09 Nov 2026 08:15:57 +0900",
-      "isoDate": "2026-11-08T23:15:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バイナンス金現物、週約515億円超で開始直後除き最高＝アナリスト",
-      "link": "https://coinpost.jp/?p=747021",
-      "published": "Mon, 09 Nov 2026 07:39:45 +0900",
-      "isoDate": "2026-11-08T22:39:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、ハイテク株急落で1200万円台に軟化　AI規制議論とCPIが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=746873",
-      "published": "Sun, 08 Nov 2026 11:30:23 +0900",
-      "isoDate": "2026-11-08T02:30:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（11/6）｜米中間選挙・米市場構造法案協議・バイナンス攻撃のまとめ",
-      "link": "https://coinpost.jp/?p=746797",
-      "published": "Sun, 08 Nov 2026 09:25:25 +0900",
-      "isoDate": "2026-11-08T00:25:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ジーキャッシュ、手数料の60％を将来の報酬に再発行する仕組みが稼働",
-      "link": "https://coinpost.jp/?p=746996",
-      "published": "Sat, 07 Nov 2026 14:00:48 +0900",
-      "isoDate": "2026-11-07T05:00:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "テラウルフ決算　HPC事業拡大進み、BTC採掘収益は7割減",
-      "link": "https://coinpost.jp/?p=746987",
-      "published": "Sat, 07 Nov 2026 12:55:39 +0900",
-      "isoDate": "2026-11-07T03:55:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米IREN決算、ビットコイン採掘から年内に実質撤退見込み　AI事業へ移行",
-      "link": "https://coinpost.jp/?p=746965",
-      "published": "Sat, 07 Nov 2026 12:50:46 +0900",
-      "isoDate": "2026-11-07T03:50:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "韓国取引所ゴパックス（GOPAX）、ハッキング脅迫メールで入出金・売買を停止　攻撃は未発生",
-      "link": "https://coinpost.jp/?p=746949",
-      "published": "Sat, 07 Nov 2026 11:10:44 +0900",
-      "isoDate": "2026-11-07T02:10:44Z"
     }
   ]
 }
