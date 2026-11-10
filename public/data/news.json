@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-10T01:55:45Z",
-  "last_checked": "2026-11-10T01:55:45Z",
+  "updated": "2026-11-10T09:31:58Z",
+  "last_checked": "2026-11-10T09:31:58Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、原油下落でインフレ懸念が後退し1オンス4,130ドル近辺を維持",
+      "title": "金価格、米インフレ指標待ちで下落―FRB政策の手がかりに注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1749680",
       "published": "2026-11-10 01:12:29",
       "isoDate": "2026-11-10T01:12:29Z"
@@ -39,6 +39,34 @@
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "ソフトバンクG、第2四半期に1.1兆円の最終赤字　米AIデータセンター事業で巨額損失",
+      "link": "https://jp.investing.com/news/earnings/article-1749936",
+      "published": "2026-11-10 06:51:23",
+      "isoDate": "2026-11-10T06:51:23Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均は大幅に続伸、ソフトバンクGが1銘柄で約400円分押し上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1749796",
+      "published": "2026-11-10 04:00:15",
+      "isoDate": "2026-11-10T04:00:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、NvidiaのCEOファン氏を中国スパイスキャンダルでFBIが捜査中と発言",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1749789",
+      "published": "2026-11-10 03:20:47",
+      "isoDate": "2026-11-10T03:20:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピック、AI株急落でもIPO「月内」強行へ　評価額引き下げも視野",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1749370",
+      "published": "2026-11-09 21:38:23",
+      "isoDate": "2026-11-09T21:38:23Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "NVIDIAショック「市場全体に波及」の懸念、CEO退任の可能性も浮上",
@@ -80,78 +108,64 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1747930",
       "published": "2026-11-09 08:00:38",
       "isoDate": "2026-11-09T08:00:38Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747925",
-      "published": "2026-11-09 08:00:15",
-      "isoDate": "2026-11-09T08:00:15Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEOの「女性スキャンダル」に重大リスク、米投資大手が警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747793",
-      "published": "2026-11-09 05:50:39",
-      "isoDate": "2026-11-09T05:50:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AI株急落に動じない日本のテック株MIXI、年初来5割高の実力",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747759",
-      "published": "2026-11-09 05:09:44",
-      "isoDate": "2026-11-09T05:09:44Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーロン・マスクと孫正義の「場外乱闘」が示すAIブームの暗雲",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747668",
-      "published": "2026-11-09 01:16:33",
-      "isoDate": "2026-11-09T01:16:33Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "証券監視委、無登録3社に差止め申立て　ビットコインETF投資も可能と勧誘",
+      "link": "https://coinpost.jp/?p=747289",
+      "published": "Tue, 10 Nov 2026 17:50:42 +0900",
+      "isoDate": "2026-11-10T08:50:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン下落でも中規模層が1.4万BTC超買い増し＝サンティメント",
+      "link": "https://coinpost.jp/?p=747263",
+      "published": "Tue, 10 Nov 2026 16:35:30 +0900",
+      "isoDate": "2026-11-10T07:35:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Mara、7〜9月期は減収も純利益拡大　四半期終了後にビットコイン1700億円相当売却",
+      "link": "https://coinpost.jp/?p=747164",
+      "published": "Tue, 10 Nov 2026 16:00:06 +0900",
+      "isoDate": "2026-11-10T07:00:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "政府、通信監視の国内間拡大を検討　能動的サイバー防御関連法を改正へ",
+      "link": "https://coinpost.jp/?p=747243",
+      "published": "Tue, 10 Nov 2026 14:01:29 +0900",
+      "isoDate": "2026-11-10T05:01:29Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプ・メディア、3Q純利益約647億円　ビットコインなどの評価益で黒字転換",
+      "link": "https://coinpost.jp/?p=747210",
+      "published": "Tue, 10 Nov 2026 12:16:03 +0900",
+      "isoDate": "2026-11-10T03:16:03Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ジーキャッシュ、ブロック生成間隔をさらに短縮する提案を議論へ",
+      "link": "https://coinpost.jp/?p=747189",
+      "published": "Tue, 10 Nov 2026 11:15:12 +0900",
+      "isoDate": "2026-11-10T02:15:12Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "金融庁、暗号資産など無登録業者の注意喚起を更新　消費者庁対策へ導線",
+      "link": "https://coinpost.jp/?p=747194",
+      "published": "Tue, 10 Nov 2026 11:06:39 +0900",
+      "isoDate": "2026-11-10T02:06:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "ウォーレン議員が米上院銀行委員長へ、予測市場とトランプ一族の仮想通貨事業の監督を計画",
       "link": "https://coinpost.jp/?p=747145",
       "published": "Tue, 10 Nov 2026 10:00:29 +0900",
       "isoDate": "2026-11-10T01:00:29Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ブラジルMercado Bitcoin、流出後に残高照会を再開　出金時期は未定",
-      "link": "https://coinpost.jp/?p=747161",
-      "published": "Tue, 10 Nov 2026 09:40:27 +0900",
-      "isoDate": "2026-11-10T00:40:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米証券大手シュワブ、個人取引向けにソラナ・アバランチ・チェーンリンクを追加",
-      "link": "https://coinpost.jp/?p=747129",
-      "published": "Tue, 10 Nov 2026 07:02:42 +0900",
-      "isoDate": "2026-11-09T22:02:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストライブ、29BTCのビットコインを追加購入",
-      "link": "https://coinpost.jp/?p=747127",
-      "published": "Tue, 10 Nov 2026 06:25:38 +0900",
-      "isoDate": "2026-11-09T21:25:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー、129億円相当のビットコインを買い増し　2週連続",
-      "link": "https://coinpost.jp/?p=747113",
-      "published": "Mon, 09 Nov 2026 22:20:48 +0900",
-      "isoDate": "2026-11-09T13:20:48Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプ大統領、共同保有する仮想通貨企業の外国出資めぐり「何も知らない」と発言",
-      "link": "https://coinpost.jp/?p=747107",
-      "published": "Mon, 09 Nov 2026 21:45:20 +0900",
-      "isoDate": "2026-11-09T12:45:20Z"
     }
   ]
 }
