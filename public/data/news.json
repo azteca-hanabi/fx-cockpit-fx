@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-11T10:37:57Z",
-  "last_checked": "2026-11-11T10:37:57Z",
+  "updated": "2026-11-11T18:29:17Z",
+  "last_checked": "2026-11-11T18:29:17Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金鉱株が上昇、インフレ懸念による下落から金相場が反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1752769",
+      "published": "2026-11-11 13:26:35",
+      "isoDate": "2026-11-11T13:26:35Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "サウジアラビア、石油生産量を2月以来の最高水準に引き上げ",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1752758",
+      "published": "2026-11-11 13:20:22",
+      "isoDate": "2026-11-11T13:20:22Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ホルムズ海峡の輸送リスクを受け、欧州天然ガス価格が反発",
@@ -11,14 +25,14 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡への攻撃で中東和平期待が後退、原油価格は下げ止まり",
+      "title": "ホルムズ海峡への攻撃で中東和平への期待が後退、原油価格が上昇",
       "link": "https://jp.investing.com/news/commodities-news/article-1751955",
       "published": "2026-11-11 02:15:46",
       "isoDate": "2026-11-11T02:15:46Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、インフレ高止まりとFED利上げ観測を受けた急落後に下げ止まる",
+      "title": "金価格、中央銀行の需要がFRB利上げ懸念を相殺し安定",
       "link": "https://jp.investing.com/news/commodities-news/article-1751907",
       "published": "2026-11-11 00:57:46",
       "isoDate": "2026-11-11T00:57:46Z"
@@ -57,23 +71,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1749614",
       "published": "2026-11-10 00:03:35",
       "isoDate": "2026-11-10T00:03:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡での攻撃がトランプ大統領の対イラン停戦を相殺、欧州ガス価格が小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1748250",
-      "published": "2026-11-09 11:53:17",
-      "isoDate": "2026-11-09T11:53:17Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドル安がFRB12月利上げ観測を相殺、金価格が反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1747670",
-      "published": "2026-11-09 01:16:44",
-      "isoDate": "2026-11-09T01:16:44Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "CoreWeaveの急騰がNvidiaに安堵をもたらす、アナリストはAI需要の加速を予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1752698",
+      "published": "2026-11-11 13:00:39",
+      "isoDate": "2026-11-11T13:00:39Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ウォール街アナリスト、供給問題とファン氏の不確実性でNvidiaに慎重姿勢",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1752537",
+      "published": "2026-11-11 11:56:08",
+      "isoDate": "2026-11-11T11:56:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "CoreWeaveの増収見通しを受け、Nvidiaなど半導体株が時間外取引で反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1752477",
+      "published": "2026-11-11 11:30:06",
+      "isoDate": "2026-11-11T11:30:06Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "中国の光ファイバー関連株が急騰、マイクロソフトの輸入禁止撤回要請が追い風",
@@ -90,13 +111,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "OpenAIが旅行予約サービス買収、エクスペディアなど旅行関連株が急落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1751374",
-      "published": "2026-11-10 19:10:00",
-      "isoDate": "2026-11-10T19:10:00Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "アンソロピックが「エクセルの競合製品」を発表、マイクロソフト株が下落",
       "link": "https://jp.investing.com/news/stock-market-news/article-1751285",
       "published": "2026-11-10 17:34:33",
@@ -108,13 +122,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1751154",
       "published": "2026-11-10 15:45:26",
       "isoDate": "2026-11-10T15:45:26Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "マイクロソフト、中国製データセンター部品の「輸入禁止案」に反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1751011",
-      "published": "2026-11-10 14:46:19",
-      "isoDate": "2026-11-10T14:46:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1749999",
       "published": "2026-11-10 08:14:55",
       "isoDate": "2026-11-10T08:14:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "中国ムーンショットAI、米輸出規制下でNVIDIA製最先端半導体にアクセスか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1749832",
-      "published": "2026-11-10 05:13:13",
-      "isoDate": "2026-11-10T05:13:13Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応",
+      "link": "https://coinpost.jp/?p=747504",
+      "published": "Wed, 11 Nov 2026 21:34:42 +0900",
+      "isoDate": "2026-11-11T12:34:42Z"
+    },
     {
       "source": "CoinPost",
       "title": "米マイアミ・デイド郡、固定資産税のビットコイン払いに対応",
@@ -215,13 +222,6 @@
       "link": "https://coinpost.jp/?p=747345",
       "published": "Wed, 11 Nov 2026 09:00:38 +0900",
       "isoDate": "2026-11-11T00:00:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "元CFTC委員長、クラリティー法案不成立にトランプ氏のミームコインが影響と指摘＝報道",
-      "link": "https://coinpost.jp/?p=747334",
-      "published": "Wed, 11 Nov 2026 08:15:09 +0900",
-      "isoDate": "2026-11-10T23:15:09Z"
     }
   ]
 }
