@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-10T23:00:24Z",
-  "last_checked": "2026-11-10T23:00:24Z",
+  "updated": "2026-11-11T02:56:01Z",
+  "last_checked": "2026-11-11T02:56:01Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、2カ月ぶり安値から反発――米・イラン和平交渉と在庫動向に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1751955",
+      "published": "2026-11-11 02:15:46",
+      "isoDate": "2026-11-11T02:15:46Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、急落後に4,035ドル近辺で安定――12月利上げ観測が強まる",
+      "link": "https://jp.investing.com/news/commodities-news/article-1751907",
+      "published": "2026-11-11 00:57:46",
+      "isoDate": "2026-11-11T00:57:46Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧州のディーゼルマージンが火曜日に7%超下落",
@@ -62,24 +76,10 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NY株式：NYダウは157.86ドル安、インフレ加速で大幅利上げ警戒",
-      "link": "https://jp.investing.com/news/forex-news/article-1751692",
-      "published": "2026-11-10 22:15:04",
-      "isoDate": "2026-11-10T22:15:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CoreWeaveが2026年の売上高予測を引き上げ、AI需要が加速",
-      "link": "https://jp.investing.com/news/earnings/article-1751545",
-      "published": "2026-11-10 21:20:57",
-      "isoDate": "2026-11-10T21:20:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、ジェンセン・ファンCEOの不倫問題でウォクテル法律事務所に独立調査を依頼",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1751446",
-      "published": "2026-11-10 20:29:24",
-      "isoDate": "2026-11-10T20:29:24Z"
+      "title": "米国株先物が小幅上昇、CPIショックとNvidiaの下落でウォール街は軟調",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1751895",
+      "published": "2026-11-11 00:42:41",
+      "isoDate": "2026-11-11T00:42:41Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,10 +90,24 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "アンソロピックが「エクセルの競合製品」を発表、マイクロソフト株が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1751285",
+      "published": "2026-11-10 17:34:33",
+      "isoDate": "2026-11-10T17:34:33Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NVIDIA女性スキャンダルで「CEO退任リスク」、株価30%下落の可能性も",
       "link": "https://jp.investing.com/news/stock-market-news/article-1751154",
       "published": "2026-11-10 15:45:26",
       "isoDate": "2026-11-10T15:45:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "マイクロソフト、中国製データセンター部品の「輸入禁止案」に反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1751011",
+      "published": "2026-11-10 14:46:19",
+      "isoDate": "2026-11-10T14:46:19Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,13 +139,48 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NVIDIAに代わり上昇期待の「AIインフラ株」5選、半導体から電力関連まで",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1748072",
-      "published": "2026-11-09 10:26:36",
-      "isoDate": "2026-11-09T10:26:36Z"
+      "title": "【ブラックフライデー先行セール】AI推奨銘柄リストが最大55％オフ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1748906",
+      "published": "2026-11-09 15:06:52",
+      "isoDate": "2026-11-09T15:06:52Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "グラスノード、ビットコインの35.4％が量子コンピュータの標的になりうると指摘",
+      "link": "https://coinpost.jp/?p=747332",
+      "published": "Wed, 11 Nov 2026 10:55:14 +0900",
+      "isoDate": "2026-11-11T01:55:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米ビットコイン・イーサリアム現物ETF、3日連続の純流出　累計2255億円",
+      "link": "https://coinpost.jp/?p=747333",
+      "published": "Wed, 11 Nov 2026 09:35:17 +0900",
+      "isoDate": "2026-11-11T00:35:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインに三重苦、利上げ観測・規制懸念・流動性低下で下値警戒｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=747345",
+      "published": "Wed, 11 Nov 2026 09:00:38 +0900",
+      "isoDate": "2026-11-11T00:00:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "元CFTC委員長、クラリティー法案不成立にトランプ氏のミームコインが影響と指摘＝報道",
+      "link": "https://coinpost.jp/?p=747334",
+      "published": "Wed, 11 Nov 2026 08:15:09 +0900",
+      "isoDate": "2026-11-10T23:15:09Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインを現物ETFに交換する需要、ブラックロックで過去最高水準に＝バロンズ",
+      "link": "https://coinpost.jp/?p=747337",
+      "published": "Wed, 11 Nov 2026 08:05:51 +0900",
+      "isoDate": "2026-11-10T23:05:51Z"
+    },
     {
       "source": "CoinPost",
       "title": "バイナンス、一部のiOSの脆弱性を警告",
@@ -152,27 +201,6 @@
       "link": "https://coinpost.jp/?p=747289",
       "published": "Tue, 10 Nov 2026 17:50:42 +0900",
       "isoDate": "2026-11-10T08:50:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン下落でも中規模層が1.4万BTC超買い増し＝サンティメント",
-      "link": "https://coinpost.jp/?p=747263",
-      "published": "Tue, 10 Nov 2026 16:35:30 +0900",
-      "isoDate": "2026-11-10T07:35:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Mara、7〜9月期は減収も純利益拡大　四半期終了後にビットコイン1700億円相当売却",
-      "link": "https://coinpost.jp/?p=747164",
-      "published": "Tue, 10 Nov 2026 16:00:06 +0900",
-      "isoDate": "2026-11-10T07:00:06Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "政府、通信監視の国内間拡大を検討　能動的サイバー防御関連法を改正へ",
-      "link": "https://coinpost.jp/?p=747243",
-      "published": "Tue, 10 Nov 2026 14:01:29 +0900",
-      "isoDate": "2026-11-10T05:01:29Z"
     }
   ]
 }
