@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T00:57:26Z",
-  "last_checked": "2026-11-12T00:57:26Z",
+  "updated": "2026-11-12T08:09:57Z",
+  "last_checked": "2026-11-12T08:09:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,10 +76,24 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "半導体やAI関連株の買い戻しの動きが強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1753525",
-      "published": "2026-11-12 00:00:08",
-      "isoDate": "2026-11-12T00:00:08Z"
+      "title": "エヌビディア、CEO退任なら「株価30%急落」、米アナリストが警告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1753664",
+      "published": "2026-11-12 04:14:52",
+      "isoDate": "2026-11-12T04:14:52Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディア報道で一時マイナス圏も持ち直す",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1753629",
+      "published": "2026-11-12 03:15:14",
+      "isoDate": "2026-11-12T03:15:14Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NvidiaのCEO解任報道を受け、米株先物が下落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1753548",
+      "published": "2026-11-12 00:45:40",
+      "isoDate": "2026-11-12T00:45:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,27 +139,69 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "中国の光ファイバー関連株が急騰、マイクロソフトの輸入禁止撤回要請が追い風",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1752087",
-      "published": "2026-11-11 06:00:31",
-      "isoDate": "2026-11-11T06:00:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "米国株「年内最後の買い場」は12月に来る？ AIが選ぶ押し目買い候補5選",
       "link": "https://jp.investing.com/news/stock-market-news/article-1752061",
       "published": "2026-11-11 05:35:57",
       "isoDate": "2026-11-11T05:35:57Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピックが「エクセルの競合製品」を発表、マイクロソフト株が下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1751285",
-      "published": "2026-11-10 17:34:33",
-      "isoDate": "2026-11-10T17:34:33Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズCIO「米議会は民主党優勢でも仮想通貨支持派は健在」",
+      "link": "https://coinpost.jp/?p=747621",
+      "published": "Thu, 12 Nov 2026 17:00:44 +0900",
+      "isoDate": "2026-11-12T08:00:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "韓国金融委、ハッキング疑いで仮想通貨取引所の入出金停止を容認へ",
+      "link": "https://coinpost.jp/?p=747660",
+      "published": "Thu, 12 Nov 2026 16:54:30 +0900",
+      "isoDate": "2026-11-12T07:54:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンスのビットコイン建玉が17％減、レバレッジ解消進む＝アナリスト",
+      "link": "https://coinpost.jp/?p=747648",
+      "published": "Thu, 12 Nov 2026 16:23:28 +0900",
+      "isoDate": "2026-11-12T07:23:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "メタプラネット傘下入り予定のスーパーリーグ、16BTC追加取得",
+      "link": "https://coinpost.jp/?p=747633",
+      "published": "Thu, 12 Nov 2026 14:32:00 +0900",
+      "isoDate": "2026-11-12T05:32:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米テキサス州下院議員、市や郡がビットコインなど仮想通貨に投資できる法案を提出",
+      "link": "https://coinpost.jp/?p=747592",
+      "published": "Thu, 12 Nov 2026 13:00:54 +0900",
+      "isoDate": "2026-11-12T04:00:54Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ロシア、11月22日から仮想通貨取引サービスの提供が可能に",
+      "link": "https://coinpost.jp/?p=747580",
+      "published": "Thu, 12 Nov 2026 11:25:30 +0900",
+      "isoDate": "2026-11-12T02:25:30Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインコア、深刻度の高いバグ含む3件の脆弱性を修正済",
+      "link": "https://coinpost.jp/?p=747551",
+      "published": "Thu, 12 Nov 2026 10:25:21 +0900",
+      "isoDate": "2026-11-12T01:25:21Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減　4年超ぶりの資金流出",
+      "link": "https://coinpost.jp/?p=747545",
+      "published": "Thu, 12 Nov 2026 10:05:39 +0900",
+      "isoDate": "2026-11-12T01:05:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "ファンド運用者の仮想通貨配分1.3％に、分散目的4割＝コインシェアーズ",
@@ -173,48 +229,6 @@
       "link": "https://coinpost.jp/?p=747515",
       "published": "Thu, 12 Nov 2026 06:34:58 +0900",
       "isoDate": "2026-11-11T21:34:58Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トランプホワイトハウスの予測市場インサイダー取引防止策めぐり、米上院議員2名が回答を要求",
-      "link": "https://coinpost.jp/?p=747517",
-      "published": "Thu, 12 Nov 2026 05:55:38 +0900",
-      "isoDate": "2026-11-11T20:55:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "野村、暗号資産子会社レーザー・デジタルの売却を検討　欧州での赤字が要因＝報道",
-      "link": "https://coinpost.jp/?p=747518",
-      "published": "Thu, 12 Nov 2026 05:35:40 +0900",
-      "isoDate": "2026-11-11T20:35:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ドイツ銀行、法人・機関向け仮想通貨保管を開始、ビットコインなど5銘柄対応",
-      "link": "https://coinpost.jp/?p=747504",
-      "published": "Wed, 11 Nov 2026 21:34:42 +0900",
-      "isoDate": "2026-11-11T12:34:42Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米マイアミ・デイド郡、固定資産税のビットコイン払いに対応",
-      "link": "https://coinpost.jp/?p=747477",
-      "published": "Wed, 11 Nov 2026 17:30:02 +0900",
-      "isoDate": "2026-11-11T08:30:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインなど主要3銘柄でSNS弱気が優勢　悲観は反発の下地＝サンティメント",
-      "link": "https://coinpost.jp/?p=747469",
-      "published": "Wed, 11 Nov 2026 17:00:11 +0900",
-      "isoDate": "2026-11-11T08:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットディアQ3決算、売上89％増で過去最高　AIクラウドは11倍に",
-      "link": "https://coinpost.jp/?p=747409",
-      "published": "Wed, 11 Nov 2026 16:15:36 +0900",
-      "isoDate": "2026-11-11T07:15:36Z"
     }
   ]
 }
