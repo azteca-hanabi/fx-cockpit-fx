@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T16:59:44Z",
-  "last_checked": "2026-11-12T16:59:44Z",
+  "updated": "2026-11-12T22:40:38Z",
+  "last_checked": "2026-11-12T22:40:38Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -76,24 +76,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "エヌビディアの新CEOコレット・クレスとは何者か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1754981",
-      "published": "2026-11-12 15:08:31",
-      "isoDate": "2026-11-12T15:08:31Z"
+      "title": "AnthropicのIPO需要、募集株数の6倍に達する",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1755431",
+      "published": "2026-11-12 21:17:08",
+      "isoDate": "2026-11-12T21:17:08Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "マスク・ファン提携観測が浮上、SpaceX株が上昇",
+      "title": "王は死んだ、エヌビディア万歳",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1755360",
+      "published": "2026-11-12 20:27:49",
+      "isoDate": "2026-11-12T20:27:49Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアCEO黄仁勲氏退任、専門家・アナリストの見解まとめ",
+      "link": "https://jp.investing.com/news/technology-news/article-1755171",
+      "published": "2026-11-12 16:38:47",
+      "isoDate": "2026-11-12T16:38:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーロン・マスクがNVIDIA元CEO採用に意欲、SpaceX株が一時4%上昇",
       "link": "https://jp.investing.com/news/stock-market-news/article-1754911",
       "published": "2026-11-12 14:50:56",
       "isoDate": "2026-11-12T14:50:56Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaのCEOジェンセン・フアン氏が辞任、CFOが暫定最高経営責任者に就任",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1754647",
-      "published": "2026-11-12 13:55:03",
-      "isoDate": "2026-11-12T13:55:03Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,51 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1753015",
       "published": "2026-11-11 15:10:45",
       "isoDate": "2026-11-11T15:10:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピックIPOに予想以上の買い注文、最大14兆円調達へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1752765",
-      "published": "2026-11-11 13:26:23",
-      "isoDate": "2026-11-11T13:26:23Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "半導体大手TSMCが従業員情報流出を確認、ハッカーが3BTCを要求",
+      "link": "https://coinpost.jp/?p=747697",
+      "published": "Fri, 13 Nov 2026 07:35:58 +0900",
+      "isoDate": "2026-11-12T22:35:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米司法省、北朝鮮がバイナンスから盗んだ1910億円超の仮想通貨を差し押さえ",
+      "link": "https://coinpost.jp/?p=747698",
+      "published": "Fri, 13 Nov 2026 07:00:00 +0900",
+      "isoDate": "2026-11-12T22:00:00Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米司法省、ダークウェブ摘発で374億円超の仮想通貨・現金を押収",
+      "link": "https://coinpost.jp/?p=747699",
+      "published": "Fri, 13 Nov 2026 06:45:02 +0900",
+      "isoDate": "2026-11-12T21:45:02Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、ハッキング被害の補填を完了",
+      "link": "https://coinpost.jp/?p=747700",
+      "published": "Fri, 13 Nov 2026 06:25:04 +0900",
+      "isoDate": "2026-11-12T21:25:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "スペースXとテスラの合併協議が進展、成立なら3450億円のビットコイン保有に",
+      "link": "https://coinpost.jp/?p=747701",
+      "published": "Fri, 13 Nov 2026 06:12:06 +0900",
+      "isoDate": "2026-11-12T21:12:06Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン約12週間ぶりの安値に、7万1200ドルまで下落",
+      "link": "https://coinpost.jp/?p=747702",
+      "published": "Fri, 13 Nov 2026 05:55:03 +0900",
+      "isoDate": "2026-11-12T20:55:03Z"
+    },
     {
       "source": "CoinPost",
       "title": "Backpack日本法人がみんなの銀行と提携へ、円の入出金やトークン化預金の活用を検討",
@@ -208,27 +250,6 @@
       "link": "https://coinpost.jp/?p=747580",
       "published": "Thu, 12 Nov 2026 11:25:30 +0900",
       "isoDate": "2026-11-12T02:25:30Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインコア、深刻度の高いバグ含む3件の脆弱性を修正済",
-      "link": "https://coinpost.jp/?p=747551",
-      "published": "Thu, 12 Nov 2026 10:25:21 +0900",
-      "isoDate": "2026-11-12T01:25:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨の生命線、ステーブルコインが過去30日で2.2兆円減　4年超ぶりの資金流出",
-      "link": "https://coinpost.jp/?p=747545",
-      "published": "Thu, 12 Nov 2026 10:05:39 +0900",
-      "isoDate": "2026-11-12T01:05:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ファンド運用者の仮想通貨配分1.3％に、分散目的4割＝コインシェアーズ",
-      "link": "https://coinpost.jp/?p=747570",
-      "published": "Thu, 12 Nov 2026 09:52:54 +0900",
-      "isoDate": "2026-11-12T00:52:54Z"
     }
   ]
 }
