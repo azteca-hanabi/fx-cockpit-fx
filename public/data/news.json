@@ -1,17 +1,24 @@
 {
-  "updated": "2026-11-13T03:17:34Z",
-  "last_checked": "2026-11-13T03:17:34Z",
+  "updated": "2026-11-13T11:25:57Z",
+  "last_checked": "2026-11-13T11:25:57Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、13カ月ぶり安値付近で低迷——原油96ドルでFRB大幅利上げ観測強まる",
+      "title": "欧州天然ガス、週間12%急騰―米・イラン外交協議の崩壊で",
+      "link": "https://jp.investing.com/news/commodities-news/article-1756301",
+      "published": "2026-11-13 09:44:01",
+      "isoDate": "2026-11-13T09:44:01Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金、13カ月ぶり安値から反発し3,900ドル台を回復するも週間では下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1755838",
       "published": "2026-11-13 01:03:44",
       "isoDate": "2026-11-13T01:03:44Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "トランプ大統領、バンス副大統領をイラン外交から外す――原油価格は上昇を維持",
+      "title": "米イラン衝突への懸念後退で原油価格が2週連続の下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1755779",
       "published": "2026-11-13 00:11:37",
       "isoDate": "2026-11-13T00:11:37Z"
@@ -50,50 +57,29 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1753316",
       "published": "2026-11-11 20:37:01",
       "isoDate": "2026-11-11T20:37:01Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金鉱株が上昇、インフレ懸念による下落から金相場が反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1752769",
-      "published": "2026-11-11 13:26:35",
-      "isoDate": "2026-11-11T13:26:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "サウジアラビア、石油生産量を2月以来の最高水準に引き上げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1752758",
-      "published": "2026-11-11 13:20:22",
-      "isoDate": "2026-11-11T13:20:22Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡の輸送リスクを受け、欧州天然ガス価格が反発",
-      "link": "https://jp.investing.com/news/commodities-news/article-1752299",
-      "published": "2026-11-11 09:40:44",
-      "isoDate": "2026-11-11T09:40:44Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NVIDIAに代わり上昇期待の「AIインフラ株」5選、半導体から電力関連まで",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1748072",
-      "published": "2026-11-13 01:55:14",
-      "isoDate": "2026-11-13T01:55:14Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEO退任でウォール街動揺、米株先物は回復",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1755780",
-      "published": "2026-11-13 00:09:52",
-      "isoDate": "2026-11-13T00:09:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEO退任に米情報機関が関与か、SemiAnalysisが推測",
+      "title": "NVIDIAフアン氏辞任は「仕組まれていた」?　対中強硬派の画策説が浮上",
       "link": "https://jp.investing.com/news/stock-market-news/article-1755762",
-      "published": "2026-11-12 23:48:41",
-      "isoDate": "2026-11-12T23:48:41Z"
+      "published": "2026-11-13 09:13:03",
+      "isoDate": "2026-11-13T09:13:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAはまだ終わっていない、アップルに学ぶ「カリスマに頼らない経営」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1755360",
+      "published": "2026-11-13 08:12:22",
+      "isoDate": "2026-11-13T08:12:22Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本人が知らない「米国の隠れた成長株」、AI選定後に株価2倍超の事例も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1747959",
+      "published": "2026-11-13 07:37:38",
+      "isoDate": "2026-11-13T07:37:38Z"
     },
     {
       "source": "Investing.com 外為",
@@ -104,10 +90,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "王は死んだ、エヌビディア万歳",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1755360",
-      "published": "2026-11-12 20:27:49",
-      "isoDate": "2026-11-12T20:27:49Z"
+      "title": "スペースXとテスラ、12月にも合併発表か　中国事業の「切り離し」が課題に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1755354",
+      "published": "2026-11-12 20:23:33",
+      "isoDate": "2026-11-12T20:23:33Z"
     },
     {
       "source": "Investing.com 外為",
@@ -115,6 +101,13 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1755274",
       "published": "2026-11-12 17:56:30",
       "isoDate": "2026-11-12T17:56:30Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAが暫定トップに起用のコレット・クレス氏、「在籍13年の女性CFO」の素顔",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1754981",
+      "published": "2026-11-12 15:08:31",
+      "isoDate": "2026-11-12T15:08:31Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +129,16 @@
       "link": "https://jp.investing.com/news/technology-news/article-1754640",
       "published": "2026-11-12 13:51:55",
       "isoDate": "2026-11-12T13:51:55Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア、CEO退任なら「株価30%急落」、米アナリストが警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1753664",
-      "published": "2026-11-12 04:14:52",
-      "isoDate": "2026-11-12T04:14:52Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場2社、AI株安のなかビットコイン採掘を中核事業と強調",
+      "link": "https://coinpost.jp/?p=747801",
+      "published": "Fri, 13 Nov 2026 13:05:39 +0900",
+      "isoDate": "2026-11-13T04:05:39Z"
+    },
     {
       "source": "CoinPost",
       "title": "コインベース、子供向けのお金の絵本を製作　米国購入者が50ドル相当のビットコインをもらえる特典も",
@@ -190,31 +183,10 @@
     },
     {
       "source": "CoinPost",
-      "title": "ビットコイン約12週間ぶりの安値に、7万1200ドルまで下落",
+      "title": "ビットコイン7万ドル割れ、6月以来の安値",
       "link": "https://coinpost.jp/?p=747702",
       "published": "Fri, 13 Nov 2026 05:55:03 +0900",
       "isoDate": "2026-11-12T20:55:03Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "Backpack日本法人がみんなの銀行と提携へ、円の入出金やトークン化預金の活用を検討",
-      "link": "https://coinpost.jp/?p=747690",
-      "published": "Thu, 12 Nov 2026 21:25:22 +0900",
-      "isoDate": "2026-11-12T12:25:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セレス、SBIホールディングスと資本業務提携",
-      "link": "https://coinpost.jp/?p=747683",
-      "published": "Thu, 12 Nov 2026 18:29:04 +0900",
-      "isoDate": "2026-11-12T09:29:04Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "採掘マシンメーカーのカナン、ETH全量と一部BTCを売却し自社株買い",
-      "link": "https://coinpost.jp/?p=747673",
-      "published": "Thu, 12 Nov 2026 17:56:29 +0900",
-      "isoDate": "2026-11-12T08:56:29Z"
     }
   ]
 }
