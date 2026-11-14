@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T13:59:56Z",
-  "last_checked": "2026-11-14T13:59:56Z",
+  "updated": "2026-11-14T19:03:08Z",
+  "last_checked": "2026-11-14T19:03:08Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,13 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "イタリア、AndroidユーザーのMetaに€8億500万の罰金",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757579",
+      "published": "2026-11-14 14:59:55",
+      "isoDate": "2026-11-14T14:59:55Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "ゴールドマン・サックス、2027年末の金価格予測を4,650ドルに引き下げ",
       "link": "https://jp.investing.com/news/commodities-news/article-1757565",
       "published": "2026-11-14 12:08:40",
@@ -87,13 +94,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1757375",
       "published": "2026-11-13 22:45:06",
       "isoDate": "2026-11-13T22:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIA次期トップの有力候補に英半導体アームCEOが浮上",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757178",
-      "published": "2026-11-13 17:07:56",
-      "isoDate": "2026-11-13T17:07:56Z"
     },
     {
       "source": "Investing.com 外為",
