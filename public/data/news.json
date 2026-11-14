@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14T00:14:46Z",
-  "last_checked": "2026-11-14T00:14:46Z",
+  "updated": "2026-11-14T06:54:28Z",
+  "last_checked": "2026-11-14T06:54:28Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -55,24 +55,31 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "国内株式市場見通し：エヌビディア決算やアンソロピックIPO受けてのAI関連株の動向が焦点に",
+      "link": "https://jp.investing.com/news/forex-news/article-1757495",
+      "published": "2026-11-14 05:45:04",
+      "isoDate": "2026-11-14T05:45:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株式市場見通し：エヌビディア決算、アンソロピックIPOなどAI関連の動向焦点",
+      "link": "https://jp.investing.com/news/forex-news/article-1757493",
+      "published": "2026-11-14 05:45:03",
+      "isoDate": "2026-11-14T05:45:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イーロン・マスク、ウクライナへのスターリンク制限で議会の監視下に",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757447",
+      "published": "2026-11-14 02:39:15",
+      "isoDate": "2026-11-14T02:39:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "NY株式：NYダウは50.46ドル高、利上げ警戒感やハイテクが重し",
       "link": "https://jp.investing.com/news/forex-news/article-1757375",
       "published": "2026-11-13 22:45:06",
       "isoDate": "2026-11-13T22:45:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NvidiaがCEO後任探しのサーチ会社選定を進める―Bloomberg",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1757270",
-      "published": "2026-11-13 20:24:02",
-      "isoDate": "2026-11-13T20:24:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ArmのCEOがNvidiaの後継者候補に浮上、株価が6.5%下落",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757178",
-      "published": "2026-11-13 17:07:56",
-      "isoDate": "2026-11-13T17:07:56Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,20 +118,55 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "スペースXとテスラ、12月にも合併発表か　中国事業の「切り離し」が課題に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1755354",
-      "published": "2026-11-12 20:23:33",
-      "isoDate": "2026-11-12T20:23:33Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIAが暫定トップに起用のコレット・クレス氏、「在籍13年の女性CFO」の素顔",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1754981",
-      "published": "2026-11-12 15:08:31",
-      "isoDate": "2026-11-12T15:08:31Z"
+      "title": "NVIDIAに代わり上昇期待の「AIインフラ株」5選、半導体から電力関連まで",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1748072",
+      "published": "2026-11-13 01:55:14",
+      "isoDate": "2026-11-13T01:55:14Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米上場ナカモト、ビットコイン評価益で黒字も調整後営業損益は赤字",
+      "link": "https://coinpost.jp/?p=747970",
+      "published": "Sat, 14 Nov 2026 13:45:37 +0900",
+      "isoDate": "2026-11-14T04:45:37Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「個人マイニング重視」ヘイズ氏主導のFLOP、テストネットとエアドロップを11月24日に開始へ",
+      "link": "https://coinpost.jp/?p=747951",
+      "published": "Sat, 14 Nov 2026 11:05:42 +0900",
+      "isoDate": "2026-11-14T02:05:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハイパーリキッド、USDC準備金利回り寄与で四半期収益増加　204万HYPEを買い戻し",
+      "link": "https://coinpost.jp/?p=747947",
+      "published": "Sat, 14 Nov 2026 10:55:28 +0900",
+      "isoDate": "2026-11-14T01:55:28Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アダム・バック、ビットコインが2028年までに100万ドル到達の可能性",
+      "link": "https://coinpost.jp/?p=747950",
+      "published": "Sat, 14 Nov 2026 10:10:38 +0900",
+      "isoDate": "2026-11-14T01:10:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ストラテジーCEO「MSCI指数連動の株式はわずか3％で除外の影響は限定的」",
+      "link": "https://coinpost.jp/?p=747940",
+      "published": "Sat, 14 Nov 2026 09:30:01 +0900",
+      "isoDate": "2026-11-14T00:30:01Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン7万ドル割れ、AI株安が波及しロング大量清算が下落を加速｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=747946",
+      "published": "Sat, 14 Nov 2026 09:15:32 +0900",
+      "isoDate": "2026-11-14T00:15:32Z"
+    },
     {
       "source": "CoinPost",
       "title": "コインベースCEO、AIエージェント型金融と米国での株式無期限先物に注力と表明",
@@ -152,20 +194,6 @@
       "link": "https://coinpost.jp/?p=747904",
       "published": "Fri, 13 Nov 2026 22:02:20 +0900",
       "isoDate": "2026-11-13T13:02:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場2社、AI株安のなかビットコイン採掘を中核事業と強調",
-      "link": "https://coinpost.jp/?p=747801",
-      "published": "Fri, 13 Nov 2026 13:05:39 +0900",
-      "isoDate": "2026-11-13T04:05:39Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、子供向けのお金の絵本を製作　米国購入者が50ドル相当のビットコインをもらえる特典も",
-      "link": "https://coinpost.jp/?p=747759",
-      "published": "Fri, 13 Nov 2026 10:40:53 +0900",
-      "isoDate": "2026-11-13T01:40:53Z"
     }
   ]
 }
