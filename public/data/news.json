@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T02:58:14Z",
-  "last_checked": "2026-11-15T02:58:14Z",
+  "updated": "2026-11-15T10:40:44Z",
+  "last_checked": "2026-11-15T10:40:44Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,27 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "NvidiaにCEO辞任後の格下げ相次ぐ、AI関連アナリスト動向5選",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757680",
+      "published": "2026-11-15 09:00:02",
+      "isoDate": "2026-11-15T09:00:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イランがバーレーンの米軍基地を再攻撃、ホルムズ海峡の危機深まる",
+      "link": "https://jp.investing.com/news/economy-news/article-1757656",
+      "published": "2026-11-15 06:29:31",
+      "isoDate": "2026-11-15T06:29:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ビットコイン、ETF資金流出と清算激化で6万ドルに接近",
+      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1757653",
+      "published": "2026-11-15 05:40:35",
+      "isoDate": "2026-11-15T05:40:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "アップルがパーソナルAIエージェント競争で優位に立つ理由をEvercoreが解説",
       "link": "https://jp.investing.com/news/stock-market-news/article-1757635",
       "published": "2026-11-15 01:38:04",
@@ -80,27 +101,6 @@
       "link": "https://jp.investing.com/news/forex-news/article-1757509",
       "published": "2026-11-14 06:45:03",
       "isoDate": "2026-11-14T06:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "国内株式市場見通し：エヌビディア決算やアンソロピックIPO受けてのAI関連株の動向が焦点に",
-      "link": "https://jp.investing.com/news/forex-news/article-1757495",
-      "published": "2026-11-14 05:45:04",
-      "isoDate": "2026-11-14T05:45:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "米国株式市場見通し：エヌビディア決算、アンソロピックIPOなどAI関連の動向焦点",
-      "link": "https://jp.investing.com/news/forex-news/article-1757493",
-      "published": "2026-11-14 05:45:03",
-      "isoDate": "2026-11-14T05:45:03Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "イーロン・マスク、ウクライナへのスターリンク制限で議会の監視下に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757447",
-      "published": "2026-11-14 02:39:15",
-      "isoDate": "2026-11-14T02:39:15Z"
     },
     {
       "source": "Investing.com 外為",
