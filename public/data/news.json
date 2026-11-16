@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-15T22:38:39Z",
-  "last_checked": "2026-11-15T22:38:39Z",
+  "updated": "2026-11-16T02:37:52Z",
+  "last_checked": "2026-11-16T02:37:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格が3,900ドルを割り込む、12月利上げ観測強まりウォーシュ発言に注目",
+      "link": "https://jp.investing.com/news/commodities-news/article-1757891",
+      "published": "2026-11-16 01:43:43",
+      "isoDate": "2026-11-16T01:43:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格下落、供給回復と中東緊張を注視",
+      "link": "https://jp.investing.com/news/commodities-news/article-1757818",
+      "published": "2026-11-15 23:45:33",
+      "isoDate": "2026-11-15T23:45:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "UBSはブレント原油が年末までに1バレル110ドルに達すると予測",
@@ -43,22 +57,36 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1757045",
       "published": "2026-11-13 14:54:26",
       "isoDate": "2026-11-13T14:54:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、週間12%急騰―米・イラン外交協議の崩壊で",
-      "link": "https://jp.investing.com/news/commodities-news/article-1756301",
-      "published": "2026-11-13 09:44:01",
-      "isoDate": "2026-11-13T09:44:01Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "UBSはブレント原油が年末までに1バレル110ドルに達すると予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1757794",
-      "published": "2026-11-15 22:06:00",
-      "isoDate": "2026-11-15T22:06:00Z"
+      "title": "米国株先物は小幅な動き、Nvidia決算発表を前に投資家が様子見",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757883",
+      "published": "2026-11-16 01:35:37",
+      "isoDate": "2026-11-16T01:35:37Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "「株式」ADR日本株ランキング～全般売り優勢、シカゴは大阪日中比85円安の61065円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757851",
+      "published": "2026-11-16 01:00:07",
+      "isoDate": "2026-11-16T01:00:07Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米ハイテク株安を映して利食い売り先行か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757807",
+      "published": "2026-11-15 23:30:02",
+      "isoDate": "2026-11-15T23:30:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIトークン価格は40%超下落、それでもアンソロピックは成長継続、ヤルデニが分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1757736",
+      "published": "2026-11-15 21:10:21",
+      "isoDate": "2026-11-15T21:10:21Z"
     },
     {
       "source": "Investing.com 外為",
@@ -90,31 +118,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント財務長官、Nvidia Corpに「抜本的」な経営刷新が必要と発言",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757756",
-      "published": "2026-11-15 15:39:58",
-      "isoDate": "2026-11-15T15:39:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NVIDIA株に弱気見通し拡大、アップルとSAPが代替投資先に浮上",
       "link": "https://jp.investing.com/news/stock-market-news/article-1757680",
       "published": "2026-11-15 09:00:02",
       "isoDate": "2026-11-15T09:00:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ビットコイン、週末の売りで7月以来の安値近辺となる6万5000ドル付近で推移",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1757653",
-      "published": "2026-11-15 05:40:35",
-      "isoDate": "2026-11-15T05:40:35Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXがスターシップ宇宙船のキャッチに成功、ブースター回収は失敗",
-      "link": "https://jp.investing.com/news/company-news/article-1757626",
-      "published": "2026-11-15 00:06:46",
-      "isoDate": "2026-11-15T00:06:46Z"
     },
     {
       "source": "Investing.com 外為",
@@ -125,6 +132,34 @@
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン一時1000万円割れ、清算連鎖とアンソロピックIPOへの資金シフト懸念も｜仮想NISHI",
+      "link": "https://coinpost.jp/?p=748038",
+      "published": "Mon, 16 Nov 2026 10:23:23 +0900",
+      "isoDate": "2026-11-16T01:23:23Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "CZ氏が考える仮想通貨下落の5要因　バイナンスによる売りは否定",
+      "link": "https://coinpost.jp/?p=748032",
+      "published": "Mon, 16 Nov 2026 09:50:52 +0900",
+      "isoDate": "2026-11-16T00:50:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "iPhoneのウォレット狙う攻撃ツール地下販売　スローミスト責任者が警告",
+      "link": "https://coinpost.jp/?p=748013",
+      "published": "Mon, 16 Nov 2026 08:10:52 +0900",
+      "isoDate": "2026-11-15T23:10:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アンソロピック上場前のビットコイン安、スペースX時と酷似　ストライブCEO",
+      "link": "https://coinpost.jp/?p=748007",
+      "published": "Mon, 16 Nov 2026 07:39:20 +0900",
+      "isoDate": "2026-11-15T22:39:20Z"
+    },
     {
       "source": "CoinPost",
       "title": "ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点｜bitbankアナリスト寄稿",
@@ -180,20 +215,6 @@
       "link": "https://coinpost.jp/?p=747946",
       "published": "Sat, 14 Nov 2026 09:15:32 +0900",
       "isoDate": "2026-11-14T00:15:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベースCEO、AIエージェント型金融と米国での株式無期限先物に注力と表明",
-      "link": "https://coinpost.jp/?p=747939",
-      "published": "Sat, 14 Nov 2026 09:05:57 +0900",
-      "isoDate": "2026-11-14T00:05:57Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米上場Twenty One Capital第3四半期決算、ビットコイン評価益で10億ドル超の黒字",
-      "link": "https://coinpost.jp/?p=747921",
-      "published": "Sat, 14 Nov 2026 08:02:07 +0900",
-      "isoDate": "2026-11-13T23:02:07Z"
     }
   ]
 }
