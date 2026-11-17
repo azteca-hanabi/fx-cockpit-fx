@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-16T20:51:49Z",
-  "last_checked": "2026-11-16T20:51:49Z",
+  "updated": "2026-11-17T03:32:27Z",
+  "last_checked": "2026-11-17T03:32:27Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金、14カ月ぶり低水準付近で推移―Fed利上げ観測と株安が圧迫",
+      "link": "https://jp.investing.com/news/commodities-news/article-1759820",
+      "published": "2026-11-17 01:39:06",
+      "isoDate": "2026-11-17T01:39:06Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、供給過剰懸念と強いドルで続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1759799",
+      "published": "2026-11-17 01:04:10",
+      "isoDate": "2026-11-17T01:04:10Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ウェスタン・カナダ・セレクト原油のWTIとの価格差、月曜日に拡大",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1759593",
+      "published": "2026-11-16 21:38:51",
+      "isoDate": "2026-11-16T21:38:51Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "北西欧州のディーゼルマージン、月曜日に5%超下落",
@@ -39,40 +60,61 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "ドル高とFED利上げ観測で金価格が1年超ぶりの安値に下落",
+      "title": "ドル高とFED利上げ観測でゴールドが1年超ぶり安値に",
       "link": "https://jp.investing.com/news/commodities-news/article-1757891",
       "published": "2026-11-16 01:43:43",
       "isoDate": "2026-11-16T01:43:43Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "供給改善がリスク上回り、原油価格が急落",
+      "title": "供給過剰懸念が中東緊張を上回り、原油価格が急落",
       "link": "https://jp.investing.com/news/commodities-news/article-1757818",
       "published": "2026-11-15 23:45:33",
       "isoDate": "2026-11-15T23:45:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSはブレント原油が年末までに1バレル110ドルに達すると予測",
-      "link": "https://jp.investing.com/news/commodities-news/article-1757794",
-      "published": "2026-11-15 22:06:00",
-      "isoDate": "2026-11-15T22:06:00Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ベネズエラ、2028年までにコロンビアへの追加ガス輸出を計画",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1757299",
-      "published": "2026-11-13 21:20:32",
-      "isoDate": "2026-11-13T21:20:32Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "Nvidia株が下落、黄仁勲CEO退任で決算前に先行き不透明感強まる",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1758621",
-      "published": "2026-11-16 12:30:07",
-      "isoDate": "2026-11-16T12:30:07Z"
+      "title": "急落時に買うべき「日本の商社株」は?　AIで100万円投資をシミュレーション",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1759030",
+      "published": "2026-11-16 22:36:59",
+      "isoDate": "2026-11-16T22:36:59Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "テスラ、独でサイバーキャブ年100万台生産へ、30億ユーロ追加投資",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1759336",
+      "published": "2026-11-16 21:58:28",
+      "isoDate": "2026-11-16T21:58:28Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "米中首脳会談は「進展なし」が最良のニュースか、米銀大手が分析",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1759133",
+      "published": "2026-11-16 21:26:35",
+      "isoDate": "2026-11-16T21:26:35Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2027年に向けて「買い」のテック株3銘柄、Spotifyなど米投資大手が選定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1759299",
+      "published": "2026-11-16 16:45:05",
+      "isoDate": "2026-11-16T16:45:05Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AMDら米半導体株が急落、NVIDIA決算前に利益確定売り",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1759210",
+      "published": "2026-11-16 15:36:56",
+      "isoDate": "2026-11-16T15:36:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "フアン氏のNVIDIAトップ復帰は「絶望的」、米調査会社が指摘",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1758548",
+      "published": "2026-11-16 12:11:29",
+      "isoDate": "2026-11-16T12:11:29Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,117 +139,54 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "ビットコイン6万5000ドル割れ、米民主党勝利で規制強化を警戒",
-      "link": "https://jp.investing.com/news/cryptocurrency-news/article-1758017",
-      "published": "2026-11-16 05:41:12",
-      "isoDate": "2026-11-16T05:41:12Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "日銀委員が早期利上げを主張、中東情勢によるインフレ加速を警戒",
       "link": "https://jp.investing.com/news/economy-news/article-1758003",
       "published": "2026-11-16 05:10:45",
       "isoDate": "2026-11-16T05:10:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIA問題で中国のAI大手株も急落、対中規制強化を警戒",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757981",
-      "published": "2026-11-16 04:39:01",
-      "isoDate": "2026-11-16T04:39:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIが選んだヘルスケア・小売株が急伸、「米国のニトリ」は2週間で24％高",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757904",
-      "published": "2026-11-16 02:01:41",
-      "isoDate": "2026-11-16T02:01:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "AIトークン価格は40%超下落、それでもアンソロピックは成長継続、ヤルデニが分析",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757736",
-      "published": "2026-11-15 21:10:21",
-      "isoDate": "2026-11-15T21:10:21Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディア「CEO復帰」をファン氏ら協議、英FT報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1757784",
-      "published": "2026-11-15 20:39:40",
-      "isoDate": "2026-11-15T20:39:40Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米ハーバード大、ビットコイン現物ETFの保有株数を据え置き、評価額は42.2％増",
+      "link": "https://coinpost.jp/?p=748195",
+      "published": "Tue, 17 Nov 2026 08:45:35 +0900",
+      "isoDate": "2026-11-16T23:45:35Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨を盗むマルウェア、CNNやBBCも被害か　少なくとも186サイトで確認",
+      "link": "https://coinpost.jp/?p=748196",
+      "published": "Tue, 17 Nov 2026 07:55:38 +0900",
+      "isoDate": "2026-11-16T22:55:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットワイズ強気予測「ソラナ価格は5年後に15倍上昇」　その条件は？",
+      "link": "https://coinpost.jp/?p=748197",
+      "published": "Tue, 17 Nov 2026 07:25:31 +0900",
+      "isoDate": "2026-11-16T22:25:31Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨ウォレット『トレザー』、配送パートナーの不正アクセスで2万件超の注文の個人情報が流出",
+      "link": "https://coinpost.jp/?p=748198",
+      "published": "Tue, 17 Nov 2026 06:45:42 +0900",
+      "isoDate": "2026-11-16T21:45:42Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "「ビットコイン、経済悪化なら2018年のように一段安も長期的には強気」ビットワイズ幹部",
+      "link": "https://coinpost.jp/?p=748199",
+      "published": "Tue, 17 Nov 2026 06:15:43 +0900",
+      "isoDate": "2026-11-16T21:15:43Z"
+    },
     {
       "source": "CoinPost",
       "title": "米ストラテジー、53億円相当ビットコインを買い増し　3週連続",
       "link": "https://coinpost.jp/?p=748183",
       "published": "Mon, 16 Nov 2026 22:20:44 +0900",
       "isoDate": "2026-11-16T13:20:44Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン新規クジラの含み損80億ドル　投げ売りは限定的＝アナリスト",
-      "link": "https://coinpost.jp/?p=748127",
-      "published": "Mon, 16 Nov 2026 15:00:41 +0900",
-      "isoDate": "2026-11-16T06:00:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "トム・リー氏が語る仮想通貨急落の5要因、長期の「スーパーサイクル」見通しは維持",
-      "link": "https://coinpost.jp/?p=748086",
-      "published": "Mon, 16 Nov 2026 13:39:53 +0900",
-      "isoDate": "2026-11-16T04:39:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン採掘マシン約6万4000台分の乗っ取り発生　報酬アドレス書き換え",
-      "link": "https://coinpost.jp/?p=748076",
-      "published": "Mon, 16 Nov 2026 11:50:14 +0900",
-      "isoDate": "2026-11-16T02:50:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン一時1000万円割れ、清算連鎖とアンソロピックIPOへの資金シフト懸念も｜仮想NISHI",
-      "link": "https://coinpost.jp/?p=748038",
-      "published": "Mon, 16 Nov 2026 10:23:23 +0900",
-      "isoDate": "2026-11-16T01:23:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "CZ氏が考える仮想通貨下落の5要因　バイナンスによる売りは否定",
-      "link": "https://coinpost.jp/?p=748032",
-      "published": "Mon, 16 Nov 2026 09:50:52 +0900",
-      "isoDate": "2026-11-16T00:50:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "iPhoneのウォレット狙う攻撃ツール地下販売　スローミスト責任者が警告",
-      "link": "https://coinpost.jp/?p=748013",
-      "published": "Mon, 16 Nov 2026 08:10:52 +0900",
-      "isoDate": "2026-11-15T23:10:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アンソロピック上場前のビットコイン安、スペースX時と酷似　ストライブCEO",
-      "link": "https://coinpost.jp/?p=748007",
-      "published": "Mon, 16 Nov 2026 07:39:20 +0900",
-      "isoDate": "2026-11-15T22:39:20Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=747846",
-      "published": "Sun, 15 Nov 2026 11:30:25 +0900",
-      "isoDate": "2026-11-15T02:30:25Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ",
-      "link": "https://coinpost.jp/?p=747789",
-      "published": "Sun, 15 Nov 2026 09:25:54 +0900",
-      "isoDate": "2026-11-15T00:25:54Z"
     }
   ]
 }
