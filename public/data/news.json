@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-19T10:39:45Z",
-  "last_checked": "2026-11-19T10:39:45Z",
+  "updated": "2026-11-19T19:25:13Z",
+  "last_checked": "2026-11-19T19:25:13Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "銅の売りは長期的な買い場を生み出すか――UBSが見解を示す",
+      "link": "https://jp.investing.com/news/commodities-news/article-1764754",
+      "published": "2026-11-19 15:10:33",
+      "isoDate": "2026-11-19T15:10:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "トランプ大統領がイラン攻撃を検討との報道を受け、原油価格が上昇",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金、14カ月ぶり安値から反発――バーゲンハンターが参入",
+      "title": "金価格、14ヶ月ぶり安値付近で推移――FRB利上げ観測が重荷に",
       "link": "https://jp.investing.com/news/commodities-news/article-1763567",
       "published": "2026-11-19 01:30:48",
       "isoDate": "2026-11-19T01:30:48Z"
@@ -64,22 +71,15 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1762450",
       "published": "2026-11-18 12:21:14",
       "isoDate": "2026-11-18T12:21:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州ガス価格が小幅下落、イランの攻撃激化が下げを抑制",
-      "link": "https://jp.investing.com/news/commodities-news/article-1762161",
-      "published": "2026-11-18 09:54:14",
-      "isoDate": "2026-11-18T09:54:14Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "AnthropicのIPOと米連邦準備制度議事録が市場を動かす",
-      "link": "https://jp.investing.com/news/economy-news/article-1763951",
-      "published": "2026-11-19 09:04:18",
-      "isoDate": "2026-11-19T09:04:18Z"
+      "title": "アンソロピック、$111.50で取引開始",
+      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1764729",
+      "published": "2026-11-19 15:04:02",
+      "isoDate": "2026-11-19T15:04:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -148,6 +148,27 @@
   "btc_items": [
     {
       "source": "CoinPost",
+      "title": "レジャー製ハードウォレット、東南アジア以外でも不正部品を確認",
+      "link": "https://coinpost.jp/?p=748792",
+      "published": "Thu, 19 Nov 2026 22:00:04 +0900",
+      "isoDate": "2026-11-19T13:00:04Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン裁定取引の利回り、27年は米国債超えへ　スイス仮想通貨銀行が予測",
+      "link": "https://coinpost.jp/?p=748752",
+      "published": "Thu, 19 Nov 2026 21:00:58 +0900",
+      "isoDate": "2026-11-19T12:00:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン先物建玉、週9700BTC減　成行売りの優勢続く",
+      "link": "https://coinpost.jp/?p=748759",
+      "published": "Thu, 19 Nov 2026 21:00:09 +0900",
+      "isoDate": "2026-11-19T12:00:09Z"
+    },
+    {
+      "source": "CoinPost",
       "title": "米シティ、ビットコインとイーサリアムの目標を約12％・約6％引き下げ",
       "link": "https://coinpost.jp/?p=748660",
       "published": "Thu, 19 Nov 2026 19:00:50 +0900",
@@ -201,34 +222,6 @@
       "link": "https://coinpost.jp/?p=748635",
       "published": "Thu, 19 Nov 2026 09:30:34 +0900",
       "isoDate": "2026-11-19T00:30:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "グーグル、AIが脆弱性発見から攻撃まで自動化と警告　仮想通貨企業も標的",
-      "link": "https://coinpost.jp/?p=748528",
-      "published": "Wed, 18 Nov 2026 17:30:22 +0900",
-      "isoDate": "2026-11-18T08:30:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "MARA、決算後も約1714BTC売却か＝オンチェーン分析",
-      "link": "https://coinpost.jp/?p=748597",
-      "published": "Wed, 18 Nov 2026 17:11:26 +0900",
-      "isoDate": "2026-11-18T08:11:26Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインが再び弱気局面に、バリューゾーン突入も底打ちは未確認＝クリプトクアント",
-      "link": "https://coinpost.jp/?p=748521",
-      "published": "Wed, 18 Nov 2026 17:00:27 +0900",
-      "isoDate": "2026-11-18T08:00:27Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "GMOコイン、マントル（MNT）を「国内初」取扱い　BNBも追加",
-      "link": "https://coinpost.jp/?p=748589",
-      "published": "Wed, 18 Nov 2026 16:45:22 +0900",
-      "isoDate": "2026-11-18T07:45:22Z"
     }
   ]
 }
