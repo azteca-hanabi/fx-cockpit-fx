@@ -1,10 +1,17 @@
 {
-  "updated": "2026-11-19T02:23:47Z",
-  "last_checked": "2026-11-19T02:23:47Z",
+  "updated": "2026-11-19T10:39:45Z",
+  "last_checked": "2026-11-19T10:39:45Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、14カ月ぶり安値から反発――バーゲンハンターが参入",
+      "title": "トランプ大統領がイラン攻撃を検討との報道を受け、原油価格が上昇",
+      "link": "https://jp.investing.com/news/commodities-news/article-1763618",
+      "published": "2026-11-19 02:33:26",
+      "isoDate": "2026-11-19T02:33:26Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金、14カ月ぶり安値から反発――バーゲンハンターが参入",
       "link": "https://jp.investing.com/news/commodities-news/article-1763567",
       "published": "2026-11-19 01:30:48",
       "isoDate": "2026-11-19T01:30:48Z"
@@ -64,36 +71,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1762161",
       "published": "2026-11-18 09:54:14",
       "isoDate": "2026-11-18T09:54:14Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格、中東緊張と米在庫増加を受けわずかに下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1761774",
-      "published": "2026-11-18 02:11:04",
-      "isoDate": "2026-11-18T02:11:04Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アンソロピックが時価総額150兆円規模のIPOを控え、ウォール街先物が上昇",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763571",
-      "published": "2026-11-19 01:37:29",
-      "isoDate": "2026-11-19T01:37:29Z"
+      "title": "AnthropicのIPOと米連邦準備制度議事録が市場を動かす",
+      "link": "https://jp.investing.com/news/economy-news/article-1763951",
+      "published": "2026-11-19 09:04:18",
+      "isoDate": "2026-11-19T09:04:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "金価格、14カ月ぶり安値から反発――バーゲンハンターが参入",
-      "link": "https://jp.investing.com/news/commodities-news/article-1763567",
-      "published": "2026-11-19 01:30:48",
-      "isoDate": "2026-11-19T01:30:48Z"
+      "title": "米国株「年内最後の買い場」到来？ AIが厳選「狙い目ハイテク5銘柄」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763742",
+      "published": "2026-11-19 06:08:39",
+      "isoDate": "2026-11-19T06:08:39Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "イビデン---大幅反落、前日の米国市場でエヌビディアは買い先行後に伸び悩み",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763561",
-      "published": "2026-11-19 01:30:12",
-      "isoDate": "2026-11-19T01:30:12Z"
+      "title": "台湾市場が4%急落、アンソロピックIPOを前にAI投資懸念拭えず",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763683",
+      "published": "2026-11-19 04:35:53",
+      "isoDate": "2026-11-19T04:35:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAの巨額AI投資計画に暗雲、約80兆円の資金調達が進まず＝WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763669",
+      "published": "2026-11-19 04:15:04",
+      "isoDate": "2026-11-19T04:15:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピックのIPOに「急落リスク」、評価額240兆円にAIが警鐘を鳴らす理由",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1762225",
+      "published": "2026-11-19 03:01:18",
+      "isoDate": "2026-11-19T03:01:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本のネオクラウド企業が株価急落、米中半導体規制で売上予想を89%下方修正",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763585",
+      "published": "2026-11-19 01:53:20",
+      "isoDate": "2026-11-19T01:53:20Z"
     },
     {
       "source": "Investing.com 外為",
@@ -111,41 +132,55 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "今買い時の米国株「割安ハイテク銘柄」5選、100万円の投資がいくらになる?",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1762101",
-      "published": "2026-11-18 09:07:09",
-      "isoDate": "2026-11-18T09:07:09Z"
+      "title": "アンソロピック、IPO価格を83ドルに決定、企業価値1.5兆ドルで史上最大級の上場へ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763239",
+      "published": "2026-11-18 20:55:30",
+      "isoDate": "2026-11-18T20:55:30Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "コカ・コーラ株が2027年の最有力銘柄に、米投資大手が選定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1761882",
-      "published": "2026-11-18 07:00:43",
-      "isoDate": "2026-11-18T07:00:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIA営業チーム、中国アリババにファン氏と交際の女性を紹介した疑い",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1761886",
-      "published": "2026-11-18 06:50:53",
-      "isoDate": "2026-11-18T06:50:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "プーチン、APECでロシア経済の強さアピール、「EUは競争力低下」",
-      "link": "https://jp.investing.com/news/economy-news/article-93CH-1761884",
-      "published": "2026-11-18 06:38:48",
-      "isoDate": "2026-11-18T06:38:48Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "半導体装置の有望株9銘柄に東京エレクトロンなど、米投資大手が選定",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1761872",
-      "published": "2026-11-18 05:09:43",
-      "isoDate": "2026-11-18T05:09:43Z"
+      "title": "NVIDIA、次期CEO候補にアームのレネ・ハース氏、就任を打診＝報道",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763182",
+      "published": "2026-11-18 19:10:27",
+      "isoDate": "2026-11-18T19:10:27Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米シティ、ビットコインとイーサリアムの目標を約12％・約6％引き下げ",
+      "link": "https://coinpost.jp/?p=748660",
+      "published": "Thu, 19 Nov 2026 19:00:50 +0900",
+      "isoDate": "2026-11-19T10:00:50Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グレースケール、ビットコインのリスク再評価を提言　変動率は約43％に低下",
+      "link": "https://coinpost.jp/?p=748693",
+      "published": "Thu, 19 Nov 2026 19:00:18 +0900",
+      "isoDate": "2026-11-19T10:00:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインの見かけ上の需要、年初来最低に　一時マイナス29万BTC",
+      "link": "https://coinpost.jp/?p=748738",
+      "published": "Thu, 19 Nov 2026 16:33:45 +0900",
+      "isoDate": "2026-11-19T07:33:45Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米NFA、Backpackの先物取次業を承認　米国デリバティブ市場参入の全資格取得",
+      "link": "https://coinpost.jp/?p=748678",
+      "published": "Thu, 19 Nov 2026 16:00:52 +0900",
+      "isoDate": "2026-11-19T07:00:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインシェアーズが26年3Qの決算発表、ETHとSOLの売却に再度言及",
+      "link": "https://coinpost.jp/?p=748632",
+      "published": "Thu, 19 Nov 2026 15:00:34 +0900",
+      "isoDate": "2026-11-19T06:00:34Z"
+    },
     {
       "source": "CoinPost",
       "title": "米金融大手、ETF経由のビットコイン保有拡大　ウェルズは顧客分で倍増",
@@ -194,27 +229,6 @@
       "link": "https://coinpost.jp/?p=748589",
       "published": "Wed, 18 Nov 2026 16:45:22 +0900",
       "isoDate": "2026-11-18T07:45:22Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨トレジャリー企業、大手25社中24社が保有資産割れ＝ブルームバーグ",
-      "link": "https://coinpost.jp/?p=748583",
-      "published": "Wed, 18 Nov 2026 15:58:12 +0900",
-      "isoDate": "2026-11-18T06:58:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "セイラー氏、銀行融資がビットコイン強気相場の鍵",
-      "link": "https://coinpost.jp/?p=748571",
-      "published": "Wed, 18 Nov 2026 15:30:15 +0900",
-      "isoDate": "2026-11-18T06:30:15Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ChatGPT会話画面で仮想通貨や株式取引可能に、米コインベースに新機能",
-      "link": "https://coinpost.jp/?p=748535",
-      "published": "Wed, 18 Nov 2026 14:00:17 +0900",
-      "isoDate": "2026-11-18T05:00:17Z"
     }
   ]
 }
