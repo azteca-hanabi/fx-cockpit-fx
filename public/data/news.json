@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-18T20:49:25Z",
-  "last_checked": "2026-11-18T20:49:25Z",
+  "updated": "2026-11-19T02:23:47Z",
+  "last_checked": "2026-11-19T02:23:47Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、14カ月ぶり安値から反発――バーゲンハンターが参入",
+      "link": "https://jp.investing.com/news/commodities-news/article-1763567",
+      "published": "2026-11-19 01:30:48",
+      "isoDate": "2026-11-19T01:30:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "CBOTトウモロコシ先物、ドル高を背景に4カ月半ぶりの安値に下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1763293",
+      "published": "2026-11-18 21:21:10",
+      "isoDate": "2026-11-18T21:21:10Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "植物油と原油安でキャノーラ油先物が下落",
@@ -57,36 +71,43 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1761774",
       "published": "2026-11-18 02:11:04",
       "isoDate": "2026-11-18T02:11:04Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金、FED議事録で12月の大幅利上げ観測強まり下落続く",
-      "link": "https://jp.investing.com/news/commodities-news/article-1761741",
-      "published": "2026-11-18 01:11:50",
-      "isoDate": "2026-11-18T01:11:50Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ユーロネクスト小麦、ウクライナのクリミア橋攻撃を受け小幅上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1761374",
-      "published": "2026-11-17 19:29:22",
-      "isoDate": "2026-11-17T19:29:22Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "NvidiaがArmのCEOレネ・ハースに後継者就任を打診か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763182",
-      "published": "2026-11-18 19:10:27",
-      "isoDate": "2026-11-18T19:10:27Z"
+      "title": "アンソロピックが時価総額150兆円規模のIPOを控え、ウォール街先物が上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763571",
+      "published": "2026-11-19 01:37:29",
+      "isoDate": "2026-11-19T01:37:29Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ファウンダーのファン・フアン氏、友好的手段または取締役会での権力闘争を経てエヌビディアCEOに復帰か",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1762979",
-      "published": "2026-11-18 15:23:17",
-      "isoDate": "2026-11-18T15:23:17Z"
+      "title": "金価格、14カ月ぶり安値から反発――バーゲンハンターが参入",
+      "link": "https://jp.investing.com/news/commodities-news/article-1763567",
+      "published": "2026-11-19 01:30:48",
+      "isoDate": "2026-11-19T01:30:48Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "イビデン---大幅反落、前日の米国市場でエヌビディアは買い先行後に伸び悩み",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763561",
+      "published": "2026-11-19 01:30:12",
+      "isoDate": "2026-11-19T01:30:12Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIA元トップ「解任」の舞台裏、取締役会が恐れた「捜査の拡大」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1763393",
+      "published": "2026-11-19 01:07:36",
+      "isoDate": "2026-11-19T01:07:36Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "トランプ大統領、イランへの大規模攻撃を検討、イスラエルが要請＝NYT報道",
+      "link": "https://jp.investing.com/news/economy-news/article-1763502",
+      "published": "2026-11-19 00:21:52",
+      "isoDate": "2026-11-19T00:21:52Z"
     },
     {
       "source": "Investing.com 外為",
@@ -122,30 +143,30 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1761872",
       "published": "2026-11-18 05:09:43",
       "isoDate": "2026-11-18T05:09:43Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIAに新疑惑、「元幹部の中国人脈」を著名空売り筋が指摘",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1761408",
-      "published": "2026-11-17 23:08:34",
-      "isoDate": "2026-11-17T23:08:34Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIA株、時間外で一時3%超高、第3四半期は売上高2倍で市場予想超え",
-      "link": "https://jp.investing.com/news/earnings/article-1761513",
-      "published": "2026-11-17 22:17:29",
-      "isoDate": "2026-11-17T22:17:29Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピックIPOに相次ぐ強気見通し、投資大手2社が最大42%の上昇予想",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1760643",
-      "published": "2026-11-17 15:06:05",
-      "isoDate": "2026-11-17T15:06:05Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米金融大手、ETF経由のビットコイン保有拡大　ウェルズは顧客分で倍増",
+      "link": "https://coinpost.jp/?p=748653",
+      "published": "Thu, 19 Nov 2026 11:00:08 +0900",
+      "isoDate": "2026-11-19T02:00:08Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バンガード指数ファンド、メタプラネット株1800万株保有　以前比15％増＝報道",
+      "link": "https://coinpost.jp/?p=748645",
+      "published": "Thu, 19 Nov 2026 10:00:11 +0900",
+      "isoDate": "2026-11-19T01:00:11Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "上場マイナーのビットコイン保有、1月以降ほぼ半減＝グラスノード",
+      "link": "https://coinpost.jp/?p=748635",
+      "published": "Thu, 19 Nov 2026 09:30:34 +0900",
+      "isoDate": "2026-11-19T00:30:34Z"
+    },
     {
       "source": "CoinPost",
       "title": "グーグル、AIが脆弱性発見から攻撃まで自動化と警告　仮想通貨企業も標的",
@@ -194,34 +215,6 @@
       "link": "https://coinpost.jp/?p=748535",
       "published": "Wed, 18 Nov 2026 14:00:17 +0900",
       "isoDate": "2026-11-18T05:00:17Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインの実現損失が降伏水準、鍵となる価格帯を分析＝グラスノード",
-      "link": "https://coinpost.jp/?p=748470",
-      "published": "Wed, 18 Nov 2026 10:30:11 +0900",
-      "isoDate": "2026-11-18T01:30:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "予測取引でビットコインを担保に、アンカレッジがカルシにサービス提供",
-      "link": "https://coinpost.jp/?p=748493",
-      "published": "Wed, 18 Nov 2026 10:15:24 +0900",
-      "isoDate": "2026-11-18T01:15:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン週間12％安、ビットワイズCIOは金利ショックを主因に",
-      "link": "https://coinpost.jp/?p=748474",
-      "published": "Wed, 18 Nov 2026 09:29:12 +0900",
-      "isoDate": "2026-11-18T00:29:12Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "メタプラネット傘下入り予定の米スーパーリーグ、8ビットコインを追加購入",
-      "link": "https://coinpost.jp/?p=748443",
-      "published": "Wed, 18 Nov 2026 07:50:56 +0900",
-      "isoDate": "2026-11-17T22:50:56Z"
     }
   ]
 }
