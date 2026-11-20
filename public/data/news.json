@@ -1,10 +1,24 @@
 {
-  "updated": "2026-11-20T08:58:54Z",
-  "last_checked": "2026-11-20T08:58:54Z",
+  "updated": "2026-11-20T17:42:42Z",
+  "last_checked": "2026-11-20T17:42:42Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、14カ月ぶり安値に下落―Fed利上げ観測で週間下落へ",
+      "title": "原油の売られ過ぎか？UBSが反発を予想する理由",
+      "link": "https://jp.investing.com/news/commodities-news/article-1765953",
+      "published": "2026-11-20 12:29:52",
+      "isoDate": "2026-11-20T12:29:52Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、中東情勢悪化で上昇も週間では下落へ",
+      "link": "https://jp.investing.com/news/commodities-news/article-1765670",
+      "published": "2026-11-20 08:50:28",
+      "isoDate": "2026-11-20T08:50:28Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、FRB利上げ観測強まる中で8カ月ぶり最大の週間下落へ",
       "link": "https://jp.investing.com/news/commodities-news/article-1765478",
       "published": "2026-11-20 04:32:03",
       "isoDate": "2026-11-20T04:32:03Z"
@@ -57,23 +71,23 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1763212",
       "published": "2026-11-18 20:08:33",
       "isoDate": "2026-11-18T20:08:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "フランス産小麦の輸出予測、FranceAgriMerが11%引き上げ",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1762946",
-      "published": "2026-11-18 15:08:26",
-      "isoDate": "2026-11-18T15:08:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金価格が上昇しない理由をUBSが解説",
-      "link": "https://jp.investing.com/news/commodities-news/article-1762870",
-      "published": "2026-11-18 14:32:28",
-      "isoDate": "2026-11-18T14:32:28Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "米国株は一段安の可能性、FRBの金融引き締めを米投資大手が警戒",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765632",
+      "published": "2026-11-20 07:49:11",
+      "isoDate": "2026-11-20T07:49:11Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日本人が知らない「米国の隠れた成長株」、AI選定後に株価2倍超の事例も",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1747959",
+      "published": "2026-11-20 07:14:06",
+      "isoDate": "2026-11-20T07:14:06Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "ソフトバンクG株15%急落、孫正義氏はアンソロピックへの投資見送りを後悔",
@@ -129,20 +143,6 @@
       "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1764458",
       "published": "2026-11-19 13:29:18",
       "isoDate": "2026-11-19T13:29:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピックのIPOに「急落リスク」、評価額240兆円にAIが警鐘を鳴らす理由",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1762225",
-      "published": "2026-11-19 03:01:18",
-      "isoDate": "2026-11-19T03:01:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本のネオクラウド企業が株価急落、米中半導体規制で売上予想を89%下方修正",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763585",
-      "published": "2026-11-19 01:53:20",
-      "isoDate": "2026-11-19T01:53:20Z"
     }
   ],
   "btc_items": [
