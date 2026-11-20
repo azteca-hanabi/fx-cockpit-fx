@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19T19:25:13Z",
-  "last_checked": "2026-11-19T19:25:13Z",
+  "updated": "2026-11-20T01:24:18Z",
+  "last_checked": "2026-11-20T01:24:18Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -18,7 +18,7 @@
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、14ヶ月ぶり安値付近で推移――FRB利上げ観測が重荷に",
+      "title": "現物金が14カ月超ぶりの安値、Fed利上げ観測とAI株安が圧迫",
       "link": "https://jp.investing.com/news/commodities-news/article-1763567",
       "published": "2026-11-19 01:30:48",
       "isoDate": "2026-11-19T01:30:48Z"
@@ -76,10 +76,38 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "アンソロピック、$111.50で取引開始",
-      "link": "https://jp.investing.com/news/stock-market-news/article-432SI-1764729",
-      "published": "2026-11-19 15:04:02",
-      "isoDate": "2026-11-19T15:04:02Z"
+      "title": "アップル、アプリを自動操作する「AIエージェント」開発、2027年末にも提供か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765213",
+      "published": "2026-11-19 22:42:56",
+      "isoDate": "2026-11-19T22:42:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "2027年の米国株「本命」はコカ・コーラ、米投資大手が目標株価引き上げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765013",
+      "published": "2026-11-19 22:10:47",
+      "isoDate": "2026-11-19T22:10:47Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピック株、IPO初日は17%高で終了、時価総額280兆円",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1764867",
+      "published": "2026-11-19 21:56:58",
+      "isoDate": "2026-11-19T21:56:58Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アンソロピックIPOに英国の個人投資家11万人殺到、480億円投じる",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1764436",
+      "published": "2026-11-19 21:40:34",
+      "isoDate": "2026-11-19T21:40:34Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIA株は2倍超に上昇か、米投資大手が目標株価293ドルに引き上げ",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-93CH-1764458",
+      "published": "2026-11-19 13:29:18",
+      "isoDate": "2026-11-19T13:29:18Z"
     },
     {
       "source": "Investing.com 外為",
@@ -87,13 +115,6 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1763742",
       "published": "2026-11-19 06:08:39",
       "isoDate": "2026-11-19T06:08:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "台湾市場が4%急落、アンソロピックIPOを前にAI投資懸念拭えず",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763683",
-      "published": "2026-11-19 04:35:53",
-      "isoDate": "2026-11-19T04:35:53Z"
     },
     {
       "source": "Investing.com 外為",
@@ -118,34 +139,27 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NVIDIA元トップ「解任」の舞台裏、取締役会が恐れた「捜査の拡大」",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763393",
-      "published": "2026-11-19 01:07:36",
-      "isoDate": "2026-11-19T01:07:36Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "トランプ大統領、イランへの大規模攻撃を検討、イスラエルが要請＝NYT報道",
       "link": "https://jp.investing.com/news/economy-news/article-1763502",
       "published": "2026-11-19 00:21:52",
       "isoDate": "2026-11-19T00:21:52Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピック、IPO価格を83ドルに決定、企業価値1.5兆ドルで史上最大級の上場へ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763239",
-      "published": "2026-11-18 20:55:30",
-      "isoDate": "2026-11-18T20:55:30Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIA、次期CEO候補にアームのレネ・ハース氏、就任を打診＝報道",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1763182",
-      "published": "2026-11-18 19:10:27",
-      "isoDate": "2026-11-18T19:10:27Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米SEC委員候補、株式トークン化の免除措置に懸念　規則整備を求める",
+      "link": "https://coinpost.jp/?p=748813",
+      "published": "Fri, 20 Nov 2026 08:05:13 +0900",
+      "isoDate": "2026-11-19T23:05:13Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "BITPOINT、12月23日にサービス終了　口座・資産はVCTRADEサービスへ移管",
+      "link": "https://coinpost.jp/?p=748815",
+      "published": "Fri, 20 Nov 2026 06:40:17 +0900",
+      "isoDate": "2026-11-19T21:40:17Z"
+    },
     {
       "source": "CoinPost",
       "title": "レジャー製ハードウォレット、東南アジア以外でも不正部品を確認",
@@ -187,41 +201,6 @@
       "link": "https://coinpost.jp/?p=748738",
       "published": "Thu, 19 Nov 2026 16:33:45 +0900",
       "isoDate": "2026-11-19T07:33:45Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米NFA、Backpackの先物取次業を承認　米国デリバティブ市場参入の全資格取得",
-      "link": "https://coinpost.jp/?p=748678",
-      "published": "Thu, 19 Nov 2026 16:00:52 +0900",
-      "isoDate": "2026-11-19T07:00:52Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインシェアーズが26年3Qの決算発表、ETHとSOLの売却に再度言及",
-      "link": "https://coinpost.jp/?p=748632",
-      "published": "Thu, 19 Nov 2026 15:00:34 +0900",
-      "isoDate": "2026-11-19T06:00:34Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米金融大手、ETF経由のビットコイン保有拡大　ウェルズは顧客分で倍増",
-      "link": "https://coinpost.jp/?p=748653",
-      "published": "Thu, 19 Nov 2026 11:00:08 +0900",
-      "isoDate": "2026-11-19T02:00:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "バンガード指数ファンド、メタプラネット株1800万株保有　以前比15％増＝報道",
-      "link": "https://coinpost.jp/?p=748645",
-      "published": "Thu, 19 Nov 2026 10:00:11 +0900",
-      "isoDate": "2026-11-19T01:00:11Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "上場マイナーのビットコイン保有、1月以降ほぼ半減＝グラスノード",
-      "link": "https://coinpost.jp/?p=748635",
-      "published": "Thu, 19 Nov 2026 09:30:34 +0900",
-      "isoDate": "2026-11-19T00:30:34Z"
     }
   ]
 }
