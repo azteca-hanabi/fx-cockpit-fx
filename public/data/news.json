@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-21T14:52:50Z",
-  "last_checked": "2026-11-21T14:52:50Z",
+  "updated": "2026-11-21T20:49:52Z",
+  "last_checked": "2026-11-21T20:49:52Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "UBSが利下げ期待回復前の金相場のさらなる下落を警告",
+      "link": "https://jp.investing.com/news/commodities-news/article-1766908",
+      "published": "2026-11-21 17:50:39",
+      "isoDate": "2026-11-21T17:50:39Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ICE キャノーラ油先物、金曜日に小幅下落——週間では横ばい",
@@ -57,13 +64,6 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1763567",
       "published": "2026-11-19 01:30:48",
       "isoDate": "2026-11-19T01:30:48Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CBOTトウモロコシ先物、ドル高を背景に4カ月半ぶりの安値に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1763293",
-      "published": "2026-11-18 21:21:10",
-      "isoDate": "2026-11-18T21:21:10Z"
     }
   ],
   "usdjpy_items": [
