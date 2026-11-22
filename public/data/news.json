@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T01:03:24Z",
-  "last_checked": "2026-11-22T01:03:24Z",
+  "updated": "2026-11-22T08:38:40Z",
+  "last_checked": "2026-11-22T08:38:40Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -50,23 +50,30 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1764754",
       "published": "2026-11-19 15:10:33",
       "isoDate": "2026-11-19T15:10:33Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "トランプ大統領がイラン攻撃を検討との報道を受け、原油価格が上昇",
-      "link": "https://jp.investing.com/news/commodities-news/article-1763618",
-      "published": "2026-11-19 02:33:26",
-      "isoDate": "2026-11-19T02:33:26Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "現物金が14カ月超ぶりの安値、Fed利上げ観測とAI株安が圧迫",
-      "link": "https://jp.investing.com/news/commodities-news/article-1763567",
-      "published": "2026-11-19 01:30:48",
-      "isoDate": "2026-11-19T01:30:48Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "イランがホルムズ海峡の支配を主張、バーレーンとサウジへの攻撃が激化",
+      "link": "https://jp.investing.com/news/economy-news/article-1766980",
+      "published": "2026-11-22 08:10:19",
+      "isoDate": "2026-11-22T08:10:19Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリストのAI関連主要動向5選：Nvidia格下げ、Anthropicは「世代を超えた企業」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1766979",
+      "published": "2026-11-22 07:52:13",
+      "isoDate": "2026-11-22T07:52:13Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "中国AI株、時価総額170兆円超が消失――テック株売りが加速",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1766946",
+      "published": "2026-11-22 01:09:28",
+      "isoDate": "2026-11-22T01:09:28Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "AIの真の勝者は誰か？インド株市場が示す新たな潮流",
@@ -115,30 +122,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1766164",
       "published": "2026-11-20 23:13:19",
       "isoDate": "2026-11-20T23:13:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "日本人が知らない「米国の隠れた成長株」、AI選定後に株価2倍超の事例も",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1747959",
-      "published": "2026-11-20 07:14:06",
-      "isoDate": "2026-11-20T07:14:06Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIAとマイクロソフト、AI分野で提携拡大、クラウドからWindows PCまで",
-      "link": "https://jp.investing.com/news/assorted/article-432SI-1765012",
-      "published": "2026-11-20 01:38:32",
-      "isoDate": "2026-11-20T01:38:32Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "インテル株急騰、最先端半導体「18A」で初の外部顧客獲得、マイクロソフトとも提携拡大",
-      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1764206",
-      "published": "2026-11-20 01:21:59",
-      "isoDate": "2026-11-20T01:21:59Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点｜bitbankアナリスト寄稿",
+      "link": "https://coinpost.jp/?p=748953",
+      "published": "Sun, 22 Nov 2026 11:30:08 +0900",
+      "isoDate": "2026-11-22T02:30:08Z"
+    },
     {
       "source": "CoinPost",
       "title": "週刊仮想通貨ニュース（11/20）｜BTCとSOL強気予測・ETH相場・ファンドのメタプラ株保有まとめ",
