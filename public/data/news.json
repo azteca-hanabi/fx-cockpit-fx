@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T16:58:35Z",
-  "last_checked": "2026-11-22T16:58:35Z",
+  "updated": "2026-11-22T22:23:56Z",
+  "last_checked": "2026-11-22T22:23:56Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
@@ -48,6 +48,41 @@
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
+      "title": "メモリ株の急落は買い場か？シティが見解を示す",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-1767047",
+      "published": "2026-11-22 21:38:56",
+      "isoDate": "2026-11-22T21:38:56Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "S&P 500はAIバブル崩壊にどれほど脆弱か",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767042",
+      "published": "2026-11-22 20:42:53",
+      "isoDate": "2026-11-22T20:42:53Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アナリスト、SpaceXが「競合他社より約10年先行」と説明",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-1767038",
+      "published": "2026-11-22 19:50:26",
+      "isoDate": "2026-11-22T19:50:26Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "ベッセント財務長官、トランプ政権はNvidiaからの回答を必要としていると表明",
+      "link": "https://jp.investing.com/news/company-news/article-1767035",
+      "published": "2026-11-22 18:48:04",
+      "isoDate": "2026-11-22T18:48:04Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "AIデータセンター事業がなくてもOracleの株価は30%超の上昇余地がある",
+      "link": "https://jp.investing.com/news/analyst-ratings/article-1767034",
+      "published": "2026-11-22 17:57:03",
+      "isoDate": "2026-11-22T17:57:03Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "米中間選挙は投資家にとって何を意味するのか",
       "link": "https://jp.investing.com/news/stock-market-news/article-1767028",
       "published": "2026-11-22 15:56:18",
@@ -69,13 +104,6 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロソフトはAI分野の「数少ない勝者」、モルガン・スタンレーが高評価",
-      "link": "https://jp.investing.com/news/pro/article-432SI-1766797",
-      "published": "2026-11-22 14:22:27",
-      "isoDate": "2026-11-22T14:22:27Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "NVIDIAは格下げ、Anthropicには強気　AI関連の有力投資判断5選",
       "link": "https://jp.investing.com/news/stock-market-news/article-1766979",
       "published": "2026-11-22 13:52:58",
@@ -83,38 +111,10 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "イランがホルムズ海峡の支配を主張、バーレーンとサウジへの攻撃が激化",
-      "link": "https://jp.investing.com/news/economy-news/article-1766980",
-      "published": "2026-11-22 08:10:19",
-      "isoDate": "2026-11-22T08:10:19Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "経済は地政学的リスクを引き続き上回るか",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1766973",
-      "published": "2026-11-22 06:57:01",
-      "isoDate": "2026-11-22T06:57:01Z"
-    },
-    {
-      "source": "Investing.com 外為",
       "title": "AIの真の勝者は誰か？インド株市場が示す新たな潮流",
       "link": "https://jp.investing.com/news/stock-market-news/article-1766914",
       "published": "2026-11-21 18:51:31",
       "isoDate": "2026-11-21T18:51:31Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "UBSが利下げ期待回復前の金相場のさらなる下落を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1766908",
-      "published": "2026-11-21 17:50:39",
-      "isoDate": "2026-11-21T17:50:39Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【更新】今買い時の米国株「割安ハイテク銘柄」5選、100万円の投資がいくらになる?",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1762101",
-      "published": "2026-11-21 03:53:53",
-      "isoDate": "2026-11-21T03:53:53Z"
     }
   ],
   "btc_items": [
