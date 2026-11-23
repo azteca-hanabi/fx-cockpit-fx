@@ -1,10 +1,38 @@
 {
-  "updated": "2026-11-23T02:59:23Z",
-  "last_checked": "2026-11-23T02:59:23Z",
+  "updated": "2026-11-23T12:14:05Z",
+  "last_checked": "2026-11-23T12:14:05Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "湾岸からの輸出回復とイラン緊張が交錯、原油価格が下落",
+      "title": "金価格3,500ドルの攻防：売り圧力の背後にあるもの",
+      "link": "https://jp.investing.com/news/commodities-news/article-1767498",
+      "published": "2026-11-23 11:55:27",
+      "isoDate": "2026-11-23T11:55:27Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "欧州天然ガス、湾岸紛争激化で1週間超ぶり高値に急騰",
+      "link": "https://jp.investing.com/news/commodities-news/article-1767306",
+      "published": "2026-11-23 09:40:13",
+      "isoDate": "2026-11-23T09:40:13Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "LME銅先物、テック株売りが深まる中で一時1トン1万2,000ドルを下回る",
+      "link": "https://jp.investing.com/news/commodities-news/article-1767094",
+      "published": "2026-11-23 03:40:24",
+      "isoDate": "2026-11-23T03:40:24Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、押し目買いとFED利上げ期待後退で反発",
+      "link": "https://jp.investing.com/news/commodities-news/article-1767089",
+      "published": "2026-11-23 03:15:54",
+      "isoDate": "2026-11-23T03:15:54Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "供給回復とイランの緊張再燃を受け、原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1767064",
       "published": "2026-11-23 01:17:34",
       "isoDate": "2026-11-23T01:17:34Z"
@@ -29,78 +57,71 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1765953",
       "published": "2026-11-20 12:29:52",
       "isoDate": "2026-11-20T12:29:52Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス、中東情勢悪化で上昇も週間では下落へ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1765670",
-      "published": "2026-11-20 08:50:28",
-      "isoDate": "2026-11-20T08:50:28Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "現物金は8カ月ぶり最大の週間下落、金先物はコロナ禍以来最悪の週に",
-      "link": "https://jp.investing.com/news/commodities-news/article-1765478",
-      "published": "2026-11-20 04:32:03",
-      "isoDate": "2026-11-20T04:32:03Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "東京為替：ドル・円は158円80銭台で小動き、方向感に乏しい展開",
-      "link": "https://jp.investing.com/news/forex-news/article-1767075",
-      "published": "2026-11-23 02:30:03",
-      "isoDate": "2026-11-23T02:30:03Z"
+      "title": "市場急落と原油安が2018年型のFedピボットを強制か：BCA",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767471",
+      "published": "2026-11-23 11:46:25",
+      "isoDate": "2026-11-23T11:46:25Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "主要株価指数が調整局面入り後、米株先物が急反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1767066",
-      "published": "2026-11-23 01:31:47",
-      "isoDate": "2026-11-23T01:31:47Z"
+      "title": "アンソロピック株、金曜日の急落後に時間外取引で4%超反発",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767444",
+      "published": "2026-11-23 11:34:15",
+      "isoDate": "2026-11-23T11:34:15Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "湾岸からの輸出回復とイラン緊張が交錯、原油価格が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1767064",
-      "published": "2026-11-23 01:17:34",
-      "isoDate": "2026-11-23T01:17:34Z"
+      "title": "米半導体・ネオクラウド株、先週の急落から反発しプレマーケットで上昇",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767313",
+      "published": "2026-11-23 09:51:33",
+      "isoDate": "2026-11-23T09:51:33Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "AIメモリ株は「売られすぎ」、米投資銀行大手が「買いの好機」を示唆",
-      "link": "https://jp.investing.com/news/analyst-ratings/article-1767047",
-      "published": "2026-11-22 21:38:56",
-      "isoDate": "2026-11-22T21:38:56Z"
+      "title": "AI売りの後に先物反発、ベッセント財務長官がNvidiaを調査へ",
+      "link": "https://jp.investing.com/news/economy-news/article-1767253",
+      "published": "2026-11-23 08:45:00",
+      "isoDate": "2026-11-23T08:45:00Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "S&P500の時価総額の半分がAI関連、下落リスクを英調査会社が警告",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1767042",
-      "published": "2026-11-22 20:42:53",
-      "isoDate": "2026-11-22T20:42:53Z"
+      "title": "米国株見通し：伸び悩みか、買い一巡後は様子見も",
+      "link": "https://jp.investing.com/news/forex-news/article-1767113",
+      "published": "2026-11-23 05:00:02",
+      "isoDate": "2026-11-23T05:00:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "ベッセント財務長官、トランプ政権はNvidiaからの回答を必要としていると表明",
-      "link": "https://jp.investing.com/news/company-news/article-1767035",
-      "published": "2026-11-22 18:48:04",
-      "isoDate": "2026-11-22T18:48:04Z"
+      "title": "トランプ大統領、NvidiaにジェンセンCEOの復職を求める",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767101",
+      "published": "2026-11-23 03:57:59",
+      "isoDate": "2026-11-23T03:57:59Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アジア諸国、AI株急落を受けて株式市場支援策を発表",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1767026",
-      "published": "2026-11-22 15:12:43",
-      "isoDate": "2026-11-22T15:12:43Z"
+      "title": "投資のプロが注目の割安株、AIが厳選した「ヘルスケア・小売」の有望銘柄",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765965",
+      "published": "2026-11-23 01:47:45",
+      "isoDate": "2026-11-23T01:47:45Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "マイクロソフトはAI分野の「数少ない勝者」、モルガン・スタンレーが高評価",
-      "link": "https://jp.investing.com/news/pro/article-432SI-1766797",
-      "published": "2026-11-22 14:22:27",
-      "isoDate": "2026-11-22T14:22:27Z"
+      "title": "ハイテク株急落で注目の「好業績株」、中国トリップ・ドットコムに54％の上昇余地",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765817",
+      "published": "2026-11-23 00:57:45",
+      "isoDate": "2026-11-23T00:57:45Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "SpaceXの「宇宙AI計画」に融資元が難色、NVIDIA半導体の担保回収を懸念",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1765420",
+      "published": "2026-11-22 14:09:00",
+      "isoDate": "2026-11-22T14:09:00Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,16 +129,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1766979",
       "published": "2026-11-22 13:52:58",
       "isoDate": "2026-11-22T13:52:58Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【更新】今買い時の米国株「割安ハイテク銘柄」5選、100万円の投資がいくらになる?",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1762101",
-      "published": "2026-11-21 03:53:53",
-      "isoDate": "2026-11-21T03:53:53Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "仮想通貨弱気相場でDAT各社が大幅含み損、ストラテジーは5.6兆円の準備金を強調",
+      "link": "https://coinpost.jp/?p=749094",
+      "published": "Mon, 23 Nov 2026 21:00:40 +0900",
+      "isoDate": "2026-11-23T12:00:40Z"
+    },
     {
       "source": "CoinPost",
       "title": "東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道",
