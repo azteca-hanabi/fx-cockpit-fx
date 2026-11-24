@@ -1,7 +1,28 @@
 {
-  "updated": "2026-11-24T00:13:11Z",
-  "last_checked": "2026-11-24T00:13:11Z",
+  "updated": "2026-11-24T10:17:32Z",
+  "last_checked": "2026-11-24T10:17:32Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "世界の粗鋼生産量、2026年10月に1.1%減少",
+      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1768854",
+      "published": "2026-11-24 09:45:18",
+      "isoDate": "2026-11-24T09:45:18Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "金価格、急反発後に反落―FRBの利上げ観測が上値を抑制",
+      "link": "https://jp.investing.com/news/commodities-news/article-1768496",
+      "published": "2026-11-24 01:43:30",
+      "isoDate": "2026-11-24T01:43:30Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "供給過剰懸念で急落後、原油価格が安定",
+      "link": "https://jp.investing.com/news/commodities-news/article-1768425",
+      "published": "2026-11-23 23:54:33",
+      "isoDate": "2026-11-23T23:54:33Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "ドイツ銀行、原油供給過剰の再来を予測―ブレント原油先物は70ドル以下へ",
@@ -43,50 +64,50 @@
       "link": "https://jp.investing.com/news/commodities-news/article-1767089",
       "published": "2026-11-23 03:15:54",
       "isoDate": "2026-11-23T03:15:54Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "原油価格が続落、ブレント原油は約13週ぶり安値・WTIは80ドル割れ",
-      "link": "https://jp.investing.com/news/commodities-news/article-1767064",
-      "published": "2026-11-23 01:17:34",
-      "isoDate": "2026-11-23T01:17:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "UBSが利下げ期待回復前の金相場のさらなる下落を警告",
-      "link": "https://jp.investing.com/news/commodities-news/article-1766908",
-      "published": "2026-11-21 17:50:39",
-      "isoDate": "2026-11-21T17:50:39Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米エヌビディア株の急騰を背景に買い戻しの動きが優勢に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768414",
-      "published": "2026-11-23 23:30:05",
-      "isoDate": "2026-11-23T23:30:05Z"
+      "title": "AIラリー爆発：AI選定の5銘柄、最大+52%の上昇余地",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1768846",
+      "published": "2026-11-24 09:29:02",
+      "isoDate": "2026-11-24T09:29:02Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "23日のNY市場は大幅反発",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768410",
-      "published": "2026-11-23 23:15:05",
-      "isoDate": "2026-11-23T23:15:05Z"
+      "title": "2027年の有望株にコカ・コーラなど生活必需品9銘柄、米投資大手が選定",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1768531",
+      "published": "2026-11-24 06:20:28",
+      "isoDate": "2026-11-24T06:20:28Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "アドバンスト・マイクロ・デバイセズ、OpenAIとMetaのワラントに関連する最大3億3700万株を登録",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768390",
-      "published": "2026-11-23 22:52:24",
-      "isoDate": "2026-11-23T22:52:24Z"
+      "title": "スペースX株に「買い」推奨、AI事業の爆発的成長を投資大手が予測",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1767739",
+      "published": "2026-11-24 06:12:18",
+      "isoDate": "2026-11-24T06:12:18Z"
     },
     {
       "source": "Investing.com 外為",
-      "title": "スペースXの「AI事業」、競合アンソロピックが月31億ドル支払う主要顧客に",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768112",
-      "published": "2026-11-23 22:08:19",
-      "isoDate": "2026-11-23T22:08:19Z"
+      "title": "トランプ大統領、NVIDIA株急騰で最大23億円の含み益の可能性、CEO復帰にも関与＝FT",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1768604",
+      "published": "2026-11-24 06:05:41",
+      "isoDate": "2026-11-24T06:05:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "エヌビディアCEO復帰で急反発のハイテク株、AIが推す「今こそ買い」の銘柄は？",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1768028",
+      "published": "2026-11-24 02:53:51",
+      "isoDate": "2026-11-24T02:53:51Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "アルファベット株が6%急騰、NVIDIAのファン氏復帰と米投資大手の強気評価で",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1768189",
+      "published": "2026-11-23 23:21:05",
+      "isoDate": "2026-11-23T23:21:05Z"
     },
     {
       "source": "Investing.com 外為",
@@ -97,7 +118,7 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "NVIDIAフアンCEO、米上院で証言へ、復帰に反発のウォーレン議員らと対峙",
+      "title": "NVIDIAフアンCEO、復帰に反発の民主党大物議員らと対峙、3日の上院で",
       "link": "https://jp.investing.com/news/stock-market-news/article-1768168",
       "published": "2026-11-23 21:30:24",
       "isoDate": "2026-11-23T21:30:24Z"
@@ -111,27 +132,48 @@
     },
     {
       "source": "Investing.com 外為",
-      "title": "投資のプロが注目の割安株、AIが厳選した「ヘルスケア・小売」の有望銘柄",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1765965",
-      "published": "2026-11-23 01:47:45",
-      "isoDate": "2026-11-23T01:47:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "ハイテク株急落で注目の「好業績株」、中国トリップ・ドットコムに54％の上昇余地",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1765817",
-      "published": "2026-11-23 00:57:45",
-      "isoDate": "2026-11-23T00:57:45Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "SpaceXの「宇宙AI計画」に融資元が難色、NVIDIA半導体の担保回収を懸念",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1765420",
-      "published": "2026-11-22 14:09:00",
-      "isoDate": "2026-11-22T14:09:00Z"
+      "title": "アマゾン株が急騰、AI新興買収と米投資大手の強気評価が追い風",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1768110",
+      "published": "2026-11-23 16:30:42",
+      "isoDate": "2026-11-23T16:30:42Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "スタンフォード大学研究者、ビットコインブリッジにも応用できる実用的な暗号を発表",
+      "link": "https://coinpost.jp/?p=749260",
+      "published": "Tue, 24 Nov 2026 17:00:44 +0900",
+      "isoDate": "2026-11-24T08:00:44Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "アーサー・ヘイズ「エヌビディア株高は仮想通貨に悪材料」、FRBの資金供給に米株安が必要",
+      "link": "https://coinpost.jp/?p=749210",
+      "published": "Tue, 24 Nov 2026 16:30:39 +0900",
+      "isoDate": "2026-11-24T07:30:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "トランプコイン上位保有者の晩餐会を開催、価格は最高値から99%下落",
+      "link": "https://coinpost.jp/?p=749256",
+      "published": "Tue, 24 Nov 2026 13:45:32 +0900",
+      "isoDate": "2026-11-24T04:45:32Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "BTC・ETH・ステーブルコインを一部企業の運営費に算入可、米CFTCスタッフが見解",
+      "link": "https://coinpost.jp/?p=749215",
+      "published": "Tue, 24 Nov 2026 13:00:14 +0900",
+      "isoDate": "2026-11-24T04:00:14Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ハッキング被害のバイナンス、外部3社にセキュリティ手順の独立レビューを依頼",
+      "link": "https://coinpost.jp/?p=749162",
+      "published": "Tue, 24 Nov 2026 09:20:07 +0900",
+      "isoDate": "2026-11-24T00:20:07Z"
+    },
     {
       "source": "CoinPost",
       "title": "フアン氏復帰にトランプ大統領が関与、エヌビディアの時価総額増加額は米国株で過去最大",
@@ -148,14 +190,14 @@
     },
     {
       "source": "CoinPost",
-      "title": "ビットマインのトム・リー会長「イーサリアムとビットコインは供給増加率がほぼ同じ」と指摘",
+      "title": "トム・リー「イーサリアムはビットコインと同じハードマネー」と評価",
       "link": "https://coinpost.jp/?p=749136",
       "published": "Tue, 24 Nov 2026 06:10:55 +0900",
       "isoDate": "2026-11-23T21:10:55Z"
     },
     {
       "source": "CoinPost",
-      "title": "エヌビディアCEO復帰、株価33％近く上昇しビットコインも一時6.4万ドル超",
+      "title": "エヌビディアCEO復帰、株価33％近く高騰　ビットコインも一時6.4万ドル超",
       "link": "https://coinpost.jp/?p=749137",
       "published": "Tue, 24 Nov 2026 05:50:58 +0900",
       "isoDate": "2026-11-23T20:50:58Z"
@@ -166,48 +208,6 @@
       "link": "https://coinpost.jp/?p=749116",
       "published": "Mon, 23 Nov 2026 22:04:18 +0900",
       "isoDate": "2026-11-23T13:04:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アメリカンビットコイン、ビットコインを売らず担保で238億円の融資枠を確保",
-      "link": "https://coinpost.jp/?p=749115",
-      "published": "Mon, 23 Nov 2026 21:55:14 +0900",
-      "isoDate": "2026-11-23T12:55:14Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "仮想通貨弱気相場でDAT各社が大幅含み損、ストラテジーは5.6兆円の準備金を強調",
-      "link": "https://coinpost.jp/?p=749094",
-      "published": "Mon, 23 Nov 2026 21:00:40 +0900",
-      "isoDate": "2026-11-23T12:00:40Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道",
-      "link": "https://coinpost.jp/?p=749085",
-      "published": "Mon, 23 Nov 2026 09:34:46 +0900",
-      "isoDate": "2026-11-23T00:34:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点｜bitbankアナリスト寄稿",
-      "link": "https://coinpost.jp/?p=748953",
-      "published": "Sun, 22 Nov 2026 11:30:08 +0900",
-      "isoDate": "2026-11-22T02:30:08Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "週刊仮想通貨ニュース（11/20）｜BTCとSOL強気予測・ETH相場・ファンドのメタプラ株保有まとめ",
-      "link": "https://coinpost.jp/?p=748859",
-      "published": "Sun, 22 Nov 2026 09:25:36 +0900",
-      "isoDate": "2026-11-22T00:25:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
-      "link": "https://coinpost.jp/?p=749050",
-      "published": "Sat, 21 Nov 2026 21:00:24 +0900",
-      "isoDate": "2026-11-21T12:00:24Z"
     }
   ]
 }
