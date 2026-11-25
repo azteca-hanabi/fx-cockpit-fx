@@ -1,17 +1,24 @@
 {
-  "updated": "2026-11-25T04:00:37Z",
-  "last_checked": "2026-11-25T04:00:37Z",
+  "updated": "2026-11-25T14:49:16Z",
+  "last_checked": "2026-11-25T14:49:16Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "ホルムズ海峡で攻撃激化するも原油価格が反落、供給過剰への懸念で",
+      "title": "欧州天然ガス価格、気温上昇予測を受けて下落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1770722",
+      "published": "2026-11-25 12:04:36",
+      "isoDate": "2026-11-25T12:04:36Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "原油価格、供給過剰懸念とホルムズ海峡緊張で続落",
       "link": "https://jp.investing.com/news/commodities-news/article-1770064",
       "published": "2026-11-25 02:58:23",
       "isoDate": "2026-11-25T02:58:23Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金、15カ月ぶり安値圏で推移―PCEインフレ指標に注目",
+      "title": "金価格、15カ月ぶり安値圏で推移――PCEインフレ指標に注目",
       "link": "https://jp.investing.com/news/commodities-news/article-1770130",
       "published": "2026-11-25 02:58:14",
       "isoDate": "2026-11-25T02:58:14Z"
@@ -64,36 +71,64 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1767823",
       "published": "2026-11-23 13:20:35",
       "isoDate": "2026-11-23T13:20:35Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "金を再び買い始めるべき時期はいつか：BCA",
-      "link": "https://jp.investing.com/news/commodities-news/article-1767753",
-      "published": "2026-11-23 12:58:35",
-      "isoDate": "2026-11-23T12:58:35Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "テック株売りと米関税報道でTSX先物が急落",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1770756",
+      "published": "2026-11-25 13:24:09",
+      "isoDate": "2026-11-25T13:24:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "Nvidia・半導体株が時間外取引で下落、デルは強気見通しにも関わらず下げ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1770685",
+      "published": "2026-11-25 12:46:30",
+      "isoDate": "2026-11-25T12:46:30Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "【Black Fridayセールで60%オフ】激動の米ハイテク株で勝利する「AI投資戦略」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1768846",
+      "published": "2026-11-25 09:32:09",
+      "isoDate": "2026-11-25T09:32:09Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "12月が買い場の米国株1位にグーグル、AIが選ぶ「押し目買い」候補5選",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1770248",
+      "published": "2026-11-25 06:24:02",
+      "isoDate": "2026-11-25T06:24:02Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "サムスン電子株が9%急落、NVIDIA株の反落で韓国半導体株に売り殺到",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1770190",
+      "published": "2026-11-25 04:48:31",
+      "isoDate": "2026-11-25T04:48:31Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "スターバックスが日本事業の売却を検討、4800億円規模",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1770157",
+      "published": "2026-11-25 03:37:18",
+      "isoDate": "2026-11-25T03:37:18Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "原油価格、供給過剰懸念とホルムズ海峡緊張で続落",
+      "link": "https://jp.investing.com/news/commodities-news/article-1770064",
+      "published": "2026-11-25 02:58:23",
+      "isoDate": "2026-11-25T02:58:23Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "トランプ大統領、NVIDIAに政府出資を示唆　フアンCEOに恩赦の可能性",
       "link": "https://jp.investing.com/news/stock-market-news/article-1770094",
       "published": "2026-11-25 02:50:47",
       "isoDate": "2026-11-25T02:50:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "NVIDIAのフアン氏、CEO復帰で「二度目のチャンス」　真の試練はこれから",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1769411",
-      "published": "2026-11-24 23:44:50",
-      "isoDate": "2026-11-24T23:44:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "年末商戦控えウォルマートら米小売株が急騰　AI株からの資金シフトも追い風",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1769688",
-      "published": "2026-11-24 22:55:11",
-      "isoDate": "2026-11-24T22:55:11Z"
     },
     {
       "source": "Investing.com 外為",
@@ -108,44 +143,79 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1769518",
       "published": "2026-11-24 14:23:04",
       "isoDate": "2026-11-24T14:23:04Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "アンソロピック株に「魅力的な参入機会」、米投資大手が買い推奨",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1769445",
-      "published": "2026-11-24 13:31:47",
-      "isoDate": "2026-11-24T13:31:47Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "激動の米ハイテク株で勝利する「AI投資戦略」、今なら55％オフで提供中",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768846",
-      "published": "2026-11-24 11:03:53",
-      "isoDate": "2026-11-24T11:03:53Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "CEO電撃復帰で31％急騰のNVIDIA株、今から買うと「危険すぎる」？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768741",
-      "published": "2026-11-24 08:15:50",
-      "isoDate": "2026-11-24T08:15:50Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、NVIDIA株急騰で最大23億円の含み益の可能性、CEO復帰にも関与＝FT",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768604",
-      "published": "2026-11-24 06:05:41",
-      "isoDate": "2026-11-24T06:05:41Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "エヌビディアCEO復帰で急反発のハイテク株、AIが推す「今こそ買い」の銘柄は？",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768028",
-      "published": "2026-11-24 02:53:51",
-      "isoDate": "2026-11-24T02:53:51Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "チェコ中銀のビットコイン試験保有から1年　保有量・評価額は非開示",
+      "link": "https://coinpost.jp/?p=749480",
+      "published": "Wed, 25 Nov 2026 22:00:59 +0900",
+      "isoDate": "2026-11-25T13:00:59Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "月5億人超のThreads、キャッシュタグ導入　仮想通貨と米国株の価格表示",
+      "link": "https://coinpost.jp/?p=749476",
+      "published": "Wed, 25 Nov 2026 21:30:17 +0900",
+      "isoDate": "2026-11-25T12:30:17Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインETF、保有機関2200超　投資アドバイザーが主体",
+      "link": "https://coinpost.jp/?p=749469",
+      "published": "Wed, 25 Nov 2026 21:00:52 +0900",
+      "isoDate": "2026-11-25T12:00:52Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "Z世代の仮想通貨保有率2割以上、一般層への普及の壁は「金融サービスの分断」＝米SoFi調査",
+      "link": "https://coinpost.jp/?p=749460",
+      "published": "Wed, 25 Nov 2026 20:30:38 +0900",
+      "isoDate": "2026-11-25T11:30:38Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコインETF流出、前週の2.4倍に　過去1年で最大＝アナリスト",
+      "link": "https://coinpost.jp/?p=749505",
+      "published": "Wed, 25 Nov 2026 17:30:58 +0900",
+      "isoDate": "2026-11-25T08:30:58Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ビットコイン日次新規アドレス数が約5万件増、相場軟調でも＝サンティメント",
+      "link": "https://coinpost.jp/?p=749487",
+      "published": "Wed, 25 Nov 2026 17:00:49 +0900",
+      "isoDate": "2026-11-25T08:00:49Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ナスダック上場ネクスト・テクノロジー、500ビットコイン売却　AI開発へ",
+      "link": "https://coinpost.jp/?p=749473",
+      "published": "Wed, 25 Nov 2026 16:30:36 +0900",
+      "isoDate": "2026-11-25T07:30:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "フィデリティ、AAVE・LINK・UNIの取扱い開始　対応8銘柄に",
+      "link": "https://coinpost.jp/?p=749441",
+      "published": "Wed, 25 Nov 2026 16:00:46 +0900",
+      "isoDate": "2026-11-25T07:00:46Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "コインベース、北朝鮮の仮想通貨窃取対策で米国務省と会合共催",
+      "link": "https://coinpost.jp/?p=749422",
+      "published": "Wed, 25 Nov 2026 15:30:16 +0900",
+      "isoDate": "2026-11-25T06:30:16Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "なぜ167億円相当のビットコインが不正流出したのか？　ハードウォレット「コールドカード」が原因報告",
+      "link": "https://coinpost.jp/?p=749430",
+      "published": "Wed, 25 Nov 2026 15:15:23 +0900",
+      "isoDate": "2026-11-25T06:15:23Z"
+    },
     {
       "source": "CoinPost",
       "title": "米マイニング大手クリーンスパーク、ビットコイン評価益で4Q黒字　売上46％減",
@@ -166,76 +236,6 @@
       "link": "https://coinpost.jp/?p=749380",
       "published": "Wed, 25 Nov 2026 09:10:46 +0900",
       "isoDate": "2026-11-25T00:10:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "オンド、ビットコイン保有4位ストライブの株式をトークン化",
-      "link": "https://coinpost.jp/?p=749347",
-      "published": "Wed, 25 Nov 2026 08:30:32 +0900",
-      "isoDate": "2026-11-24T23:30:32Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "9年ぶりに仮想通貨のICO調達解禁へ、韓国金融委が容認方針",
-      "link": "https://coinpost.jp/?p=749372",
-      "published": "Wed, 25 Nov 2026 08:00:24 +0900",
-      "isoDate": "2026-11-24T23:00:24Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "「ビットコインでも最大4％還元」クラーケン親会社、米国でクレジットカード2種発行へ",
-      "link": "https://coinpost.jp/?p=749349",
-      "published": "Wed, 25 Nov 2026 07:05:36 +0900",
-      "isoDate": "2026-11-24T22:05:36Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "東証上場WIZE、5000万円でソラナを追加購入",
-      "link": "https://coinpost.jp/?p=749350",
-      "published": "Wed, 25 Nov 2026 06:50:38 +0900",
-      "isoDate": "2026-11-24T21:50:38Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコインのハッシュレートが前年比8％減、2021年の中国採掘禁止以来初の下落",
-      "link": "https://coinpost.jp/?p=749351",
-      "published": "Wed, 25 Nov 2026 06:35:41 +0900",
-      "isoDate": "2026-11-24T21:35:41Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "アンセムにハッキング被害か、ソラナミームコインANSEM価格が55％暴落",
-      "link": "https://coinpost.jp/?p=749358",
-      "published": "Wed, 25 Nov 2026 06:10:19 +0900",
-      "isoDate": "2026-11-24T21:10:19Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン反落、エヌビディア高騰で上げた上昇幅を帳消し",
-      "link": "https://coinpost.jp/?p=749346",
-      "published": "Wed, 25 Nov 2026 05:50:53 +0900",
-      "isoDate": "2026-11-24T20:50:53Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ナスダック上場のBTCS、イーサリアム保有の半分超を売却　アーベ強制清算を回避",
-      "link": "https://coinpost.jp/?p=749335",
-      "published": "Tue, 24 Nov 2026 21:25:10 +0900",
-      "isoDate": "2026-11-24T12:25:10Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "SBI北尾会長、仮想通貨の分離課税・ETF前倒しを提言",
-      "link": "https://coinpost.jp/?p=749332",
-      "published": "Tue, 24 Nov 2026 19:26:02 +0900",
-      "isoDate": "2026-11-24T10:26:02Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スタンフォード大学研究者、ビットコインブリッジにも応用できる実用的な暗号を発表",
-      "link": "https://coinpost.jp/?p=749260",
-      "published": "Tue, 24 Nov 2026 17:00:44 +0900",
-      "isoDate": "2026-11-24T08:00:44Z"
     }
   ]
 }
