@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-25T23:30:04Z",
-  "last_checked": "2026-11-25T23:30:04Z",
+  "updated": "2026-11-26T05:23:21Z",
+  "last_checked": "2026-11-26T05:23:21Z",
   "gold_items": [
+    {
+      "source": "Investing.com 商品先物",
+      "title": "米インフレデータがFRBの利上げ観測を強め、金相場は軟調",
+      "link": "https://jp.investing.com/news/commodities-news/article-1771452",
+      "published": "2026-11-26 03:20:43",
+      "isoDate": "2026-11-26T03:20:43Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ホルムズ海峡への攻撃が湾岸原油輸送の回復を脅かす中、原油価格は小幅な動き",
+      "link": "https://jp.investing.com/news/commodities-news/article-1771440",
+      "published": "2026-11-26 02:47:18",
+      "isoDate": "2026-11-26T02:47:18Z"
+    },
     {
       "source": "Investing.com 商品先物",
       "title": "EIAが米国原油在庫が110万バレル増加し4億1890万バレルと発表",
@@ -57,23 +71,16 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1769831",
       "published": "2026-11-24 20:59:21",
       "isoDate": "2026-11-24T20:59:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "大豆先物、ミール需要で上昇－小麦は作柄データで下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1769735",
-      "published": "2026-11-24 17:31:21",
-      "isoDate": "2026-11-24T17:31:21Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドル高でシカゴ小麦先物が下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1769273",
-      "published": "2026-11-24 12:53:46",
-      "isoDate": "2026-11-24T12:53:46Z"
     }
   ],
   "usdjpy_items": [
+    {
+      "source": "Investing.com 外為",
+      "title": "「さらなる株価急落に備えよ」、S&P500の乱高下を的中させた専門家が警告",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1770589",
+      "published": "2026-11-25 23:42:56",
+      "isoDate": "2026-11-25T23:42:56Z"
+    },
     {
       "source": "Investing.com 外為",
       "title": "マスク創業のニューラリンク、「脳埋め込みチップ」実用化へ前進　FDAが臨床試験を承認",
@@ -97,24 +104,31 @@
     },
     {
       "source": "Investing.com 外為",
+      "title": "スペースX、米国の子どもに自社株を無償提供　「トランプ口座」経由で寄贈",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1771148",
+      "published": "2026-11-25 19:32:40",
+      "isoDate": "2026-11-25T19:32:40Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "今が買い時？ 米証券大手が選ぶ「割安なバイオテク5社」",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1771114",
+      "published": "2026-11-25 17:46:41",
+      "isoDate": "2026-11-25T17:46:41Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "NVIDIAフアンCEOの不倫相手、中国のスパイ活動示す証拠なし　米情報当局＝WSJ",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1771054",
+      "published": "2026-11-25 16:01:15",
+      "isoDate": "2026-11-25T16:01:15Z"
+    },
+    {
+      "source": "Investing.com 外為",
       "title": "インテル株が一時6%急落、次世代半導体「18A」の製造上の問題とPC需要低迷が重荷に",
       "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1770993",
       "published": "2026-11-25 15:04:02",
       "isoDate": "2026-11-25T15:04:02Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "【Black Fridayセールで60%オフ】激動の米ハイテク株で勝利する「AI投資戦略」",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1768846",
-      "published": "2026-11-25 09:32:09",
-      "isoDate": "2026-11-25T09:32:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "12月が買い場の米国株1位にグーグル、AIが選ぶ「押し目買い」候補5選",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1770248",
-      "published": "2026-11-25 06:24:02",
-      "isoDate": "2026-11-25T06:24:02Z"
     },
     {
       "source": "Investing.com 外為",
@@ -129,23 +143,58 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1770157",
       "published": "2026-11-25 03:37:18",
       "isoDate": "2026-11-25T03:37:18Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "原油価格が上昇、ブレント原油が1週間以上ぶりに1バレル90ドル超で終値",
-      "link": "https://jp.investing.com/news/commodities-news/article-1770064",
-      "published": "2026-11-25 02:58:23",
-      "isoDate": "2026-11-25T02:58:23Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "トランプ大統領、NVIDIAに政府出資を示唆　フアンCEOに恩赦の可能性",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1770094",
-      "published": "2026-11-25 02:50:47",
-      "isoDate": "2026-11-25T02:50:47Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "1Password、一部ユーザー情報流出　保管庫は影響なしと説明",
+      "link": "https://coinpost.jp/?p=749571",
+      "published": "Thu, 26 Nov 2026 12:00:10 +0900",
+      "isoDate": "2026-11-26T03:00:10Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "バイナンス、トレカのガチャ機能をウォレットに導入　レナイスに対応",
+      "link": "https://coinpost.jp/?p=749551",
+      "published": "Thu, 26 Nov 2026 11:30:39 +0900",
+      "isoDate": "2026-11-26T02:30:39Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "bitFlyer、MEXCとの送受取を停止へ　米FinCEN命令受け",
+      "link": "https://coinpost.jp/?p=749559",
+      "published": "Thu, 26 Nov 2026 10:54:18 +0900",
+      "isoDate": "2026-11-26T01:54:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ギャラクシー、ビットコイン底打ち判断を撤回　6月安値割れを警戒",
+      "link": "https://coinpost.jp/?p=749550",
+      "published": "Thu, 26 Nov 2026 10:30:36 +0900",
+      "isoDate": "2026-11-26T01:30:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "ブレインズ、1000拠点以上でビットコイン採掘の乗っ取りを報告",
+      "link": "https://coinpost.jp/?p=749541",
+      "published": "Thu, 26 Nov 2026 10:15:36 +0900",
+      "isoDate": "2026-11-26T01:15:36Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "グーグルのAI論文、RSAやビットコインの暗号に影響なし＝専門家",
+      "link": "https://coinpost.jp/?p=749545",
+      "published": "Thu, 26 Nov 2026 09:46:18 +0900",
+      "isoDate": "2026-11-26T00:46:18Z"
+    },
+    {
+      "source": "CoinPost",
+      "title": "米上場ビット・デジタル、約3万ETH売却で債務を一部返済　イーサリアム戦略は継続",
+      "link": "https://coinpost.jp/?p=749534",
+      "published": "Thu, 26 Nov 2026 09:00:30 +0900",
+      "isoDate": "2026-11-26T00:00:30Z"
+    },
     {
       "source": "CoinPost",
       "title": "チェコ中銀のビットコイン試験保有から1年　保有量・評価額は非開示",
@@ -201,41 +250,6 @@
       "link": "https://coinpost.jp/?p=749441",
       "published": "Wed, 25 Nov 2026 16:00:46 +0900",
       "isoDate": "2026-11-25T07:00:46Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "コインベース、北朝鮮の仮想通貨窃取対策で米国務省と会合共催",
-      "link": "https://coinpost.jp/?p=749422",
-      "published": "Wed, 25 Nov 2026 15:30:16 +0900",
-      "isoDate": "2026-11-25T06:30:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "なぜ167億円相当のビットコインが不正流出したのか？　ハードウォレット「コールドカード」が原因報告",
-      "link": "https://coinpost.jp/?p=749430",
-      "published": "Wed, 25 Nov 2026 15:15:23 +0900",
-      "isoDate": "2026-11-25T06:15:23Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "米マイニング大手クリーンスパーク、ビットコイン評価益で4Q黒字　売上46％減",
-      "link": "https://coinpost.jp/?p=749409",
-      "published": "Wed, 25 Nov 2026 10:15:21 +0900",
-      "isoDate": "2026-11-25T01:15:21Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ビットコイン、実現損失がFTX破綻以来の水準に",
-      "link": "https://coinpost.jp/?p=749397",
-      "published": "Wed, 25 Nov 2026 09:40:56 +0900",
-      "isoDate": "2026-11-25T00:40:56Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "大統領長男の投資会社と関係する4社にメス、米議員がポリマーケットなどに資料開示を要求",
-      "link": "https://coinpost.jp/?p=749380",
-      "published": "Wed, 25 Nov 2026 09:10:46 +0900",
-      "isoDate": "2026-11-25T00:10:46Z"
     }
   ]
 }
