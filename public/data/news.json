@@ -1,17 +1,45 @@
 {
-  "updated": "2026-11-27T08:57:52Z",
-  "last_checked": "2026-11-27T08:57:52Z",
+  "updated": "2026-11-27T18:49:30Z",
+  "last_checked": "2026-11-27T18:49:30Z",
   "gold_items": [
     {
       "source": "Investing.com 商品先物",
-      "title": "原油価格上昇、WTIが約3%急騰―湾岸攻撃が供給回復を脅かす",
+      "title": "銀は売られすぎか？UBSが急落後の買い場と判断",
+      "link": "https://jp.investing.com/news/commodities-news/article-1772272",
+      "published": "2026-11-27 14:34:17",
+      "isoDate": "2026-11-27T14:34:17Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "バーンスタイン、2027年に向けた金の強気シナリオを提示",
+      "link": "https://jp.investing.com/news/commodities-news/article-1772245",
+      "published": "2026-11-27 13:56:16",
+      "isoDate": "2026-11-27T13:56:16Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "2027年の原油価格予測：バンク・オブ・アメリカが見るブレント原油の行方",
+      "link": "https://jp.investing.com/news/commodities-news/article-1772187",
+      "published": "2026-11-27 12:17:00",
+      "isoDate": "2026-11-27T12:17:00Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "ヨーロッパ天然ガス価格、週間下落へ－原油は中東攻撃で上昇と乖離",
+      "link": "https://jp.investing.com/news/commodities-news/article-1772169",
+      "published": "2026-11-27 11:56:48",
+      "isoDate": "2026-11-27T11:56:48Z"
+    },
+    {
+      "source": "Investing.com 商品先物",
+      "title": "中東攻撃とペルシャ湾の供給回復が交錯し、原油価格が下落",
       "link": "https://jp.investing.com/news/commodities-news/article-1771854",
       "published": "2026-11-27 02:10:15",
       "isoDate": "2026-11-27T02:10:15Z"
     },
     {
       "source": "Investing.com 商品先物",
-      "title": "金価格、1年超ぶり安値から1.8%反発――バーゲンハンターが買い戻し",
+      "title": "金価格、今週の15カ月ぶり安値から3%超反発",
       "link": "https://jp.investing.com/news/commodities-news/article-1771823",
       "published": "2026-11-27 01:27:52",
       "isoDate": "2026-11-27T01:27:52Z"
@@ -43,43 +71,22 @@
       "link": "https://jp.investing.com/news/commodities-news/article-93CH-1771063",
       "published": "2026-11-25 16:11:11",
       "isoDate": "2026-11-25T16:11:11Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "インド準備銀行、9月末の国内金保有量を740トンに増加",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1770981",
-      "published": "2026-11-25 14:54:34",
-      "isoDate": "2026-11-25T14:54:34Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "CBOTの大豆先物、約4週間ぶり高値に達した後に下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1770886",
-      "published": "2026-11-25 14:31:18",
-      "isoDate": "2026-11-25T14:31:18Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "ドル高が重荷、CBOT小麦先物は小幅安で推移",
-      "link": "https://jp.investing.com/news/commodities-news/article-93CH-1770885",
-      "published": "2026-11-25 14:30:25",
-      "isoDate": "2026-11-25T14:30:25Z"
-    },
-    {
-      "source": "Investing.com 商品先物",
-      "title": "欧州天然ガス価格、気温上昇予測を受けて下落",
-      "link": "https://jp.investing.com/news/commodities-news/article-1770722",
-      "published": "2026-11-25 12:04:36",
-      "isoDate": "2026-11-25T12:04:36Z"
     }
   ],
   "usdjpy_items": [
     {
       "source": "Investing.com 外為",
-      "title": "米株先物、韓国株高を映してAI関連株中心に買い戻される【クロージング】",
-      "link": "https://jp.investing.com/news/forex-news/article-1772025",
-      "published": "2026-11-27 08:00:15",
-      "isoDate": "2026-11-27T08:00:15Z"
+      "title": "NvidiaのBlackwellチップ、Alice Huangに関連する上海データセンターで発見",
+      "link": "https://jp.investing.com/news/stock-market-news/article-1772179",
+      "published": "2026-11-27 12:10:08",
+      "isoDate": "2026-11-27T12:10:08Z"
+    },
+    {
+      "source": "Investing.com 外為",
+      "title": "日経平均株価のAI調整、底値に近づきつつある可能性＝ゴールドマン・サックス",
+      "link": "https://jp.investing.com/news/stock-market-news/article-93CH-1772118",
+      "published": "2026-11-27 10:19:40",
+      "isoDate": "2026-11-27T10:19:40Z"
     },
     {
       "source": "Investing.com 外為",
@@ -136,16 +143,16 @@
       "link": "https://jp.investing.com/news/stock-market-news/article-1771690",
       "published": "2026-11-26 13:06:09",
       "isoDate": "2026-11-26T13:06:09Z"
-    },
-    {
-      "source": "Investing.com 外為",
-      "title": "月額1200円未満で「最強の投資戦略」を入手、InvestingProが今なら60％オフ",
-      "link": "https://jp.investing.com/news/stock-market-news/article-1771610",
-      "published": "2026-11-26 08:46:33",
-      "isoDate": "2026-11-26T08:46:33Z"
     }
   ],
   "btc_items": [
+    {
+      "source": "CoinPost",
+      "title": "米FRB発言が緩和寄りに転じなければ週末に仮想通貨売りの可能性＝アーサー・ヘイズ予測",
+      "link": "https://coinpost.jp/?p=749684",
+      "published": "Fri, 27 Nov 2026 21:00:29 +0900",
+      "isoDate": "2026-11-27T12:00:29Z"
+    },
     {
       "source": "CoinPost",
       "title": "メタプラネット傘下入り予定のスーパーリーグ、8ビットコインを追加購入",
@@ -208,20 +215,6 @@
       "link": "https://coinpost.jp/?p=749659",
       "published": "Fri, 27 Nov 2026 06:20:16 +0900",
       "isoDate": "2026-11-26T21:20:16Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "ストラテジー企業価値が保有ビットコイン比で過去最低、投げ売りの局面か＝JPモルガン",
-      "link": "https://coinpost.jp/?p=749660",
-      "published": "Fri, 27 Nov 2026 06:00:18 +0900",
-      "isoDate": "2026-11-26T21:00:18Z"
-    },
-    {
-      "source": "CoinPost",
-      "title": "スイス初のビットコイン現物ETFが上場、運用資産350BTC（33億円相当）",
-      "link": "https://coinpost.jp/?p=749648",
-      "published": "Thu, 26 Nov 2026 23:00:32 +0900",
-      "isoDate": "2026-11-26T14:00:32Z"
     }
   ]
 }
